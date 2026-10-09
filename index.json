@@ -33,6 +33,36 @@
        "title": "Ratios, Proportions and Percent"
       }
      ]
+    },
+    {
+     "id": "g9-ch2",
+     "title": "Linear Equations and Functions",
+     "lessons": [
+      {
+       "id": "g9-ch2-l1",
+       "title": "The Coordinate Plane and Graphing Points"
+      },
+      {
+       "id": "g9-ch2-l2",
+       "title": "Slope and Rate of Change"
+      },
+      {
+       "id": "g9-ch2-l3",
+       "title": "Slope-Intercept Form"
+      },
+      {
+       "id": "g9-ch2-l4",
+       "title": "Point-Slope Form and Standard Form"
+      },
+      {
+       "id": "g9-ch2-l5",
+       "title": "Parallel and Perpendicular Lines"
+      },
+      {
+       "id": "g9-ch2-l6",
+       "title": "Functions and Function Notation"
+      }
+     ]
     }
    ]
   }

@@ -1,0 +1,51 @@
+#EEEMMHMMEEEMMMHHHEEMMMHHHEEMMMMHHHEEMMMHHHEEEMMMHH
+In which quadrant is the point (-3, 4)?|Quadrant I|Quadrant II|Quadrant III|Quadrant IV|1|A negative x-value means left of the y-axis and a positive y-value means above the x-axis. That region is Quadrant II.
+What are the coordinates of the origin?|(0, 0)|(1, 1)|(0, 1)|(1, 0)|0|The origin is where the x-axis and y-axis cross, so both coordinates are 0.
+Which point lies on the y-axis?|(5, 0)|(5, 5)|(-5, 5)|(0, 5)|3|Every point on the y-axis has an x-coordinate of 0.
+What is the reflection of (2, -3) across the x-axis?|(-2, -3)|(-2, 3)|(2, 3)|(3, -2)|2|Reflecting across the x-axis keeps x and changes the sign of y, so (2, -3) becomes (2, 3).
+Which point is in Quadrant IV?|(-4, 2)|(4, -2)|(-4, -2)|(4, 2)|1|Quadrant IV has a positive x-value and a negative y-value.
+What is the distance between the points (1, 2) and (4, 6)?|5|7|25|10|0|The horizontal change is 3 and the vertical change is 4. The distance is the square root of 3^2 + 4^2 = the square root of 25 = 5.
+Which ordered pair is a solution of y = 2x + 1?|(3, 6)|(2, 6)|(1, 4)|(3, 7)|3|Substitute x = 3: y = 2(3) + 1 = 7. So (3, 7) makes the equation true.
+For y = 3x - 2, what is y when x = 4?|14|6|10|12|2|Substitute: y = 3(4) - 2 = 12 - 2 = 10.
+What is the slope of the line through (0, 0) and (2, 4)?|1/2|2|4|6|1|Slope = (4 - 0) / (2 - 0) = 4 / 2 = 2.
+What is the slope of a horizontal line?|0|1|Undefined|-1|0|A horizontal line has no vertical change, so the rise is 0 and the slope is 0.
+What is the slope of a vertical line?|0|1|-1|Undefined|3|A vertical line has no horizontal change, so the run is 0. Dividing by 0 is undefined.
+What is the slope of the line through (1, 3) and (3, 11)?|1/4|7|4|2|2|Slope = (11 - 3) / (3 - 1) = 8 / 2 = 4.
+What is the slope of the line through (2, 5) and (6, 1)?|1|-1|-4|4|1|Slope = (1 - 5) / (6 - 2) = -4 / 4 = -1. The line goes down from left to right.
+A line rises 3 units for every 6 units it moves to the right. What is its slope?|1/2|2|3|6|0|Slope = rise / run = 3 / 6 = 1/2.
+Which line is the steepest?|Slope 2|Slope 1/2|Slope 4|Slope -5|3|Steepness depends on the absolute value of the slope. The absolute value of -5 is 5, which is the largest, so the line with slope -5 is steepest.
+What is the slope of the line through (-2, 3) and (4, -9)?|2|-1/2|-2|1/2|2|Slope = (-9 - 3) / (4 - (-2)) = -12 / 6 = -2.
+The line through (2, k) and (5, 12) has slope 3. What is k?|21|3|6|9|1|Write (12 - k) / (5 - 2) = 3. Then 12 - k = 9, so k = 3.
+In the equation y = mx + b, what does b represent?|The y-intercept|The slope|The x-intercept|The origin|0|In slope-intercept form, m is the slope and b is the y-intercept, where the line crosses the y-axis.
+What are the slope and y-intercept of y = 2x + 5?|Slope 5, y-intercept 2|Slope -2, y-intercept 5|Slope 2, y-intercept -5|Slope 2, y-intercept 5|3|In y = mx + b, m = 2 is the slope and b = 5 is the y-intercept.
+Which equation has slope 3 and y-intercept -4?|y = -4x + 3|y = 3x + 4|y = 3x - 4|y = x - 12|2|Use y = mx + b with m = 3 and b = -4.
+What are the slope and y-intercept of 2x + y = 7?|Slope 2, y-intercept 7|Slope -2, y-intercept 7|Slope -2, y-intercept -7|Slope 7, y-intercept 2|1|Solve for y: y = -2x + 7. The slope is -2 and the y-intercept is 7.
+Which equation describes the line through (0, 1) and (2, 7)?|y = 3x + 1|y = 3x + 7|y = 2x + 1|y = x/3 + 1|0|Slope = (7 - 1) / (2 - 0) = 3, and the point (0, 1) gives b = 1. So y = 3x + 1.
+Which equation describes the line with slope 2 that passes through (1, 5)?|y = 2x + 5|y = 2x - 3|y = 5x + 2|y = 2x + 3|3|Substitute into y = 2x + b: 5 = 2(1) + b, so b = 3. The equation is y = 2x + 3.
+What is the x-intercept of y = 2x - 6?|-6|6|3|-3|2|Set y = 0: 0 = 2x - 6, so 2x = 6 and x = 3.
+A gym charges $20 to join plus $15 per month. Which equation gives the total cost C after m months?|C = 20m + 15|C = 15m + 20|C = 35m|C = 15m - 20|1|The monthly rate 15 is the slope and the one-time fee 20 is the starting amount (y-intercept).
+Which of these is the standard form of a linear equation?|Ax + By = C|y = mx + b|y - y1 = m(x - x1)|y = ax^2 + bx + c|0|Standard form is Ax + By = C. The others are slope-intercept form, point-slope form and a quadratic.
+Which equation is written in slope-intercept form?|2x + y = 4|y - 1 = 2(x - 3)|x = 4|y = -x + 4|3|Slope-intercept form is y = mx + b, with y alone on one side.
+Which is the point-slope form of the line with slope 4 through (2, 3)?|y + 3 = 4(x + 2)|y - 2 = 4(x - 3)|y - 3 = 4(x - 2)|y = 4x + 3|2|Point-slope form is y - y1 = m(x - x1). With m = 4 and (x1, y1) = (2, 3) you get y - 3 = 4(x - 2).
+Write y = 2x + 3 in standard form.|2x + y = 3|2x - y = -3|x - 2y = 3|2x - y = 3|1|Subtract y and 3 from both sides: 2x - y = -3. The other choices describe different lines.
+What is the x-intercept of 3x + 4y = 12?|4|3|12|-4|0|Set y = 0: 3x = 12, so x = 4.
+What is the y-intercept of 3x + 4y = 12?|4|12|-3|3|3|Set x = 0: 4y = 12, so y = 3.
+Which is the point-slope form of the line through (1, 2) and (3, 8), using the point (1, 2)?|y - 2 = 3(x + 1)|y - 8 = 3(x - 1)|y - 2 = 3(x - 1)|y - 2 = (1/3)(x - 1)|2|Slope = (8 - 2) / (3 - 1) = 3. Using (1, 2): y - 2 = 3(x - 1).
+A line has slope -2 and passes through (-1, 4). What is its equation in slope-intercept form?|y = -2x + 6|y = -2x + 2|y = 2x + 6|y = -2x - 6|1|Point-slope: y - 4 = -2(x + 1). Distribute: y - 4 = -2x - 2, so y = -2x + 2.
+Which point lies on the line y + 1 = 2(x - 3)?|(4, 1)|(4, 3)|(3, 1)|(0, -1)|0|Test (4, 1): the left side is 1 + 1 = 2 and the right side is 2(4 - 3) = 2. They match.
+Parallel lines have|slopes that are negative reciprocals|the same y-intercept|slopes that multiply to 0|the same slope|3|Parallel lines point in the same direction, so their slopes are equal.
+What is the slope of a line perpendicular to a line with slope 2?|2|-2|-1/2|1/2|2|Perpendicular slopes are negative reciprocals: flip 2 to 1/2 and change the sign to -1/2.
+Which line is parallel to y = 3x + 1?|y = -3x + 1|y = 3x - 5|y = x/3 + 1|y = -x/3 + 1|1|Parallel lines have the same slope. Only y = 3x - 5 has slope 3.
+Which line is perpendicular to y = (2/3)x - 1?|y = -(3/2)x + 4|y = (3/2)x + 4|y = -(2/3)x + 4|y = (2/3)x + 4|0|The negative reciprocal of 2/3 is -3/2.
+Which line passes through (0, 2) and is parallel to y = 4x - 1?|y = 4x - 1|y = -4x + 2|y = x/4 + 2|y = 4x + 2|3|Parallel means slope 4. The y-intercept at (0, 2) is 2, so y = 4x + 2.
+Which line passes through (3, 1) and is perpendicular to y = 3x + 2?|y = 3x - 8|y = -3x + 10|y = -(1/3)x + 2|y = (1/3)x + 2|2|The perpendicular slope is -1/3. Then y - 1 = -1/3 (x - 3), which gives y = -1/3 x + 2.
+The lines 2x + 3y = 6 and 3x - 2y = 4 are|parallel|perpendicular|the same line|neither parallel nor perpendicular|1|Their slopes are -2/3 and 3/2. The product is (-2/3)(3/2) = -1, so the lines are perpendicular.
+For what value of k is y = kx + 1 perpendicular to y = 4x - 3?|-1/4|4|-4|1/4|0|Perpendicular slopes multiply to -1: k x 4 = -1, so k = -1/4.
+A function assigns each input|at least two outputs|no output|the same input|exactly one output|3|That is the definition of a function: every input has exactly one output.
+If f(x) = 2x + 1, what is f(3)?|6|5|7|9|2|Substitute 3 for x: 2(3) + 1 = 7.
+The vertical line test is used to decide whether a graph|is a line|is a function|has a slope|is increasing|1|If any vertical line crosses the graph more than once, the graph is not a function.
+If g(x) = x^2 - 4, what is g(-3)?|5|-13|-5|13|0|Substitute: (-3)^2 - 4 = 9 - 4 = 5.
+Which set of ordered pairs is NOT a function?|{(1, 2), (2, 2), (3, 2)}|{(0, 1), (1, 2), (2, 3)}|{(1, 5), (2, 6), (3, 7)}|{(1, 2), (1, 3), (2, 4)}|3|The input 1 has two different outputs, 2 and 3, so the first set is not a function.
+What is the domain of {(1, 2), (3, 4), (5, 6)}?|{2, 4, 6}|{1, 2, 3, 4, 5, 6}|{1, 3, 5}|{1, 5}|2|The domain is the set of inputs, which are the first numbers in each pair.
+If f(x) = 3x - 2 and f(a) = 10, what is a?|8|4|6|12|1|Write 3a - 2 = 10. Add 2: 3a = 12. Divide by 3: a = 4.
+If f(x) = 2x - 1 and g(x) = x + 4, what is f(g(1))?|9|5|6|7|0|Work inside out: g(1) = 1 + 4 = 5. Then f(5) = 2(5) - 1 = 9.
