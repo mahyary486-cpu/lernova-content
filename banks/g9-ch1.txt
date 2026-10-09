@@ -1,0 +1,51 @@
+#EEEEMMMHEEEMMMMHHEEMMMMHHEEEMMMMHHMMMHHHHEEMMMMHHH
+Which of these numbers is an integer?|1/2|-7|0.3|the square root of 2|1|Integers are the whole numbers and their opposites: ..., -2, -1, 0, 1, 2, ... So -7 is an integer, while 1/2 and 0.3 are fractions and the square root of 2 is not a whole number.
+Which of these numbers is irrational?|the square root of 2|0.25|3/4|-5|0|The square root of 2 has a decimal that never ends and never repeats, so it is irrational. 0.25 and 3/4 are rational, and -5 is an integer.
+The equation 3 + 5 = 5 + 3 shows which property?|Associative property of addition|Distributive property|Identity property of addition|Commutative property of addition|3|Changing the order of the numbers being added does not change the sum. That is the commutative property.
+What is the absolute value of -9?|-9|0|9|1/9|2|Absolute value is the distance from zero, and distance is never negative. The distance from -9 to 0 is 9.
+Which property is used in 4(x + 3) = 4x + 12?|Commutative property of multiplication|Distributive property|Associative property of addition|Inverse property of addition|1|The 4 is multiplied by each term inside the parentheses. That is the distributive property.
+What is the multiplicative inverse of 2/3?|3/2|-2/3|2/3|-3/2|0|The multiplicative inverse is the number that multiplies with the original to give 1. 2/3 x 3/2 = 1.
+Which list contains only rational numbers?|the square root of 2, 1/2, 3|pi, 2, 5|the square root of 3, the square root of 5, 1|1/2, -3, 0.75|3|1/2, -3 (which is -3/1) and 0.75 (which is 3/4) can all be written as fractions of integers. The other lists each contain an irrational number.
+Which statement is true?|Every rational number is an integer|Every irrational number is a repeating decimal|Every whole number is a rational number|Zero is an irrational number|2|Every whole number can be written as a fraction (for example 5 = 5/1), so it is rational. 1/2 is rational but not an integer. Irrational decimals never repeat, and 0 = 0/1 is rational.
+What is the value of 3 + 4 x 2?|14|11|10|24|1|Multiply before adding: 4 x 2 = 8, then 3 + 8 = 11.
+What is the value of 18 / 3 x 2?|12|3|9|108|0|Division and multiplication have equal rank, so go left to right: 18 / 3 = 6, then 6 x 2 = 12.
+What is the value of (6 + 2) x 3?|20|12|18|24|3|Parentheses come first: 6 + 2 = 8, then 8 x 3 = 24.
+What is the value of 2^3 + 4 x 5?|60|26|28|40|2|Exponent first: 2^3 = 8. Then multiply: 4 x 5 = 20. Then add: 8 + 20 = 28.
+What is the value of 5x - 2 when x = 4?|22|18|10|2|1|Substitute: 5(4) - 2 = 20 - 2 = 18.
+What is the value of x^2 - 3x when x = -2?|10|-2|2|-10|0|Substitute: (-2)^2 - 3(-2) = 4 + 6 = 10.
+What is the value of 12 - 3(4 - 1)?|27|9|15|3|3|Parentheses: 4 - 1 = 3. Multiply: 3 x 3 = 9. Subtract: 12 - 9 = 3.
+What is the value of 24 / (2 + 4) x 3 - 5?|-8|19|7|12|2|Parentheses: 2 + 4 = 6. Then left to right: 24 / 6 = 4, 4 x 3 = 12, and finally 12 - 5 = 7.
+What is the value of (a + b)^2 when a = 3 and b = -5?|-4|4|34|28|1|Add inside the parentheses first: 3 + (-5) = -2. Then square: (-2)^2 = 4.
+Which term is a like term of 3x?|7x|3y|3x^2|3|0|Like terms have exactly the same variable part. 7x has the variable x to the first power, just like 3x.
+Simplify: 4x + 3x|12x|7x^2|x|7x|3|Add the coefficients and keep the variable: 4 + 3 = 7, so the answer is 7x.
+Simplify: 2(x + 5)|2x + 5|x + 10|2x + 10|2x + 7|2|Multiply both terms by 2: 2 x x = 2x and 2 x 5 = 10.
+Simplify: 5a + 2b - 3a + b|8a + 3b|2a + 3b|2a + b|8a + b|1|Combine the a terms: 5a - 3a = 2a. Combine the b terms: 2b + b = 3b.
+Simplify: 3(2x - 4) + 5|6x - 7|6x - 17|6x + 1|5x - 7|0|Distribute: 6x - 12 + 5. Combine the numbers: -12 + 5 = -7. The answer is 6x - 7.
+Simplify: -(x - 6)|-x - 6|x - 6|x + 6|-x + 6|3|The minus sign changes the sign of each term inside the parentheses: -x and +6.
+Simplify: 4(x + 2) - 2(x - 3)|2x + 2|6x + 2|2x + 14|6x + 14|2|Distribute: 4x + 8 - 2x + 6. Combine: (4x - 2x) + (8 + 6) = 2x + 14.
+Simplify: 7 - 2(3x - 1)|5 - 6x|9 - 6x|9 + 6x|6x - 9|1|Distribute -2: -6x + 2. Then 7 + 2 = 9, so the result is 9 - 6x.
+Solve: x + 7 = 12|5|19|-5|7|0|Subtract 7 from both sides: x = 12 - 7 = 5.
+Solve: 3x = 21|18|63|24|7|3|Divide both sides by 3: x = 21 / 3 = 7.
+Solve: x / 4 = 5|9|1.25|20|1|2|Multiply both sides by 4: x = 5 x 4 = 20.
+Solve: 2x + 3 = 11|8|4|14|7|1|Subtract 3: 2x = 8. Divide by 2: x = 4.
+Solve: x / 3 - 2 = 4|18|6|2|12|0|Add 2: x / 3 = 6. Multiply by 3: x = 18.
+Solve: 5x - 8 = 17|9|1.8|3|5|3|Add 8: 5x = 25. Divide by 5: x = 5.
+Solve: -4x + 1 = 13|3|-12|-3|4|2|Subtract 1: -4x = 12. Divide by -4: x = -3.
+A taxi charges $3 plus $2 per mile. The total fare is $17. How many miles was the trip?|8.5|7|10|6|1|Write 2m + 3 = 17. Subtract 3: 2m = 14. Divide by 2: m = 7 miles.
+Three times a number plus 7 equals 31. What is the number?|8|24|10|13|0|Write 3n + 7 = 31. Subtract 7: 3n = 24. Divide by 3: n = 8.
+Solve: 3x + 5 = x + 13|6|9|2|4|3|Subtract x from both sides: 2x + 5 = 13. Subtract 5: 2x = 8. Divide by 2: x = 4.
+Solve: 2(x - 3) = 10|2|5|8|13|2|Divide both sides by 2: x - 3 = 5. Add 3: x = 8.
+Solve: 5x - 3 = 2x + 9|2|4|6|3|1|Subtract 2x: 3x - 3 = 9. Add 3: 3x = 12. Divide by 3: x = 4.
+Solve: 4(x + 1) = 2(x + 7)|5|3|2.5|9|0|Distribute: 4x + 4 = 2x + 14. Subtract 2x: 2x + 4 = 14. Subtract 4: 2x = 10. So x = 5.
+How many solutions does 3(2x - 1) = 6x + 4 have?|Exactly one solution, x = 1|Infinitely many solutions|Exactly one solution, x = 0|No solution|3|Distributing gives 6x - 3 = 6x + 4. Subtracting 6x gives -3 = 4, which is false for every x. There is no solution.
+How many solutions does 2(x + 4) = 2x + 8 have?|No solution|Exactly one solution, x = 0|Infinitely many solutions|Exactly one solution, x = 4|2|Distributing gives 2x + 8 = 2x + 8. Both sides are identical, so every value of x makes it true.
+Solve: 0.5x + 2 = 0.25x + 5|28|12|6|24|1|Subtract 0.25x: 0.25x + 2 = 5. Subtract 2: 0.25x = 3. Divide by 0.25: x = 12.
+Write the ratio 12:18 in simplest form.|2:3|3:2|6:9|4:5|0|Divide both numbers by their greatest common factor, 6: 12 / 6 = 2 and 18 / 6 = 3.
+What is 25% of 80?|25|320|2|20|3|25% = 0.25, and 0.25 x 80 = 20.
+Solve the proportion: x / 5 = 6 / 10|12|30|3|2|2|Cross multiply: 10x = 5 x 6 = 30. Divide by 10: x = 3.
+15 is what percent of 60?|4%|25%|400%|45%|1|Divide the part by the whole: 15 / 60 = 0.25, which is 25%.
+A recipe uses 2 cups of flour for every 3 cups of sugar. How much flour is needed for 9 cups of sugar?|6 cups|4.5 cups|13.5 cups|11 cups|0|Set up 2/3 = f/9. Cross multiply: 3f = 18, so f = 6 cups.
+A $40 shirt is on sale for 15% off. What is the sale price?|$6|$25|$46|$34|3|15% of 40 is 6, and 40 - 6 = $34. Or pay 85% of the price: 0.85 x 40 = 34.
+A price rises from $50 to $65. What is the percent increase?|15%|23%|30%|130%|2|Percent change = (65 - 50) / 50 = 15 / 50 = 0.30, which is 30%. Always divide by the original value.
+40% of what number is 18?|7.2|45|72|58|1|Write 0.4 x n = 18. Divide by 0.4: n = 45.
+On a map, 1 inch represents 25 miles. How many miles do 3.5 inches represent?|87.5 miles|28.5 miles|7.1 miles|75 miles|0|Multiply the map distance by the scale: 3.5 x 25 = 87.5 miles.

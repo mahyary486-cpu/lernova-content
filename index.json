@@ -1,0 +1,40 @@
+{
+ "grades": [
+  {
+   "grade": 9,
+   "subject": "Algebra 1",
+   "chapters": [
+    {
+     "id": "g9-ch1",
+     "title": "Foundations of Algebra",
+     "lessons": [
+      {
+       "id": "g9-ch1-l1",
+       "title": "Real Numbers and Their Properties"
+      },
+      {
+       "id": "g9-ch1-l2",
+       "title": "Order of Operations and Evaluating Expressions"
+      },
+      {
+       "id": "g9-ch1-l3",
+       "title": "Simplifying Algebraic Expressions"
+      },
+      {
+       "id": "g9-ch1-l4",
+       "title": "Solving One-Step and Two-Step Equations"
+      },
+      {
+       "id": "g9-ch1-l5",
+       "title": "Multi-Step Equations and Variables on Both Sides"
+      },
+      {
+       "id": "g9-ch1-l6",
+       "title": "Ratios, Proportions and Percent"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
