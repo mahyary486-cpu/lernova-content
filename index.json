@@ -2,13 +2,7 @@
  "grades": [
   {
    "grade": 9,
-   "subject": "English",
-   "course": "English I",
-   "chapters": []
-  },
-  {
-   "grade": 9,
-   "subject": "Math",
+   "subject": "Mathematics",
    "chapters": [
     {
      "id": "g9-ch1",
@@ -71,115 +65,141 @@
      ]
     }
    ],
-   "course": "Algebra 1"
+   "course": "Algebra 1",
+   "country": "US"
+  },
+  {
+   "grade": 9,
+   "subject": "English",
+   "course": "English I",
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 9,
    "subject": "Science",
    "course": "Physical Science",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 9,
    "subject": "Social Studies",
    "course": "Civics and Geography",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 9,
    "subject": "Computer Science and Applied AI",
    "course": "Introduction to Computer Science and AI",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
+  },
+  {
+   "grade": 10,
+   "subject": "Mathematics",
+   "course": "Geometry",
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 10,
    "subject": "English",
    "course": "English II",
-   "chapters": []
-  },
-  {
-   "grade": 10,
-   "subject": "Math",
-   "course": "Geometry",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 10,
    "subject": "Science",
    "course": "Biology",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 10,
    "subject": "Social Studies",
    "course": "World History",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 10,
    "subject": "Computer Science and Applied AI",
    "course": "Programming and AI Tools",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
+  },
+  {
+   "grade": 11,
+   "subject": "Mathematics",
+   "course": "Algebra 2",
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 11,
    "subject": "English",
    "course": "English III",
-   "chapters": []
-  },
-  {
-   "grade": 11,
-   "subject": "Math",
-   "course": "Algebra 2",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 11,
    "subject": "Science",
-   "course": "Chemistry",
-   "chapters": []
+   "course": "Earth and Environmental Science",
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 11,
    "subject": "Social Studies",
    "course": "US History",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 11,
    "subject": "Computer Science and Applied AI",
    "course": "Data, Algorithms and Machine Learning Basics",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
+  },
+  {
+   "grade": 12,
+   "subject": "Mathematics",
+   "course": "Pre-Calculus",
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 12,
    "subject": "English",
    "course": "English IV",
-   "chapters": []
-  },
-  {
-   "grade": 12,
-   "subject": "Math",
-   "course": "Pre-Calculus",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 12,
    "subject": "Science",
-   "course": "Physics",
-   "chapters": []
+   "course": "Anatomy and Physiology",
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 12,
    "subject": "Social Studies",
    "course": "Government and Economics",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   },
   {
    "grade": 12,
    "subject": "Computer Science and Applied AI",
    "course": "Applied AI Projects",
-   "chapters": []
+   "chapters": [],
+   "country": "US"
   }
  ]
 }
