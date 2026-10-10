@@ -2,7 +2,13 @@
  "grades": [
   {
    "grade": 9,
-   "subject": "Algebra 1",
+   "subject": "English",
+   "course": "English I",
+   "chapters": []
+  },
+  {
+   "grade": 9,
+   "subject": "Math",
    "chapters": [
     {
      "id": "g9-ch1",
@@ -64,7 +70,116 @@
       }
      ]
     }
-   ]
+   ],
+   "course": "Algebra 1"
+  },
+  {
+   "grade": 9,
+   "subject": "Science",
+   "course": "Physical Science",
+   "chapters": []
+  },
+  {
+   "grade": 9,
+   "subject": "Social Studies",
+   "course": "Civics and Geography",
+   "chapters": []
+  },
+  {
+   "grade": 9,
+   "subject": "Computer Science and Applied AI",
+   "course": "Introduction to Computer Science and AI",
+   "chapters": []
+  },
+  {
+   "grade": 10,
+   "subject": "English",
+   "course": "English II",
+   "chapters": []
+  },
+  {
+   "grade": 10,
+   "subject": "Math",
+   "course": "Geometry",
+   "chapters": []
+  },
+  {
+   "grade": 10,
+   "subject": "Science",
+   "course": "Biology",
+   "chapters": []
+  },
+  {
+   "grade": 10,
+   "subject": "Social Studies",
+   "course": "World History",
+   "chapters": []
+  },
+  {
+   "grade": 10,
+   "subject": "Computer Science and Applied AI",
+   "course": "Programming and AI Tools",
+   "chapters": []
+  },
+  {
+   "grade": 11,
+   "subject": "English",
+   "course": "English III",
+   "chapters": []
+  },
+  {
+   "grade": 11,
+   "subject": "Math",
+   "course": "Algebra 2",
+   "chapters": []
+  },
+  {
+   "grade": 11,
+   "subject": "Science",
+   "course": "Chemistry",
+   "chapters": []
+  },
+  {
+   "grade": 11,
+   "subject": "Social Studies",
+   "course": "US History",
+   "chapters": []
+  },
+  {
+   "grade": 11,
+   "subject": "Computer Science and Applied AI",
+   "course": "Data, Algorithms and Machine Learning Basics",
+   "chapters": []
+  },
+  {
+   "grade": 12,
+   "subject": "English",
+   "course": "English IV",
+   "chapters": []
+  },
+  {
+   "grade": 12,
+   "subject": "Math",
+   "course": "Pre-Calculus",
+   "chapters": []
+  },
+  {
+   "grade": 12,
+   "subject": "Science",
+   "course": "Physics",
+   "chapters": []
+  },
+  {
+   "grade": 12,
+   "subject": "Social Studies",
+   "course": "Government and Economics",
+   "chapters": []
+  },
+  {
+   "grade": 12,
+   "subject": "Computer Science and Applied AI",
+   "course": "Applied AI Projects",
+   "chapters": []
   }
  ]
 }
