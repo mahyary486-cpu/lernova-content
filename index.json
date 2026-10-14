@@ -100,7 +100,56 @@
    "grade": 10,
    "subject": "Mathematics",
    "course": "Geometry",
-   "chapters": [],
+   "chapters": [
+    {
+     "id": "g10-ch1",
+     "title": "Geometry Basics and Transformations",
+     "lessons": [
+      {
+       "id": "g10-ch1-l1",
+       "title": "Points, lines and planes"
+      },
+      {
+       "id": "g10-ch1-l2",
+       "title": "Segments, angles and measurement"
+      },
+      {
+       "id": "g10-ch1-l3",
+       "title": "Distance and midpoint formulas"
+      },
+      {
+       "id": "g10-ch1-l4",
+       "title": "Reflections, translations and rotations"
+      },
+      {
+       "id": "g10-ch1-l5",
+       "title": "Dilations"
+      }
+     ]
+    },
+    {
+     "id": "g10-ch2",
+     "title": "Reasoning and Proof",
+     "lessons": [
+      {
+       "id": "g10-ch2-l1",
+       "title": "Conditional statements"
+      },
+      {
+       "id": "g10-ch2-l2",
+       "title": "Deductive reasoning"
+      },
+      {
+       "id": "g10-ch2-l3",
+       "title": "Angles and parallel lines"
+      },
+      {
+       "id": "g10-ch2-l4",
+       "title": "Writing two-column proofs"
+      }
+     ]
+    }
+   ],
    "country": "US"
   },
   {
