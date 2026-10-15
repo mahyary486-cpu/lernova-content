@@ -123,7 +123,7 @@
       },
       {
        "id": "g10-ch1-l5",
-       "title": "Dilations"
+       "title": "Dilations and symmetry"
       }
      ]
     },
@@ -146,6 +146,128 @@
       {
        "id": "g10-ch2-l4",
        "title": "Writing two-column proofs"
+      }
+     ]
+    },
+    {
+     "id": "g10-ch3",
+     "title": "Triangles and Congruence",
+     "lessons": [
+      {
+       "id": "g10-ch3-l1",
+       "title": "Triangle angle sum"
+      },
+      {
+       "id": "g10-ch3-l2",
+       "title": "Congruent triangles SSS, SAS, ASA, AAS"
+      },
+      {
+       "id": "g10-ch3-l3",
+       "title": "Isosceles and equilateral triangles"
+      },
+      {
+       "id": "g10-ch3-l4",
+       "title": "Medians, altitudes and bisectors"
+      },
+      {
+       "id": "g10-ch3-l5",
+       "title": "Triangle inequality"
+      }
+     ]
+    },
+    {
+     "id": "g10-ch4",
+     "title": "Similarity",
+     "lessons": [
+      {
+       "id": "g10-ch4-l1",
+       "title": "Ratios and proportions"
+      },
+      {
+       "id": "g10-ch4-l2",
+       "title": "Similar polygons"
+      },
+      {
+       "id": "g10-ch4-l3",
+       "title": "Triangle similarity AA, SSS, SAS"
+      },
+      {
+       "id": "g10-ch4-l4",
+       "title": "Midsegment and side-splitter theorems"
+      }
+     ]
+    },
+    {
+     "id": "g10-ch5",
+     "title": "Right Triangles and Trigonometry",
+     "lessons": [
+      {
+       "id": "g10-ch5-l1",
+       "title": "Pythagorean theorem"
+      },
+      {
+       "id": "g10-ch5-l2",
+       "title": "Special right triangles"
+      },
+      {
+       "id": "g10-ch5-l3",
+       "title": "Sine, cosine and tangent"
+      },
+      {
+       "id": "g10-ch5-l4",
+       "title": "Solving right triangles"
+      },
+      {
+       "id": "g10-ch5-l5",
+       "title": "Law of sines and cosines"
+      }
+     ]
+    },
+    {
+     "id": "g10-ch6",
+     "title": "Circles",
+     "lessons": [
+      {
+       "id": "g10-ch6-l1",
+       "title": "Arcs and chords"
+      },
+      {
+       "id": "g10-ch6-l2",
+       "title": "Inscribed angles"
+      },
+      {
+       "id": "g10-ch6-l3",
+       "title": "Tangents and secants"
+      },
+      {
+       "id": "g10-ch6-l4",
+       "title": "Arc length and sector area"
+      },
+      {
+       "id": "g10-ch6-l5",
+       "title": "Equation of a circle"
+      }
+     ]
+    },
+    {
+     "id": "g10-ch7",
+     "title": "Area, Surface Area and Volume",
+     "lessons": [
+      {
+       "id": "g10-ch7-l1",
+       "title": "Area of polygons"
+      },
+      {
+       "id": "g10-ch7-l2",
+       "title": "Prisms and cylinders"
+      },
+      {
+       "id": "g10-ch7-l3",
+       "title": "Pyramids, cones and spheres"
+      },
+      {
+       "id": "g10-ch7-l4",
+       "title": "Cross sections of solids"
       }
      ]
     }
