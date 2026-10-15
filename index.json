@@ -371,6 +371,193 @@
    "course": "Applied AI Projects",
    "chapters": [],
    "country": "US"
+  },
+  {
+   "grade": 9,
+   "subject": "Mathematics",
+   "country": "IR",
+   "chapters": [
+    {
+     "id": "ir9m-ch1",
+     "title": "Sets",
+     "lessons": [
+      {
+       "id": "ir9m-ch1-l1",
+       "title": "Sets and subsets"
+      },
+      {
+       "id": "ir9m-ch1-l2",
+       "title": "Equal and unequal sets"
+      },
+      {
+       "id": "ir9m-ch1-l3",
+       "title": "Union and intersection"
+      },
+      {
+       "id": "ir9m-ch1-l4",
+       "title": "Complement of a set"
+      },
+      {
+       "id": "ir9m-ch1-l5",
+       "title": "Finite and infinite sets"
+      }
+     ]
+    },
+    {
+     "id": "ir9m-ch2",
+     "title": "Real Numbers",
+     "lessons": [
+      {
+       "id": "ir9m-ch2-l1",
+       "title": "Rational numbers"
+      },
+      {
+       "id": "ir9m-ch2-l2",
+       "title": "Irrational numbers and real numbers"
+      },
+      {
+       "id": "ir9m-ch2-l3",
+       "title": "Absolute value"
+      },
+      {
+       "id": "ir9m-ch2-l4",
+       "title": "Operations with radicals"
+      },
+      {
+       "id": "ir9m-ch2-l5",
+       "title": "Approximation"
+      }
+     ]
+    },
+    {
+     "id": "ir9m-ch3",
+     "title": "Reasoning and Proof in Geometry",
+     "lessons": [
+      {
+       "id": "ir9m-ch3-l1",
+       "title": "Reasoning"
+      },
+      {
+       "id": "ir9m-ch3-l2",
+       "title": "Theorems and proofs"
+      },
+      {
+       "id": "ir9m-ch3-l3",
+       "title": "Congruence of triangles"
+      },
+      {
+       "id": "ir9m-ch3-l4",
+       "title": "Properties of parallel lines"
+      }
+     ]
+    },
+    {
+     "id": "ir9m-ch4",
+     "title": "Powers and Roots",
+     "lessons": [
+      {
+       "id": "ir9m-ch4-l1",
+       "title": "Integer powers"
+      },
+      {
+       "id": "ir9m-ch4-l2",
+       "title": "Scientific notation"
+      },
+      {
+       "id": "ir9m-ch4-l3",
+       "title": "Square roots"
+      },
+      {
+       "id": "ir9m-ch4-l4",
+       "title": "Roots of higher order"
+      }
+     ]
+    },
+    {
+     "id": "ir9m-ch5",
+     "title": "Algebraic Expressions",
+     "lessons": [
+      {
+       "id": "ir9m-ch5-l1",
+       "title": "Algebraic expressions and polynomials"
+      },
+      {
+       "id": "ir9m-ch5-l2",
+       "title": "Algebraic identities"
+      },
+      {
+       "id": "ir9m-ch5-l3",
+       "title": "Factoring"
+      },
+      {
+       "id": "ir9m-ch5-l4",
+       "title": "Division of polynomials"
+      }
+     ]
+    },
+    {
+     "id": "ir9m-ch6",
+     "title": "Lines and Linear Equations",
+     "lessons": [
+      {
+       "id": "ir9m-ch6-l1",
+       "title": "The coordinate plane"
+      },
+      {
+       "id": "ir9m-ch6-l2",
+       "title": "Equation of a line"
+      },
+      {
+       "id": "ir9m-ch6-l3",
+       "title": "Systems of linear equations"
+      },
+      {
+       "id": "ir9m-ch6-l4",
+       "title": "Linear equations in practice"
+      }
+     ]
+    },
+    {
+     "id": "ir9m-ch7",
+     "title": "Rational Expressions",
+     "lessons": [
+      {
+       "id": "ir9m-ch7-l1",
+       "title": "Simplifying rational expressions"
+      },
+      {
+       "id": "ir9m-ch7-l2",
+       "title": "Operations on rational expressions"
+      },
+      {
+       "id": "ir9m-ch7-l3",
+       "title": "Rational equations"
+      }
+     ]
+    },
+    {
+     "id": "ir9m-ch8",
+     "title": "Volume and Area",
+     "lessons": [
+      {
+       "id": "ir9m-ch8-l1",
+       "title": "Surface area"
+      },
+      {
+       "id": "ir9m-ch8-l2",
+       "title": "Volume of solids"
+      },
+      {
+       "id": "ir9m-ch8-l3",
+       "title": "Cross sections"
+      },
+      {
+       "id": "ir9m-ch8-l4",
+       "title": "Solids of revolution"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
