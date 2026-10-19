@@ -1,0 +1,20 @@
+{
+ "countries": {
+  "IR": {
+   "bytes": 361841,
+   "currentYear": "2026-2027",
+   "files": 122,
+   "name": "Iran",
+   "rev": "7471cee1b5",
+   "year": "2026-2027"
+  },
+  "US": {
+   "bytes": 121725,
+   "currentYear": "2026-2027",
+   "files": 56,
+   "name": "United States",
+   "rev": "f3d159d8f3",
+   "year": "2026-2027"
+  }
+ }
+}
