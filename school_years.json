@@ -1,0 +1,21 @@
+{
+  "US": {"name": "United States", "start": "08-15", "span": 2, "contentYear": "2026-2027"},
+  "IR": {"name": "Iran", "start": "09-23", "span": 2, "contentYear": "2026-2027"},
+  "DE": {"name": "Germany", "start": "08-15", "span": 2, "contentYear": "2026-2027"},
+  "IN": {"name": "India", "start": "04-01", "span": 2, "contentYear": "2026-2027"},
+  "CN": {"name": "China", "start": "09-01", "span": 2, "contentYear": "2026-2027"},
+  "BR": {"name": "Brazil", "start": "02-01", "span": 1, "contentYear": "2026"},
+  "RU": {"name": "Russia", "start": "09-01", "span": 2, "contentYear": "2026-2027"},
+  "JP": {"name": "Japan", "start": "04-01", "span": 1, "contentYear": "2026"},
+  "EG": {"name": "Egypt", "start": "09-20", "span": 2, "contentYear": "2026-2027"},
+  "TR": {"name": "Turkey", "start": "09-15", "span": 2, "contentYear": "2026-2027"},
+  "GB": {"name": "United Kingdom", "start": "09-01", "span": 2, "contentYear": "2026-2027"},
+  "FR": {"name": "France", "start": "09-01", "span": 2, "contentYear": "2026-2027"},
+  "IT": {"name": "Italy", "start": "09-10", "span": 2, "contentYear": "2026-2027"},
+  "KR": {"name": "South Korea", "start": "03-01", "span": 1, "contentYear": "2026"},
+  "ES": {"name": "Spain", "start": "09-08", "span": 2, "contentYear": "2026-2027"},
+  "AR": {"name": "Argentina", "start": "02-20", "span": 1, "contentYear": "2026"},
+  "CA": {"name": "Canada", "start": "09-01", "span": 2, "contentYear": "2026-2027"},
+  "SA": {"name": "Saudi Arabia", "start": "08-24", "span": 2, "contentYear": "2026-2027"},
+  "AU": {"name": "Australia", "start": "01-29", "span": 1, "contentYear": "2026"}
+}

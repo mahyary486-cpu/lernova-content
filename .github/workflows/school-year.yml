@@ -1,0 +1,32 @@
+name: New school year check
+
+on:
+  schedule:
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh the manifest
+        run: python3 tools/build_manifest.py
+      - name: Remind me when a school year has started
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/school_year.py
+      - name: Save the result
+        run: |
+          git config user.name "lernova-bot"
+          git config user.email "lernova-bot@users.noreply.github.com"
+          git add manifest.json packs
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh manifest"
+            git pull --rebase
+            git push
+          fi
