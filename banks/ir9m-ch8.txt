@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
+What is the surface area of a box that is 2 cm by 3 cm by 4 cm?|24 cm²|26 cm²|48 cm²|52 cm²|3|Surface area = 2(lw + lh + wh) = 2(6 + 8 + 12) = 52 cm².
+A plane cuts through a sphere. What shape is the cross section?|A square|A circle|A triangle|An ellipse that is not a circle|1|Every plane section of a sphere is a circle.
+Which solid is formed by rotating a semicircle about its diameter?|A cone|A cylinder|A sphere|A hemisphere|2|Rotating a semicircle about its diameter sweeps out a full sphere.
+A plane passes through the axis of a cylinder, perpendicular to its bases. What shape is the cross section?|A rectangle|A circle|A triangle|An ellipse|0|Cutting through the axis gives a rectangle whose width is the diameter and whose height is the height of the cylinder.
+What is the volume of a square pyramid with base side 3 cm and height 8 cm?|72 cm³|12 cm³|24 cm³|48 cm³|2|V = (1/3) × 9 × 8 = 24 cm³.
+A box has volume 60 cm³, length 5 cm and width 3 cm. What is its height?|12 cm|4 cm|20 cm|2 cm|1|60 = 5 × 3 × h, so h = 60/15 = 4 cm.
+A solid is a cylinder (radius 3 cm, height 5 cm) with a hemisphere of radius 3 cm on top. What is its volume?|63π cm³|45π cm³|81π cm³|99π cm³|0|Cylinder: 45π. Hemisphere: 18π. Total: 63π cm³.
+All the edges of a cube are tripled. By what factor does its surface area increase?|3|6|27|9|3|Surface area depends on length², so it increases by 3² = 9.
+What is the volume of a box that is 2 cm by 3 cm by 5 cm?|10 cm³|31 cm³|30 cm³|60 cm³|2|Volume = length × width × height = 2 × 3 × 5 = 30 cm³.
+What is the volume of a square pyramid with base side 6 cm and height 5 cm?|180 cm³|30 cm³|90 cm³|60 cm³|3|V = (1/3) × base area × height = (1/3) × 36 × 5 = 60 cm³.
+A cube is cut by a plane parallel to one of its faces. What shape is the cross section?|A triangle|A square|A circle|A rectangle that is not a square|1|The cut is parallel to a square face, so it is a square of the same size.
+What is the total surface area of a closed cylinder with radius 3 cm and height 4 cm?|42π cm²|24π cm²|33π cm²|60π cm²|0|A = 2πr(r + h) = 2π × 3 × 7 = 42π cm².
+A cone has radius 3 cm and slant height 5 cm. What is its lateral surface area?|15π cm²|30π cm²|45π cm²|9π cm²|0|Lateral area = πrl = π × 3 × 5 = 15π cm².
+A plane passes through the apex of a cone and through the centre of its base. What shape is the cross section?|A circle|A rectangle|A trapezoid|A triangle|3|The cut through the apex and base centre gives an isosceles triangle.
+A pyramid has volume 100 cm³ and a base area of 30 cm². What is its height?|3.3 cm|10 cm|30 cm|3 cm|1|100 = (1/3) × 30 × h = 10h, so h = 10 cm.
+A sphere has volume 36π cm³. What is its radius?|6 cm|9 cm|3 cm|2 cm|2|(4/3)πr³ = 36π gives r³ = 27, so r = 3 cm.
+What is the volume of a cylinder with radius 3 cm and height 5 cm?|15π cm³|30π cm³|75π cm³|45π cm³|3|V = πr²h = π × 9 × 5 = 45π cm³.
+What is the volume of a cone with radius 3 cm and height 4 cm?|36π cm³|12π cm³|24π cm³|4π cm³|1|V = (1/3)πr²h = (1/3)π × 9 × 4 = 12π cm³.
+Which solid is formed by rotating a right triangle about one of its legs?|A cylinder|A sphere|A cone|A pyramid|2|Rotating a right triangle about a leg sweeps out a cone.
+What is the volume of a cylinder with radius 2 cm and height 7 cm?|28π cm³|14π cm³|84π cm³|30π cm³|0|V = πr²h = π × 4 × 7 = 28π cm³.
+What is the volume of a cylinder with radius 5 cm and height 3 cm?|15π cm³|225π cm³|75π cm³|77π cm³|2|V = πr²h = π × 25 × 3 = 75π cm³.
+A box has volume 96 cm³, length 8 cm and height 3 cm. What is its width?|3 cm|12 cm|32 cm|4 cm|3|96 = 8 × w × 3, so w = 96/24 = 4 cm.
+A 3 cm by 5 cm rectangle is rotated about its 5 cm side. What is the volume of the solid?|75π cm³|45π cm³|15π cm³|30π cm³|1|The solid is a cylinder with radius 3 cm and height 5 cm: π × 9 × 5 = 45π cm³.
+The height of a cylinder is doubled and its radius stays the same. By what factor does its volume increase?|2|4|8|1|0|V = πr²h, so doubling h doubles the volume.
+What is the lateral (curved) surface area of a cylinder with radius 2 cm and height 5 cm?|10π cm²|20π cm²|40π cm²|28π cm²|1|Lateral area = 2πrh = 2π × 2 × 5 = 20π cm².
+What is the surface area of a sphere with radius 2 cm?|16π cm²|8π cm²|4π cm²|32π/3 cm²|0|A = 4πr² = 4π × 4 = 16π cm².
+Which solid is formed by rotating a rectangle about one of its sides?|A cone|A sphere|A cylinder|A cube|2|Rotating a rectangle about one side sweeps out a cylinder.
+A cone has radius 3 cm and height 4 cm. What is its slant height?|7 cm|25 cm|3.5 cm|5 cm|3|l = √(3² + 4²) = √25 = 5 cm.
+What is the volume of a cone with radius 3 cm and height 9 cm?|27π cm³|81π cm³|28π cm³|30π cm³|0|V = (1/3)πr²h = (1/3)π × 9 × 9 = 27π cm³.
+A cube has volume 125 cm³. What is its surface area?|75 cm²|150 cm²|25 cm²|125 cm²|1|The side is 5 cm since 5³ = 125. Surface area = 6 × 25 = 150 cm².
+A triangular prism has a right-triangle base with legs 3 cm and 4 cm and a length of 10 cm. What is its volume?|120 cm³|20 cm³|40 cm³|60 cm³|3|Base area = (1/2)(3)(4) = 6 cm². Volume = 6 × 10 = 60 cm³.
+A cylindrical tank has radius 2 m and height 10 m and is 60% full. What is the volume of water?|40π m³|60π m³|24π m³|12π m³|2|The full volume is π × 4 × 10 = 40π m³, and 60% of that is 24π m³.
+What is the volume of a cube with side 4 cm?|16 cm³|48 cm³|96 cm³|64 cm³|3|Volume = side³ = 4 × 4 × 4 = 64 cm³.
+What is the surface area of a cube with side 3 cm?|27 cm²|18 cm²|54 cm²|36 cm²|2|A cube has 6 faces, each 3 × 3 = 9 cm². So the surface area is 6 × 9 = 54 cm².
+What is the surface area of a sphere with radius 5 cm?|25π cm²|100π cm²|50π cm²|500π/3 cm²|1|A = 4πr² = 4π × 25 = 100π cm².
+What is the volume of a sphere with radius 3 cm?|36π cm³|12π cm³|27π cm³|108π cm³|0|V = (4/3)πr³ = (4/3)π × 27 = 36π cm³.
+A cube has surface area 96 cm². What is its side length?|16 cm|6 cm|8 cm|4 cm|3|6s² = 96, so s² = 16 and s = 4 cm.
+A 3 cm by 5 cm rectangle is rotated about its 3 cm side. What is the volume of the solid?|45π cm³|75π cm³|15π cm³|30π cm³|1|The solid is a cylinder with radius 5 cm and height 3 cm: π × 25 × 3 = 75π cm³.
+A right triangle with legs 3 cm and 4 cm is rotated about the 4 cm leg. What is the volume of the solid?|16π cm³|36π cm³|12π cm³|48π cm³|2|The solid is a cone with radius 3 cm and height 4 cm: (1/3)π × 9 × 4 = 12π cm³.
+What is the volume of a cylinder with radius 4 cm and height 6 cm?|96π cm³|24π cm³|288π cm³|98π cm³|0|V = πr²h = π × 16 × 6 = 96π cm³.
+What is the total surface area of a closed cylinder with radius 2 cm and height 6 cm?|24π cm²|16π cm²|28π cm²|32π cm²|3|A = 2πr(r + h) = 2π × 2 × 8 = 32π cm².
+What is the volume of a sphere with radius 6 cm?|144π cm³|288π cm³|864π cm³|48π cm³|1|V = (4/3)πr³ = (4/3)π × 216 = 288π cm³.
+What is the volume of a hemisphere with radius 3 cm?|18π cm³|36π cm³|9π cm³|54π cm³|0|Half of the sphere volume: (1/2) × 36π = 18π cm³.
+What is the total surface area of a cone with radius 3 cm and height 4 cm (including its base)?|15π cm²|33π cm²|24π cm²|39π cm²|2|The slant height is 5 cm. Total area = πr² + πrl = 9π + 15π = 24π cm².
+What is the volume of a cone with radius 6 cm and height 5 cm?|180π cm³|60π cm³|31π cm³|66π cm³|1|V = (1/3)πr²h = (1/3)π × 36 × 5 = 60π cm³.
+What is the volume of a pyramid with a base area of 24 cm² and height 9 cm?|216 cm³|108 cm³|72 cm³|33 cm³|2|V = (1/3) × 24 × 9 = 72 cm³.
+A sphere of radius 3 cm fits exactly inside a cylinder of radius 3 cm and height 6 cm. What is the volume of the cylinder not filled by the sphere?|18π cm³|36π cm³|54π cm³|90π cm³|0|The cylinder has volume π × 9 × 6 = 54π cm³ and the sphere has volume 36π cm³. The empty space is 54π − 36π = 18π cm³.
+The radius of a cylinder is doubled and its height stays the same. By what factor does its volume increase?|2|8|6|4|3|V depends on r², so doubling r multiplies the volume by 4.
+The radius of a sphere is doubled. By what factor does its volume increase?|8|2|4|6|0|Volume depends on r³, so doubling r multiplies the volume by 2³ = 8.
+A right triangle with legs 3 cm and 4 cm is rotated about the 3 cm leg. What is the volume of the solid?|12π cm³|48π cm³|36π cm³|16π cm³|3|The solid is a cone with radius 4 cm and height 3 cm: (1/3)π × 16 × 3 = 16π cm³.
