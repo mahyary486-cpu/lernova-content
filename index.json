@@ -63,6 +63,28 @@
        "title": "Functions and Function Notation"
       }
      ]
+    },
+    {
+     "id": "g9-ch3",
+     "title": "Systems of Equations and Inequalities",
+     "lessons": [
+      {
+       "id": "g9-ch3-l1",
+       "title": "Solving Systems by Graphing"
+      },
+      {
+       "id": "g9-ch3-l2",
+       "title": "Solving Systems by Substitution"
+      },
+      {
+       "id": "g9-ch3-l3",
+       "title": "Solving Systems by Elimination"
+      },
+      {
+       "id": "g9-ch3-l4",
+       "title": "Systems of Linear Inequalities"
+      }
+     ]
     }
    ],
    "course": "Algebra 1",
