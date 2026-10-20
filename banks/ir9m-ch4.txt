@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
+What is 5^(−2)?|−25|1/25|1/10|−10|1|5^(−2) = 1/5^2 = 1/25.
+What is the positive square root of 49?|7|8|6|24|0|7 × 7 = 49, so the square root of 49 is 7.
+What is (−3)^2?|-9|6|9|-6|2|(−3)^2 = (−3) × (−3) = 9. An even power of a negative number is positive.
+Write 0.00032 in scientific notation.|3.2 × 10^4|3.2 × 10^(−3)|32 × 10^(−5)|3.2 × 10^(−4)|3|Move the decimal point 4 places right to get 3.2, so the exponent is −4.
+Write (2^3)^2 as a single power.|2^5|2^9|4^3|2^6|3|When raising a power to a power, multiply the exponents: 3 × 2 = 6.
+Write 5^8 ÷ 5^3 as a single power.|5^5|5^11|5^24|1^5|0|When dividing powers with the same base, subtract the exponents: 8 − 3 = 5.
+What is 2^(−2) + 2^(−1)?|1/8|3/4|1/2|−3|1|2^(−2) = 1/4 and 2^(−1) = 1/2, and 1/4 + 1/2 = 3/4.
+Solve 3^(x + 1) = 81.|4|2|3|27|2|81 = 3^4, so x + 1 = 4 and x = 3.
+What is the cube root of 125?|6|5|4|41|1|5 × 5 × 5 = 125, so the cube root of 125 is 5.
+What is (−2)^3?|8|-6|6|-8|3|(−2)^3 = (−2) × (−2) × (−2) = −8. An odd power of a negative number is negative.
+What is 10^4?|10000|40|1048576|10010|0|10^4 means 10 multiplied by itself 4 times: 10 × 10 × 10 × 10 = 10000.
+Write 2^5 · 2^3 as a single power.|2^15|4^8|2^8|2^2|2|When multiplying powers with the same base, add the exponents: 5 + 3 = 8.
+What is 3.4 × 10^5 written as an ordinary number?|34,000|3,400,000|340,000|0.000034|2|Move the decimal point 5 places to the right: 340,000.
+What is (2/3)^(−2)?|4/9|−4/9|−9/4|9/4|3|Flip the fraction and square: (2/3)^(−2) = (3/2)^2 = 9/4.
+What is (2^3 · 2^5) ÷ 2^6?|2|4|8|16|1|2^3 · 2^5 = 2^8 and 2^8 ÷ 2^6 = 2^2 = 4.
+What is the cube root of −8?|-2|2|-4|4|0|(−2) × (−2) × (−2) = −8, so the cube root of −8 is −2.
+What is 5^3?|15|243|130|125|3|5^3 means 5 multiplied by itself 3 times: 5 × 5 × 5 = 125.
+What is 2^(−3)?|1/8|−8|1/6|−6|0|A negative exponent means the reciprocal: 2^(−3) = 1/2^3 = 1/8.
+What is 7^0?|0|1|7|70|1|Any non-zero number raised to the power 0 equals 1.
+Write 72,000,000 in scientific notation.|7.2 × 10^8|72 × 10^6|7.2 × 10^7|7.2 × 10^6|2|Move the decimal point 7 places left to get 7.2.
+Write 0.0056 in scientific notation.|5.6 × 10^3|5.6 × 10^(−3)|5.6 × 10^(−2)|56 × 10^(−4)|1|Move the decimal point 3 places right to get 5.6, so the exponent is −3.
+Between which two consecutive integers is √20?|3 and 4|5 and 6|2 and 3|4 and 5|3|16 < 20 < 25, so √20 is between 4 and 5.
+Calculate (8 × 10^2) ÷ (4 × 10^6).|2 × 10^4|4 × 10^(−4)|2 × 10^(−4)|2 × 10^(−3)|2|8 ÷ 4 = 2 and 2 − 6 = −4.
+What is (3^5 · 3^(−2)) ÷ 3^2?|3|9|1|27|0|The exponents combine as 5 + (−2) − 2 = 1, so the value is 3^1 = 3.
+What is the positive square root of 144?|13|11|72|12|3|12 × 12 = 144, so the square root of 144 is 12.
+What is 3^4?|12|64|81|84|2|3^4 means 3 multiplied by itself 4 times: 3 × 3 × 3 × 3 = 81.
+What is 2^5?|32|10|25|34|0|2^5 means 2 multiplied by itself 5 times: 2 × 2 × 2 × 2 × 2 = 32.
+What is 2.5 × 10^(−3) written as an ordinary number?|2500|0.0025|0.025|0.00025|1|Move the decimal point 3 places to the left: 0.0025.
+What is the cube root of 216?|6|8|36|72|0|6 × 6 × 6 = 216.
+Write 3^2 · 3^4 as a single power.|3^8|9^6|3^6|3^2|2|When multiplying powers with the same base, add the exponents: 2 + 4 = 6.
+Calculate √2 · √18.|4|6|9|36|1|√2 · √18 = √36 = 6.
+Solve 2^x = 64.|5|7|32|6|3|64 = 2^6, so x = 6.
+What is (−5)^0?|0|1|-5|-1|1|Any non-zero number raised to the power 0 equals 1, even a negative number.
+What is the cube root of 27?|4|2|3|9|2|3 × 3 × 3 = 27, so the cube root of 27 is 3.
+Simplify √50.|5√2|2√25|25√2|10√5|0|√50 = √(25 × 2) = 5√2.
+Write 4500 in scientific notation.|45 × 10^2|4.5 × 10^4|0.45 × 10^3|4.5 × 10^3|3|Move the decimal point 3 places left to get 4.5, so 4500 = 4.5 × 10^3.
+What is (1/2)^(−3)?|1/8|−8|−6|8|3|A negative exponent flips the fraction: (1/2)^(−3) = 2^3 = 8.
+Between which two consecutive integers is √90?|9 and 10|8 and 9|10 and 11|45 and 46|0|81 < 90 < 100, so √90 is between 9 and 10.
+Calculate (2 × 10^3)(3 × 10^4).|6 × 10^12|6 × 10^7|5 × 10^7|6 × 10^6|1|Multiply the numbers (2 × 3 = 6) and add the exponents (3 + 4 = 7).
+Simplify √48.|2√12|6√2|4√3|16√3|2|√48 = √(16 × 3) = 4√3.
+What is the fourth root of 81?|9|27|4|3|3|3 × 3 × 3 × 3 = 81.
+Simplify √72.|6√2|8√3|3√8|36√2|0|√72 = √(36 × 2) = 6√2.
+What is √(16/25)?|16/5|4/5|8/25|4/25|1|√(16/25) = √16 / √25 = 4/5.
+Solve 5^(2x) = 625.|4|3|2|1|2|625 = 5^4, so 2x = 4 and x = 2.
+Write (5^2)^3 as a single power.|5^5|5^6|5^8|15^2|1|When raising a power to a power, multiply the exponents: 2 × 3 = 6.
+Write 7^6 ÷ 7^2 as a single power.|7^8|7^12|7^4|1^4|2|When dividing powers with the same base, subtract the exponents: 6 − 2 = 4.
+Calculate √12 · √3.|6|4|36|9|0|√12 · √3 = √36 = 6.
+Calculate (6 × 10^8) ÷ (3 × 10^3).|2 × 10^11|3 × 10^5|2 × 10^4|2 × 10^5|3|Divide the numbers (6 ÷ 3 = 2) and subtract the exponents (8 − 3 = 5).
+Write (4 × 10^5)(5 × 10^3) in scientific notation.|20 × 10^8|9 × 10^8|2 × 10^8|2 × 10^9|3|4 × 5 = 20 and 10^5 × 10^3 = 10^8, so the product is 20 × 10^8 = 2 × 10^9 in scientific notation.
+What is the cube root of −125?|-5|5|-25|25|0|(−5)^3 = −125, so the cube root of −125 is −5.

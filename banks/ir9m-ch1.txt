@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMHH
+How many subsets does the set {5} have?|1|2|3|4|1|The number of subsets is 2 to the power of the number of elements: 2^1 = 2 (the empty set and the set itself).
+Which symbol represents the empty set?|U|N|Z|∅|3|The empty set is written ∅ or { }.
+If A = {1, 2, 3} and B = {3, 4}, what is A ∪ B?|{3}|{1, 2}|{1, 2, 3, 4}|{4}|2|The union contains all elements of both sets, written once each.
+How many subsets does a set with 4 elements have?|16|8|12|4|0|2^4 = 16.
+If U = {1, 2, ..., 10} and A is the set of even numbers in U, what is A'?|{1, 3, 5, 7, 9}|{2, 4, 6, 8, 10}|{1, 2, ..., 10}|∅|0|The complement of A contains all the odd numbers in U.
+Which statement is correct?|Z ⊂ N|Q ⊂ Z|N ⊂ W ⊂ Z ⊂ Q ⊂ R|R ⊂ Q|2|From smallest to largest the number sets are: natural, whole, integers, rational, real.
+If n(A) = 7, n(B) = 5 and A ∩ B has 2 elements, what is n(A − B)?|3|7|2|5|3|Two of the 7 elements of A are also in B, so A − B has 5 elements.
+If U = {1, ..., 9}, A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, what is A ∩ B'?|{5, 6}|{1, 2}|{7, 8, 9}|{3, 4}|1|A ∩ B' contains the elements of A that are not in B: 1 and 2.
+What type of set is the set of months of the year?|Finite|Infinite|Empty|Universal|0|There are twelve months, so counting them ends. The set is finite.
+Which option writes a set correctly?|(1, 2, 3)|[1, 2, 3]|1, 2, 3|{1, 2, 3}|3|A set is written with braces, and its elements go inside them.
+If A = {2, 4, 6}, which statement is true?|4 ∉ A|4 ∈ A|4 ⊆ A|4 = A|1|The number 4 is an element of A, so we write 4 ∈ A.
+Which two sets are equal?|{1, 2} and {1, 2, 3}|{1, 2} and {2, 3}|{1, 2, 3} and {3, 1, 2}|∅ and {0}|2|Sets with the same elements are equal, even when the order is different.
+If A = {1, 2, 3, 4} and B = {3, 4, 5}, what is A − B?|{5}|{3, 4}|{1, 2, 5}|{1, 2}|3|A − B contains the elements of A that are not in B: 1 and 2.
+How many elements does the set of one-digit prime numbers have?|4|3|5|6|0|The one-digit primes are 2, 3, 5 and 7.
+In a class of 30 students, 18 play football, 15 play volleyball and 5 play neither. How many play both?|7|8|10|3|1|25 students play at least one sport. 18 + 15 − 25 = 8 play both.
+If A = {1, 2, 3}, B = {2, 3, 4} and C = {3, 4, 5}, what is (A ∪ B) ∩ C?|{3}|{2, 3, 4}|{3, 4}|{1, 2, 3, 4, 5}|2|A ∪ B = {1, 2, 3, 4}, and its intersection with C is {3, 4}.
+Which of these sets is infinite?|The days of the week|The digits 0 to 9|The months of the year|The natural numbers|3|The natural numbers never end, so their set is infinite.
+How does the empty set relate to other sets?|It is a subset of every set|It is only a subset of itself|It is a subset of no set|It is an element of every set|0|The empty set is a subset of every set.
+If A = {1, 2, 3} and B = {3, 4}, what is A ∩ B?|{1, 2, 3, 4}|{4}|{3}|∅|2|The intersection contains the common elements, and only 3 is in both sets.
+If A ⊆ B, what is A ∪ B?|A|B|∅|A ∩ B|1|When A lies inside B, the union is just B.
+How many subsets does a set with 3 elements have?|6|9|3|8|3|2^3 = 8.
+If n(A) = 10, n(B) = 8 and n(A ∩ B) = 5, what is n(A ∪ B)?|18|13|23|5|1|n(A ∪ B) = 10 + 8 − 5 = 13.
+How many non-empty subsets does a set with 5 elements have?|30|32|31|25|2|There are 32 subsets in total and one of them is empty, so 31 are non-empty.
+If n(A) = 5, n(B) = 3 and A and B are disjoint, how many subsets does A ∪ B have?|256|8|16|128|0|A ∪ B has 8 elements and 2^8 = 256.
+If U = {1, 2, 3, 4, 5} and A = {1, 2}, what is A'?|{3, 4, 5}|{1, 2}|{1, 2, 3, 4, 5}|∅|0|The complement of A contains the elements of U that are not in A.
+Which of these sets has exactly one element?|∅|{1, 2}|{0}|{1, 2, 3}|2|The set {0} has exactly one element, the number zero.
+Which set is equal to {1, 2, 2, 3}?|{1, 2}|{1, 2, 3}|{2, 3}|{1, 2, 3, 4}|1|Repeating an element does not change a set, so {1, 2, 2, 3} is the same as {1, 2, 3}.
+What are the elements of A = {x ∈ Z : x² = 4}?|{2}|{4}|{−4, 4}|{−2, 2}|3|The integers whose square is 4 are 2 and −2.
+If A = {a, b, c} and B = {b}, what is A − B?|{b}|{a, c}|{a, b, c}|∅|1|The element b is removed from A, leaving a and c.
+What are the elements of A = {x ∈ W : x < 3}?|{0, 1, 2}|{1, 2}|{0, 1, 2, 3}|{1, 2, 3}|0|The whole numbers start at 0, so the whole numbers less than 3 are 0, 1 and 2.
+If A ⊆ B, n(A) = 3 and n(B) = 5, how many sets C satisfy A ⊆ C ⊆ B?|2|8|6|4|3|C must contain all of A. Each of the 2 other elements of B can be in C or not, so 2^2 = 4.
+If n(A ∪ B) = 20, n(A) = 12 and n(B) = 10, what is n(A ∩ B)?|4|8|2|22|2|20 = 12 + 10 − n(A ∩ B), so n(A ∩ B) = 2.
+Which symbol represents the set of natural numbers?|W|Z|Q|N|3|N is the natural numbers, W the whole numbers, Z the integers, Q the rational numbers and R the real numbers.
+If A = {2, 4, 6, 8}, what is n(A)?|2|4|8|6|1|n(A) is the number of elements of A, and this set has four elements.
+What does the symbol ⊆ mean?|is an element of|union|is a subset of|intersection|2|A ⊆ B means every element of A is also an element of B.
+Which relation is always true?|A ∩ B ⊆ A|A ⊆ A ∩ B|A ∪ B ⊆ A|A − B = B − A|0|Every element of A ∩ B is also in A, so A ∩ B ⊆ A.
+How many two-element subsets does {a, b, c} have?|2|4|3|6|2|They are {a, b}, {a, c} and {b, c}.
+If A ⊆ U, what is (A')'?|A|A'|U|∅|0|The complement of the complement of A is A again.
+How many elements does A = {x ∈ Z : −2 ≤ x < 2} have?|3|5|2|4|3|The elements are −2, −1, 0 and 1.
+How many subsets of a 3-element set are not equal to the set itself?|6|7|8|9|1|There are 8 subsets in total. Remove the set itself and 7 remain.
+How many elements does the set {a, b, c, d} have?|3|5|4|1|2|The set lists four different elements.
+What is a set with no elements called?|The empty set|The universal set|An infinite set|A singleton set|0|A set without any elements is called the empty set.
+What are the elements of A = {x ∈ N : x < 5}?|{0, 1, 2, 3, 4}|{1, 2, 3, 4}|{1, 2, 3, 4, 5}|{5}|1|The natural numbers less than 5 are 1, 2, 3 and 4.
+If A ⊆ B, what is A ∩ B?|B|∅|U|A|3|When A lies inside B, the common elements are exactly the elements of A.
+If A ⊆ U, what is A ∩ A'?|U|A|A'|∅|3|No element is in both A and its complement, so their intersection is empty.
+How many elements does {x ∈ N : x ≤ 10 and x is a multiple of 3} have?|4|3|2|10|1|The multiples of 3 up to 10 are 3, 6 and 9.
+A set has 64 subsets. How many elements does it have?|4|5|6|8|2|2^6 = 64, so the set has 6 elements.
+If A ⊆ B and B ⊆ A, what can we conclude?|A = B|A ∩ B = ∅|A is only a subset of B|A' = B|0|If each set is a subset of the other, they have exactly the same elements, so they are equal.
+What is (A − B) ∪ (A ∩ B)?|A|B|A ∪ B|∅|0|Elements of A are either not in B or in B, so together they make up all of A.
+If U = {1, ..., 9}, A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, what is (A ∪ B)'?|{3, 4}|{7, 8, 9}|{1, 2, 5, 6}|{1, ..., 9}|1|A ∪ B = {1, 2, 3, 4, 5, 6}, and its complement in U is {7, 8, 9}.
