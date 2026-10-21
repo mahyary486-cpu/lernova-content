@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
+What are the elements of group 18 called?|Halogens|Alkali metals|Noble gases|Metalloids|2|Group 18 elements are the noble gases, which are unreactive.
+What are the columns of the periodic table called?|Periods|Shells|Series|Groups|3|Columns are groups (18 of them) and rows are periods (7 of them).
+Which particle in an atom has no electric charge?|Neutron|Proton|Electron|Ion|0|Protons are positive (+1), electrons are negative (−1) and neutrons have no charge.
+Magnesium has the electron arrangement 2, 8, 2. In which period is it?|Period 2|Period 3|Period 8|Period 12|1|Three shells are in use, so magnesium is in period 3.
+How many valence electrons do the elements of group 2 have?|1|8|3|2|3|Group 1 has 1, group 2 has 2, and groups 13 to 18 have 3 to 8 valence electrons.
+What are isotopes?|Atoms of the same element with different numbers of neutrons|Atoms with different numbers of protons|Ions with different charges|Atoms with different numbers of electrons only|0|Isotopes have the same number of protons but different numbers of neutrons.
+Proteins are polymers made from which monomers?|Glucose|Amino acids|Ethene|Nucleotides only|1|Proteins are natural polymers of amino acids.
+What is the percentage of nitrogen in ammonia, NH₃ (N = 14, H = 1)?|About 18%|About 14%|About 82%|About 50%|2|The molar mass is 14 + 3 = 17, and 14 ÷ 17 × 100 ≈ 82%.
+Which of these is a natural polymer?|Polyethylene|PVC|Starch|Nylon|2|Starch is made by plants from glucose. Polyethylene, PVC and nylon are synthetic.
+Which gas makes up about 78% of air?|Nitrogen|Oxygen|Carbon dioxide|Argon|0|Air is about 78% nitrogen (N₂), 21% oxygen and small amounts of other gases.
+What does the atomic number of an atom tell us?|The number of neutrons|The number of shells|The mass in grams|The number of protons|3|The atomic number Z is the number of protons in the nucleus.
+What is the electron arrangement of the atom with atomic number 11?|2, 9|2, 8, 1|2, 8, 2|1, 8, 2|1|The first shell holds 2, the second 8, and the last electron goes in the third shell.
+Polyethylene is made by joining molecules of which monomer?|Glucose|Amino acids|Methane|Ethene (C₂H₄)|3|Polyethylene is formed from many ethene molecules joined together.
+Why is it important to recycle plastics?|Plastics are made of metals|Plastics dissolve in water|Many synthetic polymers do not decay easily|Plastics are natural polymers|2|Plastic waste stays in the environment for a very long time, so reducing, reusing and recycling matters.
+Silicon is a metalloid. What does that mean?|It shows properties of both metals and nonmetals|It is a liquid metal|It is a noble gas|It is a synthetic polymer|0|Metalloids lie along the zigzag line in the periodic table and have mixed properties.
+Which list shows the metals from most reactive to least reactive?|Copper, iron, magnesium, sodium|Sodium, magnesium, iron, copper|Iron, sodium, copper, magnesium|Magnesium, sodium, copper, iron|1|This order follows the reactivity series.
+What is a monomer?|A small unit that repeats to form a polymer|A very long molecule|A metal ion|A synthetic fibre|0|A polymer is made by joining many monomers.
+What are the elements of group 1 (except hydrogen) called?|Halogens|Noble gases|Metalloids|Alkali metals|3|Group 1 elements such as lithium, sodium and potassium are the alkali metals.
+Which property is typical of metals?|They are brittle when solid|They are poor conductors of heat|They are good conductors of electricity|They have a dull surface|2|Metals are shiny, malleable and ductile, and they conduct heat and electricity well.
+What happens when an iron nail is placed in copper sulfate solution?|Copper displaces iron|Iron displaces copper from the solution|Nothing happens|Hydrogen gas is released|1|Iron is more reactive than copper, so Fe + CuSO₄ → FeSO₄ + Cu.
+A sample has a mass of 50 g and a volume of 10 cm³. What is its density?|0.2 g/cm³|5 g/cm³|500 g/cm³|40 g/cm³|1|Density = mass ÷ volume = 50 ÷ 10 = 5 g/cm³.
+Which of these metals does NOT react with dilute acids to give hydrogen?|Magnesium|Zinc|Copper|Iron|2|Copper is below hydrogen in the reactivity series, so it does not react with dilute acids.
+An atom has 17 protons and 18 neutrons. What is its mass number?|35|17|18|1|0|A = 17 + 18 = 35.
+Which mixture will react?|Copper metal and zinc sulfate solution|Gold metal and copper sulfate solution|Silver metal and copper sulfate solution|Zinc metal and copper sulfate solution|3|Only a more reactive metal displaces a less reactive one. Zinc is more reactive than copper.
+Which metal is a liquid at room temperature?|Iron|Mercury|Copper|Aluminum|1|Mercury is the only common metal that is liquid at room temperature.
+Steel is iron mixed with a small amount of which element?|Carbon|Zinc|Copper|Sulfur|0|Steel is iron with a little carbon, which makes it stronger than pure iron.
+What is an alloy?|A pure nonmetal|A compound of two nonmetals|A mixture of a metal with other elements|A polymer made from oil|2|Alloys such as steel and brass are mixtures of a metal with other elements.
+Why is gold found pure in nature?|It is very light|It is a liquid|It is a nonmetal|It is very unreactive|3|Gold does not react easily with oxygen or water, so it is found uncombined.
+What is the electron arrangement of the atom with atomic number 17?|2, 8, 8|2, 7, 8|2, 8, 7|2, 15|2|17 electrons fill the shells as 2, 8, 7.
+Which products form when sodium reacts with cold water?|Sodium oxide and oxygen|Sodium chloride and water|Sodium carbonate and hydrogen|Sodium hydroxide and hydrogen|3|The reaction is 2Na + 2H₂O → 2NaOH + H₂.
+An element has the electron arrangement 2, 8, 8, 1. Where is it in the periodic table?|Group 1, period 4|Group 4, period 1|Group 8, period 4|Group 1, period 3|0|It has 1 valence electron (group 1) and 4 shells in use (period 4).
+Atom X has 6 protons and 6 neutrons. Atom Y has 6 protons and 8 neutrons. What are X and Y?|Different elements|Isotopes of the same element|Ions of one element|Atoms of different groups|1|Both have 6 protons, so they are the same element with different numbers of neutrons.
+What is chlorine used for in water treatment?|To add flavor|To kill germs|To make it hard|To lower its density|1|Chlorine is a poisonous gas that kills germs in drinking water and swimming pools.
+Which nonmetal conducts electricity?|Sulfur|Diamond|Graphite|Oxygen|2|Graphite is an important exception: it is a nonmetal that conducts electricity.
+Which gas formed by burning sulfur compounds causes acid rain?|Sulfur dioxide (SO₂)|Nitrogen (N₂)|Hydrogen (H₂)|Methane (CH₄)|0|Burning sulfur compounds makes SO₂, which dissolves in rainwater to make acid rain.
+How many electrons does a neutral atom with atomic number 17 have?|18|35|7|17|3|In a neutral atom the number of electrons equals the number of protons.
+An atom has 11 protons and 12 neutrons. What is its mass number?|11|23|12|1|1|Mass number A = protons + neutrons = 11 + 12 = 23.
+What is the percentage of chlorine in NaCl (Na = 23, Cl = 35.5)?|About 39%|About 50%|About 35%|About 61%|3|The molar mass is 58.5, and 35.5 ÷ 58.5 × 100 ≈ 61%.
+An atom has the electron arrangement 2, 8, 6. What is its atomic number?|16|6|8|18|0|Add the electrons: 2 + 8 + 6 = 16.
+Which element is needed for DNA and bones and is used in matches?|Sulfur|Nitrogen|Phosphorus|Fluorine|2|Phosphorus is needed for DNA and bones, and it is used in matches and fertilizers.
+Which nonmetal is the most reactive?|Fluorine|Chlorine|Oxygen|Nitrogen|0|Fluorine is the most reactive nonmetal.
+Which reaction makes ammonia?|N₂ + O₂ → 2NO|2H₂ + O₂ → 2H₂O|C + O₂ → CO₂|N₂ + 3H₂ → 2NH₃|3|Ammonia is made from nitrogen and hydrogen, and it is used to make fertilizers.
+Why is neon, with the electron arrangement 2, 8, unreactive?|It has only one valence electron|Its outer shell is full|It is a metal|It has no neutrons|1|A full outer shell makes an atom stable, so neon does not need to lose, gain or share electrons.
+Which metal gives hydrogen gas with dilute hydrochloric acid?|Copper|Silver|Magnesium|Gold|2|Metals above hydrogen in the reactivity series react with dilute acids.
+Which of these metals is the most reactive?|Copper|Gold|Iron|Sodium|3|In the reactivity series sodium is far above iron, copper and gold.
+Why do elements in the same group have similar chemical properties?|They have the same mass|They have the same number of valence electrons|They have the same number of shells|They have the same number of neutrons|1|Valence electrons decide chemical behavior, and elements in a group share the same number.
+How did Mendeleev show that his periodic table was useful?|He predicted undiscovered elements from gaps in the table|He counted electrons in atoms|He discovered all noble gases|He measured the mass of electrons|0|He left gaps for elements not yet found and predicted their properties.
+Why is copper used in electrical wires?|It is the lightest metal|It is a poor conductor|It conducts electricity well and can be drawn into wires|It never reacts with anything|2|Copper is a good conductor and is ductile (it can be drawn into thin wires).
+What is the process of joining monomers into a polymer called?|Distillation|Corrosion|Polymerization|Neutralization|2|Joining many small monomer molecules into a long chain is called polymerization.
+An atom has atomic number 20 and mass number 40. How many neutrons does it have?|40|60|10|20|3|Neutrons = A − Z = 40 − 20 = 20.

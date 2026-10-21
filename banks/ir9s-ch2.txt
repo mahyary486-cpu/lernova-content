@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
+What does an atom become when it gains electrons?|A positive ion (cation)|A proton|An alloy|A negative ion (anion)|3|Gaining electrons makes the ion negative.
+Does solid sodium chloride conduct electricity?|No, its ions cannot move|Yes, because it contains electrons|Yes, because it is a metal|Yes, but only a little because it is brittle|0|In the solid crystal the ions are fixed in place, so there is no flow of charge.
+What kind of ions do metals usually form?|Anions|Molecules|Cations|Isotopes|2|Metals usually lose electrons and form positive ions (cations).
+Why do ionic compounds have high melting points?|They contain small molecules|There are strong attractions between ions in the lattice|They contain free electrons|They are made of nonmetals only|1|A lot of energy is needed to separate the oppositely charged ions.
+Why are ionic crystals brittle?|Their atoms share electrons|They contain weak molecules|They are liquids when cold|A shifted layer brings equal charges together, and they repel|3|When layers move, ions with the same charge meet and repel each other, so the crystal splits.
+Which molecule contains double bonds?|H₂O|CO₂|CH₄|H₂|1|In CO₂ each carbon–oxygen bond is a double bond.
+What are the coefficients that balance CH₄ + O₂ → CO₂ + H₂O?|1, 1, 1, 1|2, 1, 1, 2|1, 2, 1, 2|1, 2, 2, 1|2|CH₄ + 2O₂ → CO₂ + 2H₂O has 1 C, 4 H and 4 O atoms on each side.
+What happens to atoms during a chemical reaction?|They are rearranged, not created or destroyed|They are created|They are destroyed|They change into other elements|0|This is why the number of each kind of atom is the same on both sides of a balanced equation.
+What does the law of conservation of mass state?|Total mass of reactants equals total mass of products|Mass increases in every reaction|Mass decreases in every reaction|Atoms are destroyed in reactions|0|Atoms are rearranged, not created or destroyed.
+What can you change when balancing a chemical equation?|The subscripts|The coefficients|The elements|The products|1|Coefficients change the number of molecules. Changing subscripts would change the substance.
+Which of these has covalent bonds?|NaCl|MgCl₂|H₂O|Al₂O₃|2|Water is made of nonmetal atoms (H and O) that share electrons.
+Why can the mass seem to decrease when a reaction that makes a gas is done in an open container?|Atoms are destroyed|Mass is converted into heat|The reaction stops|The gas escapes into the air|3|The mass of the gas leaves the container, but the total mass of all products is unchanged.
+Which substance conducts electricity when dissolved in water?|Sugar|Oxygen|Diamond|Sodium chloride|3|Sodium chloride gives free ions in solution. Sugar dissolves as neutral molecules.
+What are the coefficients that balance H₂ + O₂ → H₂O?|1, 1, 1|2, 1, 2|1, 2, 1|2, 2, 1|1|2H₂ + O₂ → 2H₂O has 4 H atoms and 2 O atoms on each side.
+An atom forms a 2+ ion with the electron arrangement 2, 8, 8. What is its atomic number?|20|18|22|10|0|The ion has 18 electrons and a 2+ charge, so the atom had 20 electrons and 20 protons (calcium).
+10 g of calcium carbonate is heated and gives 4.4 g of carbon dioxide and some calcium oxide. What is the mass of calcium oxide?|14.4 g|4.4 g|5.6 g|6.6 g|2|By conservation of mass, 10 − 4.4 = 5.6 g.
+How many pairs of electrons are shared in a double bond?|1|3|4|2|3|A single bond has 1 shared pair, a double bond 2 and a triple bond 3.
+When do ionic compounds conduct electricity?|When molten or dissolved in water|Only when solid|Never|Only when cold|0|In the molten state or in solution the ions are free to move and carry charge.
+How does a covalent bond form?|A metal transfers electrons to a nonmetal|Two nonmetal atoms share pairs of electrons|Two nuclei join together|Atoms lose all their electrons|1|A covalent bond is a shared pair of electrons.
+What is the formula of the compound made from Al³⁺ and O²⁻ ions?|AlO|Al₃O₂|Al₂O₃|AlO₂|2|Two Al³⁺ give +6 and three O²⁻ give −6, so the total charge is zero.
+A chlorine atom (2, 8, 7) gains one electron. What is the electron arrangement of the ion formed?|2, 8, 8|2, 8, 7|2, 8, 6|2, 8|0|With one more electron the outer shell has 8 electrons, and the ion is Cl⁻.
+An ion has 8 protons and 10 electrons. What is its charge?|2+|8−|10+|2−|3|Charge = 8 − 10 = −2.
+Why can subscripts not be changed to balance an equation?|It would change the mass|It would change the substance|It would change the temperature|Subscripts are not used in equations|1|For example, changing H₂O to H₂O₂ gives hydrogen peroxide, a different substance.
+How many electrons does an Al³⁺ ion have (Z = 13)?|13|16|10|3|2|A neutral aluminum atom has 13 electrons, and losing 3 leaves 10.
+Which of these is an ionic compound?|H₂O|CO₂|CH₄|NaCl|3|NaCl is formed from a metal (Na) and a nonmetal (Cl). The others contain only nonmetals.
+How does an ionic bond form?|Two nonmetals share electrons|A metal atom transfers electrons to a nonmetal atom|Two metals share protons|Atoms share neutrons|1|An ionic bond is the attraction between the positive and negative ions formed by electron transfer.
+Which of these is a giant covalent substance?|Water|Carbon dioxide|Diamond|Methane|2|Diamond is a giant network of carbon atoms joined by covalent bonds.
+Which statement about an ionic crystal is true?|It is a lattice of ions, not separate molecules|It is made of separate molecules|It contains only neutral atoms|It has no charge at all inside|0|Ionic compounds form a crystal lattice, and the ions are arranged in a repeating pattern.
+How many atoms are there in one formula unit of Al₂O₃?|5|2|3|6|0|Two aluminum atoms plus three oxygen atoms make 5 atoms.
+Why does a molten ionic compound conduct electricity?|It contains free neutrons|Its atoms are neutral|It contains protons that move|Its ions are free to move|3|Moving ions carry the electric charge.
+Which pair of elements will form an ionic compound?|Carbon and oxygen|Hydrogen and oxygen|Magnesium and chlorine|Nitrogen and hydrogen|2|A metal and a nonmetal form an ionic compound. The other pairs contain only nonmetals.
+What are the coefficients that balance Al + O₂ → Al₂O₃?|2, 3, 1|4, 3, 2|1, 1, 1|2, 2, 3|1|4Al + 3O₂ → 2Al₂O₃ has 4 Al atoms and 6 O atoms on each side.
+How many electrons does a sodium atom lose to form Na⁺?|2|8|11|1|3|Sodium has 1 valence electron, and losing it gives a stable outer shell.
+What does an atom become when it loses electrons?|A positive ion (cation)|A negative ion (anion)|A neutron|An isotope|0|Losing negative electrons leaves more protons than electrons, so the ion is positive.
+What is the formula of the compound made from Ca²⁺ and Cl⁻ ions?|CaCl|Ca₂Cl|CaCl₂|CaCl₃|2|One Ca²⁺ is balanced by two Cl⁻ ions.
+What are the coefficients that balance Mg + O₂ → MgO?|1, 1, 1|2, 1, 2|1, 2, 2|2, 2, 1|1|2Mg + O₂ → 2MgO has 2 Mg atoms and 2 O atoms on each side.
+Why do most covalent substances have low melting points?|The bonds inside molecules are weak|They contain ions|The forces between their molecules are weak|They are all metals|2|Melting only needs to separate the molecules from each other, which takes little energy.
+What are the coefficients that balance N₂ + H₂ → NH₃?|1, 1, 1|2, 3, 1|1, 2, 3|1, 3, 2|3|N₂ + 3H₂ → 2NH₃ has 2 N atoms and 6 H atoms on each side.
+Why does diamond have a very high melting point?|It contains ions|It is a giant network of strong covalent bonds|It has weak forces between molecules|It contains metal atoms|1|To melt diamond, many strong covalent bonds must be broken.
+What is the formula of the compound made from Mg²⁺ and Cl⁻ ions?|MgCl₂|MgCl|Mg₂Cl|Mg₂Cl₂|0|One Mg²⁺ needs two Cl⁻ ions to give a total charge of zero.
+In a closed container, 12 g of magnesium reacts completely with 8 g of oxygen. What is the mass of magnesium oxide formed?|4 g|96 g|20 g|12 g|2|By conservation of mass, the product mass equals the reactant mass: 12 + 8 = 20 g.
+What is the name of NaCl?|Sodium chlorine|Sodium chlorate only|Chloro-sodium|Sodium chloride|3|The nonmetal part of the name ends in -ide: chlorine becomes chloride.
+What is the total charge of an ionic compound such as MgCl₂?|Positive|Zero|Negative|It depends on the metal|1|The positive and negative charges always balance, so the compound is neutral.
+What is the formula of calcium oxide (Ca²⁺ and O²⁻)?|CaO|Ca₂O|CaO₂|Ca₂O₂|0|The charges +2 and −2 balance in a 1 : 1 ratio.
+Which molecule contains a triple bond?|O₂|H₂|Cl₂|N₂|3|In N₂ the two nitrogen atoms share three pairs of electrons.
+An ion has 12 protons and 10 electrons. What is its charge?|2−|2+|12+|10−|1|Charge = protons − electrons = 12 − 10 = +2.
+Which property does sodium chloride NOT have?|A high melting point|Brittleness|A low melting point|Conducting electricity when molten|2|NaCl melts at about 801 °C, which is high.
+A potassium atom (2, 8, 8, 1) forms an ion. What is it?|K⁺ with the arrangement 2, 8, 8|K⁻ with the arrangement 2, 8, 8, 2|K⁺ with the arrangement 2, 8, 8, 1|K²⁺ with the arrangement 2, 8|0|Losing one electron gives K⁺, with a full outer shell of 8.
+What is the formula of the compound made from Na⁺ and O²⁻ ions?|NaO|NaO₂|Na₂O₂|Na₂O|3|Two Na⁺ (total +2) balance one O²⁻.
+How many pairs of electrons are shared in total in one CO₂ molecule?|2|4|3|6|1|There are two C=O double bonds, and each has 2 shared pairs.
