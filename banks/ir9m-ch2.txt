@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
+Which of these numbers is irrational?|0.5|1/3|√2|√16|2|√2 = 1.41421... never ends and never repeats. 0.5, 1/3 and √16 = 4 are rational.
+What is the decimal form of 1/3?|0.3 (terminating)|0.333... (repeating)|0.13|0.033...|1|1 ÷ 3 gives 0.333... with the digit 3 repeating forever.
+Between which two integers does √2 lie?|1 and 2|0 and 1|2 and 3|3 and 4|0|1² = 1 and 2² = 4, and 1 < 2 < 4, so √2 is between 1 and 2.
+Calculate √3 · √12.|15|36|12|6|3|√3 · √12 = √36 = 6.
+Which fraction is between 1/3 and 1/2?|1/4|3/5|5/12|2/7|2|The average (1/3 + 1/2)/2 = 5/12 lies between them.
+Between which two integers does √20 lie?|3 and 4|5 and 6|10 and 11|4 and 5|3|16 < 20 < 25, so 4 < √20 < 5.
+Calculate ∣3 − π∣ + ∣π − 4∣.|2π − 7|1|7 − 2π|2|1|∣3 − π∣ = π − 3 and ∣π − 4∣ = 4 − π. The sum is 1.
+Simplify 4/(√5 − 1).|√5 + 1|√5 − 1|4(√5 + 1)|(√5 + 1)/4|0|Multiply by the conjugate: 4(√5 + 1)/(5 − 1) = √5 + 1.
+Is the integer 5 a rational number?|No, because it has no decimal part|Yes, because 5 = 5/1|No, only fractions are rational|Only if it is written as 5.0|1|Every integer n can be written as n/1, so every integer is rational.
+Which is greater, 1/2 or 1/3?|1/3|They are equal|1/2|It cannot be decided|2|1/2 = 3/6 and 1/3 = 2/6, so 1/2 is greater.
+Write 0.25 as a fraction in lowest terms.|1/4|25/10|2/5|1/25|0|0.25 = 25/100 = 1/4.
+How many solutions does ∣x∣ = −2 have?|One|Two|Infinitely many|None|3|An absolute value is never negative, so ∣x∣ = −2 has no solution.
+Calculate √50 / √2.|25|√25/2|5|10|2|√50 / √2 = √(50/2) = √25 = 5.
+The exact value is √2 = 1.41421... What is the error if we use 1.41?|0.0042|0.042|0.00042|0.41|0|Error = ∣1.41421 − 1.41∣ = 0.00421, about 0.0042.
+Simplify √8 + √32 − √18.|√22|3√2|4√2|2√2|1|√8 = 2√2, √32 = 4√2 and √18 = 3√2. So 2√2 + 4√2 − 3√2 = 3√2.
+About what is the relative error when 3.14 is used to approximate π?|0.5%|5%|0.005%|0.05%|3|The error is π − 3.14 ≈ 0.00159, and 0.00159 / 3.14159 ≈ 0.0005 = 0.05%.
+What is ∣−7∣?|−7|7|0|14|1|The absolute value is the distance from 0, so ∣−7∣ = 7.
+Which of these square roots is a rational number?|√50|√2|√49|√20|2|√49 = 7, which is an integer and therefore rational.
+Round 3.14159 to two decimal places.|3.14|3.15|3.1|3.142|0|The third decimal digit is 1, which is less than 5, so the second digit stays the same.
+What is the relative error when 19.8 is used to approximate 20?|0.2%|10%|0.1%|1%|3|The error is 0.2 and the relative error is 0.2/20 = 0.01 = 1%.
+Simplify √72.|6√2|8√3|36√2|2√18|0|√72 = √(36 · 2) = 6√2.
+What is ∣3 − π∣ equal to?|3 − π|π − 3|3 + π|−π − 3|1|Since π ≈ 3.14 is greater than 3, the number 3 − π is negative, so its absolute value is π − 3.
+Which list is in increasing order?|√2, 1.4, 3/2|3/2, √2, 1.4|1.4, 3/2, √2|1.4, √2, 3/2|3|1.4 < 1.41421... < 1.5.
+Rationalize the denominator of 1/(√3 − 1).|√3 + 1|√3 − 1|(√3 + 1)/2|(√3 − 1)/2|2|Multiply by the conjugate: (√3 + 1)/(3 − 1) = (√3 + 1)/2.
+Which of these numbers is rational?|√2|π|√3|0.75|3|0.75 = 3/4 is a fraction of two integers. √2, √3 and π are irrational.
+What is ∣0∣?|1|−1|0|Undefined|2|The distance from 0 to 0 is 0.
+What is 3/8 as a decimal?|0.38|0.375|0.83|0.325|1|Divide 3 by 8: 3 ÷ 8 = 0.375.
+Simplify √18 + √8.|5√2|√26|4√2|5√4|0|√18 = 3√2 and √8 = 2√2, so the sum is 5√2.
+Which statement is true?|Every rational number is an integer|Every real number is rational|Every integer is a rational number|Some numbers are both rational and irrational|2|Every integer n equals n/1, so integers are rational. The other statements are false.
+Round 2.675 to one decimal place.|2.7|2.6|2.67|2.68|0|The digit after the first decimal is 7, so round up: 2.7.
+Calculate ∣√2 − 2∣ + ∣√2 − 1∣.|2√2 − 3|1|3 − 2√2|2|1|Since √2 ≈ 1.41: ∣√2 − 2∣ = 2 − √2 and ∣√2 − 1∣ = √2 − 1. The sum is 1.
+Solve ∣2x − 1∣ = 7.|x = 4 only|x = 3 or x = −4|x = 7 or x = −7|x = 4 or x = −3|3|2x − 1 = 7 gives x = 4, and 2x − 1 = −7 gives x = −3.
+Simplify 3√5 + 2√5.|5√10|6√5|5√5|√5|2|Add the coefficients of the like radicals: 3 + 2 = 5.
+What are the solutions of ∣x∣ = 5?|x = 5 only|x = −5 only|There is no solution|x = 5 and x = −5|3|Both 5 and −5 are at a distance of 5 from 0.
+Is 1.4 an approximation of √2 from below or from above?|From below|From above|It is exact|It is neither|0|1.4 is smaller than √2 = 1.41421..., so it is an approximation from below.
+Calculate (2√3)(5√6).|10√9|30√2|10√18|7√9|1|(2 × 5)√(3 × 6) = 10√18 = 10 · 3√2 = 30√2.
+Which of these square roots is irrational?|√25|√16|√20|√0.25|2|20 is not a perfect square. √25 = 5, √16 = 4 and √0.25 = 0.5 are rational.
+Calculate (3 + √2)(3 − √2).|11|7|9 − 2√2|9 + 2√2|1|(a + b)(a − b) = a² − b² = 9 − 2 = 7.
+Solve ∣x − 1∣ = ∣x + 3∣.|x = −1|x = 1|x = 3|There is no solution|0|x is equally far from 1 and −3, so it is their midpoint: x = −1.
+Write 0.666... as a fraction.|6/10|3/2|66/100|2/3|3|Let x = 0.666... Then 10x = 6.666... Subtracting gives 9x = 6, so x = 2/3.
+Evaluate ∣−8∣ − ∣5 − 9∣.|4|12|0|−4|0|∣−8∣ = 8 and ∣5 − 9∣ = ∣−4∣ = 4. So 8 − 4 = 4.
+Rationalize the denominator of 6/√3.|6√3|2√3|√3/2|2/√3|1|Multiply the top and bottom by √3: 6√3/3 = 2√3.
+Write 0.1666... (the digit 6 repeating) as a fraction.|1/7|16/100|1/6|1/60|2|Let x = 0.1666... Then 100x − 10x = 16.666... − 1.666... = 15, so 90x = 15 and x = 1/6.
+Round √10 = 3.16227... to two decimal places.|3.17|3.2|3.162|3.16|3|The third decimal digit is 2, which is less than 5, so the answer is 3.16.
+What is the distance between −3 and 4 on the number line?|1|−7|7|12|2|The distance is ∣4 − (−3)∣ = ∣7∣ = 7.
+Solve ∣x − 2∣ = 5.|x = 7 only|x = 3 or x = −7|x = 5 or x = −5|x = 7 or x = −3|3|x − 2 = 5 gives x = 7, and x − 2 = −5 gives x = −3.
+Expand (√2 + √3)².|5|5 + 2√6|2 + 3|5 + √6|1|(√2)² + 2(√2)(√3) + (√3)² = 2 + 2√6 + 3 = 5 + 2√6.
+Write 0.4545... (the digits 45 repeating) as a fraction.|5/11|45/100|9/20|4/9|0|Let x = 0.4545... Then 100x = 45.4545... Subtracting gives 99x = 45, so x = 45/99 = 5/11.
+Which example shows that the sum of two irrational numbers can be rational?|√2 + √3|π + 1|√2 + 1|√2 + (−√2) = 0|3|Both √2 and −√2 are irrational, but their sum is 0, which is rational.
+Why is 0.101001000100001... (the number of zeros keeps growing) irrational?|It has too many zeros|Its decimals never end and never repeat|It is smaller than 1|Its decimals end after a while|1|A rational number has a terminating or repeating decimal. This one does neither.
