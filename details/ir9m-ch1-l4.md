@@ -1,49 +1,49 @@
-# Complement of a set
+# متمم یک مجموعه
 
-The complement of a set A is the set of all elements of the universal set that are not in A.
+متمم مجموعه‌ی A، مجموعه‌ی همه‌ی عضوهای مجموعه‌ی مرجع است که در A نیستند.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- The universal set U is the large set that contains all the elements we are talking about in a problem. Every other set in the problem is a subset of U.
-- The complement of A, written A' (some books write A^c), is the set of elements of U that are not in A. So A' = {x ∈ U | x ∉ A}.
-- Facts about complements: A ∪ A' = U, A ∩ A' = ∅, (A')' = A, U' = ∅ and ∅' = U.
-- For finite sets: n(A') = n(U) - n(A).
-- The difference of two sets, A - B, is the set of elements that are in A but not in B. It can also be written A ∩ B'.
-- De Morgan's laws connect complement, union and intersection: (A ∪ B)' = A' ∩ B' and (A ∩ B)' = A' ∪ B'.
-- The complement always depends on the universal set. The same set A has a different complement if U changes.
+- مجموعه‌ی مرجع U مجموعه‌ی بزرگی است که همه‌ی عضوهای مورد بحث در مسئله را دارد. هر مجموعه‌ی دیگر در مسئله زیرمجموعه‌ی U است.
+- متمم A که با A' نشان داده می‌شود (در برخی کتاب‌ها A^c)، مجموعه‌ی عضوهای U است که در A نیستند. یعنی A' = {x ∈ U | x ∉ A}.
+- نکته‌هایی درباره‌ی متمم: A ∪ A' = U، A ∩ A' = ∅، (A')' = A، U' = ∅ و ∅' = U.
+- برای مجموعه‌های متناهی: n(A') = n(U) - n(A).
+- تفاضل دو مجموعه، A - B، مجموعه‌ی عضوهایی است که در A هستند ولی در B نیستند. آن را می‌توان A ∩ B' هم نوشت.
+- قوانین دمورگان، متمم، اجتماع و اشتراک را به هم مربوط می‌کنند: (A ∪ B)' = A' ∩ B' و (A ∩ B)' = A' ∪ B'.
+- متمم همیشه به مجموعه‌ی مرجع بستگی دارد. اگر U عوض شود، متمم همان مجموعه‌ی A هم فرق می‌کند.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Let U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and A = {2, 4, 6, 8, 10}. Find A' and check n(A') = n(U) - n(A).
+مثال ۱. فرض کنید U = {۱، ۲، ۳، ۴، ۵، ۶، ۷، ۸، ۹، ۱۰} و A = {۲، ۴، ۶، ۸، ۱۰}. A' را بیابید و درستی n(A') = n(U) - n(A) را بررسی کنید.
 
-Step 1: A' contains the elements of U that are not in A.
-Step 2: Remove 2, 4, 6, 8, 10 from U. What remains is A' = {1, 3, 5, 7, 9}.
-Step 3: n(U) = 10 and n(A) = 5, so n(U) - n(A) = 5. The set A' has 5 elements. Correct.
+گام ۱: A' شامل عضوهایی از U است که در A نیستند.
+گام ۲: عضوهای ۲، ۴، ۶، ۸، ۱۰ را از U کنار می‌گذاریم. آنچه می‌ماند A' = {۱، ۳، ۵، ۷، ۹} است.
+گام ۳: n(U) = ۱۰ و n(A) = ۵، پس n(U) - n(A) = ۵. مجموعه‌ی A' پنج عضو دارد. درست است.
 
-Example 2. Let U = {1, 2, 3, 4, 5, 6, 7, 8}, A = {1, 2, 3, 4} and B = {3, 4, 5, 6}. Check that (A ∪ B)' = A' ∩ B'.
+مثال ۲. فرض کنید U = {۱، ۲، ۳، ۴، ۵، ۶، ۷، ۸}، A = {۱، ۲، ۳، ۴} و B = {۳، ۴، ۵، ۶}. نشان دهید (A ∪ B)' = A' ∩ B'.
 
-Step 1: A ∪ B = {1, 2, 3, 4, 5, 6}. Then (A ∪ B)' = {7, 8}.
-Step 2: A' = {5, 6, 7, 8} and B' = {1, 2, 7, 8}.
-Step 3: The common elements of A' and B' are 7 and 8. So A' ∩ B' = {7, 8}.
-Step 4: Both sides equal {7, 8}, so the law holds in this example.
+گام ۱: A ∪ B = {۱، ۲، ۳، ۴، ۵، ۶}. پس (A ∪ B)' = {۷، ۸}.
+گام ۲: A' = {۵، ۶، ۷، ۸} و B' = {۱، ۲، ۷، ۸}.
+گام ۳: عضوهای مشترک A' و B' برابر ۷ و ۸ هستند. پس A' ∩ B' = {۷، ۸}.
+گام ۴: دو طرف برابر {۷، ۸} است، پس قانون در این مثال برقرار است.
 
-Example 3. With the same U, A and B as in Example 2, find A - B, B - A and A ∩ B'. Then find (A ∩ B)' and A' ∪ B'.
+مثال ۳. با همان U و A و B مثال ۲، مجموعه‌های A - B و B - A و A ∩ B' را بیابید. سپس (A ∩ B)' و A' ∪ B' را بیابید.
 
-Step 1: A - B contains elements of A that are not in B. Remove 3 and 4 from A to get {1, 2}.
-Step 2: B - A contains elements of B that are not in A. Remove 3 and 4 from B to get {5, 6}.
-Step 3: A ∩ B' = {1, 2, 3, 4} ∩ {1, 2, 7, 8} = {1, 2}. This equals A - B.
-Step 4: A ∩ B = {3, 4}, so (A ∩ B)' = {1, 2, 5, 6, 7, 8}.
-Step 5: A' ∪ B' = {5, 6, 7, 8} ∪ {1, 2, 7, 8} = {1, 2, 5, 6, 7, 8}. It equals (A ∩ B)', so the second law holds too.
+گام ۱: A - B شامل عضوهای A است که در B نیستند. ۳ و ۴ را از A حذف می‌کنیم و {۱، ۲} می‌ماند.
+گام ۲: B - A شامل عضوهای B است که در A نیستند. ۳ و ۴ را از B حذف می‌کنیم و {۵، ۶} می‌ماند.
+گام ۳: A ∩ B' = {۱، ۲، ۳، ۴} ∩ {۱، ۲، ۷، ۸} = {۱، ۲}. این با A - B برابر است.
+گام ۴: A ∩ B = {۳، ۴}، پس (A ∩ B)' = {۱، ۲، ۵، ۶، ۷، ۸}.
+گام ۵: A' ∪ B' = {۵، ۶، ۷، ۸} ∪ {۱، ۲، ۷، ۸} = {۱، ۲، ۵، ۶، ۷، ۸}. این با (A ∩ B)' برابر است، پس قانون دوم هم برقرار است.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Finding a complement without knowing the universal set. Always read or write down U first.
-- Confusing A' with A - B. The complement removes A from U, while A - B removes B from A.
-- Assuming that A - B = B - A. In general they are different sets.
-- Forgetting that elements of U outside both A and B still belong to (A ∪ B)'.
+- پیداکردن متمم بدون دانستن مجموعه‌ی مرجع. همیشه اول U را بخوانید یا بنویسید.
+- اشتباه گرفتن A' با A - B. متمم، A را از U کم می‌کند ولی A - B مجموعه‌ی B را از A کم می‌کند.
+- فرض اینکه A - B = B - A. به‌طور کلی این دو مجموعه با هم فرق دارند.
+- فراموش‌کردن اینکه عضوهای U که در هیچ‌کدام از A و B نیستند، به (A ∪ B)' تعلق دارند.
 
-## Remember
+## به یاد داشته باشید
 
-- A ∪ A' = U and A ∩ A' = ∅.
+- A ∪ A' = U و A ∩ A' = ∅.
 - n(A') = n(U) - n(A).
-- The complement of a union is the intersection of the complements, and the complement of an intersection is the union of the complements.
+- متمم اجتماع برابر اشتراک متمم‌هاست و متمم اشتراک برابر اجتماع متمم‌هاست.

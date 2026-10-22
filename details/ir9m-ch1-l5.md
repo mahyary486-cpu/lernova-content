@@ -1,49 +1,49 @@
-# Finite and infinite sets
+# مجموعه‌های متناهی و نامتناهی
 
-A finite set has a limited number of elements that we can count completely, while an infinite set has elements that never come to an end.
+مجموعه‌ی متناهی تعداد عضو محدودی دارد که می‌توان آن را کامل شمرد، ولی مجموعه‌ی نامتناهی عضوهایی دارد که تمام نمی‌شوند.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- A set is finite if we can count its elements and the counting stops. The number of elements is written n(A).
-- The empty set ∅ is finite and n(∅) = 0.
-- A set is infinite if counting its elements never ends. Examples: the natural numbers N = {1, 2, 3, ...}, the integers Z, and the set of all even numbers.
-- We often write an infinite set with three dots when the pattern is clear, for example {2, 4, 6, 8, ...}.
-- Intervals of real numbers are infinite too. For example, there are infinitely many numbers between 0 and 1.
-- A finite set with n elements has 2^n subsets. An infinite set has infinitely many subsets.
-- A subset of a finite set is always finite. A subset of an infinite set can be finite or infinite. For example, {1, 2, 3} is a finite subset of N, and the even numbers are an infinite subset of N.
-- The union and intersection of finite sets are finite. The union of an infinite set with any set is infinite.
+- مجموعه متناهی است اگر بتوانیم عضوهایش را بشماریم و شمارش پایان یابد. تعداد عضوها را با n(A) نشان می‌دهیم.
+- مجموعه‌ی تهی ∅ متناهی است و n(∅) = ۰.
+- مجموعه نامتناهی است اگر شمارش عضوهایش هیچ‌گاه تمام نشود. مثال‌ها: اعداد طبیعی N = {۱، ۲، ۳، ...}، اعداد صحیح Z و مجموعه‌ی همه‌ی اعداد زوج.
+- وقتی الگو روشن باشد، مجموعه‌ی نامتناهی را اغلب با سه نقطه می‌نویسیم، مثلاً {۲، ۴، ۶، ۸، ...}.
+- بازه‌های اعداد حقیقی هم نامتناهی‌اند. برای نمونه بین ۰ و ۱ بی‌شمار عدد وجود دارد.
+- مجموعه‌ی متناهی با n عضو، ۲^n زیرمجموعه دارد. مجموعه‌ی نامتناهی بی‌شمار زیرمجموعه دارد.
+- هر زیرمجموعه‌ی یک مجموعه‌ی متناهی، متناهی است. زیرمجموعه‌ی یک مجموعه‌ی نامتناهی ممکن است متناهی یا نامتناهی باشد. برای نمونه {۱، ۲، ۳} زیرمجموعه‌ی متناهی N است و اعداد زوج زیرمجموعه‌ی نامتناهی N‌اند.
+- اجتماع و اشتراک مجموعه‌های متناهی، متناهی است. اجتماع یک مجموعه‌ی نامتناهی با هر مجموعه‌ی دیگر، نامتناهی است.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Let A = {x ∈ N | 3 < x ≤ 10}. List A and find n(A).
+مثال ۱. فرض کنید A = {x ∈ N | ۳ < x ≤ ۱۰}. A را فهرست کنید و n(A) را بیابید.
 
-Step 1: x is a natural number greater than 3 and at most 10.
-Step 2: So A = {4, 5, 6, 7, 8, 9, 10}.
-Step 3: Count the elements: n(A) = 7. The set is finite.
+گام ۱: x عددی طبیعی بزرگ‌تر از ۳ و حداکثر ۱۰ است.
+گام ۲: پس A = {۴، ۵، ۶، ۷، ۸، ۹، ۱۰}.
+گام ۳: عضوها را می‌شماریم: n(A) = ۷. این مجموعه متناهی است.
 
-Example 2. Let B = {x ∈ Z | -3 < x < 2}. Is B finite? Find n(B) and the number of subsets of B.
+مثال ۲. فرض کنید B = {x ∈ Z | -۳ < x < ۲}. آیا B متناهی است؟ n(B) و تعداد زیرمجموعه‌های B را بیابید.
 
-Step 1: Integers strictly between -3 and 2 are -2, -1, 0, 1.
-Step 2: So B = {-2, -1, 0, 1} and n(B) = 4. The set is finite.
-Step 3: The number of subsets is 2^4 = 16.
-Step 4: The number of proper subsets is 16 - 1 = 15.
+گام ۱: اعداد صحیح بین -۳ و ۲ (بدون خود آن‌ها) برابر -۲، -۱، ۰، ۱ هستند.
+گام ۲: پس B = {-۲، -۱، ۰، ۱} و n(B) = ۴. این مجموعه متناهی است.
+گام ۳: تعداد زیرمجموعه‌ها ۲^۴ = ۱۶ است.
+گام ۴: تعداد زیرمجموعه‌های سره ۱۶ - ۱ = ۱۵ است.
 
-Example 3. Decide whether each set is finite or infinite: C = {x ∈ N | x is a multiple of 5}, D = {x ∈ N | x is a multiple of 5 and x < 30}, E = {x ∈ N | 7 < x < 8}.
+مثال ۳. مشخص کنید هر مجموعه متناهی است یا نامتناهی: C = {x ∈ N | x مضرب ۵ است}، D = {x ∈ N | x مضرب ۵ است و x < ۳۰}، E = {x ∈ N | ۷ < x < ۸}.
 
-Step 1: C = {5, 10, 15, 20, ...}. We can always add 5 to get a new multiple, so the list never ends. C is infinite.
-Step 2: D = {5, 10, 15, 20, 25}. Counting stops at 5 elements, so D is finite and n(D) = 5.
-Step 3: There is no natural number between 7 and 8. So E = ∅, which is finite with n(E) = 0.
-Step 4: Note that D ⊆ C, and D is a finite subset of an infinite set.
+گام ۱: C = {۵، ۱۰، ۱۵، ۲۰، ...}. همیشه می‌توانیم ۵ را اضافه کنیم و مضرب تازه‌ای بسازیم، پس فهرست تمام نمی‌شود. C نامتناهی است.
+گام ۲: D = {۵، ۱۰، ۱۵، ۲۰، ۲۵}. شمارش با ۵ عضو پایان می‌یابد، پس D متناهی است و n(D) = ۵.
+گام ۳: بین ۷ و ۸ هیچ عدد طبیعی نیست. پس E = ∅ که متناهی است و n(E) = ۰.
+گام ۴: توجه کنید که D ⊆ C و D زیرمجموعه‌ی متناهی یک مجموعه‌ی نامتناهی است.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Thinking that a very large set is infinite. The set of all grains of sand on Earth is huge but finite, because it has an end.
-- Forgetting that the empty set is finite, with zero elements.
-- Using three dots without showing a clear pattern. Write enough elements so the reader can see the rule.
-- Saying that every subset of an infinite set is infinite. Some subsets are finite.
+- فکر کردن به اینکه مجموعه‌ی خیلی بزرگ، نامتناهی است. مجموعه‌ی همه‌ی دانه‌های شن روی زمین بسیار بزرگ ولی متناهی است، چون پایان دارد.
+- فراموش‌کردن اینکه مجموعه‌ی تهی متناهی است و صفر عضو دارد.
+- استفاده از سه نقطه بدون نشان‌دادن الگوی روشن. آن‌قدر عضو بنویسید که خواننده قاعده را ببیند.
+- گفتن اینکه هر زیرمجموعه‌ی مجموعه‌ی نامتناهی، نامتناهی است. بعضی زیرمجموعه‌ها متناهی‌اند.
 
-## Remember
+## به یاد داشته باشید
 
-- Finite means counting ends; infinite means counting never ends.
-- n(∅) = 0, and a set with n elements has 2^n subsets.
-- Natural numbers, integers and intervals of real numbers are infinite sets.
+- متناهی یعنی شمارش پایان می‌یابد و نامتناهی یعنی شمارش هیچ‌گاه تمام نمی‌شود.
+- n(∅) = ۰ و مجموعه‌ای با n عضو، ۲^n زیرمجموعه دارد.
+- اعداد طبیعی، اعداد صحیح و بازه‌های اعداد حقیقی مجموعه‌های نامتناهی‌اند.

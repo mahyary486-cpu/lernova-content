@@ -1,51 +1,51 @@
-# Sets and subsets
+# مجموعه و زیرمجموعه
 
-A set is a well-defined collection of objects, and a subset is a set whose members all belong to another set.
+مجموعه گردایه‌ای از اشیاء است که مشخص باشد هر شیء در آن هست یا نیست، و زیرمجموعه مجموعه‌ای است که همه‌ی عضوهایش به مجموعه‌ی دیگری تعلق دارند.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- A set is a collection of objects where it is always clear whether an object belongs or not. The objects are called elements or members. We usually name sets with capital letters such as A, B, C.
-- We write a ∈ A to say "a is an element of A", and a ∉ A to say "a is not an element of A".
-- Roster method: list the elements inside braces, for example A = {2, 4, 6, 8}. Order does not matter and we do not repeat an element.
-- Set-builder method: describe the rule, for example B = {x | x is a natural number and x < 5}. Read it as "the set of all x such that x is a natural number less than 5".
-- The empty set, written ∅ or { }, has no elements.
-- A is a subset of B, written A ⊆ B, if every element of A is also an element of B. The empty set is a subset of every set, and every set is a subset of itself.
-- If A ⊆ B but A ≠ B, then A is a proper subset of B.
-- A set with n elements has 2^n subsets. This includes ∅ and the set itself.
-- Common number sets: N = {1, 2, 3, ...} are the natural numbers, Z = {..., -2, -1, 0, 1, 2, ...} are the integers.
+- مجموعه گردایه‌ای از اشیاء است که همیشه معلوم است یک شیء به آن تعلق دارد یا نه. به این اشیاء عضو می‌گوییم. مجموعه‌ها را معمولاً با حروف بزرگ مانند A، B و C نام‌گذاری می‌کنیم.
+- برای «a عضو A است» می‌نویسیم a ∈ A و برای «a عضو A نیست» می‌نویسیم a ∉ A.
+- روش فهرست‌کردن اعضا: عضوها را داخل آکولاد می‌نویسیم، مثلاً A = {۲، ۴، ۶، ۸}. ترتیب مهم نیست و عضو تکراری نمی‌نویسیم.
+- روش نمایش با ویژگی: ویژگی مشترک اعضا را می‌نویسیم، مثلاً B = {x | x عددی طبیعی و x < ۵}. این را این‌طور می‌خوانیم: «مجموعه‌ی همه‌ی x هایی که x عددی طبیعی کوچک‌تر از ۵ است».
+- مجموعه‌ی تهی را با ∅ یا { } نشان می‌دهیم و هیچ عضوی ندارد.
+- اگر هر عضو A عضو B هم باشد، می‌گوییم A زیرمجموعه‌ی B است و می‌نویسیم A ⊆ B. مجموعه‌ی تهی زیرمجموعه‌ی هر مجموعه است و هر مجموعه زیرمجموعه‌ی خودش است.
+- اگر A ⊆ B ولی A ≠ B، آن‌گاه A را زیرمجموعه‌ی سره‌ی B می‌نامیم.
+- مجموعه‌ای با n عضو، ۲^n زیرمجموعه دارد. مجموعه‌ی تهی و خود مجموعه هم جزو آن‌هاست.
+- مجموعه‌های عددی رایج: N = {۱، ۲، ۳، ...} اعداد طبیعی و Z = {...، -۲، -۱، ۰، ۱، ۲، ...} اعداد صحیح‌اند.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Write A = {x | x is a natural number and x < 5} by the roster method. Then decide whether 4 ∈ A and 5 ∈ A.
+مثال ۱. مجموعه‌ی A = {x | x عددی طبیعی و x < ۵} را به روش فهرست‌کردن بنویسید. سپس مشخص کنید آیا ۴ ∈ A و ۵ ∈ A.
 
-Step 1: Natural numbers start at 1. The natural numbers less than 5 are 1, 2, 3, 4.
-Step 2: So A = {1, 2, 3, 4}.
-Step 3: 4 is in the list, so 4 ∈ A. 5 is not in the list, so 5 ∉ A.
+گام ۱: اعداد طبیعی از ۱ شروع می‌شوند. اعداد طبیعی کوچک‌تر از ۵ عبارت‌اند از ۱، ۲، ۳، ۴.
+گام ۲: پس A = {۱، ۲، ۳، ۴}.
+گام ۳: ۴ در فهرست هست، پس ۴ ∈ A. عدد ۵ در فهرست نیست، پس ۵ ∉ A.
 
-Example 2. List all subsets of {a, b, c}.
+مثال ۲. همه‌ی زیرمجموعه‌های {a، b، c} را بنویسید.
 
-Step 1: Subsets with 0 elements: ∅. That is 1 subset.
-Step 2: Subsets with 1 element: {a}, {b}, {c}. That is 3 subsets.
-Step 3: Subsets with 2 elements: {a, b}, {a, c}, {b, c}. That is 3 subsets.
-Step 4: Subsets with 3 elements: {a, b, c}. That is 1 subset.
-Step 5: Total = 1 + 3 + 3 + 1 = 8. This agrees with 2^3 = 8.
+گام ۱: زیرمجموعه‌های بدون عضو: ∅. این ۱ زیرمجموعه است.
+گام ۲: زیرمجموعه‌های یک‌عضوی: {a}، {b}، {c}. این ۳ زیرمجموعه است.
+گام ۳: زیرمجموعه‌های دوعضوی: {a، b}، {a، c}، {b، c}. این ۳ زیرمجموعه است.
+گام ۴: زیرمجموعه‌ی سه‌عضوی: {a، b، c}. این ۱ زیرمجموعه است.
+گام ۵: مجموع = ۱ + ۳ + ۳ + ۱ = ۸. این با ۲^۳ = ۸ هم‌خوانی دارد.
 
-Example 3. Let A = {1, 2, 3, 4, 5, 6} and B = {2, 4, 6}. Is B ⊆ A? Is A ⊆ B? How many subsets and proper subsets does B have?
+مثال ۳. فرض کنید A = {۱، ۲، ۳، ۴، ۵، ۶} و B = {۲، ۴، ۶}. آیا B ⊆ A؟ آیا A ⊆ B؟ B چند زیرمجموعه و چند زیرمجموعه‌ی سره دارد؟
 
-Step 1: Check each element of B. 2 ∈ A, 4 ∈ A, 6 ∈ A. So B ⊆ A.
-Step 2: Check A. The element 1 is in A but not in B. So A is not a subset of B.
-Step 3: B has 3 elements, so it has 2^3 = 8 subsets.
-Step 4: A proper subset cannot be B itself. So B has 8 - 1 = 7 proper subsets.
+گام ۱: عضوهای B را یکی‌یکی بررسی می‌کنیم: ۲ ∈ A و ۴ ∈ A و ۶ ∈ A. پس B ⊆ A.
+گام ۲: حالا A را بررسی می‌کنیم. عدد ۱ عضو A است ولی عضو B نیست. پس A زیرمجموعه‌ی B نیست.
+گام ۳: B سه عضو دارد، پس ۲^۳ = ۸ زیرمجموعه دارد.
+گام ۴: زیرمجموعه‌ی سره نمی‌تواند خود B باشد. پس B دارای ۸ - ۱ = ۷ زیرمجموعه‌ی سره است.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Mixing up ∈ and ⊆. Use ∈ between an element and a set (2 ∈ A), and ⊆ between two sets ({2} ⊆ A).
-- Writing 0 ∈ N. In this course the natural numbers start at 1, so 0 is not a natural number.
-- Forgetting the empty set and the set itself when listing subsets.
-- Repeating elements, such as {1, 1, 2}. Each element is written once, so this set is just {1, 2}.
+- اشتباه گرفتن ∈ و ⊆. نماد ∈ را بین یک عضو و یک مجموعه می‌نویسیم (۲ ∈ A) و نماد ⊆ را بین دو مجموعه ({۲} ⊆ A).
+- نوشتن ۰ ∈ N. در این درس اعداد طبیعی از ۱ شروع می‌شوند، پس ۰ عدد طبیعی نیست.
+- فراموش‌کردن مجموعه‌ی تهی و خود مجموعه هنگام نوشتن زیرمجموعه‌ها.
+- تکرار عضو، مانند {۱، ۱، ۲}. هر عضو را یک بار می‌نویسیم، پس این مجموعه همان {۱، ۲} است.
 
-## Remember
+## به یاد داشته باشید
 
-- ∅ ⊆ A and A ⊆ A for every set A.
-- A set with n elements has 2^n subsets and 2^n - 1 proper subsets.
-- The order of elements in a set does not matter.
+- برای هر مجموعه‌ی A داریم ∅ ⊆ A و A ⊆ A.
+- مجموعه‌ای با n عضو، ۲^n زیرمجموعه و ۲^n - ۱ زیرمجموعه‌ی سره دارد.
+- ترتیب عضوها در مجموعه اهمیتی ندارد.

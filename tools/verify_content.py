@@ -45,6 +45,10 @@ ix = json.load(open('index.json', encoding='utf-8'))
 chs = [c['id'] for g in ix['grades'] for c in g['chapters']]
 say('g9-ch3' in chs and all('ir9m-ch%d' % n in chs for n in range(1, 9)), 'فصل‌ها در index.json ثبت شده‌اند')
 v = json.load(open('version.json'))
+import re as _re
+fa_n = [f for f in sorted(glob.glob('summaries/ir9*.json'))
+        if len(_re.findall(r'[\u0600-\u06FF]', open(f, encoding='utf8').read())) > 200]
+print('ℹ️ فصل‌های ایران با متن فارسی: %d (%s)' % (len(fa_n), '، '.join(os.path.basename(f)[:-5] for f in fa_n)))
 print('ℹ️ آزمون علوم پایه ۹ ایران: %d فصل از ۱۵' % len(sci))
 print('ℹ️ نسخه‌ی محتوا:', v['version'], v.get('updated', ''))
 print('\n🟢 همه چیز تایید شد' if ok else '\n🔴 مشکلی هست؛ خروجی بالا را بفرستید')

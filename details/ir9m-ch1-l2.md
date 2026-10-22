@@ -1,47 +1,47 @@
-# Equal and unequal sets
+# مجموعه‌های مساوی و نامساوی
 
-Two sets are equal when they contain exactly the same elements, and unequal when at least one element belongs to only one of them.
+دو مجموعه وقتی مساوی‌اند که دقیقاً عضوهای یکسان داشته باشند، و وقتی نامساوی‌اند که دست‌کم یک عضو فقط در یکی از آن‌ها باشد.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- A = B means that A and B have exactly the same elements. We write A ≠ B when they do not.
-- The order of elements and repeated elements do not change a set. So {1, 2, 3} = {3, 2, 1} and {1, 1, 2} = {1, 2}.
-- A useful test: A = B exactly when A ⊆ B and B ⊆ A. To prove two sets are equal, show that each is a subset of the other.
-- Two sets can be written in different ways and still be equal. For example, {x | x^2 = 9} and {3, -3} are the same set.
-- The number of elements of a finite set A is written n(A). If A = B, then n(A) = n(B). The reverse is not true: {1, 2} and {5, 6} have the same number of elements but are not equal.
-- Sets with the same number of elements are sometimes called equivalent sets. Equal sets are always equivalent, but equivalent sets are not always equal.
-- When two sets are equal and one contains an unknown, match the elements to find the unknown.
+- A = B یعنی A و B دقیقاً عضوهای یکسان دارند. اگر چنین نباشد می‌نویسیم A ≠ B.
+- ترتیب عضوها و تکرار عضو، مجموعه را تغییر نمی‌دهد. پس {۱، ۲، ۳} = {۳، ۲، ۱} و {۱، ۱، ۲} = {۱، ۲}.
+- یک آزمون مفید: A = B دقیقاً وقتی که A ⊆ B و B ⊆ A. برای اثبات مساوی‌بودن دو مجموعه نشان می‌دهیم هر کدام زیرمجموعه‌ی دیگری است.
+- دو مجموعه ممکن است به شکل‌های مختلف نوشته شوند و باز هم مساوی باشند. برای نمونه {x | x^۲ = ۹} و {۳، -۳} یک مجموعه‌اند.
+- تعداد عضوهای مجموعه‌ی متناهی A را با n(A) نشان می‌دهیم. اگر A = B آن‌گاه n(A) = n(B). عکس این درست نیست: {۱، ۲} و {۵، ۶} تعداد عضو برابر دارند ولی مساوی نیستند.
+- به مجموعه‌هایی که تعداد عضو برابر دارند هم‌تعداد می‌گوییم. مجموعه‌های مساوی همیشه هم‌تعدادند، ولی مجموعه‌های هم‌تعداد همیشه مساوی نیستند.
+- وقتی دو مجموعه مساوی‌اند و یکی شامل مجهول است، عضوها را با هم متناظر می‌کنیم تا مجهول به دست آید.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Are A = {x | x^2 = 9} and B = {3, -3} equal?
+مثال ۱. آیا A = {x | x^۲ = ۹} و B = {۳، -۳} مساوی‌اند؟
 
-Step 1: Solve x^2 = 9. Then x = 3 or x = -3.
-Step 2: So A = {3, -3}.
-Step 3: B = {3, -3} as well. They have the same elements, so A = B.
+گام ۱: معادله‌ی x^۲ = ۹ را حل می‌کنیم. x = ۳ یا x = -۳.
+گام ۲: پس A = {۳، -۳}.
+گام ۳: B هم {۳، -۳} است. عضوهای هر دو یکسان است، پس A = B.
 
-Example 2. Let C = {x ∈ N | x^2 - 5x + 6 = 0}, D = {2, 3}, and E = {x ∈ N | 1 < x < 4}. Which of these sets are equal?
+مثال ۲. فرض کنید C = {x ∈ N | x^۲ - ۵x + ۶ = ۰}، D = {۲، ۳} و E = {x ∈ N | ۱ < x < ۴}. کدام مجموعه‌ها مساوی‌اند؟
 
-Step 1: Factor x^2 - 5x + 6 = (x - 2)(x - 3). The solutions are x = 2 and x = 3. Both are natural numbers, so C = {2, 3}.
-Step 2: The natural numbers greater than 1 and less than 4 are 2 and 3. So E = {2, 3}.
-Step 3: C, D and E all have the elements 2 and 3 only. So C = D = E.
+گام ۱: x^۲ - ۵x + ۶ = (x - ۲)(x - ۳). جواب‌ها x = ۲ و x = ۳ است که هر دو عدد طبیعی‌اند. پس C = {۲، ۳}.
+گام ۲: اعداد طبیعی بزرگ‌تر از ۱ و کوچک‌تر از ۴، یعنی ۲ و ۳. پس E = {۲، ۳}.
+گام ۳: هر سه مجموعه فقط عضوهای ۲ و ۳ را دارند. پس C = D = E.
 
-Example 3. Let A = {3, x + 2} and B = {3, 7}. If A = B, find x. Then decide whether {1, 2, 3} and {1, 2, 4} are equal.
+مثال ۳. فرض کنید A = {۳، x + ۲} و B = {۳، ۷}. اگر A = B باشد، x را بیابید. سپس مشخص کنید آیا {۱، ۲، ۳} و {۱، ۲، ۴} مساوی‌اند.
 
-Step 1: Both sets contain 3. The remaining element of A, which is x + 2, must match the remaining element of B, which is 7.
-Step 2: Solve x + 2 = 7. Subtract 2 from both sides to get x = 5.
-Step 3: Check: if x = 5, then A = {3, 7} = B. Correct.
-Step 4: For {1, 2, 3} and {1, 2, 4}: the element 3 is in the first set but not in the second. So the sets are not equal. They do have the same number of elements, 3, so they are equivalent but unequal.
+گام ۱: هر دو مجموعه شامل ۳ هستند. عضو باقی‌مانده‌ی A یعنی x + ۲ باید با عضو باقی‌مانده‌ی B یعنی ۷ برابر باشد.
+گام ۲: معادله‌ی x + ۲ = ۷ را حل می‌کنیم. از دو طرف ۲ کم می‌کنیم: x = ۵.
+گام ۳: بررسی: اگر x = ۵ آن‌گاه A = {۳، ۷} = B. درست است.
+گام ۴: برای {۱، ۲، ۳} و {۱، ۲، ۴}: عدد ۳ در مجموعه‌ی اول هست ولی در دومی نیست. پس مساوی نیستند. تعداد عضوهایشان برابر و برابر ۳ است، پس هم‌تعدادند ولی مساوی نیستند.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Thinking that sets with the same number of elements are equal. They must have the same elements, not only the same count.
-- Believing that {1, 2, 3} and {3, 2, 1} are different because the order is different. Order never matters in a set.
-- Counting repeated elements. The set {a, a, b} has only 2 elements, so n({a, a, b}) = 2.
-- Forgetting to simplify a set written with a rule before comparing it with another set.
+- فکر کردن به اینکه مجموعه‌های هم‌تعداد مساوی‌اند. باید عضوهایشان یکسان باشد، نه فقط تعدادشان.
+- باور به اینکه {۱، ۲، ۳} و {۳، ۲، ۱} به‌خاطر ترتیب متفاوت با هم فرق دارند. ترتیب هیچ‌وقت در مجموعه اهمیت ندارد.
+- شمردن عضوهای تکراری. مجموعه‌ی {a، a، b} فقط ۲ عضو دارد، پس n({a، a، b}) = ۲.
+- فراموش‌کردن ساده‌کردن مجموعه‌ای که با ویژگی نوشته شده، پیش از مقایسه‌ی آن با مجموعه‌ی دیگر.
 
-## Remember
+## به یاد داشته باشید
 
-- A = B if and only if A ⊆ B and B ⊆ A.
-- Equal sets have the same number of elements, but the same number of elements does not make sets equal.
-- Always write each set in roster form first, then compare.
+- A = B اگر و فقط اگر A ⊆ B و B ⊆ A.
+- مجموعه‌های مساوی تعداد عضو برابر دارند، ولی برابری تعداد عضو، مساوی‌بودن را نتیجه نمی‌دهد.
+- همیشه اول هر مجموعه را به روش فهرست‌کردن بنویسید، سپس آن‌ها را مقایسه کنید.

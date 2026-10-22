@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
+What property is used to separate crude oil by fractional distillation?|Color|Density of the container|Boiling point|Electrical charge|2|Each fraction of crude oil has its own range of boiling points.
+About what percentage of air is nitrogen?|21%|78%|50%|1%|1|Air is about 78% nitrogen, 21% oxygen and small amounts of other gases.
+Which of these is an alkane?|Methane (CH₄)|Ethene (C₂H₄)|Water (H₂O)|Ethanol (C₂H₅OH)|0|Methane is an alkane, a hydrocarbon with only single bonds.
+In the cracking reaction C₁₀H₂₂ → C₈H₁₈ + X, what is X?|C₂H₆ (ethane)|CH₄ (methane)|C₂H₂|C₂H₄ (ethene)|3|Carbon: 10 − 8 = 2. Hydrogen: 22 − 18 = 4. So X is C₂H₄.
+What is a thermoplastic?|A plastic that never melts|A metal alloy|A natural polymer|A plastic that softens when heated and can be reshaped|3|Thermoplastics can be melted and reshaped, so they can be recycled.
+Why does burning fossil fuels strengthen global warming?|It adds extra CO₂, which strengthens the greenhouse effect|It adds extra oxygen to the sea|It removes CO₂ from the air|It cools the atmosphere|0|Extra CO₂ traps more heat in the atmosphere.
+Which of these is NOT obtained from petroleum?|Wax|Detergents|Glass|Lubricants|2|Wax, detergents and lubricants come from petroleum. Glass is made from sand.
+Why is cracking useful for oil companies?|It makes oil renewable|It turns long, less useful hydrocarbons into shorter, more useful ones|It removes all carbon|It makes plastics melt|1|Short alkanes are in high demand as fuels, and alkenes are used to make polymers.
+Which gas do plants take in for photosynthesis?|Oxygen|Nitrogen|Hydrogen|Carbon dioxide|3|Plants use carbon dioxide and water to make glucose.
+Which elements do hydrocarbons contain?|Only carbon and oxygen|Only carbon and hydrogen|Only hydrogen and oxygen|Carbon, hydrogen and nitrogen|1|Hydrocarbons are compounds made only of carbon and hydrogen.
+Which process releases water vapor from the leaves of plants?|Transpiration|Condensation|Combustion|Fixation|0|Plants lose water vapor through their leaves, which is called transpiration.
+What does cracking do?|Joins small molecules into polymers|Separates oil by boiling point|Breaks long hydrocarbons into shorter alkanes and alkenes|Removes water from oil|2|Cracking breaks down long hydrocarbon chains.
+Which fraction is the thickest and the hardest to ignite?|Refinery gases|Gasoline|Kerosene|Bitumen|3|Fractions with long carbon chains are thick and hard to ignite.
+What are microplastics?|A kind of bacteria|Tiny pieces of plastic that can enter food chains|A natural polymer|A metal powder|1|Plastic breaks into tiny pieces that animals can eat.
+In the cracking reaction C₁₂H₂₆ → C₈H₁₈ + Y, what is Y?|C₄H₈|C₄H₁₀|C₄H₆|C₂H₄|0|Carbon: 12 − 8 = 4. Hydrogen: 26 − 18 = 8. So Y is C₄H₈.
+Which compound is NOT a hydrocarbon?|C₂H₆|C₈H₁₈|C₂H₅OH|C₂H₄|2|C₂H₅OH contains oxygen, so it is not a hydrocarbon.
+Which of these is an alkene?|Methane (CH₄)|Ethane (C₂H₆)|Ethene (C₂H₄)|Propane (C₃H₈)|2|Ethene has a carbon–carbon double bond, so it is an alkene.
+Which gas do plants release during photosynthesis?|Carbon dioxide|Nitrogen|Methane|Oxygen|3|Plants make glucose and release oxygen.
+What causes evaporation in the water cycle?|The heat of the Sun|The Moon|Wind only|Gravity only|0|The Sun heats water on land and sea, and it turns into water vapor.
+Which group of processes puts carbon dioxide into the air?|Photosynthesis only|Respiration, decay and combustion|Condensation and evaporation|Freezing and melting|1|Respiration, decay, combustion and volcanoes release CO₂.
+What kind of change is fractional distillation?|A chemical reaction|A nuclear reaction|A physical separation|A polymerization|2|The substances are only separated by boiling point, and no new substances form.
+Why are plastics a problem in nature?|Bacteria cannot break them down|They dissolve quickly|They are very heavy|They are natural|0|Plastics stay in nature for hundreds of years.
+What is the formula of the alkane with 20 carbon atoms?|C₂₀H₄₀|C₂₀H₄₄|C₂₀H₃₈|C₂₀H₄₂|3|For n = 20, 2n + 2 = 42.
+How do forests and oceans help the carbon cycle?|They produce fossil fuels instantly|They take in CO₂ and help keep the cycle balanced|They release only CO₂|They stop photosynthesis|1|Forests and oceans take carbon dioxide from the air.
+What forms when water vapor cools and condenses in the air?|Clouds|Rocks|Oil|Carbon dioxide|0|Cooling water vapor condenses into tiny droplets that form clouds.
+What is the best response to plastic waste?|Burn it in open fires|Throw it into rivers|Reduce, reuse and recycle|Bury it everywhere|2|Reducing, reusing and recycling lowers the amount of plastic that harms the environment.
+What kind of energy resource is crude oil?|A renewable resource|A metal|A polymer|A non-renewable fossil fuel|3|Crude oil formed over millions of years and cannot be replaced quickly.
+How does the boiling point change as the carbon chain gets longer?|It decreases|It increases|It stays the same|It becomes zero|1|Longer molecules attract each other more strongly, so more energy is needed to boil them.
+What is the formula of the alkane with 8 carbon atoms?|C₈H₁₆|C₈H₁₄|C₈H₁₈|C₈H₂₀|2|Alkanes have the formula CₙH₂ₙ₊₂. For n = 8, 2n + 2 = 18.
+Polyethylene is made from which monomer?|Ethane|Ethene|Methane|Glucose|1|Many ethene molecules join together to form polyethylene.
+What is formed when many ethene molecules join together?|Polyethylene|Polypropylene|Glucose|Methane|0|n C₂H₄ → (C₂H₄)ₙ, which is polyethylene.
+Which list shows the fractions from the top to the bottom of the column?|Bitumen, fuel oil, diesel, kerosene, gasoline, refinery gases|Gasoline, refinery gases, bitumen, diesel, kerosene, fuel oil|Kerosene, gasoline, fuel oil, refinery gases, diesel, bitumen|Refinery gases, gasoline, kerosene, diesel, fuel oil, bitumen|3|The column is coolest at the top, where the shortest molecules condense.
+Which fraction of crude oil is collected at the bottom?|Refinery gases|Bitumen|Gasoline|Kerosene|1|The longest molecules have the highest boiling points, so they stay at the bottom.
+Which fraction of crude oil leaves the top of the column?|Bitumen|Fuel oil|Diesel|Refinery gases|3|The shortest molecules have the lowest boiling points and rise to the cooler top of the column.
+Which organisms return nitrogen gas (N₂) from soil compounds to the air?|Certain bacteria|Green plants|Rocks|Fungi spores only|0|Some bacteria change nitrogen compounds back into N₂ gas.
+What happens in addition polymerization?|Atoms are lost as water|The polymer splits into monomers|Alkene molecules join and no atoms are lost|Metals join with oxygen|2|In addition polymerization the whole molecules add to each other.
+What is the feature of the molecules of alkenes?|Only single bonds|A carbon–carbon double bond|A metal atom|No carbon atoms|1|Alkenes contain at least one C=C double bond, which makes them reactive.
+What is the correct order of steps in the water cycle?|Condensation, precipitation, evaporation|Precipitation, evaporation, combustion|Evaporation, condensation, precipitation|Evaporation, precipitation, condensation|2|Water evaporates, condenses into clouds, and falls as rain or snow.
+Which kind of plastic can be melted and recycled again?|Thermosetting plastics|Ceramics|Concrete|Thermoplastics|3|Thermoplastics soften when heated, so they can be reshaped.
+What is needed for cracking?|Heat and a catalyst|Cold and darkness|Water only|Electricity only|0|Cracking uses high temperature and a catalyst.
+What is the formula of the alkane with 5 carbon atoms?|C₅H₁₂|C₅H₁₀|C₅H₁₄|C₅H₈|0|For n = 5, 2n + 2 = 12.
+Which equation shows photosynthesis?|C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O|6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂|CO₂ + H₂ → CH₄|2H₂ + O₂ → 2H₂O|1|Photosynthesis turns carbon dioxide and water into glucose and oxygen.
+Why do longer hydrocarbon molecules have higher boiling points?|The bonds inside the molecules are weaker|They contain metals|They contain oxygen|The forces between the molecules are stronger|3|More energy is needed to separate long molecules from each other.
+Why is the nitrogen cycle important even though air is 78% nitrogen?|Animals breathe nitrogen|Nitrogen is a fuel|Plants cannot use N₂ gas directly|Nitrogen makes water|2|Plants need nitrogen compounds, and N₂ must be fixed by lightning or bacteria.
+Which is the correct order of the recycling steps?|Melt, wash, collect, sort, shred, form|Shred, collect, melt, sort, wash, form|Form, melt, shred, wash, sort, collect|Collect, sort, wash, shred, melt, form new products|3|The steps are collecting, sorting, washing, shredding, melting and forming new products.
+What is true about thermosetting plastics?|They melt easily and can be recycled|They keep their shape and cannot be melted again|They are natural polymers|They dissolve in water|1|Thermosetting plastics do not soften when they are heated again.
+Which of these molecules is an alkene?|C₂H₆|C₃H₈|C₂H₄|CH₄|2|An alkane has formula CₙH₂ₙ₊₂ and an alkene has formula CₙH₂ₙ. C₂H₄ matches CₙH₂ₙ.
+What is the formula of the alkane with 9 carbon atoms?|C₉H₂₀|C₉H₁₈|C₉H₂₂|C₉H₁₆|0|For n = 9, 2n + 2 = 20.
+Which activity saves oil and energy?|Burning plastics|Throwing plastics away|Making more single-use plastics|Recycling plastics|3|Recycling reuses material and saves the oil and energy needed to make new plastic.
+How many molecules of CO₂ are made when one molecule of glucose is used in respiration?|6|1|12|2|0|C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O, so 6 CO₂ molecules form.

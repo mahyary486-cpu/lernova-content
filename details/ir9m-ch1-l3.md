@@ -1,50 +1,50 @@
-# Union and intersection
+# اجتماع و اشتراک
 
-The union of two sets combines all their elements, and the intersection keeps only the elements they share.
+اجتماع دو مجموعه همه‌ی عضوهای آن‌ها را کنار هم می‌آورد و اشتراک فقط عضوهای مشترک را نگه می‌دارد.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- The union of A and B, written A ∪ B, is the set of all elements that belong to A, or to B, or to both. Each element is listed once.
-- The intersection of A and B, written A ∩ B, is the set of all elements that belong to both A and B.
-- If A and B have no common element, then A ∩ B = ∅. We say that A and B are disjoint sets.
-- Useful facts: A ∪ A = A, A ∩ A = A, A ∪ ∅ = A, A ∩ ∅ = ∅. Also A ∩ B ⊆ A ⊆ A ∪ B.
-- Both operations are commutative: A ∪ B = B ∪ A and A ∩ B = B ∩ A.
-- If A ⊆ B, then A ∪ B = B and A ∩ B = A.
-- Counting rule for finite sets: n(A ∪ B) = n(A) + n(B) - n(A ∩ B). We subtract n(A ∩ B) because the shared elements were counted twice.
-- If A and B are disjoint, the rule becomes n(A ∪ B) = n(A) + n(B).
-- Word clues: "or" usually means union, and "and" usually means intersection.
+- اجتماع A و B که با A ∪ B نشان داده می‌شود، مجموعه‌ی همه‌ی عضوهایی است که در A یا در B یا در هر دو باشند. هر عضو را یک بار می‌نویسیم.
+- اشتراک A و B که با A ∩ B نشان داده می‌شود، مجموعه‌ی همه‌ی عضوهایی است که هم در A و هم در B هستند.
+- اگر A و B عضو مشترک نداشته باشند، A ∩ B = ∅. می‌گوییم A و B جدا از هم هستند.
+- نکته‌های مفید: A ∪ A = A، A ∩ A = A، A ∪ ∅ = A، A ∩ ∅ = ∅. همچنین A ∩ B ⊆ A ⊆ A ∪ B.
+- هر دو عمل جابه‌جایی‌اند: A ∪ B = B ∪ A و A ∩ B = B ∩ A.
+- اگر A ⊆ B آن‌گاه A ∪ B = B و A ∩ B = A.
+- قاعده‌ی شمارش برای مجموعه‌های متناهی: n(A ∪ B) = n(A) + n(B) - n(A ∩ B). n(A ∩ B) را کم می‌کنیم چون عضوهای مشترک دو بار شمرده شده‌اند.
+- اگر A و B جدا از هم باشند، قاعده به n(A ∪ B) = n(A) + n(B) تبدیل می‌شود.
+- نشانه‌های کلامی: «یا» معمولاً یعنی اجتماع و «و» معمولاً یعنی اشتراک.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Let A = {1, 2, 3, 4} and B = {3, 4, 5, 6}. Find A ∪ B and A ∩ B.
+مثال ۱. فرض کنید A = {۱، ۲، ۳، ۴} و B = {۳، ۴، ۵، ۶}. A ∪ B و A ∩ B را بیابید.
 
-Step 1: Put all elements together and write each once: A ∪ B = {1, 2, 3, 4, 5, 6}.
-Step 2: Find the elements in both sets. Only 3 and 4 appear in both. So A ∩ B = {3, 4}.
-Step 3: Check the counting rule: n(A) + n(B) - n(A ∩ B) = 4 + 4 - 2 = 6. This equals n(A ∪ B) = 6.
+گام ۱: همه‌ی عضوها را کنار هم می‌گذاریم و هر کدام را یک بار می‌نویسیم: A ∪ B = {۱، ۲، ۳، ۴، ۵، ۶}.
+گام ۲: عضوهایی را که در هر دو مجموعه‌اند پیدا می‌کنیم. فقط ۳ و ۴ در هر دو هستند. پس A ∩ B = {۳، ۴}.
+گام ۳: بررسی قاعده‌ی شمارش: n(A) + n(B) - n(A ∩ B) = ۴ + ۴ - ۲ = ۶. این با n(A ∪ B) = ۶ برابر است.
 
-Example 2. Let A be the multiples of 2 that are at most 12, and B be the multiples of 3 that are at most 12. Find A ∪ B and A ∩ B.
+مثال ۲. فرض کنید A مضرب‌های ۲ تا ۱۲ و B مضرب‌های ۳ تا ۱۲ باشد. A ∪ B و A ∩ B را بیابید.
 
-Step 1: A = {2, 4, 6, 8, 10, 12} and B = {3, 6, 9, 12}.
-Step 2: The common elements are 6 and 12. So A ∩ B = {6, 12}.
-Step 3: Combine and remove repeats: A ∪ B = {2, 3, 4, 6, 8, 9, 10, 12}.
-Step 4: Check: 6 + 4 - 2 = 8, and A ∪ B has 8 elements.
+گام ۱: A = {۲، ۴، ۶، ۸، ۱۰، ۱۲} و B = {۳، ۶، ۹، ۱۲}.
+گام ۲: عضوهای مشترک ۶ و ۱۲ هستند. پس A ∩ B = {۶، ۱۲}.
+گام ۳: دو مجموعه را ترکیب می‌کنیم و تکراری‌ها را حذف می‌کنیم: A ∪ B = {۲، ۳، ۴، ۶، ۸، ۹، ۱۰، ۱۲}.
+گام ۴: بررسی: ۶ + ۴ - ۲ = ۸ و A ∪ B هشت عضو دارد.
 
-Example 3. In a class of 30 students, 18 play football, 15 play volleyball, and 7 play both. How many students play at least one of the two sports? How many play neither?
+مثال ۳. در کلاسی با ۳۰ دانش‌آموز، ۱۸ نفر فوتبال، ۱۵ نفر والیبال و ۷ نفر هر دو ورزش را بازی می‌کنند. چند نفر دست‌کم یکی از دو ورزش را بازی می‌کنند؟ چند نفر هیچ‌کدام را بازی نمی‌کنند؟
 
-Step 1: Let F be the football players and V the volleyball players. Then n(F) = 18, n(V) = 15, n(F ∩ V) = 7.
-Step 2: Students who play at least one sport: n(F ∪ V) = 18 + 15 - 7 = 26.
-Step 3: Students who play neither: 30 - 26 = 4.
-Step 4: Check: only football = 18 - 7 = 11, only volleyball = 15 - 7 = 8, both = 7. Then 11 + 8 + 7 = 26. Correct.
+گام ۱: فرض کنید F فوتبالیست‌ها و V والیبالیست‌ها باشند. پس n(F) = ۱۸، n(V) = ۱۵ و n(F ∩ V) = ۷.
+گام ۲: دانش‌آموزانی که دست‌کم یک ورزش بازی می‌کنند: n(F ∪ V) = ۱۸ + ۱۵ - ۷ = ۲۶.
+گام ۳: دانش‌آموزانی که هیچ‌کدام را بازی نمی‌کنند: ۳۰ - ۲۶ = ۴.
+گام ۴: بررسی: فقط فوتبال = ۱۸ - ۷ = ۱۱، فقط والیبال = ۱۵ - ۷ = ۸، هر دو = ۷. پس ۱۱ + ۸ + ۷ = ۲۶. درست است.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Writing a repeated element in a union. In {1, 2, 3} ∪ {3, 4}, the number 3 appears once: {1, 2, 3, 4}.
-- Adding n(A) + n(B) for a union without subtracting the common elements.
-- Mixing up the symbols ∪ and ∩. A helpful picture: ∪ looks like a cup that collects everything.
-- Writing A ∩ B = 0 for disjoint sets. The correct answer is the empty set, A ∩ B = ∅.
+- نوشتن عضو تکراری در اجتماع. در {۱، ۲، ۳} ∪ {۳، ۴} عدد ۳ یک بار می‌آید: {۱، ۲، ۳، ۴}.
+- جمع‌کردن n(A) + n(B) برای اجتماع، بدون کم‌کردن عضوهای مشترک.
+- اشتباه گرفتن نمادهای ∪ و ∩. تصویر کمک‌کننده: نماد ∪ شبیه ظرفی است که همه‌چیز را جمع می‌کند.
+- نوشتن A ∩ B = ۰ برای مجموعه‌های جدا از هم. پاسخ درست مجموعه‌ی تهی است: A ∩ B = ∅.
 
-## Remember
+## به یاد داشته باشید
 
-- Union means everything in either set; intersection means only what is in both.
+- اجتماع یعنی هر چیزی که در یکی از دو مجموعه باشد. اشتراک یعنی فقط آنچه در هر دو هست.
 - n(A ∪ B) = n(A) + n(B) - n(A ∩ B).
-- Disjoint sets have an empty intersection.
+- مجموعه‌های جدا از هم اشتراک تهی دارند.

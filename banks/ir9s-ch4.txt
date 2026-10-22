@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
+What does the slope of a velocity–time graph show?|Acceleration|Distance|Speed|Time|0|The slope of a velocity–time graph is change of velocity divided by time.
+What is the SI unit of acceleration?|m/s|m/s²|m|N|1|Acceleration is change of velocity per second, so its unit is m/s².
+A person walks 3 km east and then walks 3 km back to the start. What is the displacement?|6 km|3 km|0 km|1.5 km|2|The final position is the same as the start, so the displacement is zero.
+Convert 36 km/h to m/s.|129.6 m/s|36 m/s|3.6 m/s|10 m/s|3|36 ÷ 3.6 = 10 m/s.
+An object starts at 5 m/s and accelerates at 2 m/s² for 6 s. What is its final velocity?|17 m/s|12 m/s|7 m/s|60 m/s|0|v = u + a × t = 5 + 2 × 6 = 17 m/s.
+A car slows from 20 m/s to rest in 5 s. What is its acceleration?|4 m/s²|−100 m/s²|−4 m/s²|0 m/s²|2|a = (0 − 20) / 5 = −4 m/s². The negative sign shows slowing down.
+Two cars have the same speed but different velocities. What must be different?|Their masses|Their directions|Their distances|Their colors|1|Velocity includes direction, so equal speeds can still mean different velocities.
+A car goes from 0 to 100 km/h in 10 s. What is its acceleration in m/s²?|About 10 m/s²|About 27.8 m/s²|About 0.36 m/s²|About 2.8 m/s²|3|100 km/h ≈ 27.8 m/s, and a = 27.8 / 10 ≈ 2.8 m/s².
+What does a horizontal line on a distance–time graph mean?|The object moves with constant speed|The object is at rest|The object is speeding up|The object is slowing down|1|The distance does not change, so the object is not moving.
+What does the area under a velocity–time graph show?|Acceleration|Speed|Force|Displacement|3|The area between the line and the time axis equals displacement.
+What does the slope of a distance–time graph show?|Acceleration|Displacement|Speed|Time|2|The slope of a distance–time graph is distance divided by time, which is speed.
+A car speeds up from 10 m/s to 30 m/s in 5 s. What is its acceleration?|4 m/s²|6 m/s²|8 m/s²|2 m/s²|0|a = (30 − 10) / 5 = 4 m/s².
+A person walks 6 m east and then 8 m north. What is the size of the displacement?|14 m|2 m|10 m|48 m|2|Displacement = √(6² + 8²) = √100 = 10 m.
+Convert 18 m/s to km/h.|5 km/h|64.8 km/h|18 km/h|6.48 km/h|1|18 × 3.6 = 64.8 km/h.
+An object is dropped and falls freely (a = 9.8 m/s²). What is its speed after 2 s?|4.9 m/s|9.8 m/s|11.8 m/s|19.6 m/s|3|v = 9.8 × 2 = 19.6 m/s.
+A car speeds up uniformly from 0 to 8 m/s in 4 s and then moves at 8 m/s for 5 s. What is the total displacement?|48 m|72 m|40 m|56 m|0|The triangle has area ½ × 4 × 8 = 16 m and the rectangle has area 8 × 5 = 40 m. The total is 56 m.
+What is the acceleration of an object moving with constant velocity?|9.8 m/s²|Zero|1 m/s²|Equal to its speed|1|Constant velocity means that the velocity does not change.
+Which formula gives speed?|Speed = distance / time|Speed = distance × time|Speed = time / distance|Speed = distance + time|0|Speed is the distance travelled in each unit of time.
+Which of these is a scalar quantity?|Displacement|Velocity|Distance|Acceleration|2|Distance has size only. The others also have direction.
+How long does it take to travel 120 m at 8 m/s?|960 s|112 s|0.07 s|15 s|3|t = d / v = 120 / 8 = 15 s.
+On a distance–time graph, a straight line goes from (0 s, 0 m) to (10 s, 50 m). What is the speed?|50 m/s|5 m/s|0.2 m/s|500 m/s|1|The slope is 50 / 10 = 5 m/s.
+A car speeds up from 0 to 20 m/s in 4 s. What is its acceleration?|5 m/s²|80 m/s²|0.2 m/s²|16 m/s²|0|a = (v − u) / t = (20 − 0) / 4 = 5 m/s².
+A car moves at 54 km/h. How long does it take to cover 300 m?|5.6 s|200 s|16.2 s|20 s|3|54 km/h = 15 m/s, and t = 300 / 15 = 20 s.
+Which of these quantities is a scalar?|Velocity|Displacement|Speed|Acceleration|2|Speed has only size. Velocity, displacement and acceleration also have direction.
+A car travels 100 m in 10 s. What is its speed?|1000 m/s|10 m/s|0.1 m/s|90 m/s|1|v = d / t = 100 / 10 = 10 m/s.
+What is the approximate acceleration of a freely falling object near the Earth?|9.8 m/s²|0.98 m/s²|98 m/s²|1 m/s²|0|Free fall near the Earth has a ≈ 9.8 m/s² downward.
+Which of these is a vector quantity?|Distance|Speed|Displacement|Time|2|Displacement has both size and direction.
+A runner goes 100 m in one direction and 100 m back in a total time of 50 s. What is the average speed?|0 m/s|2 m/s|8 m/s|4 m/s|3|The distance is 200 m, so the average speed = 200 / 50 = 4 m/s.
+A person walks 3 m east and then 4 m north. What is the size of the displacement?|5 m|7 m|1 m|12 m|0|Displacement = √(3² + 4²) = √25 = 5 m.
+An object travels 150 m in 30 s. What is its average speed?|10 m/s|4500 m/s|15 m/s|5 m/s|3|v = d / t = 150 / 30 = 5 m/s.
+A car has an initial velocity of 20 m/s and an acceleration of −5 m/s². How long does it take to stop?|100 s|15 s|4 s|0.25 s|2|0 = 20 − 5t, so t = 4 s.
+An object is dropped and falls freely (a = 9.8 m/s²). What is its speed after 3 s?|3.27 m/s|29.4 m/s|9.8 m/s|12.8 m/s|1|v = a × t = 9.8 × 3 = 29.4 m/s.
+What is the SI unit of speed?|m|m/s|m/s²|kg|1|Speed is distance divided by time, so its SI unit is metres per second.
+How do you change a speed from km/h to m/s?|Multiply by 3.6|Divide by 60|Divide by 3.6|Multiply by 1000|2|1 km/h = 1000 m / 3600 s = 1/3.6 m/s.
+A person walks 3 m east and then 4 m north. What is the distance travelled?|7 m|5 m|1 m|12 m|0|Distance is the total length of the path: 3 + 4 = 7 m.
+A person walks 5 m east and then 12 m north. What is the size of the displacement?|17 m|7 m|60 m|13 m|3|Displacement = √(5² + 12²) = √169 = 13 m.
+An object moves 60 m in 10 s and then 40 m in the next 10 s. What is its average speed?|6 m/s|4 m/s|5 m/s|10 m/s|2|Average speed = total distance / total time = 100 / 20 = 5 m/s.
+A runner completes one 400 m lap in 80 s. What is the average speed and average velocity?|5 m/s and 5 m/s|0 m/s and 5 m/s|0 m/s and 0 m/s|5 m/s and 0 m/s|3|Average speed = 400 / 80 = 5 m/s. The displacement for one full lap is zero, so the average velocity is 0.
+A bus travels at 30 km/h for 2 h and then at 60 km/h for 1 h. What is its average speed?|40 km/h|45 km/h|50 km/h|90 km/h|0|Distance = 60 + 60 = 120 km in 3 h, so the average speed is 40 km/h.
+An object travels 240 km in 3 h. What is its average speed?|160 km/h|80 km/h|720 km/h|90 km/h|1|v = d / t = 240 / 3 = 80 km/h.
+On a velocity–time graph, an object moves at 6 m/s for 5 s (a horizontal line). What is its displacement?|11 m|1.2 m|6 m|30 m|3|The area of the rectangle is 6 × 5 = 30 m.
+Convert 72 km/h to m/s.|259.2 m/s|20 m/s|72 m/s|7.2 m/s|1|72 ÷ 3.6 = 20 m/s.
+What does a curved line on a distance–time graph mean?|The speed is changing|The object is at rest|The speed is constant|The distance is zero|0|A constant speed gives a straight line. A curve means the slope, and so the speed, changes.
+On a velocity–time graph, a straight line slopes downward. What does it show?|Constant velocity|The object is at rest|Constant negative acceleration (slowing down)|Increasing speed|2|The slope is the acceleration, and a downward slope is negative.
+An object starts from rest and accelerates at 3 m/s² to a velocity of 15 m/s. How long does it take?|45 s|0.2 s|5 s|12 s|2|t = (v − u) / a = 15 / 3 = 5 s.
+A runner moves at 20 m/s for 15 s. What distance does she cover?|35 m|1.33 m|150 m|300 m|3|d = v × t = 20 × 15 = 300 m.
+A car speeds up uniformly from 0 to 10 m/s in 6 s. What is its displacement in this time?|60 m|30 m|10 m|1.67 m|1|The area of the triangle is ½ × 6 × 10 = 30 m.
+A car slows uniformly from 20 m/s to rest in 4 s. What distance does it travel while stopping?|40 m|80 m|5 m|20 m|0|The area of the triangle is ½ × 4 × 20 = 40 m.
+A train speeds up uniformly from 5 m/s to 25 m/s in 10 s and then moves at 25 m/s for 4 s. What is its total displacement?|150 m|100 m|300 m|250 m|3|During the first 10 s the area is ½ × (5 + 25) × 10 = 150 m. In the next 4 s it travels 25 × 4 = 100 m. The total is 250 m.
+On a distance–time graph, an object moves from (2 s, 10 m) to (6 s, 30 m). What is its speed?|4 m/s|20 m/s|5 m/s|7.5 m/s|2|Speed = (30 − 10) / (6 − 2) = 5 m/s.
