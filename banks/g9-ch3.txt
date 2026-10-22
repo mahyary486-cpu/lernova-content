@@ -1,51 +1,51 @@
-#EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
-In a system of inequalities, the solution is|only the boundary lines|the region that is shaded once|the region where the shaded areas overlap|the point (0, 0)|2|A solution must satisfy every inequality, so it lies in the overlap of all the shaded regions.
-What is a solution of a system of linear equations?|An ordered pair that makes every equation true|Any point on the first line|The slope of the lines|The y-intercept of one line|0|A solution must satisfy all equations in the system at the same time, so it is a point on every graph.
-Which type of boundary line is used for the inequality y ≤ 2x - 4?|A dashed line|A solid line|A vertical line|No line is drawn|1|Inequalities with ≤ or ≥ include the boundary, so the line is solid.
-How many solutions does the system y = 4x + 5 and 2y = 8x + 10 have?|Exactly one solution|No solution|Exactly two solutions|Infinitely many solutions|3|Dividing the second equation by 2 gives the first equation, so they describe the same line.
-How many solutions does the system y = 4x + 4 and y = 3x + 1 have?|No solution|Infinitely many solutions|Exactly two solutions|Exactly one solution|3|The slopes are different, so the lines cross once.
-What is the solution of y = -2x + 13 and 3x + y = 19?|(6, 1)|(1, 6)|(6, -1)|(-6, 1)|0|Substitute y into the second equation: 3x + 1(-2x + 13) = 19. Solving gives x = 6, and then y = 1. Check: 3(6) + 1(1) = 19.
-How many solutions does the system 4x + 2y = 9 and 12x + 6y = 30 have?|Exactly one solution|No solution|Infinitely many solutions|Exactly two solutions|1|The left sides are in the ratio 1 : 3, but the right sides are not, so the lines are parallel.
-For which value of k does the system y = 6x + 2 and y = kx - 2 have no solution?|7|-6|6|2|2|No solution requires parallel lines: equal slopes and different intercepts. So k = 6, and the intercepts 2 and -2 are different.
-If the graphs of two equations in a system are parallel lines, how many solutions does the system have?|Exactly one solution|Exactly two solutions|No solution|Infinitely many solutions|2|Parallel lines never meet, so no point satisfies both equations.
-When you solve a system by graphing, the solution is|the point where the lines cross|the y-intercept of the first line|the slope of the steeper line|the origin|0|The crossing point lies on both lines, so its coordinates satisfy both equations.
-Which ordered pair is a solution of x + y = 7 and x - y = 3?|(2, 5)|(5, -2)|(-5, 2)|(5, 2)|3|Substitute (x, y) = (5, 2): 5 + 2 = 7 and 5 - 2 = 3. Both equations are true.
-How many solutions does the system y = 4x + 1 and y = 4x + 3 have?|Exactly one solution|No solution|Infinitely many solutions|Exactly two solutions|1|The slopes are equal but the y-intercepts differ, so the lines are parallel.
-Tickets cost $10 for adults and $6 for children. A group buys 21 tickets for $174. How many adult tickets did they buy?|9|13|11|12|3|Let a = adult tickets and c = child tickets: a + c = 21 and 10a + 6c = 174. Substituting c = 21 - a gives a = 12.
-What is the solution of y = -2x + 5 and x + y = 4?|(1, 3)|(3, 1)|(1, -3)|(-1, 3)|0|Substitute y into the second equation: 1x + 1(-2x + 5) = 4. Solving gives x = 1, and then y = 3. Check: 1(1) + 1(3) = 4.
-A rectangle has perimeter 42 cm. Its length is 5 cm more than its width. What is the length?|8 cm|13 cm|15 cm|11 cm|1|Let l = w + 5 and 2l + 2w = 42. Substituting: 4w + 10 = 42, so w = 8 and l = 13.
-A rectangle has perimeter 34 cm. Its length is 3 cm more than its width. What is the length?|7 cm|12 cm|10 cm|8 cm|2|Let l = w + 3 and 2l + 2w = 34. Substituting: 4w + 6 = 34, so w = 7 and l = 10.
-Two lines with different slopes always|never intersect|coincide|intersect at two points|intersect at exactly one point|3|Lines with different slopes cross once, so the system has exactly one solution.
-If the graphs of two equations in a system are the same line, how many solutions does the system have?|No solution|Infinitely many solutions|Exactly one solution|Exactly two solutions|1|Every point on the line satisfies both equations, so there are infinitely many solutions.
-Which ordered pair is a solution of x + y = 9 and x - y = 3?|(6, 3)|(3, 6)|(6, -3)|(-6, 3)|0|Substitute (x, y) = (6, 3): 6 + 3 = 9 and 6 - 3 = 3. Both equations are true.
-How many solutions does the system y = 2x + 5 and y = 4x + 1 have?|No solution|Infinitely many solutions|Exactly one solution|Exactly two solutions|2|The slopes are different, so the lines cross once.
-What is the solution of y = -x + 11 and 3x + y = 19?|(4, 7)|(7, 4)|(4, -7)|(-4, 7)|0|Substitute y into the second equation: 3x + 1(-x + 11) = 19. Solving gives x = 4, and then y = 7. Check: 3(4) + 1(7) = 19.
-Tickets cost $9 for adults and $4 for children. A group buys 18 tickets for $102. How many adult tickets did they buy?|12|7|5|6|3|Let a = adult tickets and c = child tickets: a + c = 18 and 9a + 4c = 102. Substituting c = 18 - a gives a = 6.
-How many solutions does the system 2x + 5y = 7 and 4x + 10y = 18 have?|Exactly one solution|No solution|Infinitely many solutions|Exactly two solutions|1|The left sides are in the ratio 1 : 2, but the right sides are not, so the lines are parallel.
-A boat travels 15 km in one hour going downstream and 7 km in one hour going upstream. What is the speed of the boat in still water?|4 km/h|15 km/h|11 km/h|22 km/h|2|Let b = boat speed and c = current: b + c = 15 and b - c = 7. Adding gives 2b = 22, so b = 11 km/h.
-Is (2, 7) a solution of the equation y = 3x + 1?|No, because 7 is not equal to 3(2)|No, because 2 + 7 is not 3|Yes, because 2 < 7|Yes, because 7 = 3(2) + 1|3|Substitute x = 2: 3(2) + 1 = 7, which equals y.
-Which type of boundary line is used for the inequality y > 3x + 1?|A solid line|A dashed line|A vertical line|No line is drawn|1|Strict inequalities (< and >) do not include the boundary, so the line is dashed.
-Substitute y = 3x into x + y = 20. Which equation results?|x + 3x = 20|3x + y = 20|x + 3 = 20|x - 3x = 20|0|Replace y with 3x: x + 3x = 20.
-What is the solution of y = 3x - 6 and 2x + y = 14?|(6, 4)|(4, -6)|(4, 6)|(-4, 6)|2|Substitute y into the second equation: 2x + 1(3x - 6) = 14. Solving gives x = 4, and then y = 6. Check: 2(4) + 1(6) = 14.
-The sum of two numbers is 29 and their difference is 19. What is the larger number?|5|24|25|23|1|Let the numbers be x and y: x + y = 29 and x - y = 19. Adding gives 2x = 48, so x = 24.
-The sum of two numbers is 33 and their difference is 15. What is the larger number?|24|9|25|23|0|Let the numbers be x and y: x + y = 33 and x - y = 15. Adding gives 2x = 48, so x = 24.
-Which point is a solution of the system y > 3x - 2 and y ≤ -x + 8?|(4, 4)|(3, -2)|(-2, 6)|(3, -1)|2|For (-2, 6): 6 > -8 and 6 ≤ 10 are both true. Each other point fails at least one inequality.
-Which point is a solution of the system y > 2x and y ≤ -x + 6?|(4, 0)|(-1, -2)|(5, -2)|(-2, 6)|3|For (-2, 6): 6 > -4 and 6 ≤ 8 are both true. Each other point fails at least one inequality.
-Which ordered pair is a solution of x + y = 12 and x - y = 4?|(4, 8)|(8, -4)|(8, 4)|(-8, 4)|2|Substitute (x, y) = (8, 4): 8 + 4 = 12 and 8 - 4 = 4. Both equations are true.
-Which ordered pair is a solution of x + y = 8 and x - y = 6?|(1, 7)|(7, -1)|(-7, 1)|(7, 1)|3|Substitute (x, y) = (7, 1): 7 + 1 = 8 and 7 - 1 = 6. Both equations are true.
-Solve by elimination: x + 4y = 17 and 5x - 4y = -11. What is the value of x?|2|1|3|4|1|The y terms are opposites (4y and -4y), so add the equations: 6x = 6, which gives x = 1.
-What is the solution of y = -x + 6 and 3x + y = 12?|(3, 3)|(3, -3)|(-3, 3)|(4, 3)|0|Substitute y into the second equation: 3x + 1(-x + 6) = 12. Solving gives x = 3, and then y = 3. Check: 3(3) + 1(3) = 12.
-Tickets cost $12 for adults and $7 for children. A group buys 21 tickets for $192. How many adult tickets did they buy?|12|10|8|9|3|Let a = adult tickets and c = child tickets: a + c = 21 and 12a + 7c = 192. Substituting c = 21 - a gives a = 9.
-Notebooks cost $2 and pens cost $2. You can spend at most $16 and want at least 5 items. Which pair (notebooks, pens) works?|(2, 5)|(5, 8)|(0, 2)|(16, 16)|0|Need 2n + 2p ≤ 16 and n + p ≥ 5. For (2, 5): 14 ≤ 16 and 7 ≥ 5. Both are true.
-For which value of k does the system y = 5x + 1 and y = kx - 2 have no solution?|6|5|-5|1|1|No solution requires parallel lines: equal slopes and different intercepts. So k = 5, and the intercepts 1 and -2 are different.
-Solve by elimination: 3x + 4y = 26 and 5x - 4y = -10. What is the value of x?|3|1|2|5|2|The y terms are opposites (4y and -4y), so add the equations: 8x = 16, which gives x = 2.
-The sum of two numbers is 23 and their difference is 5. What is the larger number?|14|9|15|13|0|Let the numbers be x and y: x + y = 23 and x - y = 5. Adding gives 2x = 28, so x = 14.
-The sum of two numbers is 19 and their difference is 5. What is the larger number?|7|13|12|11|2|Let the numbers be x and y: x + y = 19 and x - y = 5. Adding gives 2x = 24, so x = 12.
-A boat travels 17 km in one hour going downstream and 9 km in one hour going upstream. What is the speed of the boat in still water?|4 km/h|13 km/h|17 km/h|26 km/h|1|Let b = boat speed and c = current: b + c = 17 and b - c = 9. Adding gives 2b = 26, so b = 13 km/h.
-How many solutions does the system 2x + 3y = 6 and 3x + 5y = 7 have?|No solution|Infinitely many solutions|Exactly two solutions|Exactly one solution|3|The coefficients are not proportional, so the lines have different slopes.
-How many solutions does the system y = 4x + 6 and y = 4x + 10 have?|Exactly one solution|Infinitely many solutions|No solution|Exactly two solutions|2|The slopes are equal but the y-intercepts differ, so the lines are parallel.
-The sum of two numbers is 33 and their difference is 17. What is the larger number?|8|26|24|25|3|Let the numbers be x and y: x + y = 33 and x - y = 17. Adding gives 2x = 50, so x = 25.
-For which value of k does the system y = 3x + 5 and y = kx - 2 have no solution?|4|3|-3|5|1|No solution requires parallel lines: equal slopes and different intercepts. So k = 3, and the intercepts 5 and -2 are different.
-A rectangle has perimeter 26 cm. Its length is 5 cm more than its width. What is the length?|9 cm|4 cm|11 cm|7 cm|0|Let l = w + 5 and 2l + 2w = 26. Substituting: 4w + 10 = 26, so w = 4 and l = 9.
-A boat travels 15 km in one hour going downstream and 11 km in one hour going upstream. What is the speed of the boat in still water?|2 km/h|15 km/h|26 km/h|13 km/h|3|Let b = boat speed and c = current: b + c = 15 and b - c = 11. Adding gives 2b = 26, so b = 13 km/h.
-Notebooks cost $2 and pens cost $2. You can spend at most $20 and want at least 9 items. Which pair (notebooks, pens) works?|(3, 6)|(6, 9)|(0, 6)|(20, 20)|0|Need 2n + 2p ≤ 20 and n + p ≥ 9. For (3, 6): 18 ≤ 20 and 9 ≥ 9. Both are true.
+#EEEMMMMHHHEEEMMMMMHHEEEMMMMHHHEEEMMMMMHHEEEMMMMHHH
+A solution of a system of two linear equations is|the y-intercept of the first line|an ordered pair that makes both equations true|the common slope of the two lines|any point on just one of the lines|1|A solution must satisfy every equation in the system, so it is an ordered pair that works in both.
+How many solutions do y = 2x + 1 and y = 2x - 5 have?|Exactly one|Exactly two|None|Infinitely many|2|The slopes are equal (2) and the y-intercepts differ, so the lines are parallel and never meet.
+The graphs of two equations cross at the point (4, -1). What is the solution of the system?|(-1, 4)|(4, -1)|(4, 1)|(1, -4)|1|The solution is the intersection point, written as (x, y) = (4, -1).
+Solve by graphing: y = x + 2 and y = -x + 4.|(3, 1)|(2, 4)|(1, 3)|(0, 2)|2|The lines meet at (1, 3): 1 + 2 = 3 and -1 + 4 = 3. (3, 1) reverses the coordinates.
+Which system has infinitely many solutions?|y = 3x - 1 and 6x - 2y = 2|y = 3x - 1 and y = 3x + 1|y = 3x - 1 and y = -3x - 1|y = 3x - 1 and 6x - 2y = -2|0|Solving 6x - 2y = 2 for y gives y = 3x - 1, the same line. The others are parallel or intersect once.
+Solve the system x + y = 5 and x - y = 1.|(2, 3)|(4, 1)|(1, 4)|(3, 2)|3|Rewrite as y = -x + 5 and y = x - 1; they meet at (3, 2). Check: 3 + 2 = 5 and 3 - 2 = 1.
+Which system has no solution?|y = -2x + 3 and 4x + 2y = 7|y = -2x + 3 and 4x - 2y = 7|y = -2x + 3 and 2x + 4y = 7|y = -2x + 3 and y = 2x + 3|0|4x + 2y = 7 gives y = -2x + 3.5, which is parallel to y = -2x + 3 (same slope, different intercept).
+At which point do y = (1/2)x + 1 and y = -x + 4 intersect?|(2, 1)|(2, 2)|(4, 3)|(1, 3)|1|Set (1/2)x + 1 = -x + 4, so 1.5x = 3 and x = 2, then y = 2.
+For what value of k do y = 3x + k and y = 3x + 5 have infinitely many solutions?|3|-5|5|There is no such value|2|The slopes already match. The lines are the same only when the y-intercepts match, so k = 5.
+Which point is the solution of 2x + y = 7 and x - y = -1?|(1, 5)|(0, 1)|(2, 3)|(3, 2)|2|Adding gives 3x = 6, so x = 2 and y = 3. (1, 5) fits only the first equation and (0, 1) only the second.
+Substituting y = x + 3 into x + y = 9 gives which equation?|x + (x - 3) = 9|y + (x + 3) = 9|x + y + 3 = 9|x + (x + 3) = 9|3|Replace y with the expression x + 3, keeping the parentheses: x + (x + 3) = 9.
+Solve y = 2x and x + y = 12.|(8, 4)|(6, 6)|(3, 6)|(4, 8)|3|Substitute: x + 2x = 12, so x = 4 and y = 8.
+If x = 2y and 3x + y = 14, what is y?|4|7|2|1|2|Substitute: 3(2y) + y = 7y = 14, so y = 2. (4 is the value of x.)
+Solve y = 3x - 2 and 2x + y = 8.|(2, 4)|(4, 2)|(2, 2)|(1, 6)|0|2x + 3x - 2 = 8 gives 5x = 10, x = 2, and y = 3(2) - 2 = 4.
+Solve x + 3y = 10 and 2x - y = 6.|(4, 2)|(2, 4)|(10, 0)|(1, 3)|0|x = 10 - 3y, so 2(10 - 3y) - y = 6, 20 - 7y = 6, y = 2 and x = 4.
+Substituting into a system gives 1 = -3. What does this tell you?|There are infinitely many solutions|x = 0|The solution is (1, -3)|There is no solution|3|A false statement means the lines are parallel, so the system has no solution.
+Solve y = 2x - 3 and 6x - 3y = 9.|No solution|Infinitely many solutions|Exactly one solution, (0, -3)|Exactly one solution, (3, 3)|1|6x - 3(2x - 3) = 9 simplifies to 9 = 9, always true, so the lines are identical.
+Substituting x = 8 - 2y into 3x - y = 3 gives which equation?|24 - 7y = 3|8 - 7y = 3|24 - 5y = 3|24 - 3y = 3|0|Distribute 3 to both terms: 24 - 6y - y = 24 - 7y.
+Solve x = 2y - 1 and 3x + 4y = 17.|(2, 3)|(3, 2)|(5, 3)|(1, 1)|1|3(2y - 1) + 4y = 17 gives 10y = 20, y = 2, and x = 3.
+For what value of k do y = 2x + 1 and 4x - 2y = k have infinitely many solutions?|2|1|-1|-2|3|Substitute: 4x - 2(2x + 1) = -2, so the equation is true for all x only when k = -2.
+Adding x + y = 10 and x - y = 2 gives|2y = 12|2x = 8|x = 12|2x = 12|3|The y terms cancel, leaving 2x = 12, so x = 6.
+Which operation eliminates y in 3x + 2y = 8 and 5x - 2y = 4?|Subtract the equations|Add the equations|Multiply the first by 2 only|Neither works|1|The y coefficients are opposites, so adding cancels y. Subtracting would give 4y.
+Solve x + y = 7 and x - y = 1.|(3, 4)|(6, 1)|(8, -1)|(4, 3)|3|Adding gives 2x = 8, x = 4, then y = 3.
+Solve 2x + y = 11 and 3x - y = 9.|(4, 3)|(3, 4)|(2, 7)|(5, 1)|0|Adding gives 5x = 20, so x = 4; then y = 11 - 8 = 3.
+To eliminate x from 2x + 3y = 5 and 5x + 4y = 1, which works?|Multiply the first by 5 and the second by 2, then add|Multiply the first by 2 and the second by 5, then subtract|Multiply the first by 3 and the second by 4, then add|Multiply the first by 5 and the second by 2, then subtract|3|This gives 10x and 10x, which cancel when subtracted. Adding would give 20x.
+Solve 3x + y = 7 and 2x + 3y = 7.|(1, 2)|(2, 1)|(3, -2)|(0, 7)|1|Multiply the first by 3: 9x + 3y = 21. Subtract: 7x = 14, x = 2, then y = 1.
+When you eliminate a variable from a system, both variables cancel and you get 0 = 8. What does this mean?|Infinitely many solutions|The solution is (0, 8)|No solution|The solution is x = 0|2|0 = 8 is false, so the lines are parallel and there is no solution.
+Solve 3x + 4y = 2 and 5x + 6y = 4.|(2, -1)|(-1, 2)|(2, 1)|(-2, 2)|0|Multiply the first by 5 and the second by 3: 15x + 20y = 10 and 15x + 18y = 12. Subtract: 2y = -2, y = -1, x = 2.
+For what value of k do 2x - 3y = 7 and 4x - 6y = k have infinitely many solutions?|7|-14|21|14|3|Doubling the first equation gives 4x - 6y = 14, so k must be 14.
+Solve 2x + 3y = 6 and 3x + 2y = -1.|(4, -3)|(-3, 4)|(3, 0)|(0, 2)|1|Multiply the first by 3 and the second by 2: 6x + 9y = 18 and 6x + 4y = -2. Subtract: 5y = 20, y = 4, x = -3.
+Two numbers have sum 15 and difference 3. What are they?|10 and 5|8 and 7|9 and 6|12 and 3|2|x + y = 15 and x - y = 3 give 2x = 18, so x = 9 and y = 6.
+Adult tickets cost $6 and student tickets $4. A total of 20 tickets brings in $96. Which system fits (a = adult, s = student)?|a + s = 96 and 6a + 4s = 20|a + s = 20 and 6a + 4s = 96|a + s = 20 and 4a + 6s = 96|6a + 4s = 20 and a + s = 96|1|One equation counts tickets and one counts money, matching each price to the right ticket type.
+Plan A costs $15 plus $4 per month and Plan B costs $5 plus $6 per month. After how many months do they cost the same?|10|2|4|5|3|15 + 4m = 5 + 6m gives 10 = 2m, so m = 5.
+A jar has 14 coins, all nickels and dimes, worth $1.10. How many dimes are there?|6|4|8|10|2|n + d = 14 and 5n + 10d = 110 give 5d = 40, so d = 8 (and n = 6).
+A boat goes 40 miles downstream in 4 hours and back upstream in 5 hours. What is the speed of the current?|9 mph|2 mph|1 mph|10 mph|2|Downstream 10 mph and upstream 8 mph: b + c = 10 and b - c = 8, so b = 9 and c = 1.
+One number is 5 more than twice another, and their sum is 26. What is the larger number?|19|7|21|17|0|y = 2x + 5 and x + y = 26 give 3x = 21, x = 7, y = 19.
+A rectangle has perimeter 36 and its length is 4 more than its width. What is the length?|11|7|13|9|0|2l + 2w = 36 and l = w + 4 give 4w + 8 = 36, so w = 7 and l = 11.
+2 sandwiches and 3 drinks cost $12. 1 sandwich and 1 drink cost $5. What is the price of a drink?|$3|$2|$4|$1|1|s + d = 5 and 2s + 3d = 12 give d = 12 - 10 = 2. Then s = 3.
+How many liters of a 50% solution must be mixed with a 20% solution to make 12 liters of a 30% solution?|8|6|4|3|2|x + y = 12 and 0.2x + 0.5y = 3.6 give 0.3y = 1.2, so y = 4 liters of the 50% solution.
+A plane flies 600 miles with the wind in 2 hours and returns against the wind in 3 hours. What is the wind speed?|250 mph|100 mph|25 mph|50 mph|3|Speeds are 300 and 200 mph: p + w = 300 and p - w = 200, so p = 250 and w = 50.
+Which inequality has a dashed boundary line?|y >= 2x + 1|y <= 2x + 1|y > 2x + 1|y = 2x + 1|2|Strict signs (< and >) use a dashed line; <= and >= use a solid line.
+Which point is a solution of y > x + 3?|(1, 4)|(1, 5)|(0, 3)|(2, 4)|1|At x = 1, x + 3 = 4 and 5 > 4 is true. The others give 4 > 4, 3 > 3, 4 > 5, all false.
+Solve -2x > 8.|x < -4|x > -4|x < 4|x > 4|0|Dividing by -2 reverses the inequality sign: x < -4.
+Which describes the graph of y < 3x - 2?|Solid line, shaded below|Dashed line, shaded above|Dashed line, shaded below|Solid line, shaded above|2|The sign < gives a dashed boundary and shading below the line.
+Solve 4x - 2y <= 8 for y.|y >= 2x - 4|y <= 2x - 4|y >= 2x + 4|y <= -2x + 4|0|-2y <= -4x + 8; dividing by -2 reverses the sign: y >= 2x - 4.
+Which point is a solution of the system y >= x and y < 5?|(2, 3)|(3, 2)|(1, 5)|(6, 6)|0|(2, 3): 3 >= 2 and 3 < 5. (3, 2) fails the first; (1, 5) and (6, 6) fail the second.
+A student can spend at most $50 on shirts at $10 each and hats at $4 each. Which inequality models this?|10s + 4h >= 50|10s + 4h = 50|4s + 10h <= 50|10s + 4h <= 50|3|At most means <=, and each price multiplies its own item.
+Which point is in the solution region of y < x + 1 and y >= -x + 2?|(2, 3)|(4, 3)|(0, 1)|(1, 0)|1|(4, 3): 3 < 5 and 3 >= -2. (2, 3) fails 3 < 3, (0, 1) fails 1 < 1, (1, 0) fails 0 >= 1.
+The point (2, 4) lies on the line y = 2x. For the inequality y < 2x, what is true of (2, 4)?|It is not a solution, because 4 < 4 is false|It is a solution, because it lies on the line|It is a solution, because 4 > 2|It is not a solution, because it is above the line|0|Substituting gives 4 < 4, which is false; that is why the boundary is dashed.
+Which inequality is equivalent to -3y >= 6x - 9?|y >= -2x + 3|y <= -2x + 3|y <= 2x - 3|y >= 2x - 3|1|Divide by -3 and reverse the sign: y <= -2x + 3.

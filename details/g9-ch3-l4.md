@@ -1,31 +1,43 @@
-# Systems of Linear Inequalities
+# Systems Word Problems
 
-## Graphing one inequality
-1. Graph the **boundary line** by replacing the inequality sign with =.
-2. Use a **dashed line** for < and >. Use a **solid line** for ≤ and ≥.
-3. Pick a **test point** not on the line, often (0, 0).
-4. If the test point makes the inequality true, shade its side. Otherwise shade the other side.
+## Approach
+Systems help when a problem has two unknown quantities and two separate facts about them.
 
-## Example: y > 2x - 1
-- Boundary: y = 2x - 1, which passes through (0, -1) with slope 2. Draw it dashed.
-- Test (0, 0): 0 > -1 is true, so shade the side containing the origin (above the line).
+1. **Define variables.** Write what x and y stand for, with units.
+2. **Write two equations.** Each fact gives one equation.
+3. **Solve** by graphing, substitution or elimination.
+4. **Answer the question** in a sentence and check it against the story.
 
-## A system of inequalities
-The solution is the region where the shaded areas **overlap**. Every point in that region satisfies all the inequalities.
+## Typical situations
+- Two numbers with a given sum and difference.
+- Tickets or items with two different prices.
+- Two plans with a fixed fee and a rate, where you find when they cost the same.
+- Mixtures and coin problems.
+- Boats or planes with a current or wind.
 
-## Example
-y ≤ -x + 5 and y > 2x - 1.
-- Test (0, 0): 0 ≤ 5 is true and 0 > -1 is true, so (0, 0) is a solution.
-- Test (1, 1): 1 ≤ 4 is true, but 1 > 1 is false, so (1, 1) is not a solution.
-- Test (4, 4): 4 ≤ 1 is false, so (4, 4) is not a solution.
+## Worked examples
+**Example 1: tickets.** A school play sells 150 tickets. Adult tickets cost $8 and student tickets cost $5. Total sales are $945. How many of each were sold?
+1. Let a = adult tickets and s = student tickets.
+2. a + s = 150 and 8a + 5s = 945.
+3. From the first, s = 150 - a. Substitute: 8a + 5(150 - a) = 945, so 3a + 750 = 945, 3a = 195 and a = 65.
+4. Then s = 85.
+5. Check: 8(65) + 5(85) = 520 + 425 = 945. True.
+Answer: 65 adult and 85 student tickets.
 
-## Real-world example
-Notebooks cost $2 each and pens cost $1 each. You want to spend at most $12 and buy at least 8 items. Let n = notebooks and p = pens.
-- Spending: 2n + p ≤ 12.
-- Items: n + p ≥ 8.
-- Is (3, 6) a solution? 2(3) + 6 = 12 ≤ 12 is true, and 3 + 6 = 9 ≥ 8 is true. Yes.
+**Example 2: two plans.** Gym A costs $30 to join plus $10 per month. Gym B costs $10 to join plus $20 per month. When is the total cost equal?
+1. Let m = months and C = cost. C = 30 + 10m and C = 10 + 20m.
+2. Set equal: 30 + 10m = 10 + 20m, so 20 = 10m and m = 2.
+3. The cost is 30 + 20 = $50.
+Answer: after 2 months, both cost $50.
+
+**Example 3: current.** A boat goes 24 miles downstream in 2 hours and returns upstream in 3 hours. Find the boat speed in still water and the current speed.
+1. Downstream speed is 24 / 2 = 12 mph. Upstream speed is 24 / 3 = 8 mph.
+2. b + c = 12 and b - c = 8.
+3. Add: 2b = 20, so b = 10. Then c = 2.
+Answer: boat 10 mph, current 2 mph.
 
 ## Common mistakes
-- Using a solid line for < or >.
-- Shading the wrong side. Always test a point.
-- Forgetting to reverse the inequality sign when multiplying or dividing by a negative number.
+- Not defining the variables, which leads to mixed-up answers.
+- Writing both equations from the same fact.
+- Mixing percent and decimal forms in mixture problems.
+- Giving only x and forgetting to answer what was asked.

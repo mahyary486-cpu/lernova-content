@@ -1,51 +1,45 @@
 # Solving Systems by Elimination
 
 ## The idea
-Add or subtract the equations so that one variable cancels. Equations stay balanced when you add equal quantities to both sides.
+In **elimination**, you add or subtract the equations so that one variable cancels. This works because adding equal quantities to both sides of an equation keeps it true.
 
-## Steps
-1. Line up the equations with like terms in columns.
-2. If needed, multiply one or both equations so a variable has opposite coefficients.
-3. Add the equations to eliminate that variable.
-4. Solve, then substitute back to find the other variable.
-5. Check in both original equations.
+## Method
+1. Write both equations in the form Ax + By = C.
+2. If needed, multiply one or both equations so that one variable has opposite coefficients (add) or equal coefficients (subtract).
+3. Add or subtract to eliminate that variable.
+4. Solve for the remaining variable.
+5. Substitute back to find the other variable, then check.
 
-## Example 1: coefficients already opposite
-x + y = 10 and x - y = 4.
-- Add: 2x = 14, so x = 7.
-- Then 7 + y = 10, so y = 3.
-- Solution: (7, 3).
+## Worked examples
+**Example 1.** Solve x + y = 9 and x - y = 3.
+1. The y terms are opposites. Add: 2x = 12, so x = 6.
+2. Substitute: 6 + y = 9, so y = 3.
+3. Check: 6 - 3 = 3. True.
+Solution: (6, 3).
 
-## Example 2
-2x + 3y = 12 and 4x - 3y = 6.
-- The y terms are opposites. Add: 6x = 18, so x = 3.
-- Then 2(3) + 3y = 12, so 3y = 6 and y = 2.
-- Solution: (3, 2).
+**Example 2.** Solve 2x + 3y = 12 and 5x - y = 13.
+1. Multiply the second equation by 3: 15x - 3y = 39.
+2. Add to the first: 17x = 51, so x = 3.
+3. Substitute into 5x - y = 13: 15 - y = 13, so y = 2.
+4. Check: 2(3) + 3(2) = 12. True.
+Solution: (3, 2).
 
-## Example 3: multiply one equation
-3x + 2y = 16 and x + y = 6.
-- Multiply the second equation by -2: -2x - 2y = -12.
-- Add to the first: x = 4.
-- Then 4 + y = 6, so y = 2.
-- Check: 3(4) + 2(2) = 16 is true. Solution: (4, 2).
-
-## Example 4: multiply both equations
-2x + 3y = 13 and 3x - 2y = 0.
-- Multiply the first by 2: 4x + 6y = 26. Multiply the second by 3: 9x - 6y = 0.
-- Add: 13x = 26, so x = 2.
-- Then 3(2) - 2y = 0, so y = 3.
-- Check: 2(2) + 3(3) = 13 is true. Solution: (2, 3).
+**Example 3.** Solve 3x + 4y = 1 and 2x + 3y = 0.
+1. Multiply the first by 2: 6x + 8y = 2. Multiply the second by 3: 6x + 9y = 0.
+2. Subtract: -y = 2, so y = -2.
+3. Substitute into 2x + 3y = 0: 2x - 6 = 0, so x = 3.
+4. Check: 3(3) + 4(-2) = 1. True.
+Solution: (3, -2).
 
 ## Special cases
-- If both variables cancel and you get a false statement such as 0 = 5, there is **no solution**.
-- If both variables cancel and you get a true statement such as 0 = 0, there are **infinitely many solutions**.
+- If both variables cancel and you get a false statement such as 0 = 6, there is no solution.
+- If both cancel and you get a true statement such as 0 = 0, there are infinitely many solutions.
 
-## Which method should I use?
-- **Graphing:** quick picture; best when answers are small whole numbers.
-- **Substitution:** best when one variable is already isolated or has coefficient 1.
-- **Elimination:** best when both equations are in standard form, Ax + By = C.
+## Choosing a method
+Use elimination when both equations are in standard form Ax + By = C. Use substitution when a variable is already isolated.
 
 ## Common mistakes
-- Multiplying only one side of an equation.
-- Sign errors when subtracting. Adding with opposite coefficients is safer.
-- Stopping after finding one variable.
+- Multiplying only one side of an equation or only one term.
+- Subtracting incorrectly: when subtracting, change the sign of every term in the second equation.
+- Forgetting to find the second variable.
+- Adding when the coefficients are equal, which does not eliminate the variable.
