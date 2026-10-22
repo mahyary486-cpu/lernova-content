@@ -89,6 +89,32 @@
        "title": "Linear Inequalities and Systems of Inequalities"
       }
      ]
+    },
+    {
+     "id": "g9-ch4",
+     "title": "Exponents and Exponential Functions",
+     "lessons": [
+      {
+       "id": "g9-ch4-l1",
+       "title": "Laws of Exponents"
+      },
+      {
+       "id": "g9-ch4-l2",
+       "title": "Zero and Negative Exponents"
+      },
+      {
+       "id": "g9-ch4-l3",
+       "title": "Scientific Notation"
+      },
+      {
+       "id": "g9-ch4-l4",
+       "title": "Exponential Growth and Decay"
+      },
+      {
+       "id": "g9-ch4-l5",
+       "title": "Geometric Sequences"
+      }
+     ]
     }
    ],
    "course": "Algebra 1",
@@ -941,6 +967,157 @@
       {
        "id": "ir9s-ch15-l4",
        "title": "Protecting nature"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "grade": 9,
+   "subject": "Math",
+   "chapters": [
+    {
+     "id": "g9-ch1",
+     "title": "Foundations of Algebra",
+     "lessons": [
+      {
+       "id": "g9-ch1-l1",
+       "title": "Real Numbers and Their Properties"
+      },
+      {
+       "id": "g9-ch1-l2",
+       "title": "Order of Operations and Evaluating Expressions"
+      },
+      {
+       "id": "g9-ch1-l3",
+       "title": "Simplifying Algebraic Expressions"
+      },
+      {
+       "id": "g9-ch1-l4",
+       "title": "Solving One-Step and Two-Step Equations"
+      },
+      {
+       "id": "g9-ch1-l5",
+       "title": "Multi-Step Equations and Variables on Both Sides"
+      },
+      {
+       "id": "g9-ch1-l6",
+       "title": "Ratios, Proportions and Percent"
+      }
+     ]
+    },
+    {
+     "id": "g9-ch2",
+     "title": "Linear Equations and Functions",
+     "lessons": [
+      {
+       "id": "g9-ch2-l1",
+       "title": "The Coordinate Plane and Graphing Points"
+      },
+      {
+       "id": "g9-ch2-l2",
+       "title": "Slope and Rate of Change"
+      },
+      {
+       "id": "g9-ch2-l3",
+       "title": "Slope-Intercept Form"
+      },
+      {
+       "id": "g9-ch2-l4",
+       "title": "Point-Slope Form and Standard Form"
+      },
+      {
+       "id": "g9-ch2-l5",
+       "title": "Parallel and Perpendicular Lines"
+      },
+      {
+       "id": "g9-ch2-l6",
+       "title": "Functions and Function Notation"
+      }
+     ]
+    }
+   ],
+   "course": "Algebra 1"
+  },
+  {
+   "grade": 10,
+   "subject": "Math",
+   "course": "Geometry",
+   "chapters": []
+  },
+  {
+   "grade": 11,
+   "subject": "Math",
+   "course": "Algebra 2",
+   "chapters": []
+  },
+  {
+   "grade": 12,
+   "subject": "Math",
+   "course": "Pre-Calculus",
+   "chapters": []
+  },
+  {
+   "grade": 9,
+   "subject": "Algebra 1",
+   "chapters": [
+    {
+     "id": "g9-ch1",
+     "title": "Foundations of Algebra",
+     "lessons": [
+      {
+       "id": "g9-ch1-l1",
+       "title": "Real Numbers and Their Properties"
+      },
+      {
+       "id": "g9-ch1-l2",
+       "title": "Order of Operations and Evaluating Expressions"
+      },
+      {
+       "id": "g9-ch1-l3",
+       "title": "Simplifying Algebraic Expressions"
+      },
+      {
+       "id": "g9-ch1-l4",
+       "title": "Solving One-Step and Two-Step Equations"
+      },
+      {
+       "id": "g9-ch1-l5",
+       "title": "Multi-Step Equations and Variables on Both Sides"
+      },
+      {
+       "id": "g9-ch1-l6",
+       "title": "Ratios, Proportions and Percent"
+      }
+     ]
+    },
+    {
+     "id": "g9-ch2",
+     "title": "Linear Equations and Functions",
+     "lessons": [
+      {
+       "id": "g9-ch2-l1",
+       "title": "The Coordinate Plane and Graphing Points"
+      },
+      {
+       "id": "g9-ch2-l2",
+       "title": "Slope and Rate of Change"
+      },
+      {
+       "id": "g9-ch2-l3",
+       "title": "Slope-Intercept Form"
+      },
+      {
+       "id": "g9-ch2-l4",
+       "title": "Point-Slope Form and Standard Form"
+      },
+      {
+       "id": "g9-ch2-l5",
+       "title": "Parallel and Perpendicular Lines"
+      },
+      {
+       "id": "g9-ch2-l6",
+       "title": "Functions and Function Notation"
       }
      ]
     }

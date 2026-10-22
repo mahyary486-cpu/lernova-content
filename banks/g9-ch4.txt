@@ -1,0 +1,51 @@
+#EEEMMMMMHHEEEMMMMHHHEEEMMMMMHHEEEMMMMHHHEEEMMMMHHH
+What is 2^5?|32|10|25|16|0|2^5 = 2 x 2 x 2 x 2 x 2 = 32. The exponent counts the factors, it is not multiplied by the base.
+Simplify x^3 x x^4.|x^12|2x^7|x^34|x^7|3|Same base, so add the exponents: 3 + 4 = 7.
+Simplify (x^2)^5.|x^7|x^25|x^10|x^3|2|A power of a power multiplies exponents: 2 x 5 = 10.
+Simplify (4x^2)(3x^5).|7x^7|12x^10|7x^10|12x^7|3|Multiply the coefficients 4 x 3 = 12 and add the exponents 2 + 5 = 7.
+Simplify 20x^9 / (5x^3).|15x^6|4x^3|4x^6|15x^3|2|Divide the coefficients 20 / 5 = 4 and subtract the exponents 9 - 3 = 6.
+Simplify (3x^2 y)^3.|27x^6 y^3|9x^6 y^3|27x^5 y^3|3x^6 y^3|0|Cube every factor: 3^3 = 27, (x^2)^3 = x^6 and y^3.
+Evaluate -3^2.|9|6|-6|-9|3|Only the 3 is squared, giving 9, and then the negative sign is applied, so the result is -9.
+Which expression equals 2^3 x 2^4?|2^7|4^7|2^12|4^12|0|Keep the base 2 and add the exponents to get 2^7. The base never changes in the product rule.
+Simplify (2x^3)^2 (3x)^3.|108x^9|72x^9|36x^9|108x^6|0|(2x^3)^2 = 4x^6 and (3x)^3 = 27x^3. Multiply: 4 x 27 = 108 and x^6 x x^3 = x^9.
+Simplify (x^3)^2 x x^4 / x^5.|x^10|x^5|x^6|x^15|1|(x^3)^2 = x^6, then x^6 x x^4 = x^10, and x^10 / x^5 = x^5.
+What is 7^0?|0|7|1|undefined|2|Any nonzero number to the power 0 equals 1.
+What is 2^(-3)?|-8|-6|1/8|1/6|2|A negative exponent means reciprocal: 2^(-3) = 1/2^3 = 1/8.
+What is 10^(-2)?|-100|-20|1/100|1/20|2|10^(-2) = 1/10^2 = 1/100.
+Evaluate 5^(-2) + 4^0.|26/25|-9|1/25|27/25|0|5^(-2) = 1/25 and 4^0 = 1, so the sum is 1/25 + 1 = 26/25.
+Evaluate (2/5)^(-2).|25/4|4/25|-4/25|5/2|0|Flip the fraction and make the exponent positive: (5/2)^2 = 25/4.
+Write 3x^(-2) with a positive exponent.|1/(3x^2)|-3x^2|3/x^2|3x^2|2|Only x has the negative exponent, so only x moves to the denominator: 3/x^2.
+Evaluate (-3)^0 + (-3^0).|2|1|-2|0|3|(-3)^0 = 1, but -3^0 = -(3^0) = -1, so the sum is 1 + (-1) = 0.
+Simplify (3x^(-2) y^4) / (6 x^3 y^(-1)) using positive exponents.|y^5/(2x^5)|2y^5/x^5|y^3/(2x)|x^5 y^5/2|0|3/6 = 1/2, x^(-2)/x^3 = x^(-5) = 1/x^5 and y^4/y^(-1) = y^5.
+Simplify (2x^(-1))^(-3) using positive exponents.|8x^3|x^3/8|1/(8x^3)|x^3/6|1|Apply the power to both factors: 2^(-3) = 1/8 and (x^(-1))^(-3) = x^3, giving x^3/8.
+Evaluate (1/2)^(-3) - 2^(-3).|0|15/8|-63/8|63/8|3|(1/2)^(-3) = 2^3 = 8 and 2^(-3) = 1/8, so 8 - 1/8 = 63/8.
+Which is 45,000 in scientific notation?|4.5 x 10^3|45 x 10^3|0.45 x 10^5|4.5 x 10^4|3|Move the decimal 4 places left to get 4.5, so the exponent is 4. The other forms do not have a decimal part between 1 and 10 or have the wrong exponent.
+Which is 0.00032 in scientific notation?|3.2 x 10^4|3.2 x 10^(-3)|3.2 x 10^(-4)|32 x 10^(-5)|2|Move the decimal 4 places right to get 3.2, so the exponent is -4.
+What is 6.1 x 10^3 in standard form?|610|6,100|61,000|0.0061|1|A positive exponent 3 moves the decimal 3 places right: 6,100.
+Write 7,200,000 in scientific notation.|7.2 x 10^5|7.2 x 10^7|0.72 x 10^7|7.2 x 10^6|3|Move the decimal 6 places left to get 7.2, so the form is 7.2 x 10^6.
+Multiply (3 x 10^5)(4 x 10^3) and write in scientific notation.|12 x 10^8|1.2 x 10^8|12 x 10^15|1.2 x 10^9|3|3 x 4 = 12 and 10^5 x 10^3 = 10^8. Then 12 x 10^8 = 1.2 x 10^9.
+Divide (6 x 10^2) / (2 x 10^(-3)).|3 x 10^(-1)|3 x 10^(-5)|3 x 10^5|3 x 10^3|2|6/2 = 3 and 10^2 / 10^(-3) = 10^(2+3) = 10^5.
+Which number is the largest?|9 x 10^6|2 x 10^7|5 x 10^6|8 x 10^6|1|Compare the powers of 10 first. 10^7 is larger than 10^6, so 2 x 10^7 is the largest.
+Write 0.0005 in scientific notation.|5 x 10^4|5 x 10^(-4)|5 x 10^(-3)|5 x 10^(-5)|1|Move the decimal 4 places right to get 5, so the exponent is -4.
+Light travels about 3 x 10^5 km per second. How far does it go in 2 x 10^3 seconds?|6 x 10^8 km|6 x 10^15 km|5 x 10^8 km|6 x 10^2 km|0|Multiply 3 x 2 = 6 and add the exponents 5 + 3 = 8.
+Find (5 x 10^6)(4 x 10^(-9)) in scientific notation.|2 x 10^(-3)|2 x 10^(-2)|2 x 10^(-4)|2 x 10^(-1)|1|5 x 4 = 20 and 10^6 x 10^(-9) = 10^(-3). So 20 x 10^(-3) = 2 x 10^(-2).
+Is y = 2(3)^x exponential growth or decay?|Growth|Decay|Neither, it is linear|Constant|0|The factor 3 is greater than 1, so the function shows exponential growth.
+Is y = 5(0.5)^x exponential growth or decay?|Growth|Linear|Constant|Decay|3|The factor 0.5 is between 0 and 1, so it is exponential decay.
+What is the growth factor for a 5% increase each year?|1.05|0.05|0.95|1.5|0|The factor is 1 + r = 1 + 0.05 = 1.05.
+Evaluate y = 3(2)^x when x = 4.|1296|24|48|96|2|Do the exponent first: 2^4 = 16, then 3 x 16 = 48.
+Find y for y = 5(0.5)^x when x = 3.|0.125|1.25|7.5|0.625|3|0.5^3 = 0.125 and 5 x 0.125 = 0.625.
+A $20,000 car loses 15% of its value each year. What is it worth after 3 years?|$11,000|$12,282.50|$67.50|$51,000|1|The factor is 0.85. Then 20000 x 0.85^3 = 20000 x 0.614125 = $12,282.50.
+$1,000 earns 4% interest once a year. What is the balance after 2 years?|$1,080.00|$1,040.00|$1,081.60|$1,160.00|2|A = 1000(1.04)^2 = 1000 x 1.0816 = $1,081.60.
+An exponential function y = a x b^x with b > 0 has f(0) = 4 and f(2) = 36. What is b?|6|3|9|4.5|1|f(0) = a = 4. Then 4b^2 = 36, so b^2 = 9 and b = 3.
+An 80 mg sample loses half of its mass each hour. How much remains after 4 hours?|5 mg|20 mg|10 mg|0 mg|0|80 x (1/2)^4 = 80/16 = 5 mg. Subtracting a fixed amount each hour would be linear, not exponential.
+A culture of 500 bacteria doubles every 3 hours. How many are there after 12 hours?|3,000|8,000|4,000|2,000|1|12 hours is 4 doubling periods, so 500 x 2^4 = 500 x 16 = 8,000.
+What is the common ratio of 3, 6, 12, 24, ...?|3|2|6|1/2|1|Divide a term by the one before it: 6 / 3 = 2.
+What is the common ratio of 81, 27, 9, 3, ...?|3|-3|-54|1/3|3|27 / 81 = 1/3. The terms shrink, so the ratio is a fraction.
+What is the next term of 2, 10, 50, ...?|60|100|250|150|2|The ratio is 5, so the next term is 50 x 5 = 250.
+Find the 7th term of 2, 6, 18, 54, ...|486|4,374|1,458|42|2|a(7) = 2 x 3^6 = 2 x 729 = 1,458.
+A geometric sequence has first term 5 and ratio -2. What is the 4th term?|-40|40|80|-80|0|a(4) = 5 x (-2)^3 = 5 x (-8) = -40.
+Which sequence is geometric?|2, 4, 6, 8|1, 4, 9, 16|10, 7, 4, 1|3, 9, 27, 81|3|Each term is 3 times the previous one. The other lists have constant differences or non-constant ratios.
+Which term of 4, 8, 16, ... equals 256?|6th|7th|8th|64th|1|4 x 2^(n-1) = 256 gives 2^(n-1) = 64 = 2^6, so n - 1 = 6 and n = 7.
+Which is the explicit formula for 5, 15, 45, ...?|a(n) = 5(3)^n|a(n) = 5(3)^(n-1)|a(n) = 3(5)^(n-1)|a(n) = 15(3)^(n-1)|1|The first term is 5 and the ratio is 3, so a(n) = 5 x 3^(n-1).
+A geometric sequence has third term 12 and sixth term 96. What is the first term?|6|3|1.5|4|1|a6 / a3 = r^3 = 8, so r = 2. Then a1 = 12 / 2^2 = 3.
+Find the 8th term of 6, -12, 24, -48, ...|-768|768|1,536|-1,536|0|r = -2, so a(8) = 6 x (-2)^7 = 6 x (-128) = -768.
