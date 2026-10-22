@@ -115,6 +115,32 @@
        "title": "Geometric Sequences"
       }
      ]
+    },
+    {
+     "id": "g9-ch5",
+     "title": "Polynomials and Factoring",
+     "lessons": [
+      {
+       "id": "g9-ch5-l1",
+       "title": "Adding and Subtracting Polynomials"
+      },
+      {
+       "id": "g9-ch5-l2",
+       "title": "Multiplying Polynomials"
+      },
+      {
+       "id": "g9-ch5-l3",
+       "title": "Special Products"
+      },
+      {
+       "id": "g9-ch5-l4",
+       "title": "Factoring Trinomials and Common Factors"
+      },
+      {
+       "id": "g9-ch5-l5",
+       "title": "Factoring Special Cases and by Grouping"
+      }
+     ]
     }
    ],
    "course": "Algebra 1",
