@@ -1,0 +1,44 @@
+{
+ "country": "DE",
+ "year": "2026",
+ "rev": "1792655665",
+ "grades": [
+  {
+   "grade": 9,
+   "country": "DE",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "de-m9-qf",
+     "title": "Quadratische Funktionen und Gleichungen",
+     "lessons": [
+      {
+       "id": "de-m9-qf-01",
+       "title": "Parabeln und Scheitelpunktform"
+      },
+      {
+       "id": "de-m9-qf-02",
+       "title": "Quadratische Ergänzung"
+      },
+      {
+       "id": "de-m9-qf-03",
+       "title": "Quadratische Gleichungen lösen"
+      },
+      {
+       "id": "de-m9-qf-04",
+       "title": "Nullstellen, Schnittpunkte und Anwendungen"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "files": {
+  "summaries/de-m9-qf.json": "9d69f26cc62d",
+  "details/de-m9-qf-01.md": "23cd12dda57f",
+  "details/de-m9-qf-02.md": "7db0306a63f1",
+  "details/de-m9-qf-03.md": "84d518156a3b",
+  "details/de-m9-qf-04.md": "4bd88fa816b0",
+  "banks/de-m9-qf.txt": "bec753dc9702"
+ }
+}

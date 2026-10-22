@@ -15,6 +15,11 @@
    "name": "United States",
    "rev": "fb97fbd82b",
    "year": "2026-2027"
+  },
+  "DE": {
+   "year": "2026",
+   "rev": "1792655665",
+   "bytes": 15299
   }
  }
 }

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie heißt der Graph einer quadratischen Funktion?|Hyperbel|Kreis|Gerade|Parabel|3|Der Graph einer quadratischen Funktion ist immer eine Parabel.
+Welche dieser Funktionen ist eine quadratische Funktion?|f(x) = x² − 3|f(x) = 5|f(x) = 1/x|f(x) = 2x + 1|0|Eine quadratische Funktion enthält x² als höchste Potenz.
+Welchen Scheitelpunkt hat die Normalparabel f(x) = x²?|S(0; 0)|S(1; 1)|S(0; 1)|S(1; 0)|0|Der tiefste Punkt von f(x) = x² liegt im Ursprung.
+Welchen Scheitelpunkt hat die Parabel f(x) = (x − 2)² + 3?|S(3; 2)|S(2; −3)|S(2; 3)|S(−2; 3)|2|Bei f(x) = a(x − d)² + e ist S(d; e). Hier ist d = 2 und e = 3.
+Wie ist die Parabel f(x) = −x² geöffnet?|Nach rechts|Nach links|Nach oben|Nach unten|3|Für a < 0 ist die Parabel nach unten geöffnet. Hier ist a = −1.
+Wie verläuft die Parabel f(x) = 3x² im Vergleich zur Normalparabel?|Sie ist nach unten geöffnet.|Sie ist weiter.|Sie ist enger.|Sie ist um 3 nach oben verschoben.|2|Wegen a = 3 (also a > 1) ist die Parabel gestreckt, also enger.
+Wie verläuft die Parabel f(x) = 0,5x² im Vergleich zur Normalparabel?|Sie ist um 0,5 nach links verschoben.|Sie ist enger.|Sie ist weiter.|Sie ist nach unten geöffnet.|2|Wegen 0 < a < 1 ist die Parabel gestaucht, also weiter.
+Berechne f(3) für f(x) = x² − 4.|5|9|−1|2|0|f(3) = 3² − 4 = 9 − 4 = 5.
+Welche Nullstellen hat f(x) = x² − 9?|x = 3|x = −3 und x = 3|x = −9 und x = 9|x = 0|1|x² − 9 = 0 ergibt x² = 9, also x = ±3.
+Was besagt der Satz vom Nullprodukt?|Ein Produkt ist immer größer als null.|Ein Produkt ist null, wenn alle Faktoren eins sind.|Ein Produkt ist null, wenn mindestens ein Faktor null ist.|Ein Produkt ist null, wenn die Summe der Faktoren null ist.|2|Nur wenn mindestens ein Faktor null ist, ist das ganze Produkt null.
+Löse x(x − 5) = 0.|x = −5|x = 0 oder x = 5|x = 5|x = 0 oder x = −5|1|Ein Faktor muss null sein: x = 0 oder x − 5 = 0, also x = 5.
+Wie lautet die Normalform einer quadratischen Gleichung?|x + q = 0|ax + b = 0|x² + px + q = 0|x³ + px = 0|2|In der Normalform hat x² den Faktor 1 und die Gleichung ist gleich null.
+Wie viele Lösungen hat eine quadratische Gleichung höchstens?|Zwei|Vier|Eine|Drei|0|Eine quadratische Gleichung hat null, eine oder zwei reelle Lösungen.
+Wo schneidet f(x) = x² + 4x + 7 die y-Achse?|Bei y = −7|Bei y = 0|Bei y = 4|Bei y = 7|3|f(0) = c = 7.
+Welche Symmetrieachse hat eine Parabel?|Sie hat keine Symmetrieachse|Eine waagerechte Gerade durch den Scheitelpunkt|Die x-Achse|Eine senkrechte Gerade durch den Scheitelpunkt|3|Jede Parabel ist achsensymmetrisch zur senkrechten Geraden x = d durch ihren Scheitelpunkt.
+Welchen Scheitelpunkt hat f(x) = x² − 5?|S(0; −5)|S(−5; 0)|S(5; 0)|S(0; 5)|0|Die Normalparabel wird um 5 nach unten verschoben.
+Multipliziere aus: (x + 3)²|x² + 6x + 9|x² + 9|x² + 3x + 9|x² − 6x + 9|0|Erste binomische Formel: x² + 2·3·x + 3² = x² + 6x + 9.
+Wie lautet die Scheitelpunktform von f(x) = x² + 6x + 5?|f(x) = (x − 3)² − 4|f(x) = (x + 6)² − 31|f(x) = (x + 3)² + 5|f(x) = (x + 3)² − 4|3|x² + 6x + 5 = x² + 6x + 9 − 9 + 5 = (x + 3)² − 4.
+Welchen Scheitelpunkt hat f(x) = x² − 4x + 1?|S(4; 1)|S(2; 1)|S(2; −3)|S(−2; −3)|2|x² − 4x + 1 = (x − 2)² − 4 + 1 = (x − 2)² − 3.
+Löse x² − 6x + 5 = 0 mit der pq-Formel.|x₁ = 2 und x₂ = 3|x₁ = 1 und x₂ = 5|x₁ = −1 und x₂ = −5|x₁ = 6 und x₂ = 5|1|x = 3 ± √(9 − 5) = 3 ± 2, also 5 und 1.
+Löse x² + 2x − 8 = 0.|x₁ = −2 und x₂ = 4|x₁ = 1 und x₂ = −8|x₁ = 2 und x₂ = −4|x₁ = 8 und x₂ = −1|2|x = −1 ± √(1 + 8) = −1 ± 3, also 2 und −4.
+Was gilt für x² + 4x + 4 = 0?|Genau eine Lösung (D = 0)|Zwei Lösungen (D > 0)|Keine Lösung (D < 0)|Unendlich viele Lösungen|0|D = (4/2)² − 4 = 0, also eine Doppellösung x = −2.
+Was gilt für x² + 2x + 5 = 0?|Keine reelle Lösung|Zwei Lösungen: x = −1 ± 2|Zwei Lösungen: x = 1 und x = 5|Genau eine Lösung: x = −1|0|D = 1 − 5 = −4 < 0, also keine reelle Lösung.
+Welchen Scheitelpunkt hat f(x) = −2(x + 1)² + 5?|S(−1; 5)|S(1; 5)|S(−2; 5)|S(−1; −5)|0|(x + 1) bedeutet d = −1, e = 5.
+Eine Normalparabel hat den Scheitelpunkt S(1; −2). Wie lautet ihre Gleichung?|f(x) = (x − 1)² + 2|f(x) = (x − 1)² − 2|f(x) = (x + 1)² − 2|f(x) = (x + 1)² + 2|1|f(x) = (x − d)² + e mit d = 1 und e = −2.
+Ergänze quadratisch: x² + 8x|(x + 4)² − 8|(x + 4)² − 16|(x + 8)² − 64|(x + 4)² + 16|1|Die Hälfte von 8 ist 4: x² + 8x = (x + 4)² − 16.
+Löse 2x² − 8 = 0.|x = 2|x = 4 oder x = −4|x = 8 oder x = −8|x = 2 oder x = −2|3|2x² = 8, x² = 4, also x = ±2.
+Löse 2x² − 5x + 2 = 0 mit der abc-Formel.|x = 1 oder x = 4|x = 2 oder x = 0,5|x = −2 oder x = −0,5|x = 2,5 oder x = 1|1|D = 25 − 16 = 9, x = (5 ± 3) / 4, also 2 und 0,5.
+Wie liegt der Graph von f(x) = (x + 3)² im Vergleich zur Normalparabel?|Um 3 nach links verschoben|Um 3 nach rechts verschoben|Um 3 nach unten verschoben|Um 3 nach oben verschoben|0|(x + 3) = (x − (−3)), also d = −3: Verschiebung nach links.
+Welche x-Werte haben die Schnittpunkte von y = x² und y = x + 2?|x = −1 und x = 2|x = 1 und x = −2|x = 0 und x = 2|x = 2 und x = 4|0|x² = x + 2 → x² − x − 2 = 0 → (x − 2)(x + 1) = 0.
+Welche Nullstellen hat f(x) = x² − 2x − 3?|x = −3 und x = 1|x = 3 und x = −1|x = 1 und x = 3|x = 2 und x = −3|1|x = 1 ± √(1 + 3) = 1 ± 2.
+Ein Ball fliegt nach h(t) = −5t² + 20t (t in s, h in m). Wann landet er wieder?|Nach 4 s|Nach 20 s|Nach 2 s|Nach 5 s|0|−5t² + 20t = −5t(t − 4) = 0, also t = 0 (Start) oder t = 4.
+Welche Gleichung hat keine reelle Lösung?|x² − 4 = 0|x² = 0|x² − 1 = 0|x² + 1 = 0|3|x² + 1 = 0 würde x² = −1 bedeuten, das ist unmöglich.
+Löse x² = 16.|x = 8|x = 4|x = 4 oder x = −4|x = 8 oder x = −8|2|Beide Zahlen 4 und −4 ergeben beim Quadrieren 16.
+Zerlege in Faktoren: x² − x − 12|(x − 6)(x + 2)|(x + 4)(x − 3)|(x − 4)(x + 3)|(x − 12)(x + 1)|2|Gesucht: Produkt −12 und Summe −1: −4 und 3.
+Welchen größten Funktionswert hat f(x) = −x² + 4?|0|4|−4|2|1|Die Parabel ist nach unten geöffnet, der Scheitelpunkt S(0; 4) ist der höchste Punkt.
+Eine nach oben geöffnete Normalparabel hat die Nullstellen 0 und 2. Wie lautet ihre Gleichung?|f(x) = x² − 2x|f(x) = −x² + 2x|f(x) = x² − 2|f(x) = x² + 2x|0|f(x) = x(x − 2) = x² − 2x.
+Für welches c hat x² + 6x + c = 0 genau eine Lösung?|c = 3|c = 9|c = 36|c = 6|1|D = 9 − c = 0 ergibt c = 9.
+Für welche q hat x² − 4x + q = 0 zwei verschiedene Lösungen?|q = 4|q > 4|q < −4|q < 4|3|D = 4 − q > 0 ergibt q < 4.
+Welchen Scheitelpunkt hat f(x) = 2x² − 12x + 19?|S(−3; 1)|S(6; 19)|S(3; 19)|S(3; 1)|3|2(x² − 6x) + 19 = 2(x − 3)² − 18 + 19 = 2(x − 3)² + 1.
+Eine Lösung von x² − 7x + 12 = 0 ist x = 3. Wie lautet die andere?|x = −4|x = 9|x = 4|x = 3|2|Nach Vieta ist x₁ + x₂ = 7, also x₂ = 7 − 3 = 4.
+Ein Rechteck hat den Umfang 20 m. Welchen größten Flächeninhalt kann es haben?|25 m²|20 m²|100 m²|24 m²|0|A(x) = x(10 − x). Der Scheitelpunkt liegt bei x = 5, also A = 25 m².
+Eine Parabel hat den Scheitelpunkt S(2; 3) und geht durch P(3; 5). Wie lautet ihre Gleichung?|f(x) = 2(x + 2)² + 3|f(x) = 5(x − 2)² + 3|f(x) = 2(x − 2)² + 3|f(x) = (x − 2)² + 3|2|Einsetzen von P: a·1² + 3 = 5, also a = 2.
+Welche x-Werte haben die Schnittpunkte von f(x) = x² − 4 und g(x) = −x² + 4?|x = 0|x = 2 und x = −2|x = 4 und x = −4|x = 0 und x = 4|1|x² − 4 = −x² + 4 → 2x² = 8 → x² = 4.
+Wie viele gemeinsame Punkte haben y = x² + 1 und y = 2x?|Keinen|Genau einen (Berührpunkt)|Unendlich viele|Zwei|1|x² + 1 = 2x → x² − 2x + 1 = 0 → (x − 1)² = 0, D = 0.
+Löse (x − 3)² = 25.|x = 8 oder x = 2|x = 28 oder x = −22|x = 8 oder x = −2|x = 5 oder x = −5|2|x − 3 = 5 oder x − 3 = −5, also x = 8 oder x = −2.
+In welchem Quadranten liegt der Scheitelpunkt von y = −(x − 4)² − 1?|Im II. Quadranten|Im III. Quadranten|Im IV. Quadranten|Im I. Quadranten|2|S(4; −1) hat positives x und negatives y.
+Für einen Ball gilt h(t) = −5t² + 10t + 15. Nach wie vielen Sekunden schlägt er auf dem Boden auf?|Nach 15 s|Nach 3 s|Nach 1 s|Nach −1 s|1|−5(t² − 2t − 3) = −5(t − 3)(t + 1) = 0. Nur t = 3 ist sinnvoll.
+Welche größte Höhe erreicht ein Ball mit h(t) = −5t² + 20t?|40 m|20 m|15 m|10 m|1|Scheitel bei t = 2 s: h(2) = −20 + 40 = 20 m.
+Eine Normalparabel hat die Nullstellen 1 und 3. Wie lautet ihre Gleichung?|f(x) = x² − 3x + 4|f(x) = x² − 2x − 3|f(x) = x² + 4x + 3|f(x) = x² − 4x + 3|3|f(x) = (x − 1)(x − 3) = x² − 4x + 3.

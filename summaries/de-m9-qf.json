@@ -1,0 +1,6 @@
+{
+ "Parabeln und Scheitelpunktform": "Eine quadratische Funktion f(x) = ax² + bx + c (a ≠ 0) hat als Graph eine Parabel. Die Normalparabel f(x) = x² hat den Scheitelpunkt S(0|0). Ist |a| > 1, ist die Parabel enger, bei 0 < |a| < 1 weiter, bei a < 0 nach unten geöffnet. In der Scheitelpunktform f(x) = a(x − d)² + e liest man den Scheitelpunkt S(d|e) direkt ab.",
+ "Quadratische Ergänzung": "Mit der quadratischen Ergänzung wandelt man die Normalform x² + px + q in die Scheitelpunktform um: x² + px = (x + p/2)² − (p/2)². Bei a ≠ 1 klammert man zuerst a aus. Beispiel: x² + 6x + 5 = (x + 3)² − 4, also S(−3|−4).",
+ "Quadratische Gleichungen lösen": "Quadratische Gleichungen löst man durch Wurzelziehen, Ausklammern (Satz vom Nullprodukt), mit der pq-Formel x = −p/2 ± √((p/2)² − q) oder der abc-Formel x = (−b ± √(b² − 4ac)) / (2a). Die Diskriminante entscheidet: D > 0 zwei Lösungen, D = 0 eine Lösung, D < 0 keine reelle Lösung.",
+ "Nullstellen, Schnittpunkte und Anwendungen": "Die Nullstellen einer Parabel sind die Lösungen von f(x) = 0. Schnittpunkte zweier Graphen findet man durch Gleichsetzen f(x) = g(x). Anwendungen sind zum Beispiel Wurfbahnen h(t) und Extremwertaufgaben: Der höchste oder tiefste Wert liegt im Scheitelpunkt."
+}
