@@ -1,45 +1,45 @@
-# Rational numbers
+# اعداد گویا
 
-A rational number is a number that can be written as a fraction a/b with integers a and b, where b is not 0.
+عدد گویا عددی است که بتوان آن را به صورت کسر a/b نوشت، به‌طوری که a و b اعداد صحیح باشند و b مخالف ۰ باشد.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- The set of rational numbers is written Q. It includes all integers (5 = 5/1), all fractions, and all decimals that stop or repeat.
-- To change a fraction into a decimal, divide the top by the bottom. The result is a terminating decimal, such as 3/8 = 0.375, or a repeating decimal, such as 1/3 = 0.333...
-- A terminating decimal is a fraction with a power of 10 in the denominator. For example, 0.75 = 75/100 = 3/4.
-- To change a repeating decimal into a fraction, let x be the number. Multiply by 10, 100, and so on, so the repeating part lines up. Subtract the two equations to remove the repeating part, then solve for x.
-- Between any two different rational numbers there is always another one. The average of the two numbers is one example. This means there are infinitely many rational numbers between them.
-- To compare two fractions, use a common denominator or convert both to decimals.
+- مجموعه‌ی اعداد گویا را با Q نشان می‌دهیم. این مجموعه شامل همه‌ی اعداد صحیح (۵ = ۵/۱)، همه‌ی کسرها و همه‌ی اعداد اعشاری است که مختوم یا متناوب باشند.
+- برای تبدیل کسر به عدد اعشاری، صورت را بر مخرج تقسیم می‌کنیم. نتیجه یا اعشار مختوم است، مانند ۳/۸ = ۰٫۳۷۵، یا اعشار متناوب است، مانند ۱/۳ = ۰٫۳۳۳...
+- عدد اعشاری مختوم کسری است که مخرج آن توانی از ۱۰ باشد. برای نمونه ۰٫۷۵ = ۷۵/۱۰۰ = ۳/۴.
+- برای تبدیل عدد اعشاری متناوب به کسر، آن عدد را x می‌نامیم. آن را در ۱۰ یا ۱۰۰ و مانند آن ضرب می‌کنیم تا قسمت تکراری زیر هم قرار بگیرد. دو معادله را از هم کم می‌کنیم تا قسمت تکراری حذف شود و سپس x را به دست می‌آوریم.
+- بین هر دو عدد گویای متفاوت، همیشه عدد گویای دیگری هست. میانگین آن دو عدد یک نمونه است. یعنی بین آن‌ها بی‌شمار عدد گویا وجود دارد.
+- برای مقایسه‌ی دو کسر، مخرج‌ها را مساوی می‌کنیم یا هر دو را به اعشار تبدیل می‌کنیم.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Write 3/8 as a decimal.
-Step 1: Divide 3 by 8. 8 goes into 30 three times (24), remainder 6.
-Step 2: Bring down a zero: 60. 8 goes into 60 seven times (56), remainder 4.
-Step 3: Bring down a zero: 40. 8 goes into 40 five times, remainder 0.
-So 3/8 = 0.375, a terminating decimal.
+مثال ۱. عدد ۳/۸ را به صورت اعشاری بنویسید.
+گام ۱: ۳ را بر ۸ تقسیم می‌کنیم. ۸ در ۳۰ سه بار جا می‌شود (۲۴) و باقی‌مانده ۶ است.
+گام ۲: یک صفر می‌آوریم: ۶۰. ۸ در ۶۰ هفت بار جا می‌شود (۵۶) و باقی‌مانده ۴ است.
+گام ۳: یک صفر می‌آوریم: ۴۰. ۸ در ۴۰ پنج بار جا می‌شود و باقی‌مانده ۰ است.
+پس ۳/۸ = ۰٫۳۷۵ که اعشار مختوم است.
 
-Example 2. Write 0.4545... (the digits 45 repeat) as a fraction.
-Step 1: Let x = 0.4545...
-Step 2: Two digits repeat, so multiply by 100: 100x = 45.4545...
-Step 3: Subtract: 100x - x = 45.4545... - 0.4545..., so 99x = 45.
-Step 4: Solve: x = 45/99. Divide top and bottom by 9: x = 5/11.
-Check: 5 divided by 11 is 0.4545..., which is correct.
+مثال ۲. عدد ۰٫۴۵۴۵... (رقم‌های ۴۵ تکرار می‌شوند) را به صورت کسر بنویسید.
+گام ۱: فرض کنید x = ۰٫۴۵۴۵...
+گام ۲: دو رقم تکرار می‌شوند، پس در ۱۰۰ ضرب می‌کنیم: ۱۰۰x = ۴۵٫۴۵۴۵...
+گام ۳: کم می‌کنیم: ۱۰۰x - x = ۴۵٫۴۵۴۵... - ۰٫۴۵۴۵...، پس ۹۹x = ۴۵.
+گام ۴: x = ۴۵/۹۹. صورت و مخرج را بر ۹ تقسیم می‌کنیم: x = ۵/۱۱.
+بررسی: ۵ تقسیم بر ۱۱ برابر ۰٫۴۵۴۵... است که درست است.
 
-Example 3. Find a rational number between 1/3 and 1/2.
-Step 1: Add the numbers using a common denominator: 1/3 + 1/2 = 2/6 + 3/6 = 5/6.
-Step 2: Divide the sum by 2 to get the average: (5/6) / 2 = 5/12.
-Step 3: Check with decimals: 1/3 = 0.333..., 5/12 = 0.4166..., 1/2 = 0.5. Since 0.333... < 0.4166... < 0.5, the answer is correct.
+مثال ۳. یک عدد گویا بین ۱/۳ و ۱/۲ بیابید.
+گام ۱: دو عدد را با مخرج مشترک جمع می‌کنیم: ۱/۳ + ۱/۲ = ۲/۶ + ۳/۶ = ۵/۶.
+گام ۲: حاصل را بر ۲ تقسیم می‌کنیم تا میانگین به دست آید: (۵/۶) / ۲ = ۵/۱۲.
+گام ۳: با اعشار بررسی می‌کنیم: ۱/۳ = ۰٫۳۳۳... و ۵/۱۲ = ۰٫۴۱۶۶... و ۱/۲ = ۰٫۵. چون ۰٫۳۳۳... < ۰٫۴۱۶۶... < ۰٫۵، پاسخ درست است.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Thinking that a decimal which goes on forever is always irrational. A repeating decimal, like 0.333..., is rational.
-- Writing 0.333... as 3/10. The correct fraction is 1/3. Use the multiply-and-subtract method.
-- Forgetting that b cannot be 0. The expression 5/0 is not a number.
-- Believing that there is no number between 0.1 and 0.2. There are infinitely many, such as 0.15.
+- فکر کردن به اینکه عدد اعشاری که تا بی‌نهایت ادامه دارد همیشه گنگ است. عدد اعشاری متناوب مانند ۰٫۳۳۳... گویاست.
+- نوشتن ۰٫۳۳۳... به صورت ۳/۱۰. کسر درست ۱/۳ است. از روش ضرب و تفریق استفاده کنید.
+- فراموش‌کردن اینکه b نمی‌تواند ۰ باشد. عبارت ۵/۰ عدد نیست.
+- باور به اینکه بین ۰٫۱ و ۰٫۲ عددی وجود ندارد. بی‌شمار عدد وجود دارد، مانند ۰٫۱۵.
 
-## Remember
+## به یاد داشته باشید
 
-- A number is rational if it can be written as a fraction of integers with a non-zero denominator.
-- Terminating and repeating decimals are rational.
-- Between two rational numbers there are infinitely many other rational numbers.
+- عددی گویاست که بتوان آن را به صورت کسری از اعداد صحیح با مخرج مخالف صفر نوشت.
+- اعداد اعشاری مختوم و متناوب گویا هستند.
+- بین دو عدد گویا بی‌شمار عدد گویای دیگر وجود دارد.

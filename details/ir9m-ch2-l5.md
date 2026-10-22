@@ -1,46 +1,46 @@
-# Approximation
+# تقریب
 
-Approximation means using a number that is close to an exact value, and measuring how close it is.
+تقریب یعنی استفاده از عددی که به مقدار دقیق نزدیک است و اندازه‌گیری اینکه چقدر نزدیک است.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- Many real numbers, such as π and √2, have infinite decimals. In practice we use approximations with a limited number of decimal places.
-- Rounding rule: look at the digit after the place you keep. If it is 5 or more, increase the kept digit by 1. If it is 4 or less, leave it the same.
-- Error = |exact value - approximate value|. It is always 0 or positive.
-- Relative error = error / |exact value|. It can be written as a percent. It shows how big the error is compared with the size of the number.
-- A result can be an approximation from below (smaller than the exact value) or from above (larger).
-- To approximate √n, find two decimals whose squares are just below and just above n. Narrow the interval one decimal place at a time.
-- In a calculation, do the rounding at the end. Rounding early can make the final answer less accurate.
-- A better approximation has a smaller error.
+- بسیاری از اعداد حقیقی مانند π و √۲ نمایش اعشاری نامتناهی دارند. در عمل از تقریب با تعداد محدودی رقم اعشار استفاده می‌کنیم.
+- قاعده‌ی گرد کردن: به رقم بعد از مکانی که نگه می‌داریم نگاه می‌کنیم. اگر ۵ یا بیشتر بود، رقم نگه‌داشته‌شده را یک واحد زیاد می‌کنیم. اگر ۴ یا کمتر بود، آن را بدون تغییر می‌گذاریم.
+- خطا = |مقدار دقیق - مقدار تقریبی|. همیشه ۰ یا مثبت است.
+- خطای نسبی = خطا / |مقدار دقیق|. آن را می‌توان به صورت درصد نوشت. نشان می‌دهد خطا در مقایسه با اندازه‌ی عدد چقدر بزرگ است.
+- نتیجه می‌تواند تقریب از پایین (کوچک‌تر از مقدار دقیق) یا تقریب از بالا (بزرگ‌تر) باشد.
+- برای تقریب √n، دو عدد اعشاری پیدا می‌کنیم که مربعشان کمی کمتر و کمی بیشتر از n باشد. بازه را یک رقم اعشار یک رقم اعشار تنگ‌تر می‌کنیم.
+- در یک محاسبه، گرد کردن را در پایان انجام دهید. گرد کردن زودهنگام می‌تواند دقت پاسخ نهایی را کم کند.
+- تقریب بهتر خطای کمتری دارد.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Round 3.14159 to two decimal places and to three decimal places.
-Step 1: For two places, the digits kept are 3.14. The next digit is 1, which is less than 5, so the answer is 3.14.
-Step 2: For three places, the digits kept are 3.141. The next digit is 5, so round up. The answer is 3.142.
+مثال ۱. عدد ۳٫۱۴۱۵۹ را تا دو رقم اعشار و تا سه رقم اعشار گرد کنید.
+گام ۱: برای دو رقم اعشار، رقم‌های نگه‌داشته‌شده ۳٫۱۴ است. رقم بعدی ۱ است که کمتر از ۵ است، پس پاسخ ۳٫۱۴ است.
+گام ۲: برای سه رقم اعشار، رقم‌های نگه‌داشته‌شده ۳٫۱۴۱ است. رقم بعدی ۵ است، پس گرد می‌کنیم به بالا. پاسخ ۳٫۱۴۲ است.
 
-Example 2. Approximate √7 to two decimal places.
-Step 1: 2^2 = 4 and 3^2 = 9, so √7 is between 2 and 3.
-Step 2: 2.6^2 = 6.76 and 2.7^2 = 7.29, so √7 is between 2.6 and 2.7.
-Step 3: 2.64^2 = 6.9696 and 2.65^2 = 7.0225, so √7 is between 2.64 and 2.65.
-Step 4: Compare the distances to 7: 7 - 6.9696 = 0.0304 and 7.0225 - 7 = 0.0225. The second is smaller, so 7 is closer to 2.65^2.
-So √7 ≈ 2.65. The calculator value is 2.6458..., which agrees.
+مثال ۲. √۷ را تا دو رقم اعشار تقریب بزنید.
+گام ۱: ۲^۲ = ۴ و ۳^۲ = ۹ پس √۷ بین ۲ و ۳ است.
+گام ۲: ۲٫۶^۲ = ۶٫۷۶ و ۲٫۷^۲ = ۷٫۲۹ پس √۷ بین ۲٫۶ و ۲٫۷ است.
+گام ۳: ۲٫۶۴^۲ = ۶٫۹۶۹۶ و ۲٫۶۵^۲ = ۷٫۰۲۲۵ پس √۷ بین ۲٫۶۴ و ۲٫۶۵ است.
+گام ۴: فاصله‌ها تا ۷ را مقایسه می‌کنیم: ۷ - ۶٫۹۶۹۶ = ۰٫۰۳۰۴ و ۷٫۰۲۲۵ - ۷ = ۰٫۰۲۲۵. دومی کوچک‌تر است، پس ۷ به ۲٫۶۵^۲ نزدیک‌تر است.
+پس √۷ ≈ ۲٫۶۵. مقدار ماشین‌حساب ۲٫۶۴۵۸... است که با آن هم‌خوانی دارد.
 
-Example 3. The fraction 22/7 is used as an approximation of π ≈ 3.14159. Find the error and the relative error.
-Step 1: 22/7 = 3.142857... (to six decimal places).
-Step 2: Error = |3.14159 - 3.142857| ≈ 0.00127.
-Step 3: Relative error = 0.00127 / 3.14159 ≈ 0.0004, which is about 0.04%.
-So 22/7 is a good approximation, but it is not exact.
+مثال ۳. کسر ۲۲/۷ تقریبی برای π ≈ ۳٫۱۴۱۵۹ است. خطا و خطای نسبی را بیابید.
+گام ۱: ۲۲/۷ = ۳٫۱۴۲۸۵۷... (تا شش رقم اعشار).
+گام ۲: خطا = |۳٫۱۴۱۵۹ - ۳٫۱۴۲۸۵۷| ≈ ۰٫۰۰۱۲۷.
+گام ۳: خطای نسبی = ۰٫۰۰۱۲۷ / ۳٫۱۴۱۵۹ ≈ ۰٫۰۰۰۴ که حدود ۰٫۰۴% است.
+پس ۲۲/۷ تقریب خوبی است ولی دقیق نیست.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Rounding 2.649 to one decimal place by looking at the last digit only. Look only at the digit right after the place you keep: 2.649 becomes 2.6.
-- Rounding in the middle of a long calculation, which increases the final error.
-- Writing π = 3.14. The correct statement is π ≈ 3.14.
-- Giving a negative error. Error is an absolute value, so it is never negative.
+- گرد کردن ۲٫۶۴۹ تا یک رقم اعشار با نگاه به آخرین رقم. فقط رقم بلافاصله بعد از مکانی که نگه می‌دارید را ببینید: ۲٫۶۴۹ می‌شود ۲٫۶.
+- گرد کردن در میانه‌ی یک محاسبه‌ی طولانی که خطای نهایی را بیشتر می‌کند.
+- نوشتن π = ۳٫۱۴. بیان درست π ≈ ۳٫۱۴ است.
+- گزارش خطای منفی. خطا یک قدرمطلق است و هرگز منفی نیست.
 
-## Remember
+## به یاد داشته باشید
 
-- Round up when the next digit is 5 or more; otherwise keep the digit.
-- Error = |exact - approximate|.
-- Use squares to trap a square root between two decimals.
+- وقتی رقم بعدی ۵ یا بیشتر است به بالا گرد کنید؛ در غیر این صورت رقم را نگه دارید.
+- خطا = |دقیق - تقریبی|.
+- با استفاده از مربع‌ها، جذر را بین دو عدد اعشاری محصور کنید.

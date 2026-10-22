@@ -1,47 +1,47 @@
-# Irrational numbers and real numbers
+# اعداد گنگ و اعداد حقیقی
 
-Irrational numbers are numbers that cannot be written as a fraction of two integers, and together with the rational numbers they make up the real numbers.
+اعداد گنگ اعدادی هستند که نمی‌توان آن‌ها را به صورت کسری از دو عدد صحیح نوشت و همراه با اعداد گویا، اعداد حقیقی را می‌سازند.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- An irrational number has a decimal form that never stops and never repeats. Examples are π = 3.14159..., √2 = 1.41421... and √3 = 1.73205...
-- If n is a positive integer that is not a perfect square, then √n is irrational. For example, √20 is irrational, but √49 = 7 is rational.
-- Rational numbers and irrational numbers together form the real numbers, written R. A number cannot be both rational and irrational.
-- Each real number matches exactly one point on the number line, and each point on the line matches one real number. There are no gaps.
-- To place √2 on the number line, draw a square with side 1. By the Pythagorean theorem, its diagonal has length √(1^2 + 1^2) = √2. Use a compass to copy this length from 0 to the line.
-- To estimate a square root, find the two perfect squares around the number. Then √n lies between the square roots of those squares.
-- The sets are nested: natural numbers are inside integers, integers inside rational numbers, and rational numbers inside real numbers.
+- عدد گنگ نمایش اعشاری دارد که نه پایان می‌یابد و نه تکرار می‌شود. نمونه‌ها: π = ۳٫۱۴۱۵۹... ، √۲ = ۱٫۴۱۴۲۱... و √۳ = ۱٫۷۳۲۰۵...
+- اگر n عددی صحیح و مثبت باشد که مربع کامل نیست، آن‌گاه √n عددی گنگ است. برای نمونه √۲۰ گنگ است ولی √۴۹ = ۷ گویاست.
+- اعداد گویا و گنگ با هم اعداد حقیقی را می‌سازند که با R نشان داده می‌شود. عددی نمی‌تواند هم گویا و هم گنگ باشد.
+- هر عدد حقیقی دقیقاً با یک نقطه از محور اعداد متناظر است و هر نقطه از محور با یک عدد حقیقی متناظر است. هیچ فاصله‌ی خالی وجود ندارد.
+- برای نشان‌دادن √۲ روی محور اعداد، مربعی به ضلع ۱ رسم می‌کنیم. طبق قضیه‌ی فیثاغورس، قطر آن √(۱^۲ + ۱^۲) = √۲ است. با پرگار این طول را از ۰ روی محور جدا می‌کنیم.
+- برای تخمین جذر یک عدد، دو مربع کامل اطراف آن را پیدا می‌کنیم. آن‌گاه √n بین جذر آن دو مربع قرار می‌گیرد.
+- مجموعه‌ها در هم قرار دارند: اعداد طبیعی درون اعداد صحیح، اعداد صحیح درون اعداد گویا و اعداد گویا درون اعداد حقیقی.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Decide whether √49 and √20 are rational or irrational.
-Step 1: 49 = 7^2 is a perfect square, so √49 = 7. This is an integer, so it is rational.
-Step 2: 20 is between 16 = 4^2 and 25 = 5^2, so it is not a perfect square.
-Step 3: Therefore √20 is irrational.
+مثال ۱. مشخص کنید √۴۹ و √۲۰ گویا هستند یا گنگ.
+گام ۱: ۴۹ = ۷^۲ مربع کامل است، پس √۴۹ = ۷. این عدد صحیح است، پس گویاست.
+گام ۲: ۲۰ بین ۱۶ = ۴^۲ و ۲۵ = ۵^۲ است، پس مربع کامل نیست.
+گام ۳: بنابراین √۲۰ گنگ است.
 
-Example 2. Between which two consecutive integers is √50? Which one is it closer to?
-Step 1: 7^2 = 49 and 8^2 = 64.
-Step 2: Since 49 < 50 < 64, we get 7 < √50 < 8.
-Step 3: 50 is only 1 more than 49, but 14 less than 64. So √50 is closer to 7.
-Check: √50 is about 7.07.
+مثال ۲. √۵۰ بین کدام دو عدد صحیح متوالی است؟ به کدام نزدیک‌تر است؟
+گام ۱: ۷^۲ = ۴۹ و ۸^۲ = ۶۴.
+گام ۲: چون ۴۹ < ۵۰ < ۶۴ پس ۷ < √۵۰ < ۸.
+گام ۳: ۵۰ فقط ۱ واحد از ۴۹ بیشتر است ولی ۱۴ واحد از ۶۴ کمتر. پس √۵۰ به ۷ نزدیک‌تر است.
+بررسی: √۵۰ تقریباً ۷٫۰۷ است.
 
-Example 3. Classify each number: 0.25, -3, π, 0.101001000100001... (more zeros each time), √16.
-Step 1: 0.25 = 1/4, so it is rational.
-Step 2: -3 = -3/1, so it is rational.
-Step 3: π never stops and never repeats, so it is irrational.
-Step 4: The pattern 0.101001000100001... never repeats, so it is irrational.
-Step 5: √16 = 4, so it is rational.
-All five numbers are real numbers.
+مثال ۳. هر عدد را دسته‌بندی کنید: ۰٫۲۵، -۳، π، ۰٫۱۰۱۰۰۱۰۰۰۱۰۰۰۰۱... (هر بار یک صفر بیشتر) و √۱۶.
+گام ۱: ۰٫۲۵ = ۱/۴ پس گویاست.
+گام ۲: -۳ = -۳/۱ پس گویاست.
+گام ۳: π نه پایان می‌یابد و نه تکرار می‌شود، پس گنگ است.
+گام ۴: الگوی ۰٫۱۰۱۰۰۱۰۰۰۱۰۰۰۰۱... هیچ‌گاه تکرار نمی‌شود، پس گنگ است.
+گام ۵: √۱۶ = ۴ پس گویاست.
+هر پنج عدد، عدد حقیقی‌اند.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Saying that √16 is irrational. The number 16 is a perfect square, so √16 = 4.
-- Using 22/7 or 3.14 as if it were exactly π. These are only rational approximations of π.
-- Thinking that the sum of two irrational numbers is always irrational. For example, √2 + (-√2) = 0, which is rational.
-- Thinking the number line has holes where the irrational numbers are. The real numbers fill the whole line.
+- گفتن اینکه √۱۶ گنگ است. ۱۶ مربع کامل است، پس √۱۶ = ۴.
+- استفاده از ۲۲/۷ یا ۳٫۱۴ به‌جای مقدار دقیق π. این‌ها فقط تقریب گویای π هستند.
+- فکر کردن به اینکه مجموع دو عدد گنگ همیشه گنگ است. برای نمونه √۲ + (-√۲) = ۰ که گویاست.
+- فکر کردن به اینکه محور اعداد در جای اعداد گنگ سوراخ دارد. اعداد حقیقی تمام محور را پر می‌کنند.
 
-## Remember
+## به یاد داشته باشید
 
-- Irrational numbers have decimals that neither stop nor repeat.
-- Rational numbers plus irrational numbers equal the real numbers.
-- The square root of a non-square positive integer is irrational.
+- اعداد گنگ نمایش اعشاری دارند که نه پایان می‌یابد و نه تکرار می‌شود.
+- اعداد گویا و اعداد گنگ با هم اعداد حقیقی را تشکیل می‌دهند.
+- جذر هر عدد صحیح مثبت که مربع کامل نباشد، گنگ است.

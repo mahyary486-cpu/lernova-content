@@ -1,47 +1,47 @@
-# Absolute value
+# قدرمطلق
 
-The absolute value of a real number is its distance from 0 on the number line, and it is written |x|.
+قدرمطلق یک عدد حقیقی، فاصله‌ی آن عدد تا ۰ روی محور اعداد است و آن را با |x| نشان می‌دهیم.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- Definition: if x ≥ 0, then |x| = x. If x < 0, then |x| = -x. So |x| is never negative.
-- Examples: |7| = 7, |-7| = 7 and |0| = 0.
-- |a| = |-a|. Opposite numbers have the same distance from 0.
-- |a · b| = |a| · |b|. For example, |(-2)(5)| = |-10| = 10, and |-2| · |5| = 2 · 5 = 10.
-- |a - b| is the distance between the numbers a and b on the number line.
-- If k > 0, the equation |x| = k has two solutions, x = k and x = -k. If k = 0, the only solution is x = 0. If k < 0, there is no solution.
-- If a number inside the bars is irrational, decide its sign by using a decimal estimate. For example, π is about 3.14, so 3 - π is negative and |3 - π| = π - 3.
+- تعریف: اگر x ≥ ۰ آن‌گاه |x| = x. اگر x < ۰ آن‌گاه |x| = -x. پس |x| هیچ‌گاه منفی نیست.
+- نمونه‌ها: |۷| = ۷، |-۷| = ۷ و |۰| = ۰.
+- |a| = |-a|. دو عدد قرینه فاصله‌ی یکسان تا ۰ دارند.
+- |a · b| = |a| · |b|. برای نمونه |(-۲)(۵)| = |-۱۰| = ۱۰ و |-۲| · |۵| = ۲ · ۵ = ۱۰.
+- |a - b| فاصله‌ی دو عدد a و b روی محور اعداد است.
+- اگر k > ۰ معادله‌ی |x| = k دو جواب دارد: x = k و x = -k. اگر k = ۰ فقط یک جواب x = ۰ دارد. اگر k < ۰ جواب ندارد.
+- اگر عدد داخل قدرمطلق گنگ باشد، علامت آن را با تقریب اعشاری مشخص می‌کنیم. برای نمونه π تقریباً ۳٫۱۴ است، پس ۳ - π منفی است و |۳ - π| = π - ۳.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Evaluate |-8| - |5 - 9|.
-Step 1: |-8| = 8.
-Step 2: Inside the second bars, 5 - 9 = -4, so |5 - 9| = |-4| = 4.
-Step 3: 8 - 4 = 4.
-The answer is 4.
+مثال ۱. حاصل |-۸| - |۵ - ۹| را بیابید.
+گام ۱: |-۸| = ۸.
+گام ۲: داخل قدرمطلق دوم، ۵ - ۹ = -۴ پس |۵ - ۹| = |-۴| = ۴.
+گام ۳: ۸ - ۴ = ۴.
+پاسخ ۴ است.
 
-Example 2. Solve |x - 2| = 5.
-Step 1: The expression inside the bars must be 5 or -5.
-Step 2: Case 1: x - 2 = 5, so x = 7.
-Step 3: Case 2: x - 2 = -5, so x = -3.
-Check: |7 - 2| = 5 and |-3 - 2| = |-5| = 5. Both answers are correct.
-Meaning: the numbers 7 and -3 are both at distance 5 from 2.
+مثال ۲. معادله‌ی |x - ۲| = ۵ را حل کنید.
+گام ۱: عبارت داخل قدرمطلق باید ۵ یا -۵ باشد.
+گام ۲: حالت اول: x - ۲ = ۵ پس x = ۷.
+گام ۳: حالت دوم: x - ۲ = -۵ پس x = -۳.
+بررسی: |۷ - ۲| = ۵ و |-۳ - ۲| = |-۵| = ۵. هر دو پاسخ درست است.
+مفهوم: اعداد ۷ و -۳ هر دو به فاصله‌ی ۵ از عدد ۲ هستند.
 
-Example 3. Write |√5 - 3| without absolute value bars.
-Step 1: Estimate √5. Since 2^2 = 4 and 3^2 = 9, √5 is between 2 and 3. More exactly, √5 is about 2.24.
-Step 2: So √5 - 3 is about -0.76, which is negative.
-Step 3: For a negative number, the absolute value is its opposite. So |√5 - 3| = -(√5 - 3) = 3 - √5.
-Check: 3 - 2.24 = 0.76, which is positive, as an absolute value must be.
+مثال ۳. عبارت |√۵ - ۳| را بدون علامت قدرمطلق بنویسید.
+گام ۱: √۵ را تخمین می‌زنیم. چون ۲^۲ = ۴ و ۳^۲ = ۹ پس √۵ بین ۲ و ۳ است. دقیق‌تر، √۵ تقریباً ۲٫۲۴ است.
+گام ۲: پس √۵ - ۳ تقریباً -۰٫۷۶ و منفی است.
+گام ۳: قدرمطلق عدد منفی برابر قرینه‌ی آن است. پس |√۵ - ۳| = -(√۵ - ۳) = ۳ - √۵.
+بررسی: ۳ - ۲٫۲۴ = ۰٫۷۶ که مثبت است، همان‌طور که قدرمطلق باید باشد.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Thinking that |-x| = -x. This is wrong when x is positive. For example, |-4| = 4, not -4.
-- Solving |x - 2| = 5 with only one case. There are always two cases when the right side is positive.
-- Writing |x + 3| = x + 3 for every x. This is only true when x + 3 ≥ 0.
-- Writing |a + b| = |a| + |b| for all numbers. For a = 3 and b = -3 we get 0 on the left and 6 on the right.
+- فکر کردن به اینکه |-x| = -x. وقتی x مثبت است این نادرست است. برای نمونه |-۴| = ۴ نه -۴.
+- حل |x - ۲| = ۵ فقط با یک حالت. وقتی سمت راست مثبت است همیشه دو حالت داریم.
+- نوشتن |x + ۳| = x + ۳ برای هر x. این فقط وقتی درست است که x + ۳ ≥ ۰.
+- نوشتن |a + b| = |a| + |b| برای همه‌ی اعداد. برای a = ۳ و b = -۳ سمت چپ ۰ و سمت راست ۶ می‌شود.
 
-## Remember
+## به یاد داشته باشید
 
-- Absolute value means distance from 0, so it is never negative.
-- |x| = k (k > 0) has two solutions: k and -k.
-- To remove bars, first find the sign of the expression inside.
+- قدرمطلق یعنی فاصله تا ۰، پس هیچ‌گاه منفی نیست.
+- معادله‌ی |x| = k (با k > ۰) دو جواب دارد: k و -k.
+- برای برداشتن قدرمطلق، اول علامت عبارت داخل آن را مشخص کنید.
