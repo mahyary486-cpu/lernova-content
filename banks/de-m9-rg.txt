@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie lautet die Volumenformel für ein Prisma?|V = 1/3 · G · h|V = G · h|V = 2 · G · h|V = G + h|1|Volumen = Grundfläche mal Höhe.
+Ein Quader ist 4 cm lang, 3 cm breit und 2 cm hoch. Wie groß ist sein Volumen?|9 cm³|52 cm³|24 cm³|12 cm³|2|V = 4 · 3 · 2 = 24 cm³.
+Ein Würfel hat die Kantenlänge 3 cm. Wie groß ist seine Oberfläche?|27 cm²|54 cm²|18 cm²|36 cm²|1|O = 6 · a² = 6 · 9 = 54 cm².
+Ein Würfel hat die Kantenlänge 5 cm. Wie groß ist sein Volumen?|25 cm³|15 cm³|75 cm³|125 cm³|3|V = a³ = 5³ = 125 cm³.
+Wie lautet die Volumenformel für einen Zylinder?|V = π · r · h|V = π · r² · h|V = 1/3 · π · r² · h|V = 2 · π · r · h|1|Grundfläche π·r² mal Höhe h.
+Ein Zylinder hat den Radius 2 cm und die Höhe 5 cm. Wie groß ist sein Volumen?|10π cm³ ≈ 31,4 cm³|20π cm³ ≈ 62,8 cm³|20 cm³|40π cm³ ≈ 125,7 cm³|1|V = π · 2² · 5 = 20π ≈ 62,8 cm³.
+Wie lautet die Formel für die Mantelfläche eines Zylinders?|M = 2 · π · r · h|M = 2 · π · r²|M = π · r · h|M = π · r² · h|0|Der Mantel ist ein Rechteck mit den Seiten 2πr (Umfang) und h.
+Wie lautet die Volumenformel für eine Pyramide?|V = 1/2 · G · h|V = 1/3 · G · h|V = 3 · G · h|V = G · h|1|Eine Pyramide hat ein Drittel des Volumens eines Prismas mit gleicher Grundfläche und Höhe.
+Wie lautet die Volumenformel für einen Kegel?|V = 2/3 · π · r² · h|V = π · r² · h|V = 1/3 · π · r² · h|V = 1/3 · π · r · h|2|Ein Kegel hat ein Drittel des Volumens eines Zylinders mit gleichem r und h.
+Wie lautet die Volumenformel für eine Kugel?|V = π · r³|V = 4/3 · π · r³|V = 4/3 · π · r²|V = 4 · π · r²|1|Das Kugelvolumen wächst mit der dritten Potenz des Radius.
+Wie lautet die Formel für die Oberfläche einer Kugel?|O = 4/3 · π · r³|O = 4 · π · r²|O = 2 · π · r²|O = π · r²|1|Die Kugeloberfläche ist viermal so groß wie die Fläche eines Großkreises.
+In welcher Einheit wird ein Volumen angegeben?|cm²|m²|cm³|cm|2|Volumen werden in Kubikeinheiten gemessen.
+Wie viele Flächen hat ein Quader?|12|8|4|6|3|Ein Quader hat 6 Rechteckflächen.
+Wie viele Ecken hat ein Quader?|12|4|8|6|2|Ein Quader hat 8 Ecken, 12 Kanten und 6 Flächen.
+Die Grundfläche eines Prismas beträgt 6 cm², die Höhe 5 cm. Wie groß ist das Volumen?|30 cm³|11 cm³|15 cm³|10 cm³|0|V = G · h = 6 · 5 = 30 cm³.
+Eine Kugel hat den Radius 3 cm. Wie groß ist ihr Volumen?|12π cm³ ≈ 37,7 cm³|9π cm³ ≈ 28,3 cm³|108π cm³ ≈ 339,3 cm³|36π cm³ ≈ 113,1 cm³|3|V = 4/3 · π · 27 = 36π ≈ 113,1 cm³.
+Wie viele Kanten hat ein Würfel?|8|12|24|6|1|Ein Würfel hat 12 Kanten.
+Ein Würfel hat die Oberfläche 150 cm². Wie lang ist seine Kante?|15 cm|5 cm|25 cm|6 cm|1|6a² = 150, also a² = 25 und a = 5 cm.
+Ein Zylinder hat den Radius 3 cm und die Höhe 10 cm. Wie groß ist seine Mantelfläche?|90π cm² ≈ 282,7 cm²|60π cm² ≈ 188,5 cm²|6π cm² ≈ 18,8 cm²|30π cm² ≈ 94,2 cm²|1|M = 2 · π · 3 · 10 = 60π ≈ 188,5 cm².
+Wie lautet die Formel für die Oberfläche eines Zylinders?|O = πr² + 2πrh|O = 2πrh|O = 2πr² + πrh|O = 2πr² + 2πrh|3|Zwei Kreisflächen (Grund- und Deckfläche) plus Mantel.
+Ein Zylinder hat den Radius 5 cm und die Höhe 4 cm. Wie groß ist sein Volumen?|25π cm³ ≈ 78,5 cm³|40π cm³ ≈ 125,7 cm³|20π cm³ ≈ 62,8 cm³|100π cm³ ≈ 314,2 cm³|3|V = π · 25 · 4 = 100π ≈ 314,2 cm³.
+Eine quadratische Pyramide hat die Grundkante 6 cm und die Höhe 4 cm. Wie groß ist ihr Volumen?|48 cm³|72 cm³|144 cm³|24 cm³|0|V = 1/3 · 36 · 4 = 48 cm³.
+Ein Kegel hat den Radius 3 cm und die Höhe 4 cm. Wie lang ist die Mantellinie s?|7 cm|3,5 cm|25 cm|5 cm|3|s = √(3² + 4²) = √25 = 5 cm.
+Wie lautet die Formel für die Mantelfläche eines Kegels?|M = π · r²|M = 2 · π · r · s|M = π · r · h|M = π · r · s|3|Der Kegelmantel ist ein Kreissektor mit der Fläche π · r · s.
+Ein Kegel hat den Radius 3 cm und die Mantellinie 5 cm. Wie groß ist seine Mantelfläche?|9π cm² ≈ 28,3 cm²|30π cm² ≈ 94,2 cm²|15π cm² ≈ 47,1 cm²|12π cm² ≈ 37,7 cm²|2|M = π · 3 · 5 = 15π ≈ 47,1 cm².
+Ein Kegel hat den Radius 3 cm und die Höhe 4 cm. Wie groß ist sein Volumen?|12π cm³ ≈ 37,7 cm³|4π cm³ ≈ 12,6 cm³|24π cm³ ≈ 75,4 cm³|36π cm³ ≈ 113,1 cm³|0|V = 1/3 · π · 9 · 4 = 12π ≈ 37,7 cm³.
+Der Radius einer Kugel wird verdoppelt. Was passiert mit der Oberfläche?|Sie wird 8-mal so groß.|Sie wird 4-mal so groß.|Sie wird 2-mal so groß.|Sie wird 6-mal so groß.|1|O ist proportional zu r², und 2² = 4.
+Der Radius einer Kugel wird verdoppelt. Was passiert mit dem Volumen?|Es wird 2-mal so groß.|Es wird 8-mal so groß.|Es wird 4-mal so groß.|Es wird 6-mal so groß.|1|V ist proportional zu r³, und 2³ = 8.
+Eine Kugel hat den Radius 5 cm. Wie groß ist ihre Oberfläche?|20π cm² ≈ 62,8 cm²|500/3 · π cm² ≈ 523,6 cm²|100π cm² ≈ 314,2 cm²|25π cm² ≈ 78,5 cm²|2|O = 4 · π · 25 = 100π ≈ 314,2 cm².
+Eine Kugel hat den Durchmesser 10 cm. Wie groß ist ihr Volumen?|≈ 523,6 cm³|≈ 314,2 cm³|≈ 4 188,8 cm³|≈ 261,8 cm³|0|r = 5 cm: V = 4/3 · π · 125 = 500π/3 ≈ 523,6 cm³.
+Wie verhält sich das Volumen einer Pyramide zum Volumen eines Prismas mit gleicher Grundfläche und gleicher Höhe?|Es ist ein Drittel davon.|Es ist die Hälfte davon.|Es ist ein Viertel davon.|Es ist gleich groß.|0|V(Pyramide) = 1/3 · G · h, V(Prisma) = G · h.
+Ein Quader hat das Volumen 120 cm³, die Länge 5 cm und die Breite 4 cm. Wie hoch ist er?|6 cm|24 cm|11 cm|4 cm|0|h = 120 : (5 · 4) = 6 cm.
+Ein Quader hat die Kanten 3 cm, 4 cm und 12 cm. Wie lang ist die Raumdiagonale?|19 cm|15 cm|13 cm|169 cm|2|d = √(9 + 16 + 144) = √169 = 13 cm.
+Ein Prisma hat als Grundfläche ein rechtwinkliges Dreieck mit den Katheten 3 cm und 4 cm. Die Höhe des Prismas beträgt 10 cm. Wie groß ist das Volumen?|120 cm³|60 cm³|12 cm³|30 cm³|1|G = 1/2 · 3 · 4 = 6 cm², V = 6 · 10 = 60 cm³.
+Ein Würfel hat die Kantenlänge 10 cm. Wie viele Liter passen hinein?|1 Liter|100 Liter|0,1 Liter|10 Liter|0|1000 cm³ = 1 dm³ = 1 Liter.
+Wie viele Liter sind 1 m³?|100 Liter|10 Liter|10 000 Liter|1000 Liter|3|1 m³ = 1000 dm³ = 1000 Liter.
+Ein Zylinder hat den Radius 4 cm und das Volumen 80π cm³. Wie hoch ist er?|5 cm|20 cm|2,5 cm|10 cm|0|80π = π · 16 · h, also h = 5 cm.
+Ein Kegel hat den Radius 6 cm und die Höhe 8 cm. Wie groß ist seine gesamte Oberfläche?|60π cm² ≈ 188,5 cm²|156π cm² ≈ 490,1 cm²|132π cm² ≈ 414,7 cm²|96π cm² ≈ 301,6 cm²|3|s = 10 cm, M = π · 6 · 10 = 60π, Grundfläche 36π: O = 96π ≈ 301,6 cm².
+Eine Kugel passt genau in einen Würfel (Durchmesser = Kantenlänge). Welcher Anteil des Würfelvolumens wird von der Kugel ausgefüllt?|≈ 52,4 % (π/6)|≈ 78,5 % (π/4)|≈ 25 %|≈ 33,3 %|0|V(Kugel) : V(Würfel) = (4/3 · π · r³) : (8r³) = π/6 ≈ 0,524.
+Ein Kegel, eine Kugel und ein Zylinder haben alle den Radius r. Kegel und Zylinder haben die Höhe 2r. Wie verhalten sich die Volumina Kegel : Kugel : Zylinder?|1 : 1 : 1|1 : 2 : 3|2 : 3 : 4|1 : 3 : 2|1|Kegel 2/3·πr³, Kugel 4/3·πr³, Zylinder 2·πr³, das ergibt 1 : 2 : 3.
+Eine quadratische Pyramide hat die Grundkante 6 cm und die Höhe 4 cm. Wie lang ist die Höhe einer dreieckigen Seitenfläche?|7 cm|5 cm|4,5 cm|6 cm|1|h_s = √(4² + 3²) = √25 = 5 cm.
+Eine quadratische Pyramide hat die Grundkante 6 cm und die Höhe 4 cm. Wie groß ist ihre gesamte Oberfläche?|48 cm²|60 cm²|96 cm²|156 cm²|2|Grundfläche 36 cm², Mantel 4 · (1/2 · 6 · 5) = 60 cm²; O = 96 cm².
+Ein Rohr (Hohlzylinder) hat den Außenradius 5 cm, den Innenradius 3 cm und die Länge 10 cm. Wie groß ist das Volumen des Materials?|160π cm³ ≈ 502,7 cm³|40π cm³ ≈ 125,7 cm³|80π cm³ ≈ 251,3 cm³|340π cm³ ≈ 1068,1 cm³|0|V = π · (25 − 9) · 10 = 160π ≈ 502,7 cm³.
+Eine Halbkugel hat den Radius 6 cm. Wie groß ist ihr Volumen?|288π cm³ ≈ 904,8 cm³|144π cm³ ≈ 452,4 cm³|72π cm³ ≈ 226,2 cm³|48π cm³ ≈ 150,8 cm³|1|V = 1/2 · 4/3 · π · 216 = 144π ≈ 452,4 cm³.
+Eine Halbkugel mit dem Radius 6 cm hat eine ebene Deckfläche. Wie groß ist ihre gesamte Oberfläche?|108π cm² ≈ 339,3 cm²|144π cm² ≈ 452,4 cm²|72π cm² ≈ 226,2 cm²|36π cm² ≈ 113,1 cm²|0|Gewölbte Fläche 2πr² = 72π plus Kreis πr² = 36π, zusammen 108π.
+Auf einen Würfel mit der Kantenlänge 10 cm wird eine Pyramide mit der Höhe 6 cm gesetzt (Grundfläche 10 cm × 10 cm). Wie groß ist das Gesamtvolumen?|1300 cm³|1200 cm³|1600 cm³|1100 cm³|1|Würfel 1000 cm³ plus Pyramide 1/3 · 100 · 6 = 200 cm³.
+Der Radius eines Zylinders wird halbiert, das Volumen soll gleich bleiben. Was muss mit der Höhe geschehen?|Sie bleibt gleich.|Sie wird 4-mal so groß.|Sie wird 8-mal so groß.|Sie wird 2-mal so groß.|1|V = π r² h: Bei halbem Radius ist r² nur noch 1/4, also muss h vervierfacht werden.
+Ein zylindrischer Behälter (Radius 10 cm) ist teilweise mit Wasser gefüllt. Eine Kugel mit dem Radius 5 cm wird vollständig eingetaucht. Wie weit steigt der Wasserspiegel?|≈ 3,33 cm|≈ 0,5 cm|≈ 1,67 cm|≈ 5 cm|2|V(Kugel) = 500π/3, Grundfläche = 100π. Anstieg = 5/3 cm ≈ 1,67 cm.
+Eine zylindrische Dose hat den Durchmesser 8 cm und die Höhe 12 cm. Wie viel Milliliter fasst sie ungefähr?|≈ 2 413 ml|≈ 1 206 ml|≈ 603 ml|≈ 301 ml|2|r = 4 cm: V = π · 16 · 12 = 192π ≈ 603 cm³ = 603 ml.
+Die Kantenlänge eines Würfels wird verdreifacht. Wie ändert sich das Volumen?|Es wird 6-mal so groß.|Es wird 3-mal so groß.|Es wird 9-mal so groß.|Es wird 27-mal so groß.|3|V ist proportional zu a³, und 3³ = 27.

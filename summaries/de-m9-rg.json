@@ -1,0 +1,6 @@
+{
+ "Prisma und Zylinder": "Für Prismen und Zylinder gilt V = G · h. Beim Quader ist V = a · b · c und O = 2(ab + ac + bc), beim Würfel V = a³ und O = 6a². Beim Zylinder gilt V = π r² h, M = 2π r h und O = 2π r² + 2π r h. Die Raumdiagonale des Quaders ist d = √(a² + b² + c²). Es gilt 1 dm³ = 1 Liter.",
+ "Pyramide und Kegel": "Für Pyramide und Kegel gilt V = 1/3 · G · h, beim Kegel also V = 1/3 · π r² h. Die Mantellinie des Kegels ist s = √(r² + h²), die Mantelfläche M = π r s und die Oberfläche O = π r² + π r s. Bei einer quadratischen Pyramide berechnet man die Höhe der Seitenfläche mit h_s = √(h² + (a/2)²).",
+ "Die Kugel": "Für die Kugel gilt V = 4/3 · π r³ und O = 4π r². Für die Halbkugel gilt V = 2/3 · π r³ und O = 3π r² (mit Deckfläche). Verdoppelt man den Radius, wird die Oberfläche 4-mal und das Volumen 8-mal so groß. Kegel, Kugel und Zylinder (Höhe 2r) haben die Volumina im Verhältnis 1 : 2 : 3.",
+ "Zusammengesetzte Körper und Anwendungen": "Zusammengesetzte Körper zerlegt man in bekannte Körper und addiert oder subtrahiert die Volumina. Für einen Hohlzylinder gilt V = π (R² − r²) h. Taucht ein Körper in Wasser, ist das verdrängte Volumen gleich dem Körpervolumen. Wird eine Länge mit k vervielfacht, wächst die Fläche mit k² und das Volumen mit k³."
+}

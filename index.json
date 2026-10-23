@@ -1314,6 +1314,50 @@
               "title": "Berechnungen mit Trigonometrie"
             }
           ]
+        },
+        {
+          "id": "de-m9-st",
+          "title": "Stochastik: Wahrscheinlichkeit und Kombinatorik",
+          "lessons": [
+            {
+              "id": "de-m9-st-01",
+              "title": "Zufallsexperimente und Laplace-Wahrscheinlichkeit"
+            },
+            {
+              "id": "de-m9-st-02",
+              "title": "Mehrstufige Zufallsexperimente und Pfadregeln"
+            },
+            {
+              "id": "de-m9-st-03",
+              "title": "Zählprinzip, Fakultät und Binomialkoeffizient"
+            },
+            {
+              "id": "de-m9-st-04",
+              "title": "Bedingte Wahrscheinlichkeit und Vierfeldertafel"
+            }
+          ]
+        },
+        {
+          "id": "de-m9-rg",
+          "title": "Raumgeometrie: Körper berechnen",
+          "lessons": [
+            {
+              "id": "de-m9-rg-01",
+              "title": "Prisma und Zylinder"
+            },
+            {
+              "id": "de-m9-rg-02",
+              "title": "Pyramide und Kegel"
+            },
+            {
+              "id": "de-m9-rg-03",
+              "title": "Die Kugel"
+            },
+            {
+              "id": "de-m9-rg-04",
+              "title": "Zusammengesetzte Körper und Anwendungen"
+            }
+          ]
         }
       ]
     },
