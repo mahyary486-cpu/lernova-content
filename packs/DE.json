@@ -1,7 +1,7 @@
 {
  "country": "DE",
  "year": "2026-2027",
- "rev": "1792741306",
+ "rev": "1792741737",
  "grades": [
   {
    "grade": 9,
@@ -51,6 +51,28 @@
        "title": "n-te Wurzeln und rationale Exponenten"
       }
      ]
+    },
+    {
+     "id": "de-m9-ae",
+     "title": "Ähnlichkeit und Strahlensätze",
+     "lessons": [
+      {
+       "id": "de-m9-ae-01",
+       "title": "Ähnliche Figuren und Streckfaktor"
+      },
+      {
+       "id": "de-m9-ae-02",
+       "title": "Ähnliche Dreiecke"
+      },
+      {
+       "id": "de-m9-ae-03",
+       "title": "Die Strahlensätze"
+      },
+      {
+       "id": "de-m9-ae-04",
+       "title": "Anwendungen der Ähnlichkeit"
+      }
+     ]
     }
    ]
   }
@@ -67,6 +89,12 @@
   "details/de-m9-pw-02.md": "9798738cf970",
   "details/de-m9-pw-03.md": "2bb806ea5ebd",
   "details/de-m9-pw-04.md": "3002dde2e553",
-  "banks/de-m9-pw.txt": "034ef580756a"
+  "banks/de-m9-pw.txt": "034ef580756a",
+  "summaries/de-m9-ae.json": "205acca8a29a",
+  "details/de-m9-ae-01.md": "67fa53d7ca70",
+  "details/de-m9-ae-02.md": "f58d1d83360d",
+  "details/de-m9-ae-03.md": "af7288cd2e3e",
+  "details/de-m9-ae-04.md": "0c1410cff06c",
+  "banks/de-m9-ae.txt": "2efffc8b5664"
  }
 }

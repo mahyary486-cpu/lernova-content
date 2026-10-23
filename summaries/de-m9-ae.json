@@ -1,0 +1,6 @@
+{
+ "Ähnliche Figuren und Streckfaktor": "Zwei Figuren sind ähnlich, wenn sie in der Form übereinstimmen, aber verschieden groß sein dürfen. Alle Winkel sind gleich und alle Längen stehen im selben Verhältnis k (Streckfaktor). Bei Streckfaktor k werden Längen k-fach, Flächeninhalte k²-fach und Volumina k³-fach.",
+ "Ähnliche Dreiecke": "Zwei Dreiecke sind ähnlich, wenn sie in zwei Winkeln übereinstimmen (WW-Satz), wenn alle drei Seitenverhältnisse gleich sind (SSS) oder wenn zwei Seitenverhältnisse und der eingeschlossene Winkel übereinstimmen (SWS). Aus der Ähnlichkeit berechnet man fehlende Seiten über Verhältnisgleichungen.",
+ "Die Strahlensätze": "Werden zwei Strahlen mit gemeinsamem Anfangspunkt Z von zwei parallelen Geraden geschnitten, gilt der 1. Strahlensatz: Abschnitte auf einem Strahl verhalten sich wie die entsprechenden Abschnitte auf dem anderen Strahl, z. B. ZA/ZC = ZB/ZD. Der 2. Strahlensatz verbindet auch die Parallelstücke: ZA/ZC = AB/CD.",
+ "Anwendungen der Ähnlichkeit": "Mit Ähnlichkeit bestimmt man unzugängliche Längen: die Höhe eines Baumes über Schattenlängen, Entfernungen über Karten im Maßstab oder die Höhe einer Laterne durch Strahlensätze. Beim Maßstab 1 : n entspricht 1 cm auf der Karte n cm in der Wirklichkeit."
+}
