@@ -1,1153 +1,1226 @@
 {
- "grades": [
-  {
-   "grade": 9,
-   "subject": "Mathematics",
-   "chapters": [
+  "grades": [
     {
-     "id": "g9-ch1",
-     "title": "Foundations of Algebra",
-     "lessons": [
-      {
-       "id": "g9-ch1-l1",
-       "title": "Real Numbers and Their Properties"
-      },
-      {
-       "id": "g9-ch1-l2",
-       "title": "Order of Operations and Evaluating Expressions"
-      },
-      {
-       "id": "g9-ch1-l3",
-       "title": "Simplifying Algebraic Expressions"
-      },
-      {
-       "id": "g9-ch1-l4",
-       "title": "Solving One-Step and Two-Step Equations"
-      },
-      {
-       "id": "g9-ch1-l5",
-       "title": "Multi-Step Equations and Variables on Both Sides"
-      },
-      {
-       "id": "g9-ch1-l6",
-       "title": "Ratios, Proportions and Percent"
-      }
-     ]
+      "grade": 9,
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "g9-ch1",
+          "title": "Foundations of Algebra",
+          "lessons": [
+            {
+              "id": "g9-ch1-l1",
+              "title": "Real Numbers and Their Properties"
+            },
+            {
+              "id": "g9-ch1-l2",
+              "title": "Order of Operations and Evaluating Expressions"
+            },
+            {
+              "id": "g9-ch1-l3",
+              "title": "Simplifying Algebraic Expressions"
+            },
+            {
+              "id": "g9-ch1-l4",
+              "title": "Solving One-Step and Two-Step Equations"
+            },
+            {
+              "id": "g9-ch1-l5",
+              "title": "Multi-Step Equations and Variables on Both Sides"
+            },
+            {
+              "id": "g9-ch1-l6",
+              "title": "Ratios, Proportions and Percent"
+            }
+          ]
+        },
+        {
+          "id": "g9-ch2",
+          "title": "Linear Equations and Functions",
+          "lessons": [
+            {
+              "id": "g9-ch2-l1",
+              "title": "The Coordinate Plane and Graphing Points"
+            },
+            {
+              "id": "g9-ch2-l2",
+              "title": "Slope and Rate of Change"
+            },
+            {
+              "id": "g9-ch2-l3",
+              "title": "Slope-Intercept Form"
+            },
+            {
+              "id": "g9-ch2-l4",
+              "title": "Point-Slope Form and Standard Form"
+            },
+            {
+              "id": "g9-ch2-l5",
+              "title": "Parallel and Perpendicular Lines"
+            },
+            {
+              "id": "g9-ch2-l6",
+              "title": "Functions and Function Notation"
+            }
+          ]
+        },
+        {
+          "id": "g9-ch3",
+          "title": "Systems of Equations and Inequalities",
+          "lessons": [
+            {
+              "id": "g9-ch3-l1",
+              "title": "Solving Systems by Graphing"
+            },
+            {
+              "id": "g9-ch3-l2",
+              "title": "Solving Systems by Substitution"
+            },
+            {
+              "id": "g9-ch3-l3",
+              "title": "Solving Systems by Elimination"
+            },
+            {
+              "id": "g9-ch3-l4",
+              "title": "Systems Word Problems"
+            },
+            {
+              "id": "g9-ch3-l5",
+              "title": "Linear Inequalities and Systems of Inequalities"
+            }
+          ]
+        },
+        {
+          "id": "g9-ch4",
+          "title": "Exponents and Exponential Functions",
+          "lessons": [
+            {
+              "id": "g9-ch4-l1",
+              "title": "Laws of Exponents"
+            },
+            {
+              "id": "g9-ch4-l2",
+              "title": "Zero and Negative Exponents"
+            },
+            {
+              "id": "g9-ch4-l3",
+              "title": "Scientific Notation"
+            },
+            {
+              "id": "g9-ch4-l4",
+              "title": "Exponential Growth and Decay"
+            },
+            {
+              "id": "g9-ch4-l5",
+              "title": "Geometric Sequences"
+            }
+          ]
+        },
+        {
+          "id": "g9-ch5",
+          "title": "Polynomials and Factoring",
+          "lessons": [
+            {
+              "id": "g9-ch5-l1",
+              "title": "Adding and Subtracting Polynomials"
+            },
+            {
+              "id": "g9-ch5-l2",
+              "title": "Multiplying Polynomials"
+            },
+            {
+              "id": "g9-ch5-l3",
+              "title": "Special Products"
+            },
+            {
+              "id": "g9-ch5-l4",
+              "title": "Factoring Trinomials and Common Factors"
+            },
+            {
+              "id": "g9-ch5-l5",
+              "title": "Factoring Special Cases and by Grouping"
+            }
+          ]
+        }
+      ],
+      "course": "Algebra 1",
+      "country": "US"
     },
     {
-     "id": "g9-ch2",
-     "title": "Linear Equations and Functions",
-     "lessons": [
-      {
-       "id": "g9-ch2-l1",
-       "title": "The Coordinate Plane and Graphing Points"
-      },
-      {
-       "id": "g9-ch2-l2",
-       "title": "Slope and Rate of Change"
-      },
-      {
-       "id": "g9-ch2-l3",
-       "title": "Slope-Intercept Form"
-      },
-      {
-       "id": "g9-ch2-l4",
-       "title": "Point-Slope Form and Standard Form"
-      },
-      {
-       "id": "g9-ch2-l5",
-       "title": "Parallel and Perpendicular Lines"
-      },
-      {
-       "id": "g9-ch2-l6",
-       "title": "Functions and Function Notation"
-      }
-     ]
+      "grade": 9,
+      "subject": "English",
+      "course": "English I",
+      "chapters": [],
+      "country": "US"
     },
     {
-     "id": "g9-ch3",
-     "title": "Systems of Equations and Inequalities",
-     "lessons": [
-      {
-       "id": "g9-ch3-l1",
-       "title": "Solving Systems by Graphing"
-      },
-      {
-       "id": "g9-ch3-l2",
-       "title": "Solving Systems by Substitution"
-      },
-      {
-       "id": "g9-ch3-l3",
-       "title": "Solving Systems by Elimination"
-      },
-      {
-       "id": "g9-ch3-l4",
-       "title": "Systems Word Problems"
-      },
-      {
-       "id": "g9-ch3-l5",
-       "title": "Linear Inequalities and Systems of Inequalities"
-      }
-     ]
+      "grade": 9,
+      "subject": "Science",
+      "course": "Physical Science",
+      "chapters": [],
+      "country": "US"
     },
     {
-     "id": "g9-ch4",
-     "title": "Exponents and Exponential Functions",
-     "lessons": [
-      {
-       "id": "g9-ch4-l1",
-       "title": "Laws of Exponents"
-      },
-      {
-       "id": "g9-ch4-l2",
-       "title": "Zero and Negative Exponents"
-      },
-      {
-       "id": "g9-ch4-l3",
-       "title": "Scientific Notation"
-      },
-      {
-       "id": "g9-ch4-l4",
-       "title": "Exponential Growth and Decay"
-      },
-      {
-       "id": "g9-ch4-l5",
-       "title": "Geometric Sequences"
-      }
-     ]
+      "grade": 9,
+      "subject": "Social Studies",
+      "course": "Civics and Geography",
+      "chapters": [],
+      "country": "US"
     },
     {
-     "id": "g9-ch5",
-     "title": "Polynomials and Factoring",
-     "lessons": [
-      {
-       "id": "g9-ch5-l1",
-       "title": "Adding and Subtracting Polynomials"
-      },
-      {
-       "id": "g9-ch5-l2",
-       "title": "Multiplying Polynomials"
-      },
-      {
-       "id": "g9-ch5-l3",
-       "title": "Special Products"
-      },
-      {
-       "id": "g9-ch5-l4",
-       "title": "Factoring Trinomials and Common Factors"
-      },
-      {
-       "id": "g9-ch5-l5",
-       "title": "Factoring Special Cases and by Grouping"
-      }
-     ]
+      "grade": 9,
+      "subject": "Computer Science and Applied AI",
+      "course": "Introduction to Computer Science and AI",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 10,
+      "subject": "Mathematics",
+      "course": "Geometry",
+      "chapters": [
+        {
+          "id": "g10-ch1",
+          "title": "Geometry Basics and Transformations",
+          "lessons": [
+            {
+              "id": "g10-ch1-l1",
+              "title": "Points, lines and planes"
+            },
+            {
+              "id": "g10-ch1-l2",
+              "title": "Segments, angles and measurement"
+            },
+            {
+              "id": "g10-ch1-l3",
+              "title": "Distance and midpoint formulas"
+            },
+            {
+              "id": "g10-ch1-l4",
+              "title": "Reflections, translations and rotations"
+            },
+            {
+              "id": "g10-ch1-l5",
+              "title": "Dilations and symmetry"
+            }
+          ]
+        },
+        {
+          "id": "g10-ch2",
+          "title": "Reasoning and Proof",
+          "lessons": [
+            {
+              "id": "g10-ch2-l1",
+              "title": "Conditional statements"
+            },
+            {
+              "id": "g10-ch2-l2",
+              "title": "Deductive reasoning"
+            },
+            {
+              "id": "g10-ch2-l3",
+              "title": "Angles and parallel lines"
+            },
+            {
+              "id": "g10-ch2-l4",
+              "title": "Writing two-column proofs"
+            }
+          ]
+        },
+        {
+          "id": "g10-ch3",
+          "title": "Triangles and Congruence",
+          "lessons": [
+            {
+              "id": "g10-ch3-l1",
+              "title": "Triangle angle sum"
+            },
+            {
+              "id": "g10-ch3-l2",
+              "title": "Congruent triangles SSS, SAS, ASA, AAS"
+            },
+            {
+              "id": "g10-ch3-l3",
+              "title": "Isosceles and equilateral triangles"
+            },
+            {
+              "id": "g10-ch3-l4",
+              "title": "Medians, altitudes and bisectors"
+            },
+            {
+              "id": "g10-ch3-l5",
+              "title": "Triangle inequality"
+            }
+          ]
+        },
+        {
+          "id": "g10-ch4",
+          "title": "Similarity",
+          "lessons": [
+            {
+              "id": "g10-ch4-l1",
+              "title": "Ratios and proportions"
+            },
+            {
+              "id": "g10-ch4-l2",
+              "title": "Similar polygons"
+            },
+            {
+              "id": "g10-ch4-l3",
+              "title": "Triangle similarity AA, SSS, SAS"
+            },
+            {
+              "id": "g10-ch4-l4",
+              "title": "Midsegment and side-splitter theorems"
+            }
+          ]
+        },
+        {
+          "id": "g10-ch5",
+          "title": "Right Triangles and Trigonometry",
+          "lessons": [
+            {
+              "id": "g10-ch5-l1",
+              "title": "Pythagorean theorem"
+            },
+            {
+              "id": "g10-ch5-l2",
+              "title": "Special right triangles"
+            },
+            {
+              "id": "g10-ch5-l3",
+              "title": "Sine, cosine and tangent"
+            },
+            {
+              "id": "g10-ch5-l4",
+              "title": "Solving right triangles"
+            },
+            {
+              "id": "g10-ch5-l5",
+              "title": "Law of sines and cosines"
+            }
+          ]
+        },
+        {
+          "id": "g10-ch6",
+          "title": "Circles",
+          "lessons": [
+            {
+              "id": "g10-ch6-l1",
+              "title": "Arcs and chords"
+            },
+            {
+              "id": "g10-ch6-l2",
+              "title": "Inscribed angles"
+            },
+            {
+              "id": "g10-ch6-l3",
+              "title": "Tangents and secants"
+            },
+            {
+              "id": "g10-ch6-l4",
+              "title": "Arc length and sector area"
+            },
+            {
+              "id": "g10-ch6-l5",
+              "title": "Equation of a circle"
+            }
+          ]
+        },
+        {
+          "id": "g10-ch7",
+          "title": "Area, Surface Area and Volume",
+          "lessons": [
+            {
+              "id": "g10-ch7-l1",
+              "title": "Area of polygons"
+            },
+            {
+              "id": "g10-ch7-l2",
+              "title": "Prisms and cylinders"
+            },
+            {
+              "id": "g10-ch7-l3",
+              "title": "Pyramids, cones and spheres"
+            },
+            {
+              "id": "g10-ch7-l4",
+              "title": "Cross sections of solids"
+            }
+          ]
+        }
+      ],
+      "country": "US"
+    },
+    {
+      "grade": 10,
+      "subject": "English",
+      "course": "English II",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 10,
+      "subject": "Science",
+      "course": "Biology",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 10,
+      "subject": "Social Studies",
+      "course": "World History",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 10,
+      "subject": "Computer Science and Applied AI",
+      "course": "Programming and AI Tools",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 11,
+      "subject": "Mathematics",
+      "course": "Algebra 2",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 11,
+      "subject": "English",
+      "course": "English III",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 11,
+      "subject": "Science",
+      "course": "Earth and Environmental Science",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 11,
+      "subject": "Social Studies",
+      "course": "US History",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 11,
+      "subject": "Computer Science and Applied AI",
+      "course": "Data, Algorithms and Machine Learning Basics",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 12,
+      "subject": "Mathematics",
+      "course": "Pre-Calculus",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 12,
+      "subject": "English",
+      "course": "English IV",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 12,
+      "subject": "Science",
+      "course": "Anatomy and Physiology",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 12,
+      "subject": "Social Studies",
+      "course": "Government and Economics",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 12,
+      "subject": "Computer Science and Applied AI",
+      "course": "Applied AI Projects",
+      "chapters": [],
+      "country": "US"
+    },
+    {
+      "grade": 9,
+      "subject": "Mathematics",
+      "country": "IR",
+      "chapters": [
+        {
+          "id": "ir9m-ch1",
+          "title": "Sets",
+          "lessons": [
+            {
+              "id": "ir9m-ch1-l1",
+              "title": "Sets and subsets"
+            },
+            {
+              "id": "ir9m-ch1-l2",
+              "title": "Equal and unequal sets"
+            },
+            {
+              "id": "ir9m-ch1-l3",
+              "title": "Union and intersection"
+            },
+            {
+              "id": "ir9m-ch1-l4",
+              "title": "Complement of a set"
+            },
+            {
+              "id": "ir9m-ch1-l5",
+              "title": "Finite and infinite sets"
+            }
+          ]
+        },
+        {
+          "id": "ir9m-ch2",
+          "title": "Real Numbers",
+          "lessons": [
+            {
+              "id": "ir9m-ch2-l1",
+              "title": "Rational numbers"
+            },
+            {
+              "id": "ir9m-ch2-l2",
+              "title": "Irrational numbers and real numbers"
+            },
+            {
+              "id": "ir9m-ch2-l3",
+              "title": "Absolute value"
+            },
+            {
+              "id": "ir9m-ch2-l4",
+              "title": "Operations with radicals"
+            },
+            {
+              "id": "ir9m-ch2-l5",
+              "title": "Approximation"
+            }
+          ]
+        },
+        {
+          "id": "ir9m-ch3",
+          "title": "Reasoning and Proof in Geometry",
+          "lessons": [
+            {
+              "id": "ir9m-ch3-l1",
+              "title": "Reasoning"
+            },
+            {
+              "id": "ir9m-ch3-l2",
+              "title": "Theorems and proofs"
+            },
+            {
+              "id": "ir9m-ch3-l3",
+              "title": "Congruence of triangles"
+            },
+            {
+              "id": "ir9m-ch3-l4",
+              "title": "Properties of parallel lines"
+            }
+          ]
+        },
+        {
+          "id": "ir9m-ch4",
+          "title": "Powers and Roots",
+          "lessons": [
+            {
+              "id": "ir9m-ch4-l1",
+              "title": "Integer powers"
+            },
+            {
+              "id": "ir9m-ch4-l2",
+              "title": "Scientific notation"
+            },
+            {
+              "id": "ir9m-ch4-l3",
+              "title": "Square roots"
+            },
+            {
+              "id": "ir9m-ch4-l4",
+              "title": "Roots of higher order"
+            }
+          ]
+        },
+        {
+          "id": "ir9m-ch5",
+          "title": "Algebraic Expressions",
+          "lessons": [
+            {
+              "id": "ir9m-ch5-l1",
+              "title": "Algebraic expressions and polynomials"
+            },
+            {
+              "id": "ir9m-ch5-l2",
+              "title": "Algebraic identities"
+            },
+            {
+              "id": "ir9m-ch5-l3",
+              "title": "Factoring"
+            },
+            {
+              "id": "ir9m-ch5-l4",
+              "title": "Division of polynomials"
+            }
+          ]
+        },
+        {
+          "id": "ir9m-ch6",
+          "title": "Lines and Linear Equations",
+          "lessons": [
+            {
+              "id": "ir9m-ch6-l1",
+              "title": "The coordinate plane"
+            },
+            {
+              "id": "ir9m-ch6-l2",
+              "title": "Equation of a line"
+            },
+            {
+              "id": "ir9m-ch6-l3",
+              "title": "Systems of linear equations"
+            },
+            {
+              "id": "ir9m-ch6-l4",
+              "title": "Linear equations in practice"
+            }
+          ]
+        },
+        {
+          "id": "ir9m-ch7",
+          "title": "Rational Expressions",
+          "lessons": [
+            {
+              "id": "ir9m-ch7-l1",
+              "title": "Simplifying rational expressions"
+            },
+            {
+              "id": "ir9m-ch7-l2",
+              "title": "Operations on rational expressions"
+            },
+            {
+              "id": "ir9m-ch7-l3",
+              "title": "Rational equations"
+            }
+          ]
+        },
+        {
+          "id": "ir9m-ch8",
+          "title": "Volume and Area",
+          "lessons": [
+            {
+              "id": "ir9m-ch8-l1",
+              "title": "Surface area"
+            },
+            {
+              "id": "ir9m-ch8-l2",
+              "title": "Volume of solids"
+            },
+            {
+              "id": "ir9m-ch8-l3",
+              "title": "Cross sections"
+            },
+            {
+              "id": "ir9m-ch8-l4",
+              "title": "Solids of revolution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "subject": "Science",
+      "country": "IR",
+      "chapters": [
+        {
+          "id": "ir9s-ch1",
+          "title": "Materials and Their Role in Life",
+          "lessons": [
+            {
+              "id": "ir9s-ch1-l1",
+              "title": "Metals and nonmetals"
+            },
+            {
+              "id": "ir9s-ch1-l2",
+              "title": "Reactivity of metals"
+            },
+            {
+              "id": "ir9s-ch1-l3",
+              "title": "Atomic structure and electron arrangement"
+            },
+            {
+              "id": "ir9s-ch1-l4",
+              "title": "The periodic table"
+            },
+            {
+              "id": "ir9s-ch1-l5",
+              "title": "Useful elements: nitrogen, phosphorus, sulfur, chlorine and fluorine"
+            },
+            {
+              "id": "ir9s-ch1-l6",
+              "title": "Natural and synthetic polymers"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch2",
+          "title": "How Atoms Behave with Each Other",
+          "lessons": [
+            {
+              "id": "ir9s-ch2-l1",
+              "title": "Ions and their uses"
+            },
+            {
+              "id": "ir9s-ch2-l2",
+              "title": "Ionic bonds"
+            },
+            {
+              "id": "ir9s-ch2-l3",
+              "title": "Properties of ionic compounds"
+            },
+            {
+              "id": "ir9s-ch2-l4",
+              "title": "Covalent bonds"
+            },
+            {
+              "id": "ir9s-ch2-l5",
+              "title": "Conservation of mass"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch3",
+          "title": "Toward a Better Environment for Living",
+          "lessons": [
+            {
+              "id": "ir9s-ch3-l1",
+              "title": "Natural cycles"
+            },
+            {
+              "id": "ir9s-ch3-l2",
+              "title": "The carbon cycle"
+            },
+            {
+              "id": "ir9s-ch3-l3",
+              "title": "Crude oil and its separation"
+            },
+            {
+              "id": "ir9s-ch3-l4",
+              "title": "Petroleum products and polymers"
+            },
+            {
+              "id": "ir9s-ch3-l5",
+              "title": "Plastics and recycling"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch4",
+          "title": "What Is Motion",
+          "lessons": [
+            {
+              "id": "ir9s-ch4-l1",
+              "title": "Distance and displacement"
+            },
+            {
+              "id": "ir9s-ch4-l2",
+              "title": "Speed and velocity"
+            },
+            {
+              "id": "ir9s-ch4-l3",
+              "title": "Acceleration"
+            },
+            {
+              "id": "ir9s-ch4-l4",
+              "title": "Motion graphs"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch5",
+          "title": "Force",
+          "lessons": [
+            {
+              "id": "ir9s-ch5-l1",
+              "title": "Balanced forces and net force"
+            },
+            {
+              "id": "ir9s-ch5-l2",
+              "title": "Newton's first and second laws"
+            },
+            {
+              "id": "ir9s-ch5-l3",
+              "title": "Newton's third law"
+            },
+            {
+              "id": "ir9s-ch5-l4",
+              "title": "Common types of forces"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch6",
+          "title": "Plate Tectonics",
+          "lessons": [
+            {
+              "id": "ir9s-ch6-l1",
+              "title": "Continental drift and Wegener's theory"
+            },
+            {
+              "id": "ir9s-ch6-l2",
+              "title": "Seafloor spreading"
+            },
+            {
+              "id": "ir9s-ch6-l3",
+              "title": "Moving plates and subduction"
+            },
+            {
+              "id": "ir9s-ch6-l4",
+              "title": "Earthquakes, faults and tsunamis"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch7",
+          "title": "Traces of Earth's Past",
+          "lessons": [
+            {
+              "id": "ir9s-ch7-l1",
+              "title": "What fossils are and how they form"
+            },
+            {
+              "id": "ir9s-ch7-l2",
+              "title": "Types of fossils"
+            },
+            {
+              "id": "ir9s-ch7-l3",
+              "title": "Uses of fossils and index fossils"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch8",
+          "title": "Pressure and Its Effects",
+          "lessons": [
+            {
+              "id": "ir9s-ch8-l1",
+              "title": "Force and pressure"
+            },
+            {
+              "id": "ir9s-ch8-l2",
+              "title": "Pressure in solids"
+            },
+            {
+              "id": "ir9s-ch8-l3",
+              "title": "Pressure in liquids and Pascal's principle"
+            },
+            {
+              "id": "ir9s-ch8-l4",
+              "title": "Pressure in gases and air pressure"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch9",
+          "title": "Machines",
+          "lessons": [
+            {
+              "id": "ir9s-ch9-l1",
+              "title": "Levers"
+            },
+            {
+              "id": "ir9s-ch9-l2",
+              "title": "Pulleys and inclined planes"
+            },
+            {
+              "id": "ir9s-ch9-l3",
+              "title": "Gears and wheel and axle"
+            },
+            {
+              "id": "ir9s-ch9-l4",
+              "title": "Work and torque"
+            },
+            {
+              "id": "ir9s-ch9-l5",
+              "title": "Mechanical advantage and efficiency"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch10",
+          "title": "A Look at Space",
+          "lessons": [
+            {
+              "id": "ir9s-ch10-l1",
+              "title": "Astronomy and observing the sky"
+            },
+            {
+              "id": "ir9s-ch10-l2",
+              "title": "Galaxies and distances in space"
+            },
+            {
+              "id": "ir9s-ch10-l3",
+              "title": "Constellations and finding directions"
+            },
+            {
+              "id": "ir9s-ch10-l4",
+              "title": "The solar system and its planets"
+            },
+            {
+              "id": "ir9s-ch10-l5",
+              "title": "Moons, asteroids and space travel"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch11",
+          "title": "Diversity of Animals",
+          "lessons": [
+            {
+              "id": "ir9s-ch11-l1",
+              "title": "Classification of living things"
+            },
+            {
+              "id": "ir9s-ch11-l2",
+              "title": "Features used to group animals"
+            },
+            {
+              "id": "ir9s-ch11-l3",
+              "title": "Adaptation of animals to their environment"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch12",
+          "title": "The World of Plants",
+          "lessons": [
+            {
+              "id": "ir9s-ch12-l1",
+              "title": "Plant diversity"
+            },
+            {
+              "id": "ir9s-ch12-l2",
+              "title": "Roots, stems and leaves"
+            },
+            {
+              "id": "ir9s-ch12-l3",
+              "title": "Flowers, seeds and fruits"
+            },
+            {
+              "id": "ir9s-ch12-l4",
+              "title": "Reproduction in plants"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch13",
+          "title": "Invertebrates",
+          "lessons": [
+            {
+              "id": "ir9s-ch13-l1",
+              "title": "Sponges and cnidarians"
+            },
+            {
+              "id": "ir9s-ch13-l2",
+              "title": "Worms"
+            },
+            {
+              "id": "ir9s-ch13-l3",
+              "title": "Mollusks"
+            },
+            {
+              "id": "ir9s-ch13-l4",
+              "title": "Arthropods"
+            },
+            {
+              "id": "ir9s-ch13-l5",
+              "title": "Echinoderms"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch14",
+          "title": "Vertebrates",
+          "lessons": [
+            {
+              "id": "ir9s-ch14-l1",
+              "title": "Fish"
+            },
+            {
+              "id": "ir9s-ch14-l2",
+              "title": "Amphibians"
+            },
+            {
+              "id": "ir9s-ch14-l3",
+              "title": "Reptiles"
+            },
+            {
+              "id": "ir9s-ch14-l4",
+              "title": "Birds"
+            },
+            {
+              "id": "ir9s-ch14-l5",
+              "title": "Mammals"
+            }
+          ]
+        },
+        {
+          "id": "ir9s-ch15",
+          "title": "Living Together",
+          "lessons": [
+            {
+              "id": "ir9s-ch15-l1",
+              "title": "Ecosystems and food chains"
+            },
+            {
+              "id": "ir9s-ch15-l2",
+              "title": "Relationships between living things"
+            },
+            {
+              "id": "ir9s-ch15-l3",
+              "title": "Human impact on the environment"
+            },
+            {
+              "id": "ir9s-ch15-l4",
+              "title": "Protecting nature"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "subject": "Math",
+      "chapters": [
+        {
+          "id": "g9-ch1",
+          "title": "Foundations of Algebra",
+          "lessons": [
+            {
+              "id": "g9-ch1-l1",
+              "title": "Real Numbers and Their Properties"
+            },
+            {
+              "id": "g9-ch1-l2",
+              "title": "Order of Operations and Evaluating Expressions"
+            },
+            {
+              "id": "g9-ch1-l3",
+              "title": "Simplifying Algebraic Expressions"
+            },
+            {
+              "id": "g9-ch1-l4",
+              "title": "Solving One-Step and Two-Step Equations"
+            },
+            {
+              "id": "g9-ch1-l5",
+              "title": "Multi-Step Equations and Variables on Both Sides"
+            },
+            {
+              "id": "g9-ch1-l6",
+              "title": "Ratios, Proportions and Percent"
+            }
+          ]
+        },
+        {
+          "id": "g9-ch2",
+          "title": "Linear Equations and Functions",
+          "lessons": [
+            {
+              "id": "g9-ch2-l1",
+              "title": "The Coordinate Plane and Graphing Points"
+            },
+            {
+              "id": "g9-ch2-l2",
+              "title": "Slope and Rate of Change"
+            },
+            {
+              "id": "g9-ch2-l3",
+              "title": "Slope-Intercept Form"
+            },
+            {
+              "id": "g9-ch2-l4",
+              "title": "Point-Slope Form and Standard Form"
+            },
+            {
+              "id": "g9-ch2-l5",
+              "title": "Parallel and Perpendicular Lines"
+            },
+            {
+              "id": "g9-ch2-l6",
+              "title": "Functions and Function Notation"
+            }
+          ]
+        }
+      ],
+      "course": "Algebra 1"
+    },
+    {
+      "grade": 10,
+      "subject": "Math",
+      "course": "Geometry",
+      "chapters": []
+    },
+    {
+      "grade": 11,
+      "subject": "Math",
+      "course": "Algebra 2",
+      "chapters": []
+    },
+    {
+      "grade": 12,
+      "subject": "Math",
+      "course": "Pre-Calculus",
+      "chapters": []
+    },
+    {
+      "grade": 9,
+      "subject": "Algebra 1",
+      "chapters": [
+        {
+          "id": "g9-ch1",
+          "title": "Foundations of Algebra",
+          "lessons": [
+            {
+              "id": "g9-ch1-l1",
+              "title": "Real Numbers and Their Properties"
+            },
+            {
+              "id": "g9-ch1-l2",
+              "title": "Order of Operations and Evaluating Expressions"
+            },
+            {
+              "id": "g9-ch1-l3",
+              "title": "Simplifying Algebraic Expressions"
+            },
+            {
+              "id": "g9-ch1-l4",
+              "title": "Solving One-Step and Two-Step Equations"
+            },
+            {
+              "id": "g9-ch1-l5",
+              "title": "Multi-Step Equations and Variables on Both Sides"
+            },
+            {
+              "id": "g9-ch1-l6",
+              "title": "Ratios, Proportions and Percent"
+            }
+          ]
+        },
+        {
+          "id": "g9-ch2",
+          "title": "Linear Equations and Functions",
+          "lessons": [
+            {
+              "id": "g9-ch2-l1",
+              "title": "The Coordinate Plane and Graphing Points"
+            },
+            {
+              "id": "g9-ch2-l2",
+              "title": "Slope and Rate of Change"
+            },
+            {
+              "id": "g9-ch2-l3",
+              "title": "Slope-Intercept Form"
+            },
+            {
+              "id": "g9-ch2-l4",
+              "title": "Point-Slope Form and Standard Form"
+            },
+            {
+              "id": "g9-ch2-l5",
+              "title": "Parallel and Perpendicular Lines"
+            },
+            {
+              "id": "g9-ch2-l6",
+              "title": "Functions and Function Notation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "subject": "Mathematics",
+      "country": "RU",
+      "chapters": [
+        {
+          "id": "ru9-alg-quadratic",
+          "title": "Quadratic Functions and Inequalities",
+          "lessons": [
+            {
+              "id": "ru9-alg-quadratic-1",
+              "title": "Quadratic function and its graph"
+            },
+            {
+              "id": "ru9-alg-quadratic-2",
+              "title": "Properties of the parabola"
+            },
+            {
+              "id": "ru9-alg-quadratic-3",
+              "title": "Quadratic inequalities"
+            },
+            {
+              "id": "ru9-alg-quadratic-4",
+              "title": "The interval method"
+            }
+          ]
+        },
+        {
+          "id": "ru9-alg-equations",
+          "title": "Equations and Systems of Equations",
+          "lessons": [
+            {
+              "id": "ru9-alg-equations-1",
+              "title": "Equations of higher degree"
+            },
+            {
+              "id": "ru9-alg-equations-2",
+              "title": "Fractional rational equations"
+            },
+            {
+              "id": "ru9-alg-equations-3",
+              "title": "Systems of equations with two variables"
+            },
+            {
+              "id": "ru9-alg-equations-4",
+              "title": "Word problems with equations and systems"
+            }
+          ]
+        },
+        {
+          "id": "ru9-alg-progressions",
+          "title": "Sequences and Progressions",
+          "lessons": [
+            {
+              "id": "ru9-alg-progressions-1",
+              "title": "Number sequences"
+            },
+            {
+              "id": "ru9-alg-progressions-2",
+              "title": "Arithmetic progression"
+            },
+            {
+              "id": "ru9-alg-progressions-3",
+              "title": "Geometric progression"
+            },
+            {
+              "id": "ru9-alg-progressions-4",
+              "title": "Sums of progressions"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "course": "Algebra 1",
-   "country": "US"
-  },
-  {
-   "grade": 9,
-   "subject": "English",
-   "course": "English I",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 9,
-   "subject": "Science",
-   "course": "Physical Science",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 9,
-   "subject": "Social Studies",
-   "course": "Civics and Geography",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 9,
-   "subject": "Computer Science and Applied AI",
-   "course": "Introduction to Computer Science and AI",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 10,
-   "subject": "Mathematics",
-   "course": "Geometry",
-   "chapters": [
-    {
-     "id": "g10-ch1",
-     "title": "Geometry Basics and Transformations",
-     "lessons": [
-      {
-       "id": "g10-ch1-l1",
-       "title": "Points, lines and planes"
-      },
-      {
-       "id": "g10-ch1-l2",
-       "title": "Segments, angles and measurement"
-      },
-      {
-       "id": "g10-ch1-l3",
-       "title": "Distance and midpoint formulas"
-      },
-      {
-       "id": "g10-ch1-l4",
-       "title": "Reflections, translations and rotations"
-      },
-      {
-       "id": "g10-ch1-l5",
-       "title": "Dilations and symmetry"
-      }
-     ]
-    },
-    {
-     "id": "g10-ch2",
-     "title": "Reasoning and Proof",
-     "lessons": [
-      {
-       "id": "g10-ch2-l1",
-       "title": "Conditional statements"
-      },
-      {
-       "id": "g10-ch2-l2",
-       "title": "Deductive reasoning"
-      },
-      {
-       "id": "g10-ch2-l3",
-       "title": "Angles and parallel lines"
-      },
-      {
-       "id": "g10-ch2-l4",
-       "title": "Writing two-column proofs"
-      }
-     ]
-    },
-    {
-     "id": "g10-ch3",
-     "title": "Triangles and Congruence",
-     "lessons": [
-      {
-       "id": "g10-ch3-l1",
-       "title": "Triangle angle sum"
-      },
-      {
-       "id": "g10-ch3-l2",
-       "title": "Congruent triangles SSS, SAS, ASA, AAS"
-      },
-      {
-       "id": "g10-ch3-l3",
-       "title": "Isosceles and equilateral triangles"
-      },
-      {
-       "id": "g10-ch3-l4",
-       "title": "Medians, altitudes and bisectors"
-      },
-      {
-       "id": "g10-ch3-l5",
-       "title": "Triangle inequality"
-      }
-     ]
-    },
-    {
-     "id": "g10-ch4",
-     "title": "Similarity",
-     "lessons": [
-      {
-       "id": "g10-ch4-l1",
-       "title": "Ratios and proportions"
-      },
-      {
-       "id": "g10-ch4-l2",
-       "title": "Similar polygons"
-      },
-      {
-       "id": "g10-ch4-l3",
-       "title": "Triangle similarity AA, SSS, SAS"
-      },
-      {
-       "id": "g10-ch4-l4",
-       "title": "Midsegment and side-splitter theorems"
-      }
-     ]
-    },
-    {
-     "id": "g10-ch5",
-     "title": "Right Triangles and Trigonometry",
-     "lessons": [
-      {
-       "id": "g10-ch5-l1",
-       "title": "Pythagorean theorem"
-      },
-      {
-       "id": "g10-ch5-l2",
-       "title": "Special right triangles"
-      },
-      {
-       "id": "g10-ch5-l3",
-       "title": "Sine, cosine and tangent"
-      },
-      {
-       "id": "g10-ch5-l4",
-       "title": "Solving right triangles"
-      },
-      {
-       "id": "g10-ch5-l5",
-       "title": "Law of sines and cosines"
-      }
-     ]
-    },
-    {
-     "id": "g10-ch6",
-     "title": "Circles",
-     "lessons": [
-      {
-       "id": "g10-ch6-l1",
-       "title": "Arcs and chords"
-      },
-      {
-       "id": "g10-ch6-l2",
-       "title": "Inscribed angles"
-      },
-      {
-       "id": "g10-ch6-l3",
-       "title": "Tangents and secants"
-      },
-      {
-       "id": "g10-ch6-l4",
-       "title": "Arc length and sector area"
-      },
-      {
-       "id": "g10-ch6-l5",
-       "title": "Equation of a circle"
-      }
-     ]
-    },
-    {
-     "id": "g10-ch7",
-     "title": "Area, Surface Area and Volume",
-     "lessons": [
-      {
-       "id": "g10-ch7-l1",
-       "title": "Area of polygons"
-      },
-      {
-       "id": "g10-ch7-l2",
-       "title": "Prisms and cylinders"
-      },
-      {
-       "id": "g10-ch7-l3",
-       "title": "Pyramids, cones and spheres"
-      },
-      {
-       "id": "g10-ch7-l4",
-       "title": "Cross sections of solids"
-      }
-     ]
-    }
-   ],
-   "country": "US"
-  },
-  {
-   "grade": 10,
-   "subject": "English",
-   "course": "English II",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 10,
-   "subject": "Science",
-   "course": "Biology",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 10,
-   "subject": "Social Studies",
-   "course": "World History",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 10,
-   "subject": "Computer Science and Applied AI",
-   "course": "Programming and AI Tools",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 11,
-   "subject": "Mathematics",
-   "course": "Algebra 2",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 11,
-   "subject": "English",
-   "course": "English III",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 11,
-   "subject": "Science",
-   "course": "Earth and Environmental Science",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 11,
-   "subject": "Social Studies",
-   "course": "US History",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 11,
-   "subject": "Computer Science and Applied AI",
-   "course": "Data, Algorithms and Machine Learning Basics",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 12,
-   "subject": "Mathematics",
-   "course": "Pre-Calculus",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 12,
-   "subject": "English",
-   "course": "English IV",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 12,
-   "subject": "Science",
-   "course": "Anatomy and Physiology",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 12,
-   "subject": "Social Studies",
-   "course": "Government and Economics",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 12,
-   "subject": "Computer Science and Applied AI",
-   "course": "Applied AI Projects",
-   "chapters": [],
-   "country": "US"
-  },
-  {
-   "grade": 9,
-   "subject": "Mathematics",
-   "country": "IR",
-   "chapters": [
-    {
-     "id": "ir9m-ch1",
-     "title": "Sets",
-     "lessons": [
-      {
-       "id": "ir9m-ch1-l1",
-       "title": "Sets and subsets"
-      },
-      {
-       "id": "ir9m-ch1-l2",
-       "title": "Equal and unequal sets"
-      },
-      {
-       "id": "ir9m-ch1-l3",
-       "title": "Union and intersection"
-      },
-      {
-       "id": "ir9m-ch1-l4",
-       "title": "Complement of a set"
-      },
-      {
-       "id": "ir9m-ch1-l5",
-       "title": "Finite and infinite sets"
-      }
-     ]
-    },
-    {
-     "id": "ir9m-ch2",
-     "title": "Real Numbers",
-     "lessons": [
-      {
-       "id": "ir9m-ch2-l1",
-       "title": "Rational numbers"
-      },
-      {
-       "id": "ir9m-ch2-l2",
-       "title": "Irrational numbers and real numbers"
-      },
-      {
-       "id": "ir9m-ch2-l3",
-       "title": "Absolute value"
-      },
-      {
-       "id": "ir9m-ch2-l4",
-       "title": "Operations with radicals"
-      },
-      {
-       "id": "ir9m-ch2-l5",
-       "title": "Approximation"
-      }
-     ]
-    },
-    {
-     "id": "ir9m-ch3",
-     "title": "Reasoning and Proof in Geometry",
-     "lessons": [
-      {
-       "id": "ir9m-ch3-l1",
-       "title": "Reasoning"
-      },
-      {
-       "id": "ir9m-ch3-l2",
-       "title": "Theorems and proofs"
-      },
-      {
-       "id": "ir9m-ch3-l3",
-       "title": "Congruence of triangles"
-      },
-      {
-       "id": "ir9m-ch3-l4",
-       "title": "Properties of parallel lines"
-      }
-     ]
-    },
-    {
-     "id": "ir9m-ch4",
-     "title": "Powers and Roots",
-     "lessons": [
-      {
-       "id": "ir9m-ch4-l1",
-       "title": "Integer powers"
-      },
-      {
-       "id": "ir9m-ch4-l2",
-       "title": "Scientific notation"
-      },
-      {
-       "id": "ir9m-ch4-l3",
-       "title": "Square roots"
-      },
-      {
-       "id": "ir9m-ch4-l4",
-       "title": "Roots of higher order"
-      }
-     ]
-    },
-    {
-     "id": "ir9m-ch5",
-     "title": "Algebraic Expressions",
-     "lessons": [
-      {
-       "id": "ir9m-ch5-l1",
-       "title": "Algebraic expressions and polynomials"
-      },
-      {
-       "id": "ir9m-ch5-l2",
-       "title": "Algebraic identities"
-      },
-      {
-       "id": "ir9m-ch5-l3",
-       "title": "Factoring"
-      },
-      {
-       "id": "ir9m-ch5-l4",
-       "title": "Division of polynomials"
-      }
-     ]
-    },
-    {
-     "id": "ir9m-ch6",
-     "title": "Lines and Linear Equations",
-     "lessons": [
-      {
-       "id": "ir9m-ch6-l1",
-       "title": "The coordinate plane"
-      },
-      {
-       "id": "ir9m-ch6-l2",
-       "title": "Equation of a line"
-      },
-      {
-       "id": "ir9m-ch6-l3",
-       "title": "Systems of linear equations"
-      },
-      {
-       "id": "ir9m-ch6-l4",
-       "title": "Linear equations in practice"
-      }
-     ]
-    },
-    {
-     "id": "ir9m-ch7",
-     "title": "Rational Expressions",
-     "lessons": [
-      {
-       "id": "ir9m-ch7-l1",
-       "title": "Simplifying rational expressions"
-      },
-      {
-       "id": "ir9m-ch7-l2",
-       "title": "Operations on rational expressions"
-      },
-      {
-       "id": "ir9m-ch7-l3",
-       "title": "Rational equations"
-      }
-     ]
-    },
-    {
-     "id": "ir9m-ch8",
-     "title": "Volume and Area",
-     "lessons": [
-      {
-       "id": "ir9m-ch8-l1",
-       "title": "Surface area"
-      },
-      {
-       "id": "ir9m-ch8-l2",
-       "title": "Volume of solids"
-      },
-      {
-       "id": "ir9m-ch8-l3",
-       "title": "Cross sections"
-      },
-      {
-       "id": "ir9m-ch8-l4",
-       "title": "Solids of revolution"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "grade": 9,
-   "subject": "Science",
-   "country": "IR",
-   "chapters": [
-    {
-     "id": "ir9s-ch1",
-     "title": "Materials and Their Role in Life",
-     "lessons": [
-      {
-       "id": "ir9s-ch1-l1",
-       "title": "Metals and nonmetals"
-      },
-      {
-       "id": "ir9s-ch1-l2",
-       "title": "Reactivity of metals"
-      },
-      {
-       "id": "ir9s-ch1-l3",
-       "title": "Atomic structure and electron arrangement"
-      },
-      {
-       "id": "ir9s-ch1-l4",
-       "title": "The periodic table"
-      },
-      {
-       "id": "ir9s-ch1-l5",
-       "title": "Useful elements: nitrogen, phosphorus, sulfur, chlorine and fluorine"
-      },
-      {
-       "id": "ir9s-ch1-l6",
-       "title": "Natural and synthetic polymers"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch2",
-     "title": "How Atoms Behave with Each Other",
-     "lessons": [
-      {
-       "id": "ir9s-ch2-l1",
-       "title": "Ions and their uses"
-      },
-      {
-       "id": "ir9s-ch2-l2",
-       "title": "Ionic bonds"
-      },
-      {
-       "id": "ir9s-ch2-l3",
-       "title": "Properties of ionic compounds"
-      },
-      {
-       "id": "ir9s-ch2-l4",
-       "title": "Covalent bonds"
-      },
-      {
-       "id": "ir9s-ch2-l5",
-       "title": "Conservation of mass"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch3",
-     "title": "Toward a Better Environment for Living",
-     "lessons": [
-      {
-       "id": "ir9s-ch3-l1",
-       "title": "Natural cycles"
-      },
-      {
-       "id": "ir9s-ch3-l2",
-       "title": "The carbon cycle"
-      },
-      {
-       "id": "ir9s-ch3-l3",
-       "title": "Crude oil and its separation"
-      },
-      {
-       "id": "ir9s-ch3-l4",
-       "title": "Petroleum products and polymers"
-      },
-      {
-       "id": "ir9s-ch3-l5",
-       "title": "Plastics and recycling"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch4",
-     "title": "What Is Motion",
-     "lessons": [
-      {
-       "id": "ir9s-ch4-l1",
-       "title": "Distance and displacement"
-      },
-      {
-       "id": "ir9s-ch4-l2",
-       "title": "Speed and velocity"
-      },
-      {
-       "id": "ir9s-ch4-l3",
-       "title": "Acceleration"
-      },
-      {
-       "id": "ir9s-ch4-l4",
-       "title": "Motion graphs"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch5",
-     "title": "Force",
-     "lessons": [
-      {
-       "id": "ir9s-ch5-l1",
-       "title": "Balanced forces and net force"
-      },
-      {
-       "id": "ir9s-ch5-l2",
-       "title": "Newton's first and second laws"
-      },
-      {
-       "id": "ir9s-ch5-l3",
-       "title": "Newton's third law"
-      },
-      {
-       "id": "ir9s-ch5-l4",
-       "title": "Common types of forces"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch6",
-     "title": "Plate Tectonics",
-     "lessons": [
-      {
-       "id": "ir9s-ch6-l1",
-       "title": "Continental drift and Wegener's theory"
-      },
-      {
-       "id": "ir9s-ch6-l2",
-       "title": "Seafloor spreading"
-      },
-      {
-       "id": "ir9s-ch6-l3",
-       "title": "Moving plates and subduction"
-      },
-      {
-       "id": "ir9s-ch6-l4",
-       "title": "Earthquakes, faults and tsunamis"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch7",
-     "title": "Traces of Earth's Past",
-     "lessons": [
-      {
-       "id": "ir9s-ch7-l1",
-       "title": "What fossils are and how they form"
-      },
-      {
-       "id": "ir9s-ch7-l2",
-       "title": "Types of fossils"
-      },
-      {
-       "id": "ir9s-ch7-l3",
-       "title": "Uses of fossils and index fossils"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch8",
-     "title": "Pressure and Its Effects",
-     "lessons": [
-      {
-       "id": "ir9s-ch8-l1",
-       "title": "Force and pressure"
-      },
-      {
-       "id": "ir9s-ch8-l2",
-       "title": "Pressure in solids"
-      },
-      {
-       "id": "ir9s-ch8-l3",
-       "title": "Pressure in liquids and Pascal's principle"
-      },
-      {
-       "id": "ir9s-ch8-l4",
-       "title": "Pressure in gases and air pressure"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch9",
-     "title": "Machines",
-     "lessons": [
-      {
-       "id": "ir9s-ch9-l1",
-       "title": "Levers"
-      },
-      {
-       "id": "ir9s-ch9-l2",
-       "title": "Pulleys and inclined planes"
-      },
-      {
-       "id": "ir9s-ch9-l3",
-       "title": "Gears and wheel and axle"
-      },
-      {
-       "id": "ir9s-ch9-l4",
-       "title": "Work and torque"
-      },
-      {
-       "id": "ir9s-ch9-l5",
-       "title": "Mechanical advantage and efficiency"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch10",
-     "title": "A Look at Space",
-     "lessons": [
-      {
-       "id": "ir9s-ch10-l1",
-       "title": "Astronomy and observing the sky"
-      },
-      {
-       "id": "ir9s-ch10-l2",
-       "title": "Galaxies and distances in space"
-      },
-      {
-       "id": "ir9s-ch10-l3",
-       "title": "Constellations and finding directions"
-      },
-      {
-       "id": "ir9s-ch10-l4",
-       "title": "The solar system and its planets"
-      },
-      {
-       "id": "ir9s-ch10-l5",
-       "title": "Moons, asteroids and space travel"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch11",
-     "title": "Diversity of Animals",
-     "lessons": [
-      {
-       "id": "ir9s-ch11-l1",
-       "title": "Classification of living things"
-      },
-      {
-       "id": "ir9s-ch11-l2",
-       "title": "Features used to group animals"
-      },
-      {
-       "id": "ir9s-ch11-l3",
-       "title": "Adaptation of animals to their environment"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch12",
-     "title": "The World of Plants",
-     "lessons": [
-      {
-       "id": "ir9s-ch12-l1",
-       "title": "Plant diversity"
-      },
-      {
-       "id": "ir9s-ch12-l2",
-       "title": "Roots, stems and leaves"
-      },
-      {
-       "id": "ir9s-ch12-l3",
-       "title": "Flowers, seeds and fruits"
-      },
-      {
-       "id": "ir9s-ch12-l4",
-       "title": "Reproduction in plants"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch13",
-     "title": "Invertebrates",
-     "lessons": [
-      {
-       "id": "ir9s-ch13-l1",
-       "title": "Sponges and cnidarians"
-      },
-      {
-       "id": "ir9s-ch13-l2",
-       "title": "Worms"
-      },
-      {
-       "id": "ir9s-ch13-l3",
-       "title": "Mollusks"
-      },
-      {
-       "id": "ir9s-ch13-l4",
-       "title": "Arthropods"
-      },
-      {
-       "id": "ir9s-ch13-l5",
-       "title": "Echinoderms"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch14",
-     "title": "Vertebrates",
-     "lessons": [
-      {
-       "id": "ir9s-ch14-l1",
-       "title": "Fish"
-      },
-      {
-       "id": "ir9s-ch14-l2",
-       "title": "Amphibians"
-      },
-      {
-       "id": "ir9s-ch14-l3",
-       "title": "Reptiles"
-      },
-      {
-       "id": "ir9s-ch14-l4",
-       "title": "Birds"
-      },
-      {
-       "id": "ir9s-ch14-l5",
-       "title": "Mammals"
-      }
-     ]
-    },
-    {
-     "id": "ir9s-ch15",
-     "title": "Living Together",
-     "lessons": [
-      {
-       "id": "ir9s-ch15-l1",
-       "title": "Ecosystems and food chains"
-      },
-      {
-       "id": "ir9s-ch15-l2",
-       "title": "Relationships between living things"
-      },
-      {
-       "id": "ir9s-ch15-l3",
-       "title": "Human impact on the environment"
-      },
-      {
-       "id": "ir9s-ch15-l4",
-       "title": "Protecting nature"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "grade": 9,
-   "subject": "Math",
-   "chapters": [
-    {
-     "id": "g9-ch1",
-     "title": "Foundations of Algebra",
-     "lessons": [
-      {
-       "id": "g9-ch1-l1",
-       "title": "Real Numbers and Their Properties"
-      },
-      {
-       "id": "g9-ch1-l2",
-       "title": "Order of Operations and Evaluating Expressions"
-      },
-      {
-       "id": "g9-ch1-l3",
-       "title": "Simplifying Algebraic Expressions"
-      },
-      {
-       "id": "g9-ch1-l4",
-       "title": "Solving One-Step and Two-Step Equations"
-      },
-      {
-       "id": "g9-ch1-l5",
-       "title": "Multi-Step Equations and Variables on Both Sides"
-      },
-      {
-       "id": "g9-ch1-l6",
-       "title": "Ratios, Proportions and Percent"
-      }
-     ]
-    },
-    {
-     "id": "g9-ch2",
-     "title": "Linear Equations and Functions",
-     "lessons": [
-      {
-       "id": "g9-ch2-l1",
-       "title": "The Coordinate Plane and Graphing Points"
-      },
-      {
-       "id": "g9-ch2-l2",
-       "title": "Slope and Rate of Change"
-      },
-      {
-       "id": "g9-ch2-l3",
-       "title": "Slope-Intercept Form"
-      },
-      {
-       "id": "g9-ch2-l4",
-       "title": "Point-Slope Form and Standard Form"
-      },
-      {
-       "id": "g9-ch2-l5",
-       "title": "Parallel and Perpendicular Lines"
-      },
-      {
-       "id": "g9-ch2-l6",
-       "title": "Functions and Function Notation"
-      }
-     ]
-    }
-   ],
-   "course": "Algebra 1"
-  },
-  {
-   "grade": 10,
-   "subject": "Math",
-   "course": "Geometry",
-   "chapters": []
-  },
-  {
-   "grade": 11,
-   "subject": "Math",
-   "course": "Algebra 2",
-   "chapters": []
-  },
-  {
-   "grade": 12,
-   "subject": "Math",
-   "course": "Pre-Calculus",
-   "chapters": []
-  },
-  {
-   "grade": 9,
-   "subject": "Algebra 1",
-   "chapters": [
-    {
-     "id": "g9-ch1",
-     "title": "Foundations of Algebra",
-     "lessons": [
-      {
-       "id": "g9-ch1-l1",
-       "title": "Real Numbers and Their Properties"
-      },
-      {
-       "id": "g9-ch1-l2",
-       "title": "Order of Operations and Evaluating Expressions"
-      },
-      {
-       "id": "g9-ch1-l3",
-       "title": "Simplifying Algebraic Expressions"
-      },
-      {
-       "id": "g9-ch1-l4",
-       "title": "Solving One-Step and Two-Step Equations"
-      },
-      {
-       "id": "g9-ch1-l5",
-       "title": "Multi-Step Equations and Variables on Both Sides"
-      },
-      {
-       "id": "g9-ch1-l6",
-       "title": "Ratios, Proportions and Percent"
-      }
-     ]
-    },
-    {
-     "id": "g9-ch2",
-     "title": "Linear Equations and Functions",
-     "lessons": [
-      {
-       "id": "g9-ch2-l1",
-       "title": "The Coordinate Plane and Graphing Points"
-      },
-      {
-       "id": "g9-ch2-l2",
-       "title": "Slope and Rate of Change"
-      },
-      {
-       "id": "g9-ch2-l3",
-       "title": "Slope-Intercept Form"
-      },
-      {
-       "id": "g9-ch2-l4",
-       "title": "Point-Slope Form and Standard Form"
-      },
-      {
-       "id": "g9-ch2-l5",
-       "title": "Parallel and Perpendicular Lines"
-      },
-      {
-       "id": "g9-ch2-l6",
-       "title": "Functions and Function Notation"
-      }
-     ]
-    }
-   ]
-  }
- ]
+  ]
 }

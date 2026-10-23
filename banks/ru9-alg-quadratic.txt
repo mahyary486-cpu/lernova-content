@@ -1,0 +1,21 @@
+#HHMHMEHEMEMEHMMEEMEM
+Solve (x − 1)(x + 2)(x − 4) > 0.|(−∞; −2) ∪ (1; 4)|(−2; 1) ∪ (4; +∞)|(−2; 4)|(1; 4)|1|Signs from the right: + on (4; +∞), − on (1; 4), + on (−2; 1), − on (−∞; −2). We need +.
+Solve −x² + 2x + 3 > 0.|(−1; 3)|(−∞; −1) ∪ (3; +∞)|(−3; 1)|[−1; 3]|0|Multiply by −1 and flip the sign: x² − 2x − 3 < 0, so (x − 3)(x + 1) < 0, which gives −1 < x < 3.
+Solve x² − 4x + 4 > 0.|all real x|x > 2|no solutions|all x except 2|3|x² − 4x + 4 = (x − 2)², which is positive for every x except x = 2.
+Solve (x − 3) / (x + 1) ≤ 0.|[−1; 3]|(−∞; −1) ∪ [3; +∞)|(−1; 3]|(−1; 3)|2|The sign is − between −1 and 3. The point 3 is included, and −1 is excluded because it makes the denominator zero.
+What is the vertex of y = x² − 4x + 7?|(−2, 3)|(2, 3)|(2, −3)|(4, 7)|1|x₀ = 4 / 2 = 2 and y₀ = 4 − 8 + 7 = 3.
+Solve x² − 9 < 0.|−3 < x < 3|x > 3|x < −3 or x > 3|x < 3|0|x² < 9 means the absolute value of x is less than 3, so −3 < x < 3.
+For which a is x² + ax + 9 > 0 for all x?|a < 6|a > −6|a ≤ −6 or a ≥ 6|−6 < a < 6|3|All x work when D = a² − 36 < 0, so −6 < a < 6.
+Which way do the branches of y = −2x² + 1 point?|up|left|down|right|2|The coefficient a = −2 is negative, so the branches point down.
+Solve x² + 1 > 0.|no solutions|all real x|x > 0|x ≠ 0|1|x² ≥ 0 for all x, so x² + 1 ≥ 1 > 0 always.
+Which of these is a quadratic function?|y = x² − 3x + 2|y = 2x + 1|y = 1/x|y = x³|0|A quadratic function has the form ax² + bx + c with a ≠ 0. Only y = x² − 3x + 2 fits.
+What is the minimum value of y = x² − 6x + 10?|10|3|−1|1|3|x₀ = 3 and y₀ = 9 − 18 + 10 = 1.
+What are the zeros of y = x² − 6x + 5?|−1 and −5|1 and −5|1 and 5|5 and 6|2|x² − 6x + 5 = (x − 1)(x − 5), so the zeros are 1 and 5.
+The parabola y = x² + px + q has its vertex at (1, −4). What is q?|−4|−3|3|−5|1|y = (x − 1)² − 4 = x² − 2x − 3, so q = −3.
+What is the axis of symmetry of y = 2x² + 8x − 1?|x = −2|x = 2|x = −4|x = 4|0|x₀ = −8 / (2 · 2) = −2.
+What is the maximum value of y = −x² + 4x?|2|0|−4|4|3|x₀ = 2 and y₀ = −4 + 8 = 4. The branches go down, so this is the maximum.
+What is the value of y = x² − 4x + 3 at x = 0?|−3|0|3|1|2|At x = 0 only the constant term remains, so y = 3.
+The graph of y = ax² + bx + c (a ≠ 0) is a|straight line|parabola|hyperbola|circle|1|The graph of any quadratic function is a parabola.
+For which c does y = x² − 4x + c have exactly one zero?|c = 4|c = −4|c = 2|c = 16|0|One zero means D = 16 − 4c = 0, so c = 4.
+The x-coordinate of the vertex of y = ax² + bx + c is|b / (2a)|−b / a|2a / b|−b / (2a)|3|The vertex formula is x₀ = −b / (2a).
+Solve x² − 5x + 6 ≤ 0.|(−∞; 2] ∪ [3; +∞)|(2; 3)|[2; 3]|[−3; −2]|2|The zeros are 2 and 3. The branches go up, so the parabola is not above the axis between the zeros.

@@ -1,0 +1,6 @@
+{
+  "Number sequences": "A sequence is given by a formula for the nth term or by a recurrence rule. It can be increasing or decreasing.",
+  "Arithmetic progression": "Each term adds the common difference d. aₙ = a₁ + (n − 1)d, and each middle term is the mean of its neighbors.",
+  "Geometric progression": "Each term is multiplied by the common ratio q. bₙ = b₁qⁿ⁻¹, and bₙ² = bₙ₋₁bₙ₊₁ for positive terms.",
+  "Sums of progressions": "Arithmetic: Sₙ = (a₁ + aₙ)n / 2. Geometric: Sₙ = b₁(qⁿ − 1) / (q − 1). If |q| < 1 the infinite sum is b₁ / (1 − q)."
+}

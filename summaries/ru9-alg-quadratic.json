@@ -1,0 +1,6 @@
+{
+  "Quadratic function and its graph": "y = ax² + bx + c with a ≠ 0 has a parabola as its graph. The sign of a sets the direction of the branches, c is the y-intercept, and the zeros come from the discriminant D = b² − 4ac.",
+  "Properties of the parabola": "The vertex is at x₀ = −b / (2a) and the axis of symmetry is x = x₀. For a > 0 the vertex gives the minimum value, for a < 0 the maximum.",
+  "Quadratic inequalities": "Find the zeros, sketch the parabola, then read off where it is above or below the x-axis. Include the zeros only for ≥ and ≤.",
+  "The interval method": "Factor, mark zeros on a number line (denominator zeros are excluded), check one sign, alternate signs, and pick the intervals that match the inequality."
+}
