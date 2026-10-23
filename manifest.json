@@ -1,11 +1,27 @@
 {
  "countries": {
+  "DE": {
+   "bytes": 69478,
+   "currentYear": "2026-2027",
+   "files": 30,
+   "name": "Germany",
+   "rev": "3f29f91090",
+   "year": "2026-2027"
+  },
   "IR": {
    "bytes": 483103,
    "currentYear": "2026-2027",
    "files": 134,
    "name": "Iran",
    "rev": "b67d571fd8",
+   "year": "2026-2027"
+  },
+  "RU": {
+   "bytes": 18415,
+   "currentYear": "2026-2027",
+   "files": 18,
+   "name": "Russia",
+   "rev": "2118c7baf7",
    "year": "2026-2027"
   },
   "US": {
