@@ -1,0 +1,6 @@
+{
+ "Bogenmaß und Einheitskreis": "Das Bogenmaß x eines Winkels α ist die Länge des zugehörigen Bogens am Einheitskreis: x = α · π/180°. Wichtig sind 90° = π/2, 180° = π und 360° = 2π. Am Einheitskreis hat der Punkt zum Winkel α die Koordinaten (cos α, sin α). Wichtige Werte: sin 30° = 1/2, sin 45° = √2/2, sin 60° = √3/2.",
+ "Sinus- und Kosinusfunktion": "Die Funktionen sin x und cos x haben die Periode 2π und den Wertebereich −1 ≤ y ≤ 1. Der Sinus ist punktsymmetrisch zum Ursprung, der Kosinus achsensymmetrisch zur y-Achse. Es gilt sin²x + cos²x = 1, tan x = sin x : cos x, und cos(x − π/2) = sin x. Der Tangens ist bei π/2 + kπ nicht definiert.",
+ "Amplitude, Periode und Verschiebung": "Für f(x) = a · sin(b · (x − c)) + d gilt: Die Amplitude ist |a|, die Periode ist 2π : |b|, c verschiebt in x-Richtung und d in y-Richtung. Der Wertebereich ist d − |a| ≤ y ≤ d + |a|. Beispiel: f(x) = 4 · sin(3x) hat Amplitude 4 und Periode 2π/3.",
+ "Trigonometrische Gleichungen": "Für sin x = k hat man im Intervall [0, 2π] die Lösungen x₁ = arcsin k und x₂ = π − x₁. Für cos x = k sind die Lösungen x₁ = arccos k und x₂ = 2π − x₁. Weitere Lösungen erhält man durch Addition von 2π · k. Beispiele: sin x = 1/2 ergibt π/6 und 5π/6, cos x = −1/2 ergibt 2π/3 und 4π/3."
+}

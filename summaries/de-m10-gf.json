@@ -1,0 +1,6 @@
+{
+ "Grad, Verhalten im Unendlichen und Symmetrie": "Eine ganzrationale Funktion ist eine Summe von Potenzen xⁿ mit Koeffizienten, der Grad ist die höchste Potenz. Das Verhalten für x → ±∞ bestimmt der Term mit der höchsten Potenz. Nur gerade Exponenten bedeuten Achsensymmetrie zur y-Achse, nur ungerade Exponenten Punktsymmetrie zum Ursprung. Der y-Achsenabschnitt ist f(0).",
+ "Nullstellen und Linearfaktoren": "Nullstellen findet man durch Ausklammern, mit dem Satz vom Nullprodukt, mit der pq-Formel oder durch Substitution (z = x²). Ist f(a) = 0, dann ist (x − a) ein Linearfaktor. Eine Funktion vom Grad n hat höchstens n Nullstellen. Bei einer doppelten Nullstelle berührt der Graph die x-Achse, bei einer einfachen schneidet er sie.",
+ "Polynomdivision": "Kennt man eine Nullstelle a, dividiert man f(x) durch (x − a) und erhält ein Polynom mit kleinerem Grad. Beispiel: (x³ − 6x² + 11x − 6) : (x − 1) = x² − 5x + 6 = (x − 2)(x − 3), also hat f die Nullstellen 1, 2 und 3. Erste Nullstellen findet man oft durch Probieren von Teilern des Absolutglieds.",
+ "Graphen skizzieren": "Zum Skizzieren untersucht man der Reihe nach: Symmetrie, y-Achsenabschnitt, Nullstellen, Verhalten für x → ±∞ und bei Bedarf eine Wertetabelle. Beispiel: f(x) = x³ − 4x ist punktsymmetrisch, hat die Nullstellen −2, 0 und 2 und geht links nach unten und rechts nach oben."
+}

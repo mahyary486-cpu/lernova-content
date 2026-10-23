@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie groß ist der Winkel 180° im Bogenmaß?|π|2π|1|π/2|0|Der Halbkreis hat die Bogenlänge π am Einheitskreis.
+Wie groß ist der Winkel 90° im Bogenmaß?|π|π/3|π/2|π/4|2|90° ist ein Viertel des Vollwinkels: 2π : 4 = π/2.
+Wie groß ist der Vollwinkel 360° im Bogenmaß?|2π|4π|π|π/2|0|Der Umfang des Einheitskreises ist 2π.
+Wie groß ist der Winkel 60° im Bogenmaß?|π/3|2π/3|π/4|π/6|0|60 · π/180 = π/3.
+Wie rechnet man einen Winkel α in Grad ins Bogenmaß x um?|x = α · 360°/π|x = α · 180°/π|x = α · π/180°|x = α + π|2|180° entsprechen π, also multipliziert man mit π/180°.
+Wie groß ist sin 0?|0|−1|0,5|1|0|Der Punkt (1, 0) hat die y-Koordinate 0.
+Wie groß ist cos 0?|0|−1|1|0,5|2|Der Punkt (1, 0) hat die x-Koordinate 1.
+Wie groß ist sin(π/2)?|1/2|0|−1|1|3|Bei π/2 liegt der Punkt (0, 1) auf dem Einheitskreis.
+Wie groß ist cos π?|−1|1|−π|0|0|Bei π liegt der Punkt (−1, 0) auf dem Einheitskreis.
+Welche Periode hat die Sinusfunktion f(x) = sin x?|2π|4π|π/2|π|0|Nach 2π wiederholen sich die Funktionswerte.
+Welchen Wertebereich hat f(x) = sin x?|alle reellen Zahlen|0 ≤ y ≤ 1|−1 ≤ y ≤ 1|−π ≤ y ≤ π|2|Die y-Koordinate auf dem Einheitskreis liegt zwischen −1 und 1.
+Welche Koordinaten hat der Punkt auf dem Einheitskreis zum Winkel α?|(sin α, cos α)|(tan α, 1)|(α, α)|(cos α, sin α)|3|Die x-Koordinate ist cos α und die y-Koordinate ist sin α.
+Wie groß ist sin 30°?|√3/2|1|√2/2|1/2|3|sin 30° = sin(π/6) = 1/2.
+Welche Zahl ist eine Nullstelle von f(x) = sin x?|3π/2|π/4|π|π/2|2|sin π = 0, während sin(π/2) = 1 und sin(3π/2) = −1.
+Wo schneidet der Graph von f(x) = cos x die y-Achse?|bei y = −1|bei y = π|bei y = 0|bei y = 1|3|cos 0 = 1.
+Welche Symmetrie hat der Graph von f(x) = sin x?|Achsensymmetrie zur x-Achse|Symmetrie zur Geraden y = x|Achsensymmetrie zur y-Achse|Punktsymmetrie zum Ursprung|3|Es gilt sin(−x) = −sin x.
+Welche Symmetrie hat der Graph von f(x) = cos x?|Achsensymmetrie zur x-Achse|Achsensymmetrie zur y-Achse|Symmetrie zur Geraden x = π|Punktsymmetrie zum Ursprung|1|Es gilt cos(−x) = cos x.
+Wie groß ist der Winkel 45° im Bogenmaß?|π/2|3π/4|π/4|π/6|2|45 · π/180 = π/4.
+Wie groß ist der Winkel 3π/2 in Grad?|270°|180°|360°|90°|0|3π/2 · 180°/π = 270°.
+Wie groß ist der Winkel 5π/6 in Grad?|210°|135°|150°|120°|2|5π/6 · 180°/π = 150°.
+Wie groß ist der Winkel 225° im Bogenmaß?|5π/4|5π/6|7π/4|3π/4|0|225 · π/180 = 5π/4.
+Wie groß ist sin(π/4)?|1|√2/2 ≈ 0,71|1/2|√3/2 ≈ 0,87|1|Bei 45° sind x- und y-Koordinate gleich: √2/2.
+Wie groß ist cos(π/3)?|0|√3/2|√2/2|1/2|3|cos 60° = 1/2.
+Welche Amplitude hat f(x) = 3 · sin x?|1/3|3|6|1|1|Die Amplitude ist der Betrag des Vorfaktors.
+Welche Periode hat f(x) = sin(2x)?|2π|π|π/2|4π|1|Die Periode ist 2π : 2 = π.
+Welche Periode hat f(x) = sin(x/2)?|π/2|2π|4π|π|2|Die Periode ist 2π : (1/2) = 4π.
+Welchen Wertebereich hat f(x) = sin x + 2?|1 ≤ y ≤ 3|0 ≤ y ≤ 2|2 ≤ y ≤ 4|−1 ≤ y ≤ 1|0|Der Graph von sin x wird um 2 nach oben verschoben.
+Welche Funktion beschreibt denselben Graphen wie g(x) = cos(x − π/2)?|cos x|−sin x|sin x|−cos x|2|Die Kosinuskurve, um π/2 nach rechts verschoben, ist die Sinuskurve.
+Welche Lösung hat sin x = 1 im Intervall [0, 2π]?|x = π|x = 3π/2|x = 0|x = π/2|3|sin(π/2) = 1.
+Welche Lösungen hat cos x = 0 im Intervall [0, 2π]?|π und 2π|π/2 und π|0 und π|π/2 und 3π/2|3|Die x-Koordinate ist 0 bei 90° und 270°.
+Welche Lösungen hat sin x = 1/2 im Intervall [0, π]?|π/3 und 2π/3|π/6 und π/3|π/6 und 7π/6|π/6 und 5π/6|3|x₁ = π/6 und x₂ = π − π/6 = 5π/6.
+Welche Gleichung gilt für alle x?|sin²x + cos²x = 1|sin x · cos x = 1|sin²x − cos²x = 1|sin x + cos x = 1|0|Das ist der Satz des Pythagoras am Einheitskreis.
+Wie ist der Tangens durch Sinus und Kosinus definiert?|tan x = 1 : sin x|tan x = cos x : sin x|tan x = sin x · cos x|tan x = sin x : cos x|3|tan x = Gegenkathete : Ankathete = sin x : cos x.
+Welchen Hochpunkt hat f(x) = 2 · cos x im Intervall [−π/2, π/2]?|(0, −2)|(0, 2)|(π/2, 2)|(0, 1)|1|cos 0 = 1, also f(0) = 2.
+Wie viele Nullstellen hat f(x) = sin x im Intervall [0, 2π]?|1|3|2|4|1|Nullstellen bei 0, π und 2π.
+Welche Amplitude und welche Periode hat f(x) = 4 · sin(3x)?|Amplitude 3, Periode 2π/3|Amplitude 12, Periode 2π|Amplitude 4, Periode 6π|Amplitude 4, Periode 2π/3|3|Amplitude = 4, Periode = 2π : 3.
+Welche Lösungen hat 2 · sin x = √2 im Intervall [0, 2π]?|π/3 und 2π/3|π/4 und 3π/4|π/4 und 7π/4|π/4 und 5π/4|1|sin x = √2/2: x₁ = π/4 und x₂ = π − π/4 = 3π/4.
+Welche Lösungen hat cos x = −1/2 im Intervall [0, 2π]?|2π/3 und 5π/3|π/6 und 11π/6|π/3 und 5π/3|2π/3 und 4π/3|3|x₁ = 2π/3 und x₂ = 2π − 2π/3 = 4π/3.
+Welche Periode hat f(x) = 3 · sin(πx)?|2π|π|1|2|3|Periode = 2π : π = 2.
+Der Graph von f(x) = sin(2x − π) entsteht aus dem von sin(2x) durch eine Verschiebung um …|π/2 nach links|π nach links|π/2 nach rechts|π nach rechts|2|sin(2x − π) = sin(2 · (x − π/2)).
+Welchen Wertebereich hat f(x) = −3 · cos x + 1?|1 ≤ y ≤ 3|−4 ≤ y ≤ 2|−3 ≤ y ≤ 3|−2 ≤ y ≤ 4|3|Minimum −3 · 1 + 1 = −2, Maximum −3 · (−1) + 1 = 4.
+Wie viele Nullstellen hat f(x) = sin(2x) im Intervall [0, 2π]?|3|2|5|4|2|Nullstellen bei 0, π/2, π, 3π/2 und 2π.
+Die Temperatur eines Tages wird durch T(t) = 12 + 8 · sin(πt/12) beschrieben (t in Stunden). Welche Periode hat T?|24 Stunden|8 Stunden|12 Stunden|2π Stunden|0|Periode = 2π : (π/12) = 24.
+Für T(t) = 12 + 8 · sin(πt/12) (Temperatur in °C): Wie hoch ist die Höchsttemperatur?|20 °C|12 °C|28 °C|8 °C|0|Maximum = 12 + 8 = 20.
+Wie groß ist tan(π/4)?|nicht definiert|0|√3|1|3|sin(π/4) = cos(π/4), also ist der Quotient 1.
+Bei welchem Wert ist tan x nicht definiert?|x = π|x = 0|x = π/2|x = π/4|2|Dort ist cos x = 0, und man darf nicht durch 0 teilen.
+Es gilt sin x = 3/5 und x liegt im ersten Quadranten. Wie groß ist cos x?|4/5|3/4|2/5|16/25|0|cos²x = 1 − 9/25 = 16/25, also cos x = 4/5.
+Es gilt sin x = 3/5 und cos x = 4/5. Wie groß ist tan x?|4/3|5/4|3/4|12/25|2|tan x = (3/5) : (4/5) = 3/4.
+Welche Lösung hat sin x = cos x im Intervall [0, π]?|x = π/4|x = 3π/4|x = π/3|x = π/2|0|Bei π/4 sind sin und cos beide √2/2. Bei 3π/4 haben sie unterschiedliche Vorzeichen.
+Wie verändert sich der Graph, wenn man von f(x) = sin x zu g(x) = sin(2x) übergeht?|Er wird in y-Richtung verdoppelt.|Er wird in x-Richtung auf die Hälfte gestaucht.|Er wird um 2 nach links verschoben.|Er wird in x-Richtung auf das Doppelte gestreckt.|1|Die Periode halbiert sich von 2π auf π.

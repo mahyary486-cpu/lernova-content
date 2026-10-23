@@ -1387,6 +1387,50 @@
               "title": "Exponentialgleichungen und Anwendungen"
             }
           ]
+        },
+        {
+          "id": "de-m10-tf",
+          "title": "Trigonometrische Funktionen",
+          "lessons": [
+            {
+              "id": "de-m10-tf-01",
+              "title": "Bogenmaß und Einheitskreis"
+            },
+            {
+              "id": "de-m10-tf-02",
+              "title": "Sinus- und Kosinusfunktion"
+            },
+            {
+              "id": "de-m10-tf-03",
+              "title": "Amplitude, Periode und Verschiebung"
+            },
+            {
+              "id": "de-m10-tf-04",
+              "title": "Trigonometrische Gleichungen"
+            }
+          ]
+        },
+        {
+          "id": "de-m10-gf",
+          "title": "Ganzrationale Funktionen",
+          "lessons": [
+            {
+              "id": "de-m10-gf-01",
+              "title": "Grad, Verhalten im Unendlichen und Symmetrie"
+            },
+            {
+              "id": "de-m10-gf-02",
+              "title": "Nullstellen und Linearfaktoren"
+            },
+            {
+              "id": "de-m10-gf-03",
+              "title": "Polynomdivision"
+            },
+            {
+              "id": "de-m10-gf-04",
+              "title": "Graphen skizzieren"
+            }
+          ]
         }
       ]
     }

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Funktion ist eine ganzrationale Funktion?|f(x) = 2^x|f(x) = √x|f(x) = x³ − 2x + 1|f(x) = 1/x|2|Ganzrationale Funktionen sind Summen von Potenzen xⁿ mit n = 0, 1, 2, … und Koeffizienten.
+Welchen Grad hat f(x) = 3x⁴ − x + 7?|7|3|4|1|2|Der Grad ist die höchste vorkommende Potenz von x.
+Welchen Grad hat die konstante Funktion f(x) = 5?|0|5|Sie hat keinen Grad.|1|0|f(x) = 5 · x⁰, also Grad 0.
+Welchen Grad hat f(x) = 2x · (x² + 1)?|1|2|4|3|3|Ausmultipliziert: 2x³ + 2x, also Grad 3.
+Welchen Graphen hat eine ganzrationale Funktion vom Grad 1?|eine Hyperbel|eine Parabel|einen Kreis|eine Gerade|3|f(x) = mx + b ist linear.
+Welchen Graphen hat eine ganzrationale Funktion vom Grad 2?|eine Parabel|eine Gerade|einen Kreis|eine Hyperbel|0|f(x) = ax² + bx + c ist quadratisch.
+Wie viele Nullstellen kann eine ganzrationale Funktion 3. Grades höchstens haben?|2|1|3|4|2|Eine Funktion vom Grad n hat höchstens n Nullstellen.
+Wie viele Nullstellen kann eine quadratische Funktion höchstens haben?|2|3|1|4|0|Grad 2 bedeutet höchstens 2 Nullstellen.
+Wie groß ist der y-Achsenabschnitt von f(x) = x³ − 2x + 5?|0|−2|3|5|3|f(0) = 5.
+Welche Symmetrie hat der Graph von f(x) = x²?|Achsensymmetrie zur y-Achse|Achsensymmetrie zur x-Achse|Punktsymmetrie zum Ursprung|keine Symmetrie|0|Es gilt f(−x) = f(x).
+Welche Symmetrie hat der Graph von f(x) = x³?|keine Symmetrie|Achsensymmetrie zur y-Achse|Achsensymmetrie zur x-Achse|Punktsymmetrie zum Ursprung|3|Es gilt f(−x) = −f(x).
+Wie lautet die Nullstelle von f(x) = x − 4?|x = 1/4|x = 0|x = 4|x = −4|2|x − 4 = 0 ergibt x = 4.
+Welche Nullstellen hat f(x) = x² − 9?|0 und 3|3 und −3|nur 3|9 und −9|1|x² = 9 ergibt x = 3 oder x = −3.
+Welche Nullstellen hat f(x) = x · (x − 2)?|nur 2|0 und 2|1 und 2|0 und −2|1|Ein Produkt ist 0, wenn ein Faktor 0 ist.
+Was gibt der Grad einer ganzrationalen Funktion an?|die Anzahl der Summanden|die genaue Anzahl der Nullstellen|den größten Koeffizienten|die höchste vorkommende Potenz von x|3|Der Grad ist der größte Exponent mit von 0 verschiedenem Koeffizienten.
+Was bedeutet f(−x) = f(x) für alle x?|Der Graph hat bei 0 eine Nullstelle.|Der Graph ist achsensymmetrisch zur y-Achse.|Der Graph ist punktsymmetrisch zum Ursprung.|Der Graph ist periodisch.|1|Das ist die Bedingung für Achsensymmetrie zur y-Achse.
+Wie groß ist f(2) für f(x) = x² − 3x + 1?|1|3|−1|−3|2|f(2) = 4 − 6 + 1 = −1.
+Welche Nullstellen hat f(x) = x³ − 4x?|nur −2 und 2|−4, 0 und 4|−2, 0 und 2|0 und 4|2|x · (x² − 4) = x · (x − 2) · (x + 2).
+Welche Nullstellen hat f(x) = x² − 5x + 6?|2 und 3|−1 und −6|−2 und −3|1 und 6|0|x² − 5x + 6 = (x − 2) · (x − 3).
+Welche Nullstellen hat f(x) = x² + 2x − 8?|−4 und 2|4 und −2|−8 und 1|2 und 4|0|x² + 2x − 8 = (x + 4) · (x − 2).
+Was besagt der Satz vom Nullprodukt?|Ein Produkt ist 0, wenn die Summe der Faktoren 0 ist.|Ein Produkt ist 0, wenn alle Faktoren gleich sind.|Ein Produkt ist 0, wenn mindestens ein Faktor 0 ist.|Ein Produkt ist 0, wenn alle Faktoren 0 sind.|2|Das nutzt man beim Lösen faktorisierter Gleichungen.
+Welche Nullstellen hat f(x) = (x − 1)(x + 2)(x − 3)?|1, 2 und 3|1, −2 und −3|−1, 2 und −3|1, −2 und 3|3|Jeder Linearfaktor liefert eine Nullstelle: x − a = 0 ergibt x = a.
+Welche Nullstellen hat f(x) = x³ − x²?|nur 1|0 und −1|0 und 1|−1 und 1|2|x² · (x − 1) = 0 ergibt x = 0 (doppelt) oder x = 1.
+Wie verhält sich f(x) = x³ − 5x für x → −∞?|f(x) → 0|f(x) → +∞|f(x) → 5|f(x) → −∞|3|Das Glied mit der höchsten Potenz bestimmt das Verhalten: x³ → −∞.
+Wie verhält sich f(x) = −x⁴ + 3x² für x → +∞?|f(x) → +∞|f(x) → 0|f(x) → −∞|f(x) → 3|2|Der Leitterm −x⁴ geht gegen −∞.
+Wie verhält sich der Graph bei geradem Grad und positivem Leitkoeffizienten?|Beide Enden gehen nach oben.|Links unten, rechts oben.|Beide Enden gehen nach unten.|Links oben, rechts unten.|0|Beispiel: f(x) = x² oder f(x) = x⁴.
+Wie verhält sich der Graph bei ungeradem Grad und positivem Leitkoeffizienten?|Links unten, rechts oben.|Links oben, rechts unten.|Beide Enden gehen nach unten.|Beide Enden gehen nach oben.|0|Beispiel: f(x) = x³.
+Welche Symmetrie hat f(x) = x⁴ − x²?|keine Symmetrie|Das lässt sich nicht bestimmen.|Punktsymmetrie zum Ursprung|Achsensymmetrie zur y-Achse|3|Es kommen nur gerade Exponenten vor.
+Welche Symmetrie hat f(x) = x³ + x?|Achsensymmetrie zur y-Achse|Punktsymmetrie zum Ursprung|Symmetrie zur x-Achse|keine Symmetrie|1|Es kommen nur ungerade Exponenten vor.
+Welche Symmetrie hat f(x) = x² + x?|weder achsen- noch punktsymmetrisch|beides|punktsymmetrisch zum Ursprung|achsensymmetrisch zur y-Achse|0|Gerade und ungerade Exponenten kommen gemischt vor.
+Welche Lösungen hat x⁴ − 5x² + 4 = 0?|±1 und ±2|±1 und ±4|nur 1 und 2|1 und 4|0|Mit z = x²: z² − 5z + 4 = 0 ergibt z = 1 oder z = 4, also x = ±1 oder x = ±2.
+Welche Zerlegung in Linearfaktoren gilt für f(x) = 2x³ − 8x?|2x · (x − 2)²|2x · (x − 4) · (x + 4)|2x · (x − 2) · (x + 2)|2 · (x − 2) · (x + 2)|2|Ausklammern: 2x · (x² − 4) = 2x · (x − 2) · (x + 2).
+Welche Nullstelle von f(x) = (x + 1)² · (x − 3) ist doppelt?|x = −3|x = 3|x = −1|x = 1|2|Der Faktor (x + 1) kommt zweimal vor.
+Was passiert im Graphen bei einer doppelten Nullstelle?|Der Graph hat eine Polstelle.|Der Graph berührt die x-Achse.|Der Graph hat einen Sprung.|Der Graph schneidet die x-Achse mit Vorzeichenwechsel.|1|Bei geradem Vielfachheitsgrad gibt es keinen Vorzeichenwechsel.
+Was passiert im Graphen bei einer einfachen Nullstelle?|Der Graph hat einen Hochpunkt.|Der Graph schneidet die x-Achse mit Vorzeichenwechsel.|Der Graph ist dort nicht definiert.|Der Graph berührt die x-Achse nur.|1|Bei ungeradem Vielfachheitsgrad wechselt das Vorzeichen.
+Wie groß ist der y-Achsenabschnitt von f(x) = (x − 1)(x − 2)(x − 3)?|6|−1|−6|0|2|f(0) = (−1) · (−2) · (−3) = −6.
+Was ergibt die Polynomdivision (x³ − 6x² + 11x − 6) : (x − 1)?|x² − 6x + 5|x² + 5x + 6|x² − 5x − 6|x² − 5x + 6|3|Probe: (x − 1)(x² − 5x + 6) = x³ − 6x² + 11x − 6.
+Welche Nullstellen hat f(x) = x³ − 6x² + 11x − 6?|1, 2 und 3|1, 3 und 6|1, 2 und 6|−1, −2 und −3|0|x = 1 ist Nullstelle, die Division liefert x² − 5x + 6 = (x − 2)(x − 3).
+Welche Nullstellen hat f(x) = x³ − 2x² − 5x + 6?|1, 2 und 3|−2, 1 und 3|−3, −1 und 2|−2, −1 und 3|1|f(1) = 0, die Division durch (x − 1) liefert x² − x − 6 = (x − 3)(x + 2).
+Es gilt f(a) = 0 für eine ganzrationale Funktion f. Was folgt daraus?|f(x) ist immer symmetrisch.|(x + a) ist ein Linearfaktor von f(x).|(x − a) ist ein Linearfaktor von f(x).|f hat den Grad a.|2|Deshalb geht die Polynomdivision durch (x − a) ohne Rest auf.
+Welche Lösungen hat x⁴ − 10x² + 9 = 0?|±1 und ±3|1 und 9|±1 und ±9|nur ±3|0|Mit z = x²: z² − 10z + 9 = 0 ergibt z = 1 oder z = 9.
+Welche Lösungen hat x³ − 3x² = 0?|−3 und 0|0, 1 und 3|0 und 3|nur 3|2|x² · (x − 3) = 0 ergibt x = 0 (doppelt) oder x = 3.
+Warum hat jede ganzrationale Funktion 5. Grades mindestens eine Nullstelle?|Weil der Grad kleiner als 6 ist.|Der Grad ist ungerade, die Enden des Graphen liegen auf verschiedenen Seiten der x-Achse.|Weil der y-Achsenabschnitt 0 ist.|Weil der Graph achsensymmetrisch ist.|1|Bei ungeradem Grad geht ein Ende nach +∞ und das andere nach −∞, der Graph muss die x-Achse schneiden.
+Wie viele reelle Nullstellen hat f(x) = x⁴ − 1?|0|2|4|1|1|x⁴ − 1 = (x² − 1)(x² + 1), nur x² − 1 liefert reelle Lösungen ±1.
+Wie viele reelle Nullstellen hat f(x) = x⁴ + 4x² + 3?|1|2|0|4|2|Mit z = x²: z² + 4z + 3 = 0 ergibt z = −1 oder z = −3, beides negativ.
+Bei welchen x-Werten schneiden sich f(x) = x² und g(x) = x³?|nur x = 1|x = 0 und x = 1|x = −1 und x = 1|x = −1, 0 und 1|1|x² = x³ ergibt x² · (1 − x) = 0.
+Eine Funktion 3. Grades hat die Nullstellen −1, 2 und 3 und es gilt f(0) = 12. Wie lautet der Vorfaktor a in f(x) = a · (x + 1)(x − 2)(x − 3)?|2|6|1/2|12|0|f(0) = a · 1 · (−2) · (−3) = 6a = 12, also a = 2.
+Wie verhält sich f(x) = −2x³ + x an den Enden?|x → −∞: f(x) → +∞, x → +∞: f(x) → −∞|beide Enden gehen nach +∞|x → −∞: f(x) → −∞, x → +∞: f(x) → +∞|beide Enden gehen nach −∞|0|Leitterm −2x³: ungerader Grad und negativer Leitkoeffizient.
+Welche Symmetrie hat f(x) = (x² − 1)(x² − 4)?|Punktsymmetrie zum Ursprung|beides|Achsensymmetrie zur y-Achse|weder noch|2|Ausmultipliziert: x⁴ − 5x² + 4, nur gerade Exponenten.
+Wie viele verschiedene Nullstellen hat f(x) = x · (x − 1)² · (x + 2)?|4|3|1|2|1|Die Nullstellen sind 0, 1 (doppelt) und −2.
