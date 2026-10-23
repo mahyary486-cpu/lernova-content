@@ -1,0 +1,6 @@
+{
+ "Exponentielles Wachstum und Zerfall": "Bei exponentiellem Wachstum oder Zerfall wird der Bestand in gleichen Zeitschritten mit demselben Faktor q multipliziert: N(t) = N₀ · qᵗ. Für q > 1 wächst der Bestand, für 0 < q < 1 nimmt er ab. Eine Zunahme um p % entspricht q = 1 + p/100, eine Abnahme um p % entspricht q = 1 − p/100.",
+ "Exponentialfunktionen und ihre Graphen": "Eine Exponentialfunktion hat die Form f(x) = c · aˣ mit a > 0, a ≠ 1. Der Graph von aˣ geht durch (0|1). Für a > 1 ist er streng steigend, für 0 < a < 1 streng fallend. Die x-Achse ist waagerechte Asymptote. Der Graph von aˣ + d hat die Asymptote y = d.",
+ "Der Logarithmus": "Der Logarithmus log_a(b) ist die Lösung x der Gleichung aˣ = b (a > 0, a ≠ 1, b > 0). Wichtige Werte: log_a(1) = 0, log_a(a) = 1. Rechenregeln: log(u · v) = log u + log v, log(u / v) = log u − log v, log(uʳ) = r · log u. Der Zehnerlogarithmus lg hat die Basis 10, der natürliche Logarithmus ln die Basis e.",
+ "Exponentialgleichungen und Anwendungen": "Exponentialgleichungen der Form aˣ = b löst man mit dem Logarithmus: x = log_a(b) = lg(b) / lg(a). Anwendungen sind Zinseszins K(n) = K₀ · (1 + p/100)ⁿ, Verdopplungszeit, Halbwertszeit und Abkühl- oder Zerfallsprozesse."
+}

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Berechne f(3) für f(x) = 2ˣ.|9|16|6|8|3|f(3) = 2³ = 2 · 2 · 2 = 8.
+Berechne f(0) für f(x) = 3ˣ.|1|−3|3|0|0|Jede Potenz mit Exponent 0 ergibt 1.
+Durch welchen Punkt gehen alle Graphen von f(x) = aˣ?|(0; 1)|(1; 0)|(0; 0)|(1; 1)|0|a⁰ = 1 für jedes a > 0.
+Wie verläuft der Graph von f(x) = aˣ für a > 1?|Periodisch|Konstant|Streng monoton steigend|Streng monoton fallend|2|Für a > 1 werden die Funktionswerte mit wachsendem x immer größer.
+Wie verläuft der Graph von f(x) = aˣ für 0 < a < 1?|Konstant|Immer negativ|Streng monoton steigend|Streng monoton fallend|3|Für 0 < a < 1 nehmen die Funktionswerte ab.
+Welcher Wachstumsfaktor gehört zu einer Zunahme um 5 % pro Jahr?|5|0,05|1,05|0,95|2|q = 1 + 5/100 = 1,05.
+Welcher Faktor gehört zu einer Abnahme um 10 %?|10|0,1|0,9|1,1|2|q = 1 − 10/100 = 0,9.
+Was ergibt log₂(8)?|3|2|4|16|0|2³ = 8, also log₂(8) = 3.
+Was ergibt log₁₀(100)?|10|2|1|100|1|10² = 100.
+Was ergibt log₃(9)?|1/2|3|2|27|2|3² = 9.
+Was ergibt log_a(1)?|Nicht definiert|0|1|a|1|a⁰ = 1, also log_a(1) = 0.
+Was ergibt log_a(a)?|a²|0|1|a|2|a¹ = a.
+Was bedeutet log_a(b) = x?|aˣ = b|bˣ = a|xᵃ = b|a · x = b|0|Der Logarithmus ist der Exponent, mit dem man a potenzieren muss, um b zu erhalten.
+Ein Bestand von 100 verdoppelt sich einmal. Wie groß ist er danach?|10 000|300|150|200|3|100 · 2 = 200.
+Was ist die Halbwertszeit?|Die Zeit, in der sich ein Bestand verdoppelt|Die Zeit, in der ein Viertel zerfällt|Die Zeit, in der alles zerfällt|Die Zeit, in der sich ein Bestand halbiert|3|Nach einer Halbwertszeit ist nur noch die Hälfte vorhanden.
+Welche Funktion beschreibt exponentielles Wachstum?|f(x) = 5 · 1,2ˣ|f(x) = 5 + 1,2x|f(x) = 1,2x²|f(x) = 5/x|0|Die Variable steht im Exponenten, die Basis ist größer als 1.
+Welche Gerade ist waagerechte Asymptote von f(x) = aˣ?|Die x-Achse (y = 0)|Die y-Achse|y = 1|x = 1|0|Der Graph nähert sich der x-Achse an, ohne sie zu berühren.
+Ein Kapital von 1 000 € wird 2 Jahre mit 3 % Zinseszins verzinst. Wie hoch ist es danach?|1 060,00 €|1 600,90 €|1 090,90 €|1 060,90 €|3|K = 1 000 · 1,03² = 1 060,90 €.
+Bakterien verdoppeln sich jede Stunde, am Anfang sind es 500. Wie viele sind es nach 3 Stunden?|12 000|3 000|4 000|1 500|2|500 · 2³ = 4 000.
+Berechne f(2) für f(x) = 2 · 3ˣ.|12|18|36|9|1|f(2) = 2 · 9 = 18.
+Bei f(x) = 100 · 0,8ˣ nimmt der Bestand pro Schritt um wie viel ab?|8 %|80 %|20 %|0,8 %|2|q = 0,8 = 1 − 0,2, also Abnahme um 20 %.
+Löse 2ˣ = 32.|x = 5|x = 16|x = 6|x = 4|0|32 = 2⁵.
+Löse 3ˣ = 1/9.|x = −2|x = 2|x = 1/9|x = −3|0|1/9 = 3⁻².
+Berechne log₂(32).|5|4|16|6|0|2⁵ = 32.
+Berechne log₅(125).|5|3|25|2|1|5³ = 125.
+Berechne log₁₀(0,001).|0,001|−3|3|−2|1|10⁻³ = 0,001.
+Welche Regel gilt für Logarithmen?|log(u · v) = log u − log v|log(u · v) = log u · log v|log(u · v) = log u / log v|log(u · v) = log u + log v|3|Der Logarithmus verwandelt Produkte in Summen.
+Berechne log₂(4) + log₂(8).|12|5|6|32|1|2 + 3 = 5 (= log₂(32)).
+Berechne log₃(81) − log₃(3).|3|78|1|4|0|4 − 1 = 3 (= log₃(27)).
+Berechne 2 · log₂(8).|6|16|3|8|0|2 · 3 = 6.
+Welche waagerechte Asymptote hat f(x) = 2ˣ + 1?|y = 0|y = 1|x = 1|y = 2|1|Der Graph von 2ˣ wird um 1 nach oben verschoben, die Asymptote ebenso.
+Wie entsteht der Graph von f(x) = 2ˣ⁺¹ aus dem Graphen von 2ˣ?|Verschiebung um 1 nach links|Verschiebung um 1 nach unten|Verschiebung um 1 nach rechts|Verschiebung um 1 nach oben|0|Bei f(x + d) wird der Graph um d nach links verschoben.
+Eine Substanz hat die Halbwertszeit 5 Tage. Von 80 g sind nach 15 Tagen noch wie viel übrig?|5 g|40 g|20 g|10 g|3|15 Tage sind 3 Halbwertszeiten: 80 · (1/2)³ = 10 g.
+Welcher Zunahme entspricht der Wachstumsfaktor q = 1,5?|150 %|15 %|50 %|1,5 %|2|q = 1 + 0,5.
+Löse 5ˣ = 125.|x = 2|x = 25|x = 3|x = 5|2|125 = 5³.
+Was ergibt ln(e)?|e|1|0|e²|1|ln ist der Logarithmus zur Basis e, und e¹ = e.
+Löse 2ˣ = 10 mit dem Taschenrechner.|x ≈ 3,32|x ≈ 8|x ≈ 0,30|x ≈ 5|0|x = lg(10)/lg(2) = 1/0,301 ≈ 3,32.
+Nach etwa wie vielen Jahren verdoppelt sich ein Kapital bei 4 % Zinseszins?|ca. 8,8 Jahren|ca. 17,7 Jahren|ca. 4 Jahren|ca. 25 Jahren|1|1,04ⁿ = 2 ergibt n = ln 2 / ln 1,04 ≈ 17,7.
+Eine Bevölkerung wächst jährlich um 2 %. Mit welchem Faktor ist sie nach 10 Jahren gewachsen?|1,02|1,20|2,00|ca. 1,22|3|1,02¹⁰ ≈ 1,219. Prozente werden multipliziert, nicht addiert.
+Die Halbwertszeit beträgt 8 Tage. Welcher Anteil ist nach 24 Tagen noch vorhanden?|25 %|6,25 %|33,3 %|12,5 %|3|24 Tage sind 3 Halbwertszeiten: (1/2)³ = 1/8 = 12,5 %.
+Von einer Exponentialfunktion f(x) = c · aˣ gilt f(0) = 3 und f(1) = 6. Wie lautet sie?|f(x) = 3 · 3ˣ|f(x) = 6 · 3ˣ|f(x) = 3 · 2ˣ|f(x) = 3 · 6ˣ|2|c = f(0) = 3 und a = f(1)/f(0) = 2.
+Berechne log₂(8⁴).|12|32|3|4|0|log₂(8⁴) = 4 · log₂(8) = 4 · 3 = 12.
+Berechne lg(2) + lg(5).|10|0,7|1|7|2|lg(2) + lg(5) = lg(10) = 1.
+Löse log₂(x) = 4.|x = 8|x = 16|x = 6|x = 32|1|log₂(x) = 4 bedeutet x = 2⁴ = 16.
+Löse 3 · 2ˣ = 48.|x = 3|x = 4|x = 8|x = 16|1|Durch 3 teilen: 2ˣ = 16 = 2⁴.
+Löse 4ˣ = 2ˣ⁺³.|x = 2|x = 1,5|x = 3|x = 6|2|4ˣ = 2²ˣ, also 2x = x + 3 und x = 3.
+200 mg eines Stoffs zerfallen mit 20 % pro Stunde. Wie viel ist nach 3 Stunden noch da?|120 mg|160 mg|102,4 mg|80 mg|2|200 · 0,8³ = 102,4 mg.
+Löse 1,05ˣ = 2.|x ≈ 2,1|x ≈ 14,2|x ≈ 20|x ≈ 40|1|x = ln 2 / ln 1,05 ≈ 14,2.
+Löse lg(x) = −2.|x = 100|x = 0,01|x = 0,2|x = −100|1|lg(x) = −2 bedeutet x = 10⁻² = 0,01.
+Ein Wirkstoff halbiert sich alle 4 Stunden. Nach wie vielen Stunden sind noch 6,25 % übrig?|12 Stunden|25 Stunden|8 Stunden|16 Stunden|3|6,25 % = 1/16 = (1/2)⁴, also 4 · 4 = 16 Stunden.

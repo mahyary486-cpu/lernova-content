@@ -1,7 +1,7 @@
 {
  "country": "DE",
  "year": "2026-2027",
- "rev": "1792742477",
+ "rev": "1792742655",
  "grades": [
   {
    "grade": 9,
@@ -97,6 +97,35 @@
      ]
     }
    ]
+  },
+  {
+   "grade": 10,
+   "country": "DE",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "de-m10-el",
+     "title": "Exponentialfunktionen und Logarithmen",
+     "lessons": [
+      {
+       "id": "de-m10-el-01",
+       "title": "Exponentielles Wachstum und Zerfall"
+      },
+      {
+       "id": "de-m10-el-02",
+       "title": "Exponentialfunktionen und ihre Graphen"
+      },
+      {
+       "id": "de-m10-el-03",
+       "title": "Der Logarithmus"
+      },
+      {
+       "id": "de-m10-el-04",
+       "title": "Exponentialgleichungen und Anwendungen"
+      }
+     ]
+    }
+   ]
   }
  ],
  "files": {
@@ -123,6 +152,12 @@
   "details/de-m9-pt-02.md": "4c848fe8e5b1",
   "details/de-m9-pt-03.md": "38bb0af76545",
   "details/de-m9-pt-04.md": "826f0dc1c4eb",
-  "banks/de-m9-pt.txt": "0d47c6db53c6"
+  "banks/de-m9-pt.txt": "0d47c6db53c6",
+  "summaries/de-m10-el.json": "24f71968ebd9",
+  "details/de-m10-el-01.md": "944681d1d551",
+  "details/de-m10-el-02.md": "9302bacb69ff",
+  "details/de-m10-el-03.md": "6a9a8ab78226",
+  "details/de-m10-el-04.md": "fe2acc2393f7",
+  "banks/de-m10-el.txt": "cf3f99437880"
  }
 }

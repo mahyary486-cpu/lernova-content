@@ -15,6 +15,14 @@
    "name": "United States",
    "rev": "fb97fbd82b",
    "year": "2026-2027"
+  },
+  "DE": {
+   "bytes": 69478,
+   "currentYear": "2026-2027",
+   "files": 30,
+   "name": "Germany",
+   "rev": "1792742655",
+   "year": "2026-2027"
   }
  }
 }
