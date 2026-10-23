@@ -1221,6 +1221,130 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "country": "DE",
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "de-m9-qf",
+          "title": "Quadratische Funktionen und Gleichungen",
+          "lessons": [
+            {
+              "id": "de-m9-qf-01",
+              "title": "Parabeln und Scheitelpunktform"
+            },
+            {
+              "id": "de-m9-qf-02",
+              "title": "Quadratische Ergänzung"
+            },
+            {
+              "id": "de-m9-qf-03",
+              "title": "Quadratische Gleichungen lösen"
+            },
+            {
+              "id": "de-m9-qf-04",
+              "title": "Nullstellen, Schnittpunkte und Anwendungen"
+            }
+          ]
+        },
+        {
+          "id": "de-m9-pw",
+          "title": "Potenzen und Wurzeln",
+          "lessons": [
+            {
+              "id": "de-m9-pw-01",
+              "title": "Potenzen mit ganzzahligen Exponenten"
+            },
+            {
+              "id": "de-m9-pw-02",
+              "title": "Potenzgesetze und Zehnerpotenzen"
+            },
+            {
+              "id": "de-m9-pw-03",
+              "title": "Quadratwurzeln und Rechenregeln"
+            },
+            {
+              "id": "de-m9-pw-04",
+              "title": "n-te Wurzeln und rationale Exponenten"
+            }
+          ]
+        },
+        {
+          "id": "de-m9-ae",
+          "title": "Ähnlichkeit und Strahlensätze",
+          "lessons": [
+            {
+              "id": "de-m9-ae-01",
+              "title": "Ähnliche Figuren und Streckfaktor"
+            },
+            {
+              "id": "de-m9-ae-02",
+              "title": "Ähnliche Dreiecke"
+            },
+            {
+              "id": "de-m9-ae-03",
+              "title": "Die Strahlensätze"
+            },
+            {
+              "id": "de-m9-ae-04",
+              "title": "Anwendungen der Ähnlichkeit"
+            }
+          ]
+        },
+        {
+          "id": "de-m9-pt",
+          "title": "Satz des Pythagoras und Trigonometrie",
+          "lessons": [
+            {
+              "id": "de-m9-pt-01",
+              "title": "Der Satz des Pythagoras"
+            },
+            {
+              "id": "de-m9-pt-02",
+              "title": "Anwendungen des Satzes von Pythagoras"
+            },
+            {
+              "id": "de-m9-pt-03",
+              "title": "Sinus, Kosinus und Tangens"
+            },
+            {
+              "id": "de-m9-pt-04",
+              "title": "Berechnungen mit Trigonometrie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "country": "DE",
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "de-m10-el",
+          "title": "Exponentialfunktionen und Logarithmen",
+          "lessons": [
+            {
+              "id": "de-m10-el-01",
+              "title": "Exponentielles Wachstum und Zerfall"
+            },
+            {
+              "id": "de-m10-el-02",
+              "title": "Exponentialfunktionen und ihre Graphen"
+            },
+            {
+              "id": "de-m10-el-03",
+              "title": "Der Logarithmus"
+            },
+            {
+              "id": "de-m10-el-04",
+              "title": "Exponentialgleichungen und Anwendungen"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
