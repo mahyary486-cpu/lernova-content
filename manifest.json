@@ -1,11 +1,11 @@
 {
  "countries": {
   "DE": {
-   "bytes": 69478,
+   "bytes": 100812,
    "currentYear": "2026-2027",
-   "files": 30,
+   "files": 42,
    "name": "Germany",
-   "rev": "3f29f91090",
+   "rev": "a5178413b0",
    "year": "2026-2027"
   },
   "IR": {
