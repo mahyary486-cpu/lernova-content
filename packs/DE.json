@@ -1,7 +1,7 @@
 {
  "country": "DE",
  "year": "2026-2027",
- "rev": "1792656168",
+ "rev": "1792741306",
  "grades": [
   {
    "grade": 9,
@@ -29,6 +29,28 @@
        "title": "Nullstellen, Schnittpunkte und Anwendungen"
       }
      ]
+    },
+    {
+     "id": "de-m9-pw",
+     "title": "Potenzen und Wurzeln",
+     "lessons": [
+      {
+       "id": "de-m9-pw-01",
+       "title": "Potenzen mit ganzzahligen Exponenten"
+      },
+      {
+       "id": "de-m9-pw-02",
+       "title": "Potenzgesetze und Zehnerpotenzen"
+      },
+      {
+       "id": "de-m9-pw-03",
+       "title": "Quadratwurzeln und Rechenregeln"
+      },
+      {
+       "id": "de-m9-pw-04",
+       "title": "n-te Wurzeln und rationale Exponenten"
+      }
+     ]
     }
    ]
   }
@@ -39,6 +61,12 @@
   "details/de-m9-qf-02.md": "7db0306a63f1",
   "details/de-m9-qf-03.md": "84d518156a3b",
   "details/de-m9-qf-04.md": "4bd88fa816b0",
-  "banks/de-m9-qf.txt": "bec753dc9702"
+  "banks/de-m9-qf.txt": "bec753dc9702",
+  "summaries/de-m9-pw.json": "f9c8406401fa",
+  "details/de-m9-pw-01.md": "fcdbb5d63ef0",
+  "details/de-m9-pw-02.md": "9798738cf970",
+  "details/de-m9-pw-03.md": "2bb806ea5ebd",
+  "details/de-m9-pw-04.md": "3002dde2e553",
+  "banks/de-m9-pw.txt": "034ef580756a"
  }
 }

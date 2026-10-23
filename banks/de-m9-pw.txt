@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Berechne 2⁵.|25|64|10|32|3|2⁵ = 2 · 2 · 2 · 2 · 2 = 32.
+Berechne 3⁴.|81|27|64|12|0|3⁴ = 3 · 3 · 3 · 3 = 81.
+Was ergibt 5⁰?|1|0|5|Nicht definiert|0|Jede Zahl ungleich null hoch 0 ergibt 1.
+Berechne 10³.|10 000|100|1 000|30|2|10³ = 10 · 10 · 10 = 1 000.
+Was ergibt 2⁻¹?|2|−1/2|−2|1/2|3|a⁻ⁿ = 1/aⁿ, also 2⁻¹ = 1/2.
+Berechne (−2)².|−2|−4|4|2|2|(−2) · (−2) = 4. Die Klammer gehört zur Basis.
+Berechne −2² (ohne Klammer).|2|4|−4|−2|2|Nur die 2 wird quadriert: −(2 · 2) = −4.
+Was ergibt √49?|7|−7|24,5|49|0|7 · 7 = 49. Die Quadratwurzel ist nicht negativ.
+Was ergibt √100?|50|10|1 000|100|1|10 · 10 = 100.
+Welche Zahl ist eine Quadratzahl?|18|50|64|72|2|64 = 8 · 8.
+Was bedeutet a³?|a · 3|a · a · a|a + a + a|3 · a|1|Der Exponent gibt an, wie oft die Basis als Faktor auftritt.
+Was ergibt ³√27?|81|9|3|13,5|2|3 · 3 · 3 = 27.
+Berechne √9 + √16.|7|12|5|25|0|√9 + √16 = 3 + 4 = 7.
+Wie schreibt man 1 000 000 als Zehnerpotenz?|6¹⁰|10⁷|10⁵|10⁶|3|Eine Million ist eine 1 mit sechs Nullen.
+Wie lautet 3 000 in wissenschaftlicher Schreibweise?|0,3 · 10³|3 · 10²|30 · 10³|3 · 10³|3|3 000 = 3 · 1 000 = 3 · 10³.
+Vereinfache x² · x³.|x⁵|x⁶|2x⁵|x|0|Gleiche Basis, Exponenten addieren: 2 + 3 = 5.
+Was ergibt 1⁸⁷?|1|87|0|8|0|Jede Potenz von 1 ist 1.
+Vereinfache 2³ · 2⁴.|2¹²|4¹²|4⁷|2⁷|3|Gleiche Basis: 3 + 4 = 7, also 2⁷ = 128.
+Vereinfache 5⁶ : 5².|5⁸|1⁴|5⁴|5³|2|Exponenten subtrahieren: 6 − 2 = 4.
+Vereinfache (3²)³.|3⁸|3⁶|3⁵|9⁵|1|Exponenten multiplizieren: 2 · 3 = 6. 3⁶ = 729.
+Berechne (2 · 3)².|18|13|36|12|2|(2 · 3)² = 6² = 36. Nicht verwechseln mit 2 · 3² = 18.
+Berechne 4⁻².|1/16|−16|−8|1/8|0|4⁻² = 1/4² = 1/16.
+Berechne 2⁻³.|1/8|−6|1/6|−8|0|2⁻³ = 1/2³ = 1/8.
+Berechne (1/2)⁻².|4|1/4|−1/4|−4|0|(1/2)⁻² = 2² = 4 (Kehrwert der Basis).
+Vereinfache √50 durch teilweises Wurzelziehen.|2√5|5√2|25√2|10√2|1|√50 = √(25 · 2) = 5√2.
+Vereinfache √12.|6|2√3|3√2|4√3|1|√12 = √(4 · 3) = 2√3.
+Berechne √2 · √8.|16|√10|2√2|4|3|√2 · √8 = √16 = 4.
+Was ergibt √((−5)²)?|25|5|−5|0|1|√25 = 5. Die Wurzel ist nie negativ.
+Was ergibt ³√64?|4|8|32|16|0|4 · 4 · 4 = 64.
+Mache den Nenner rational: 1/√2|√2/2|2√2|√2|1/2|0|Erweitern mit √2: √2 / (√2 · √2) = √2/2.
+Wie lautet 3,2 · 10⁴ als ausgeschriebene Zahl?|3 200|32 000|320 000|12,8|1|3,2 · 10 000 = 32 000.
+Wie lautet 0,00045 in wissenschaftlicher Schreibweise?|4,5 · 10⁻⁴|4,5 · 10⁻³|4,5 · 10⁴|45 · 10⁻⁴|0|Das Komma wandert 4 Stellen nach rechts, also 10⁻⁴.
+Welche Aussage ist im Allgemeinen falsch?|a⁰ = 1 (für a ≠ 0)|(a · b)² = a² · b²|√(a · b) = √a · √b (für a, b ≥ 0)|√(a + b) = √a + √b|3|Gegenbeispiel: √(9 + 16) = 5, aber √9 + √16 = 7.
+Vereinfache x⁵ · x⁻².|x⁻³|x⁷|x³|x¹⁰|2|5 + (−2) = 3.
+Vereinfache (2x)³.|6x³|2x³|8x³|8x|2|(2x)³ = 2³ · x³ = 8x³.
+Zwischen welchen ganzen Zahlen liegt √20?|5 und 6|4 und 5|3 und 4|2 und 3|1|16 < 20 < 25, also 4 < √20 < 5.
+Berechne √72 − √18.|3√2|3√3|6√2|√54|0|√72 = 6√2 und √18 = 3√2, Differenz 3√2.
+Berechne (√3 + 1)(√3 − 1).|√3|2|2√3|4|1|Dritte binomische Formel: 3 − 1 = 2.
+Berechne (2√3)².|9|6|4√3|12|3|(2√3)² = 4 · 3 = 12.
+Berechne 2⁵ · 2⁻².|10|4|1/8|8|3|5 + (−2) = 3, also 2³ = 8.
+Vereinfache (a³ · a⁻¹)² : a².|a⁻²|a|a²|a⁴|2|(a²)² : a² = a⁴ : a² = a².
+Berechne 8^(1/3).|2|8/3|24|1/8|0|8^(1/3) = ³√8 = 2.
+Berechne 27^(2/3).|3|81|9|18|2|27^(2/3) = (³√27)² = 3² = 9.
+Berechne 16^(−1/2).|−4|1/4|−1/4|4|1|16^(−1/2) = 1/√16 = 1/4.
+Mache den Nenner rational: 6/√3|3√2|2√3|2/√3|6√3|1|6/√3 = 6√3/3 = 2√3.
+Welche dieser Zahlen ist irrational?|1/3|√16|√7|0,25|2|7 ist keine Quadratzahl, √7 ist irrational. √16 = 4 ist rational.
+Löse 2ˣ = 1/32.|x = −16|x = 1/5|x = −5|x = 5|2|1/32 = 2⁻⁵, also x = −5.
+Löse √(x + 1) = 3.|x = 10|x = 8|x = 2|x = 4|1|Quadrieren: x + 1 = 9, also x = 8. Probe: √9 = 3.
+Ein Quadrat hat die Fläche 50 cm². Wie lang ist eine Seite?|5 cm|5√2 cm (≈ 7,07 cm)|2√5 cm (≈ 4,47 cm)|25 cm|1|a = √50 = 5√2 ≈ 7,07 cm.
+Licht legt 3 · 10⁸ m pro Sekunde zurück. Wie lange braucht es für 1,5 · 10¹¹ m (Erde–Sonne)?|5 000 s|0,5 s|50 s|500 s|3|(1,5 · 10¹¹) : (3 · 10⁸) = 0,5 · 10³ = 500 s.
