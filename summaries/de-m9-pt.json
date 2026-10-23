@@ -1,0 +1,6 @@
+{
+ "Der Satz des Pythagoras": "In einem rechtwinkligen Dreieck liegt die Hypotenuse c gegenüber dem rechten Winkel, die beiden anderen Seiten heißen Katheten a und b. Es gilt a² + b² = c². Beispiel: Katheten 3 cm und 4 cm ergeben die Hypotenuse 5 cm. Die Umkehrung des Satzes erlaubt es, rechte Winkel nachzuweisen.",
+ "Anwendungen des Satzes von Pythagoras": "Mit dem Satz des Pythagoras berechnet man Diagonalen in Rechteck und Quadrat (d = a√2), Höhen in gleichschenkligen und gleichseitigen Dreiecken (h = a/2 · √3) und Raumdiagonalen in Quadern: d = √(a² + b² + c²). Auch Leiter-, Rampen- und Seilbahnaufgaben lassen sich so lösen.",
+ "Sinus, Kosinus und Tangens": "Im rechtwinkligen Dreieck gilt für einen spitzen Winkel α: sin α = Gegenkathete : Hypotenuse, cos α = Ankathete : Hypotenuse, tan α = Gegenkathete : Ankathete. Wichtige Werte: sin 30° = 0,5, cos 60° = 0,5, tan 45° = 1. Außerdem gilt sin²α + cos²α = 1.",
+ "Berechnungen mit Trigonometrie": "Mit sin, cos und tan berechnet man fehlende Seiten bei gegebenem Winkel und umgekehrt Winkel mit sin⁻¹, cos⁻¹ und tan⁻¹ (Taschenrechner im Gradmodus). Anwendungen sind Höhen- und Tiefenwinkel, Steigungen (Steigung in % = 100 · tan α) und Entfernungsbestimmungen."
+}

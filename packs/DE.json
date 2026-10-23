@@ -1,7 +1,7 @@
 {
  "country": "DE",
  "year": "2026-2027",
- "rev": "1792741737",
+ "rev": "1792742477",
  "grades": [
   {
    "grade": 9,
@@ -73,6 +73,28 @@
        "title": "Anwendungen der Ähnlichkeit"
       }
      ]
+    },
+    {
+     "id": "de-m9-pt",
+     "title": "Satz des Pythagoras und Trigonometrie",
+     "lessons": [
+      {
+       "id": "de-m9-pt-01",
+       "title": "Der Satz des Pythagoras"
+      },
+      {
+       "id": "de-m9-pt-02",
+       "title": "Anwendungen des Satzes von Pythagoras"
+      },
+      {
+       "id": "de-m9-pt-03",
+       "title": "Sinus, Kosinus und Tangens"
+      },
+      {
+       "id": "de-m9-pt-04",
+       "title": "Berechnungen mit Trigonometrie"
+      }
+     ]
     }
    ]
   }
@@ -95,6 +117,12 @@
   "details/de-m9-ae-02.md": "f58d1d83360d",
   "details/de-m9-ae-03.md": "af7288cd2e3e",
   "details/de-m9-ae-04.md": "0c1410cff06c",
-  "banks/de-m9-ae.txt": "2efffc8b5664"
+  "banks/de-m9-ae.txt": "2efffc8b5664",
+  "summaries/de-m9-pt.json": "17dd0e2bddda",
+  "details/de-m9-pt-01.md": "f3f0328f14b7",
+  "details/de-m9-pt-02.md": "4c848fe8e5b1",
+  "details/de-m9-pt-03.md": "38bb0af76545",
+  "details/de-m9-pt-04.md": "826f0dc1c4eb",
+  "banks/de-m9-pt.txt": "0d47c6db53c6"
  }
 }

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie heißt die Seite, die im rechtwinkligen Dreieck dem rechten Winkel gegenüberliegt?|Höhe|Diagonale|Kathete|Hypotenuse|3|Die Hypotenuse liegt dem rechten Winkel gegenüber und ist die längste Seite.
+Wie heißen die beiden Seiten, die den rechten Winkel einschließen?|Katheten|Radien|Sehnen|Hypotenusen|0|Die beiden Seiten am rechten Winkel heißen Katheten.
+Wie lautet der Satz des Pythagoras (c = Hypotenuse)?|a² + b² = c²|a + b = c|a² − b² = c²|a² + b² = c|0|Die Quadrate der Katheten ergeben zusammen das Quadrat der Hypotenuse.
+Die Katheten eines rechtwinkligen Dreiecks sind 3 cm und 4 cm lang. Wie lang ist die Hypotenuse?|25 cm|12 cm|5 cm|7 cm|2|c² = 9 + 16 = 25, also c = 5 cm.
+Die Katheten sind 6 cm und 8 cm lang. Wie lang ist die Hypotenuse?|48 cm|100 cm|14 cm|10 cm|3|c² = 36 + 64 = 100, also c = 10 cm.
+Die Hypotenuse ist 13 cm, eine Kathete 5 cm lang. Wie lang ist die andere Kathete?|144 cm|8 cm|12 cm|18 cm|2|b² = 169 − 25 = 144, also b = 12 cm.
+Welches ist ein pythagoreisches Zahlentripel?|5, 6, 7|2, 3, 4|3, 4, 5|4, 5, 7|2|3² + 4² = 9 + 16 = 25 = 5².
+Welchen Wert hat die Diagonale eines Quadrats mit der Seitenlänge 1?|√2 ≈ 1,41|1,5|2|1|0|d² = 1² + 1² = 2, also d = √2.
+Wo gilt der Satz des Pythagoras?|In jedem Dreieck|Nur im rechtwinkligen Dreieck|Nur im gleichseitigen Dreieck|In jedem Viereck|1|Der Satz gilt ausschließlich für rechtwinklige Dreiecke.
+Welche Seite ist im rechtwinkligen Dreieck die längste?|Die kürzeste Kathete|Eine Kathete|Die Hypotenuse|Die Höhe|2|Die Hypotenuse ist immer länger als jede Kathete.
+Wie ist der Sinus eines Winkels α im rechtwinkligen Dreieck definiert?|Hypotenuse : Gegenkathete|Gegenkathete : Hypotenuse|Ankathete : Hypotenuse|Gegenkathete : Ankathete|1|sin α = Gegenkathete / Hypotenuse.
+Wie ist der Kosinus eines Winkels α definiert?|Ankathete : Gegenkathete|Gegenkathete : Hypotenuse|Ankathete : Hypotenuse|Gegenkathete : Ankathete|2|cos α = Ankathete / Hypotenuse.
+Wie ist der Tangens eines Winkels α definiert?|Gegenkathete : Ankathete|Ankathete : Hypotenuse|Ankathete : Gegenkathete|Gegenkathete : Hypotenuse|0|tan α = Gegenkathete / Ankathete.
+Wie groß ist sin 30°?|0|0,87|1|0,5|3|sin 30° = 1/2.
+Wie groß ist cos 60°?|0,87|1|0|0,5|3|cos 60° = 1/2.
+Wie groß ist tan 45°?|1|0|0,5|√2|0|Bei 45° sind Gegen- und Ankathete gleich lang, also tan 45° = 1.
+Wie groß ist die Summe der beiden spitzen Winkel in einem rechtwinkligen Dreieck?|90°|180°|45°|360°|0|180° − 90° = 90°.
+Die Katheten sind 9 cm und 12 cm lang. Wie lang ist die Hypotenuse?|21 cm|225 cm|108 cm|15 cm|3|c² = 81 + 144 = 225, also c = 15 cm.
+Wie lang ist die Diagonale eines Rechtecks mit den Seiten 6 cm und 8 cm?|28 cm|48 cm|10 cm|14 cm|2|d = √(36 + 64) = 10 cm.
+Wie lang ist die Diagonale eines Quadrats mit der Seite 5 cm?|2,5√2 cm|5√2 cm ≈ 7,07 cm|10 cm|25√2 cm|1|d = a · √2 = 5√2 ≈ 7,07 cm.
+Eine 5 m lange Leiter steht 3 m von der Wand entfernt. Wie hoch reicht sie?|2 m|8 m|4 m|5,8 m|2|h² = 25 − 9 = 16, also h = 4 m.
+Ein Dreieck hat die Seiten 5 cm, 12 cm, 13 cm. Was gilt?|Es ist rechtwinklig, der rechte Winkel liegt gegenüber der Seite 13 cm|Es ist rechtwinklig, der rechte Winkel liegt gegenüber der Seite 5 cm|Es ist nicht rechtwinklig|Es ist rechtwinklig, der rechte Winkel liegt gegenüber der Seite 12 cm|0|25 + 144 = 169 = 13². Der rechte Winkel liegt gegenüber der längsten Seite.
+Ein Dreieck hat die Seiten 4 cm, 5 cm, 6 cm. Ist es rechtwinklig?|Nein, weil 4² + 5² = 41 ≠ 36 = 6²|Ja, weil 4 + 5 > 6|Nein, weil 4² + 6² = 5²|Ja, weil 4² + 5² = 6²|0|Die Umkehrung des Satzes von Pythagoras ist nicht erfüllt.
+Wie hoch ist ein gleichseitiges Dreieck mit der Seitenlänge 2 cm?|√3 cm ≈ 1,73 cm|√5 cm ≈ 2,24 cm|1,5 cm|1 cm|0|h² = 2² − 1² = 3, also h = √3.
+In einem Dreieck ist die Gegenkathete 3, die Hypotenuse 5. Wie groß ist sin α?|0,75|0,6|0,8|1,67|1|sin α = 3/5 = 0,6.
+In einem Dreieck ist die Ankathete 4, die Hypotenuse 5. Wie groß ist cos α?|0,75|0,8|0,6|1,25|1|cos α = 4/5 = 0,8.
+In einem Dreieck ist die Gegenkathete 3, die Ankathete 4. Wie groß ist tan α?|1,33|0,6|0,8|0,75|3|tan α = 3/4 = 0,75.
+Eine Straße hat eine Steigung von 100 %. Wie groß ist der Steigungswinkel?|60°|45°|30°|90°|1|100 % bedeuten tan α = 1, also α = 45°.
+Eine Straße hat 10 % Steigung. Wie groß ist etwa der Steigungswinkel?|ca. 5,7°|ca. 10°|ca. 45°|ca. 0,1°|0|tan α = 0,1, also α = tan⁻¹(0,1) ≈ 5,7°.
+Es gilt sin α = 0,5. Wie groß ist der spitze Winkel α?|30°|60°|45°|0,5°|0|sin⁻¹(0,5) = 30°.
+Die Hypotenuse ist 10 cm lang, α = 30°. Wie lang ist die Gegenkathete von α?|8,7 cm|5 cm|20 cm|3 cm|1|Gegenkathete = 10 · sin 30° = 5 cm.
+Die Hypotenuse ist 10 cm lang, α = 60°. Wie lang ist die Ankathete von α?|5 cm|6 cm|8,7 cm|17,3 cm|0|Ankathete = 10 · cos 60° = 5 cm.
+Ein Baum steht 20 m entfernt, der Höhenwinkel zur Spitze beträgt 45°. Wie hoch ist der Baum (Augenhöhe vernachlässigt)?|28,3 m|40 m|10 m|20 m|3|h = 20 · tan 45° = 20 m.
+In einem rechtwinkligen Dreieck ist α = 35°. Wie groß ist der andere spitze Winkel β?|65°|145°|55°|35°|2|β = 90° − 35° = 55°.
+Welcher Zusammenhang gilt für jeden Winkel α?|sin²α + cos²α = 2|sin²α + cos²α = 0|sin²α + cos²α = 1|sin α + cos α = 1|2|Das folgt aus dem Satz des Pythagoras im Einheitsdreieck.
+Wie berechnet man α, wenn sin α = 0,8 bekannt ist?|Mit cos⁻¹(0,8) ≈ 36,9°|Mit sin⁻¹(0,8) ≈ 53,1°|Mit sin(0,8°) ≈ 0,014|Mit tan⁻¹(0,8) ≈ 38,7°|1|Der Winkel wird mit der Umkehrfunktion sin⁻¹ bestimmt.
+Wie lang ist die Raumdiagonale eines Quaders mit den Kanten 3 cm, 4 cm und 12 cm?|13 cm|5 cm|169 cm|19 cm|0|d = √(9 + 16 + 144) = √169 = 13 cm.
+Wie lang ist die Raumdiagonale eines Würfels mit der Kante a?|2a|a · √3|3a|a · √2|1|d = √(a² + a² + a²) = a · √3.
+Die Diagonale eines Rechtecks ist 13 cm, eine Seite 5 cm lang. Wie groß ist sein Flächeninhalt?|30 cm²|65 cm²|144 cm²|60 cm²|3|Andere Seite 12 cm (13² − 5² = 144), also A = 5 · 12 = 60 cm².
+Ein gleichschenkliges Dreieck hat die Basis 10 cm und die Schenkel 13 cm. Wie hoch ist es?|8 cm|11 cm|8,3 cm|12 cm|3|h² = 13² − 5² = 144, also h = 12 cm.
+Eine Seilbahn überwindet 800 m waagerechte Strecke und 600 m Höhenunterschied. Wie lang ist das Seil?|200 m|700 m|1 000 m|1 400 m|2|s = √(800² + 600²) = √1 000 000 = 1 000 m.
+Eine Rampe ist 6 m lang und hat einen Neigungswinkel von 10°. Welche Höhe überwindet sie ungefähr?|ca. 1,04 m|ca. 5,91 m|ca. 34,6 m|ca. 1,06 m|0|Höhe = 6 · sin 10° ≈ 1,04 m.
+Ein Turm wird aus 50 m Entfernung unter einem Höhenwinkel von 30° gesehen. Wie hoch ist er ungefähr?|ca. 43,3 m|ca. 86,6 m|ca. 28,9 m|ca. 25 m|2|h = 50 · tan 30° ≈ 28,9 m.
+Die Katheten eines Dreiecks sind 5 cm und 12 cm. Wie groß ist der Winkel α gegenüber der 5-cm-Kathete?|ca. 67,4°|ca. 22,6°|ca. 24,6°|ca. 0,4°|1|tan α = 5/12, also α = tan⁻¹(5/12) ≈ 22,6°.
+Wie groß ist der Flächeninhalt eines gleichseitigen Dreiecks mit der Seite 6 cm?|9 cm²|9√3 cm² ≈ 15,6 cm²|36√3 cm²|18 cm²|1|h = 3√3, A = 1/2 · 6 · 3√3 = 9√3 ≈ 15,6 cm².
+Ein 6 m hoher Mast wirft bei einer Sonnenhöhe von 40° einen Schatten. Wie lang ist er ungefähr?|ca. 9,33 m|ca. 5,03 m|ca. 7,15 m|ca. 4,60 m|2|Schatten = 6 : tan 40° ≈ 7,15 m.
+Ein gleichschenklig-rechtwinkliges Dreieck hat die Hypotenuse 10 cm. Wie lang sind die Katheten?|10√2 cm|7,5 cm|5√2 cm ≈ 7,07 cm|5 cm|2|2a² = 100, a² = 50, a = 5√2.
+Ein Flugzeug steigt unter 15° und legt 4 km zurück. Welche Höhe gewinnt es ungefähr?|ca. 1,07 km|ca. 1,04 km|ca. 3,86 km|ca. 15 km|1|Höhe = 4 · sin 15° ≈ 1,04 km.
+Eine Straße hat 12 % Steigung. Welchen Höhenunterschied überwindet man auf 500 m waagerechter Strecke?|600 m|60 m|41,7 m|12 m|1|500 · 0,12 = 60 m.
+Welche Gleichung ist richtig?|sin 35° = sin 55°|sin 35° = tan 55°|sin 35° = cos 35°|sin 35° = cos 55°|3|Im rechtwinkligen Dreieck gilt sin α = cos(90° − α).
