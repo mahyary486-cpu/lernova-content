@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Was besagt das Teilchenmodell?|In Feststoffen sind die Teilchen in völliger Ruhe.|Alle Stoffe bestehen aus kleinen, ständig bewegten Teilchen.|Teilchen bewegen sich nur in Gasen.|Alle Stoffe sind lückenlos mit Materie gefüllt.|1|Auch in Feststoffen schwingen die Teilchen um ihre Plätze.
+Welche drei Aggregatzustände unterscheidet man?|hart, weich, flüssig|heiß, warm, kalt|fest, flüssig, gasförmig|Metall, Salz, Wasser|2|Das sind die drei klassischen Aggregatzustände.
+Wie heißt der Übergang von fest nach flüssig?|Schmelzen|Erstarren|Kondensieren|Verdampfen|0|Beim Schmelzen wird aus einem Feststoff eine Flüssigkeit.
+Wie heißt der Übergang von flüssig nach gasförmig?|Verdampfen|Schmelzen|Erstarren|Sublimieren|0|Beim Verdampfen wird aus einer Flüssigkeit ein Gas.
+Wie heißt der Übergang von gasförmig nach flüssig?|Kondensieren|Schmelzen|Erstarren|Verdampfen|0|Kondensieren ist das Gegenteil von Verdampfen.
+Wie groß sind die Abstände zwischen den Teilchen in einem Gas?|null|sehr groß|genauso klein wie im Feststoff|sehr klein|1|Gase lassen sich deshalb leicht zusammendrücken.
+Welcher Stoff ist ein Reinstoff?|Meerwasser|Luft|destilliertes Wasser|Milch|2|Reinstoffe haben einheitliche, feste Eigenschaften.
+Welcher Stoff ist ein Gemisch?|Sauerstoff|Luft|destilliertes Wasser|Eisen|1|Luft besteht aus Stickstoff, Sauerstoff und weiteren Gasen.
+Was ist ein Element?|ein Stoff, der nur flüssig vorkommt|ein Gemisch aus mehreren Stoffen|ein Reinstoff, der sich chemisch nicht weiter zerlegen lässt|eine Verbindung aus mindestens zwei Atomsorten|2|Elemente bestehen aus nur einer Atomsorte.
+Woraus besteht ein Atom?|nur aus Elektronen|aus Molekülen und Ionen|nur aus Protonen|aus Atomkern und Atomhülle|3|Der Kern besteht aus Protonen und Neutronen, die Hülle aus Elektronen.
+Welche elektrische Ladung hat ein Proton?|wechselnd|negativ|positiv|keine|2|Protonen sind positiv geladen.
+Welche elektrische Ladung hat ein Elektron?|positiv|negativ|keine|wechselnd|1|Elektronen sind negativ geladen.
+Welche elektrische Ladung hat ein Neutron?|keine (neutral)|positiv|wechselnd|negativ|0|Neutronen sind elektrisch neutral.
+Wo befindet sich der größte Teil der Masse eines Atoms?|in der Atomhülle|gleichmäßig im ganzen Atom verteilt|in den Elektronen|im Atomkern|3|Protonen und Neutronen sind viel schwerer als Elektronen.
+Was gibt die Ordnungszahl eines Elements an?|die Anzahl der Protonen im Kern|die Masse in Gramm|die Anzahl der Neutronen|die Anzahl der Elektronenschalen|0|Die Ordnungszahl legt das Element fest.
+Welches Symbol hat Wasserstoff?|H|O|W|He|0|H steht für Hydrogenium.
+Welches Symbol hat Natrium?|Na|N|No|Ni|0|Na steht für Natrium.
+Ein Atom hat 6 Protonen und 6 Neutronen. Wie groß ist die Massenzahl?|12|18|6|0|0|Massenzahl = Protonen + Neutronen = 12.
+Ein Natriumatom hat die Massenzahl 23 und die Ordnungszahl 11. Wie viele Neutronen hat es?|34|11|23|12|3|23 − 11 = 12 Neutronen.
+Wie viele Elektronen hat ein neutrales Atom mit der Ordnungszahl 8?|8|16|4|2|0|In einem neutralen Atom gibt es so viele Elektronen wie Protonen.
+Wie viele Elektronen passen höchstens auf die K-Schale?|8|2|1|18|1|Die erste Schale fasst 2 Elektronen.
+Wie viele Elektronen passen höchstens auf die L-Schale?|2|8|18|32|1|Die zweite Schale fasst 8 Elektronen.
+Wie viele Elektronen passen höchstens auf die M-Schale?|32|8|2|18|3|Die dritte Schale fasst bis zu 18 Elektronen.
+Wie lautet die Elektronenverteilung von Natrium (Ordnungszahl 11)?|2-8-2|2-8-1|2-9|8-3|1|Die ersten beiden Schalen sind voll, ein Elektron bleibt für die M-Schale.
+Wie viele Außenelektronen hat Chlor (Ordnungszahl 17)?|1|7|17|8|1|Elektronenverteilung 2-8-7.
+Wie heißen die Elemente der 1. Hauptgruppe?|Erdalkalimetalle|Edelgase|Halogene|Alkalimetalle|3|Lithium, Natrium und Kalium gehören dazu.
+Wie heißen die Elemente der 7. Hauptgruppe?|Edelgase|Halogene|Alkalimetalle|Erdalkalimetalle|1|Fluor, Chlor, Brom und Iod gehören dazu.
+Wie heißen die Elemente der 8. Hauptgruppe?|Halogene|Alkalimetalle|Edelgase|Erdalkalimetalle|2|Helium, Neon und Argon gehören dazu.
+Was gibt die Periode eines Elements im Periodensystem an?|die Neutronenzahl|die Anzahl der besetzten Elektronenschalen|die Anzahl der Außenelektronen|die Atommasse|1|Natrium steht in der 3. Periode und hat drei Schalen.
+Was gibt die Hauptgruppennummer an?|die Anzahl der Schalen|die Anzahl der Neutronen|die Ordnungszahl|die Anzahl der Außenelektronen|3|Elemente einer Gruppe haben gleich viele Außenelektronen.
+Welches Element steht in der 3. Periode und in der 2. Hauptgruppe?|Magnesium|Aluminium|Natrium|Calcium|0|Magnesium hat die Verteilung 2-8-2.
+Warum reagieren Edelgase kaum mit anderen Stoffen?|Sie haben nur ein Außenelektron.|Ihre Außenschale ist voll besetzt.|Sie sind Metalle.|Sie haben keine Elektronen.|1|Eine volle Außenschale ist besonders stabil.
+Was sind Isotope?|Atome desselben Elements mit unterschiedlicher Neutronenzahl|Atome verschiedener Elemente mit gleicher Massenzahl|Atome mit verschiedener Elektronenzahl|Atome mit gleicher Neutronenzahl, aber verschiedener Protonenzahl|0|Isotope haben dieselbe Protonenzahl, aber verschiedene Massenzahlen.
+Wie heißt der Übergang von fest nach gasförmig ohne flüssige Zwischenstufe?|Sublimieren|Kondensieren|Verdampfen|Erstarren|0|Zum Beispiel verschwindet Trockeneis ohne zu schmelzen.
+Wie sind die Teilchen in einer Flüssigkeit angeordnet?|dicht beieinander, aber gegeneinander verschiebbar|fest an ihren Plätzen|in völliger Ruhe|weit voneinander entfernt|0|Deshalb nimmt eine Flüssigkeit die Form des Gefäßes an.
+Bei welcher Temperatur siedet Wasser bei normalem Luftdruck?|0 °C|212 °C|37 °C|100 °C|3|Der Siedepunkt von Wasser beträgt 100 °C bei 1013 hPa.
+Ein Atom hat 17 Protonen und 18 Neutronen. Um welches Element handelt es sich?|Chlor|Argon|Schwefel|Kalium|0|Die Ordnungszahl 17 gehört zu Chlor.
+Ein Atom hat 20 Protonen. Um welches Element handelt es sich?|Calcium|Kalium|Magnesium|Argon|0|Die Ordnungszahl 20 gehört zu Calcium.
+Ein Natriumatom gibt ein Elektron ab. Was entsteht?|ein Na⁻-Ion mit 11 Protonen und 12 Elektronen|ein Na⁺-Ion mit 11 Protonen und 10 Elektronen|ein Na-Atom mit 12 Protonen|ein Na⁺-Ion mit 10 Protonen und 10 Elektronen|1|Die Protonenzahl bleibt, die Elektronenzahl sinkt um 1.
+Ein Chloratom nimmt ein Elektron auf. Was entsteht?|ein Cl⁻-Ion mit 17 Protonen und 18 Elektronen|ein Cl-Atom mit 18 Protonen|ein Cl⁻-Ion mit 18 Protonen und 18 Elektronen|ein Cl⁺-Ion mit 17 Protonen und 16 Elektronen|0|Mit einem zusätzlichen Elektron überwiegt die negative Ladung.
+Wie viele Elektronen hat ein Mg²⁺-Ion (Ordnungszahl 12)?|12|10|14|2|1|12 Elektronen minus 2 abgegebene Elektronen.
+Warum haben Elemente einer Hauptgruppe ähnliche chemische Eigenschaften?|Sie haben gleich viele Protonen.|Sie haben gleich viele Außenelektronen.|Sie haben gleiche Masse.|Sie haben gleich viele Schalen.|1|Die Außenelektronen bestimmen das Reaktionsverhalten.
+Welches Element hat die Elektronenverteilung 2-8-4?|Kohlenstoff|Schwefel|Phosphor|Silicium|3|2 + 8 + 4 = 14 Elektronen, das ist Silicium.
+Was ändert sich innerhalb einer Periode von links nach rechts?|Die Zahl der Schalen steigt.|Es ändert sich nichts.|Die Zahl der Außenelektronen steigt.|Die Zahl der Protonen sinkt.|2|Die Schalenzahl bleibt gleich, die Außenelektronenzahl steigt von 1 auf 8.
+Wie ändert sich der Atomradius innerhalb einer Hauptgruppe von oben nach unten?|Er bleibt gleich.|Er nimmt zu.|Er nimmt ab.|Er nimmt zuerst ab, dann zu.|1|Es kommt jeweils eine Schale hinzu.
+Wie viele Außenelektronen hat ein Argonatom (Ordnungszahl 18)?|2|8|6|18|1|Elektronenverteilung 2-8-8.
+Was gilt für die Wasserstoffisotope ¹H und ²H?|Sie haben gleich viele Neutronen.|Sie sind verschiedene Elemente.|Sie haben gleich viele Protonen, aber unterschiedlich viele Neutronen.|Sie haben verschieden viele Elektronen.|2|¹H hat 0 Neutronen, ²H hat 1 Neutron.
+Wie viele Neutronen hat ein ¹⁴C-Atom (Ordnungszahl 6)?|14|6|8|20|2|14 − 6 = 8.
+Was zeigte Rutherfords Streuversuch?|Atome sind massive, gleichmäßig gefüllte Kugeln.|Die Masse ist in einem winzigen, positiv geladenen Kern konzentriert.|Atome sind unteilbar.|Elektronen befinden sich im Atomkern.|1|Fast alle Teilchen flogen durch die Folie, wenige wurden stark abgelenkt.
+Wie erklärt das Teilchenmodell die Ausdehnung eines Gases beim Erwärmen?|Die Zahl der Teilchen nimmt zu.|Die Teilchen bewegen sich schneller und stoßen stärker an die Wände.|Die Teilchen werden größer.|Die Teilchen werden leichter.|1|Bei höherer Temperatur steigt die Bewegungsenergie der Teilchen.

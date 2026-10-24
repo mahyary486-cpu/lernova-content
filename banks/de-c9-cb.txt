@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Zwischen welchen Teilchen besteht eine Ionenbindung?|zwischen Atomen mit gemeinsamem Elektronenpaar|zwischen Metallatomen|zwischen Molekülen|zwischen entgegengesetzt geladenen Ionen|3|Positive und negative Ionen ziehen sich an.
+Was ist ein Kation?|ein negativ geladenes Ion|ein positiv geladenes Ion|ein Atomkern|ein ungeladenes Atom|1|Kationen entstehen durch Abgabe von Elektronen.
+Was ist ein Anion?|ein Neutron|ein ungeladenes Atom|ein negativ geladenes Ion|ein positiv geladenes Ion|2|Anionen entstehen durch Aufnahme von Elektronen.
+Was tun Metallatome bei der Bildung von Ionen?|Sie nehmen Elektronen auf.|Sie nehmen Neutronen auf.|Sie geben Protonen ab.|Sie geben Elektronen ab.|3|So entstehen positive Ionen.
+Was tun Nichtmetallatome (z. B. Chlor) bei der Bildung von Ionen?|Sie geben Elektronen ab.|Sie nehmen Elektronen auf.|Sie geben Protonen ab.|Sie nehmen Protonen auf.|1|So entstehen negative Ionen.
+Welche Formel hat Natriumchlorid?|Na₂Cl₂|NaCl₂|Na₂Cl|NaCl|3|Na⁺ und Cl⁻ verbinden sich im Verhältnis 1 : 1.
+Was ist eine Atombindung (Elektronenpaarbindung)?|ein gemeinsames Elektronenpaar zweier Atome|die Anziehung zwischen Molekülen|frei bewegliche Elektronen zwischen Atomrümpfen|die Anziehung entgegengesetzt geladener Ionen|0|Beide Atome teilen sich ein Elektronenpaar.
+Wie viele Wasserstoffatome enthält ein Wassermolekül (H₂O)?|1|2|4|3|1|Die tiefgestellte 2 gibt zwei H-Atome an.
+Welche Formel hat Kohlenstoffdioxid?|CO₂|CO|C₂O₂|C₂O|0|Ein Kohlenstoffatom ist mit zwei Sauerstoffatomen verbunden.
+Was kennzeichnet die Metallbindung?|die Anziehung von Anionen und Kationen|die Anziehung zwischen Molekülen|Metallatomrümpfe und frei bewegliche Elektronen|gemeinsame Elektronenpaare zwischen je zwei Atomen|2|Die frei beweglichen Elektronen bilden das Elektronengas.
+Warum leiten Metalle den elektrischen Strom?|Sie enthalten bewegliche Ionen.|Sie enthalten Neutronen.|Sie enthalten frei bewegliche Elektronen.|Sie enthalten Moleküle.|2|Die frei beweglichen Elektronen transportieren Ladung.
+Wann leitet Kochsalz den elektrischen Strom?|in der Schmelze oder in wässriger Lösung|immer|nie|nur als Feststoff|0|Nur dann sind die Ionen beweglich.
+Wie nennt man die regelmäßige Anordnung der Ionen in einem Salz?|Atomkern|Molekülgitter|Ionengitter|Elektronengas|2|Im Ionengitter wechseln sich Kationen und Anionen ab.
+Welche Eigenschaften haben Salze typischerweise?|gasförmig bei Raumtemperatur|hoher Schmelzpunkt und spröde|niedriger Schmelzpunkt und biegsam|gute Leitfähigkeit im festen Zustand|1|Die starken Ionenbindungen erfordern viel Energie zum Schmelzen.
+Welche Eigenschaften haben Metalle typischerweise?|verformbar, glänzend und elektrisch leitfähig|durchsichtig|immer gasförmig|spröde und elektrisch isolierend|0|Das liegt an der Metallbindung.
+Wie viele Atombindungen bildet ein Wasserstoffatom?|4|1|3|2|1|Wasserstoff hat ein Elektron und benötigt ein weiteres für die volle Schale.
+Wie viele Atombindungen bildet ein Kohlenstoffatom in der Regel?|2|4|3|1|1|Kohlenstoff hat vier Außenelektronen.
+Wie viele Elektronen gibt ein Magnesiumatom bei der Ionenbildung ab?|8|3|2|1|2|Aus Mg wird Mg²⁺.
+Welche Formel hat Magnesiumoxid?|MgO|MgO₂|Mg₂O₂|Mg₂O|0|Mg²⁺ und O²⁻ verbinden sich im Verhältnis 1 : 1.
+Welche Formel hat Calciumchlorid?|CaCl|Ca₂Cl|CaCl₂|Ca₂Cl₂|2|Ca²⁺ benötigt zwei Cl⁻-Ionen.
+Welche Formel hat Aluminiumoxid?|AlO₃|AlO|Al₃O₂|Al₂O₃|3|Zwei Al³⁺ (Ladung +6) und drei O²⁻ (Ladung −6).
+Wie viele Elektronen nimmt ein Sauerstoffatom bei der Ionenbildung auf?|2|6|4|1|0|Aus O wird O²⁻.
+Welche Formel hat Ammoniak?|N₃H|NH₂|N₂H₃|NH₃|3|Stickstoff bildet drei Bindungen zu drei Wasserstoffatomen.
+Welche Formel hat Methan?|C₂H₄|C₄H|CH₄|CH₂|2|Kohlenstoff bildet vier Bindungen zu vier Wasserstoffatomen.
+In welcher Form liegt elementarer Sauerstoff vor?|als einzelne O-Atome|als O₄-Molekül|als O₂-Molekül|als O²⁻-Ionen|2|Zwei Sauerstoffatome verbinden sich zu einem Molekül.
+Wie viele gemeinsame Elektronenpaare hat das O₂-Molekül?|1|3|2|4|2|Es liegt eine Doppelbindung vor.
+Wie viele gemeinsame Elektronenpaare hat das N₂-Molekül?|4|3|2|1|1|Es liegt eine Dreifachbindung vor.
+Zwischen welchen Atomen bildet sich typischerweise eine Atombindung?|nur zwischen Metallatomen|zwischen Nichtmetallatomen|zwischen Edelgasatomen|zwischen einem Metall und einem Nichtmetall|1|Nichtmetallatome erreichen durch gemeinsame Elektronenpaare die Edelgaskonfiguration.
+Warum ist das Wassermolekül ein Dipol?|Es ist linear gebaut.|Es ist gewinkelt, und Sauerstoff zieht die Bindungselektronen stärker an.|Wasserstoff zieht die Elektronen stärker an.|Es enthält Ionen.|1|Der Sauerstoff trägt eine negative, die Wasserstoffatome tragen positive Teilladungen.
+Was erklären die Wasserstoffbrückenbindungen zwischen Wassermolekülen?|den ungewöhnlich hohen Siedepunkt von Wasser|die Farbe von Wasser|die Brennbarkeit von Wasser|den niedrigen Siedepunkt von Wasser|0|Die Anziehung zwischen den Molekülen muss beim Sieden überwunden werden.
+Welcher Stoff löst sich gut in Wasser?|Speiseöl|Benzin|Kochsalz|Wachs|2|Polare und ionische Stoffe lösen sich in polarem Wasser.
+Warum löst sich Kochsalz in Wasser?|Wassermoleküle umgeben die Ionen und lösen sie aus dem Gitter.|Salz verdampft im Wasser.|Wasser reagiert mit Salz zu Gas.|Salz schmilzt im Wasser.|0|Dieser Vorgang heißt Hydratation.
+Warum leitet eine Kochsalzlösung den elektrischen Strom?|Sie enthält nur Atome.|Sie enthält freie Elektronen.|Sie enthält nur Moleküle.|Sie enthält frei bewegliche Ionen.|3|Na⁺- und Cl⁻-Ionen transportieren die Ladung.
+Warum leitet eine Zuckerlösung den Strom nicht?|Sie enthält keine frei beweglichen Ionen.|Zucker ist ein Metall.|Wasser leitet nie.|Zucker bildet im Wasser Ionen.|0|Zucker besteht aus Molekülen, die ungeladen bleiben.
+Welcher Stoff hat den höchsten Schmelzpunkt?|Natriumchlorid (801 °C)|Wasser (0 °C)|Sauerstoff (−219 °C)|Methan (−182 °C)|0|Ionenverbindungen haben sehr hohe Schmelzpunkte.
+Warum sind Metalle verformbar?|Gleichnamige Ionen stoßen sich ab.|Es fehlen Elektronen.|Die Atomrümpfe lassen sich verschieben, das Elektronengas hält sie zusammen.|Die Moleküle gleiten aneinander ab.|2|Anders als beim Ionengitter entstehen keine abstoßenden Kräfte.
+Welche Formel hat die Verbindung aus Al³⁺ und SO₄²⁻?|AlSO₄|Al₂(SO₄)₃|Al₃(SO₄)₂|Al(SO₄)₃|1|Zwei Al³⁺ (+6) und drei SO₄²⁻ (−6) ergeben die Gesamtladung 0.
+Welche Formel hat Natriumsulfat (Na⁺ und SO₄²⁻)?|Na₂SO₄|Na(SO₄)₂|NaSO₄|Na₂(SO₄)₂|0|Zwei Na⁺ gleichen ein SO₄²⁻ aus.
+Welche Formel hat Eisen(III)-oxid?|Fe₃O₂|FeO|Fe₂O₃|FeO₃|2|Zwei Fe³⁺ (+6) und drei O²⁻ (−6).
+Wie viele freie Elektronenpaare hat das Stickstoffatom im Ammoniakmolekül NH₃?|3|0|1|2|2|Stickstoff hat 5 Außenelektronen, 3 bilden Bindungen, 2 bilden ein freies Paar.
+Wie viele freie Elektronenpaare hat das Sauerstoffatom im Wassermolekül?|4|0|2|1|2|Sauerstoff hat 6 Außenelektronen, 2 bilden Bindungen, 4 bilden zwei freie Paare.
+Wie viele Außenelektronen haben die drei Atome im CO₂-Molekül insgesamt?|10|16|18|12|1|4 + 6 + 6 = 16.
+Warum ist das CO₂-Molekül trotz polarer Bindungen nach außen unpolar?|Es besteht aus Ionen.|Es ist gewinkelt gebaut.|Es ist linear gebaut, die Teilladungen heben sich auf.|Es hat keine Elektronegativitätsunterschiede.|2|Die beiden gleich starken Dipole zeigen in entgegengesetzte Richtungen.
+Welcher Stoff leitet den elektrischen Strom auch im festen Zustand?|Eis|Kochsalz|Zucker|Kupfer|3|Metalle enthalten frei bewegliche Elektronen.
+Warum hat Diamant einen extrem hohen Schmelzpunkt?|Jedes C-Atom ist über Atombindungen in ein dreidimensionales Netz eingebunden.|Er besteht aus einem Ionengitter.|Er hat Wasserstoffbrückenbindungen.|Er besitzt ein Elektronengas.|0|Man muss Atombindungen aufbrechen, um ihn zu schmelzen.
+Warum leitet Graphit den elektrischen Strom?|In den Schichten gibt es frei bewegliche Elektronen.|Er enthält bewegliche Ionen.|Er besteht aus Metallatomen.|Er hat ein Ionengitter.|0|Jedes C-Atom hat ein Elektron, das sich in der Schicht frei bewegen kann.
+Welche Bindung liegt im Chlorwasserstoffmolekül HCl vor?|unpolare Atombindung|Ionenbindung|polare Atombindung|Metallbindung|2|Chlor zieht das gemeinsame Elektronenpaar stärker an.
+Welche Bindung liegt im Cl₂-Molekül vor?|Metallbindung|polare Atombindung|unpolare Atombindung|Ionenbindung|2|Zwei gleiche Atome ziehen das Elektronenpaar gleich stark an.
+Warum ist ein Natriumchlorid-Kristall nach außen elektrisch neutral?|Natrium hat keine Protonen.|Die Ionen tragen keine Ladung.|Es gibt doppelt so viele Cl⁻- wie Na⁺-Ionen.|Es gibt gleich viele Na⁺- und Cl⁻-Ionen mit gleich großen Ladungen.|3|Das Verhältnis 1 : 1 gleicht die Ladungen aus.
+Wie viele Chlorid-Ionen kommen im MgCl₂ auf ein Mg²⁺-Ion?|4|1|2|3|2|Ein Mg²⁺ (+2) braucht zwei Cl⁻ (je −1).

@@ -1482,6 +1482,50 @@
               "title": "Induktion, Generator und Transformator"
             }
           ]
+        },
+        {
+          "id": "de-c9-ta",
+          "title": "Teilchenmodell, Atombau und Periodensystem",
+          "lessons": [
+            {
+              "id": "de-c9-ta-01",
+              "title": "Stoffe, Teilchenmodell und Aggregatzustände"
+            },
+            {
+              "id": "de-c9-ta-02",
+              "title": "Atombau: Protonen, Neutronen und Elektronen"
+            },
+            {
+              "id": "de-c9-ta-03",
+              "title": "Schalenmodell und Elektronenverteilung"
+            },
+            {
+              "id": "de-c9-ta-04",
+              "title": "Das Periodensystem der Elemente"
+            }
+          ]
+        },
+        {
+          "id": "de-c9-cb",
+          "title": "Chemische Bindung und Stoffeigenschaften",
+          "lessons": [
+            {
+              "id": "de-c9-cb-01",
+              "title": "Ionenbindung und Salze"
+            },
+            {
+              "id": "de-c9-cb-02",
+              "title": "Atombindung und Moleküle"
+            },
+            {
+              "id": "de-c9-cb-03",
+              "title": "Metallbindung und Metalle"
+            },
+            {
+              "id": "de-c9-cb-04",
+              "title": "Struktur und Eigenschaften der Stoffe"
+            }
+          ]
         }
       ]
     }
