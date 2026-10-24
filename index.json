@@ -1570,6 +1570,50 @@
               "title": "Anwendungen: saurer Regen, Entkalken und Titration"
             }
           ]
+        },
+        {
+          "id": "de-p9-wl",
+          "title": "Wärmelehre",
+          "lessons": [
+            {
+              "id": "de-p9-wl-01",
+              "title": "Temperatur und Teilchenbewegung"
+            },
+            {
+              "id": "de-p9-wl-02",
+              "title": "Wärmeausdehnung und Aggregatzustände"
+            },
+            {
+              "id": "de-p9-wl-03",
+              "title": "Wärmemenge und spezifische Wärmekapazität"
+            },
+            {
+              "id": "de-p9-wl-04",
+              "title": "Wärmeübertragung und Wärmedämmung"
+            }
+          ]
+        },
+        {
+          "id": "de-p9-ak",
+          "title": "Atomkern und Radioaktivität",
+          "lessons": [
+            {
+              "id": "de-p9-ak-01",
+              "title": "Atomkern und Isotope"
+            },
+            {
+              "id": "de-p9-ak-02",
+              "title": "Radioaktive Strahlung"
+            },
+            {
+              "id": "de-p9-ak-03",
+              "title": "Halbwertszeit und Zerfall"
+            },
+            {
+              "id": "de-p9-ak-04",
+              "title": "Kernspaltung, Kernenergie und Strahlenschutz"
+            }
+          ]
         }
       ]
     }

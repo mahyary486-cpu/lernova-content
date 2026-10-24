@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Größe misst ein Thermometer?|die Wärmemenge|die Temperatur|die Leistung|die Energie|1|Ein Thermometer zeigt die Temperatur an.
+Welche SI-Einheit hat die Temperatur?|Newton (N)|Joule (J)|Watt (W)|Kelvin (K)|3|Die SI-Einheit der Temperatur ist das Kelvin.
+Wie viel Kelvin entsprechen 0 °C ungefähr?|0 K|373 K|273 K|100 K|2|T in K = Temperatur in °C + 273.
+Wie viel Kelvin entsprechen 100 °C ungefähr?|373 K|100 K|273 K|473 K|0|100 + 273 = 373.
+Welche Temperatur hat der absolute Nullpunkt?|−373 °C|0 K, das sind etwa −273 °C|−100 °C|0 °C|1|Kälter als 0 K ist nicht möglich.
+Wofür ist die Temperatur ein Maß (Teilchenmodell)?|für das Volumen des Körpers|für die Anzahl der Teilchen|für die mittlere Bewegungsenergie der Teilchen|für die Masse der Teilchen|2|Bei höherer Temperatur bewegen sich die Teilchen schneller.
+Welche drei Arten der Wärmeübertragung gibt es?|Reibung, Druck, Auftrieb|Schmelzen, Verdampfen, Sublimieren|Leitung, Induktion, Absorption|Wärmeleitung, Wärmeströmung, Wärmestrahlung|3|Wärme kann in Stoffen oder durch Strahlung übertragen werden.
+Welches Beispiel zeigt Wärmeleitung?|Warme Luft steigt über der Heizung auf.|Die Sonne erwärmt die Erde.|Eine Kerze leuchtet im Dunkeln.|Ein Metalllöffel in heißer Suppe wird am Griff warm.|3|Die Wärme wird von Teilchen zu Teilchen weitergegeben.
+Welches Beispiel zeigt Wärmeströmung?|Ein Ofen strahlt Wärme ab.|Ein Löffel in der Suppe wird heiß.|Die Sonne erwärmt die Erde.|Warme Luft steigt über einer Heizung auf.|3|Bei der Strömung transportiert bewegte Materie die Wärme mit.
+Wie gelangt Wärme von der Sonne zur Erde?|durch Wärmestrahlung|durch Wärmeleitung|durch Wärmeströmung|durch Verdunstung|0|Zwischen Sonne und Erde ist fast leerer Raum.
+Welcher Stoff leitet Wärme gut?|Kupfer|ruhende Luft|Wolle|Styropor|0|Metalle sind gute Wärmeleiter.
+Welcher Stoff isoliert Wärme gut?|Eisen|Kupfer|Styropor|Aluminium|2|Eingeschlossene Luft leitet Wärme schlecht.
+Welche Einheit hat die Wärmemenge?|Kelvin (K)|Joule (J)|Grad Celsius (°C)|Watt (W)|1|Wärme ist eine Form von Energie.
+Wie verhalten sich die meisten Stoffe beim Erwärmen?|Sie dehnen sich aus.|Nur Gase dehnen sich aus.|Sie ziehen sich zusammen.|Sie verändern ihr Volumen nicht.|0|Die Teilchen schwingen stärker und brauchen mehr Platz.
+Bei welcher Temperatur hat Wasser die größte Dichte?|bei 0 °C|bei 100 °C|bei 20 °C|bei 4 °C|3|Das ist die Anomalie des Wassers.
+Wie nennt man den Übergang von flüssig nach fest?|Sublimieren|Verdampfen|Schmelzen|Erstarren|3|Erstarren ist das Gegenteil von Schmelzen.
+Warum kühlt das Verdunsten von Schweiß die Haut?|Schweiß leitet Wärme sehr schlecht.|Schweiß reflektiert die Sonne.|Beim Verdunsten wird der Haut Wärme entzogen.|Schweiß erzeugt Kälte durch Reibung.|2|Das ist die Verdunstungskälte.
+Wie viel Kelvin sind 25 °C?|25 K|248 K|348 K|298 K|3|25 + 273 = 298.
+Wie viel Grad Celsius sind 300 K?|27 °C|300 °C|−27 °C|573 °C|0|300 − 273 = 27.
+Wie berechnet man die Wärmemenge zum Erwärmen eines Körpers?|Q = c · m : ΔT|Q = c + m + ΔT|Q = c · m · ΔT|Q = m · ΔT : c|2|c ist die spezifische Wärmekapazität.
+Wie viel Energie braucht 1 kg Wasser, um sich um 1 K zu erwärmen?|100 J|1 J|42 000 J|4200 J|3|Die spezifische Wärmekapazität von Wasser beträgt 4200 J/(kg · K).
+Wie viel Wärme braucht man, um 2 kg Wasser um 10 K zu erwärmen? (c = 4200 J/(kg · K))|42 000 J|8 400 J|840 000 J|84 000 J|3|Q = 4200 · 2 · 10 = 84 000 J.
+Wie viel Wärme braucht man, um 0,5 kg Wasser um 20 K zu erwärmen? (c = 4200 J/(kg · K))|4 200 J|21 000 J|84 000 J|42 000 J|3|Q = 4200 · 0,5 · 20 = 42 000 J.
+Wie viel Wärme braucht 1 kg Eisen, um sich um 100 K zu erwärmen? (c = 450 J/(kg · K))|45 000 J|450 000 J|450 J|4 500 J|0|Q = 450 · 1 · 100 = 45 000 J.
+Warum wird Wasser oft als Kühlmittel verwendet?|Es leitet Strom besonders gut.|Es hat einen niedrigen Siedepunkt.|Es hat eine niedrige Dichte.|Es hat eine hohe spezifische Wärmekapazität.|3|Wasser kann viel Wärme aufnehmen, ohne stark heißer zu werden.
+Warum wird Metall bei gleicher zugeführter Energie schneller heiß als Wasser?|Es hat eine größere Dichte.|Es leitet Strom besser.|Es hat eine kleinere spezifische Wärmekapazität.|Es hat eine größere Masse.|2|Aus Q = c · m · ΔT folgt: kleineres c, größeres ΔT.
+Wie verhindern verspiegelte Wände in einer Thermoskanne Wärmeverluste?|Sie reflektieren die Wärmestrahlung.|Sie kühlen die Flüssigkeit.|Sie erzeugen ein Vakuum.|Sie leiten Wärme besser.|0|Das Vakuum zwischen den Wänden verhindert Leitung und Strömung.
+Welche Art der Wärmeübertragung funktioniert auch im Vakuum?|Wärmestrahlung|alle drei Arten|Wärmeleitung|Wärmeströmung|0|Strahlung braucht keinen Stoff.
+Warum wird dunkle Kleidung in der Sonne heißer als helle?|Sie ist schwerer.|Sie absorbiert mehr Strahlung.|Sie reflektiert mehr Strahlung.|Sie leitet Wärme besser.|1|Helle Flächen reflektieren einen größeren Teil der Strahlung.
+1 kg Wasser von 20 °C und 1 kg Wasser von 80 °C werden gemischt. Welche Mischungstemperatur ergibt sich?|60 °C|100 °C|50 °C|40 °C|2|Bei gleichen Massen ist die Mischungstemperatur der Mittelwert.
+Warum haben Brücken Dehnungsfugen?|Das Material dehnt sich bei Temperaturänderungen aus.|Zur Verzierung|Zur Entwässerung|Zur Lärmdämmung|0|Ohne Fugen könnten Spannungen die Brücke beschädigen.
+Warum schwimmt Eis auf Wasser?|Eis hat eine geringere Dichte als Wasser.|Eis hat eine höhere Dichte als Wasser.|Eis ist wärmer als Wasser.|Eis besteht aus Luft.|0|Beim Gefrieren dehnt sich Wasser aus.
+Worauf beruht die Wärmeleitung (Teilchenmodell)?|auf der Strahlung der Teilchen|auf der Weitergabe von Schwingungen von Teilchen zu Teilchen|auf dem Verdunsten der Teilchen|auf der Strömung von Teilchen|1|Schnelle Teilchen stoßen langsamere an.
+Warum steht ein Heizkörper meist unter dem Fenster?|Wegen der Sonne.|Die aufsteigende Warmluft verteilt sich im Raum, kalte Luft strömt nach.|Heizkörper sind sehr schwer.|Die Wärme wird durch das Glas geleitet.|1|Es entsteht eine Luftzirkulation (Wärmeströmung).
+Wie viele Joule sind 4,2 kJ?|4,2 J|42 J|420 J|4200 J|3|1 kJ = 1000 J.
+Wie verändert sich der Siedepunkt von Wasser bei geringerem Luftdruck (z. B. auf einem Berg)?|Er steigt.|Er liegt bei 0 °C.|Er sinkt.|Er bleibt gleich.|2|Bei geringerem Druck sieden Flüssigkeiten bei niedrigerer Temperatur.
+Wie viel Wärme braucht man, um 2 kg Wasser von 20 °C auf 70 °C zu erwärmen? (c = 4200 J/(kg · K))|42 000 J|420 000 J|840 000 J|8 400 J|1|Q = 4200 · 2 · 50 = 420 000 J.
+Ein Tauchsieder (1000 W) erwärmt 1 kg Wasser um 50 K (c = 4200 J/(kg · K)). Wie lange dauert das ohne Verluste?|210 s|4200 s|21 s|105 s|0|Q = 210 000 J, t = Q : P = 210 s.
+200 g Wasser von 20 °C werden mit 100 g Wasser von 80 °C gemischt. Welche Mischungstemperatur ergibt sich?|50 °C|40 °C|30 °C|60 °C|1|(0,2 · 20 + 0,1 · 80) : 0,3 = 12 : 0,3 = 40.
+Ein Aluminiumstück (0,5 kg, c = 900 J/(kg · K)) wird von 20 °C auf 100 °C erwärmt. Wie viel Wärme wird benötigt?|3 600 J|36 000 J|144 000 J|45 000 J|1|Q = 900 · 0,5 · 80 = 36 000 J.
+Je 1 kg Wasser und 1 kg Eisen (c = 450 J/(kg · K)) erhalten gleich viel Wärme. Wie verhalten sich die Temperaturänderungen?|Eisen erwärmt sich etwa 100-mal so stark.|Beide erwärmen sich gleich stark.|Eisen erwärmt sich etwa 2-mal so stark.|Eisen erwärmt sich etwa 9-mal so stark wie Wasser.|3|ΔT ist umgekehrt proportional zu c: 4200 : 450 ≈ 9,3.
+1 kg Wasser wird von 20 °C auf 100 °C erwärmt und dann verdampft (Verdampfungswärme 2,26 MJ/kg, c = 4200 J/(kg · K)). Wie viel Energie wird insgesamt benötigt?|≈ 2,6 MJ|≈ 5 MJ|≈ 2,26 MJ|≈ 0,34 MJ|0|Erwärmen: 336 000 J, Verdampfen: 2 260 000 J, zusammen etwa 2,6 MJ.
+Wie viel Energie braucht man, um 0,5 kg Eis von 0 °C zu schmelzen? (Schmelzwärme 334 kJ/kg)|167 kJ|83,5 kJ|334 kJ|668 kJ|0|Q = 0,5 · 334 kJ = 167 kJ.
+Warum bleibt die Temperatur beim Schmelzen von Eis konstant, obwohl Energie zugeführt wird?|Die Energie wird zum Lösen der Bindungen zwischen den Teilchen gebraucht.|Die Teilchen werden langsamer.|Die Energie geht verloren.|Das Thermometer ist ungenau.|0|Man nennt sie Schmelzwärme.
+Wie ändert sich die abgestrahlte Leistung eines Körpers, wenn seine Temperatur steigt?|Sie nimmt stark zu.|Nur die Farbe ändert sich.|Sie nimmt ab.|Sie bleibt gleich.|0|Heiße Körper strahlen deutlich mehr ab.
+Wie lange braucht ein 2000-W-Wasserkocher, um 1,5 kg Wasser von 20 °C auf 100 °C zu erwärmen (ohne Verluste, c = 4200 J/(kg · K))?|25 s|126 s|504 s|252 s|3|Q = 4200 · 1,5 · 80 = 504 000 J, t = 504 000 : 2000 = 252 s.
+Warum isoliert eine Doppelverglasung gut?|Die ruhende Luft- oder Gasschicht zwischen den Scheiben leitet Wärme schlecht.|Die Scheiben erzeugen Wärme.|Luft zwischen den Scheiben leitet Wärme besonders gut.|Zwei Scheiben sind schwerer.|0|Eingeschlossenes, ruhendes Gas ist ein schlechter Wärmeleiter.
+Was passiert mit dem Druck eines Gases im festen Behälter, wenn die Temperatur steigt?|Er bleibt gleich.|Er steigt, weil die Teilchen schneller sind und öfter und stärker stoßen.|Er wird null.|Er sinkt, weil die Teilchen langsamer werden.|1|Die Teilchen haben mehr Bewegungsenergie.
+Warum verbrüht Wasserdampf von 100 °C stärker als 100 °C heißes Wasser?|Dampf ist schwerer als Wasser.|Beim Kondensieren wird zusätzlich viel Wärme abgegeben.|Dampf leitet Wärme schlechter.|Dampf hat eine höhere Temperatur.|1|Die Kondensationswärme wird an die Haut abgegeben.
+Ein Wasserkocher (2000 W) erwärmt 1 kg Wasser von 20 °C auf 100 °C in 180 s (c = 4200 J/(kg · K)). Wie groß ist der Wirkungsgrad?|≈ 93 %|≈ 107 %|≈ 50 %|≈ 19 %|0|Nutzbar: 336 000 J, zugeführt: 2000 · 180 = 360 000 J.
