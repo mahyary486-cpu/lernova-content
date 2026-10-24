@@ -1433,6 +1433,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "subject": "Science",
+      "country": "DE",
+      "chapters": [
+        {
+          "id": "de-p9-en",
+          "title": "Energie und Energieerhaltung",
+          "lessons": [
+            {
+              "id": "de-p9-en-01",
+              "title": "Energieformen und Energieumwandlung"
+            },
+            {
+              "id": "de-p9-en-02",
+              "title": "Lage-, Bewegungs- und Spannenergie"
+            },
+            {
+              "id": "de-p9-en-03",
+              "title": "Arbeit, Leistung und Wirkungsgrad"
+            },
+            {
+              "id": "de-p9-en-04",
+              "title": "Energieerhaltung und Energieversorgung"
+            }
+          ]
+        },
+        {
+          "id": "de-p9-el",
+          "title": "Elektrische Energie und Leistung",
+          "lessons": [
+            {
+              "id": "de-p9-el-01",
+              "title": "Spannung, Stromstärke und Widerstand"
+            },
+            {
+              "id": "de-p9-el-02",
+              "title": "Reihen- und Parallelschaltung"
+            },
+            {
+              "id": "de-p9-el-03",
+              "title": "Elektrische Leistung und Energie"
+            },
+            {
+              "id": "de-p9-el-04",
+              "title": "Induktion, Generator und Transformator"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

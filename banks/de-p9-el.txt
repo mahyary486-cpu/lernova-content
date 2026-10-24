@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Einheit hat die elektrische Stromstärke?|Ohm (Ω)|Watt (W)|Volt (V)|Ampere (A)|3|Die Stromstärke I wird in Ampere gemessen.
+Welche Einheit hat die elektrische Spannung?|Ampere (A)|Joule (J)|Volt (V)|Ohm (Ω)|2|Die Spannung U wird in Volt gemessen.
+Welche Einheit hat der elektrische Widerstand?|Ampere (A)|Volt (V)|Watt (W)|Ohm (Ω)|3|Der Widerstand R wird in Ohm gemessen.
+Wie lautet das ohmsche Gesetz?|U = R : I|U = I : R|U = R · I|U = R + I|2|Spannung = Widerstand mal Stromstärke.
+Mit welchem Messgerät misst man die Stromstärke?|Voltmeter|Amperemeter|Thermometer|Federkraftmesser|1|Das Amperemeter misst die Stromstärke.
+Wie wird ein Voltmeter angeschlossen?|in Reihe zum Bauteil|gar nicht|nur an den Pluspol|parallel zum Bauteil|3|Die Spannung misst man an den beiden Enden eines Bauteils.
+Wie wird ein Amperemeter angeschlossen?|in Reihe zum Bauteil|gar nicht|parallel zum Bauteil|nur an den Minuspol|0|Der Strom muss durch das Messgerät fließen.
+Was gilt in einer Reihenschaltung?|Die Stromstärke ist überall gleich.|Der Strom teilt sich auf.|An jedem Bauteil liegt dieselbe Spannung.|Die Widerstände werden voneinander abgezogen.|0|Es gibt nur einen Strompfad.
+Was gilt in einer Parallelschaltung?|Die Stromstärke ist in jedem Zweig gleich.|Es gibt nur einen Strompfad.|Die Spannung teilt sich auf.|An jedem Zweig liegt dieselbe Spannung.|3|Alle Zweige hängen an denselben beiden Punkten.
+Wie lautet die Formel für die elektrische Leistung?|P = U + I|P = I : U|P = U · I|P = U : I|2|Leistung = Spannung mal Stromstärke.
+In welcher Einheit misst der Stromzähler im Haushalt die Energie?|Kilowattstunde (kWh)|Kiloampere (kA)|Kilowatt (kW)|Kilovolt (kV)|0|Der Stromzähler erfasst die verbrauchte Energie.
+Welcher Stoff ist ein guter elektrischer Leiter?|Kupfer|Gummi|Glas|Holz|0|Metalle haben frei bewegliche Elektronen.
+Welcher Stoff ist ein elektrischer Isolator?|Porzellan|Kupfer|Silber|Eisen|0|Isolatoren haben keine frei beweglichen Ladungsträger.
+Welche Ladungsträger bewegen sich in Metallen beim Stromfluss?|Protonen|Neutronen|freie Elektronen|Atomkerne|2|Elektronen sind in Metallen frei beweglich.
+Wie ist die technische Stromrichtung festgelegt?|Sie ist nicht festgelegt.|hin und her|vom Pluspol zum Minuspol|vom Minuspol zum Pluspol|2|Das ist die Festlegung der technischen Stromrichtung.
+Wie lautet die Formel für die elektrische Energie bei konstanter Leistung?|W = P : t|W = P + t|W = P · t|W = U : I|2|Energie = Leistung mal Zeit.
+Was passiert bei einem Kurzschluss?|Der Widerstand wird sehr groß.|Es fließt ein sehr großer Strom und die Leitung kann überhitzen.|Der Strom wird null.|Die Spannung verdoppelt sich.|1|Der Widerstand ist fast null, daher steigt I stark an.
+An einem Widerstand von 4 Ω liegt eine Spannung von 12 V. Wie groß ist die Stromstärke?|48 A|3 A|8 A|0,33 A|1|I = U : R = 12 : 4 = 3 A.
+Durch einen Widerstand von 20 Ω fließt ein Strom von 0,5 A. Wie groß ist die Spannung?|0,025 V|40 V|20,5 V|10 V|3|U = R · I = 20 · 0,5 = 10 V.
+Bei 230 V fließen 2 A. Wie groß ist der Widerstand?|115 Ω|460 Ω|0,0087 Ω|228 Ω|0|R = U : I = 230 : 2 = 115 Ω.
+Zwei Widerstände (10 Ω und 20 Ω) sind in Reihe geschaltet. Wie groß ist der Gesamtwiderstand?|30 Ω|200 Ω|15 Ω|6,7 Ω|0|In Reihe addieren sich die Widerstände.
+Zwei Widerstände von je 10 Ω sind parallel geschaltet. Wie groß ist der Gesamtwiderstand?|20 Ω|10 Ω|5 Ω|2,5 Ω|2|1/R = 1/10 + 1/10 = 2/10, also R = 5 Ω.
+Zwei Widerstände (6 Ω und 3 Ω) sind parallel geschaltet. Wie groß ist der Gesamtwiderstand?|9 Ω|2 Ω|0,5 Ω|4,5 Ω|1|1/R = 1/6 + 1/3 = 1/2, also R = 2 Ω.
+An einer Reihenschaltung aus 2 Ω und 4 Ω liegen 12 V. Wie groß ist die Stromstärke?|0,5 A|3 A|6 A|2 A|3|R(ges) = 6 Ω, I = 12 : 6 = 2 A.
+Wie groß ist die Spannung am 2-Ω-Widerstand der vorigen Reihenschaltung (12 V, 2 Ω und 4 Ω)?|6 V|12 V|4 V|2 V|2|U = R · I = 2 · 2 = 4 V.
+Wie berechnet man in einer Parallelschaltung den Gesamtstrom?|Er ist die Summe der Teilströme.|Er ist gleich dem größten Teilstrom.|Er ist das Produkt der Teilströme.|Er ist die Differenz der Teilströme.|0|Die Teilströme fließen im Knoten zusammen.
+Ein Gerät hat 230 V und 5 A. Wie groß ist seine Leistung?|46 W|1150 W|0,022 W|235 W|1|P = U · I = 230 · 5 = 1150 W.
+Ein Gerät mit 1000 W wird an 230 V betrieben. Wie groß ist die Stromstärke ungefähr?|≈ 770 A|≈ 230 000 A|≈ 4,3 A|≈ 0,23 A|2|I = P : U = 1000 : 230 ≈ 4,3 A.
+Ein Gerät mit 100 W läuft 2 Stunden. Wie viel Energie verbraucht es?|0,02 kWh|0,2 kWh|50 kWh|200 kWh|1|0,1 kW · 2 h = 0,2 kWh.
+Eine Lampe mit 60 W brennt 10 Stunden. 1 kWh kostet 0,30 €. Wie hoch sind die Kosten?|1,80 €|18 €|0,18 €|0,018 €|2|0,06 kW · 10 h = 0,6 kWh, 0,6 · 0,30 € = 0,18 €.
+Die Spannung an einem festen Widerstand wird verdoppelt. Was passiert mit der Stromstärke?|Sie halbiert sich.|Sie verdoppelt sich.|Sie bleibt gleich.|Sie vervierfacht sich.|1|I = U : R ist proportional zu U.
+Ab welcher Leistung löst eine 16-A-Sicherung bei 230 V ungefähr aus?|bei mehr als etwa 3680 W|bei mehr als etwa 368 W|bei mehr als 16 W|bei mehr als etwa 36 800 W|0|P = 230 V · 16 A = 3680 W.
+Die Länge eines Drahtes wird verdoppelt (gleicher Querschnitt, gleiches Material). Was passiert mit dem Widerstand?|Er vervierfacht sich.|Er verdoppelt sich.|Er bleibt gleich.|Er halbiert sich.|1|Der Widerstand ist proportional zur Länge.
+Was entsteht, wenn man einen Magneten in eine Spule hinein bewegt?|Eine Gleichspannung ohne Magnetfeldänderung|Gar nichts|Eine Induktionsspannung|Ein dauerhafter Elektromagnet|2|Ein sich änderndes Magnetfeld induziert eine Spannung.
+Was geschieht in einem Generator?|Elektrische Energie wird in Bewegungsenergie umgewandelt.|Kernenergie wird in Spannenergie umgewandelt.|Bewegungsenergie wird in elektrische Energie umgewandelt.|Wärme wird in Licht umgewandelt.|2|Eine Spule im Magnetfeld wird gedreht und induziert Spannung.
+Warum sind Haushaltsgeräte parallel geschaltet?|Jedes Gerät erhält die volle Spannung und arbeitet unabhängig von den anderen.|Damit sich die Spannung auf die Geräte aufteilt.|Damit die Stromstärke in allen Geräten gleich ist.|Damit weniger Energie verbraucht wird.|0|Bei Parallelschaltung liegt an jedem Zweig 230 V.
+Ein Transformator hat 1000 Windungen (Primärspule) und 100 Windungen (Sekundärspule). Die Primärspannung beträgt 230 V. Wie groß ist die Sekundärspannung?|230 V|2,3 V|23 V|2300 V|2|U₂ = U₁ · N₂ : N₁ = 230 · 100 : 1000 = 23 V.
+Warum überträgt man Strom über große Entfernungen mit Hochspannung?|Weil der Widerstand der Leitung bei hoher Spannung null wird.|Weil Hochspannung die Leitung abkühlt.|Weil Hochspannung weniger gefährlich ist.|Bei gleicher Leistung ist der Strom kleiner und die Wärmeverluste in den Leitungen sinken.|3|P = U · I: Bei größerem U ist I kleiner, und die Verluste wachsen mit I².
+Ein idealer Transformator wandelt 230 V (0,1 A Primärstrom) in 23 V um. Wie groß ist der Sekundärstrom?|10 A|0,01 A|0,1 A|1 A|3|P bleibt gleich: 23 W = 23 V · I, also I = 1 A.
+Warum funktioniert ein Transformator nur mit Wechselspannung?|Weil Gleichspannung zu klein ist.|Weil der Eisenkern bei Gleichspannung schmilzt.|Weil Gleichspannung kein Magnetfeld erzeugt.|Nur ein sich änderndes Magnetfeld induziert eine Spannung in der Sekundärspule.|3|Bei Gleichspannung ist das Magnetfeld konstant.
+An einer Reihenschaltung aus 100 Ω und 200 Ω liegen 9 V. Wie groß ist die Stromstärke?|1 A|0,03 A|0,09 A|0,3 A|1|I = 9 : 300 = 0,03 A = 30 mA.
+An einer Parallelschaltung aus 20 Ω und 30 Ω liegen 12 V. Wie groß ist die Gesamtstromstärke?|2 A|0,5 A|1 A|0,24 A|2|I₁ = 12 : 20 = 0,6 A und I₂ = 12 : 30 = 0,4 A.
+Wie groß ist der Gesamtwiderstand einer Parallelschaltung aus 20 Ω und 30 Ω?|12 Ω|50 Ω|25 Ω|6 Ω|0|1/R = 1/20 + 1/30 = 1/12.
+Ein Tauchsieder (2000 W) erwärmt 1 kg Wasser um 50 K. Pro Kelvin und Kilogramm sind 4200 J nötig. Wie lange dauert das (ohne Verluste)?|10,5 s|420 s|105 s|210 s|2|Q = 4200 · 50 = 210 000 J, t = 210 000 : 2000 = 105 s.
+Ein Durchlauferhitzer (18 kW) läuft 10 Minuten. 1 kWh kostet 0,30 €. Wie hoch sind die Kosten?|5,40 €|0,90 €|1,80 €|0,09 €|1|18 kW · (1/6) h = 3 kWh, 3 · 0,30 € = 0,90 €.
+Ein Gerät hat 50 Ω Widerstand und liegt an 230 V. Wie groß ist die Leistung ungefähr?|≈ 11 500 W|≈ 4,6 W|≈ 280 W|≈ 1058 W|3|P = U² : R = 52 900 : 50 = 1058 W.
+Ein Elektromotor (Wirkungsgrad 80 %) nimmt 500 W auf. Wie groß ist die nutzbare Leistung?|400 W|100 W|80 W|625 W|0|0,8 · 500 W = 400 W.
+Zwei gleiche Lampen sind in Reihe an 230 V angeschlossen. Wie groß ist die Spannung an jeder Lampe?|230 V|115 V|57,5 V|460 V|1|Die Spannung teilt sich bei gleichen Widerständen gleichmäßig.
+In einer Reihenschaltung aus drei Lampen fällt eine Lampe aus (Unterbrechung). Was geschieht?|Die anderen Lampen leuchten wie zuvor.|Die anderen Lampen leuchten heller.|Alle Lampen gehen aus.|Nur die defekte Lampe geht aus.|2|Der Stromkreis ist unterbrochen.
+Welche Energieumwandlungen finden im Elektromotor und im Generator statt?|Beide wandeln Wärme in Licht um.|Motor: Bewegungsenergie in elektrische Energie, Generator: elektrische Energie in Bewegungsenergie|Beide wandeln Kernenergie in elektrische Energie um.|Motor: elektrische Energie in Bewegungsenergie, Generator: Bewegungsenergie in elektrische Energie|3|Beide Maschinen sind in ihrer Wirkung umgekehrt.

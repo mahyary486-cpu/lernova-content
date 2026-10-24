@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Einheit hat die Energie?|Joule (J)|Watt (W)|Newton (N)|Volt (V)|0|Energie wird in Joule gemessen.
+Welche Einheit hat die Leistung?|Watt (W)|Ampere (A)|Joule (J)|Newton (N)|0|1 W = 1 J/s.
+Wie lautet die Formel für die Lageenergie?|E = ½ · m · g · h|E = m · g · h|E = m · v²|E = m · g : h|1|Lageenergie = Masse mal Ortsfaktor mal Höhe.
+Wie lautet die Formel für die Bewegungsenergie?|E = ½ · m · v²|E = m · g · h|E = ½ · m · v|E = m · v²|0|Die Geschwindigkeit geht quadratisch ein.
+Was besagt der Energieerhaltungssatz?|Energie kann weder erzeugt noch vernichtet, nur umgewandelt werden.|Energie kann nur in Wärme umgewandelt werden.|Die Energie in der Welt nimmt mit der Zeit immer zu.|Bei jeder Umwandlung geht Energie unwiederbringlich verloren.|0|In einem abgeschlossenen System bleibt die Gesamtenergie konstant.
+Welche Energieform hat ein gespannter Bogen?|Lageenergie|Bewegungsenergie|Spannenergie|Kernenergie|2|Verformte elastische Körper speichern Spannenergie.
+Welche Energieform hat ein fahrendes Auto?|Lageenergie|Bewegungsenergie|Kernenergie|Spannenergie|1|Bewegte Körper besitzen Bewegungsenergie.
+Welche Energieform hat ein Stein oben auf einem Turm?|Strahlungsenergie|Bewegungsenergie|Lageenergie|Spannenergie|2|Durch die Höhe hat er Lageenergie.
+Welche Energieumwandlung findet in einer Solarzelle statt?|Strahlungsenergie in elektrische Energie|elektrische Energie in Strahlungsenergie|chemische Energie in Bewegungsenergie|Wärme in Lageenergie|0|Eine Solarzelle wandelt Licht in elektrischen Strom um.
+Welche Energieumwandlung findet in einem Elektromotor statt?|Kernenergie in chemische Energie|Wärme in Licht|elektrische Energie in Bewegungsenergie|Bewegungsenergie in elektrische Energie|2|Der umgekehrte Vorgang findet im Generator statt.
+Was gibt die Leistung an?|Masse mal Geschwindigkeit|Kraft durch Fläche|Energie mal Zeit|Energie pro Zeit|3|Leistung = übertragene Energie : Zeit.
+Wie lautet die Formel für die Leistung?|P = W · t|P = t : W|P = W : t|P = W + t|2|Leistung ist Arbeit (Energie) durch Zeit.
+Wie lautet die Formel für die mechanische Arbeit bei konstanter Kraft in Wegrichtung?|W = F + s|W = m · v|W = F : s|W = F · s|3|Arbeit = Kraft mal Weg.
+Welche Energiequelle ist erneuerbar?|Erdöl|Kohle|Erdgas|Windenergie|3|Wind steht dauerhaft zur Verfügung, fossile Brennstoffe nicht.
+Welcher Energieträger ist ein fossiler Brennstoff?|Wind|Wasserkraft|Erdgas|Sonnenlicht|2|Erdgas, Erdöl und Kohle sind fossil.
+Was gibt der Wirkungsgrad an?|das Verhältnis von nutzbarer zu zugeführter Energie|das Verhältnis von zugeführter zu nutzbarer Energie|die Summe aus Nutz- und Verlustenergie|das Produkt aus Energie und Zeit|0|η = E(nutz) : E(zu).
+Welche Aussage gilt für den Wirkungsgrad realer Geräte?|Er ist immer 0 %.|Er ist kleiner als 100 %.|Er ist größer als 100 %.|Er ist genau 100 %.|1|Ein Teil der Energie geht stets als Wärme verloren.
+Ein Stein (2 kg) befindet sich 5 m hoch. Wie groß ist seine Lageenergie? (g = 10 N/kg)|100 J|10 J|25 J|50 J|0|E = 2 · 10 · 5 = 100 J.
+Ein Auto (1000 kg) fährt mit 10 m/s. Wie groß ist seine Bewegungsenergie?|100 000 J|50 000 J|10 000 J|5 000 J|1|E = ½ · 1000 · 10² = 50 000 J.
+Ein Körper (0,5 kg) bewegt sich mit 4 m/s. Wie groß ist seine Bewegungsenergie?|8 J|4 J|2 J|16 J|1|E = ½ · 0,5 · 16 = 4 J.
+Eine Kugel fällt reibungsfrei aus 5 m Höhe. Wie schnell ist sie unten? (g = 10 N/kg)|5 m/s|50 m/s|10 m/s|25 m/s|2|m · g · h = ½ · m · v², also v = √(2 · 10 · 5) = 10 m/s.
+Eine Kraft von 50 N verschiebt einen Körper um 4 m in Kraftrichtung. Wie groß ist die Arbeit?|54 J|200 J|100 J|12,5 J|1|W = 50 · 4 = 200 J.
+Eine Maschine verrichtet 600 J Arbeit in 30 s. Wie groß ist ihre Leistung?|18 000 W|20 W|570 W|0,05 W|1|P = 600 : 30 = 20 W.
+Einem Gerät werden 500 J zugeführt, 400 J sind nutzbar. Wie groß ist der Wirkungsgrad?|40 %|125 %|20 %|80 %|3|η = 400 : 500 = 0,8.
+Ein Körper von 20 kg wird 3 m hoch gehoben. Wie groß ist die Hubarbeit? (g = 10 N/kg)|23 J|60 J|200 J|600 J|3|W = m · g · h = 20 · 10 · 3 = 600 J.
+In welche Energieform wird die Bewegungsenergie beim Bremsen eines Autos hauptsächlich umgewandelt?|Kernenergie|Spannenergie|thermische Energie (Wärme)|Lageenergie|2|Reibung an den Bremsen erwärmt Bremsen und Umgebung.
+Ein Fadenpendel schwingt reibungsfrei. Was gilt am tiefsten Punkt?|Die Lageenergie ist maximal, die Bewegungsenergie minimal.|Beide Energien sind maximal.|Beide Energien sind null.|Die Bewegungsenergie ist maximal, die Lageenergie minimal.|3|Am tiefsten Punkt ist die Geschwindigkeit am größten.
+Wofür ist die Kilowattstunde (kWh) eine Einheit?|für Leistung|für Spannung|für Energie|für Kraft|2|kWh = kW · h ist ein Produkt aus Leistung und Zeit, also Energie.
+Wie viel Joule sind 1 kWh?|3,6 · 10⁶ J|60 J|1 000 J|3,6 · 10³ J|0|1 kWh = 1000 W · 3600 s = 3 600 000 J.
+Ein Gerät mit 2000 W läuft 30 Minuten. Wie viel Energie verbraucht es?|0,5 kWh|2 kWh|1 kWh|60 kWh|2|2 kW · 0,5 h = 1 kWh.
+1 kWh kostet 0,30 €. Ein Gerät mit 1 kW läuft 5 Stunden. Wie hoch sind die Kosten?|0,30 €|1,50 €|5,00 €|0,60 €|1|5 kWh · 0,30 €/kWh = 1,50 €.
+Einem Elektromotor (Wirkungsgrad 90 %) werden 2000 J zugeführt. Wie viel Energie wird nutzbar?|2200 J|200 J|1800 J|900 J|2|0,9 · 2000 J = 1800 J.
+Welche Aussage über die Glühlampe ist richtig?|Die Lampe vernichtet Energie.|Der größte Teil wird in Licht umgewandelt.|Ihr Wirkungsgrad liegt über 100 %.|Der größte Teil der elektrischen Energie wird in Wärme umgewandelt.|3|Nur wenige Prozent werden als Licht abgegeben.
+Was gilt für die Gesamtenergie eines reibungsfreien Fadenpendels?|Sie nimmt ab.|Sie bleibt konstant.|Sie ist am Umkehrpunkt null.|Sie nimmt zu.|1|Lage- und Bewegungsenergie wandeln sich ineinander um.
+In welcher Form speichert ein Pumpspeicherkraftwerk Energie?|als Kernenergie|als Spannenergie|als Lageenergie des Wassers|als chemische Energie|2|Wasser wird in ein höher gelegenes Becken gepumpt.
+Was bewirkt die Hubarbeit an einem Körper?|Die Lageenergie des Körpers nimmt ab.|Die Leistung des Körpers nimmt zu.|Die Lageenergie des Körpers nimmt zu.|Die Spannenergie des Körpers nimmt zu.|2|Hubarbeit erhöht die Lageenergie.
+Ein Körper (3 kg) fällt reibungsfrei aus 20 m Höhe. Wie schnell ist er am Boden? (g = 10 N/kg)|200 m/s|20 m/s|10 m/s|40 m/s|1|v = √(2 · 10 · 20) = √400 = 20 m/s.
+Eine Achterbahn startet in 40 m Höhe (reibungsfrei, ohne Anfangsgeschwindigkeit). Wie schnell ist sie in 20 m Höhe? (g = 10 N/kg)|40 m/s|20 m/s|28 m/s|10 m/s|1|Höhenunterschied 20 m: v = √(2 · 10 · 20) = 20 m/s.
+Eine gespannte Feder (Spannenergie 4 J) beschleunigt eine Kugel (0,5 kg) reibungsfrei. Welche Geschwindigkeit erreicht die Kugel?|16 m/s|8 m/s|2 m/s|4 m/s|3|4 J = ½ · 0,5 · v², also v² = 16 und v = 4 m/s.
+Ein Aufzug hebt 500 kg um 12 m in 20 s. Wie groß ist seine Leistung? (g = 10 N/kg)|3000 W|30 000 W|6000 W|300 W|0|W = 500 · 10 · 12 = 60 000 J, P = 60 000 : 20 = 3000 W.
+In einem Wasserkraftwerk fallen 1000 kg Wasser pro Sekunde 50 m tief. Welche Leistung steht ideal zur Verfügung? (g = 10 N/kg)|50 W|50 000 W|500 000 W|5 000 000 W|2|Pro Sekunde: 1000 · 10 · 50 = 500 000 J.
+Einer Pumpe werden 1500 W zugeführt, 1200 W sind nutzbar. Wie groß ist die Verlustleistung?|80 W|300 W|1200 W|2700 W|1|1500 W − 1200 W = 300 W.
+Ein Kraftwerk (Wirkungsgrad 40 %) speist einen Motor (Wirkungsgrad 90 %). Wie groß ist der Gesamtwirkungsgrad?|130 %|50 %|36 %|90 %|2|0,4 · 0,9 = 0,36.
+Wie tief muss ein Stein (1 kg) fallen, damit er 100 J Bewegungsenergie hat? (g = 10 N/kg)|10 m|100 m|1 m|5 m|0|h = E : (m · g) = 100 : 10 = 10 m.
+Die Geschwindigkeit eines Körpers wird verdoppelt. Was passiert mit der Bewegungsenergie?|Sie bleibt gleich.|Sie wird 2-mal so groß.|Sie wird 8-mal so groß.|Sie wird 4-mal so groß.|3|E ist proportional zu v², und 2² = 4.
+Die Höhe eines Körpers wird verdoppelt. Was passiert mit der Lageenergie?|Sie wird 4-mal so groß.|Sie bleibt gleich.|Sie wird 2-mal so groß.|Sie halbiert sich.|2|E = m · g · h ist proportional zu h.
+Person A hebt 100 N um 2 m in 4 s, Person B hebt 100 N um 3 m in 5 s. Wer leistet mehr?|A (50 W gegenüber 40 W)|B (60 W gegenüber 50 W)|Beide leisten gleich viel.|B (60 W gegenüber 20 W)|1|P(A) = 200 : 4 = 50 W, P(B) = 300 : 5 = 60 W.
+Ein Heizlüfter (2 kW) läuft 30 Tage lang täglich 3 Stunden. Strompreis 0,25 € pro kWh. Wie hoch sind die Kosten?|4,50 €|15 €|45 €|90 €|2|2 · 3 · 30 = 180 kWh, 180 · 0,25 € = 45 €.
+Eine Glühlampe (60 W) und eine LED (8 W) leuchten gleich hell, je 1000 Stunden lang. Wie viel Energie spart die LED?|52 kWh|8 kWh|520 kWh|68 kWh|0|(60 − 8) W · 1000 h = 52 000 Wh = 52 kWh.
+Warum ist ein Perpetuum mobile erster Art unmöglich?|Weil die Erdanziehung zu schwach ist.|Es würde dem Energieerhaltungssatz widersprechen.|Weil es zu viel Platz benötigt.|Weil die Reibung die Energie vernichtet.|1|Es müsste ohne Energiezufuhr dauernd Energie abgeben, also Energie erzeugen.
