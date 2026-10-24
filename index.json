@@ -1526,6 +1526,50 @@
               "title": "Struktur und Eigenschaften der Stoffe"
             }
           ]
+        },
+        {
+          "id": "de-c9-cr",
+          "title": "Chemische Reaktion und Energie",
+          "lessons": [
+            {
+              "id": "de-c9-cr-01",
+              "title": "Chemische Reaktion und Reaktionsgleichung"
+            },
+            {
+              "id": "de-c9-cr-02",
+              "title": "Massenerhaltung und Stoffmenge"
+            },
+            {
+              "id": "de-c9-cr-03",
+              "title": "Energie bei chemischen Reaktionen"
+            },
+            {
+              "id": "de-c9-cr-04",
+              "title": "Oxidation, Reduktion und Redoxreaktion"
+            }
+          ]
+        },
+        {
+          "id": "de-c9-sb",
+          "title": "Säuren, Laugen und Neutralisation",
+          "lessons": [
+            {
+              "id": "de-c9-sb-01",
+              "title": "Saure und alkalische Lösungen, pH-Wert"
+            },
+            {
+              "id": "de-c9-sb-02",
+              "title": "Wichtige Säuren und Laugen"
+            },
+            {
+              "id": "de-c9-sb-03",
+              "title": "Neutralisation und Salzbildung"
+            },
+            {
+              "id": "de-c9-sb-04",
+              "title": "Anwendungen: saurer Regen, Entkalken und Titration"
+            }
+          ]
         }
       ]
     }

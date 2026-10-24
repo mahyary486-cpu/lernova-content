@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Was geschieht bei einer chemischen Reaktion?|Atome werden vernichtet.|Es ändert sich nur der Aggregatzustand.|Aus Ausgangsstoffen entstehen neue Stoffe mit anderen Eigenschaften.|Die Stoffe werden nur gemischt.|2|Bei einer Reaktion werden Atome neu verknüpft.
+Wie heißen die Stoffe, die vor einer chemischen Reaktion vorliegen?|Produkte|Indikatoren|Katalysatoren|Edukte (Ausgangsstoffe)|3|Sie stehen links vom Reaktionspfeil.
+Wie heißen die Stoffe, die bei einer chemischen Reaktion entstehen?|Indikatoren|Edukte|Produkte|Katalysatoren|2|Sie stehen rechts vom Reaktionspfeil.
+Welcher Vorgang ist eine chemische Reaktion?|Schmelzen von Eis|Lösen von Zucker in Wasser|Verbrennen von Holz|Verdunsten von Wasser|2|Beim Verbrennen entstehen neue Stoffe wie Kohlenstoffdioxid und Asche.
+Welcher Vorgang ist ein physikalischer Vorgang?|Rosten von Eisen|Backen eines Kuchens|Schmelzen von Eis|Verbrennen von Holz|2|Beim Schmelzen bleibt der Stoff Wasser erhalten.
+Was steht in einer Reaktionsgleichung links vom Reaktionspfeil?|die Energie|der Katalysator|die Produkte|die Edukte|3|Edukte → Produkte.
+Welche Formel hat elementarer Sauerstoff?|O₂|O₄|O|O₃|0|Sauerstoff liegt als zweiatomiges Molekül vor.
+Welche Formel hat Wasser?|H₃O|H₂O|H₂O₂|HO₂|1|Ein Wassermolekül besteht aus zwei H-Atomen und einem O-Atom.
+Was besagt das Gesetz der Massenerhaltung?|Die Masse nimmt bei jeder Reaktion zu.|Die Gesamtmasse vor und nach einer Reaktion ist gleich.|Gase haben keine Masse.|Die Masse nimmt bei jeder Reaktion ab.|1|Bei einer Reaktion gehen keine Atome verloren.
+Was bedeutet exotherm?|Es entsteht nur Licht.|Bei der Reaktion wird Energie (Wärme) abgegeben.|Es findet keine Energieumwandlung statt.|Bei der Reaktion wird Energie aufgenommen.|1|Die Umgebung wird wärmer.
+Was bedeutet endotherm?|Bei der Reaktion wird Energie aufgenommen.|Bei der Reaktion wird Energie abgegeben.|Die Reaktion läuft ohne Edukte ab.|Es entsteht ein Katalysator.|0|Die Umgebung kühlt ab oder muss Energie zuführen.
+Welche Reaktion ist exotherm?|Zersetzung von Kalkstein beim Brennen|Fotosynthese|Elektrolyse von Wasser|Verbrennung von Erdgas|3|Die anderen Reaktionen benötigen ständig Energiezufuhr.
+Was ist ein Katalysator?|ein Stoff, der die Reaktion verlangsamt|das Endprodukt der Reaktion|ein Stoff, der die Reaktion beschleunigt und dabei nicht verbraucht wird|ein Stoff, der bei der Reaktion verbraucht wird|2|Der Katalysator liegt nach der Reaktion unverändert vor.
+Was versteht man im engeren Sinn unter Oxidation?|die Reaktion eines Stoffes mit Sauerstoff|die Abgabe von Sauerstoff|das Lösen in Wasser|das Erstarren einer Schmelze|0|Verbrennungen sind Oxidationen.
+Welches Produkt entsteht bei der vollständigen Verbrennung von Kohlenstoff?|Kohlenstoffdioxid|Wasserstoff|Wasser|Stickstoff|0|C + O₂ → CO₂.
+Womit weist man Kohlenstoffdioxid nach?|Kalkwasser (es trübt sich)|Knallgasprobe|Glimmspanprobe|Lackmuspapier|0|Es bildet sich schwer lösliches Calciumcarbonat.
+Womit weist man Sauerstoff nach?|Knallgasprobe|Glimmspanprobe (der Span flammt auf)|Kalkwasser|Indikatorpapier|1|Sauerstoff fördert die Verbrennung.
+Was gibt die Zahl 2 vor H₂O in 2 H₂ + O₂ → 2 H₂O an?|Wasser hat die Ladung 2.|Es sind zwei Atome Wasserstoff pro Molekül.|Jedes Wassermolekül hat zwei Sauerstoffatome.|Es entstehen zwei Wassermoleküle (Koeffizient).|3|Der Koeffizient steht vor der Formel und gibt die Teilchenzahl an.
+Wie viele Wasserstoffatome stehen in 2 H₂ + O₂ → 2 H₂O auf der linken Seite?|3|6|2|4|3|2 · 2 = 4 Wasserstoffatome.
+Welche Gleichung ist richtig ausgeglichen?|2 Mg + 2 O₂ → 2 MgO|Mg + O₂ → MgO|2 Mg + O₂ → 2 MgO|Mg + O₂ → MgO₂|2|Links und rechts je 2 Mg und 2 O.
+Welche Gleichung beschreibt die vollständige Verbrennung von Kohlenstoff?|C + O₂ → CO₂|2 C + O₂ → CO₂|C + O₂ → CO|C₂ + O₂ → CO₂|0|Je ein C und zwei O auf beiden Seiten.
+Welche Gleichung für die Reaktion von Wasserstoff mit Chlor ist richtig?|H₂ + Cl₂ → HCl|2 H₂ + Cl₂ → 2 HCl|H₂ + Cl₂ → 2 HCl|H₂ + Cl₂ → H₂Cl₂|2|Je 2 H und 2 Cl auf beiden Seiten.
+Wie groß ist die molare Masse von Wasser (H = 1 g/mol, O = 16 g/mol)?|10 g/mol|17 g/mol|18 g/mol|34 g/mol|2|2 · 1 + 16 = 18.
+Wie groß ist die molare Masse von CO₂ (C = 12 g/mol, O = 16 g/mol)?|32 g/mol|28 g/mol|44 g/mol|56 g/mol|2|12 + 2 · 16 = 44.
+Welche Stoffmenge sind 36 g Wasser (M = 18 g/mol)?|18 mol|0,5 mol|648 mol|2 mol|3|n = m : M = 36 : 18 = 2 mol.
+Wie viele Teilchen enthält 1 mol eines Stoffes?|etwa 6 · 10²³|etwa 3 · 10²³|etwa 6 · 10¹⁰|etwa 1 · 10²³|0|Das ist die Avogadro-Konstante.
+Wie groß ist die Masse von 0,5 mol Natriumchlorid (M = 58,5 g/mol)?|0,0085 g|58,5 g|117 g|29,25 g|3|m = n · M = 0,5 · 58,5 = 29,25 g.
+12 g Magnesium reagieren mit 8 g Sauerstoff vollständig. Wie viel Magnesiumoxid entsteht?|20 g|96 g|12 g|4 g|0|Massenerhaltung: 12 g + 8 g = 20 g.
+Warum ist die Asche nach dem Verbrennen von Holz leichter als das Holz?|Das Holz verdunstet.|Gasförmige Produkte (CO₂, Wasserdampf) entweichen.|Energie wird in Masse umgewandelt.|Die Masse wird bei der Verbrennung vernichtet.|1|Das Gesetz der Massenerhaltung gilt im geschlossenen System.
+Was versteht man unter Aktivierungsenergie?|die Energie, die zum Starten einer Reaktion nötig ist|die Masse der Produkte|die Wärme des Katalysators|die Energie, die bei der Reaktion frei wird|0|Erst ab dieser Energie reagieren die Teilchen miteinander.
+Wie wirkt ein Katalysator?|Er senkt die Aktivierungsenergie.|Er liefert dauerhaft Energie.|Er erhöht die Aktivierungsenergie.|Er ändert die entstehenden Produkte.|0|Dadurch läuft die Reaktion schneller ab.
+Was kennzeichnet eine Redoxreaktion?|Es entsteht immer ein Salz.|Oxidation und Reduktion laufen gleichzeitig ab.|Es findet nur eine Reduktion statt.|Es findet nur eine Oxidation statt.|1|Was ein Stoff abgibt, nimmt der andere auf.
+Was passiert bei einer Reduktion im engeren Sinn?|Ein Salz wird gebildet.|Ein Stoff gibt Sauerstoff ab.|Ein Stoff nimmt Sauerstoff auf.|Ein Stoff nimmt Wasser auf.|1|Reduktion ist das Gegenstück zur Oxidation.
+In CuO + H₂ → Cu + H₂O: Welcher Stoff wirkt als Oxidationsmittel?|H₂|Cu|CuO|H₂O|2|CuO gibt Sauerstoff ab und oxidiert den Wasserstoff.
+Was geschieht im Hochofen mit Eisenoxid?|Es wird nur geschmolzen.|Es wird zu Eisenoxid oxidiert.|Es wird zu Eisen reduziert.|Es wird neutralisiert.|2|Koks bzw. Kohlenstoffmonooxid entzieht dem Eisenoxid den Sauerstoff.
+Wie bezeichnet man das Rosten von Eisen chemisch?|Reduktion|langsame Oxidation|Verdunstung|Neutralisation|1|Eisen reagiert mit Sauerstoff und Wasser.
+Welche Gleichung ist richtig ausgeglichen?|Al + O₂ → Al₂O₃|4 Al + 3 O₂ → 2 Al₂O₃|4 Al + 2 O₂ → 2 Al₂O₃|2 Al + 3 O₂ → Al₂O₃|1|Links 4 Al und 6 O, rechts 4 Al und 6 O.
+Welche Gleichung für die Verbrennung von Methan ist richtig?|CH₄ + O₂ → CO₂ + H₂O|2 CH₄ + 2 O₂ → CO₂ + 2 H₂O|CH₄ + 3 O₂ → CO₂ + 2 H₂O|CH₄ + 2 O₂ → CO₂ + 2 H₂O|3|Links und rechts: 1 C, 4 H, 4 O.
+Welche Gleichung für die Reduktion von Eisen(III)-oxid mit Kohlenstoffmonooxid ist richtig?|Fe₂O₃ + 2 CO → 2 Fe + 2 CO₂|Fe₂O₃ + 3 CO → 2 Fe + 3 CO₂|2 Fe₂O₃ + 3 CO → 4 Fe + 3 CO₂|Fe₂O₃ + CO → 2 Fe + CO₂|1|Links und rechts: 2 Fe, 3 C, 6 O.
+Wie groß ist die molare Masse von Calciumhydroxid Ca(OH)₂ (Ca = 40, O = 16, H = 1 g/mol)?|74 g/mol|58 g/mol|57 g/mol|90 g/mol|0|40 + 2 · (16 + 1) = 74.
+Wie viel Wasser entsteht aus 4 g Wasserstoff nach 2 H₂ + O₂ → 2 H₂O?|4 g|18 g|72 g|36 g|3|4 g H₂ = 2 mol, daraus 2 mol H₂O = 36 g.
+Wie viel Sauerstoff wird für 4 g Wasserstoff nach 2 H₂ + O₂ → 2 H₂O benötigt?|32 g|16 g|8 g|64 g|0|2 mol H₂ benötigen 1 mol O₂ = 32 g.
+Wie viele Teilchen sind in 2 mol eines Stoffes enthalten?|etwa 1,2 · 10²³|etwa 3 · 10²³|etwa 6 · 10²³|etwa 1,2 · 10²⁴|3|2 · 6 · 10²³ = 1,2 · 10²⁴.
+Wie groß ist das molare Volumen eines Gases bei 0 °C und 1013 hPa ungefähr?|2,24 L/mol|100 L/mol|22,4 L/mol|1,0 L/mol|2|1 mol eines idealen Gases nimmt unter diesen Bedingungen 22,4 L ein.
+Wie viel Kohlenstoff steckt in 22 g CO₂ (C = 12, O = 16 g/mol)?|22 g|3 g|6 g|12 g|2|22 g = 0,5 mol CO₂ enthalten 0,5 mol C = 6 g.
+Wie liegen die Energieniveaus bei einer exothermen Reaktion?|Die Produkte sind energiereicher als die Edukte.|Es gibt keine Aktivierungsenergie.|Die Produkte sind energieärmer als die Edukte.|Edukte und Produkte haben gleich viel Energie.|2|Die Differenz wird als Wärme abgegeben.
+Warum läuft eine Verbrennung nach dem Zünden von selbst weiter?|Masse wird in Energie umgewandelt.|Die frei werdende Wärme liefert die Aktivierungsenergie für weitere Teilchen.|Sauerstoff erzeugt selbst Energie.|Es entsteht ein Katalysator.|1|Exotherme Reaktionen können sich selbst unterhalten.
+Wie viel mol Wasser entstehen aus 3 mol Wasserstoff nach 2 H₂ + O₂ → 2 H₂O?|6 mol|3 mol|2 mol|1,5 mol|1|Das Verhältnis H₂ : H₂O beträgt 1 : 1.
+Welche Stoffmenge enthalten 11,2 L Kohlenstoffdioxid bei 0 °C und 1013 hPa?|0,5 mol|1 mol|0,25 mol|2 mol|0|11,2 : 22,4 = 0,5.
+Wie viel Kupfer entsteht aus 80 g Kupferoxid bei CuO + H₂ → Cu + H₂O? (Cu = 64, O = 16 g/mol)|16 g|80 g|32 g|64 g|3|80 g CuO = 1 mol, daraus entsteht 1 mol Cu = 64 g.

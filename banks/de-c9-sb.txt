@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welchen pH-Wert hat eine saure Lösung?|größer als 7|kleiner als 7|genau 14|genau 7|1|Je kleiner der pH-Wert, desto saurer die Lösung.
+Welchen pH-Wert hat eine neutrale Lösung?|14|7|0|1|1|Reines Wasser ist neutral.
+Welchen pH-Wert hat eine alkalische Lösung?|größer als 7|genau 7|genau 0|kleiner als 7|0|Je größer der pH-Wert, desto alkalischer die Lösung.
+Was ist ein Indikator?|ein Stoff, der durch eine Farbänderung sauer oder alkalisch anzeigt|ein Gas|ein Stoff, der Reaktionen beschleunigt|ein Stoff, der Salze bildet|0|Beispiele sind Universalindikator und Rotkohlsaft.
+Welche Farbe zeigt Universalindikator in einer sauren Lösung?|rot bis orange|blau|grün|farblos|0|Im sauren Bereich färbt er sich rot.
+Welche Farbe zeigt Universalindikator in einer stark alkalischen Lösung?|rot|grün|orange|blau bis violett|3|Grün zeigt dagegen neutral an.
+Welche Formel hat Chlorwasserstoff (gelöst in Wasser: Salzsäure)?|NaCl|H₂SO₄|NaOH|HCl|3|Salzsäure ist die wässrige Lösung von Chlorwasserstoff.
+Welche Formel hat Natriumhydroxid (gelöst: Natronlauge)?|HCl|NaOH|Na₂SO₄|NaCl|1|Natronlauge enthält Na⁺- und OH⁻-Ionen.
+Welche Formel hat Schwefelsäure?|H₂SO₄|HCl|H₂SO₃|HNO₃|0|Schwefelsäure enthält zwei H und ein SO₄.
+Welche Ionen sind für saure Eigenschaften verantwortlich?|Na⁺-Ionen|H⁺-Ionen (H₃O⁺)|OH⁻-Ionen|Cl⁻-Ionen|1|Säuren geben H⁺-Ionen an Wasser ab.
+Welche Ionen sind für alkalische Eigenschaften verantwortlich?|Na⁺-Ionen|OH⁻-Ionen|Cl⁻-Ionen|H⁺-Ionen|1|Laugen enthalten Hydroxid-Ionen.
+Wie heißt die wässrige Lösung von Natriumhydroxid?|Salzsäure|Natronlauge|Salzwasser|Kalkwasser|1|Kalkwasser ist dagegen eine Lösung von Calciumhydroxid.
+Was entsteht bei der Neutralisation einer Säure mit einer Lauge?|ein Salz und Wasserstoff|nur Wasser|Säure und Lauge|ein Salz und Wasser|3|Beispiel: HCl + NaOH → NaCl + H₂O.
+Welcher Stoff ist sauer?|Zitronensaft|Natronlauge|Seifenlösung|destilliertes Wasser|0|Zitronensaft enthält Zitronensäure.
+Welche Eigenschaft hat Seifenlösung?|Sie ist sauer.|Sie ist alkalisch.|Sie ist neutral.|Sie ist ein Salz.|1|Seifenlösung hat einen pH-Wert über 7.
+Warum trägt man beim Arbeiten mit Säuren und Laugen eine Schutzbrille?|Sie riechen nach Gas.|Sie wirken ätzend.|Sie verfärben sich sehr schnell.|Sie sind magnetisch.|1|Spritzer können die Augen schwer schädigen.
+Wie verdünnt man eine konzentrierte Säure sicher?|Die Säure wird erhitzt und Wasser zugegeben.|Das Wasser wird in die Säure gegossen.|Beides wird gleichzeitig kräftig gemischt.|Die Säure wird langsam in das Wasser gegossen.|3|Merkregel: Erst das Wasser, dann die Säure.
+Welches Salz entsteht bei der Neutralisation von Salzsäure mit Natronlauge?|Natriumchlorid|Calciumchlorid|Natriumnitrat|Natriumsulfat|0|HCl + NaOH → NaCl + H₂O.
+Welches Salz entsteht bei der Neutralisation von Schwefelsäure mit Natronlauge?|Natriumnitrat|Natriumchlorid|Natriumsulfat|Natriumcarbonat|2|Der Säurerest der Schwefelsäure ist Sulfat.
+Welche Gleichung für die Reaktion von Schwefelsäure mit Natronlauge ist richtig?|2 H₂SO₄ + NaOH → Na₂SO₄ + 2 H₂O|H₂SO₄ + 2 NaOH → NaSO₄ + 2 H₂O|H₂SO₄ + 2 NaOH → Na₂SO₄ + 2 H₂O|H₂SO₄ + NaOH → Na₂SO₄ + H₂O|2|Links und rechts: 2 Na, 1 S, 6 O und 4 H.
+Welche Reaktion liegt jeder Neutralisation zugrunde?|H₂ + O₂ → H₂O|H⁺ + OH⁻ → H₂O|Na⁺ + OH⁻ → NaOH|H⁺ + Cl⁻ → HCl|1|Die H⁺- und OH⁻-Ionen bilden Wasser.
+Wie verhält sich eine Lösung mit pH 3 zu einer Lösung mit pH 4?|Sie ist genau 3/4 so sauer.|Sie hat eine 10-mal höhere H⁺-Konzentration.|Sie ist doppelt so sauer.|Sie ist gleich sauer.|1|Jede pH-Stufe entspricht dem Faktor 10.
+Eine starke Säure mit pH 1 wird im Verhältnis 1 : 10 verdünnt. Wie groß ist der neue pH-Wert?|10|2|1,5|0|1|Die H⁺-Konzentration sinkt auf ein Zehntel, der pH-Wert steigt um 1.
+Wie reagiert Kalkwasser auf Universalindikator?|Es färbt sich blau bis violett (alkalisch).|Es bleibt farblos.|Es färbt sich grün.|Es färbt sich rot.|0|Kalkwasser ist eine Lösung von Calciumhydroxid.
+Wie entsteht saurer Regen hauptsächlich?|Aus reinem Sauerstoff|Aus gelöstem Kalk|Schwefeldioxid und Stickoxide bilden mit Wasser Säuren.|Aus Argon in der Luft|2|Die Gase stammen v. a. aus Verbrennungsprozessen.
+Welchen pH-Wert hat unbelastetes Regenwasser ungefähr?|7,0|≈ 5,6|2,0|9,0|1|Kohlenstoffdioxid bildet mit Wasser etwas Kohlensäure.
+Was entsteht, wenn Salzsäure auf Kalk (CaCO₃) trifft?|Sauerstoff|Kohlenstoffdioxid (die Mischung schäumt auf)|Stickstoff|Wasserstoff|1|CaCO₃ + 2 HCl → CaCl₂ + H₂O + CO₂.
+Warum entfernt Zitronensäure Kalk?|Sie reagiert mit Kalk zu löslichem Salz, Wasser und CO₂.|Sie wandelt Kalk in Natronlauge um.|Sie verdampft den Kalk.|Sie macht den Kalk magnetisch.|0|Das entstehende Calciumsalz löst sich in Wasser.
+Wozu dient eine Titration?|zur Bestimmung der Konzentration einer Säure oder Lauge|zur Bestimmung der Dichte|zum Filtern von Gemischen|zum Erhitzen von Lösungen|0|Man gibt eine Lösung bekannter Konzentration bis zum Neutralpunkt zu.
+Welchen pH-Wert hat die Lösung am Neutralpunkt bei der Titration von HCl mit NaOH?|14|7|1|0|1|Es liegt eine neutrale Kochsalzlösung vor.
+20 mL Salzsäure (0,1 mol/L) werden von 20 mL Natronlauge genau neutralisiert. Wie groß ist die Konzentration der Natronlauge?|0,05 mol/L|0,1 mol/L|1,0 mol/L|0,2 mol/L|1|Gleiche Volumina und gleiche Stoffmenge bedeuten gleiche Konzentration.
+Welchen pH-Wert hat Magensäure ungefähr?|7|13|1 bis 2|9 bis 10|2|Magensäure enthält Salzsäure.
+Welches Gas entsteht, wenn Zink mit Salzsäure reagiert?|Kohlenstoffdioxid|Sauerstoff|Chlor|Wasserstoff|3|Unedle Metalle lösen sich in Säuren unter H₂-Bildung.
+Wie weist man Wasserstoff nach?|mit der Glimmspanprobe|mit Lackmuspapier|mit der Knallgasprobe|mit Kalkwasser|2|Wasserstoff verbrennt mit einem Knall (pfeifendes Geräusch).
+Wie heißen die Salze der Salzsäure?|Chloride|Nitrate|Carbonate|Sulfate|0|Beispiel: Natriumchlorid.
+Wie heißen die Salze der Schwefelsäure?|Sulfate|Chloride|Carbonate|Nitrate|0|Beispiel: Natriumsulfat.
+Welche Gleichung für die Reaktion von Zink mit Salzsäure ist richtig?|Zn + HCl → ZnCl₂ + H₂|2 Zn + 2 HCl → ZnCl₂ + H₂|Zn + 2 HCl → ZnCl + H₂|Zn + 2 HCl → ZnCl₂ + H₂|3|Links und rechts: 1 Zn, 2 H, 2 Cl.
+Welche Gleichung für die Reaktion von Kalk mit Salzsäure ist richtig?|CaCO₃ + 2 HCl → CaCl + H₂O + CO₂|CaCO₃ + HCl → CaCl₂ + H₂O + CO₂|CaCO₃ + 2 HCl → CaCl₂ + H₂O + CO₂|CaCO₃ + 2 HCl → CaCl₂ + 2 H₂O + CO₂|2|Links und rechts: 1 Ca, 1 C, 3 O, 2 H, 2 Cl.
+Welche Gleichung für die Neutralisation von Calciumhydroxid mit Salzsäure ist richtig?|Ca(OH)₂ + HCl → CaCl₂ + H₂O|2 Ca(OH)₂ + 2 HCl → CaCl₂ + 2 H₂O|Ca(OH)₂ + 2 HCl → CaCl + 2 H₂O|Ca(OH)₂ + 2 HCl → CaCl₂ + 2 H₂O|3|Links und rechts: 1 Ca, 2 Cl, 4 H, 2 O.
+4 g Natriumhydroxid (M = 40 g/mol) werden zu 1 Liter Lösung aufgefüllt. Wie groß ist die Stoffmengenkonzentration?|4 mol/L|0,4 mol/L|0,1 mol/L|1 mol/L|2|n = 4 : 40 = 0,1 mol in 1 L.
+Welchen pH-Wert hat eine Salzsäure mit der Konzentration 0,01 mol/L (vollständig dissoziiert)?|1|2|12|0,01|1|c(H⁺) = 10⁻² mol/L, also pH = 2.
+Welchen pH-Wert hat eine Natronlauge mit der Konzentration 0,001 mol/L?|10|3|11|14|2|c(OH⁻) = 10⁻³ mol/L, pOH = 3, pH = 14 − 3 = 11.
+25 mL Natronlauge werden von 10 mL Salzsäure (0,5 mol/L) neutralisiert. Wie groß ist die Konzentration der Natronlauge?|0,1 mol/L|1,25 mol/L|0,2 mol/L|0,5 mol/L|2|n(HCl) = 0,005 mol, c(NaOH) = 0,005 : 0,025 = 0,2 mol/L.
+Wie viel mL Natronlauge (0,1 mol/L) neutralisieren 20 mL Schwefelsäure (0,05 mol/L)?|40 mL|20 mL|5 mL|10 mL|1|n(H₂SO₄) = 0,001 mol, benötigt werden 0,002 mol NaOH, also 20 mL.
+Warum leitet eine Säurelösung den elektrischen Strom?|Sie enthält frei bewegliche Ionen.|Sie enthält nur Atome.|Sie enthält freie Elektronen.|Sie enthält nur ungeladene Moleküle.|0|H₃O⁺ und die Säurerest-Ionen wandern im elektrischen Feld.
+Wie nennt man das hydratisierte H⁺-Ion in Wasser?|Peroxid H₂O₂|Hydroxid-Ion OH⁻|Oxonium-Ion H₃O⁺|H₂⁺-Ion|2|Ein H⁺ lagert sich an ein Wassermolekül an.
+Wie verändert sich der pH-Wert einer Lauge beim Verdünnen mit Wasser?|Er steigt weiter an.|Er sinkt und nähert sich 7.|Er wird negativ.|Er bleibt unverändert.|1|Die OH⁻-Konzentration nimmt ab.
+Welche Energieänderung zeigt eine Neutralisation?|Sie ist exotherm, die Lösung erwärmt sich.|Sie ist endotherm, die Lösung kühlt ab.|Es wird keine Energie umgesetzt.|Es entsteht nur Licht.|0|Bei der Bildung von Wasser aus H⁺ und OH⁻ wird Wärme frei.
+Wie viel Natriumhydroxid (M = 40 g/mol) braucht man, um 0,5 mol HCl zu neutralisieren?|10 g|40 g|80 g|20 g|3|0,5 mol NaOH · 40 g/mol = 20 g.
+Wie viel Natriumchlorid (M = 58,5 g/mol) entsteht bei der Neutralisation von 0,5 mol HCl mit NaOH?|58,5 g|14,6 g|29,25 g|20 g|2|Es entstehen 0,5 mol NaCl, das sind 29,25 g.
