@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Einheit hat die Kraft?|Newton (N)|Joule (J)|Watt (W)|Pascal (Pa)|0|1 N = 1 kg · m/s².
+Wie berechnet man die Gewichtskraft?|F = m + g|F = g : m|F = m : g|F = m · g|3|Gewichtskraft = Masse mal Ortsfaktor.
+Wie groß ist der Ortsfaktor g auf der Erde ungefähr?|1,6 N/kg|10 N/kg (genauer 9,81 N/kg)|1 N/kg|100 N/kg|1|Auf der Erde wirkt auf 1 kg etwa 10 N.
+Ein Körper hat die Masse 5 kg. Wie groß ist seine Gewichtskraft? (g = 10 N/kg)|500 N|5 N|50 N|0,5 N|2|F = 5 · 10 = 50 N.
+Was ändert sich für einen Astronauten auf dem Mond?|Die Masse wird kleiner.|Die Gewichtskraft wird kleiner, die Masse bleibt gleich.|Die Masse wird größer.|Masse und Gewichtskraft bleiben gleich.|1|Die Masse ist ortsunabhängig, die Gewichtskraft nicht.
+Mit welchem Gerät misst man Kräfte?|mit dem Voltmeter|mit dem Thermometer|mit dem Federkraftmesser|mit der Stoppuhr|2|Die Federdehnung ist proportional zur Kraft.
+Wie lautet das Hookesche Gesetz?|F = D · s|F = D + s|F = s : D|F = D : s|0|D ist die Federhärte, s die Dehnung.
+Was besagt das Trägheitsgesetz (1. Newtonsches Gesetz)?|Für jede gleichförmige Bewegung ist eine Kraft nötig.|Jeder Körper kommt von selbst zur Ruhe.|Ohne äußere Kraft bleibt ein Körper in Ruhe oder in gleichförmiger Bewegung.|Körper beschleunigen sich von selbst.|2|Kräfte verändern den Bewegungszustand.
+Wie lautet das 2. Newtonsche Gesetz?|F = m · a|F = m : a|F = a : m|F = m + a|0|Kraft = Masse mal Beschleunigung.
+Was besagt das 3. Newtonsche Gesetz (actio = reactio)?|Kraft und Gegenkraft sind gleichgerichtet.|Kraft und Gegenkraft sind gleich groß, entgegengesetzt gerichtet und greifen an verschiedenen Körpern an.|Die Gegenkraft ist immer kleiner.|Kraft und Gegenkraft greifen am selben Körper an.|1|Deshalb heben sich die beiden Kräfte nicht auf.
+In welche Richtung wirkt die Reibungskraft?|gar nicht|in Bewegungsrichtung|senkrecht zur Bewegung|der Bewegung entgegen|3|Reibung bremst Bewegungen.
+Welche Reibungsart ist meist am größten?|die Haftreibung|die Rollreibung|der Luftwiderstand|die Gleitreibung|0|Man braucht mehr Kraft, um einen ruhenden Körper loszureißen.
+Welche Einheit hat der Druck?|Watt (W)|Joule (J)|Newton (N)|Pascal (Pa)|3|1 Pa = 1 N/m².
+Wie lautet die Formel für den Druck?|p = A : F|p = F : A|p = F + A|p = F · A|1|Druck = Kraft durch Fläche.
+Wie viel ist 1 Pascal?|1 kg/m³|1 N · m|1 J/s|1 N/m²|3|Eine Kraft von 1 N auf 1 m².
+Welche Angaben legen eine Kraft eindeutig fest?|Betrag, Richtung und Angriffspunkt|Masse und Zeit|nur der Betrag|nur die Richtung|0|Kräfte sind Vektoren und werden durch Pfeile dargestellt.
+Wie lautet die Formel für den Impuls?|p = m + v|p = m : v|p = m · v|p = m · a|2|Impuls = Masse mal Geschwindigkeit.
+Eine Feder (Federhärte 50 N/m) wird 0,2 m gedehnt. Wie groß ist die Kraft?|250 N|10 N|100 N|0,004 N|1|F = D · s = 50 · 0,2 = 10 N.
+Eine Feder wird durch 6 N um 0,03 m gedehnt. Wie groß ist die Federhärte?|0,005 N/m|0,18 N/m|200 N/m|2 N/m|2|D = F : s = 6 : 0,03 = 200 N/m.
+Zwei Kräfte (30 N und 40 N) wirken in dieselbe Richtung. Wie groß ist die Gesamtkraft?|1200 N|10 N|50 N|70 N|3|Die Beträge addieren sich.
+Zwei Kräfte (30 N und 40 N) wirken in entgegengesetzte Richtungen. Wie groß ist die Gesamtkraft?|50 N|1200 N|70 N|10 N|3|Die Beträge werden subtrahiert.
+Zwei Kräfte (30 N und 40 N) wirken senkrecht zueinander. Wie groß ist die Gesamtkraft?|70 N|50 N|10 N|35 N|1|Satz des Pythagoras: √(900 + 1600) = 50.
+Ein Körper (2 kg) wird mit 3 m/s² beschleunigt. Wie groß ist die Kraft?|0,67 N|5 N|1,5 N|6 N|3|F = m · a = 2 · 3 = 6 N.
+Auf einen Körper (4 kg) wirkt die Kraft 20 N. Wie groß ist die Beschleunigung?|5 m/s²|0,2 m/s²|16 m/s²|80 m/s²|0|a = F : m = 20 : 4 = 5 m/s².
+Ein Auto (1000 kg) beschleunigt mit 2 m/s². Welche Kraft ist nötig?|500 N|0,002 N|1002 N|2000 N|3|F = 1000 · 2 = 2000 N.
+Eine Person hat die Masse 70 kg. Wie groß ist ihre Gewichtskraft? (g = 10 N/kg)|70 N|7000 N|700 N|7 N|2|F = 70 · 10 = 700 N.
+Auf dem Mond gilt g = 1,6 N/kg. Wie groß ist die Gewichtskraft einer Person mit 70 kg?|11,2 N|43,75 N|112 N|700 N|2|F = 70 · 1,6 = 112 N.
+Die Normalkraft beträgt 200 N, die Reibungszahl 0,3. Wie groß ist die Reibungskraft?|60 N|600 N|666 N|0,0015 N|0|F(R) = μ · F(N) = 0,3 · 200 = 60 N.
+Ein Schlitten wird mit konstanter Geschwindigkeit gezogen. Was gilt?|Die Zugkraft ist größer als die Reibungskraft.|Die Zugkraft ist so groß wie die Reibungskraft.|Die Reibungskraft ist null.|Die Zugkraft ist kleiner als die Reibungskraft.|1|Bei konstanter Geschwindigkeit ist die Gesamtkraft null.
+Auf eine Fläche von 0,5 m² wirkt die Kraft 100 N. Wie groß ist der Druck?|50 Pa|200 Pa|0,005 Pa|100 Pa|1|p = 100 : 0,5 = 200 Pa.
+Warum sinkt man mit Schneeschuhen weniger tief ein?|Die Masse wird kleiner.|Die größere Auflagefläche verringert den Druck.|Die Reibung wird kleiner.|Die Kraft wird größer.|1|p = F : A, bei größerem A sinkt p.
+Ein Auto (1000 kg) fährt mit 20 m/s. Wie groß ist sein Impuls?|2 000 kg · m/s|20 000 kg · m/s|200 000 kg · m/s|50 kg · m/s|1|p = 1000 · 20 = 20 000 kg · m/s.
+Ein Wagen (2 kg, 3 m/s) stößt auf einen ruhenden Wagen (1 kg), beide bleiben aneinander haften. Welche Geschwindigkeit haben sie danach?|1,5 m/s|1 m/s|2 m/s|3 m/s|2|Impulserhaltung: 6 = 3 · v, also v = 2 m/s.
+Wie funktioniert ein Raketenantrieb?|Die ausgestoßenen Gase erhalten Impuls nach hinten, die Rakete nach vorn (Impulserhaltung).|Die Rakete drückt sich von der Erde ab.|Die Gase drücken gegen die Luft.|Die Rakete wird durch Auftrieb getragen.|0|Der Gesamtimpuls bleibt erhalten.
+Warum werden Insassen beim Bremsen eines Autos nach vorn bewegt?|wegen der Trägheit|wegen des Auftriebs|wegen der Gewichtskraft|wegen der Zentrifugalkraft|0|Der Körper behält seine Geschwindigkeit, bis eine Kraft wirkt.
+Warum kann man gehen?|Der Boden übt eine gleich große Gegenkraft nach vorn aus.|Die Gewichtskraft zieht einen vorwärts.|Die Reibung wirkt nach hinten.|Die Luft schiebt einen vorwärts.|0|Man schiebt den Boden nach hinten, nach actio = reactio schiebt er zurück.
+Ein Auto (1200 kg) bremst in 5 s von 25 m/s auf 0. Wie groß ist die mittlere Bremskraft?|6000 N|1200 N|30 000 N|240 N|0|a = 25 : 5 = 5 m/s², F = 1200 · 5 = 6000 N.
+Ein Fahrstuhl beschleunigt mit 2 m/s² nach oben. Mit welcher Kraft drückt eine Person (80 kg) auf den Boden? (g = 10 m/s²)|960 N|800 N|160 N|640 N|0|F = m · (g + a) = 80 · 12 = 960 N.
+Ein Fahrstuhl beschleunigt mit 2 m/s² nach unten. Mit welcher Kraft drückt eine Person (80 kg) auf den Boden? (g = 10 m/s²)|640 N|160 N|960 N|800 N|0|F = m · (g − a) = 80 · 8 = 640 N.
+Ein Körper (10 kg) liegt auf einer schiefen Ebene mit 30° Neigung. Wie groß ist die Hangabtriebskraft? (g = 10 N/kg)|50 N|5 N|86,6 N|100 N|0|F(H) = F(G) · sin 30° = 100 · 0,5 = 50 N.
+Ein Auto (1000 kg) hat 3000 N Antriebskraft und 1000 N Gegenkräfte (Reibung und Luftwiderstand). Wie groß ist die Beschleunigung?|1 m/s²|2 m/s²|4 m/s²|3 m/s²|1|F(res) = 2000 N, a = 2000 : 1000 = 2 m/s².
+Ein Schlitten (20 kg) wird mit 60 N waagrecht gezogen, die Reibungszahl beträgt 0,2 (g = 10 N/kg). Wie groß ist die Beschleunigung?|1 m/s²|3 m/s²|0,5 m/s²|2 m/s²|0|F(R) = 0,2 · 200 = 40 N, F(res) = 20 N, a = 20 : 20 = 1 m/s².
+Was passiert beim zentralen elastischen Stoß zweier gleich schwerer Kugeln, von denen eine ruht?|Die stoßende Kugel bleibt stehen, die andere bewegt sich mit der ursprünglichen Geschwindigkeit weiter.|Beide bewegen sich mit halber Geschwindigkeit weiter.|Beide bleiben stehen.|Die stoßende Kugel prallt mit gleicher Geschwindigkeit zurück.|0|Impuls und Bewegungsenergie bleiben erhalten, die Kugeln tauschen ihre Geschwindigkeiten.
+Ein Gewehr (4 kg) feuert eine Kugel (10 g) mit 400 m/s ab. Wie groß ist die Rückstoßgeschwindigkeit des Gewehrs?|100 m/s|0,01 m/s|1 m/s|40 m/s|2|Impulserhaltung: 0,01 · 400 = 4 · v, also v = 1 m/s.
+Ein Ball (0,4 kg) trifft mit 10 m/s auf eine Wand und wird in 0,02 s gestoppt. Wie groß ist die mittlere Kraft?|0,08 N|8000 N|4 N|200 N|3|Δp = 4 kg · m/s, F = Δp : Δt = 4 : 0,02 = 200 N.
+Warum verringert ein Airbag die Verletzungsgefahr?|Er erhöht die Geschwindigkeit.|Er verlängert die Bremszeit, dadurch sinkt die Kraft bei gleicher Impulsänderung.|Er verringert die Masse der Insassen.|Er erhöht die Reibung.|1|F · Δt = Δp, bei größerem Δt wird F kleiner.
+Wie groß ist der Schweredruck des Wassers in 10 m Tiefe? (ρ = 1000 kg/m³, g = 10 N/kg)|1 000 Pa|1 000 000 Pa|10 000 Pa|100 000 Pa|3|p = ρ · g · h = 1000 · 10 · 10 = 100 000 Pa (1 bar).
+Bei einer hydraulischen Presse hat der Kolben 1 die Fläche 10 cm², der Kolben 2 die Fläche 200 cm². Auf Kolben 1 wirken 50 N. Welche Kraft entsteht an Kolben 2?|2,5 N|500 N|1000 N|100 N|2|Der Druck ist gleich: F₂ = 50 · 200 : 10 = 1000 N.
+Ein Körper mit 2 Litern Volumen taucht vollständig in Wasser ein. Wie groß ist die Auftriebskraft? (ρ = 1000 kg/m³, g = 10 N/kg)|2 N|0,2 N|20 N|200 N|2|F(A) = ρ · g · V = 1000 · 10 · 0,002 = 20 N.
+Wann schwimmt ein Körper in einer Flüssigkeit?|Wenn seine mittlere Dichte kleiner als die der Flüssigkeit ist.|Wenn seine mittlere Dichte größer ist.|Wenn sein Volumen größer als 1 Liter ist.|Wenn seine Masse größer als 1 kg ist.|0|Dann ist die Auftriebskraft größer als die Gewichtskraft.

@@ -1616,6 +1616,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 10,
+      "subject": "Science",
+      "country": "DE",
+      "chapters": [
+        {
+          "id": "de-p10-ki",
+          "title": "Kinematik: Beschreibung von Bewegungen",
+          "lessons": [
+            {
+              "id": "de-p10-ki-01",
+              "title": "Geschwindigkeit und gleichförmige Bewegung"
+            },
+            {
+              "id": "de-p10-ki-02",
+              "title": "Beschleunigte Bewegung"
+            },
+            {
+              "id": "de-p10-ki-03",
+              "title": "Freier Fall und senkrechter Wurf"
+            },
+            {
+              "id": "de-p10-ki-04",
+              "title": "Bewegungsdiagramme und Relativbewegung"
+            }
+          ]
+        },
+        {
+          "id": "de-p10-kr",
+          "title": "Dynamik: Kraft und Impuls",
+          "lessons": [
+            {
+              "id": "de-p10-kr-01",
+              "title": "Kraft, Gewichtskraft und Hookesches Gesetz"
+            },
+            {
+              "id": "de-p10-kr-02",
+              "title": "Newtonsche Gesetze"
+            },
+            {
+              "id": "de-p10-kr-03",
+              "title": "Reibung, Druck und Auftrieb"
+            },
+            {
+              "id": "de-p10-kr-04",
+              "title": "Impuls und Impulserhaltung"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

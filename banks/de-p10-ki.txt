@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie lautet die Formel für die Geschwindigkeit bei gleichförmiger Bewegung?|v = s + t|v = s · t|v = t : s|v = s : t|3|Geschwindigkeit = Weg durch Zeit.
+Welche SI-Einheit hat die Geschwindigkeit?|N|m/s|m|m/s²|1|Weg in Metern durch Zeit in Sekunden.
+Wie viel m/s sind 36 km/h?|10 m/s|36 m/s|100 m/s|3,6 m/s|0|36 : 3,6 = 10.
+Wie viel km/h sind 20 m/s?|200 km/h|5,6 km/h|72 km/h|20 km/h|2|20 · 3,6 = 72.
+Was kennzeichnet eine gleichförmige Bewegung?|Die Geschwindigkeit wechselt ständig.|Der Körper steht still.|Die Beschleunigung ist konstant.|Die Geschwindigkeit ist konstant.|3|Pro Zeiteinheit wird immer derselbe Weg zurückgelegt.
+Wie sieht das Weg-Zeit-Diagramm einer gleichförmigen Bewegung aus?|eine Hyperbel|eine waagrechte Gerade|eine Parabel|eine Gerade durch den Ursprung|3|Der Weg wächst proportional zur Zeit.
+Ein Körper bewegt sich mit 5 m/s 10 s lang. Welchen Weg legt er zurück?|15 m|50 m|0,5 m|2 m|1|s = v · t = 5 · 10 = 50 m.
+Ein Körper legt 100 m in 20 s zurück. Wie groß ist seine Geschwindigkeit?|2000 m/s|0,2 m/s|80 m/s|5 m/s|3|v = 100 : 20 = 5 m/s.
+Was gibt die Beschleunigung an?|den Weg pro Zeit|die Masse pro Volumen|die Geschwindigkeitsänderung pro Zeit|die Arbeit pro Zeit|2|a = Δv : Δt.
+Welche SI-Einheit hat die Beschleunigung?|J|m/s²|N|m/s|1|Geschwindigkeitsänderung in m/s pro Sekunde.
+Wie lautet die Formel für die Beschleunigung?|a = Δv · Δt|a = Δt : Δv|a = Δv : Δt|a = s : t|2|Die Beschleunigung ist die Änderung der Geschwindigkeit durch die dafür benötigte Zeit.
+Wie groß ist die Fallbeschleunigung auf der Erde ungefähr?|1 m/s²|10 m/s² (genauer 9,81 m/s²)|100 m/s²|3,7 m/s²|1|Im Vakuum nimmt die Geschwindigkeit pro Sekunde um etwa 10 m/s zu.
+Wie wächst die Geschwindigkeit bei gleichmäßiger Beschleunigung?|quadratisch mit der Zeit|gar nicht|sie bleibt konstant|gleichmäßig (linear) mit der Zeit|3|v = a · t.
+Wie fallen Körper unterschiedlicher Masse im Vakuum?|Sie fallen gar nicht.|Alle fallen gleich schnell.|Schwere fallen schneller.|Leichte fallen schneller.|1|Die Fallbeschleunigung hängt nicht von der Masse ab.
+Wie nennt man eine negative Beschleunigung, z. B. beim Bremsen?|Verzögerung|freier Fall|gleichförmige Bewegung|Trägheit|0|Die Geschwindigkeit nimmt dabei ab.
+Warum gibt man Geschwindigkeiten immer in Bezug auf ein Bezugssystem an?|Weil man sonst nicht messen kann.|Ruhe und Bewegung hängen vom Bezugssystem ab.|Weil Bezugssysteme die Masse ändern.|Weil Geschwindigkeiten immer konstant sind.|1|Ein Fahrgast ruht im Zug, bewegt sich aber relativ zum Bahnsteig.
+Wie berechnet man die Durchschnittsgeschwindigkeit?|Mittelwert der Beschleunigungen|Gesamtweg durch Gesamtzeit|Anfangsgeschwindigkeit mal Zeit|größte Geschwindigkeit durch zwei|1|v(mittel) = s(gesamt) : t(gesamt).
+Wie viel m/s sind 108 km/h?|108 m/s|300 m/s|15 m/s|30 m/s|3|108 : 3,6 = 30.
+Ein Auto fährt 2 Stunden mit 80 km/h. Welche Strecke legt es zurück?|160 km|82 km|80 km|40 km|0|s = 80 · 2 = 160 km.
+Ein Auto legt 150 km in 1,5 Stunden zurück. Wie groß ist die Durchschnittsgeschwindigkeit?|225 km/h|150 km/h|100 km/h|10 km/h|2|v = 150 : 1,5 = 100 km/h.
+Die Geschwindigkeit steigt in 4 s von 0 auf 20 m/s. Wie groß ist die Beschleunigung?|20 m/s²|5 m/s²|0,2 m/s²|80 m/s²|1|a = 20 : 4 = 5 m/s².
+Ein Körper beschleunigt mit 2 m/s² aus der Ruhe 6 s lang. Wie groß ist die Geschwindigkeit?|12 m/s|8 m/s|24 m/s|3 m/s|0|v = a · t = 2 · 6 = 12 m/s.
+Ein Körper beschleunigt mit 2 m/s² aus der Ruhe 5 s lang. Welchen Weg legt er zurück?|10 m|50 m|12,5 m|25 m|3|s = ½ · a · t² = ½ · 2 · 25 = 25 m.
+Ein Auto bremst von 20 m/s mit 5 m/s² (Verzögerung). Wie lange dauert das Bremsen?|4 s|0,25 s|100 s|15 s|0|t = v : a = 20 : 5 = 4 s.
+Ein Stein fällt 3 s frei (g = 10 m/s²). Wie groß ist seine Geschwindigkeit?|10 m/s|90 m/s|30 m/s|3 m/s|2|v = g · t = 10 · 3 = 30 m/s.
+Ein Stein fällt 3 s frei (g = 10 m/s²). Welche Strecke hat er zurückgelegt?|15 m|45 m|30 m|90 m|1|s = ½ · 10 · 9 = 45 m.
+Ein Stein fällt aus 20 m Höhe (g = 10 m/s²). Wie lange dauert der Fall?|10 s|4 s|1 s|2 s|3|t = √(2 · 20 : 10) = 2 s.
+Ein Stein fällt aus 20 m Höhe (g = 10 m/s²). Mit welcher Geschwindigkeit trifft er auf?|10 m/s|200 m/s|40 m/s|20 m/s|3|v = g · t = 10 · 2 = 20 m/s.
+Was entspricht der Fläche unter dem Graphen im Geschwindigkeit-Zeit-Diagramm?|der Geschwindigkeit|der Beschleunigung|der Zeit|dem zurückgelegten Weg|3|Weg = Geschwindigkeit mal Zeit.
+Was gibt die Steigung im Weg-Zeit-Diagramm an?|die Geschwindigkeit|den Weg|die Zeit|die Beschleunigung|0|Steigung = Weg durch Zeit.
+Was gibt die Steigung im Geschwindigkeit-Zeit-Diagramm an?|die Zeit|den Weg|die Beschleunigung|die Geschwindigkeit|2|Steigung = Geschwindigkeitsänderung durch Zeit.
+Was bedeutet eine waagrechte Linie im Geschwindigkeit-Zeit-Diagramm?|konstante Beschleunigung|konstante Geschwindigkeit, die Beschleunigung ist null|immer Stillstand|Bewegungsumkehr|1|Die Geschwindigkeit ändert sich nicht.
+Was bedeutet eine vom Ursprung ansteigende Gerade im Geschwindigkeit-Zeit-Diagramm?|Verzögerung|gleichmäßig beschleunigte Bewegung aus der Ruhe|gleichförmige Bewegung|Stillstand|1|v wächst proportional zur Zeit.
+Zwei Autos fahren in gleicher Richtung mit 20 m/s und 25 m/s. Wie groß ist die Relativgeschwindigkeit?|500 m/s|5 m/s|22,5 m/s|45 m/s|1|Bei gleicher Richtung subtrahiert man.
+Zwei Autos fahren aufeinander zu mit 20 m/s und 25 m/s. Wie groß ist die Relativgeschwindigkeit?|5 m/s|22,5 m/s|500 m/s|45 m/s|3|Bei entgegengesetzter Richtung addiert man.
+Ein 100 m langer Zug fährt mit 10 m/s über eine 200 m lange Brücke. Wie lange dauert es, bis er die Brücke vollständig passiert hat?|30 s|40 s|10 s|20 s|0|Er legt 100 m + 200 m = 300 m zurück, 300 : 10 = 30 s.
+Ein Auto beschleunigt aus der Ruhe mit 3 m/s² über 8 s. Welchen Weg legt es zurück?|192 m|48 m|24 m|96 m|3|s = ½ · 3 · 64 = 96 m.
+Ein Auto beschleunigt aus der Ruhe mit 3 m/s² über 8 s. Welche Geschwindigkeit hat es danach?|96 m/s|48 m/s|24 m/s|12 m/s|2|v = 3 · 8 = 24 m/s.
+Ein Auto bremst von 20 m/s mit 5 m/s² bis zum Stillstand. Wie lang ist der Bremsweg?|40 m|4 m|20 m|80 m|0|s = v² : (2a) = 400 : 10 = 40 m.
+Wie ändert sich der Bremsweg, wenn die Anfangsgeschwindigkeit verdoppelt wird (gleiche Verzögerung)?|Er wird 8-mal so lang.|Er wird 2-mal so lang.|Er wird 4-mal so lang.|Er bleibt gleich.|2|Der Bremsweg ist proportional zu v².
+Ein Stein wird mit 20 m/s senkrecht nach oben geworfen (g = 10 m/s²). Wie lange steigt er?|20 s|4 s|2 s|1 s|2|t = v : g = 20 : 10 = 2 s.
+Ein Stein wird mit 20 m/s senkrecht nach oben geworfen (g = 10 m/s²). Wie hoch steigt er?|40 m|10 m|2 m|20 m|3|h = v² : (2g) = 400 : 20 = 20 m.
+Wie groß ist die Geschwindigkeit eines senkrecht nach oben geworfenen Steins am höchsten Punkt?|20 m/s|0 m/s|10 m/s|−10 m/s|1|Dort kehrt sich die Bewegungsrichtung um.
+Wie groß ist die Beschleunigung am höchsten Punkt eines senkrechten Wurfs?|10 m/s² nach unten|20 m/s² nach oben|0 m/s²|10 m/s² nach oben|0|Die Fallbeschleunigung wirkt immer nach unten.
+Ein Auto fährt mit 72 km/h. Die Reaktionszeit beträgt 1 s. Wie lang ist der Reaktionsweg?|20 m|2 m|72 m|7,2 m|0|72 km/h = 20 m/s, s = 20 · 1 = 20 m.
+Ein Auto fährt mit 72 km/h, die Reaktionszeit beträgt 1 s, die Bremsverzögerung 5 m/s². Wie lang ist der Anhalteweg?|20 m|40 m|80 m|60 m|3|Reaktionsweg 20 m plus Bremsweg 40 m.
+Auto A fährt mit 20 m/s, Auto B fährt 100 m dahinter mit 25 m/s. Nach welcher Zeit holt B auf?|2,2 s|4 s|20 s|5 s|2|Der Abstand schrumpft mit 5 m/s: 100 : 5 = 20 s.
+Hinweg 60 km/h, Rückweg 40 km/h, gleiche Strecke. Wie groß ist die Durchschnittsgeschwindigkeit insgesamt?|20 km/h|48 km/h|100 km/h|50 km/h|1|Bei der Strecke s: Gesamtzeit s/60 + s/40, v = 2s : (s/60 + s/40) = 48 km/h.
+Ein Stein fällt aus 80 m Höhe (g = 10 m/s²). Wie lange dauert der Fall?|4 s|16 s|8 s|2 s|0|t = √(2 · 80 : 10) = √16 = 4 s.
+Die Geschwindigkeit eines Körpers steigt in 5 s gleichmäßig von 0 auf 10 m/s. Welchen Weg legt er zurück?|10 m|50 m|25 m|2 m|2|Fläche des Dreiecks: ½ · 5 · 10 = 25 m.
