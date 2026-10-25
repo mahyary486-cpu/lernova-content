@@ -44,6 +44,19 @@ for pk in sorted(glob.glob('packs/*.json')):
 ix = json.load(open('index.json', encoding='utf-8'))
 chs = [c['id'] for g in ix['grades'] for c in g['chapters']]
 say('g9-ch3' in chs and all('ir9m-ch%d' % n in chs for n in range(1, 9)), 'فصل‌ها در index.json ثبت شده‌اند')
+# 5) the app finds content by country + TITLE, so titles must be unique inside a country
+import collections
+dups = []
+for cc in sorted({g.get('country', 'US') for g in ix['grades']}):
+    seen = collections.defaultdict(list)
+    for g in ix['grades']:
+        if g.get('country', 'US') != cc: continue
+        for c in g['chapters']:
+            seen[c['title']].append(c['id'])
+            for l in c['lessons']: seen[l['title']].append(l['id'])
+    dups += [(cc, t, ids) for t, ids in seen.items() if len(ids) > 1]
+say(not dups, 'عنوان فصل‌ها و درس‌ها در هر کشور یکتاست (اپ با عنوان پیدایشان می‌کند)' +
+    ('' if not dups else ' (تکراری: %s)' % dups[:3]))
 v = json.load(open('version.json'))
 import re as _re
 fa_n = [f for f in sorted(glob.glob('summaries/ir9*.json'))
