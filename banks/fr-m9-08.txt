@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Combien d’axes de symétrie un carré possède-t-il ?|2|4|1|8|1|Un carré a 2 axes passant par les milieux des côtés et 2 axes qui sont ses diagonales : 4 axes en tout.
+Une transformation qui conserve les longueurs et les angles est :|une homothétie de rapport 3|un agrandissement|une réduction|une translation|3|La translation conserve les longueurs, les angles et les aires.
+Quelle est l’image du point (2 ; 3) par la symétrie centrale de centre O(0 ; 0) ?|(−2 ; −3)|(2 ; −3)|(−2 ; 3)|(3 ; 2)|0|La symétrie centrale de centre O envoie (a ; b) sur (−a ; −b).
+Quelle est la formule du volume d’un cylindre ?|(1/3) × π × r² × h|2 × π × r × h|π × r² × h|(4/3) × π × r³|2|V = aire de la base × hauteur = π × r² × h.
+Quelle est la formule du volume d’une boule de rayon r ?|4 × π × r²|π × r²|(4/3) × π × r³|(1/3) × π × r³|2|V = (4/3) × π × r³.
+En Scratch, quel bloc répète des instructions plusieurs fois ?|La boucle « répéter »|Le bloc « si … alors »|Le bloc « dire »|Le bloc « attendre »|0|Une boucle répète une suite d’instructions.
+Quel volume a un pavé droit de 2 cm sur 3 cm sur 4 cm ?|9 cm³|12 cm³|26 cm³|24 cm³|3|V = 2 × 3 × 4 = 24 cm³.
+L’image d’un cercle par une homothétie est :|une ellipse|un cercle|un carré|une droite|1|Une homothétie transforme un cercle en cercle.
+1 dm³ équivaut à :|1 mL|1 L|10 L|100 L|1|1 dm³ = 1 L.
+En Scratch, pour tracer un carré, de combien de degrés tourne-t-on à chaque coin ?|45|180|60|90|3|Un carré a quatre angles droits : on tourne de 90 degrés.
+Une pyramide a une base de 36 cm² et une hauteur de 9 cm. Quel est son volume ?|108 cm³|324 cm³|27 cm³|36 cm³|0|V = (1/3) × 36 × 9 = 108 cm³.
+Quel est le volume d’un cône de rayon 3 cm et de hauteur 4 cm ?|36π cm³|4π cm³|12π cm³|48π cm³|2|V = (1/3) × π × 3² × 4 = (1/3) × 36π = 12π cm³.
+Homothétie de centre O et de rapport 2 : quelle est l’image du point (3 ; 1) ?|(5 ; 3)|(1,5 ; 0,5)|(6 ; 2)|(−6 ; −2)|2|On multiplie les coordonnées par 2 : (6 ; 2).
+Homothétie de rapport −2 de centre O : quelle est l’image de (3 ; 1) ?|(−6 ; −2)|(6 ; 2)|(−1,5 ; −0,5)|(5 ; 3)|0|On multiplie les coordonnées par −2 : (−6 ; −2).
+Une homothétie de rapport 3 est appliquée à un triangle d’aire 5 cm². Quelle est l’aire de l’image ?|15 cm²|25 cm²|135 cm²|45 cm²|3|Les aires sont multipliées par k² = 9, donc 5 × 9 = 45 cm².
+Quel est le volume d’une boule de rayon 3 cm ?|12π cm³|36π cm³|27π cm³|108π cm³|1|V = (4/3) × π × 27 = 36π cm³.
+Quelle est l’image du point (1 ; 4) par la translation de vecteur (3 ; −2) ?|(−2 ; 6)|(4 ; 2)|(4 ; 6)|(3 ; −8)|1|On ajoute les composantes : (1 + 3 ; 4 − 2) = (4 ; 2).
+Dans Scratch : mettre x à 5, ajouter 3 à x, puis multiplier x par 2. Quelle est la valeur finale de x ?|13|11|10|16|3|5 + 3 = 8 puis 8 × 2 = 16.
+Pour tracer un triangle équilatéral en Scratch, on répète 3 fois : avancer, puis tourner de :|120 degrés|60 degrés|90 degrés|30 degrés|0|On tourne de 360 ÷ 3 = 120 degrés à chaque sommet.
+Quelle transformation envoie M sur M’ tel que O soit le milieu de [MM’] ?|La symétrie axiale|La translation|La symétrie centrale de centre O|L’homothétie de rapport 2|2|Si O est le milieu de [MM’], M’ est le symétrique de M par rapport au point O.
+Une pyramide est coupée par un plan parallèle à la base, à mi-hauteur. Le volume de la petite pyramide est égal à quelle fraction du volume de la grande ?|1/2|1/4|1/8|1/3|2|Le rapport de réduction est 1/2, donc le volume est multiplié par (1/2)³ = 1/8.
+Quelle est l’aire d’une sphère de rayon 5 cm ?|100π cm²|25π cm²|20π cm²|500π/3 cm²|0|A = 4 × π × 5² = 100π cm².
+Un récipient cylindrique a un rayon de 5 cm. De quelle hauteur monte l’eau quand on y verse 250π cm³ ?|50 cm|5 cm|25 cm|10 cm|3|V = π × r² × h donc 250π = 25π × h et h = 10 cm.
+On coupe une boule de rayon 5 cm par un plan passant par son centre. Quelle est la section ?|Un cercle de rayon 2,5 cm|Un cercle de rayon 5 cm|Un disque de rayon 10 cm|Un carré|1|Une section par un plan passant par le centre est un grand cercle de même rayon que la boule.
+Dans Scratch : x vaut 3 au départ. « Répéter jusqu’à ce que x > 100 : mettre x à x × 2 ». Quelle est la valeur finale de x ?|96|192|100|200|1|x prend les valeurs 6, 12, 24, 48, 96 puis 192. Comme 192 > 100, la boucle s’arrête.
+Un cône a un volume de 100 cm³. On le réduit d’un rapport 1/2. Quel est son nouveau volume ?|50 cm³|25 cm³|6,25 cm³|12,5 cm³|3|Le volume est multiplié par (1/2)³ = 1/8 : 100 ÷ 8 = 12,5 cm³.
+Un cylindre et un cône ont la même base et la même hauteur. Le volume du cône est égal à :|un tiers de celui du cylindre|la moitié de celui du cylindre|le double de celui du cylindre|le même volume|0|V(cône) = (1/3) × aire de la base × h, alors que V(cylindre) = aire de la base × h.
+Quel est le centre de rotation qui envoie A(1 ; 0) sur B(0 ; 1) avec un angle de 90° dans le sens anti-horaire ?|(1 ; 1)|(0,5 ; 0,5)|O(0 ; 0)|(−1 ; −1)|2|OA = OB = 1 et l’angle AOB = 90° dans le sens anti-horaire, donc le centre O(0 ; 0) convient.
+L’image d’un segment de 6 cm par une homothétie de rapport −1/2 est un segment de longueur :|−3 cm|12 cm|3 cm|6 cm|2|Les longueurs sont multipliées par la valeur absolue du rapport, soit 1/2 : 6 × 1/2 = 3 cm. Une longueur n’est jamais négative.
+Quel est le volume en litres d’une boule de rayon 10 cm ? (arrondi au dixième)|4,2 L|4 188,8 L|41,9 L|0,4 L|0|V = (4/3) × π × 10³ ≈ 4 188,8 cm³ ≈ 4,2 dm³ = 4,2 L.

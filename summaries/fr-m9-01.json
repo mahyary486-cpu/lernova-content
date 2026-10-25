@@ -1,0 +1,6 @@
+{
+ "Multiples, diviseurs et critères de divisibilité": "Un nombre a est un multiple de b s’il existe un entier k tel que a = b × k ; on dit alors que b est un diviseur de a. Les critères de divisibilité permettent de savoir sans poser la division si un nombre est divisible par 2, 3, 5, 9 ou 10.",
+ "Nombres premiers et décomposition en facteurs premiers": "Un nombre premier a exactement deux diviseurs : 1 et lui-même. Tout entier supérieur ou égal à 2 se décompose de façon unique en produit de nombres premiers, à l’ordre des facteurs près.",
+ "PGCD de deux nombres et algorithme d’Euclide": "Le PGCD de deux entiers est leur plus grand diviseur commun. On le calcule avec les diviseurs communs, la décomposition en facteurs premiers ou l’algorithme d’Euclide : PGCD(a ; b) = PGCD(b ; r) où r est le reste de la division de a par b.",
+ "Fractions irréductibles et problèmes d’arithmétique": "Une fraction est irréductible quand son numérateur et son dénominateur sont premiers entre eux. Pour la rendre irréductible, on divise le numérateur et le dénominateur par leur PGCD."
+}

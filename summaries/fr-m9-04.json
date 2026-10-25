@@ -1,0 +1,6 @@
+{
+ "Équations du premier degré à une inconnue": "Résoudre une équation, c’est trouver toutes les valeurs de l’inconnue qui rendent l’égalité vraie. On conserve l’égalité en ajoutant, soustrayant, multipliant ou divisant les deux membres par un même nombre (non nul pour la multiplication et la division).",
+ "Équations produit nul": "Un produit de facteurs est nul si et seulement si l’un au moins de ses facteurs est nul. Ainsi l’équation (x − a)(x − b) = 0 a pour solutions a et b.",
+ "Inéquations du premier degré": "Une inéquation compare deux expressions avec <, >, ≤ ou ≥. On la résout comme une équation, sauf que multiplier ou diviser par un nombre négatif change le sens de l’inégalité. Les solutions sont un ensemble de nombres, représentés sur une droite graduée.",
+ "Systèmes de deux équations à deux inconnues": "Un système de deux équations à deux inconnues se résout par substitution ou par combinaison. Sa solution est un couple (x ; y) qui vérifie les deux équations à la fois ; graphiquement, c’est le point d’intersection de deux droites."
+}

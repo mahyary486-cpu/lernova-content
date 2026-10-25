@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Développer 3(x + 4).|3x + 4|3x + 12|x + 12|3x + 7|1|On multiplie 3 par chaque terme : 3x + 12.
+Réduire 5x + 2x.|7x²|10x|3x|7x|3|On additionne les coefficients de x : 5 + 2 = 7.
+Développer 2(x − 5).|2x − 10|2x − 5|2x + 10|x − 10|0|2 × x = 2x et 2 × (−5) = −10.
+Quelle expression est égale à (a + b)² ?|a² + b²|a² − 2ab + b²|a² + 2ab + b²|a² + ab + b²|2|C’est la première identité remarquable.
+Quelle expression est égale à (a + b)(a − b) ?|a² + b²|a² − 2ab + b²|a² − b²|(a − b)²|2|C’est la différence de deux carrés.
+Factoriser 4x + 8.|4(x + 2)|4(x + 8)|x(4 + 8)|2(x + 4)|0|4 est un facteur commun : 4x + 8 = 4(x + 2).
+Réduire 3x + 4 − x + 1.|4x + 5|2x + 3|3x + 5|2x + 5|3|3x − x = 2x et 4 + 1 = 5.
+Que vaut 3x² pour x = 2 ?|36|12|18|6|1|3x² = 3 × 2² = 3 × 4 = 12.
+Développer −(x − 3).|−x − 3|−x + 3|x − 3|−x|1|Le signe moins change tous les signes dans la parenthèse : −x + 3.
+Calculer 101² avec une identité remarquable.|10 101|10 021|10 100|10 201|3|101² = (100 + 1)² = 10 000 + 200 + 1 = 10 201.
+Développer (x + 3)(x + 5).|x² + 8x + 15|x² + 15|x² + 8x + 8|x² + 15x + 8|0|x × x = x², x × 5 + 3 × x = 8x, 3 × 5 = 15.
+Développer (x − 4)².|x² − 16|x² + 16|x² − 8x + 16|x² − 4x + 16|2|(x − 4)² = x² − 2 × x × 4 + 4² = x² − 8x + 16.
+Développer (2x + 1)².|4x² + 1|2x² + 4x + 1|4x² + 4x + 1|4x² + 2x + 1|2|(2x)² = 4x², 2 × 2x × 1 = 4x et 1² = 1.
+Factoriser x² − 25.|(x + 5)(x − 5)|(x − 5)²|(x + 25)(x − 1)|x(x − 25)|0|x² − 25 = x² − 5² = (x + 5)(x − 5).
+Factoriser x² − 7x.|(x − 7)²|x(x + 7)|7(x − 1)|x(x − 7)|3|x est un facteur commun : x² − 7x = x(x − 7).
+Développer et réduire (x + 2)(x − 3).|x² − 6|x² − x − 6|x² + x − 6|x² − 5x − 6|1|x² − 3x + 2x − 6 = x² − x − 6.
+Factoriser x² + 10x + 25.|(x + 25)²|(x + 5)²|(x + 10)(x + 25)|(x − 5)²|1|x² + 2 × x × 5 + 5² = (x + 5)².
+Développer et réduire 2(x + 1) + 3(x − 2).|5x + 4|5x − 1|5x − 8|5x − 4|3|2x + 2 + 3x − 6 = 5x − 4.
+Calculer 49 × 51 avec une identité remarquable.|2 499|2 501|2 500|2 401|0|49 × 51 = (50 − 1)(50 + 1) = 50² − 1² = 2 500 − 1 = 2 499.
+Réduire 2x² + 3x − x² + 5x.|x² + 2x|3x² + 8x|x² + 8x|x² + 8|2|2x² − x² = x² et 3x + 5x = 8x.
+Factoriser 9x² − 16.|(3x − 4)²|(9x + 16)(9x − 16)|(3x + 4)(3x − 4)|3(3x − 16)|2|9x² − 16 = (3x)² − 4² = (3x + 4)(3x − 4).
+Factoriser 4x² − 12x + 9.|(2x − 3)²|(2x + 3)²|(4x − 9)²|(2x − 9)(2x − 1)|0|(2x)² − 2 × 2x × 3 + 3² = (2x − 3)².
+Développer et réduire (3x − 2)(3x + 2) − (x − 1)².|8x² − 2x − 5|8x² + 2x − 3|10x² − 2x − 5|8x² + 2x − 5|3|(3x − 2)(3x + 2) = 9x² − 4 et (x − 1)² = x² − 2x + 1. Donc 9x² − 4 − x² + 2x − 1 = 8x² + 2x − 5.
+Factoriser (x + 3)(2x − 1) + (x + 3)(x + 4).|(x + 3)(x + 3)|(x + 3)(3x + 3)|(x + 3)(2x + 3)|(x + 3)(3x + 5)|1|On met (x + 3) en facteur : (x + 3)(2x − 1 + x + 4) = (x + 3)(3x + 3).
+Programme : on choisit un nombre x, on le multiplie par 4, on ajoute 6, puis on divise par 2 et on soustrait le double du nombre de départ. Quel est le résultat ?|x + 3|3|2x + 3|6|1|(4x + 6)/2 − 2x = 2x + 3 − 2x = 3, quel que soit x.
+La somme de deux entiers consécutifs n et n + 1 est toujours :|un nombre pair|un multiple de 3|un multiple de 4|un nombre impair|3|n + n + 1 = 2n + 1, qui est de la forme 2n + 1, donc impair.
+Quel contre-exemple montre que l’égalité (x + 3)² = x² + 9 est fausse ?|x = 1|x = 0|x = −3|aucun, elle est toujours vraie|0|Pour x = 1 : (1 + 3)² = 16 alors que 1 + 9 = 10. Pour x = 0 les deux membres valent 9, ce qui ne prouve rien.
+Pour quelle valeur de a l’expression x² + 6x + a est-elle un carré parfait de la forme (x + b)² ?|6|3|9|36|2|(x + 3)² = x² + 6x + 9, donc a = 9.
+Calculer 998² avec une identité remarquable.|996 000|998 004|996 004|994 004|2|998² = (1 000 − 2)² = 1 000 000 − 4 000 + 4 = 996 004.
+Soit A = (2x + 3)² − 9. Quelle est la forme factorisée de A ?|4x(x + 3)|(2x + 6)(2x)|4(x + 3)²|2x(x + 6)|0|A = (2x + 3)² − 3² = (2x + 3 + 3)(2x + 3 − 3) = (2x + 6) × 2x = 4x(x + 3).

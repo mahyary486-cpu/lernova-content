@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quelle est la solution de x + 7 = 12 ?|19|5|−5|84|1|x = 12 − 7 = 5.
+Quelle est la solution de 3x = 21 ?|18|63|24|7|3|On divise les deux membres par 3 : x = 7.
+Quelle est la solution de 2x + 1 = 9 ?|4|5|10|8|0|2x = 8 donc x = 4.
+Le nombre 3 est-il solution de 4x − 5 = 7 ?|Non, car 4 × 3 − 5 = 17|Non, car 4 × 3 − 5 = 5|Oui, car 4 × 3 − 5 = 7|Oui, car 4 × 3 + 5 = 7|2|4 × 3 − 5 = 12 − 5 = 7, l’égalité est vraie.
+Que signifie le symbole ≤ ?|Strictement inférieur à|Supérieur ou égal à|Inférieur ou égal à|Différent de|2|Le symbole ≤ se lit « inférieur ou égal à ».
+Quelle est la solution de x − 4 = −1 ?|3|−5|5|−3|0|x = −1 + 4 = 3.
+Si A × B = 0, alors :|A = 0 et B = 0|A et B sont positifs|A + B = 0|A = 0 ou B = 0|3|Un produit est nul si l’un au moins de ses facteurs est nul.
+Quelle est la solution de x/2 = 6 ?|3|12|4|8|1|On multiplie les deux membres par 2 : x = 12.
+Parmi ces nombres, lequel est solution de x > 4 ?|4|5|3|−4|1|5 est strictement supérieur à 4.
+Le couple (1 ; 2) est-il solution du système x + y = 3 et y = 2x ?|Non, car x + y = 4|Non, car y n’est pas égal à 2x|On ne peut pas savoir|Oui|3|1 + 2 = 3 et 2 = 2 × 1. Les deux équations sont vérifiées.
+Résoudre 5x − 4 = 2x + 11.|x = 5|x = 3|x = 15|x = 7/3|0|5x − 2x = 11 + 4 donc 3x = 15 et x = 5.
+Résoudre 2(x − 3) = 10.|x = 5|x = 13|x = 8|x = 2|2|2x − 6 = 10, 2x = 16, x = 8.
+Résoudre (x − 3)(x + 2) = 0.|x = −3 ou x = 2|x = 3 ou x = 2|x = 3 ou x = −2|x = −1|2|x − 3 = 0 donne x = 3 et x + 2 = 0 donne x = −2.
+Résoudre 3x − 4 ≤ 11.|x ≤ 5|x ≥ 5|x ≤ 7/3|x < 5|0|3x ≤ 15 donc x ≤ 5.
+Résoudre −2x > 8.|x > −4|x > 4|x < 4|x < −4|3|On divise par −2, le sens de l’inégalité change : x < −4.
+Résoudre x² − 5x = 0.|x = 5 seulement|x = 0 ou x = 5|x = 0 seulement|x = −5 ou x = 5|1|x(x − 5) = 0 donc x = 0 ou x = 5.
+Résoudre le système x + y = 7 et x − y = 1.|(3 ; 4)|(4 ; 3)|(6 ; 1)|(5 ; 2)|1|En additionnant : 2x = 8, x = 4. Puis y = 7 − 4 = 3.
+Un nombre multiplié par 4 puis augmenté de 3 donne 27. Quel est ce nombre ?|7|5|30|6|3|4x + 3 = 27 donc 4x = 24 et x = 6.
+Résoudre 7 − x = 2x + 1.|x = 2|x = 3|x = 8/3|x = −2|0|7 − 1 = 2x + x donc 6 = 3x et x = 2.
+Résoudre 3x + 2 = x + 10.|x = 6|x = 2|x = 4|x = 5|2|3x − x = 10 − 2 donc 2x = 8 et x = 4.
+Résoudre x² − 16 = 0.|x = 4 seulement|x = 8 ou x = −8|x = 4 ou x = −4|Pas de solution|2|(x + 4)(x − 4) = 0 donc x = −4 ou x = 4.
+Résoudre 4x − 3(x − 2) = 10.|x = 4|x = 16|x = 7|x = 2|0|4x − 3x + 6 = 10, donc x + 6 = 10 et x = 4.
+Résoudre 3(x + 1) < 5x − 7.|x < 5|x > −5|x < 2|x > 5|3|3x + 3 < 5x − 7 donne 10 < 2x donc x > 5.
+Résoudre le système 3x + 2y = 11 et x + 2y = 7.|(2 ; 2)|(2 ; 2,5)|(4 ; −0,5)|(1 ; 3)|1|En soustrayant : 2x = 4, x = 2. Puis 2 + 2y = 7 donc y = 2,5.
+Résoudre (2x − 6)(x + 5) = 0.|x = 6 ou x = 5|x = 3 ou x = −5|x = −3 ou x = 5|x = 3 ou x = 5|1|2x − 6 = 0 donne x = 3 et x + 5 = 0 donne x = −5.
+L’équation 2x + 3 = 2x − 1 a :|Une solution x = 0|Une solution x = 4|Une infinité de solutions|Aucune solution|3|On obtient 3 = −1, ce qui est impossible.
+Un cinéma vend des billets à 8 € (adulte) et à 5 € (enfant). Pour 10 billets vendus, la recette est 62 €. Combien d’adultes ?|4|6|3|5|0|Soit x adultes : 8x + 5(10 − x) = 62, donc 3x + 50 = 62 et x = 4. Il y a 4 adultes et 6 enfants.
+Résoudre x² + 6x + 9 = 0.|x = 3|x = −3 ou x = 3|x = −3|x = −9|2|(x + 3)² = 0 donc x + 3 = 0 et x = −3.
+Le périmètre d’un rectangle est 30 cm et sa longueur dépasse sa largeur de 3 cm. Quelle est la largeur ?|9 cm|7,5 cm|6 cm|12 cm|2|Largeur x : 2(x + x + 3) = 30 donc 4x + 6 = 30 et x = 6. La longueur est 9 cm.
+Quelle inéquation a pour solutions tous les nombres inférieurs ou égaux à −2 ?|2x + 3 ≤ −1|2x + 3 ≥ −1|2x + 3 < −1|−2x + 3 ≤ −1|0|2x ≤ −4 donne x ≤ −2. Pour x = −2, on a 2 × (−2) + 3 = −1 ≤ −1, la borne est incluse.

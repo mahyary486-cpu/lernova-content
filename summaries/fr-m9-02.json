@@ -1,0 +1,6 @@
+{
+ "Puissances d’un nombre et règles de calcul": "Pour un entier n positif, a^n est le produit de n facteurs égaux à a ; a^0 = 1 et a^(-n) = 1/a^n. Les règles de calcul sont a^n × a^p = a^(n+p), a^n ÷ a^p = a^(n−p) et (a^n)^p = a^(n×p).",
+ "Puissances de 10 et notation scientifique": "Les puissances de 10 permettent d’écrire facilement de très grands ou de très petits nombres. La notation scientifique d’un nombre décimal positif s’écrit a × 10^n avec 1 ≤ a < 10 et n entier relatif.",
+ "Racine carrée d’un nombre positif": "La racine carrée d’un nombre positif a est le nombre positif dont le carré est a. On la note √a. Ainsi (√a)² = a et √(a²) = a pour a positif. Les racines carrées des carrés parfaits sont des entiers.",
+ "Calculs avec des racines carrées": "Pour a et b positifs, √(a × b) = √a × √b et √(a ÷ b) = √a ÷ √b (b non nul). En revanche, √(a + b) n’est pas égal à √a + √b. On peut simplifier √12 en 2√3."
+}

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quel nombre est un multiple de 7 ?|27|35|45|58|1|35 = 7 × 5, donc 35 est un multiple de 7.
+Quel critère permet de savoir qu’un nombre est divisible par 5 ?|Il se termine par 2|La somme de ses chiffres est 5|Il est impair|Il se termine par 0 ou par 5|3|Un nombre est divisible par 5 si son chiffre des unités est 0 ou 5.
+Lequel de ces nombres est premier ?|13|15|21|27|0|13 n’a que deux diviseurs : 1 et 13. Les autres nombres ont d’autres diviseurs (15 = 3 × 5, 21 = 3 × 7, 27 = 3 × 9).
+Quel est le seul nombre premier pair ?|0|4|2|6|2|Tout nombre pair autre que 2 est divisible par 2, donc il n’est pas premier.
+Le nombre 1 est-il premier ?|Oui, il a deux diviseurs|Oui, car il est impair|Non, il n’a qu’un seul diviseur|Non, car il est pair|2|Un nombre premier a exactement deux diviseurs. Le nombre 1 n’en a qu’un seul.
+Quel nombre est divisible par 3 ?|312|314|316|319|0|3 + 1 + 2 = 6 est un multiple de 3, donc 312 est divisible par 3.
+Quels sont tous les diviseurs de 12 ?|1, 2, 3, 4 et 12|2, 4, 6 et 12|1, 3, 6 et 12|1, 2, 3, 4, 6 et 12|3|12 = 1 × 12 = 2 × 6 = 3 × 4, donc 12 a six diviseurs.
+Quel est le PGCD de 12 et 18 ?|3|6|9|36|1|Les diviseurs communs de 12 et 18 sont 1, 2, 3 et 6. Le plus grand est 6.
+La fraction 6/8 se simplifie en :|2/3|3/4|6/4|1/2|1|On divise le numérateur et le dénominateur par 2 : 6/8 = 3/4.
+Que signifie PGCD ?|Plus grand commun multiple|Plus petit commun diviseur|Produit de grands chiffres divisibles|Plus grand commun diviseur|3|PGCD signifie plus grand commun diviseur.
+Quelle est la décomposition en facteurs premiers de 60 ?|2² × 3 × 5|2 × 3 × 10|2 × 5 × 6|3 × 4 × 5|0|60 = 2 × 30 = 2 × 2 × 15 = 2 × 2 × 3 × 5 = 2² × 3 × 5.
+Quel est le PGCD de 48 et 36 ?|6|24|12|9|2|48 = 36 × 1 + 12 puis 36 = 12 × 3 + 0. Le dernier reste non nul est 12.
+Quelle est la forme irréductible de 42/56 ?|6/8|21/28|3/4|7/8|2|PGCD(42 ; 56) = 14 et 42 ÷ 14 = 3, 56 ÷ 14 = 4, donc 42/56 = 3/4.
+Pour quel chiffre x le nombre 2x4 est-il divisible par 9 ? (x est le chiffre des dizaines)|3|1|5|9|0|2 + x + 4 = 6 + x doit être un multiple de 9. Seul x = 3 convient : 234 = 9 × 26.
+Combien le nombre 36 a-t-il de diviseurs ?|6|8|12|9|3|Les diviseurs de 36 sont 1, 2, 3, 4, 6, 9, 12, 18 et 36, soit 9 diviseurs.
+Quel est le PGCD de 84 et 60 ?|6|12|4|24|1|84 = 60 × 1 + 24, 60 = 24 × 2 + 12, 24 = 12 × 2 + 0. Le PGCD est 12.
+Le nombre 91 est-il premier ?|Oui, car il est impair|Non, car 91 = 7 × 13|Oui, car il n’est pas divisible par 3|Non, car il est divisible par 5|1|91 = 7 × 13 : il a donc plus de deux diviseurs. Il est impair et non divisible par 3, mais cela ne suffit pas pour être premier.
+Deux nombres sont premiers entre eux lorsque :|Ils sont tous les deux premiers|Leur somme est un nombre premier|Ils sont consécutifs seulement|Leur PGCD est égal à 1|3|Deux entiers sont premiers entre eux si leur seul diviseur commun est 1, c’est-à-dire si leur PGCD vaut 1.
+Quelle est la division euclidienne de 100 par 7 ?|100 = 7 × 14 + 2|100 = 7 × 15 + 5|100 = 7 × 13 + 9|100 = 7 × 14 + 3|0|7 × 14 = 98 et 100 − 98 = 2, avec 2 < 7.
+Un fleuriste a 36 roses et 48 tulipes. Il veut faire le maximum de bouquets identiques sans reste. Combien de bouquets fait-il ?|6|4|12|24|2|Le nombre de bouquets est PGCD(36 ; 48) = 12. Chaque bouquet contient 3 roses et 4 tulipes.
+Quelle est la décomposition de 252 en facteurs premiers ?|2 × 3 × 42|2² × 3 × 21|2² × 3² × 7|2³ × 3 × 7|2|252 = 2 × 126 = 2² × 63 = 2² × 3 × 21 = 2² × 3² × 7.
+Quel est le PGCD de 1 071 et 462 ?|21|7|42|63|0|1 071 = 462 × 2 + 147 ; 462 = 147 × 3 + 21 ; 147 = 21 × 7 + 0. Le PGCD est 21.
+Un rectangle de 252 cm sur 180 cm est carrelé avec des carreaux carrés identiques, les plus grands possible. Combien faut-il de carreaux ?|15|45|70|35|3|Le côté est PGCD(252 ; 180) = 36 cm. On a 252 ÷ 36 = 7 et 180 ÷ 36 = 5, soit 7 × 5 = 35 carreaux.
+Quelle fraction est irréductible ?|35/56|35/54|36/54|28/42|1|35 = 5 × 7 et 54 = 2 × 3³ n’ont aucun facteur commun. Les autres fractions se simplifient (par 7, 18 et 14).
+Si PGCD(a ; b) = 1, que peut-on dire de la fraction a/b ?|Elle est égale à 1|Elle est irréductible|Elle est un entier|Elle est supérieure à 1|1|Si le PGCD du numérateur et du dénominateur est 1, la fraction ne peut plus être simplifiée.
+Quel est le plus petit entier strictement positif divisible à la fois par 12 et par 18 ?|6|72|216|36|3|Les multiples de 18 sont 18, 36, 54… et 36 = 12 × 3. Le plus petit multiple commun de 12 et 18 est 36.
+Combien de nombres premiers y a-t-il entre 20 et 40 ?|4|3|5|6|0|Les nombres premiers entre 20 et 40 sont 23, 29, 31 et 37.
+Soit n un entier. Parmi ces affirmations, laquelle est toujours vraie ?|n + 1 est un nombre pair|n² est impair|n(n + 1) est un nombre pair|2n + 1 est un multiple de 3|2|Parmi deux entiers consécutifs, l’un est pair, donc le produit n(n + 1) est pair.
+Simplifier 168/252 pour obtenir une fraction irréductible.|3/4|4/6|2/3|6/9|2|PGCD(168 ; 252) = 84 ; 168 ÷ 84 = 2 et 252 ÷ 84 = 3. On obtient 2/3.
+Un nombre est divisible par 2, par 3 et par 5. Il est alors toujours divisible par :|30|60|45|90|0|Les nombres 2, 3 et 5 sont premiers entre eux deux à deux, donc le nombre est divisible par leur produit 2 × 3 × 5 = 30.

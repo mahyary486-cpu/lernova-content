@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Combien vaut 2^5 ?|10|32|25|64|1|2^5 = 2 × 2 × 2 × 2 × 2 = 32.
+Combien vaut 7^0 ?|0|7|70|1|3|Tout nombre non nul élevé à la puissance 0 vaut 1.
+Quelle est l’écriture décimale de 10^(-2) ?|0,01|0,2|−100|0,001|0|10^(-2) = 1/10² = 1/100 = 0,01.
+Combien vaut √81 ?|8|18|9|40,5|2|9² = 81, donc √81 = 9.
+Quelle est la notation scientifique de 3 400 ?|34 × 10^2|0,34 × 10^4|3,4 × 10^3|3,4 × 10^2|2|On place la virgule après le 3 : 3 400 = 3,4 × 1 000 = 3,4 × 10^3.
+Que vaut (√5)² ?|5|25|√10|2,5|0|Pour a positif, (√a)² = a.
+Combien vaut 3^2 × 3^3 ?|3^6|9^5|6^5|3^5|3|On garde la même base et on additionne les exposants : 3^(2+3) = 3^5 = 243.
+Combien vaut (−3)² ?|−9|9|6|−6|1|(−3)² = (−3) × (−3) = 9.
+Quel nombre est un carré parfait ?|50|64|72|90|1|64 = 8², c’est donc un carré parfait.
+Quelle est la valeur de 10^3 ?|30|100|10 000|1 000|3|10^3 = 10 × 10 × 10 = 1 000.
+Quelle est la notation scientifique de 0,0052 ?|5,2 × 10^(-3)|5,2 × 10^3|52 × 10^(-4)|0,52 × 10^(-2)|0|On déplace la virgule de 3 rangs vers la droite : 0,0052 = 5,2 × 10^(-3).
+Combien vaut 5^7 ÷ 5^4 ?|5^11|5^28|5^3|1^3|2|On garde la base et on soustrait les exposants : 5^(7−4) = 5^3 = 125.
+Quelle est la valeur de (2^3)^2 ?|32|25|64|12|2|(2^3)^2 = 2^(3×2) = 2^6 = 64.
+Simplifier √12.|2√3|3√2|4√3|6|0|√12 = √(4 × 3) = √4 × √3 = 2√3.
+Quelles sont les solutions de x² = 36 ?|6 seulement|18 et −18|36 et −36|6 et −6|3|x² = 36 a deux solutions : √36 = 6 et −√36 = −6.
+Calculer (4 × 10^5) × (2 × 10^(-3)).|8 × 10^8|8 × 10^2|6 × 10^2|8 × 10^(-15)|1|On multiplie 4 × 2 = 8 et on additionne les exposants : 5 + (−3) = 2. Donc 8 × 10^2 = 800.
+Calculer 3√2 + 5√2.|8√4|8√2|15√2|8|1|On regroupe les termes semblables : (3 + 5)√2 = 8√2.
+Quelle égalité est vraie ?|√(9 + 16) = 7|√9 + √16 = 5|√(25 − 9) = 2|√(9 × 4) = 6|3|√(9 × 4) = √36 = 6 = √9 × √4. Les autres égalités sont fausses : √(9 + 16) = 5, √9 + √16 = 7 et √(25 − 9) = 4.
+Que vaut 4^(-1) ?|1/4|−4|−1/4|4|0|a^(-1) = 1/a, donc 4^(-1) = 1/4.
+Quelle est la valeur de 2^(-3) ?|−8|−6|1/8|1/6|2|2^(-3) = 1/2^3 = 1/8.
+Simplifier √75.|3√5|15√5|5√3|25√3|2|√75 = √(25 × 3) = 5√3.
+Calculer √8 + √18.|5√2|√26|6√2|13|0|√8 = 2√2 et √18 = 3√2, donc √8 + √18 = 5√2.
+Quelle est la notation scientifique de 24 × 10^5 ?|2,4 × 10^5|24 × 10^5|2,4 × 10^4|2,4 × 10^6|3|24 = 2,4 × 10, donc 24 × 10^5 = 2,4 × 10^6.
+Calculer (3√2)².|6|18|9|12|1|(3√2)² = 3² × (√2)² = 9 × 2 = 18.
+Combien vaut (2^5 × 2^(-2)) ÷ 2^2 ?|8|2|1/2|16|1|2^5 × 2^(-2) = 2^3 et 2^3 ÷ 2^2 = 2^1 = 2.
+Entre quels entiers consécutifs se trouve √40 ?|5 et 6|7 et 8|4 et 5|6 et 7|3|6² = 36 et 7² = 49, et 36 < 40 < 49, donc 6 < √40 < 7.
+La lumière parcourt environ 3 × 10^8 mètres par seconde. Quelle distance parcourt-elle en 2 × 10^2 secondes ?|6 × 10^10 mètres|6 × 10^6 mètres|5 × 10^10 mètres|1,5 × 10^6 mètres|0|3 × 10^8 × 2 × 10^2 = 6 × 10^10 mètres.
+Écrire 1/√3 sans racine au dénominateur.|3√3|1/3|√3/3|√3|2|On multiplie le numérateur et le dénominateur par √3 : 1/√3 = √3/(√3 × √3) = √3/3.
+Quelle est la valeur de (√7 − 2)(√7 + 2) ?|5|7 − 4√7|3|11|2|On reconnaît (a − b)(a + b) = a² − b² : (√7)² − 2² = 7 − 4 = 3.
+Quel nombre est irrationnel ?|√10|√16|√0,25|√1|0|√16 = 4, √0,25 = 0,5 et √1 = 1 sont rationnels. √10 n’est ni un entier ni une fraction : il est irrationnel.

@@ -1,0 +1,6 @@
+{
+ "Théorème de Pythagore et sa réciproque": "Dans un triangle rectangle, le carré de l’hypoténuse est égal à la somme des carrés des deux autres côtés. Réciproquement, si dans un triangle le carré du plus grand côté est égal à la somme des carrés des deux autres, alors ce triangle est rectangle.",
+ "Théorème de Thalès et sa réciproque": "Dans un triangle ABC, si M est sur (AB), N est sur (AC) et (MN) est parallèle à (BC), alors AM/AB = AN/AC = MN/BC. Réciproquement, si AM/AB = AN/AC avec les points alignés dans le même ordre, alors (MN) est parallèle à (BC).",
+ "Cosinus, sinus et tangente dans le triangle rectangle": "Dans un triangle rectangle, pour un angle aigu : cosinus = côté adjacent ÷ hypoténuse, sinus = côté opposé ÷ hypoténuse, tangente = côté opposé ÷ côté adjacent. Ces rapports permettent de calculer des longueurs et des angles.",
+ "Triangles semblables, agrandissements et réductions": "Deux triangles sont semblables s’ils ont les mêmes angles ; leurs côtés sont alors proportionnels. Dans un agrandissement ou une réduction de rapport k, les longueurs sont multipliées par k, les aires par k² et les volumes par k³."
+}

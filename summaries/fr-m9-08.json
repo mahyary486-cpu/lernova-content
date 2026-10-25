@@ -1,0 +1,6 @@
+{
+ "Translations, rotations et symétries": "La translation, la rotation, la symétrie axiale et la symétrie centrale transforment une figure en une figure de même forme et de mêmes dimensions. Elles conservent les longueurs, les angles et les aires. Une translation est définie par une direction, un sens et une longueur.",
+ "Homothéties": "Une homothétie de centre O et de rapport k envoie chaque point M sur le point M’ tel que OM’ = k × OM, sur la droite (OM). Elle conserve les angles et le parallélisme, multiplie les longueurs par la valeur absolue de k et les aires par k².",
+ "Volumes : pyramides, cônes et boules": "Volume d’une pyramide ou d’un cône : (1/3) × aire de la base × hauteur. Volume d’une boule de rayon r : (4/3) × π × r³. L’aire d’une sphère de rayon r est 4 × π × r². Le volume d’un prisme ou d’un cylindre est aire de la base × hauteur.",
+ "Algorithmique et programmation avec Scratch": "Un algorithme est une suite d’instructions qui permet de résoudre un problème. En programmation par blocs (Scratch), on utilise des variables, des boucles « répéter », des tests « si … alors … sinon » et des blocs personnalisés pour construire des figures et effectuer des calculs."
+}

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Soit f(x) = 2x + 3. Quelle est l’image de 4 ?|9|11|14|8|1|f(4) = 2 × 4 + 3 = 11.
+Soit f(x) = x². Quelle est l’image de −3 ?|−9|6|−6|9|3|f(−3) = (−3)² = 9.
+Quelle fonction est linéaire ?|f(x) = 5x|f(x) = 5x + 1|f(x) = x² + 5|f(x) = 5 − x²|0|Une fonction linéaire s’écrit f(x) = ax, ici avec a = 5.
+La représentation graphique d’une fonction linéaire est :|Une parabole|Une droite horizontale uniquement|Une droite passant par l’origine|Une droite qui ne passe jamais par l’origine|2|La courbe d’une fonction linéaire est une droite qui passe par l’origine du repère.
+Pour f(x) = 3x − 2, que vaut f(0) ?|0|2|−2|3|2|f(0) = 3 × 0 − 2 = −2, c’est l’ordonnée à l’origine.
+Quel est le coefficient directeur de f(x) = −4x + 1 ?|−4|4|1|−1|0|Dans f(x) = ax + b, le coefficient directeur est a = −4.
+Augmenter un prix de 10 % revient à le multiplier par :|0,10|1,01|10|1,10|3|Une augmentation de 10 % correspond au coefficient 1 + 10/100 = 1,10.
+Une voiture parcourt 120 km en 2 h. Quelle est sa vitesse moyenne ?|240 km/h|60 km/h|30 km/h|122 km/h|1|v = d ÷ t = 120 ÷ 2 = 60 km/h.
+Si f(2) = 7, alors 2 est :|l’image de 7|un antécédent de 7|égal à 7|le coefficient de f|1|Si f(a) = b, alors a est un antécédent de b.
+Calculer 20 % de 150.|20|3|300|30|3|20 % de 150 = 0,20 × 150 = 30.
+Trouver l’antécédent de 10 par f(x) = 3x − 2.|4|28|8|12|0|On résout 3x − 2 = 10 : 3x = 12 donc x = 4.
+Une fonction linéaire f vérifie f(5) = 20. Quelle est son expression ?|f(x) = 5x|f(x) = x + 15|f(x) = 4x|f(x) = 20x|2|a = f(5)/5 = 20/5 = 4, donc f(x) = 4x.
+Soit f affine avec f(1) = 5 et f(3) = 11. Quel est le coefficient directeur ?|2|6|3|8|2|a = (11 − 5) ÷ (3 − 1) = 6 ÷ 2 = 3.
+Une fonction affine est f(x) = 3x + 2. Quelle est son ordonnée à l’origine ?|2|3|5|−2|0|L’ordonnée à l’origine est b = f(0) = 2.
+Un article coûte 80 €. Son prix augmente de 15 %. Quel est le nouveau prix ?|95 €|12 €|68 €|92 €|3|80 × 1,15 = 92 €.
+Le prix d’un article passe de 50 € à 65 €. Quel est le pourcentage d’augmentation ?|15 %|30 %|13 %|23 %|1|(65 − 50) ÷ 50 = 15 ÷ 50 = 0,30, soit 30 %.
+Quelle fonction est décroissante ?|f(x) = 2x − 5|f(x) = −2x + 5|f(x) = x + 1|f(x) = 4x|1|Une fonction affine ax + b est décroissante si a < 0 : ici a = −2.
+Convertir 72 km/h en m/s.|72 m/s|7,2 m/s|259,2 m/s|20 m/s|3|72 km/h = 72 000 m ÷ 3 600 s = 20 m/s.
+Un abonnement coûte 10 € par mois plus 3 € par séance. Quelle fonction donne le coût pour x séances ?|C(x) = 3x + 10|C(x) = 10x + 3|C(x) = 13x|C(x) = 3x|0|Le coût fixe est 10 € et chaque séance coûte 3 € : C(x) = 3x + 10.
+Soit f(x) = x² − 4x. Calculer f(3).|3|21|−3|−9|2|f(3) = 3² − 4 × 3 = 9 − 12 = −3.
+Une hausse de 10 % est suivie d’une baisse de 10 %. Quel est le résultat global ?|Aucun changement|Une hausse de 1 %|Une baisse de 1 %|Une baisse de 10 %|2|1,10 × 0,90 = 0,99, donc le prix final est 99 % du prix initial, soit une baisse de 1 %.
+Un prix diminue de 20 % et devient 60 €. Quel était le prix initial ?|75 €|72 €|80 €|48 €|0|Le prix initial multiplié par 0,80 donne 60 : 60 ÷ 0,80 = 75 €.
+La droite d’équation y = 2x − 1 passe par le point :|(3 ; 7)|(0 ; 1)|(2 ; 5)|(3 ; 5)|3|Pour x = 3 : y = 2 × 3 − 1 = 5.
+La droite représentant f passe par A(0 ; 4) et B(2 ; 10). Quelle est son équation ?|y = 3x + 10|y = 3x + 4|y = 6x + 4|y = 4x + 3|1|b = 4 et a = (10 − 4) ÷ (2 − 0) = 3.
+Un cycliste roule 45 km en 1 h 30 min. Quelle est sa vitesse moyenne ?|45 km/h|30 km/h|67,5 km/h|15 km/h|1|1 h 30 min = 1,5 h, donc v = 45 ÷ 1,5 = 30 km/h.
+Quelle est l’abscisse du point d’intersection des droites y = 2x + 1 et y = −x + 7 ?|1|3|6|2|3|2x + 1 = −x + 7 donne 3x = 6 et x = 2. L’ordonnée est y = 5.
+Soit f(x) = −x + 6. Pour quelle valeur de x a-t-on f(x) = 0 ?|6|−6|0|1|0|−x + 6 = 0 donne x = 6.
+Le prix d’un article augmente de 20 % puis augmente encore de 50 %. Quelle est la hausse globale ?|70 %|75 %|80 %|60 %|2|1,20 × 1,50 = 1,80, donc une hausse de 80 %.
+Un robinet remplit 150 L en 12 minutes. Quel est son débit en litres par minute ?|1 800 L/min|8 L/min|12,5 L/min|162 L/min|2|Débit = 150 ÷ 12 = 12,5 L/min.
+La fonction f est affine, croissante, et f(0) = −3. Quelle expression peut être f(x) ?|2x − 3|−2x − 3|−3x + 2|3 − 2x|0|Croissante donc a > 0, et f(0) = b = −3 : f(x) = 2x − 3.

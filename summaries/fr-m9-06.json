@@ -1,0 +1,6 @@
+{
+ "Moyenne, médiane, étendue et quartiles": "La moyenne est la somme des valeurs divisée par leur nombre. La médiane partage la série ordonnée en deux groupes de même effectif. L’étendue est la différence entre la plus grande et la plus petite valeur. Les quartiles Q1 et Q3 découpent la série en quatre parties.",
+ "Lecture et représentation de données": "Les données statistiques se présentent dans des tableaux, des diagrammes en bâtons, des histogrammes ou des diagrammes circulaires. La fréquence d’une valeur est son effectif divisé par l’effectif total ; elle peut s’exprimer en pourcentage.",
+ "Probabilité d’un événement": "La probabilité d’un événement est un nombre compris entre 0 et 1. Pour une expérience aléatoire où toutes les issues sont équiprobables, P(A) = nombre d’issues favorables ÷ nombre d’issues possibles. Pour l’événement contraire, P(non A) = 1 − P(A).",
+ "Expériences aléatoires à deux épreuves": "Une expérience à deux épreuves peut être représentée par un arbre ou un tableau. Sur un arbre, la probabilité d’une issue se calcule en multipliant les probabilités le long du chemin ; les probabilités des branches issues d’un même nœud ont pour somme 1."
+}

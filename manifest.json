@@ -1,36 +1,41 @@
 {
- "countries": {
-  "DE": {
-   "bytes": 396751,
-   "currentYear": "2026-2027",
-   "files": 162,
-   "name": "Germany",
-   "rev": "059658851a",
-   "year": "2026-2027"
-  },
-  "IR": {
-   "bytes": 498771,
-   "currentYear": "2026-2027",
-   "files": 134,
-   "name": "Iran",
-   "rev": "236775da67",
-   "year": "2026-2027"
-  },
-  "RU": {
-   "bytes": 41258,
-   "currentYear": "2026-2027",
-   "files": 42,
-   "name": "Russia",
-   "rev": "ce4b4623cb",
-   "year": "2026-2027"
-  },
-  "US": {
-   "bytes": 261482,
-   "currentYear": "2026-2027",
-   "files": 109,
-   "name": "United States",
-   "rev": "56336f8a3f",
-   "year": "2026-2027"
+  "countries": {
+    "DE": {
+      "bytes": 396751,
+      "currentYear": "2026-2027",
+      "files": 162,
+      "name": "Germany",
+      "rev": "059658851a",
+      "year": "2026-2027"
+    },
+    "IR": {
+      "bytes": 498771,
+      "currentYear": "2026-2027",
+      "files": 134,
+      "name": "Iran",
+      "rev": "236775da67",
+      "year": "2026-2027"
+    },
+    "RU": {
+      "bytes": 41258,
+      "currentYear": "2026-2027",
+      "files": 42,
+      "name": "Russia",
+      "rev": "ce4b4623cb",
+      "year": "2026-2027"
+    },
+    "US": {
+      "bytes": 261482,
+      "currentYear": "2026-2027",
+      "files": 109,
+      "name": "United States",
+      "rev": "56336f8a3f",
+      "year": "2026-2027"
+    },
+    "FR": {
+      "year": "2026-2027",
+      "rev": "23ca157c85",
+      "bytes": 87377
+    }
   }
- }
 }

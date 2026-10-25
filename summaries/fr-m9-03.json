@@ -1,0 +1,6 @@
+{
+ "Développer et réduire une expression": "Développer, c’est transformer un produit en somme. On utilise la distributivité : k(a + b) = ka + kb et (a + b)(c + d) = ac + ad + bc + bd. Réduire, c’est regrouper les termes semblables.",
+ "Les trois identités remarquables": "Pour tous nombres a et b : (a + b)² = a² + 2ab + b², (a − b)² = a² − 2ab + b² et (a + b)(a − b) = a² − b². Ces égalités permettent de développer et de factoriser rapidement.",
+ "Factoriser une expression": "Factoriser, c’est transformer une somme en produit. On cherche un facteur commun ou on reconnaît une identité remarquable : a² − b² = (a + b)(a − b), a² + 2ab + b² = (a + b)² et a² − 2ab + b² = (a − b)².",
+ "Calculs et preuves avec le calcul littéral": "Le calcul littéral permet de prouver qu’une propriété est vraie pour tous les nombres. On traduit un programme de calcul par une expression en x, on la développe et on la réduit pour conclure."
+}

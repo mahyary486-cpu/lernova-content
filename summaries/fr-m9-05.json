@@ -1,0 +1,6 @@
+{
+ "Notion de fonction : image et antécédent": "Une fonction associe à chaque nombre x un unique nombre f(x), appelé image de x. Si f(a) = b, on dit que b est l’image de a et que a est un antécédent de b. Une fonction peut être donnée par une formule, un tableau de valeurs ou une courbe.",
+ "Fonctions linéaires et proportionnalité": "Une fonction linéaire est de la forme f(x) = ax. Elle traduit une situation de proportionnalité ; sa représentation graphique est une droite passant par l’origine du repère. Le nombre a est le coefficient directeur (ou coefficient de proportionnalité).",
+ "Fonctions affines et droites": "Une fonction affine est de la forme f(x) = ax + b. Sa représentation graphique est une droite de coefficient directeur a (la pente) et d’ordonnée à l’origine b. On trouve a avec a = (f(x₂) − f(x₁)) ÷ (x₂ − x₁).",
+ "Pourcentages d’évolution et grandeurs quotients": "Augmenter une quantité de t % revient à la multiplier par 1 + t/100 ; la diminuer de t % revient à la multiplier par 1 − t/100. Une vitesse est un quotient : v = d ÷ t. Les évolutions successives se composent en multipliant les coefficients multiplicateurs."
+}
