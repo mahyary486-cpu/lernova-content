@@ -414,6 +414,36 @@
               "title": "Inverse functions"
             }
           ]
+        },
+        {
+          "id": "g11-ch2",
+          "title": "Quadratic Functions and Complex Numbers",
+          "lessons": [
+            {
+              "id": "g11-ch2-l1",
+              "title": "Graphing quadratic functions"
+            },
+            {
+              "id": "g11-ch2-l2",
+              "title": "Solving by factoring and square roots"
+            },
+            {
+              "id": "g11-ch2-l3",
+              "title": "Completing the square"
+            },
+            {
+              "id": "g11-ch2-l4",
+              "title": "The quadratic formula and the discriminant"
+            },
+            {
+              "id": "g11-ch2-l5",
+              "title": "Complex numbers"
+            },
+            {
+              "id": "g11-ch2-l6",
+              "title": "Quadratic inequalities"
+            }
+          ]
         }
       ],
       "country": "US"
