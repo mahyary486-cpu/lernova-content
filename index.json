@@ -1219,6 +1219,94 @@
               "title": "Sums of progressions"
             }
           ]
+        },
+        {
+          "id": "ru9-geo-vectors",
+          "title": "Vectors and the Method of Coordinates",
+          "lessons": [
+            {
+              "id": "ru9-geo-vectors-1",
+              "title": "Vectors and operations on them"
+            },
+            {
+              "id": "ru9-geo-vectors-2",
+              "title": "Coordinates of a vector"
+            },
+            {
+              "id": "ru9-geo-vectors-3",
+              "title": "Distance and midpoint formulas"
+            },
+            {
+              "id": "ru9-geo-vectors-4",
+              "title": "Equations of a circle and a line"
+            }
+          ]
+        },
+        {
+          "id": "ru9-geo-triangles",
+          "title": "Solving Triangles",
+          "lessons": [
+            {
+              "id": "ru9-geo-triangles-1",
+              "title": "Sine, cosine, tangent of angles up to 180°"
+            },
+            {
+              "id": "ru9-geo-triangles-2",
+              "title": "The law of sines"
+            },
+            {
+              "id": "ru9-geo-triangles-3",
+              "title": "The law of cosines"
+            },
+            {
+              "id": "ru9-geo-triangles-4",
+              "title": "Dot product and the area of a triangle"
+            }
+          ]
+        },
+        {
+          "id": "ru9-geo-polygons",
+          "title": "Regular Polygons and the Circle",
+          "lessons": [
+            {
+              "id": "ru9-geo-polygons-1",
+              "title": "Regular polygons"
+            },
+            {
+              "id": "ru9-geo-polygons-2",
+              "title": "Inscribed and circumscribed circles"
+            },
+            {
+              "id": "ru9-geo-polygons-3",
+              "title": "Circumference and arc length"
+            },
+            {
+              "id": "ru9-geo-polygons-4",
+              "title": "Area of a circle and of a sector"
+            }
+          ]
+        },
+        {
+          "id": "ru9-alg-stats",
+          "title": "Combinatorics, Probability and Statistics",
+          "lessons": [
+            {
+              "id": "ru9-alg-stats-1",
+              "title": "Counting rules"
+            },
+            {
+              "id": "ru9-alg-stats-2",
+              "title": "Permutations, arrangements, combinations"
+            },
+            {
+              "id": "ru9-alg-stats-3",
+              "title": "Probability of an event"
+            },
+            {
+              "id": "ru9-alg-stats-4",
+              "title": "Statistics: mean, median, mode, range"
+            }
+          ]
         }
       ]
     },

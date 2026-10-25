@@ -1,0 +1,6 @@
+{
+  "Counting rules": "Multiply the numbers of choices for successive steps, add them for alternative cases. A tree diagram shows all outcomes.",
+  "Permutations, arrangements, combinations": "n! orders n objects. A(n, k) counts ordered choices and C(n, k) = A(n, k) / k! counts unordered choices.",
+  "Probability of an event": "With equally likely outcomes, P = favorable / total, and 0 ≤ P ≤ 1. For at least one, use 1 − P(none).",
+  "Statistics: mean, median, mode, range": "The mean is sum divided by count, the median is the middle value, the mode is the most frequent value, and the range is the largest minus the smallest."
+}

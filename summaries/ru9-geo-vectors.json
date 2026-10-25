@@ -1,0 +1,6 @@
+{
+  "Vectors and operations on them": "A vector has length and direction. Add by the triangle or parallelogram rule, subtract by adding the opposite vector, and scale by a number k.",
+  "Coordinates of a vector": "AB = (x₂ − x₁; y₂ − y₁). Operations work coordinate by coordinate, the length is √(x² + y²), and collinear vectors have proportional coordinates.",
+  "Distance and midpoint formulas": "d = √((x₂ − x₁)² + (y₂ − y₁)²), and the midpoint is the average of the coordinates. The other end of a segment is B = 2M − A.",
+  "Equations of a circle and a line": "Circle: (x − a)² + (y − b)² = r². Line: y = kx + m with k = (y₂ − y₁) / (x₂ − x₁). Intersections come from substitution."
+}
