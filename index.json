@@ -474,6 +474,36 @@
               "title": "Graphing polynomials and the Fundamental Theorem of Algebra"
             }
           ]
+        },
+        {
+          "id": "g11-ch4",
+          "title": "Radical and Rational Functions",
+          "lessons": [
+            {
+              "id": "g11-ch4-l1",
+              "title": "Roots and rational exponents"
+            },
+            {
+              "id": "g11-ch4-l2",
+              "title": "Radical expressions"
+            },
+            {
+              "id": "g11-ch4-l3",
+              "title": "Solving radical equations"
+            },
+            {
+              "id": "g11-ch4-l4",
+              "title": "Rational expressions"
+            },
+            {
+              "id": "g11-ch4-l5",
+              "title": "Solving rational equations"
+            },
+            {
+              "id": "g11-ch4-l6",
+              "title": "Graphing rational functions"
+            }
+          ]
         }
       ],
       "country": "US"
