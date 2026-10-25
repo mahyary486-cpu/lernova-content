@@ -1797,6 +1797,50 @@
               "title": "Impuls und Impulserhaltung"
             }
           ]
+        },
+        {
+          "id": "de-c10-kw",
+          "title": "Kohlenwasserstoffe",
+          "lessons": [
+            {
+              "id": "de-c10-kw-01",
+              "title": "Kohlenstoff und organische Verbindungen"
+            },
+            {
+              "id": "de-c10-kw-02",
+              "title": "Alkane und Isomerie"
+            },
+            {
+              "id": "de-c10-kw-03",
+              "title": "Alkene und Alkine"
+            },
+            {
+              "id": "de-c10-kw-04",
+              "title": "Erdöl, Erdgas und Verbrennung"
+            }
+          ]
+        },
+        {
+          "id": "de-c10-fg",
+          "title": "Alkohole, Carbonsäuren, Ester und Kunststoffe",
+          "lessons": [
+            {
+              "id": "de-c10-fg-01",
+              "title": "Alkohole"
+            },
+            {
+              "id": "de-c10-fg-02",
+              "title": "Carbonsäuren"
+            },
+            {
+              "id": "de-c10-fg-03",
+              "title": "Ester und Fette"
+            },
+            {
+              "id": "de-c10-fg-04",
+              "title": "Kunststoffe und Polymerisation"
+            }
+          ]
         }
       ]
     }

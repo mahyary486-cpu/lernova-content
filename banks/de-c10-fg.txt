@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Was ist eine funktionelle Gruppe?|ein Gemisch aus Gasen|ein Metallgitter|ein Katalysator|eine Atomgruppe, die die Eigenschaften einer Stoffklasse bestimmt|3|Beispiele: –OH und –COOH.
+Welche funktionelle Gruppe haben Alkohole?|die Methylgruppe –CH₃|die Aminogruppe –NH₂|die Hydroxygruppe –OH|die Carboxygruppe –COOH|2|Alkohole enden auf -ol.
+Welche funktionelle Gruppe haben Carbonsäuren?|die Doppelbindung C=C|die Hydroxygruppe –OH|die Carboxygruppe –COOH|die Estergruppe –COO–|2|Carbonsäuren enden auf -säure.
+Welche Formel hat Methanol?|HCOOH|CH₄|CH₃OH|C₂H₅OH|2|Methanol ist der einfachste Alkohol.
+Welche Formel hat Ethanol?|CH₃COOH|C₂H₆|CH₃OH|C₂H₅OH|3|Ethanol ist der Alkohol in Getränken.
+Wie gewinnt man Ethanol aus zuckerhaltigen Früchten?|durch Verbrennung|durch Elektrolyse|durch Destillation von Erdöl|durch alkoholische Gärung|3|Hefen bauen Glucose zu Ethanol und CO₂ ab.
+Welche Endung haben Alkohole?|-an|-ol|-säure|-en|1|Beispiele: Methanol, Ethanol.
+Welche Endung haben Carbonsäuren im systematischen Namen?|-an|-ol|-säure|-in|2|Beispiele: Methansäure, Ethansäure.
+Wie heißt Essigsäure im systematischen Namen?|Methansäure|Ethansäure|Propansäure|Ethanol|1|Essigsäure hat zwei C-Atome.
+Welche Formel hat Methansäure (Ameisensäure)?|HCOOH|HCHO|CH₃OH|CH₃COOH|0|Methansäure ist die einfachste Carbonsäure.
+Welche Formel hat Essigsäure?|CH₃OH|CH₃COOH|HCOOH|C₂H₅OH|1|Essigsäure trägt die Carboxygruppe.
+Woraus entsteht ein Ester?|aus Salz und Lauge|aus zwei Alkoholen|aus Alkan und Wasser|aus einem Alkohol und einer Carbonsäure|3|Dabei wird Wasser abgespalten.
+Wonach riechen viele niedere Ester?|nach Essig|nach Chlor|nach Früchten|nach faulen Eiern|2|Ester dienen als Aromastoffe.
+Was sind Kunststoffe chemisch?|Makromoleküle aus vielen Monomeren|kleine Moleküle wie Wasser|Salze|Metalle|0|Sie bestehen aus langen Kettenmolekülen.
+Was ist ein Monomer?|ein Salz|ein Katalysator|ein kleiner Baustein, aus dem Polymere entstehen|ein langes Kettenmolekül|2|Beispiel: Ethen für Polyethylen.
+Was ist ein Polymer?|ein Makromolekül aus sehr vielen Monomeren|ein Atom|ein Ion|ein einzelnes kleines Molekül|0|Beispiel: Polyethylen.
+Aus welchem Monomer entsteht Polyethylen (PE)?|Ethin|Ethan|Ethanol|Ethen|3|Die Doppelbindung des Ethens ermöglicht die Polymerisation.
+Wie lautet die allgemeine Formel einwertiger Alkohole (Alkanole)?|CₙH₂ₙ₊₂|CₙH₂ₙOH|CₙH₂ₙ₋₁OH|CₙH₂ₙ₊₁OH|3|Ein H-Atom des Alkans ist durch OH ersetzt.
+Wie heißt der Alkohol C₃H₇OH?|Propansäure|Propanol|Propen|Propan|1|Er hat drei C-Atome und die Gruppe –OH.
+Warum ist Ethanol gut in Wasser löslich?|Die polare OH-Gruppe bildet Wasserstoffbrücken mit Wasser.|Ethanol ist ein Salz.|Ethanol enthält Ionen.|Ethanol ist unpolar.|0|Mit längerer Kette nimmt die Löslichkeit ab.
+Warum siedet Ethanol (78 °C) viel höher als Ethan (−89 °C)?|Ethanol hat eine höhere Dichte.|Zwischen Ethanolmolekülen wirken Wasserstoffbrücken.|Ethanol hat weniger C-Atome.|Ethanol besteht aus Ionen.|1|Wasserstoffbrücken erhöhen die Siedetemperatur.
+Was entsteht bei der vollständigen Oxidation von Ethanol?|Ethan|Ethen|Methanol|Ethansäure (Essigsäure)|3|Ethanol → Ethanal → Ethansäure.
+Warum wird offener Wein mit der Zeit sauer?|Das Ethanol verdampft zu Wasser.|Der Zucker wird zu Salz.|Bakterien oxidieren das Ethanol mit Sauerstoff zu Essigsäure.|Das Wasser verwandelt sich in Säure.|2|C₂H₅OH + O₂ → CH₃COOH + H₂O.
+Wie verhält sich Essigsäure im Vergleich zu Salzsäure?|Sie ist nicht sauer.|Sie ist eine stärkere Säure.|Sie ist gleich stark.|Sie ist eine schwächere Säure und nur teilweise dissoziiert.|3|Nur ein kleiner Teil der Moleküle gibt H⁺ ab.
+Was entsteht bei der Reaktion von Essigsäure mit Natronlauge?|Natriumacetat und Wasser|Ethanol und Wasser|Natriumcarbonat und Wasserstoff|Natriumchlorid und Wasser|0|Das ist eine Neutralisation.
+Was entsteht bei der Veresterung?|ein Ester und Wasserstoff|ein Salz und Wasser|ein Ester und Wasser|eine Säure und ein Alkohol|2|Carbonsäure + Alkohol ⇌ Ester + Wasser.
+Welcher Stoff dient bei der Veresterung als Katalysator?|Wasser|konzentrierte Schwefelsäure|Natronlauge|Kochsalz|1|Sie beschleunigt die Reaktion und bindet Wasser.
+Welche Eigenschaften haben niedere Ester?|geruchlos und fest|salzartig|flüchtig und fruchtig riechend|stark sauer|2|Sie werden als Aromastoffe und Lösungsmittel genutzt.
+Woraus bestehen Fette chemisch?|aus Alkanen|aus Salzen|aus Estern von Glycerin mit drei Fettsäuren|aus Proteinen|2|Man nennt sie auch Triglyceride.
+Was entsteht bei der Verseifung von Fett mit Natronlauge?|Seife und Glycerin|Salz und Wasser|Ester und Wasser|Alkohol und Kohlenstoffdioxid|0|Seife besteht aus Salzen von Fettsäuren.
+Was geschieht bei der Polymerisation von Ethen?|Ethen zerfällt in Kohlenstoff und Wasserstoff.|Ethen wird zu Ethanol.|Die Doppelbindungen öffnen sich, die Moleküle verbinden sich zu langen Ketten.|Ethen wird verbrannt.|2|n C₂H₄ → (–CH₂–CH₂–)ₙ.
+Was kennzeichnet Thermoplaste?|Sie bleiben bis zur Zersetzung fest.|Sie verbrennen sofort.|Sie bestehen aus Salzen.|Sie erweichen beim Erwärmen und lassen sich verformen.|3|Die Ketten sind kaum vernetzt.
+Was kennzeichnet Duroplaste?|Sie lassen sich beliebig oft einschmelzen.|Sie bestehen aus Metallen.|Sie sind engmaschig vernetzt und nicht schmelzbar.|Sie sind weitmaschig vernetzt und gummielastisch.|2|Beispiele: Bakelit, Epoxidharz.
+Welche Kunststoffart ist gummielastisch?|Duroplaste|Elastomere|Metalle|Thermoplaste|1|Sie sind weitmaschig vernetzt.
+Welche Kunststoffe lassen sich leichter einschmelzen und wiederverwerten?|Elastomere|alle gleich gut|Duroplaste|Thermoplaste|3|Vernetzte Kunststoffe lassen sich nicht schmelzen.
+Aus welchem Monomer wird PVC hergestellt?|Ethen|Propen|Chlorethen (Vinylchlorid)|Styrol|2|PVC ist Polyvinylchlorid.
+Wie viele Isomere gibt es für Propanol (C₃H₇OH)?|1|3|2|4|2|1-Propanol und 2-Propanol.
+Welcher Ester entsteht aus Essigsäure und Ethanol?|Ethylethanoat (Essigsäureethylester)|Ethylmethanoat|Methylethanoat|Propylethanoat|0|CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O.
+Welcher Ester entsteht aus Methansäure und Methanol?|Methylethanoat|Methansäureethanol|Ethylmethanoat|Methylmethanoat|3|HCOOH + CH₃OH ⇌ HCOOCH₃ + H₂O.
+Wie groß ist die molare Masse von Ethanol C₂H₅OH (C = 12, H = 1, O = 16 g/mol)?|30 g/mol|46 g/mol|60 g/mol|44 g/mol|1|24 + 6 + 16 = 46.
+Welche Masse haben 0,5 mol Ethanol (M = 46 g/mol)?|23 g|92 g|46 g|11,5 g|0|m = n · M = 0,5 · 46 = 23 g.
+Welche Gleichung für die vollständige Verbrennung von Ethanol ist richtig?|C₂H₅OH + 2 O₂ → 2 CO₂ + 3 H₂O|C₂H₅OH + 3 O₂ → 2 CO₂ + 2 H₂O|2 C₂H₅OH + 3 O₂ → 4 CO₂ + 6 H₂O|C₂H₅OH + 3 O₂ → 2 CO₂ + 3 H₂O|3|Links und rechts: 2 C, 6 H, 7 O.
+Wie viel mol Ethanol entstehen bei der alkoholischen Gärung aus 1 mol Glucose?|6 mol|3 mol|2 mol|1 mol|2|C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂.
+Wie viel Ethanol (M = 46 g/mol) entsteht aus 180 g Glucose (M = 180 g/mol) bei vollständiger Gärung?|46 g|360 g|92 g|180 g|2|1 mol Glucose liefert 2 mol Ethanol, das sind 92 g.
+Ein Polyethylen-Molekül besteht aus 1000 Ethen-Einheiten (M = 28 g/mol). Wie groß ist seine molare Masse?|280 g/mol|1000 g/mol|28 000 g/mol|28 g/mol|2|1000 · 28 = 28 000.
+Warum sind Duroplaste nicht schmelzbar?|Sie bestehen nicht aus Ketten.|Sie enthalten Metall.|Die Ketten sind durch viele Querverbindungen fest vernetzt.|Sie sind ionisch aufgebaut.|2|Beim Erhitzen zersetzen sie sich eher.
+Welches Umweltproblem ist mit Kunststoffen verbunden?|Sie sind zu schwer.|Sie leiten Strom.|Sie sind schwer abbaubar und reichern sich als Mikroplastik an.|Sie lösen sich in Wasser sofort auf.|2|Recycling und Vermeidung sind wichtig.
+Was kennzeichnet die Polykondensation im Vergleich zur Polymerisation?|Neben dem Polymer entsteht ein kleines Molekül, z. B. Wasser.|Es werden keine Monomere benötigt.|Es entsteht ein Salz.|Es entsteht kein Nebenprodukt.|0|Beispiel: Polyester und Polyamide.
+Wie ist ein Seifenmolekül aufgebaut?|Beide Teile sind fettliebend.|Der Kopf ist fettliebend, der Rest wasserliebend.|Beide Teile sind wasserliebend.|Der Kopf ist wasserliebend (hydrophil), der Rest fettliebend (lipophil).|3|Deshalb löst Seife Fett in Wasser.
+Wodurch unterscheiden sich gesättigte und ungesättigte Fettsäuren?|Gesättigte enthalten kein Wasserstoff.|Ungesättigte enthalten kein Kohlenstoff.|Gesättigte haben Doppelbindungen, ungesättigte nur Einfachbindungen.|Gesättigte haben nur Einfachbindungen, ungesättigte mindestens eine Doppelbindung.|3|Ungesättigte Fettsäuren entfärben Bromwasser.
