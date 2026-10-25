@@ -2210,6 +2210,189 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "country": "FR",
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "fr-m9-01",
+          "title": "Arithmétique : multiples, diviseurs et nombres premiers",
+          "lessons": [
+            {
+              "id": "fr-m9-01-01",
+              "title": "Multiples, diviseurs et critères de divisibilité"
+            },
+            {
+              "id": "fr-m9-01-02",
+              "title": "Nombres premiers et décomposition en facteurs premiers"
+            },
+            {
+              "id": "fr-m9-01-03",
+              "title": "PGCD de deux nombres et algorithme d’Euclide"
+            },
+            {
+              "id": "fr-m9-01-04",
+              "title": "Fractions irréductibles et problèmes d’arithmétique"
+            }
+          ]
+        },
+        {
+          "id": "fr-m9-02",
+          "title": "Puissances, notation scientifique et racines carrées",
+          "lessons": [
+            {
+              "id": "fr-m9-02-01",
+              "title": "Puissances d’un nombre et règles de calcul"
+            },
+            {
+              "id": "fr-m9-02-02",
+              "title": "Puissances de 10 et notation scientifique"
+            },
+            {
+              "id": "fr-m9-02-03",
+              "title": "Racine carrée d’un nombre positif"
+            },
+            {
+              "id": "fr-m9-02-04",
+              "title": "Calculs avec des racines carrées"
+            }
+          ]
+        },
+        {
+          "id": "fr-m9-03",
+          "title": "Calcul littéral et identités remarquables",
+          "lessons": [
+            {
+              "id": "fr-m9-03-01",
+              "title": "Développer et réduire une expression"
+            },
+            {
+              "id": "fr-m9-03-02",
+              "title": "Les trois identités remarquables"
+            },
+            {
+              "id": "fr-m9-03-03",
+              "title": "Factoriser une expression"
+            },
+            {
+              "id": "fr-m9-03-04",
+              "title": "Calculs et preuves avec le calcul littéral"
+            }
+          ]
+        },
+        {
+          "id": "fr-m9-04",
+          "title": "Équations, inéquations et systèmes",
+          "lessons": [
+            {
+              "id": "fr-m9-04-01",
+              "title": "Équations du premier degré à une inconnue"
+            },
+            {
+              "id": "fr-m9-04-02",
+              "title": "Équations produit nul"
+            },
+            {
+              "id": "fr-m9-04-03",
+              "title": "Inéquations du premier degré"
+            },
+            {
+              "id": "fr-m9-04-04",
+              "title": "Systèmes de deux équations à deux inconnues"
+            }
+          ]
+        },
+        {
+          "id": "fr-m9-05",
+          "title": "Fonctions, proportionnalité et pourcentages",
+          "lessons": [
+            {
+              "id": "fr-m9-05-01",
+              "title": "Notion de fonction : image et antécédent"
+            },
+            {
+              "id": "fr-m9-05-02",
+              "title": "Fonctions linéaires et proportionnalité"
+            },
+            {
+              "id": "fr-m9-05-03",
+              "title": "Fonctions affines et droites"
+            },
+            {
+              "id": "fr-m9-05-04",
+              "title": "Pourcentages d’évolution et grandeurs quotients"
+            }
+          ]
+        },
+        {
+          "id": "fr-m9-06",
+          "title": "Statistiques et probabilités",
+          "lessons": [
+            {
+              "id": "fr-m9-06-01",
+              "title": "Moyenne, médiane, étendue et quartiles"
+            },
+            {
+              "id": "fr-m9-06-02",
+              "title": "Lecture et représentation de données"
+            },
+            {
+              "id": "fr-m9-06-03",
+              "title": "Probabilité d’un événement"
+            },
+            {
+              "id": "fr-m9-06-04",
+              "title": "Expériences aléatoires à deux épreuves"
+            }
+          ]
+        },
+        {
+          "id": "fr-m9-07",
+          "title": "Géométrie : Pythagore, Thalès et trigonométrie",
+          "lessons": [
+            {
+              "id": "fr-m9-07-01",
+              "title": "Théorème de Pythagore et sa réciproque"
+            },
+            {
+              "id": "fr-m9-07-02",
+              "title": "Théorème de Thalès et sa réciproque"
+            },
+            {
+              "id": "fr-m9-07-03",
+              "title": "Cosinus, sinus et tangente dans le triangle rectangle"
+            },
+            {
+              "id": "fr-m9-07-04",
+              "title": "Triangles semblables, agrandissements et réductions"
+            }
+          ]
+        },
+        {
+          "id": "fr-m9-08",
+          "title": "Transformations, espace et algorithmique",
+          "lessons": [
+            {
+              "id": "fr-m9-08-01",
+              "title": "Translations, rotations et symétries"
+            },
+            {
+              "id": "fr-m9-08-02",
+              "title": "Homothéties"
+            },
+            {
+              "id": "fr-m9-08-03",
+              "title": "Volumes : pyramides, cônes et boules"
+            },
+            {
+              "id": "fr-m9-08-04",
+              "title": "Algorithmique et programmation avec Scratch"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
