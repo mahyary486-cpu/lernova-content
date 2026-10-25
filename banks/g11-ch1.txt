@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+Which set of ordered pairs is a function?|{(1, 2), (1, 3), (2, 4)}|{(1, 2), (2, 3), (3, 4)}|{(0, 1), (0, 2), (0, 3)}|{(2, 5), (2, 6), (3, 7)}|1|A function gives every input exactly one output. Only the first set has no repeated x-value.
+If f(x) = 3x - 2, what is f(4)?|14|6|11|10|3|f(4) = 3(4) - 2 = 12 - 2 = 10.
+What is the domain of the relation {(1, 5), (2, 7), (3, 9)}?|{1, 2, 3}|{5, 7, 9}|{1, 5}|{2, 3, 7}|0|The domain is the set of x-values (inputs): 1, 2 and 3.
+What is the domain of f(x) = sqrt(x - 3)?|x ≤ 3|x > 3|x ≥ 3|All real numbers|2|The number under a square root cannot be negative, so x - 3 ≥ 0, which gives x ≥ 3.
+What is the domain of f(x) = 1/(x + 5)?|All real numbers except 5|x > -5|All real numbers except 0|All real numbers except -5|3|The denominator cannot be 0. x + 5 = 0 when x = -5.
+What is the range of f(x) = x^2 + 2?|y ≤ 2|y ≥ 2|y ≥ 0|All real numbers|1|x^2 is never negative, so the smallest value of x^2 + 2 is 2.
+If f(x) = 2x + 1, what is f(a + 3)?|2a + 4|2a + 6|2a + 7|a + 7|2|f(a + 3) = 2(a + 3) + 1 = 2a + 6 + 1 = 2a + 7.
+Why is the circle x^2 + y^2 = 25 not a function?|A vertical line such as x = 3 crosses it twice|It has no domain|Its range is all real numbers|A horizontal line crosses it once|0|The points (3, 4) and (3, -4) share the same x-value, so it fails the vertical line test.
+Which parent function has a V-shaped graph?|f(x) = x^2|f(x) = sqrt(x)|f(x) = x^3|f(x) = abs(x)|3|The absolute value function makes a V with its vertex at the origin.
+The graph of f(x) = x^2 is called a|Parabola|Hyperbola|Straight line|V shape|0|The graph of x^2 is a parabola that opens up.
+Which parent function has domain all real numbers except 0?|f(x) = abs(x)|f(x) = x^3|f(x) = 1/x|f(x) = sqrt(x)|2|You cannot divide by 0, so x = 0 is not allowed in 1/x.
+What is the range of f(x) = abs(x)?|All real numbers|y > 0|y ≤ 0|y ≥ 0|3|An absolute value is never negative, and abs(0) = 0 is included.
+Which parent function is odd (symmetric about the origin)?|f(x) = x^2|f(x) = x^3|f(x) = abs(x)|f(x) = sqrt(x)|1|For x^3: f(-x) = -x^3 = -f(x), so it is odd. The other symmetric ones are even or have no symmetry.
+What is the end behavior of f(x) = x^3?|Both ends go up|Both ends go down|Left end goes down, right end goes up|Left end goes up, right end goes down|2|For large negative x, x^3 is a large negative number. For large positive x, it is large and positive.
+Which of these parent functions is increasing on its whole domain and passes through (-1, -1), (0, 0) and (1, 1)?|f(x) = x^3|f(x) = x^2|f(x) = abs(x)|f(x) = 1/x|0|Only x^3 has all three points and always rises. x^2 and abs(x) decrease for x < 0, and 1/x is not defined at 0.
+For f(x) = 1/x, what are the lines x = 0 and y = 0?|Lines of symmetry|Vertical and horizontal asymptotes|Axes that the graph crosses|The domain and the range|1|The graph gets closer and closer to both lines but never touches them.
+The graph of g(x) = f(x) + 3 is the graph of f shifted|Up 3 units|Down 3 units|Right 3 units|Left 3 units|0|Adding a number outside the function moves the graph up.
+The graph of g(x) = f(x - 2) is the graph of f shifted|Left 2 units|Up 2 units|Right 2 units|Down 2 units|2|Subtracting inside the parentheses moves the graph to the right.
+The graph of g(x) = -f(x) is the graph of f|Reflected over the y-axis|Shifted down|Stretched vertically|Reflected over the x-axis|3|A negative sign outside the function flips the graph upside down.
+How is the graph of g(x) = f(x + 4) - 1 related to the graph of f?|Right 4 and down 1|Left 4 and down 1|Left 4 and up 1|Right 4 and up 1|1|x + 4 inside moves the graph left 4. The -1 outside moves it down 1.
+What is the vertex of g(x) = (x - 3)^2?|(-3, 0)|(0, 3)|(3, 0)|(0, -3)|2|For a(x - h)^2 + k the vertex is (h, k). Here h = 3 and k = 0.
+The graph of g(x) = 2f(x) is the graph of f|Stretched vertically by a factor of 2|Shifted up 2 units|Shrunk vertically by a factor of 2|Stretched horizontally by a factor of 2|0|Multiplying the output by 2 makes every y-value twice as large.
+The graph of g(x) = f(-x) is the graph of f|Reflected over the x-axis|Reflected over the y-axis|Shifted left|Rotated 90 degrees|1|A negative sign inside the parentheses flips the graph left to right.
+For g(x) = -2(x + 1)^2 + 5, which statement is true?|Vertex (1, 5) and the parabola opens down|Vertex (-1, 5) and the parabola opens up|Vertex (1, -5) and the parabola opens up|Vertex (-1, 5) and the parabola opens down|3|In a(x - h)^2 + k, h = -1 and k = 5. Since a = -2 is negative, it opens down.
+The point (4, 6) is on the graph of f. Which point must be on the graph of g(x) = f(x - 1) + 2?|(3, 8)|(5, 4)|(5, 8)|(3, 4)|2|x - 1 shifts right 1, so 4 becomes 5. The +2 shifts up 2, so 6 becomes 8.
+What is the value of abs(-7)?|-7|0|14|7|3|The absolute value is the distance from 0, which is 7.
+Solve abs(x) = 5.|x = 5 only|x = 5 or x = -5|x = -5 only|No solution|1|Both 5 and -5 are 5 units from 0.
+What is the vertex of y = abs(x - 2)?|(-2, 0)|(0, 2)|(2, 0)|(0, -2)|2|For y = abs(x - h) + k the vertex is (h, k). Here h = 2 and k = 0.
+Solve abs(x - 3) = 4.|x = 7 or x = -1|x = 7 or x = 1|x = -7 or x = 1|x = 1 only|0|x - 3 = 4 gives x = 7, and x - 3 = -4 gives x = -1.
+Let f(x) = x + 1 if x < 2 and f(x) = x^2 if x ≥ 2. What is f(3)?|4|9|6|3|1|3 ≥ 2, so use x^2: f(3) = 9.
+Let f(x) = x + 1 if x < 2 and f(x) = x^2 if x ≥ 2. What is f(1)?|1|4|0|2|3|1 < 2, so use x + 1: f(1) = 2.
+Solve abs(2x + 1) < 5.|-3 < x < 2|x < -3 or x > 2|-2 < x < 3|x > -3|0|-5 < 2x + 1 < 5 gives -6 < 2x < 4, so -3 < x < 2.
+Solve abs(x - 1) = 2x.|x = -1 only|x = -1 or x = 1/3|x = 1|x = 1/3 only|3|x - 1 = 2x gives x = -1, which fails because 2x would be negative. x - 1 = -2x gives x = 1/3, which works.
+Solve abs(3x - 2) ≥ 7.|-5/3 ≤ x ≤ 3|x ≤ -5/3 or x ≥ 3|x ≤ -3 or x ≥ 5/3|x ≥ 3|1|3x - 2 ≥ 7 gives x ≥ 3. 3x - 2 ≤ -7 gives x ≤ -5/3. Greater-than gives an or statement.
+If f(x) = x + 2 and g(x) = 3x, what is (f + g)(x)?|3x + 2|4x|4x + 2|x^2 + 6x|2|(f + g)(x) = (x + 2) + 3x = 4x + 2.
+If f(x) = x and g(x) = x + 1, what is (f * g)(x)?|x^2 + x|2x + 1|x^2 + 1|x + 1|0|(f * g)(x) = x(x + 1) = x^2 + x.
+If f(x) = 2x + 1 and g(x) = x^2, what is (f o g)(2)?|25|9|5|8|1|g(2) = 4, then f(4) = 2(4) + 1 = 9. (The value 25 is g(f(2)).)
+If f(x) = x + 3 and g(x) = 2x, what is (g o f)(x)?|2x + 3|3x + 3|2x|2x + 6|3|g(f(x)) = g(x + 3) = 2(x + 3) = 2x + 6.
+If f(x) = x^2 + 1 and g(x) = 2x - 3, what is (f - g)(x)?|x^2 - 2x + 4|x^2 - 2x - 2|x^2 + 2x - 2|x^2 + 2x + 4|0|(x^2 + 1) - (2x - 3) = x^2 + 1 - 2x + 3 = x^2 - 2x + 4.
+If f(x) = x + 1 and g(x) = x - 4, what x-value is NOT in the domain of (f / g)(x)?|x = -1|x = 0|x = 4|x = 1|2|The denominator g(x) = x - 4 is 0 when x = 4.
+If f(x) = x^2 - 1 and g(x) = x + 2, what is (f o g)(x)?|x^2 + 1|x^2 + 4x + 3|x^2 + 3|x^2 + 4x + 4|1|f(g(x)) = (x + 2)^2 - 1 = x^2 + 4x + 4 - 1 = x^2 + 4x + 3.
+If f(x) = sqrt(x) and g(x) = x - 5, what is the domain of (f o g)(x)?|x ≥ 0|x ≥ -5|x ≥ 5|x ≤ 5|2|(f o g)(x) = sqrt(x - 5), so x - 5 ≥ 0, which gives x ≥ 5.
+What is the inverse of f(x) = x + 7?|f^-1(x) = x - 7|f^-1(x) = x + 7|f^-1(x) = 7 - x|f^-1(x) = 1/(x + 7)|0|Subtracting 7 undoes adding 7.
+If f(2) = 9, what is f^-1(9)?|9|2|1/9|-2|1|The inverse sends the output 9 back to the input 2.
+What is the inverse of f(x) = 3x - 6?|f^-1(x) = (x - 6)/3|f^-1(x) = 3x + 6|f^-1(x) = x/3 - 6|f^-1(x) = (x + 6)/3|3|x = 3y - 6 gives 3y = x + 6, so y = (x + 6)/3.
+What is the inverse of f(x) = (x - 1)/2?|f^-1(x) = 2x + 1|f^-1(x) = 2x - 1|f^-1(x) = x/2 + 1|f^-1(x) = 2/(x - 1)|0|x = (y - 1)/2 gives y - 1 = 2x, so y = 2x + 1.
+Which test tells you whether a function has an inverse that is a function?|Vertical line test|Symmetry test|Horizontal line test|Slope test|2|A function is one-to-one, so it has an inverse function, exactly when no horizontal line crosses its graph more than once.
+The graph of f^-1 is the reflection of the graph of f over which line?|x = 0|y = 0|y = -x|y = x|3|Swapping x and y reflects every point over the line y = x.
+What is the inverse of f(x) = x^3 + 1?|f^-1(x) = (cube root of x) - 1|f^-1(x) = cube root of (x + 1)|f^-1(x) = cube root of (x - 1)|f^-1(x) = (x - 1)^3|2|x = y^3 + 1 gives y^3 = x - 1, so y is the cube root of (x - 1).
+Let f(x) = x^2 with x ≥ 0. What is f^-1(x) and its domain?|f^-1(x) = sqrt(x), domain x ≥ 0|f^-1(x) = -sqrt(x), domain x ≥ 0|f^-1(x) = sqrt(x), domain all real numbers|f^-1(x) = x^2, domain x ≥ 0|0|The range of f is y ≥ 0, so the domain of f^-1 is x ≥ 0. Since the original inputs were not negative, the inverse is the positive square root.

@@ -384,7 +384,38 @@
       "grade": 11,
       "subject": "Mathematics",
       "course": "Algebra 2",
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "g11-ch1",
+          "title": "Functions and Transformations",
+          "lessons": [
+            {
+              "id": "g11-ch1-l1",
+              "title": "Functions, domain and range"
+            },
+            {
+              "id": "g11-ch1-l2",
+              "title": "Parent functions"
+            },
+            {
+              "id": "g11-ch1-l3",
+              "title": "Transformations of functions"
+            },
+            {
+              "id": "g11-ch1-l4",
+              "title": "Absolute value and piecewise functions"
+            },
+            {
+              "id": "g11-ch1-l5",
+              "title": "Combining functions and composition"
+            },
+            {
+              "id": "g11-ch1-l6",
+              "title": "Inverse functions"
+            }
+          ]
+        }
+      ],
       "country": "US"
     },
     {
