@@ -1,5 +1,13 @@
 {
  "countries": {
+  "CN": {
+   "bytes": 31128,
+   "currentYear": "2026-2027",
+   "files": 40,
+   "name": "China",
+   "rev": "849e12ee73",
+   "year": "2026-2027"
+  },
   "DE": {
    "bytes": 396751,
    "currentYear": "2026-2027",
