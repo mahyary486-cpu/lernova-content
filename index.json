@@ -444,6 +444,36 @@
               "title": "Quadratic inequalities"
             }
           ]
+        },
+        {
+          "id": "g11-ch3",
+          "title": "Polynomial Functions",
+          "lessons": [
+            {
+              "id": "g11-ch3-l1",
+              "title": "Polynomial functions and end behavior"
+            },
+            {
+              "id": "g11-ch3-l2",
+              "title": "Adding, subtracting and multiplying polynomials"
+            },
+            {
+              "id": "g11-ch3-l3",
+              "title": "Dividing polynomials"
+            },
+            {
+              "id": "g11-ch3-l4",
+              "title": "The Remainder and Factor Theorems"
+            },
+            {
+              "id": "g11-ch3-l5",
+              "title": "Finding the zeros of polynomials"
+            },
+            {
+              "id": "g11-ch3-l6",
+              "title": "Graphing polynomials and the Fundamental Theorem of Algebra"
+            }
+          ]
         }
       ],
       "country": "US"

@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+What is the degree of f(x) = 5x^4 - 3x^2 + 7?|5|7|4|2|2|The degree is the highest power of x, which is 4.
+What is the leading coefficient of f(x) = 3x^2 - 8x^5 + 1?|-8|3|5|1|0|In standard form f(x) = -8x^5 + 3x^2 + 1, so the leading coefficient is -8.
+A polynomial of degree 3 is called a|Quadratic|Quartic|Linear|Cubic|3|Degree 1 is linear, 2 is quadratic, 3 is cubic and 4 is quartic.
+What is the end behavior of f(x) = x^3 - 5x?|Both ends up|Left end down, right end up|Both ends down|Left end up, right end down|1|Odd degree with a positive leading coefficient falls on the left and rises on the right.
+What is the end behavior of f(x) = -2x^4 + x?|Both ends down|Both ends up|Left end down, right end up|Left end up, right end down|0|Even degree with a negative leading coefficient: both ends go down.
+What is the maximum number of turning points of a polynomial of degree 5?|5|3|4|6|2|A degree n polynomial has at most n - 1 turning points.
+Which polynomial has a graph whose two ends both rise?|f(x) = -x^4 + 3|f(x) = 2x^4 - x^2|f(x) = x^3 + x|f(x) = -3x^5|1|Both ends rise when the degree is even and the leading coefficient is positive.
+The graph of a polynomial has 3 turning points. What is the least possible degree?|3|2|5|4|3|A degree n polynomial has at most n - 1 turning points, so n - 1 ≥ 3 gives n ≥ 4.
+Add: (3x^2 + 2x - 1) + (x^2 - 5x + 4).|4x^2 - 3x + 3|4x^2 + 7x + 3|4x^2 - 3x - 5|3x^2 - 3x + 3|0|Combine like terms: 4x^2, then 2x - 5x = -3x, then -1 + 4 = 3.
+Multiply: (x + 2)(x + 5).|x^2 + 10x + 7|x^2 + 3x + 10|x^2 + 7x + 7|x^2 + 7x + 10|3|x^2 + 5x + 2x + 10 = x^2 + 7x + 10.
+Expand (2x - 1)^2.|4x^2 + 1|4x^2 - 4x + 1|2x^2 - 4x + 1|4x^2 - 2x + 1|1|(a - b)^2 = a^2 - 2ab + b^2 with a = 2x and b = 1.
+Subtract: (2x^3 - x) - (x^3 + 4x - 2).|x^3 - 5x + 2|x^3 + 3x - 2|x^3 - 5x - 2|x^3 + 3x + 2|0|2x^3 - x - x^3 - 4x + 2 = x^3 - 5x + 2.
+Multiply: (x + 2)(x^2 - 3x + 1).|x^3 - x^2 - 5x - 2|x^3 + x^2 - 5x + 2|x^3 - x^2 - 5x + 2|x^3 - x^2 - 6x + 2|2|x^3 - 3x^2 + x + 2x^2 - 6x + 2 = x^3 - x^2 - 5x + 2.
+Expand (x + 3)^3.|x^3 + 27|x^3 + 9x^2 + 27x + 27|x^3 + 9x^2 + 9x + 27|x^3 + 3x^2 + 9x + 27|1|(a + b)^3 = a^3 + 3a^2 b + 3a b^2 + b^3 with a = x and b = 3.
+Simplify (x - 2)(x + 2)(x^2 + 4).|x^4 + 16|x^4 - 8|x^4 - 4|x^4 - 16|3|(x - 2)(x + 2) = x^2 - 4, then (x^2 - 4)(x^2 + 4) = x^4 - 16.
+What is the degree of (3x^2 + 1)(x^3 - 4x)?|6|3|5|1|2|When multiplying polynomials the degrees add: 2 + 3 = 5.
+Synthetic division can be used to divide a polynomial by a divisor of the form|x^2 + c|any quadratic|c * x^2|x - c|3|Synthetic division works only when the divisor is x - c.
+To divide by x + 3 with synthetic division, which value of c is used?|c = 3|c = -3|c = 1/3|c = -1/3|1|x + 3 = x - (-3), so c = -3.
+What is (x^2 - 5x + 6) / (x - 2)?|x - 3|x + 3|x + 2|x - 6|0|x^2 - 5x + 6 = (x - 2)(x - 3).
+Divide (x^3 + 2x^2 - 5x - 6) by (x - 2). What is the quotient?|x^2 + 4x - 3|x^2 - 4x + 3|x^2 + 4x + 3|x^2 + 2x + 3|2|Synthetic division with c = 2 gives 1, 4, 3 and remainder 0.
+What is the remainder when 2x^3 + 3x^2 - x + 5 is divided by x + 1?|5|7|-7|9|1|With c = -1 the numbers are 2, 1, -2, and the remainder is 5 + 2 = 7.
+Write (2x^3 + 3x^2 - x + 5) / (x + 1) as quotient plus remainder over divisor.|2x^2 + x - 2 - 7/(x + 1)|2x^2 + x + 2 + 7/(x + 1)|2x^2 + x - 2 + 7/(x - 1)|2x^2 + x - 2 + 7/(x + 1)|3|The quotient is 2x^2 + x - 2 and the remainder 7 goes over the divisor x + 1.
+Divide (x^3 - 27) by (x - 3). What is the quotient?|x^2 - 3x + 9|x^2 + 3x - 9|x^2 + 3x + 9|x^2 + 9|2|Use coefficients 1, 0, 0, -27 with c = 3: 1, 3, 9 and remainder 0.
+Divide (3x^3 - 2x + 4) by (x - 2).|3x^2 + 6x + 10, remainder 24|3x^2 + 6x + 10, remainder 4|3x^2 - 6x + 10, remainder 24|3x^2 + 6x + 8, remainder 20|0|Coefficients 3, 0, -2, 4 with c = 2 give 3, 6, 10 and remainder 24.
+Divide (x^4 - 1) by (x + 1).|x^3 + x^2 + x + 1|x^3 - x^2 + x - 1|x^3 - x^2 + x + 1|x^3 - 1|1|Coefficients 1, 0, 0, 0, -1 with c = -1 give 1, -1, 1, -1 and remainder 0.
+By the Remainder Theorem, the remainder when f(x) is divided by x - c is|f(c)|f(-c)|c|f(0)|0|The remainder of f(x) divided by x - c equals f(c).
+If f(4) = 0, which statement must be true?|x + 4 is a factor of f(x)|f(x) has no real zeros|x - 4 is a factor of f(x)|The remainder is 4|2|By the Factor Theorem, f(c) = 0 means x - c is a factor.
+What is the remainder when f(x) = x^2 - 5x + 6 is divided by x - 1?|6|2|1|0|1|f(1) = 1 - 5 + 6 = 2.
+What is the remainder when f(x) = 2x^3 - 3x + 1 is divided by x - 2?|7|13|-11|11|3|f(2) = 2(8) - 6 + 1 = 11.
+Is x + 1 a factor of f(x) = x^3 - 4x^2 + x + 6?|No, because f(1) = 4|Yes, because f(1) = 0|Yes, because f(-1) = 0|No, because f(-1) = 6|2|f(-1) = -1 - 4 - 1 + 6 = 0, so x + 1 is a factor.
+For what value of k is x - 1 a factor of x^3 + kx - 6?|k = 5|k = 6|k = -5|k = -6|0|f(1) = 1 + k - 6 = 0, so k = 5.
+What are the zeros of f(x) = x^3 - 4x^2 + x + 6?|x = 2, x = 1, x = -3|x = -2, x = 1, x = 3|x = 2, x = -1, x = -3|x = 2, x = -1, x = 3|3|f(2) = f(-1) = f(3) = 0, so f(x) = (x - 2)(x + 1)(x - 3).
+A polynomial f has f(2) = 0 and f(-3) = 0. Which product must be a factor of f?|(x - 2)(x + 3)|(x + 2)(x - 3)|(x - 2)(x - 3)|(x + 2)(x + 3)|0|A zero at c gives the factor x - c: x - 2 and x - (-3) = x + 3.
+The remainder when x^3 + ax^2 - 4x + 3 is divided by x + 1 is 8. What is a?|a = 1|a = -2|a = 2|a = 4|2|f(-1) = -1 + a + 4 + 3 = a + 6 = 8, so a = 2.
+Which number is a possible rational zero of x^3 + 2x^2 - x - 6?|4|3|5|12|1|Possible zeros are factors of -6 over factors of 1: ±1, ±2, ±3, ±6.
+A zero of a polynomial f is a value of x for which f(x) equals|1|the constant term|the degree|0|3|A zero (or root) makes the function equal to 0.
+Which number is NOT a possible rational zero of 2x^3 + x^2 - 13x + 6?|3/2|1/2|4|6|2|The possible zeros are ±1, ±2, ±3, ±6, ±1/2, ±3/2. The number 4 is not a factor of 6.
+Given that 2 is a zero of 2x^3 + x^2 - 13x + 6, what is the quotient after dividing by x - 2?|2x^2 + 5x - 3|2x^2 - 5x - 3|2x^2 + 5x + 3|x^2 + 5x - 3|0|Synthetic division with c = 2 on 2, 1, -13, 6 gives 2, 5, -3 and remainder 0.
+What are the zeros of f(x) = (x - 1)^2 (x + 2) and their multiplicities?|-1 (multiplicity 2) and 2 (multiplicity 1)|1 (multiplicity 1) and -2 (multiplicity 2)|1 and -2, each with multiplicity 2|1 (multiplicity 2) and -2 (multiplicity 1)|3|The factor (x - 1) appears twice and (x + 2) appears once.
+A polynomial with real coefficients has the zero 3 + 2i. Which number must also be a zero?|-3 + 2i|3 - 2i|-3 - 2i|2 + 3i|1|Complex zeros of real polynomials come in conjugate pairs.
+What are all the zeros of f(x) = 2x^3 + x^2 - 13x + 6?|x = 2, x = -1/2, x = 3|x = -2, x = 1/2, x = 3|x = 2, x = 1/2, x = -3|x = 2, x = 1/2, x = 3|2|f(2) = 0 and the quotient is 2x^2 + 5x - 3 = (2x - 1)(x + 3), so the zeros are 2, 1/2 and -3.
+A polynomial with rational coefficients has the zero 1 + sqrt(2). Which number must also be a zero?|-1 + sqrt(2)|1 - sqrt(2)|-1 - sqrt(2)|1 + 2 sqrt(2)|1|Irrational zeros of the form a + sqrt(b) come with their conjugate a - sqrt(b).
+How many complex zeros does a polynomial of degree 5 have, counting multiplicity?|4|6|At most 2|5|3|The Fundamental Theorem of Algebra: degree n means exactly n complex zeros.
+What does the graph do at a zero of even multiplicity?|Crosses the x-axis|Has a hole|Touches the x-axis and turns around|Has a vertical asymptote|2|At an even-multiplicity zero the graph touches the axis and bounces back.
+What is the y-intercept of f(x) = (x + 1)(x - 2)^2?|4|-4|2|-2|0|f(0) = (1)(-2)^2 = 4.
+Which statement is true for f(x) = (x + 1)(x - 2)^2?|Touches at x = -1 and crosses at x = 2|Crosses at both x = -1 and x = 2|Touches at both x = -1 and x = 2|Crosses at x = -1 and touches at x = 2|3|x = -1 has multiplicity 1 (cross) and x = 2 has multiplicity 2 (touch).
+A polynomial has zeros 1, -2 and 3 and leading coefficient 1. What is it?|x^3 + 2x^2 - 5x - 6|x^3 - 2x^2 - 5x + 6|x^3 - 2x^2 + 5x + 6|x^3 - 2x^2 - 5x - 6|1|(x - 1)(x + 2)(x - 3) = (x^2 + x - 2)(x - 3) = x^3 - 2x^2 - 5x + 6.
+A cubic polynomial with real coefficients can have at most how many x-intercepts?|3|2|4|1|0|A degree 3 polynomial has at most 3 real zeros.
+A cubic with real coefficients has leading coefficient 1 and zeros 2 and 1 + i. What is it?|x^3 + 4x^2 + 6x + 4|x^3 - 4x^2 + 6x - 4|x^3 - 4x^2 + 4x - 4|x^3 - 2x^2 + 4|1|The conjugate 1 - i is also a zero. (x - 2)(x^2 - 2x + 2) = x^3 - 4x^2 + 6x - 4.
+Which describes the graph of f(x) = -(x + 2)(x - 1)^2?|Left end down, right end up; crosses at x = -2, touches at x = 1|Left end up, right end down; touches at x = -2, crosses at x = 1|Both ends down; crosses at x = -2, touches at x = 1|Left end up, right end down; crosses at x = -2, touches at x = 1|3|Degree 3 with a negative leading coefficient falls on the right. x = -2 has multiplicity 1, x = 1 has multiplicity 2.
