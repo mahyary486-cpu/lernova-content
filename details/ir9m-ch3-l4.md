@@ -1,67 +1,67 @@
-# Properties of parallel lines
+# ویژگی‌های خط‌های موازی
 
-Parallel lines are lines in the same plane that never meet, and when a third line crosses them, special pairs of angles become equal or add up to 180°.
+خط‌های موازی خط‌هایی در یک صفحه‌اند که هیچ‌گاه یکدیگر را قطع نمی‌کنند، و وقتی خط سومی آن‌ها را قطع کند، بعضی جفت زاویه‌ها مساوی یا مکمل (مجموع ۱۸۰ درجه) می‌شوند.
 
-## Key ideas
+## نکته‌های کلیدی
 
-**Transversal.** A line that crosses two other lines is called a transversal. It makes eight angles. Some pairs have special names.
+**مورب.** خطی که دو خط دیگر را قطع کند مورب نام دارد. مورب هشت زاویه می‌سازد و بعضی جفت‌ها نام ویژه دارند.
 
-**Angle pairs.** Let lines a and b be cut by a transversal t.
-- Corresponding angles are in the same position at the two crossing points.
-- Alternate interior angles are between the lines, on opposite sides of the transversal.
-- Co-interior angles (also called same-side interior angles) are between the lines, on the same side of the transversal.
+**جفت زاویه‌ها.** فرض کنید خط‌های a و b را مورب t قطع کرده است.
+- زاویه‌های متناظر در دو نقطه‌ی برخورد، در موقعیت یکسان قرار دارند.
+- زاویه‌های متبادل داخلی بین دو خط و در دو طرف مورب‌اند.
+- زاویه‌های داخلی هم‌طرف (هم‌جانب) بین دو خط و در یک طرف مورب‌اند.
 
-**Parallel line theorem.** If a ∥ b, then:
-- corresponding angles are equal,
-- alternate interior angles are equal,
-- co-interior angles add up to 180°.
+**قضیه‌ی خطوط موازی.** اگر a ∥ b آن‌گاه:
+- زاویه‌های متناظر مساوی‌اند،
+- زاویه‌های متبادل داخلی مساوی‌اند،
+- مجموع زاویه‌های داخلی هم‌طرف ۱۸۰ درجه است.
 
-**Converse.** If a transversal makes equal corresponding angles, or equal alternate interior angles, or co-interior angles adding up to 180°, then the two lines are parallel.
+**عکس قضیه.** اگر مورب زاویه‌های متناظر مساوی، یا زاویه‌های متبادل داخلی مساوی، یا زاویه‌های داخلی هم‌طرف با مجموع ۱۸۰ درجه بسازد، آن‌گاه دو خط موازی‌اند.
 
-**Parallel postulate.** Through a point not on a line, exactly one line can be drawn parallel to the given line. This is accepted as an axiom.
+**اصل توازی.** از یک نقطه‌ی خارج از خط، فقط یک خط موازی با آن خط می‌توان رسم کرد. این را به‌عنوان اصل می‌پذیریم.
 
-**Angle sum of a triangle.** The angles of a triangle add up to 180°. The proof uses parallel lines.
+**مجموع زاویه‌های مثلث.** زاویه‌های داخلی مثلث مجموعاً ۱۸۰ درجه‌اند. اثبات آن از خط‌های موازی استفاده می‌کند.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-**Example 1.** Lines a and b are parallel. A transversal makes an angle of 70° with line a (an interior angle on the left side). Find the other angles at line b.
+**مثال ۱.** خط‌های a و b موازی‌اند. مورب با خط a زاویه‌ی ۷۰ درجه می‌سازد (یک زاویه‌ی داخلی در سمت چپ). زاویه‌های دیگر در محل برخورد با خط b را بیابید.
 
-Step 1: The alternate interior angle at b is equal to 70°.
-Step 2: The co-interior angle at b is 180° - 70° = 110°.
-Step 3: The corresponding angle at b, in the same position as the 70° angle, is 70°.
-Step 4: Other angles at b are found with vertical angles and straight lines, so they are 70° or 110°.
+گام ۱: زاویه‌ی متبادل داخلی در b برابر ۷۰° است.
+گام ۲: زاویه‌ی داخلی هم‌طرف در b برابر ۱۸۰° - ۷۰° = ۱۱۰° است.
+گام ۳: زاویه‌ی متناظر در b، که در همان موقعیت زاویه‌ی ۷۰° است، برابر ۷۰° است.
+گام ۴: زاویه‌های دیگر در b با زاویه‌های متقابل به رأس و خط راست به دست می‌آیند، پس ۷۰° یا ۱۱۰° هستند.
 
-**Example 2.** Two parallel lines are cut by a transversal. One co-interior angle is (2x + 10)° and the other is (3x - 20)°. Find x and both angles.
+**مثال ۲.** دو خط موازی را موربی قطع کرده است. یک زاویه‌ی داخلی هم‌طرف (۲x + ۱۰) درجه و دیگری (۳x - ۲۰) درجه است. x و هر دو زاویه را بیابید.
 
-Step 1: Co-interior angles add up to 180°, so (2x + 10) + (3x - 20) = 180.
-Step 2: Combine: 5x - 10 = 180.
-Step 3: 5x = 190, so x = 38.
-Step 4: First angle: 2(38) + 10 = 86°. Second angle: 3(38) - 20 = 94°.
-Step 5: Check: 86° + 94° = 180°. Correct.
+گام ۱: زاویه‌های داخلی هم‌طرف مجموعاً ۱۸۰° هستند، پس (۲x + ۱۰) + (۳x - ۲۰) = ۱۸۰.
+گام ۲: ساده می‌کنیم: ۵x - ۱۰ = ۱۸۰.
+گام ۳: ۵x = ۱۹۰ پس x = ۳۸.
+گام ۴: زاویه‌ی اول: ۲(۳۸) + ۱۰ = ۸۶°. زاویه‌ی دوم: ۳(۳۸) - ۲۰ = ۹۴°.
+گام ۵: بررسی: ۸۶° + ۹۴° = ۱۸۰°. درست است.
 
-**Example 3.** Prove that the angles of a triangle add up to 180°.
+**مثال ۳.** ثابت کنید مجموع زاویه‌های داخلی مثلث ۱۸۰ درجه است.
 
-Given: △ABC.
-Step 1: Through A, draw line DE parallel to BC, with D on the side of B and E on the side of C.
-Step 2: ∠DAB = ∠B, because they are alternate interior angles (DE ∥ BC, transversal AB).
-Step 3: ∠EAC = ∠C, because they are alternate interior angles (DE ∥ BC, transversal AC).
-Step 4: ∠DAB + ∠BAC + ∠EAC = 180°, because D, A, E lie on a straight line.
-Step 5: Replace: ∠B + ∠A + ∠C = 180°. Done.
+فرض: مثلث ABC.
+گام ۱: از A خط DE را موازی BC رسم می‌کنیم، به‌طوری که D در طرف B و E در طرف C باشد.
+گام ۲: ∠DAB = ∠B، چون متبادل داخلی‌اند (DE ∥ BC و مورب AB).
+گام ۳: ∠EAC = ∠C، چون متبادل داخلی‌اند (DE ∥ BC و مورب AC).
+گام ۴: ∠DAB + ∠BAC + ∠EAC = ۱۸۰°، چون D و A و E روی یک خط راست‌اند.
+گام ۵: جایگذاری می‌کنیم: ∠B + ∠A + ∠C = ۱۸۰°. اثبات تمام شد.
 
-**Example 4.** Is line a parallel to line b if a transversal makes alternate interior angles of 65° and 70°?
+**مثال ۴.** اگر موربی زاویه‌های متبادل داخلی ۶۵ درجه و ۷۰ درجه بسازد، آیا خط a با خط b موازی است؟
 
-Step 1: Parallel lines need equal alternate interior angles.
-Step 2: 65° ≠ 70°, so the lines are not parallel.
+گام ۱: خط‌های موازی زاویه‌های متبادل داخلی مساوی دارند.
+گام ۲: ۶۵° ≠ ۷۰° پس خط‌ها موازی نیستند.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Using "alternate interior angles are equal" when the lines are not known to be parallel. The equality is true only for parallel lines.
-- Confusing co-interior angles (sum 180°) with alternate interior angles (equal).
-- Choosing the wrong pair of angles from a figure. Check which side of the transversal each angle is on, and whether it is inside or outside the lines.
-- Forgetting to check the answer. Two co-interior angles must always add up to 180°.
+- استفاده از «زاویه‌های متبادل داخلی مساویند» وقتی موازی‌بودن خط‌ها معلوم نیست. این تساوی فقط برای خط‌های موازی برقرار است.
+- اشتباه گرفتن زاویه‌های داخلی هم‌طرف (مجموع ۱۸۰°) با زاویه‌های متبادل داخلی (مساوی).
+- انتخاب جفت زاویه‌ی نادرست از روی شکل. بررسی کنید هر زاویه در کدام طرف مورب است و درون دو خط است یا بیرون آن‌ها.
+- فراموش‌کردن بررسی پاسخ. دو زاویه‌ی داخلی هم‌طرف همیشه باید مجموعاً ۱۸۰° باشند.
 
-## Remember
+## به یاد داشته باشید
 
-- If lines are parallel: corresponding and alternate interior angles are equal, and co-interior angles add up to 180°.
-- The converse lets us prove that lines are parallel.
-- Parallel lines are the key tool in the proof of the triangle angle sum.
+- اگر خط‌ها موازی باشند: زاویه‌های متناظر و متبادل داخلی مساوی‌اند و مجموع زاویه‌های داخلی هم‌طرف ۱۸۰° است.
+- عکس قضیه به ما اجازه می‌دهد موازی‌بودن خط‌ها را ثابت کنیم.
+- خط‌های موازی ابزار اصلی اثبات مجموع زاویه‌های مثلث‌اند.

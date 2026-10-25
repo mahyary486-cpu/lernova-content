@@ -1,51 +1,51 @@
 #EEEMMMHHEEEMMMHHEEEMMMHHEEEMMMHHEEMMMHHMMMHHMMHHHH
-In the statement "If p, then q", what is p called?|The conclusion|The converse|The counterexample|The hypothesis|3|p is what we are given, so it is the hypothesis. q is the conclusion.
-What do the angles of a triangle add up to?|180°|90°|360°|270°|0|The angle sum of any triangle is 180°.
-What does SAS mean as a congruence condition?|Two sides and any angle are equal|Two sides and the angle between them are equal|Three sides are equal|Three angles are equal|1|SAS needs two equal sides and the equal angle must be between them (the included angle).
-Two lines are parallel and one co-interior angle is 70°. What is the other co-interior angle?|70°|20°|110°|290°|2|Co-interior angles add up to 180°, so 180° − 70° = 110°.
-Look at the numbers 2, 4, 6, 8. Using inductive reasoning, what is the next number?|9|10|12|16|1|The pattern adds 2 each time, so the next number is 8 + 2 = 10.
-In an indirect proof (proof by contradiction), what is the first step?|Assume the conclusion is true|Measure a drawing|Assume the conclusion is false|Find a counterexample|2|We assume the opposite of what we want to prove and look for a contradiction.
-How is the angle sum of a triangle proved?|Draw a line through a vertex parallel to the opposite side and use alternate interior angles|Measure the three angles of many triangles|Assume the sum is 360°|Use AAA congruence|0|The parallel line creates angles equal to ∠B and ∠C on either side of ∠A, and the three angles form a straight line (180°).
-Which statement has a true converse?|If two angles are vertical angles, then they are equal|If a number is divisible by 6, then it is divisible by 3|If a figure is a square, then it has four sides|If two lines are parallel, then corresponding angles are equal|3|The converse of the parallel line theorem is also true. The other converses can be false.
-What is inductive reasoning?|Reaching a certain conclusion from proven facts|Reaching a general rule from several examples|Measuring a drawing carefully|Memorizing a theorem|1|Inductive reasoning looks at examples, notices a pattern and states a general rule, called a conjecture.
-What is the converse of "If p, then q"?|If not p, then not q|If p, then not q|If q, then p|If q, then not p|2|The converse swaps the hypothesis and the conclusion.
-What is a conjecture?|A proven theorem|A definition|An axiom|A statement based on a pattern that is not yet proven|3|A conjecture is a good guess from examples. It needs a proof before we can trust it.
-Triangles ABC and DEF have AB = DE, AC = DF and ∠A = ∠D. Which condition proves they are congruent?|SAS|SSS|ASA|AAA|0|Two sides and the angle between them are equal, so SAS applies.
-Two parallel lines are cut by a transversal. Co-interior angles are (2x + 10)° and (3x − 20)°. What is x?|36|40|28|38|3|Co-interior angles add to 180°, so 5x − 10 = 180 and x = 38.
-In △PQR and △XYZ, ∠P = ∠X = 40°, ∠Q = ∠Y = 65° and PQ = XY. Which condition proves they are congruent?|SAS|ASA|SSS|SSA|1|Two angles and the side between them are equal, so ASA applies.
-Two parallel lines are cut by a transversal. A pair of alternate interior angles is (3x + 15)° and (5x − 25)°. What is x?|20|10|15|25|0|Alternate interior angles are equal: 3x + 15 = 5x − 25, so 2x = 40 and x = 20.
-△ABC ≅ △DEF, ∠A = 50° and ∠E = 60°. What is ∠F?|50°|60°|70°|110°|2|∠B = ∠E = 60°, so ∠C = 180° − 50° − 60° = 70°, and ∠F = ∠C = 70°.
-How many counterexamples are needed to show that a statement is false?|One|Two|Three|Ten|0|A single example that satisfies the hypothesis but fails the conclusion disproves the statement.
-If two parallel lines are cut by a transversal, what do co-interior angles add up to?|90°|360°|180°|They are equal|2|Co-interior (same-side interior) angles between parallel lines add up to 180°.
-Which of these is NOT a valid condition for congruence of triangles?|SSS|AAA|ASA|AAS|1|Three equal angles only show that the triangles have the same shape. They can have different sizes.
-Which number is a counterexample to "All prime numbers are odd"?|3|9|15|2|3|2 is prime but even, so it fails the statement.
-Is the converse of "If two angles are vertical angles, then they are equal" true?|Yes, always|No, equal angles need not be vertical angles|Yes, but only for right angles|It cannot be decided|1|The two equal base angles of an isosceles triangle are equal but are not vertical angles.
-Why can a triangle not have two right angles?|The sides would be equal|The triangle would be equilateral|The sum would be 360°|The third angle would be 0°|3|Two right angles already add up to 180°, which leaves 0° for the third angle. That is impossible.
-The vertex angle of an isosceles triangle is 100°. What is each base angle?|40°|80°|50°|100°|0|The two base angles are equal and add up to 180° − 100° = 80°, so each is 40°.
-Two co-interior angles between parallel lines are in the ratio 2 : 3. What is the larger angle?|72°|120°|108°|90°|2|Let the angles be 2k and 3k. Then 5k = 180°, so k = 36° and the larger angle is 108°.
-What is deductive reasoning?|Guessing a rule from a few examples|Using known true facts and logic to reach a conclusion|Drawing a picture and measuring it|Testing one example|1|Deductive reasoning starts from true facts (definitions, axioms, theorems) and uses logic. The conclusion must then be true.
-In an isosceles triangle with AB = AC, which angles are equal?|∠B and ∠C|∠A and ∠B|∠A and ∠C|All three angles|0|The base angles, opposite the equal sides, are equal.
-What do the angles on a straight line add up to?|90°|360°|270°|180°|3|Angles on a straight line add up to 180°.
-Why is SSA not accepted as a congruence condition?|It needs four sides|It only works for right triangles|It does not always give congruent triangles|It is the same as AAA|2|Two different triangles can share two sides and a non-included angle.
-In △ABC, AB = AC and ∠A = 40°. What is ∠B?|70°|40°|80°|140°|0|The base angles are equal and add to 180° − 40° = 140°, so each is 70°.
-Two lines are parallel and a transversal makes an alternate interior angle of 70°. What is the other alternate interior angle?|110°|20°|180°|70°|3|Alternate interior angles between parallel lines are equal.
-In △ABC, AB = AC and D is the midpoint of BC. Which condition proves △ABD ≅ △ACD?|SAS|ASA|SSS|AAA|2|AB = AC, BD = DC and AD is a common side, so SSS applies.
-Two parallel lines are cut by a transversal. Corresponding angles are (4x − 10)° and (2x + 30)°. What is the size of each angle?|20°|70°|50°|110°|1|Corresponding angles are equal: 4x − 10 = 2x + 30, so x = 20 and each angle is 70°.
-What is true about vertical angles?|They are equal|They add up to 180°|They add up to 90°|They are always right angles|0|Vertical angles are the opposite angles formed by two crossing lines, and they are equal.
-If two parallel lines are cut by a transversal, what is true about alternate interior angles?|They add up to 180°|They are equal|They add up to 90°|They are always different|1|For parallel lines, alternate interior angles are equal.
-Two angles of a triangle are 40° and 75°. What is the third angle?|115°|35°|65°|55°|2|180° − 40° − 75° = 65°.
-Which number is a counterexample to "If a number is divisible by 3, then it is divisible by 6"?|6|12|18|9|3|9 is divisible by 3 but 9 ÷ 6 is not a whole number. The others are divisible by 6.
-In a triangle ABC, ∠A = 50° and ∠B = 60°. What is the exterior angle at C?|70°|130°|10°|110°|3|The exterior angle equals the sum of the two remote interior angles: 50° + 60° = 110°.
-M is the midpoint of both AB and CD, which cross at M. Which condition proves △AMC ≅ △BMD?|SSS|SAS|ASA|RHS|1|AM = MB, CM = MD and the included angles ∠AMC = ∠BMD are vertical angles, so SAS applies.
-In a proof, a student writes "it looks equal in the figure" as a reason. Why is this not acceptable?|Reasons must be definitions, axioms or proven theorems|Figures are always correct|Equal angles never appear in figures|Reasons must be numbers|0|A drawing can be inaccurate. Every step needs a valid reason.
-What is the converse of "If two angles are vertical angles, then they are equal"?|If two angles are not vertical, then they are not equal|If two angles are not equal, then they are not vertical angles|If two angles are equal, then they are vertical angles|Vertical angles are not equal|2|We swap the hypothesis and the conclusion.
-What is the sum 1 + 3 + 5 + 7 + 9 of the first five odd numbers?|15|25|20|45|1|The sum of the first n odd numbers is n², so for n = 5 it is 25.
-If "p implies q" and "q implies r" are both true, what must be true?|r implies p|q implies p|p implies r|p and r are equal|2|The chain of logic gives p implies r.
-The angles of a triangle are x, 2x and 3x. What is the smallest angle?|20°|60°|45°|30°|3|x + 2x + 3x = 180°, so 6x = 180° and x = 30°.
-An exterior angle of a triangle is 125° and one remote interior angle is 45°. What is the other remote interior angle?|80°|170°|55°|90°|0|The exterior angle equals the sum of the remote angles, so the other angle is 125° − 45° = 80°.
-Given: all squares are rectangles, and ABCD is a square. What can we conclude by deductive reasoning?|ABCD is a rectangle|ABCD is a rhombus only|ABCD is not a rectangle|ABCD has side length 1|0|Every square is a rectangle and ABCD is a square, so ABCD is a rectangle.
-A transversal makes alternate interior angles of 65° and 70° with two lines. What can we conclude?|The lines are parallel|The lines are perpendicular|The lines are not parallel|The lines are the same line|2|Parallel lines would make equal alternate interior angles, but 65° ≠ 70°.
-A student measures the angle sums of five triangles and gets 180° each time. She concludes that every triangle has angle sum 180°. What kind of reasoning is this?|Deductive reasoning, which is a proof|A proof by contradiction|A counterexample|Inductive reasoning, which is not a proof|3|She generalizes from examples, so the reasoning is inductive. A proof is needed for all triangles.
-What is a counterexample to the converse of "If x = 3, then x² = 9"?|x = 3|x = −3|x = 9|x = 0|1|The converse is "If x² = 9, then x = 3". When x = −3, x² = 9 but x is not 3.
-△ABC ≅ △DEF with AB = 5 cm, BC = 7 cm and AC = 9 cm. What is DF?|5 cm|7 cm|21 cm|9 cm|3|DF corresponds to AC, so DF = 9 cm.
-Which fact is used to prove that vertical angles are equal?|They are both acute|Both angles form a straight-line pair with the same third angle|They have the same arm length|They are measured with a protractor|1|Each of the two vertical angles adds to 180° with the same neighbouring angle, so they are equal.
+در گزاره‌ی «اگر p آن‌گاه q»، به p چه می‌گوییم؟|حکم|عکس|فرض|مثال نقض|2|p آن چیزی است که داده شده است، پس فرض نام دارد. q حکم است.
+در مثلث متساوی‌الساقین با AB = AC، کدام زاویه‌ها مساوی‌اند؟|∠B و ∠C|∠A و ∠B|∠A و ∠C|هر سه زاویه|0|زاویه‌های قاعده که روبه‌روی ضلع‌های مساوی‌اند، مساوی‌اند.
+مجموع زاویه‌های داخلی مثلث چقدر است؟|۹۰°|۱۸۰°|۳۶۰°|۲۷۰°|1|مجموع زاویه‌های داخلی هر مثلث ۱۸۰ درجه است.
+اگر «p نتیجه می‌دهد q» و «q نتیجه می‌دهد r» هر دو درست باشند، چه چیزی حتماً درست است؟|r نتیجه می‌دهد p|q نتیجه می‌دهد p|p و r مساوی‌اند|p نتیجه می‌دهد r|3|زنجیره‌ی منطقی نتیجه می‌دهد p به r می‌رسد.
+مورب با دو خط زاویه‌های متبادل داخلی ۶۵° و ۷۰° می‌سازد. چه نتیجه‌ای می‌گیریم؟|خط‌ها موازی نیستند|خط‌ها موازی‌اند|خط‌ها عمودند|خط‌ها یکی هستند|0|خط‌های موازی زاویه‌های متبادل داخلی مساوی می‌سازند ولی ۶۵° ≠ ۷۰°.
+دو خط موازی را موربی قطع کرده و زاویه‌های داخلی هم‌طرف (۲x + ۱۰)° و (۳x - ۲۰)° هستند. x چقدر است؟|۳۶|۴۰|۳۸|۲۸|2|زاویه‌های داخلی هم‌طرف مجموعاً ۱۸۰° هستند، پس ۵x - ۱۰ = ۱۸۰ و x = ۳۸.
+نقطه‌ی M وسط AB و وسط CD است و این دو پاره‌خط در M یکدیگر را قطع می‌کنند. کدام حالت △AMC ≅ △BMD را ثابت می‌کند؟|SSS|ASA|RHS|SAS|3|AM = MB و CM = MD و زاویه‌های بین آن‌ها ∠AMC = ∠BMD متقابل به رأس‌اند، پس حالت SAS برقرار است.
+کدام مثال نقض عکس گزاره‌ی «اگر x = ۳ آن‌گاه x^۲ = ۹» است؟|x = ۳|x = -۳|x = ۹|x = ۰|1|عکس گزاره این است: «اگر x^۲ = ۹ آن‌گاه x = ۳». وقتی x = -۳ است x^۲ = ۹ ولی x برابر ۳ نیست.
+استدلال استنتاجی چیست؟|حدس‌زدن یک قاعده از چند مثال|رسم شکل و اندازه‌گیری آن|استفاده از واقعیت‌های درست و منطق برای رسیدن به نتیجه|آزمایش فقط یک مثال|2|استدلال استنتاجی از واقعیت‌های درست (تعریف، اصل و قضیه) شروع می‌کند و با منطق به نتیجه می‌رسد. نتیجه حتماً درست است.
+مجموع زاویه‌های روی یک خط راست چقدر است؟|۹۰°|۱۸۰°|۳۶۰°|۲۷۰°|1|زاویه‌های روی یک خط راست مجموعاً ۱۸۰ درجه‌اند.
+عکس گزاره‌ی «اگر p آن‌گاه q» کدام است؟|اگر p نباشد آن‌گاه q نیست|اگر p آن‌گاه q نیست|اگر q آن‌گاه p نیست|اگر q آن‌گاه p|3|در عکس گزاره، فرض و حکم جای هم را می‌گیرند.
+دو خط موازی‌اند و مورب یک زاویه‌ی متبادل داخلی ۷۰° می‌سازد. زاویه‌ی متبادل داخلی دیگر چقدر است؟|۷۰°|۱۱۰°|۲۰°|۱۸۰°|0|زاویه‌های متبادل داخلی بین خط‌های موازی مساوی‌اند.
+داده: همه‌ی مربع‌ها مستطیل‌اند و ABCD مربع است. با استدلال استنتاجی چه نتیجه‌ای می‌گیریم؟|ABCD فقط لوزی است|ABCD مستطیل نیست|ABCD مستطیل است|طول ضلع ABCD برابر ۱ است|2|هر مربع مستطیل است و ABCD مربع است، پس ABCD مستطیل است.
+کدام عدد مثال نقض گزاره‌ی «اگر عددی بر ۳ بخش‌پذیر باشد، بر ۶ بخش‌پذیر است» است؟|۹|۶|۱۲|۱۸|0|عدد ۹ بر ۳ بخش‌پذیر است ولی بر ۶ بخش‌پذیر نیست. بقیه بر ۶ بخش‌پذیرند.
+△ABC ≅ △DEF و ∠A = ۵۰° و ∠E = ۶۰° است. اندازه‌ی ∠F چقدر است؟|۵۰°|۶۰°|۱۱۰°|۷۰°|3|∠B = ∠E = ۶۰° پس ∠C = ۱۸۰° - ۵۰° - ۶۰° = ۷۰° و ∠F = ∠C = ۷۰°.
+دو خط موازی را موربی قطع کرده است. یک جفت زاویه‌ی متبادل داخلی (۳x + ۱۵)° و (۵x - ۲۵)° است. x چقدر است؟|۱۰|۲۰|۱۵|۲۵|1|زاویه‌های متبادل داخلی مساوی‌اند: ۳x + ۱۵ = ۵x - ۲۵ پس ۲x = ۴۰ و x = ۲۰.
+استدلال استقرایی چیست؟|رسیدن به نتیجه‌ی قطعی از واقعیت‌های ثابت‌شده|رسیدن به یک قاعده‌ی کلی از روی چند مثال|اندازه‌گیری دقیق یک شکل|حفظ‌کردن یک قضیه|1|در استدلال استقرایی از چند مثال یک الگو پیدا می‌کنیم و یک قاعده‌ی کلی به نام حدس می‌گوییم.
+برای نشان‌دادن نادرستی یک گزاره چند مثال نقض لازم است؟|یک مثال|دو مثال|سه مثال|ده مثال|0|یک مثال که فرض را برقرار و حکم را نقض کند، گزاره را رد می‌کند.
+درباره‌ی زاویه‌های متقابل به رأس چه می‌دانیم؟|مجموعشان ۱۸۰° است|مجموعشان ۹۰° است|مساوی‌اند|همیشه قائمه‌اند|2|زاویه‌های متقابل به رأس زاویه‌های روبه‌روی هم‌اند که از برخورد دو خط ساخته می‌شوند و مساوی‌اند.
+در مثلث ABC داریم ∠A = ۵۰° و ∠B = ۶۰°. زاویه‌ی خارجی در رأس C چقدر است؟|۷۰°|۱۳۰°|۱۰°|۱۱۰°|3|زاویه‌ی خارجی با مجموع دو زاویه‌ی داخلی غیرمجاور برابر است: ۵۰° + ۶۰° = ۱۱۰°.
+عددهای ۲ و ۴ و ۶ و ۸ را ببینید. با استدلال استقرایی عدد بعدی چیست؟|۹|۱۰|۱۲|۱۶|1|الگو هر بار ۲ واحد اضافه می‌کند، پس عدد بعدی ۸ + ۲ = ۱۰ است.
+در مثلث‌های ABC و DEF داریم AB = DE و AC = DF و ∠A = ∠D. کدام حالت همنهشتی را ثابت می‌کند؟|SAS|SSS|ASA|AAA|0|دو ضلع و زاویه‌ی بین آن‌ها مساوی است، پس حالت SAS برقرار است.
+دو خط موازی را موربی قطع کرده است. زاویه‌های متناظر (۴x - ۱۰)° و (۲x + ۳۰)° هستند. اندازه‌ی هر زاویه چقدر است؟|۲۰°|۵۰°|۷۰°|۱۱۰°|2|زاویه‌های متناظر مساوی‌اند: ۴x - ۱۰ = ۲x + ۳۰ پس x = ۲۰ و هر زاویه ۷۰° است.
+برای اثبات مساوی‌بودن زاویه‌های متقابل به رأس از کدام واقعیت استفاده می‌شود؟|هر دو زاویه حاده‌اند|طول ضلع‌هایشان یکی است|با نقاله اندازه‌گیری می‌شوند|هر کدام با یک زاویه‌ی سوم مشترک روی خط راست مجموع ۱۸۰° می‌دهند|3|هر یک از دو زاویه‌ی متقابل به رأس با زاویه‌ی کناری مشترک ۱۸۰° می‌شود، پس مساوی‌اند.
+حدس چیست؟|قضیه‌ی ثابت‌شده|گزاره‌ای که بر پایه‌ی یک الگو گفته شده و هنوز ثابت نشده است|تعریف|اصل|1|حدس یک گمان خوب از روی مثال‌هاست و پیش از پذیرفتن به اثبات نیاز دارد.
+اگر دو خط موازی را مورب قطع کند، مجموع زاویه‌های داخلی هم‌طرف چقدر است؟|۹۰°|۳۶۰°|۱۸۰°|مساوی‌اند|2|زاویه‌های داخلی هم‌طرف بین خط‌های موازی مجموعاً ۱۸۰ درجه‌اند.
+اگر دو خط موازی را مورب قطع کند، زاویه‌های متبادل داخلی چه رابطه‌ای دارند؟|مساوی‌اند|مجموعشان ۱۸۰° است|مجموعشان ۹۰° است|همیشه متفاوت‌اند|0|برای خط‌های موازی، زاویه‌های متبادل داخلی مساوی‌اند.
+کدام عدد مثال نقض گزاره‌ی «همه‌ی عددهای اول فردند» است؟|۳|۹|۱۵|۲|3|عدد ۲ اول است ولی زوج است، پس گزاره را نقض می‌کند.
+اولین گام در اثبات غیرمستقیم (برهان خلف) چیست؟|فرض می‌کنیم حکم نادرست است|فرض می‌کنیم حکم درست است|شکل را اندازه‌گیری می‌کنیم|مثال نقض پیدا می‌کنیم|0|خلاف آنچه می‌خواهیم ثابت کنیم را فرض می‌کنیم و دنبال تناقض می‌گردیم.
+در △ABC داریم AB = AC و ∠A = ۴۰°. اندازه‌ی ∠B چقدر است؟|۴۰°|۷۰°|۸۰°|۱۴۰°|1|زاویه‌های قاعده مساوی‌اند و مجموعشان ۱۸۰° - ۴۰° = ۱۴۰° است، پس هر کدام ۷۰° است.
+△ABC ≅ △DEF و AB = ۵ سانتی‌متر و BC = ۷ سانتی‌متر و AC = ۹ سانتی‌متر است. اندازه‌ی DF چقدر است؟|۵ سانتی‌متر|۷ سانتی‌متر|۹ سانتی‌متر|۲۱ سانتی‌متر|2|DF متناظر AC است، پس DF = ۹ سانتی‌متر.
+مجموع زاویه‌های مثلث چگونه ثابت می‌شود؟|زاویه‌های چند مثلث را اندازه می‌گیریم|فرض می‌کنیم مجموع ۳۶۰° است|از همنهشتی AAA استفاده می‌کنیم|از رأس خطی موازی ضلع مقابل رسم می‌کنیم و از زاویه‌های متبادل داخلی استفاده می‌کنیم|3|خط موازی زاویه‌هایی مساوی ∠B و ∠C کنار ∠A می‌سازد و سه زاویه روی یک خط راست (۱۸۰°) قرار می‌گیرند.
+حالت SAS در همنهشتی مثلث‌ها یعنی چه؟|دو ضلع و یک زاویه‌ی دلخواه مساوی باشد|سه ضلع مساوی باشد|دو ضلع و زاویه‌ی بین آن‌ها مساوی باشد|سه زاویه مساوی باشد|2|در حالت SAS دو ضلع مساوی و زاویه‌ی مساوی باید بین آن دو ضلع باشد.
+کدام یک حالت معتبر همنهشتی مثلث‌ها نیست؟|AAA|SSS|ASA|AAS|0|سه زاویه‌ی مساوی فقط نشان می‌دهد مثلث‌ها هم‌شکل‌اند. اندازه‌شان می‌تواند متفاوت باشد.
+دو خط موازی‌اند و یک زاویه‌ی داخلی هم‌طرف ۷۰° است. زاویه‌ی داخلی هم‌طرف دیگر چقدر است؟|۷۰°|۱۱۰°|۲۰°|۲۹۰°|1|زاویه‌های داخلی هم‌طرف مجموعاً ۱۸۰° هستند، پس ۱۸۰° - ۷۰° = ۱۱۰°.
+دو زاویه‌ی یک مثلث ۴۰° و ۷۵° است. زاویه‌ی سوم چقدر است؟|۱۱۵°|۳۵°|۵۵°|۶۵°|3|۱۸۰° - ۴۰° - ۷۵° = ۶۵°.
+آیا عکس گزاره‌ی «اگر دو زاویه متقابل به رأس باشند، آن‌گاه مساوی‌اند» درست است؟|بله، همیشه|بله، ولی فقط برای زاویه‌های قائمه|نمی‌توان تشخیص داد|خیر، زاویه‌های مساوی لزوماً متقابل به رأس نیستند|3|دو زاویه‌ی قاعده‌ی یک مثلث متساوی‌الساقین مساوی‌اند ولی متقابل به رأس نیستند.
+زاویه‌های یک مثلث x و ۲x و ۳x هستند. کوچک‌ترین زاویه چقدر است؟|۳۰°|۲۰°|۶۰°|۴۵°|0|x + ۲x + ۳x = ۱۸۰° پس ۶x = ۱۸۰° و x = ۳۰°.
+زاویه‌ی رأس یک مثلث متساوی‌الساقین ۱۰۰° است. هر زاویه‌ی قاعده چقدر است؟|۸۰°|۴۰°|۵۰°|۱۰۰°|1|دو زاویه‌ی قاعده مساوی‌اند و مجموعشان ۱۸۰° - ۱۰۰° = ۸۰° است، پس هر کدام ۴۰° است.
+در مثلث‌های PQR و XYZ داریم ∠P = ∠X = ۴۰° و ∠Q = ∠Y = ۶۵° و PQ = XY. کدام حالت همنهشتی را ثابت می‌کند؟|SAS|SSS|ASA|SSA|2|دو زاویه و ضلع بین آن‌ها مساوی است، پس حالت ASA برقرار است.
+عکس گزاره‌ی «اگر دو زاویه متقابل به رأس باشند، آن‌گاه مساوی‌اند» کدام است؟|اگر دو زاویه متقابل به رأس نباشند، آن‌گاه مساوی نیستند|اگر دو زاویه مساوی باشند، آن‌گاه متقابل به رأس‌اند|اگر دو زاویه مساوی نباشند، آن‌گاه متقابل به رأس نیستند|زاویه‌های متقابل به رأس مساوی نیستند|1|در عکس گزاره، فرض و حکم جابه‌جا می‌شوند.
+چرا یک مثلث نمی‌تواند دو زاویه‌ی قائمه داشته باشد؟|ضلع‌ها مساوی می‌شوند|مثلث متساوی‌الاضلاع می‌شود|مجموع ۳۶۰° می‌شود|زاویه‌ی سوم ۰° می‌شود|3|دو زاویه‌ی قائمه مجموعاً ۱۸۰° است و برای زاویه‌ی سوم ۰° می‌ماند که ممکن نیست.
+زاویه‌ی خارجی یک مثلث ۱۲۵° است و یکی از زاویه‌های داخلی غیرمجاور ۴۵° است. زاویه‌ی داخلی غیرمجاور دیگر چقدر است؟|۸۰°|۱۷۰°|۵۵°|۹۰°|0|زاویه‌ی خارجی با مجموع دو زاویه‌ی غیرمجاور برابر است، پس زاویه‌ی دیگر ۱۲۵° - ۴۵° = ۸۰° است.
+عکس کدام گزاره درست است؟|اگر دو زاویه متقابل به رأس باشند، مساوی‌اند|اگر عددی بر ۶ بخش‌پذیر باشد، بر ۳ بخش‌پذیر است|اگر دو خط موازی باشند، زاویه‌های متناظر مساوی‌اند|اگر شکلی مربع باشد، چهار ضلع دارد|2|عکس قضیه‌ی خطوط موازی هم درست است. عکس گزاره‌های دیگر می‌تواند نادرست باشد.
+مجموع ۱ + ۳ + ۵ + ۷ + ۹ که مجموع پنج عدد فرد اول است چقدر می‌شود؟|۱۵|۲۵|۲۰|۴۵|1|مجموع n عدد فرد اول برابر n^۲ است. برای n = ۵ برابر ۲۵ می‌شود.
+چرا SSA حالت معتبر همنهشتی نیست؟|به چهار ضلع نیاز دارد|فقط برای مثلث قائم‌الزاویه کار می‌کند|با AAA یکی است|همیشه مثلث‌های همنهشت نمی‌دهد|3|دو مثلث متفاوت می‌توانند دو ضلع و یک زاویه‌ی غیرمحصور یکسان داشته باشند.
+دو زاویه‌ی داخلی هم‌طرف بین خط‌های موازی با نسبت ۲ به ۳ هستند. زاویه‌ی بزرگ‌تر چقدر است؟|۱۰۸°|۷۲°|۱۲۰°|۹۰°|0|زاویه‌ها را ۲k و ۳k می‌گیریم. ۵k = ۱۸۰° پس k = ۳۶° و زاویه‌ی بزرگ‌تر ۱۰۸° است.
+دانش‌آموزی مجموع زاویه‌های پنج مثلث را اندازه می‌گیرد و هر بار ۱۸۰° می‌شود. او نتیجه می‌گیرد مجموع زاویه‌های هر مثلث ۱۸۰° است. این چه نوع استدلالی است؟|استدلال استنتاجی که اثبات است|برهان خلف|استدلال استقرایی که اثبات نیست|مثال نقض|2|او از چند مثال تعمیم می‌دهد، پس استدلال استقرایی است. برای همه‌ی مثلث‌ها به اثبات نیاز داریم.
+در △ABC داریم AB = AC و D وسط BC است. کدام حالت △ABD ≅ △ACD را ثابت می‌کند؟|SSS|SAS|ASA|AAA|0|AB = AC و BD = DC و AD ضلع مشترک است، پس حالت SSS برقرار است.
+دانش‌آموزی در اثبات می‌نویسد «در شکل مساوی به نظر می‌رسد». چرا این دلیل پذیرفته نیست؟|شکل‌ها همیشه درست‌اند|زاویه‌ی مساوی هیچ‌وقت در شکل دیده نمی‌شود|دلیل‌ها باید تعریف، اصل یا قضیه‌ی ثابت‌شده باشند|دلیل‌ها باید عدد باشند|2|شکل ممکن است دقیق نباشد و هر گام اثبات به دلیل معتبر نیاز دارد.

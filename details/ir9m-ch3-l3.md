@@ -1,64 +1,64 @@
-# Congruence of triangles
+# همنهشتی مثلث‌ها
 
-Two triangles are congruent when they have exactly the same shape and size, so one can be moved onto the other to match perfectly.
+دو مثلث وقتی همنهشت‌اند که شکل و اندازه‌ی دقیقاً یکسانی داشته باشند، یعنی بتوان یکی را روی دیگری گذاشت تا کاملاً بر هم منطبق شوند.
 
-## Key ideas
+## نکته‌های کلیدی
 
-**Definition.** △ABC ≅ △DEF means that the corresponding sides are equal (AB = DE, BC = EF, AC = DF) and the corresponding angles are equal (∠A = ∠D, ∠B = ∠E, ∠C = ∠F). The order of letters matters, because it shows which vertices match.
+**تعریف.** △ABC ≅ △DEF یعنی ضلع‌های متناظر مساوی‌اند (AB = DE و BC = EF و AC = DF) و زاویه‌های متناظر مساوی‌اند (∠A = ∠D و ∠B = ∠E و ∠C = ∠F). ترتیب حرف‌ها مهم است، چون نشان می‌دهد کدام رأس‌ها متناظرند.
 
-**Congruence conditions.** We do not need to check all six pairs. These conditions are enough:
-- SSS: three sides of one triangle equal three sides of the other.
-- SAS: two sides and the angle between them are equal.
-- ASA: two angles and the side between them are equal.
-- AAS: two angles and a side that is not between them are equal.
-- RHS (hypotenuse and a leg) for right triangles: the hypotenuse and one other side are equal.
+**حالت‌های همنهشتی.** لازم نیست هر شش جفت را بررسی کنیم. این حالت‌ها کافی‌اند:
+- ضلع‌ضلع‌ضلع (SSS): سه ضلع یک مثلث با سه ضلع مثلث دیگر مساوی باشد.
+- ضلع‌زاویه‌ضلع (SAS): دو ضلع و زاویه‌ی بین آن‌ها مساوی باشد.
+- زاویه‌ضلع‌زاویه (ASA): دو زاویه و ضلع بین آن‌ها مساوی باشد.
+- زاویه‌زاویه‌ضلع (AAS): دو زاویه و یک ضلع که بین آن‌ها نیست مساوی باشد.
+- وتر و یک ضلع (RHS) برای مثلث‌های قائم‌الزاویه: وتر و یک ضلع دیگر مساوی باشد.
 
-**Warning cases.** AAA (three equal angles) does not give congruence, because the triangles can have different sizes. SSA (two sides and an angle not between them) does not work in general.
+**حالت‌های هشدار.** حالت AAA (سه زاویه‌ی مساوی) همنهشتی نمی‌دهد، چون مثلث‌ها می‌توانند اندازه‌های متفاوت داشته باشند. حالت SSA (دو ضلع و زاویه‌ای که بین آن‌ها نیست) به‌طور کلی کار نمی‌کند.
 
-**Using congruence.** After showing two triangles are congruent, we can say their remaining corresponding parts are equal. This is often written "corresponding parts of congruent triangles are equal".
+**استفاده از همنهشتی.** وقتی نشان دادیم دو مثلث همنهشت‌اند، می‌توانیم بگوییم بقیه‌ی اجزای متناظرشان مساوی‌اند. معمولاً می‌نویسیم «اجزای متناظر مثلث‌های همنهشت مساوی‌اند».
 
-**Isosceles triangle theorem.** In a triangle with AB = AC, the base angles are equal: ∠B = ∠C.
+**قضیه‌ی مثلث متساوی‌الساقین.** در مثلثی که AB = AC باشد، زاویه‌های قاعده مساوی‌اند: ∠B = ∠C.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-**Example 1.** In quadrilateral ABCD, AB = CD and AD = BC. Prove that △ABD ≅ △CDB.
+**مثال ۱.** در چهارضلعی ABCD داریم AB = CD و AD = BC. ثابت کنید △ABD ≅ △CDB.
 
-Step 1: AB = CD (given).
-Step 2: AD = CB (given).
-Step 3: BD = DB (common side).
-Step 4: By SSS, △ABD ≅ △CDB.
+گام ۱: AB = CD (فرض).
+گام ۲: AD = CB (فرض).
+گام ۳: BD = DB (ضلع مشترک).
+گام ۴: طبق حالت SSS داریم △ABD ≅ △CDB.
 
-**Example 2.** Point M is the midpoint of segment AB and also of segment CD, where AB and CD cross at M. Prove that AC = BD.
+**مثال ۲.** نقطه‌ی M وسط پاره‌خط AB و همچنین وسط پاره‌خط CD است، به‌طوری که AB و CD در M یکدیگر را قطع می‌کنند. ثابت کنید AC = BD.
 
-Step 1: AM = MB, because M is the midpoint of AB.
-Step 2: CM = MD, because M is the midpoint of CD.
-Step 3: ∠AMC = ∠BMD, because they are vertical angles.
-Step 4: By SAS, △AMC ≅ △BMD.
-Step 5: Corresponding sides are equal, so AC = BD.
+گام ۱: AM = MB، چون M وسط AB است.
+گام ۲: CM = MD، چون M وسط CD است.
+گام ۳: ∠AMC = ∠BMD، چون متقابل به رأس‌اند.
+گام ۴: طبق حالت SAS داریم △AMC ≅ △BMD.
+گام ۵: ضلع‌های متناظر مساوی‌اند، پس AC = BD.
 
-**Example 3.** Prove the isosceles triangle theorem: if AB = AC in △ABC, then ∠B = ∠C.
+**مثال ۳.** قضیه‌ی مثلث متساوی‌الساقین را ثابت کنید: اگر در △ABC داشته باشیم AB = AC آن‌گاه ∠B = ∠C.
 
-Step 1: Draw the bisector of angle A. It meets BC at D. So ∠BAD = ∠CAD.
-Step 2: AB = AC (given).
-Step 3: AD = AD (common side).
-Step 4: By SAS, △ABD ≅ △ACD.
-Step 5: Corresponding angles are equal, so ∠B = ∠C.
+گام ۱: نیم‌ساز زاویه‌ی A را رسم می‌کنیم. این نیم‌ساز BC را در D قطع می‌کند. پس ∠BAD = ∠CAD.
+گام ۲: AB = AC (فرض).
+گام ۳: AD = AD (ضلع مشترک).
+گام ۴: طبق حالت SAS داریم △ABD ≅ △ACD.
+گام ۵: زاویه‌های متناظر مساوی‌اند، پس ∠B = ∠C.
 
-**Example 4.** Triangles PQR and XYZ have ∠P = 40°, ∠Q = 65°, PQ = 7 cm, and ∠X = 40°, ∠Z = 75°, XY = 7 cm. Are they congruent?
+**مثال ۴.** در مثلث‌های PQR و XYZ داریم ∠P = ۴۰° و ∠Q = ۶۵° و PQ = ۷ سانتی‌متر، و ∠X = ۴۰° و ∠Z = ۷۵° و XY = ۷ سانتی‌متر. آیا همنهشت‌اند؟
 
-Step 1: Find ∠Y. In △XYZ the angles add up to 180°, so ∠Y = 180° - 40° - 75° = 65°.
-Step 2: Now ∠P = ∠X = 40°, ∠Q = ∠Y = 65°, and the side between them PQ = XY = 7 cm.
-Step 3: By ASA, △PQR ≅ △XYZ.
+گام ۱: ∠Y را پیدا می‌کنیم. در △XYZ مجموع زاویه‌ها ۱۸۰° است، پس ∠Y = ۱۸۰° - ۴۰° - ۷۵° = ۶۵°.
+گام ۲: حالا ∠P = ∠X = ۴۰° و ∠Q = ∠Y = ۶۵° و ضلع بین آن‌ها PQ = XY = ۷ سانتی‌متر.
+گام ۳: طبق حالت ASA داریم △PQR ≅ △XYZ.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Writing the letters in the wrong order, such as △ABC ≅ △EFD when A matches D. The order must follow the matching vertices.
-- Using AAA or SSA as a reason. Neither is a valid congruence condition.
-- Using SAS when the equal angle is not between the two equal sides.
-- Using a pair of equal parts that is not proven. Common sides and vertical angles are valid reasons, but they must be stated.
+- نوشتن حرف‌ها به ترتیب نادرست، مثلاً △ABC ≅ △EFD وقتی A با D متناظر است. ترتیب باید از رأس‌های متناظر پیروی کند.
+- استفاده از AAA یا SSA به‌عنوان دلیل. هیچ‌کدام حالت معتبر همنهشتی نیستند.
+- استفاده از SAS وقتی زاویه‌ی مساوی بین دو ضلع مساوی نیست.
+- استفاده از یک جفت جزء مساوی که ثابت نشده است. ضلع مشترک و زاویه‌های متقابل به رأس دلیل معتبرند ولی باید ذکر شوند.
 
-## Remember
+## به یاد داشته باشید
 
-- The valid conditions are SSS, SAS, ASA, AAS, and RHS for right triangles.
-- After congruence is proven, all corresponding parts are equal.
-- Write the congruence statement with vertices in matching order.
+- حالت‌های معتبر SSS، SAS، ASA، AAS و برای مثلث قائم‌الزاویه RHS هستند.
+- وقتی همنهشتی ثابت شد، همه‌ی اجزای متناظر مساوی‌اند.
+- عبارت همنهشتی را با رأس‌های متناظر به همان ترتیب بنویسید.

@@ -1,67 +1,67 @@
-# Theorems and proofs
+# قضیه و اثبات
 
-A theorem is a statement that has been shown to be true by a logical proof, and a proof is a chain of reasons that leads from what is given to what must be shown.
+قضیه گزاره‌ای است که با یک اثبات منطقی درستی‌اش نشان داده شده است، و اثبات زنجیره‌ای از دلیل‌هاست که از داده‌ها به حکم می‌رسد.
 
-## Key ideas
+## نکته‌های کلیدی
 
-**Parts of a theorem.** Most theorems are written as "If hypothesis, then conclusion". Before proving, write down the Given (the hypothesis) and the To prove (the conclusion). Draw a figure and label it with the given information.
+**بخش‌های یک قضیه.** بیشتر قضیه‌ها به شکل «اگر فرض آن‌گاه حکم» نوشته می‌شوند. پیش از اثبات، «فرض» (داده‌ها) و «حکم» (آنچه باید ثابت شود) را می‌نویسیم. شکل را رسم می‌کنیم و اطلاعات داده‌شده را روی آن نام‌گذاری می‌کنیم.
 
-**What we may use as reasons.** We may use definitions, axioms (basic facts accepted without proof), and theorems that were proven earlier. Useful facts:
-- Angles on a straight line add up to 180°.
-- Angles around a point add up to 360°.
-- The angles of a triangle add up to 180°.
-- Vertical angles are equal.
+**آنچه می‌توانیم به‌عنوان دلیل به‌کار ببریم.** می‌توانیم از تعریف‌ها، اصل‌ها (واقعیت‌های پایه که بدون اثبات پذیرفته می‌شوند) و قضیه‌هایی که قبلاً ثابت شده‌اند استفاده کنیم. واقعیت‌های مفید:
+- زاویه‌های روی یک خط راست مجموعاً ۱۸۰ درجه‌اند.
+- زاویه‌های دور یک نقطه مجموعاً ۳۶۰ درجه‌اند.
+- زاویه‌های داخلی مثلث مجموعاً ۱۸۰ درجه‌اند.
+- زاویه‌های متقابل به رأس مساوی‌اند.
 
-**Direct proof.** Start from the given, make a sequence of correct steps, and arrive at the conclusion. Each step needs a reason.
+**اثبات مستقیم.** از فرض شروع می‌کنیم، چند گام درست برمی‌داریم و به حکم می‌رسیم. هر گام به یک دلیل نیاز دارد.
 
-**Indirect proof (proof by contradiction).** Assume that the conclusion is false. Then show that this assumption leads to a contradiction with the given or with a known fact. So the assumption is wrong, and the conclusion is true.
+**اثبات غیرمستقیم (برهان خلف).** فرض می‌کنیم حکم نادرست است. سپس نشان می‌دهیم این فرض به تناقض با داده‌ها یا با یک واقعیت شناخته‌شده می‌رسد. پس فرض ما غلط بوده و حکم درست است.
 
-**Writing a proof.** A common form is two columns: statements on the left, reasons on the right. Short paragraph proofs are also fine.
+**نوشتن اثبات.** یک شکل رایج دو ستونی است: گزاره‌ها در سمت چپ و دلیل‌ها در سمت راست. اثبات‌های کوتاه به صورت پاراگراف هم مناسب‌اند.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-**Example 1.** Prove: vertical angles are equal.
+**مثال ۱.** ثابت کنید: زاویه‌های متقابل به رأس مساوی‌اند.
 
-Given: lines AB and CD cross at point O. Let ∠AOC and ∠BOD be vertical angles.
-To prove: ∠AOC = ∠BOD.
+فرض: خط‌های AB و CD در نقطه‌ی O یکدیگر را قطع می‌کنند. زاویه‌های AOC و BOD متقابل به رأس‌اند.
+حکم: ∠AOC = ∠BOD.
 
-Step 1: ∠AOC + ∠COB = 180°, because AB is a straight line.
-Step 2: ∠BOD + ∠COB = 180°, because CD is a straight line.
-Step 3: So ∠AOC + ∠COB = ∠BOD + ∠COB, because both equal 180°.
-Step 4: Subtract ∠COB from both sides: ∠AOC = ∠BOD. Done.
+گام ۱: ∠AOC + ∠COB = ۱۸۰°، چون AB خط راست است.
+گام ۲: ∠BOD + ∠COB = ۱۸۰°، چون CD خط راست است.
+گام ۳: پس ∠AOC + ∠COB = ∠BOD + ∠COB، چون هر دو برابر ۱۸۰° هستند.
+گام ۴: ∠COB را از دو طرف کم می‌کنیم: ∠AOC = ∠BOD. اثبات تمام شد.
 
-**Example 2.** Prove: an exterior angle of a triangle equals the sum of the two remote interior angles.
+**مثال ۲.** ثابت کنید: زاویه‌ی خارجی مثلث با مجموع دو زاویه‌ی داخلی غیرمجاور برابر است.
 
-Given: △ABC, and side BC is extended to point D. The exterior angle is ∠ACD.
-To prove: ∠ACD = ∠A + ∠B.
+فرض: مثلث ABC و ضلع BC تا نقطه‌ی D امتداد داده شده است. زاویه‌ی خارجی ∠ACD است.
+حکم: ∠ACD = ∠A + ∠B.
 
-Step 1: ∠A + ∠B + ∠ACB = 180°, because the angles of a triangle add up to 180°.
-Step 2: ∠ACD + ∠ACB = 180°, because B, C, D lie on a straight line.
-Step 3: So ∠ACD + ∠ACB = ∠A + ∠B + ∠ACB.
-Step 4: Subtract ∠ACB from both sides: ∠ACD = ∠A + ∠B. Done.
+گام ۱: ∠A + ∠B + ∠ACB = ۱۸۰°، چون زاویه‌های داخلی مثلث مجموعاً ۱۸۰ درجه‌اند.
+گام ۲: ∠ACD + ∠ACB = ۱۸۰°، چون نقطه‌های B و C و D روی یک خط راست‌اند.
+گام ۳: پس ∠ACD + ∠ACB = ∠A + ∠B + ∠ACB.
+گام ۴: ∠ACB را از دو طرف کم می‌کنیم: ∠ACD = ∠A + ∠B. اثبات تمام شد.
 
-Numerical check: if ∠A = 50° and ∠B = 60°, then ∠ACB = 70° and ∠ACD = 110° = 50° + 60°.
+بررسی عددی: اگر ∠A = ۵۰° و ∠B = ۶۰° باشد، آن‌گاه ∠ACB = ۷۰° و ∠ACD = ۱۱۰° = ۵۰° + ۶۰°.
 
-**Example 3.** Prove by contradiction: a triangle cannot have two right angles.
+**مثال ۳.** با برهان خلف ثابت کنید: یک مثلث نمی‌تواند دو زاویه‌ی قائمه داشته باشد.
 
-Given: a triangle ABC.
-To prove: it does not have two right angles.
+فرض: مثلث ABC.
+حکم: مثلث دو زاویه‌ی قائمه ندارد.
 
-Step 1: Assume the opposite: ∠A = 90° and ∠B = 90°.
-Step 2: Then ∠A + ∠B = 180°.
-Step 3: The angle sum of a triangle is 180°, so ∠C = 180° - 180° = 0°.
-Step 4: An angle of a triangle cannot be 0°. This is a contradiction.
-Step 5: So the assumption is false, and a triangle cannot have two right angles.
+گام ۱: خلاف حکم را فرض می‌کنیم: ∠A = ۹۰° و ∠B = ۹۰°.
+گام ۲: آن‌گاه ∠A + ∠B = ۱۸۰°.
+گام ۳: مجموع زاویه‌های مثلث ۱۸۰° است، پس ∠C = ۱۸۰° - ۱۸۰° = ۰°.
+گام ۴: زاویه‌ی یک مثلث نمی‌تواند ۰° باشد. این یک تناقض است.
+گام ۵: پس فرض ما نادرست بوده و مثلث نمی‌تواند دو زاویه‌ی قائمه داشته باشد.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Starting the proof by assuming the conclusion. In a direct proof you may only start from the given and known facts.
-- Writing a step without a reason, or using "it looks equal in the figure" as a reason.
-- Mixing up the hypothesis and the conclusion, so that the proof proves the converse instead.
-- In an indirect proof, assuming the wrong opposite. The opposite of "equal" is "not equal", and the opposite of "two right angles" is "not two right angles" (in the proof above we assumed two and found a contradiction, which is allowed because the claim was a negative statement).
+- شروع اثبات با فرض‌کردن حکم. در اثبات مستقیم فقط می‌توانید از فرض و واقعیت‌های شناخته‌شده شروع کنید.
+- نوشتن یک گام بدون دلیل، یا استفاده از «در شکل مساوی به نظر می‌رسد» به‌عنوان دلیل.
+- جابه‌جا گرفتن فرض و حکم، به‌طوری که اثبات به‌جای گزاره‌ی اصلی، عکس آن را ثابت کند.
+- در برهان خلف، فرض‌کردن خلاف نادرست. خلاف «مساوی» می‌شود «مساوی نیست» و خلاف «دو زاویه‌ی قائمه دارد» می‌شود «دو زاویه‌ی قائمه ندارد».
 
-## Remember
+## به یاد داشته باشید
 
-- Always write Given and To prove, and draw a labeled figure first.
-- Every step in a proof needs a reason: a definition, an axiom, or a known theorem.
-- In a proof by contradiction, assume the conclusion is false and look for a contradiction.
+- همیشه فرض و حکم را بنویسید و اول یک شکل نام‌گذاری‌شده رسم کنید.
+- هر گام اثبات به یک دلیل نیاز دارد: تعریف، اصل یا قضیه‌ی شناخته‌شده.
+- در برهان خلف، خلاف حکم را فرض کنید و دنبال تناقض بگردید.

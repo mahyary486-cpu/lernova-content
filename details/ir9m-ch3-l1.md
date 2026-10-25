@@ -1,56 +1,56 @@
-# Reasoning
+# استدلال
 
-Reasoning is the process of using facts and observations to reach a conclusion, and in geometry we use it to decide which statements we can trust.
+استدلال یعنی استفاده از واقعیت‌ها و مشاهده‌ها برای رسیدن به یک نتیجه، و در هندسه با آن تصمیم می‌گیریم کدام گزاره‌ها قابل اعتمادند.
 
-## Key ideas
+## نکته‌های کلیدی
 
-**Inductive reasoning** means looking at several examples, noticing a pattern, and then stating a general rule. The rule is called a conjecture. A conjecture is only a good guess. Many examples can support it, but they never prove it for all cases.
+**استدلال استقرایی** یعنی چند مثال را ببینیم، الگویی در آن‌ها پیدا کنیم و سپس یک قاعده‌ی کلی بگوییم. این قاعده را حدس می‌نامیم. حدس فقط یک گمان خوب است. مثال‌های زیاد می‌توانند از آن پشتیبانی کنند ولی هرگز آن را برای همه‌ی حالت‌ها ثابت نمی‌کنند.
 
-**Deductive reasoning** means starting from statements that are already known to be true (definitions, axioms, and proven theorems) and using logic to reach a new statement. If the starting facts are true and the logic is correct, the conclusion must be true.
+**استدلال استنتاجی** یعنی از گزاره‌هایی شروع کنیم که از قبل درستی‌شان معلوم است (تعریف‌ها، اصل‌ها و قضیه‌های ثابت‌شده) و با منطق به گزاره‌ی تازه‌ای برسیم. اگر نقطه‌ی شروع درست باشد و منطق هم درست باشد، نتیجه حتماً درست است.
 
-**Counterexample.** To show that a general statement is false, we need only one example where it fails. This example is called a counterexample.
+**مثال نقض.** برای نشان‌دادن نادرستی یک گزاره‌ی کلی فقط یک مثال کافی است که در آن گزاره برقرار نباشد. این مثال را مثال نقض می‌نامیم.
 
-**If-then statements.** Many geometry statements have the form "If p, then q". Here p is the hypothesis (what we are given) and q is the conclusion (what we claim). The converse swaps them: "If q, then p". A statement and its converse can have different truth values.
+**گزاره‌های «اگر ... آن‌گاه».** بسیاری از گزاره‌های هندسه به شکل «اگر p آن‌گاه q» هستند. p را فرض (آنچه داده شده) و q را حکم (آنچه ادعا می‌کنیم) می‌نامیم. عکس گزاره جای آن‌ها را عوض می‌کند: «اگر q آن‌گاه p». یک گزاره و عکس آن ممکن است درستی متفاوتی داشته باشند.
 
-**Chain of logic.** If "p implies q" and "q implies r" are both true, then "p implies r" is true.
+**زنجیره‌ی منطقی.** اگر «p نتیجه می‌دهد q» و «q نتیجه می‌دهد r» هر دو درست باشند، آن‌گاه «p نتیجه می‌دهد r» درست است.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-**Example 1.** Look at the sums 1, 1+3, 1+3+5, 1+3+5+7. Find a conjecture.
+**مثال ۱.** مجموع‌های ۱، ۱+۳، ۱+۳+۵ و ۱+۳+۵+۷ را در نظر بگیرید. یک حدس بیابید.
 
-Step 1: Compute the sums: 1, 4, 9, 16.
-Step 2: These are 1^2, 2^2, 3^2, 4^2.
-Step 3: The sum of the first n odd numbers is n^2. This is a conjecture based on four examples. It is true, but these examples alone do not prove it.
+گام ۱: مجموع‌ها را حساب می‌کنیم: ۱، ۴، ۹، ۱۶.
+گام ۲: این‌ها ۱^۲، ۲^۲، ۳^۲ و ۴^۲ هستند.
+گام ۳: مجموع n عدد فرد اول برابر n^۲ است. این حدسی بر پایه‌ی چهار مثال است. درست است ولی با همین مثال‌ها ثابت نمی‌شود.
 
-**Example 2.** Is the statement "If a number is divisible by 3, then it is divisible by 6" true? Check it with a counterexample if needed.
+**مثال ۲.** آیا گزاره‌ی «اگر عددی بر ۳ بخش‌پذیر باشد، آن‌گاه بر ۶ بخش‌پذیر است» درست است؟ در صورت لزوم با مثال نقض بررسی کنید.
 
-Step 1: Try 6. It is divisible by 3 and by 6, so this example agrees with the statement.
-Step 2: Try 9. 9 / 3 = 3, so 9 is divisible by 3. But 9 / 6 = 1.5, so 9 is not divisible by 6.
-Step 3: The number 9 is a counterexample. The statement is false.
+گام ۱: عدد ۶ را امتحان می‌کنیم. بر ۳ و بر ۶ بخش‌پذیر است، پس این مثال با گزاره هم‌خوان است.
+گام ۲: عدد ۹ را امتحان می‌کنیم. ۹ ÷ ۳ = ۳ پس ۹ بر ۳ بخش‌پذیر است. ولی ۹ ÷ ۶ = ۱٫۵ پس ۹ بر ۶ بخش‌پذیر نیست.
+گام ۳: عدد ۹ مثال نقض است. گزاره نادرست است.
 
-**Example 3.** Write the converse of "If two angles are vertical angles, then they are equal." Decide whether each statement is true.
+**مثال ۳.** عکس گزاره‌ی «اگر دو زاویه متقابل به رأس باشند، آن‌گاه مساوی‌اند» را بنویسید و درستی هر دو گزاره را بررسی کنید.
 
-Step 1: Hypothesis: two angles are vertical angles. Conclusion: they are equal.
-Step 2: Converse: "If two angles are equal, then they are vertical angles."
-Step 3: The original statement is true, because vertical angles are always equal.
-Step 4: Test the converse. Two angles of 50° in different places, for example two base angles of an isosceles triangle, are equal. They are not vertical angles. So the converse is false.
-Step 5: A true statement can have a false converse.
+گام ۱: فرض: دو زاویه متقابل به رأس‌اند. حکم: مساوی‌اند.
+گام ۲: عکس: «اگر دو زاویه مساوی باشند، آن‌گاه متقابل به رأس‌اند.»
+گام ۳: گزاره‌ی اصلی درست است، چون زاویه‌های متقابل به رأس همیشه مساوی‌اند.
+گام ۴: عکس را آزمایش می‌کنیم. دو زاویه‌ی ۵۰ درجه در جاهای مختلف، مثلاً دو زاویه‌ی قاعده‌ی یک مثلث متساوی‌الساقین، مساوی‌اند ولی متقابل به رأس نیستند. پس عکس نادرست است.
+گام ۵: یک گزاره‌ی درست می‌تواند عکس نادرست داشته باشد.
 
-**Example 4.** Use deductive reasoning. Given: all squares are rectangles, and ABCD is a square. What can we conclude?
+**مثال ۴.** از استدلال استنتاجی استفاده کنید. داده: همه‌ی مربع‌ها مستطیل‌اند و ABCD یک مربع است. چه نتیجه‌ای می‌گیریم؟
 
-Step 1: Every square is a rectangle (given fact).
-Step 2: ABCD is a square (given fact).
-Step 3: Therefore ABCD is a rectangle. This follows by logic and needs no measuring.
+گام ۱: هر مربع یک مستطیل است (واقعیت داده‌شده).
+گام ۲: ABCD یک مربع است (واقعیت داده‌شده).
+گام ۳: پس ABCD یک مستطیل است. این نتیجه با منطق به دست می‌آید و به اندازه‌گیری نیاز ندارد.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Thinking that a pattern seen in a few examples is proven. Patterns can break later, so a conjecture needs a proof.
-- Using many examples to "show" a statement is false. One counterexample is enough, but you must check that it really satisfies the hypothesis and fails the conclusion.
-- Believing that if a statement is true, its converse is also true. Always test the converse separately.
-- Drawing a figure and measuring it, then using the measurement as a reason. A drawing can be inaccurate, so reasons must come from facts and logic.
+- فکر کردن به اینکه الگویی که در چند مثال دیده‌ایم ثابت شده است. الگوها ممکن است بعداً شکسته شوند، پس حدس به اثبات نیاز دارد.
+- استفاده از مثال‌های زیاد برای «نشان‌دادن» نادرستی یک گزاره. یک مثال نقض کافی است، ولی باید بررسی کنید که واقعاً فرض را برقرار و حکم را نقض می‌کند.
+- باور به اینکه اگر گزاره‌ای درست باشد، عکسش هم درست است. عکس را همیشه جداگانه آزمایش کنید.
+- رسم شکل و اندازه‌گیری آن و استفاده از اندازه به‌عنوان دلیل. شکل ممکن است دقیق نباشد، پس دلیل‌ها باید از واقعیت‌ها و منطق بیایند.
 
-## Remember
+## به یاد داشته باشید
 
-- Inductive reasoning gives a conjecture from examples. Deductive reasoning gives a certain conclusion from true facts.
-- One counterexample disproves a statement.
-- The converse of "If p, then q" is "If q, then p", and it may be false.
+- استدلال استقرایی از مثال‌ها حدس می‌سازد. استدلال استنتاجی از واقعیت‌های درست نتیجه‌ی قطعی می‌دهد.
+- یک مثال نقض یک گزاره را رد می‌کند.
+- عکس «اگر p آن‌گاه q» برابر «اگر q آن‌گاه p» است و ممکن است نادرست باشد.
