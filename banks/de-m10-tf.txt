@@ -11,7 +11,7 @@ Wie groß ist cos π?|−1|1|−π|0|0|Bei π liegt der Punkt (−1, 0) auf dem 
 Welche Periode hat die Sinusfunktion f(x) = sin x?|2π|4π|π/2|π|0|Nach 2π wiederholen sich die Funktionswerte.
 Welchen Wertebereich hat f(x) = sin x?|alle reellen Zahlen|0 ≤ y ≤ 1|−1 ≤ y ≤ 1|−π ≤ y ≤ π|2|Die y-Koordinate auf dem Einheitskreis liegt zwischen −1 und 1.
 Welche Koordinaten hat der Punkt auf dem Einheitskreis zum Winkel α?|(sin α, cos α)|(tan α, 1)|(α, α)|(cos α, sin α)|3|Die x-Koordinate ist cos α und die y-Koordinate ist sin α.
-Wie groß ist sin 30°?|√3/2|1|√2/2|1/2|3|sin 30° = sin(π/6) = 1/2.
+Wie groß ist cos 45°?|1/2|1|√3/2 ≈ 0,87|√2/2 ≈ 0,71|3|cos 45° = cos(π/4) = √2/2.
 Welche Zahl ist eine Nullstelle von f(x) = sin x?|3π/2|π/4|π|π/2|2|sin π = 0, während sin(π/2) = 1 und sin(3π/2) = −1.
 Wo schneidet der Graph von f(x) = cos x die y-Achse?|bei y = −1|bei y = π|bei y = 0|bei y = 1|3|cos 0 = 1.
 Welche Symmetrie hat der Graph von f(x) = sin x?|Achsensymmetrie zur x-Achse|Symmetrie zur Geraden y = x|Achsensymmetrie zur y-Achse|Punktsymmetrie zum Ursprung|3|Es gilt sin(−x) = −sin x.

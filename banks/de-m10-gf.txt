@@ -11,7 +11,7 @@ Wie groß ist der y-Achsenabschnitt von f(x) = x³ − 2x + 5?|0|−2|3|5|3|f(0)
 Welche Symmetrie hat der Graph von f(x) = x²?|Achsensymmetrie zur y-Achse|Achsensymmetrie zur x-Achse|Punktsymmetrie zum Ursprung|keine Symmetrie|0|Es gilt f(−x) = f(x).
 Welche Symmetrie hat der Graph von f(x) = x³?|keine Symmetrie|Achsensymmetrie zur y-Achse|Achsensymmetrie zur x-Achse|Punktsymmetrie zum Ursprung|3|Es gilt f(−x) = −f(x).
 Wie lautet die Nullstelle von f(x) = x − 4?|x = 1/4|x = 0|x = 4|x = −4|2|x − 4 = 0 ergibt x = 4.
-Welche Nullstellen hat f(x) = x² − 9?|0 und 3|3 und −3|nur 3|9 und −9|1|x² = 9 ergibt x = 3 oder x = −3.
+Welche Nullstellen hat f(x) = x² − 16?|0 und 4|4 und −4|nur 4|16 und −16|1|x² = 16 ergibt x = 4 oder x = −4.
 Welche Nullstellen hat f(x) = x · (x − 2)?|nur 2|0 und 2|1 und 2|0 und −2|1|Ein Produkt ist 0, wenn ein Faktor 0 ist.
 Was gibt der Grad einer ganzrationalen Funktion an?|die Anzahl der Summanden|die genaue Anzahl der Nullstellen|den größten Koeffizienten|die höchste vorkommende Potenz von x|3|Der Grad ist der größte Exponent mit von 0 verschiedenem Koeffizienten.
 Was bedeutet f(−x) = f(x) für alle x?|Der Graph hat bei 0 eine Nullstelle.|Der Graph ist achsensymmetrisch zur y-Achse.|Der Graph ist punktsymmetrisch zum Ursprung.|Der Graph ist periodisch.|1|Das ist die Bedingung für Achsensymmetrie zur y-Achse.
@@ -19,7 +19,7 @@ Wie groß ist f(2) für f(x) = x² − 3x + 1?|1|3|−1|−3|2|f(2) = 4 − 6 + 
 Welche Nullstellen hat f(x) = x³ − 4x?|nur −2 und 2|−4, 0 und 4|−2, 0 und 2|0 und 4|2|x · (x² − 4) = x · (x − 2) · (x + 2).
 Welche Nullstellen hat f(x) = x² − 5x + 6?|2 und 3|−1 und −6|−2 und −3|1 und 6|0|x² − 5x + 6 = (x − 2) · (x − 3).
 Welche Nullstellen hat f(x) = x² + 2x − 8?|−4 und 2|4 und −2|−8 und 1|2 und 4|0|x² + 2x − 8 = (x + 4) · (x − 2).
-Was besagt der Satz vom Nullprodukt?|Ein Produkt ist 0, wenn die Summe der Faktoren 0 ist.|Ein Produkt ist 0, wenn alle Faktoren gleich sind.|Ein Produkt ist 0, wenn mindestens ein Faktor 0 ist.|Ein Produkt ist 0, wenn alle Faktoren 0 sind.|2|Das nutzt man beim Lösen faktorisierter Gleichungen.
+Welche Lösungen hat (x − 2)(x + 5) = 0?|2 und 5|10 und −10|2 und −5|−2 und 5|2|Nach dem Satz vom Nullprodukt gilt x − 2 = 0 oder x + 5 = 0.
 Welche Nullstellen hat f(x) = (x − 1)(x + 2)(x − 3)?|1, 2 und 3|1, −2 und −3|−1, 2 und −3|1, −2 und 3|3|Jeder Linearfaktor liefert eine Nullstelle: x − a = 0 ergibt x = a.
 Welche Nullstellen hat f(x) = x³ − x²?|nur 1|0 und −1|0 und 1|−1 und 1|2|x² · (x − 1) = 0 ergibt x = 0 (doppelt) oder x = 1.
 Wie verhält sich f(x) = x³ − 5x für x → −∞?|f(x) → 0|f(x) → +∞|f(x) → 5|f(x) → −∞|3|Das Glied mit der höchsten Potenz bestimmt das Verhalten: x³ → −∞.
