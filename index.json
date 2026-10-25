@@ -1841,6 +1841,50 @@
               "title": "Kunststoffe und Polymerisation"
             }
           ]
+        },
+        {
+          "id": "de-b10-ok",
+          "title": "Ökologie",
+          "lessons": [
+            {
+              "id": "de-b10-ok-01",
+              "title": "Ökosystem und Umweltfaktoren"
+            },
+            {
+              "id": "de-b10-ok-02",
+              "title": "Nahrungsbeziehungen und Stoffkreisläufe"
+            },
+            {
+              "id": "de-b10-ok-03",
+              "title": "Populationen und Wechselbeziehungen"
+            },
+            {
+              "id": "de-b10-ok-04",
+              "title": "Mensch und Umwelt"
+            }
+          ]
+        },
+        {
+          "id": "de-b10-ev",
+          "title": "Evolution",
+          "lessons": [
+            {
+              "id": "de-b10-ev-01",
+              "title": "Belege für die Evolution"
+            },
+            {
+              "id": "de-b10-ev-02",
+              "title": "Evolutionstheorien und Selektion"
+            },
+            {
+              "id": "de-b10-ev-03",
+              "title": "Artbildung und Populationsgenetik"
+            },
+            {
+              "id": "de-b10-ev-04",
+              "title": "Evolution des Menschen"
+            }
+          ]
         }
       ]
     }
