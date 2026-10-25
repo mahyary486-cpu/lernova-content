@@ -1614,6 +1614,50 @@
               "title": "Kernspaltung, Kernenergie und Strahlenschutz"
             }
           ]
+        },
+        {
+          "id": "de-b9-ze",
+          "title": "Zelle und Stoffwechsel",
+          "lessons": [
+            {
+              "id": "de-b9-ze-01",
+              "title": "Aufbau von Zellen"
+            },
+            {
+              "id": "de-b9-ze-02",
+              "title": "Stofftransport: Diffusion und Osmose"
+            },
+            {
+              "id": "de-b9-ze-03",
+              "title": "Fotosynthese"
+            },
+            {
+              "id": "de-b9-ze-04",
+              "title": "Zellatmung und Gärung"
+            }
+          ]
+        },
+        {
+          "id": "de-b9-ge",
+          "title": "Genetik und Vererbung",
+          "lessons": [
+            {
+              "id": "de-b9-ge-01",
+              "title": "DNA, Gene und Chromosomen"
+            },
+            {
+              "id": "de-b9-ge-02",
+              "title": "Mitose und Meiose"
+            },
+            {
+              "id": "de-b9-ge-03",
+              "title": "Mendelsche Regeln"
+            },
+            {
+              "id": "de-b9-ge-04",
+              "title": "Mutationen und Gentechnik"
+            }
+          ]
         }
       ]
     },

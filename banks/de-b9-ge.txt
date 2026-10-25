@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Aufgabe hat die DNA?|Sie führt die Fotosynthese durch.|Sie transportiert Sauerstoff.|Sie verdaut Nährstoffe.|Sie ist der Träger der Erbinformation.|3|Die DNA speichert die Bauanleitung für Proteine.
+Welche räumliche Form hat die DNA?|Würfel|Kugel|Doppelhelix|einfacher Strang ohne Windung|2|Zwei Stränge sind schraubenförmig umeinander gewunden.
+Welche vier Basen kommen in der DNA vor?|Adenin, Thymin, Guanin und Cytosin|Adenin, Thymin, Glucose und Cytosin|Alanin, Thymin, Glycin und Cystein|Adenin, Uracil, Guanin und Cytosin|0|Uracil kommt dagegen in der RNA vor.
+Welche Basen paaren sich in der DNA?|Adenin mit Guanin und Thymin mit Cytosin|Adenin mit Thymin und Guanin mit Cytosin|Adenin mit Adenin|Adenin mit Cytosin und Guanin mit Thymin|1|Die Paarung ist komplementär.
+Was sind Chromosomen?|Organellen für die Atmung|stark verpackte DNA im Zellkern, die Gene trägt|Zellwände|Proteine im Zytoplasma|1|Chromosomen werden bei der Zellteilung sichtbar.
+Wie viele Chromosomen hat eine menschliche Körperzelle?|46|44|23|92|0|Der Mensch hat 23 Chromosomenpaare.
+Was ist ein Gen?|ein Eiweiß|ein ganzes Chromosom|eine Zelle|ein DNA-Abschnitt mit der Information für ein Merkmal oder Protein|3|Gene liegen auf den Chromosomen.
+Was entsteht bei der Mitose?|zwei genetisch identische Tochterzellen|vier genetisch verschiedene Zellen|Keimzellen|Zellen mit halbem Chromosomensatz|0|Die Mitose dient Wachstum und Erneuerung.
+Was entsteht bei der Meiose?|Zellen mit doppeltem Chromosomensatz|Keimzellen mit halbem Chromosomensatz|Zellen ohne Zellkern|zwei identische Körperzellen|1|Die Meiose ist die Reifeteilung.
+Wie viele Chromosomen hat eine menschliche Keimzelle?|92|46|23|12|2|Der Chromosomensatz ist halbiert.
+Was geschieht bei der Befruchtung?|Eine Keimzelle verdoppelt ihre Chromosomen.|Eizelle und Spermium verschmelzen zur Zygote.|Zwei Körperzellen teilen sich.|Das Erbgut wird gelöscht.|1|Die Zygote hat wieder 46 Chromosomen.
+Was bedeutet dominant?|Das Allel ist immer häufiger.|Das Allel wirkt nur in Eizellen.|Das Allel wird nie sichtbar.|Das Allel setzt sich im Phänotyp durch.|3|Ein dominantes Allel überdeckt das rezessive.
+Wann zeigt sich ein rezessives Merkmal?|Wenn beide Allele rezessiv sind.|Wenn ein Allel rezessiv ist.|Nie.|Nur bei Männern.|0|Beispiel: aa.
+Was ist der Phänotyp?|die Chromosomenzahl|die Gesamtheit aller Allele|der Zellkern|die sichtbare Ausprägung eines Merkmals|3|Beispiel: Blütenfarbe rot.
+Was ist der Genotyp?|die Form des Zellkerns|die Zahl der Zellen|die sichtbare Ausprägung|die Allelkombination eines Lebewesens|3|Beispiel: Aa.
+Mit welcher Pflanze experimentierte Gregor Mendel?|mit dem Weizen|mit dem Mais|mit der Rose|mit der Erbse|3|Er untersuchte Merkmale wie Blütenfarbe und Samenform.
+Was bedeutet homozygot (reinerbig)?|Es gibt nur dominante Allele.|Es gibt kein Allel.|Beide Allele sind verschieden.|Beide Allele sind gleich.|3|Beispiele: AA oder aa.
+Was ergibt die Kreuzung AA × aa (1. Mendelsche Regel)?|Die Nachkommen treten im Verhältnis 3 : 1 auf.|Alle Nachkommen sind gleich (Aa).|Die Nachkommen treten im Verhältnis 1 : 2 : 1 auf.|Alle Nachkommen sind aa.|1|Das ist die Uniformitätsregel.
+Welches Genotypverhältnis ergibt die Kreuzung Aa × Aa?|1 : 2 : 1|1 : 1|1 : 3|3 : 1|0|AA, Aa, Aa und aa, also 1 AA : 2 Aa : 1 aa.
+Welches Phänotypverhältnis ergibt Aa × Aa bei vollständiger Dominanz?|2 : 1|3 : 1|1 : 1|1 : 2 : 1|1|Dreimal dominantes, einmal rezessives Merkmal.
+Welches Verhältnis ergibt die Kreuzung Aa × aa?|1 : 2 : 1|alle Aa|1 : 1|3 : 1|2|Die Hälfte Aa, die Hälfte aa.
+Wie groß ist der Anteil der Nachkommen mit rezessivem Merkmal bei Aa × Aa?|25 %|75 %|50 %|0 %|0|Nur aa zeigt das rezessive Merkmal, das ist 1 von 4.
+Was ergibt die Kreuzung einer rot blühenden mit einer weiß blühenden Wunderblume (unvollständige Dominanz)?|Alle blühen rot.|Alle Nachkommen blühen rosa.|Alle blühen gescheckt.|Alle blühen weiß.|1|Beide Allele wirken gemeinsam, es entsteht eine Mischform.
+Was besagt die 3. Mendelsche Regel (Unabhängigkeitsregel)?|Die Nachkommen sind immer gleich.|Rezessive Merkmale verschwinden.|Alle Merkmale werden immer gemeinsam vererbt.|Merkmale auf verschiedenen Chromosomen werden unabhängig voneinander vererbt.|3|Dabei entstehen neue Merkmalskombinationen.
+Welches Phänotypverhältnis ergibt die Kreuzung AaBb × AaBb (zwei unabhängige Merkmale, vollständige Dominanz)?|3 : 1|9 : 3 : 3 : 1|1 : 1 : 1 : 1|1 : 2 : 1|1|Das ist das klassische Dihybridverhältnis.
+Welche Geschlechtschromosomen hat ein Mann?|XXY|XY|YY|XX|1|Frauen haben XX.
+Wie groß ist die Wahrscheinlichkeit für ein männliches Kind?|25 %|100 %|50 %|75 %|2|Spermien tragen je zur Hälfte X und Y.
+Was ist eine Mutation?|eine Vererbung ohne Veränderung|eine zufällige Veränderung des Erbguts|eine Zellteilung|die Gesamtheit aller Gene|1|Mutationen sind die Quelle neuer Allele.
+Welche Faktoren können Mutationen auslösen?|Wasser und Zucker|die Schwerkraft|energiereiche Strahlung und bestimmte Chemikalien|Schall|2|Solche Faktoren heißen Mutagene.
+Wie nennt man eine Veränderung der Chromosomenzahl, z. B. Trisomie 21?|Genmutation|Genkopplung|Genommutation|Modifikation|2|Das Chromosom 21 liegt dreifach vor.
+Wie viele Chromosomen hat eine Körperzelle bei Trisomie 21?|45|46|47|48|2|46 + 1 zusätzliches Chromosom 21.
+Was ist eine Modifikation?|eine Zellteilung|eine vererbbare Veränderung der DNA|eine umweltbedingte, nicht vererbbare Veränderung des Phänotyps|eine neue Kombination der Allele|2|Beispiel: Sonnenbräune.
+Welche Blutgruppe hat ein Mensch mit dem Genotyp AB?|Blutgruppe AB|Blutgruppe 0|Blutgruppe A|Blutgruppe B|0|A und B sind kodominant.
+Welche Blutgruppe hat ein Mensch mit dem Genotyp A0?|Blutgruppe AB|Blutgruppe 0|Blutgruppe B|Blutgruppe A|3|Das Allel 0 ist rezessiv.
+Was sind Klone?|Mutanten|Hybride|Geschwister|genetisch identische Lebewesen|3|Klone entstehen ungeschlechtlich oder durch künstliche Verfahren.
+Wie wird gentechnisch Humaninsulin hergestellt?|Es entsteht durch Bestrahlung von Zucker.|Es wird nur aus Schweinen gewonnen.|Das Insulin-Gen wird in Bakterien eingebracht, die das Hormon bilden.|Es entsteht durch Mitose menschlicher Zellen.|2|Die Bakterien vermehren sich und produzieren das Hormon.
+Zwei Eltern sind Aa. Wie groß ist die Wahrscheinlichkeit, dass von zwei Kindern mindestens eines aa ist?|1/16|7/16|1/4|1/2|1|Gegenereignis: beide nicht aa: (3/4)² = 9/16, also 1 − 9/16 = 7/16.
+Wie groß ist die Wahrscheinlichkeit für aabb bei der Kreuzung AaBb × AaBb?|1/8|9/16|1/16|1/4|2|1/4 · 1/4 = 1/16.
+Eine Mutter ist Anlageträgerin für ein X-chromosomal rezessives Merkmal (XᴺXⁿ), der Vater ist nicht betroffen. Wie groß ist die Wahrscheinlichkeit, dass ein Sohn das Merkmal zeigt?|0 %|100 %|50 %|25 %|2|Die Söhne erhalten von der Mutter je zur Hälfte das Xᴺ oder das Xⁿ.
+Rosa blühende Wunderblumen (Aa, unvollständige Dominanz) werden untereinander gekreuzt. Welche Nachkommen entstehen?|alle rosa|75 % rot, 25 % weiß|50 % rot, 50 % weiß|25 % rot, 50 % rosa, 25 % weiß|3|Genotypverhältnis 1 : 2 : 1 entspricht dem Phänotypverhältnis.
+Wozu dient die Testkreuzung?|Man zählt die Chromosomen.|Man bestimmt den Genotyp eines Individuums mit dominantem Merkmal.|Man erzeugt Klone.|Man bestimmt die Mutationsrate.|1|Das Individuum wird mit einem reinerbig rezessiven gekreuzt.
+Ein Tier mit dominantem Merkmal wird mit einem rezessiven gekreuzt. Alle Nachkommen zeigen das dominante Merkmal. Welchen Genotyp hat das dominante Tier?|aa|AA|Aa|Das lässt sich nicht bestimmen.|1|Bei Aa wären 50 % der Nachkommen rezessiv.
+Was bewirkt das Crossing-over in der Meiose?|Neukombination von Allelen|Zellteilung ohne Meiose|Verdopplung der DNA|Austausch von Basen durch Mutation|0|Dabei tauschen homologe Chromosomen Abschnitte aus.
+Was bedeutet semikonservative Replikation?|Beide Stränge sind neu.|Jede neue DNA besteht aus einem alten und einem neuen Strang.|Nur eine Tochter-DNA entsteht.|Der alte Strang wird abgebaut.|1|Dadurch bleibt die Information erhalten.
+Wie läuft die Proteinbiosynthese ab?|DNA → mRNA (Transkription) → Protein (Translation)|DNA → Protein → mRNA|mRNA → DNA → Protein|Protein → mRNA → DNA|0|Die Information fließt von der DNA über die mRNA zum Protein.
+Wie viele Basen bilden ein Codon?|3|4|1|2|0|Ein Basentriplett codiert eine Aminosäure.
+Wie viele verschiedene Codons gibt es bei vier Basen?|64|16|12|20|0|4 · 4 · 4 = 64.
+Warum bleibt eine Punktmutation manchmal ohne Wirkung?|Der genetische Code ist redundant, mehrere Codons codieren dieselbe Aminosäure.|Codons bestehen nur aus 2 Basen.|Die DNA repariert sich immer.|Mutationen betreffen nur Proteine.|0|Der Austausch kann dieselbe Aminosäure ergeben.
+Zwei gesunde Eltern bekommen ein Kind mit einem autosomalen Merkmal. Welcher Erbgang liegt nahe?|autosomal-rezessiv, beide Eltern sind Anlageträger|X-chromosomal dominant|eine Mutation in Körperzellen der Eltern|autosomal-dominant|0|Das Kind hat zwei rezessive Allele, jedes Elternteil gibt eines weiter.
+Worauf beruht der genetische Fingerabdruck?|auf der Chromosomenzahl|auf den Fingerlinien|auf unterschiedlich langen, sich wiederholenden DNA-Abschnitten|allein auf der Blutgruppe|2|Die Muster dieser DNA-Abschnitte sind für Menschen sehr individuell.
