@@ -1887,6 +1887,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 11,
+      "subject": "Mathematics",
+      "country": "DE",
+      "chapters": [
+        {
+          "id": "de-m11-di",
+          "title": "Differenzialrechnung: Ableitung und Ableitungsregeln",
+          "lessons": [
+            {
+              "id": "de-m11-di-01",
+              "title": "Änderungsrate und Differenzenquotient"
+            },
+            {
+              "id": "de-m11-di-02",
+              "title": "Ableitung und Differenzialquotient"
+            },
+            {
+              "id": "de-m11-di-03",
+              "title": "Grundlegende Ableitungsregeln"
+            },
+            {
+              "id": "de-m11-di-04",
+              "title": "Produkt-, Quotienten- und Kettenregel"
+            }
+          ]
+        },
+        {
+          "id": "de-m11-ka",
+          "title": "Anwendungen der Differenzialrechnung",
+          "lessons": [
+            {
+              "id": "de-m11-ka-01",
+              "title": "Extrema und Monotonie"
+            },
+            {
+              "id": "de-m11-ka-02",
+              "title": "Wendepunkte und Krümmung"
+            },
+            {
+              "id": "de-m11-ka-03",
+              "title": "Tangente und Normale"
+            },
+            {
+              "id": "de-m11-ka-04",
+              "title": "Kurvendiskussion und Extremwertaufgaben"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

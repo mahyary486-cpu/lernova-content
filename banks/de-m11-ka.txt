@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie lautet die notwendige Bedingung für eine Extremstelle x₀ einer differenzierbaren Funktion?|f′(x₀) = 0|f(x₀) = 0|f‴(x₀) = 0|f″(x₀) = 0|0|An Extremstellen hat der Graph eine waagrechte Tangente.
+Welche Bedingung führt zu einem Hochpunkt?|f(x₀) = 0 und f′(x₀) < 0|f′(x₀) > 0 und f″(x₀) = 0|f′(x₀) = 0 und f″(x₀) > 0|f′(x₀) = 0 und f″(x₀) < 0|3|Die Krümmung ist dort nach unten.
+Welche Bedingung führt zu einem Tiefpunkt?|f(x₀) = 0 und f′(x₀) > 0|f′(x₀) = 0 und f″(x₀) > 0|f″(x₀) = 0 und f‴(x₀) = 0|f′(x₀) = 0 und f″(x₀) < 0|1|Die Krümmung ist dort nach oben.
+Welche Bedingung gilt für eine Wendestelle?|f′(x₀) = 0 und f″(x₀) < 0|f″(x₀) = 0 und f‴(x₀) ≠ 0|f(x₀) = 0 und f′(x₀) = 0|f‴(x₀) = 0 und f″(x₀) ≠ 0|1|Dort ändert sich die Krümmung.
+Was ist ein Wendepunkt?|ein Schnittpunkt mit der x-Achse|ein Punkt, an dem sich die Krümmung des Graphen ändert|der höchste Punkt|ein Punkt mit waagrechter Tangente|1|Dort geht der Graph von Links- in Rechtskrümmung über oder umgekehrt.
+Was bedeutet f″(x) > 0 auf einem Intervall?|Der Graph hat dort einen Wendepunkt.|Der Graph ist dort rechtsgekrümmt.|Der Graph ist dort linksgekrümmt (konvex).|Der Graph hat dort einen Hochpunkt.|2|Die Steigung nimmt zu.
+Was bedeutet f″(x) < 0 auf einem Intervall?|Der Graph ist dort linksgekrümmt.|Der Graph hat dort eine Nullstelle.|Der Graph ist dort rechtsgekrümmt (konkav).|Der Graph ist dort konstant.|2|Die Steigung nimmt ab.
+Wie lautet die Tangentengleichung an f in x₀?|y = f(x₀) · (x − x₀)|y = f′(x₀) + f(x₀) · (x − x₀)|y = f(x₀) + f′(x₀) · (x − x₀)|y = f′(x₀) · x|2|Punkt-Steigungs-Form.
+Wie liegt die Normale zur Tangente?|senkrecht zur Tangente|waagrecht|parallel zur Tangente|parallel zur y-Achse|0|Die Normale schneidet die Tangente im Berührpunkt senkrecht.
+Eine Tangente hat die Steigung 2. Wie groß ist die Steigung der Normalen?|1/2|2|−1/2|−2|2|Das Produkt der Steigungen ist −1.
+Was ist der erste Schritt bei einer Extremwertaufgabe?|Nullstellen raten|Zielfunktion und Nebenbedingung aufstellen|nur den Graphen zeichnen|die Ableitung ohne Funktion bilden|1|Man schreibt die Zielgröße als Funktion einer Variablen.
+Was muss man bei der Suche nach globalen Extrema zusätzlich prüfen?|die Funktionswerte an den Rändern des Definitionsbereichs|den y-Achsenabschnitt|nur die Wendepunkte|nur die Nullstellen|0|Randwerte können größer oder kleiner als lokale Extrema sein.
+Was versteht man unter einem globalen Maximum?|den größten Funktionswert im gesamten Definitionsbereich|den größten x-Wert|den Wert bei x = 0|jeden Hochpunkt|0|Es kann ein Hochpunkt oder ein Randpunkt sein.
+Was gehört zu einer Kurvendiskussion?|Nullstellen, Extrema, Wendepunkte und Verhalten im Unendlichen|nur eine Wertetabelle|nur die Nullstellen|nur die erste Ableitung|0|Ziel ist eine vollständige Beschreibung des Graphen.
+Wie erkennt man rechnerisch die Achsensymmetrie zur y-Achse?|Es gilt f′(x) = 0 für alle x.|Es gilt f(−x) = f(x) für alle x.|Es gilt f(−x) = −f(x) für alle x.|Es gilt f(x) = 0 für alle x.|1|Die Symmetrie führt oft zu einer einfacheren Kurvendiskussion.
+Wie bestimmt man den y-Achsenabschnitt?|Man löst f′(x) = 0.|Man löst f(x) = 0.|Man berechnet f(0).|Man berechnet f′(0).|2|Dort schneidet der Graph die y-Achse.
+Was bedeutet f′(x) < 0 auf einem Intervall?|f ist dort nicht definiert.|f ist dort konstant.|f ist dort streng monoton steigend.|f ist dort streng monoton fallend.|3|Die Tangenten fallen.
+Welchen Tiefpunkt hat f(x) = x² − 4x + 3?|(2, 1)|(−2, 15)|(2, −1)|(1, 0)|2|f′(x) = 2x − 4 = 0 ergibt x = 2 und f(2) = −1.
+Welchen Hochpunkt hat f(x) = −x² + 6x?|(3, −9)|(3, 9)|(6, 0)|(0, 0)|1|f′(x) = −2x + 6 = 0 ergibt x = 3 und f(3) = 9.
+Welche Extrempunkte hat f(x) = x³ − 3x?|Tiefpunkt (−1, 2) und Hochpunkt (1, 2)|nur den Hochpunkt (0, 0)|Hochpunkt (1, −2) und Tiefpunkt (−1, 2)|Hochpunkt (−1, 2) und Tiefpunkt (1, −2)|3|f′(x) = 3x² − 3, f″(x) = 6x.
+Welchen Wendepunkt hat f(x) = x³ − 3x?|(1, −2)|(0, 0)|(−1, 2)|(0, 3)|1|f″(x) = 6x = 0 ergibt x = 0 und f(0) = 0.
+Hat f(x) = x⁴ bei x = 0 ein Extremum, obwohl f″(0) = 0 gilt?|Ja, einen Hochpunkt.|Nein, einen Wendepunkt.|Ja, einen Tiefpunkt, da f′ von − nach + wechselt.|Nein, einen Sattelpunkt.|2|Das Kriterium mit f″ ist nur hinreichend, nicht notwendig.
+Was ist bei f(x) = x³ an der Stelle x = 0 der Fall?|Eine Nullstelle ohne Besonderheit.|Ein Sattelpunkt (Wendepunkt mit waagrechter Tangente).|Ein Tiefpunkt.|Ein Hochpunkt.|1|f′(0) = 0 und f″(0) = 0, f′ wechselt das Vorzeichen nicht.
+Wie lautet die Tangente an f(x) = x² an der Stelle x = 2?|y = 2x − 4|y = 4x|y = 4x + 4|y = 4x − 4|3|f(2) = 4 und f′(2) = 4: y = 4 + 4(x − 2).
+Wie lautet die Tangente an f(x) = x³ an der Stelle x = 1?|y = x|y = 3x − 2|y = 3x|y = 3x + 2|1|f(1) = 1 und f′(1) = 3: y = 1 + 3(x − 1).
+Wie groß ist die Steigung der Normalen an f(x) = x² an der Stelle x = 1?|2|1/2|−1/2|−2|2|Die Tangentensteigung ist 2, die Normale hat −1/2.
+Wie verläuft f(x) = x² − 4x monoton?|überall steigend|überall fallend|steigend für x < 2 und fallend für x > 2|fallend für x < 2 und steigend für x > 2|3|f′(x) = 2x − 4 wechselt bei x = 2 das Vorzeichen.
+Wo nimmt f(x) = −x² + 4 ihren größten Wert an?|bei x = 4|bei x = −4|bei x = 2|bei x = 0 mit dem Wert 4|3|Der Scheitelpunkt ist (0, 4).
+Ein Rechteck hat den Umfang 20 m. Welche Seitenlängen ergeben die größte Fläche?|4 m und 6 m|10 m und 0 m|2 m und 8 m|5 m und 5 m|3|A(x) = x · (10 − x), A′(x) = 10 − 2x = 0 ergibt x = 5.
+Wie groß ist die größte Fläche eines Rechtecks mit dem Umfang 20 m?|25 m²|24 m²|50 m²|20 m²|0|5 m · 5 m = 25 m².
+Zwei Zahlen haben die Summe 12. Wie groß ist ihr größtmögliches Produkt?|24|35|36|72|2|x · (12 − x) hat bei x = 6 das Maximum 36.
+Zwei Zahlen haben die Summe 10. Wie groß ist die kleinstmögliche Summe ihrer Quadrate?|50|25|40|100|0|x² + (10 − x)² ist bei x = 5 minimal: 25 + 25.
+Wie ist der Graph von f(x) = x² gekrümmt?|überall linksgekrümmt, da f″(x) = 2 > 0|gar nicht gekrümmt|abwechselnd|überall rechtsgekrümmt|0|Die Parabel öffnet sich nach oben.
+Wie verhält sich f(x) = −x³ + x für x → ∞?|f(x) → 0|f(x) → 1|f(x) → +∞|f(x) → −∞|3|Der Leitterm −x³ bestimmt das Verhalten.
+Welche Aussage über f(x) = x³ − 4x ist richtig?|Der Graph ist punktsymmetrisch zum Ursprung und hat dort einen Wendepunkt.|Er ist achsensymmetrisch zur y-Achse und hat dort einen Hochpunkt.|Er hat bei (2, 0) einen Wendepunkt.|Er hat keine Nullstelle.|0|f″(x) = 6x = 0 ergibt x = 0 und f(0) = 0.
+Was ist eine Wendetangente?|die Tangente in einem Extremum|die Normale im Wendepunkt|die Tangente im Wendepunkt|eine Parallele zur y-Achse|2|Dort ist die Steigung der Tangente lokal extremal.
+Welche Extrempunkte hat f(x) = x³ − 6x² + 9x?|Hochpunkt (0, 0) und Tiefpunkt (3, 0)|Hochpunkt (3, 0) und Tiefpunkt (1, 4)|Hochpunkt (1, 4) und Tiefpunkt (3, 0)|Hochpunkt (1, 0) und Tiefpunkt (3, 4)|2|f′(x) = 3(x − 1)(x − 3), f″(x) = 6x − 12.
+Welchen Wendepunkt hat f(x) = x³ − 6x² + 9x?|(2, 0)|(2, 2)|(1, 4)|(3, 0)|1|f″(x) = 6x − 12 = 0 ergibt x = 2 und f(2) = 2.
+Wie lautet die Wendetangente von f(x) = x³ − 6x² + 9x im Wendepunkt (2, 2)?|y = −3x + 2|y = −3x|y = 3x − 4|y = −3x + 8|3|f′(2) = −3: y = 2 − 3(x − 2).
+Ein Rechteck liegt mit zwei Ecken auf der x-Achse und mit zwei Ecken auf der Parabel y = 9 − x² (symmetrisch zur y-Achse). Wie groß ist die größtmögliche Fläche?|≈ 18|≈ 12|≈ 20,8 (genau 12√3)|≈ 27|2|A(x) = 2x(9 − x²), A′ = 18 − 6x² = 0 ergibt x = √3 und A = 12√3.
+Welche Form hat eine zylindrische Dose mit festem Volumen und kleinster Oberfläche?|h = 4r|h = 2r|h = r|h = r/2|1|Der Durchmesser ist gleich der Höhe.
+Die Kostenfunktion lautet K(x) = x² − 6x + 20. Wie groß sind die minimalen Kosten?|20|3|14|11|3|K′(x) = 2x − 6 = 0 ergibt x = 3 und K(3) = 11.
+Die Gewinnfunktion lautet G(x) = −x² + 8x − 7. Wie groß ist der maximale Gewinn?|9|16|7|4|0|G′(x) = −2x + 8 = 0 ergibt x = 4 und G(4) = 9.
+Zwischen welchen x-Werten liegt die Gewinnzone von G(x) = −x² + 8x − 7?|zwischen 4 und 9|zwischen −1 und 7|zwischen 1 und 7|zwischen 0 und 8|2|G(x) = 0 ergibt x² − 8x + 7 = 0, also x = 1 oder x = 7.
+Wie viele Extremstellen hat f(x) = x⁴ − 2x²?|3|2|1|4|0|f′(x) = 4x(x² − 1) = 0 ergibt x = 0, x = 1 und x = −1.
+Welcher Punkt ist der Hochpunkt von f(x) = x⁴ − 2x²?|(−1, −1)|(1, −1)|(0, −1)|(0, 0)|3|f″(0) = −4 < 0, f(0) = 0.
+Welche Wendestellen hat f(x) = x⁴ − 2x²?|x = ±1/√3 (≈ ±0,58)|x = 0|x = ±2|x = ±1|0|f″(x) = 12x² − 4 = 0 ergibt x² = 1/3.
+Wo ist f(x) = x⁴ − 2x² streng monoton fallend?|für −1 < x < 0 und für x > 1|für x < −1 und für 0 < x < 1|für x < 0|für x > 0|1|f′(x) = 4x(x² − 1) ist dort negativ.
+Wie groß ist die Näherung von √4,1 mit der Tangente an f(x) = √x bei x = 4?|2,025|2,05|2,0025|2,1|0|f(4) = 2 und f′(4) = 1/4: 2 + 0,25 · 0,1.
+Ein Zaun von 40 m soll an einer Mauer ein Rechteck begrenzen (die Mauerseite braucht keinen Zaun). Wie groß ist die größtmögliche Fläche?|100 m²|200 m²|20 m²|400 m²|1|A(x) = x · (40 − 2x), A′ = 40 − 4x = 0 ergibt x = 10 und A = 200.
