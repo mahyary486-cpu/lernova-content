@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+Which function is an exponential function?|f(x) = x^2|f(x) = 2x|f(x) = 2^x|f(x) = x + 2|2|An exponential function has the variable in the exponent.
+Is f(x) = 0.8^x growth or decay?|Decay|Growth|Neither|Linear|0|The base 0.8 is between 0 and 1, so the function decays.
+What is the y-intercept of f(x) = 3 * 2^x?|(0, 1)|(0, 6)|(0, 2)|(0, 3)|3|f(0) = 3 * 2^0 = 3.
+What is the range of f(x) = 2^x?|y ≥ 0|y > 0|All real numbers|y < 0|1|2^x is always positive and never reaches 0.
+What is the horizontal asymptote of g(x) = 2^x + 3?|y = 3|y = 0|x = 3|y = -3|0|Adding 3 moves the asymptote up from y = 0 to y = 3.
+If f(x) = 4 * (1/2)^x, what is f(2)?|2|4|1|16|2|4 * (1/4) = 1.
+An exponential function passes through (0, 5) and (1, 15). What is its equation?|f(x) = 15 * 5^x|f(x) = 5 * 3^x|f(x) = 5 * 15^x|f(x) = 3 * 5^x|1|f(0) = a = 5 and f(1) = 5b = 15, so b = 3.
+What is f(3) if f(x) = 3 * 2^x?|216|18|12|24|3|The power is done first: 2^3 = 8, then 3 * 8 = 24.
+Which formula models a quantity that grows 4% each year from a starting amount a?|y = a(1.04)^t|y = a(0.04)^t|y = a(0.96)^t|y = a + 0.04t|0|Growth by r uses the factor 1 + r = 1.04.
+Which formula models a car that loses 15% of its value each year?|V = P(1.15)^t|V = P(0.15)^t|V = P - 0.15t|V = P(0.85)^t|3|Decay by r uses the factor 1 - r = 0.85.
+A substance has a half-life of 10 years. What fraction remains after 30 years?|1/3|1/8|1/6|1/2|1|Three half-lives pass, and (1/2)^3 = 1/8.
+What is the approximate value of e?|2.718|3.141|1.618|2.5|0|e is about 2.71828.
+Bacteria double every 3 hours. Starting with 100, how many are there after 9 hours?|300|900|800|600|2|9 hours is 3 doubling periods: 100 * 2^3 = 800.
+Which formula is used for continuous compounding?|A = P(1 + r)^t|A = P e^(rt)|A = P(1 + r/n)^(nt)|A = P + Prt|1|Continuous compounding uses the number e.
+A town of 5000 people grows 4% a year. About how many people are there after 3 years?|5600|5400|6000|5624|3|5000 * 1.04^3 = 5000 * 1.124864 = about 5624.
+$1000 is invested at 6% compounded monthly for 2 years. What is the amount?|About $1120.00|About $1123.60|About $1127.16|About $1200.00|2|A = 1000(1 + 0.06/12)^24 = 1000(1.005)^24, which is about 1127.16.
+What is log_2(8)?|4|2|16|3|3|2^3 = 8.
+Write 3^4 = 81 in logarithmic form.|log_4(81) = 3|log_3(81) = 4|log_81(3) = 4|log_3(4) = 81|1|b^y = x becomes log_b(x) = y, so the base 3 stays the base.
+What is log_b(1) for any base b?|0|1|b|Undefined|0|b^0 = 1, so the exponent is 0.
+What is ln(e)?|0|e|1|10|2|ln is log base e, and e^1 = e.
+Solve log_2(x) = 5.|x = 10|x = 32|x = 25|x = 7|1|x = 2^5 = 32.
+What is the domain of f(x) = log(x - 4)?|x > 0|x ≥ 4|x < 4|x > 4|3|The argument must be positive: x - 4 > 0.
+What is the inverse of f(x) = 3^x?|f^-1(x) = x^3|f^-1(x) = 1/3^x|f^-1(x) = log_3(x)|f^-1(x) = log_x(3)|2|Exponentials and logarithms with the same base undo each other.
+What is the vertical asymptote of y = log_2(x - 3) + 1?|x = 3|x = 0|x = 1|x = -3|0|Shifting right 3 moves the asymptote from x = 0 to x = 3. The +1 shifts up and does not change it.
+What is log_5(1/25)?|2|-2|-5|1/2|1|5^(-2) = 1/25.
+Which expression equals log(5) + log(4)?|log(20)|log(9)|log(1)|log(5/4)|0|The product property: log(M) + log(N) = log(MN).
+Expand log_2(8x).|8 + log_2(x)|3 * log_2(x)|3 + log_2(x)|log_2(8) * log_2(x)|2|log_2(8) = 3, and the product property turns the product into a sum.
+What is log_2(12) - log_2(3)?|log_2(9)|2|4|1|1|The quotient property gives log_2(4) = 2.
+Expand ln(sqrt(x)).|2 ln(x)|ln(x) - 2|ln(x)/ln(2)|(1/2) ln(x)|3|sqrt(x) = x^(1/2), and the power property brings the 1/2 down.
+Condense 2 log(x) + log(y).|log(2xy)|log(x^2 + y)|log(x^2 y)|2 log(xy)|2|The power property makes 2 log(x) = log(x^2), then the product property combines.
+Which statement is FALSE?|log(M + N) = log(M) + log(N)|log(MN) = log(M) + log(N)|log(M/N) = log(M) - log(N)|log(M^2) = 2 log(M)|0|There is no property for the log of a sum. The product of M and N is what turns into a sum.
+Which expression is the change of base formula for log_b(x)?|ln(b)/ln(x)|ln(x) * ln(b)|ln(x) - ln(b)|ln(x)/ln(b)|3|log_b(x) = log(x)/log(b) = ln(x)/ln(b).
+What is log_5(25) + log_5(5)?|3|2|30|5|0|log_5(25) = 2 and log_5(5) = 1.
+Simplify 3 ln(2) - ln(4).|ln(8)|ln(4)|ln(2)|2 ln(2)|2|3 ln(2) = ln(8), and ln(8) - ln(4) = ln(2).
+Solve 2^x = 32.|x = 16|x = 5|x = 6|x = 4|1|32 = 2^5.
+Solve 9^x = 27.|x = 3|x = 2/3|x = 3/4|x = 3/2|3|Write both with base 3: 3^(2x) = 3^3, so 2x = 3.
+Solve 4^(x + 1) = 64.|x = 3|x = 15|x = 2|x = 1|2|64 = 4^3, so x + 1 = 3.
+Solve 3^x = 20. Which expression gives x?|ln(20)/ln(3)|ln(20) - ln(3)|20/3|ln(3)/ln(20)|0|Take ln of both sides: x ln(3) = ln(20).
+Solve 5 * 2^x = 40.|x = 8|x = 4|x = 35|x = 3|3|Divide by 5 first: 2^x = 8, so x = 3.
+Solve (1/2)^x = 8.|x = 3|x = -3|x = 1/3|x = -1/3|1|(1/2)^x = 2^(-x) = 2^3, so -x = 3.
+Solve 4^x - 6 * 2^x + 8 = 0.|x = 2 or x = 4|x = 1 only|x = 1 or x = 2|x = 0 or x = 3|2|Let u = 2^x: u^2 - 6u + 8 = 0, so u = 2 or 4, which gives x = 1 or 2.
+About how many years does money take to double at 5% compounded yearly?|About 20 years|About 14.2 years|About 10 years|About 7.1 years|1|2 = 1.05^t, so t = ln(2)/ln(1.05), which is about 14.2.
+Solve log_3(x + 1) = 2.|x = 5|x = 6|x = 9|x = 8|3|x + 1 = 3^2 = 9.
+Solve ln(x) = 2.|x = 2e|x = 2|x = e^2|x = ln(2)|2|Rewrite in exponential form: x = e^2.
+Solve log(3x - 2) = log(x + 6).|x = 4|x = 2|x = 8|x = -2|0|Set the arguments equal: 3x - 2 = x + 6.
+Solve 2 log(x) = 6.|x = 3|x = 100|x = 36|x = 1000|3|log(x) = 3, so x = 10^3.
+Solve log_2(x) + log_2(x - 2) = 3.|x = -2|x = 4|x = 4 or x = -2|x = 8|1|x(x - 2) = 8 gives x = 4 or -2. The value -2 makes log_2(-2) undefined, so only x = 4 works.
+Solve log(x + 3) - log(x) = 1.|x = 1/3|x = 3|x = 1/10|x = 3/10|0|(x + 3)/x = 10 gives x + 3 = 10x, so x = 1/3.
+Solve log_3(x) + log_3(x - 8) = 2.|x = -1|x = 9|x = 9 or x = -1|x = 11|1|x(x - 8) = 9 gives x = 9 or x = -1. Only x = 9 keeps both arguments positive.
+What is the pH of a solution with [H+] = 0.001, using pH = -log[H+]?|-3|0.001|1000|3|3|-log(10^-3) = 3.

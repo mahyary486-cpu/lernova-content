@@ -504,6 +504,36 @@
               "title": "Graphing rational functions"
             }
           ]
+        },
+        {
+          "id": "g11-ch5",
+          "title": "Exponential and Logarithmic Functions",
+          "lessons": [
+            {
+              "id": "g11-ch5-l1",
+              "title": "Exponential functions and their graphs"
+            },
+            {
+              "id": "g11-ch5-l2",
+              "title": "Exponential growth, decay and the number e"
+            },
+            {
+              "id": "g11-ch5-l3",
+              "title": "Logarithms and logarithmic functions"
+            },
+            {
+              "id": "g11-ch5-l4",
+              "title": "Properties of logarithms"
+            },
+            {
+              "id": "g11-ch5-l5",
+              "title": "Solving exponential equations"
+            },
+            {
+              "id": "g11-ch5-l6",
+              "title": "Solving logarithmic equations"
+            }
+          ]
         }
       ],
       "country": "US"
