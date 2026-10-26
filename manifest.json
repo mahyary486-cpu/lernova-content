@@ -1,52 +1,52 @@
 {
- "countries": {
-  "CN": {
-   "bytes": 31128,
-   "currentYear": "2026-2027",
-   "files": 40,
-   "name": "China",
-   "rev": "849e12ee73",
-   "year": "2026-2027"
-  },
-  "DE": {
-   "bytes": 396751,
-   "currentYear": "2026-2027",
-   "files": 162,
-   "name": "Germany",
-   "rev": "059658851a",
-   "year": "2026-2027"
-  },
-  "FR": {
-   "bytes": 82464,
-   "currentYear": "2026-2027",
-   "files": 48,
-   "name": "France",
-   "rev": "3c95dec36b",
-   "year": "2026-2027"
-  },
-  "IR": {
-   "bytes": 498771,
-   "currentYear": "2026-2027",
-   "files": 134,
-   "name": "Iran",
-   "rev": "236775da67",
-   "year": "2026-2027"
-  },
-  "RU": {
-   "bytes": 41258,
-   "currentYear": "2026-2027",
-   "files": 42,
-   "name": "Russia",
-   "rev": "ce4b4623cb",
-   "year": "2026-2027"
-  },
-  "US": {
-   "bytes": 317064,
-   "currentYear": "2026-2027",
-   "files": 133,
-   "name": "United States",
-   "rev": "87180f74be",
-   "year": "2026-2027"
+  "countries": {
+    "CN": {
+      "bytes": 31128,
+      "currentYear": "2026-2027",
+      "files": 40,
+      "name": "China",
+      "rev": "849e12ee73",
+      "year": "2026-2027"
+    },
+    "DE": {
+      "bytes": 396751,
+      "currentYear": "2026-2027",
+      "files": 162,
+      "name": "Germany",
+      "rev": "059658851a",
+      "year": "2026-2027"
+    },
+    "FR": {
+      "bytes": 176051,
+      "currentYear": "2026-2027",
+      "files": 48,
+      "name": "France",
+      "rev": "94ca771961",
+      "year": "2026-2027"
+    },
+    "IR": {
+      "bytes": 498771,
+      "currentYear": "2026-2027",
+      "files": 134,
+      "name": "Iran",
+      "rev": "236775da67",
+      "year": "2026-2027"
+    },
+    "RU": {
+      "bytes": 41258,
+      "currentYear": "2026-2027",
+      "files": 42,
+      "name": "Russia",
+      "rev": "ce4b4623cb",
+      "year": "2026-2027"
+    },
+    "US": {
+      "bytes": 317064,
+      "currentYear": "2026-2027",
+      "files": 133,
+      "name": "United States",
+      "rev": "87180f74be",
+      "year": "2026-2027"
+    }
   }
- }
 }

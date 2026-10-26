@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quelle est la moyenne de 2, 4, 6 et 8 ?|4|5|6|20|1|(2 + 4 + 6 + 8)/4 = 20/4 = 5.
+Quelle est la médiane de 1, 3, 5, 7, 9 ?|3|7|25|5|3|La série est rangée, la valeur du milieu est la troisième : 5.
+L’écart interquartile d’une série est :|Q3 − Q1|Q1 − Q3|Q3 + Q1|la moyenne de Q1 et Q3|0|C’est la différence entre le troisième et le premier quartile.
+Pour un événement A, P(A) + P(non A) vaut :|0|0,5|1|2|2|A et son contraire couvrent toutes les issues.
+On lance un dé équilibré. Quelle est la probabilité d’obtenir un multiple de 3 ?|1/6|1/2|1/3|2/3|2|Les multiples de 3 sont 3 et 6 : 2 issues sur 6, soit 1/3.
+Quelle est l’étendue de la série 4, 9, 2, 7 ?|7|5|9|22|0|9 − 2 = 7.
+L’écart-type mesure :|la valeur du milieu de la série|le nombre de valeurs|la plus grande valeur|la dispersion des valeurs autour de la moyenne|3|Plus il est grand, plus les valeurs sont éloignées de la moyenne.
+Si A et B sont incompatibles, P(A ∪ B) vaut :|P(A) × P(B)|P(A) + P(B)|P(A) − P(B)|P(A ∩ B)|1|Il n’y a aucune issue commune à retrancher.
+Une fréquence est toujours comprise entre :|−1 et 1|0 et 1|0 et 100 seulement|1 et 10|1|Une fréquence est un quotient d’un effectif par l’effectif total.
+Quelle valeur ne peut jamais être une probabilité ?|0|0,5|1|1,2|3|Une probabilité est comprise entre 0 et 1.
+P(A) = 0,5, P(B) = 0,4 et P(A ∩ B) = 0,2. Quelle est P(A ∪ B) ?|0,7|0,9|0,1|0,3|0|0,5 + 0,4 − 0,2 = 0,7.
+P(A) = 0,35. Quelle est la probabilité de l’événement contraire ?|0,35|0,5|0,65|1,35|2|1 − 0,35 = 0,65.
+Quelle est la variance de la série 1, 3, 5, 7 ?|4|20|5|√5|2|La moyenne est 4. Les carrés des écarts valent 9, 1, 1, 9 : 20/4 = 5.
+Quel est l’écart-type de la série 1, 3, 5, 7 ?|√5|5|2,5|20|0|L’écart-type est la racine carrée de la variance 5.
+Dans la série 2, 3, 3, 4, 5, 6, 8, quel est le premier quartile Q1 ?|2|4|5|3|3|25 % de 7 = 1,75 : on prend la 2e valeur, soit 3.
+Dans un lot de 200 pièces, 12 sont défectueuses. Quelle est la fréquence de pièces défectueuses ?|0,6|0,06|0,12|12|1|12/200 = 0,06, soit 6 %.
+Quel est l’intervalle de fluctuation à 95 % pour p = 0,5 et n = 100 ?|[0,49 ; 0,51]|[0,4 ; 0,6]|[0,3 ; 0,7]|[0,45 ; 0,55]|1|1/√100 = 0,1, donc [0,5 − 0,1 ; 0,5 + 0,1].
+L’intervalle de fluctuation [p − 1/√n ; p + 1/√n] est utilisé lorsque :|n ≤ 25 et p ≤ 0,2|n quelconque|p = 0|n ≥ 25 et 0,2 ≤ p ≤ 0,8|3|Ce sont les conditions de validité de l’approximation.
+Une urne contient 5 boules rouges, 3 vertes et 2 bleues. Quelle est la probabilité de tirer une boule qui n’est pas rouge ?|0,5|0,3|0,2|0,8|0|5 boules non rouges sur 10 : 0,5.
+On lance un dé deux fois. Combien y a-t-il d’issues possibles ?|12|6|36|66|2|6 × 6 = 36.
+120 élèves : 70 étudient l’anglais, 50 l’espagnol et 20 les deux. Quelle est la probabilité qu’un élève au hasard étudie au moins une des deux langues ?|7/12|1|5/6|11/12|2|70 + 50 − 20 = 100 élèves, soit 100/120 = 5/6.
+Dans la même population, quelle est la probabilité de n’étudier ni l’anglais ni l’espagnol ?|1/6|1/12|5/6|1/3|0|1 − 5/6 = 1/6 (20 élèves sur 120).
+Cinq notes ont pour moyenne 12. On ajoute une sixième note égale à 18. Quelle est la nouvelle moyenne ?|15|14|12|13|3|La somme passe de 60 à 78 et 78/6 = 13.
+Dans une série, la valeur 2 a un effectif 3 et la valeur 5 un effectif 2. Quelle est la moyenne ?|3,5|3,2|4|2,5|1|(3 × 2 + 2 × 5)/5 = 16/5 = 3,2.
+Si on multiplie toutes les valeurs d’une série par 2 :|seule la moyenne est multipliée par 2|la moyenne et l’écart-type sont multipliés par 2|la moyenne ne change pas|l’écart-type est multiplié par 4|1|La moyenne est multipliée par 2 et l’écart-type par ∣2∣ = 2.
+Si on ajoute 10 à toutes les valeurs d’une série :|la moyenne et l’écart-type augmentent de 10|la moyenne ne change pas|l’écart-type augmente de 10|la moyenne augmente de 10 et l’écart-type ne change pas|3|Les écarts à la moyenne restent identiques.
+Pour p = 0,5 et n = 400, quel est l’intervalle de fluctuation à 95 % ?|[0,45 ; 0,55]|[0,4 ; 0,6]|[0,495 ; 0,505]|[0,25 ; 0,75]|0|1/√400 = 0,05, donc [0,45 ; 0,55].
+Un échantillon de taille 100 donne f = 0,3. L’hypothèse p = 0,5 est-elle compatible avec ce résultat ?|Oui, car 0,3 < 0,5|Oui, car 0,3 est positif|Non, car 0,3 n’appartient pas à [0,4 ; 0,6]|On ne peut jamais conclure|2|L’intervalle de fluctuation est [0,4 ; 0,6] ; 0,3 est en dehors, on rejette l’hypothèse.
+On lance deux dés équilibrés. Quelle est la probabilité que la somme soit au moins 11 ?|1/6|1/18|1/12|1/36|2|Les issues (5 ; 6), (6 ; 5), (6 ; 6) donnent 3/36 = 1/12.
+P(A) = 0,6 et P(B) = 0,7. Quelle est la plus petite valeur possible de P(A ∩ B) ?|0,3|0|0,6|0,42|0|P(A ∪ B) ≤ 1 donne P(A ∩ B) ≥ 0,6 + 0,7 − 1 = 0,3.

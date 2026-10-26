@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Soit f(x) = x² − 2x. Quelle est l’image de 3 ?|1|3|15|9|1|f(3) = 9 − 6 = 3.
+L’ensemble de définition d’une fonction est :|l’ensemble de toutes les images|l’axe des ordonnées|l’ensemble des antécédents de 0|l’ensemble des réels qui ont une image|3|C’est l’ensemble des valeurs de x pour lesquelles f(x) existe.
+Quel est l’ensemble de définition de f(x) = 1/x ?|ℝ privé de 0|ℝ|[0 ; +∞[|]−∞ ; 0[|0|On ne peut pas diviser par 0.
+Quel est l’ensemble de définition de f(x) = √x ?|ℝ|]0 ; +∞[|[0 ; +∞[|]−∞ ; 0]|2|La racine carrée n’existe que pour les réels positifs ou nuls.
+Si f est croissante sur [a ; b], alors pour a ≤ x1 < x2 ≤ b :|f(x1) ≥ f(x2)|f(x1) = f(x2)|f(x1) ≤ f(x2)|f(x1) > f(x2)|2|Une fonction croissante conserve l’ordre.
+Un point M(x ; y) est sur la courbe de f si :|y = f(x)|x = f(y)|y = x|f(x) = 0|0|La courbe est l’ensemble des points (x ; f(x)).
+La courbe d’une fonction paire est symétrique par rapport à :|l’axe des abscisses|l’origine|la droite y = x|l’axe des ordonnées|3|Pour une fonction paire, f(−x) = f(x) : symétrie par rapport à l’axe des ordonnées.
+La courbe d’une fonction impaire est symétrique par rapport à :|l’axe des ordonnées|l’origine du repère|l’axe des abscisses|la droite y = 1|1|Pour une fonction impaire, f(−x) = −f(x) : symétrie centrale de centre O.
+Le maximum d’une fonction sur un intervalle est :|la plus petite valeur prise par f|la plus grande valeur prise par f|l’abscisse du point le plus bas|la moyenne des valeurs de f|1|Le maximum est la plus grande ordonnée atteinte par la courbe.
+Lire graphiquement f(2), c’est :|lire l’abscisse du point d’ordonnée 2|calculer 2 × f|résoudre f(x) = 0|lire l’ordonnée du point de la courbe d’abscisse 2|3|L’image de 2 est l’ordonnée du point de la courbe d’abscisse 2.
+Soit f(x) = 3x − 1. Quel est l’antécédent de 8 ?|3|23|7|8/3|0|3x − 1 = 8 donne 3x = 9, donc x = 3.
+Quel est l’ensemble de définition de f(x) = 1/(x − 3) ?|ℝ privé de −3|ℝ|ℝ privé de 3|]3 ; +∞[|2|x − 3 = 0 donne x = 3 : valeur interdite.
+Quel est l’ensemble de définition de f(x) = √(x − 2) ?|]2 ; +∞[|]−∞ ; 2]|[2 ; +∞[|ℝ|2|Il faut x − 2 ≥ 0, donc x ≥ 2.
+La fonction f(x) = x² est :|paire|impaire|ni paire ni impaire|à la fois paire et impaire (non nulle)|0|(−x)² = x² : la fonction carré est paire.
+La fonction f(x) = x³ est :|paire|ni paire ni impaire|constante|impaire|3|(−x)³ = −x³ : la fonction cube est impaire.
+Pour résoudre graphiquement f(x) = 2, on cherche :|les ordonnées des points d’abscisse 2|les abscisses des points de la courbe d’ordonnée 2|les points d’intersection avec l’axe des abscisses|le maximum de f|1|Les solutions de f(x) = 2 sont les abscisses des points d’intersection de la courbe avec la droite y = 2.
+Soit f(x) = x² − 4x + 3. Calculer f(2).|1|−1|3|−5|1|f(2) = 4 − 8 + 3 = −1.
+Soit f(x) = 2x + 1 et g(x) = x + 4. Résoudre f(x) = g(x).|x = 5|x = 1|x = 7|x = 3|3|2x + 1 = x + 4 donne x = 3.
+f est croissante de −2 à 1 puis décroissante de 1 à 5, avec f(1) = 4. Quel est le maximum de f sur [−2 ; 5] ?|4|1|5|−2|0|Le maximum est la valeur f(1) = 4, atteinte en x = 1.
+Soit f(x) = x² − 1. Quels sont les antécédents de 3 ?|4 seulement|2 seulement|2 et −2|8|2|x² − 1 = 3 donne x² = 4, donc x = 2 ou x = −2.
+Soit f(x) = (x + 1)/(x − 2). Quelle est l’image de 0 ?|1/2|−1|−1/2|2|2|f(0) = (0 + 1)/(0 − 2) = −1/2.
+L’ensemble de définition de f(x) = 1/(x² − 4) est :|ℝ privé de −2 et de 2|ℝ privé de 2|ℝ privé de 4|]−2 ; 2[|0|x² − 4 = 0 pour x = 2 et x = −2.
+Quelle fonction est impaire ?|f(x) = x² + 1|f(x) = x³ + 1|f(x) = ∣x∣|f(x) = x³ − x|3|Pour f(x) = x³ − x, on a f(−x) = −x³ + x = −f(x). Les autres sont paire, ni paire ni impaire, paire.
+Si f est impaire et f(2) = 5, que vaut f(−2) ?|5|−5|0|−2|1|Pour une fonction impaire, f(−x) = −f(x) : f(−2) = −5.
+Si f est paire et f(−3) = 7, que vaut f(3) ?|−7|7|0|3|1|Pour une fonction paire, f(3) = f(−3) = 7.
+f est décroissante sur [0 ; 4]. Que peut-on dire de f(1) et f(3) ?|f(1) ≤ f(3)|f(1) = f(3)|On ne peut rien dire|f(1) ≥ f(3)|3|Une fonction décroissante inverse l’ordre : 1 < 3 donne f(1) ≥ f(3).
+Sur [−3 ; 3], f(x) = x². Quel est le minimum de f ?|0, atteint en x = 0|9, atteint en x = 3|−9, atteint en x = 3|0, atteint en x = 3|0|x² ≥ 0 pour tout x et x² = 0 pour x = 0.
+Soit f(x) = 2x² − 8. Résoudre f(x) = 0.|x = 4|x = 2 seulement|x = 2 ou x = −2|x = 4 ou x = −4|2|2x² = 8 donne x² = 4, donc x = 2 ou x = −2.
+Soit f une fonction affine telle que f(1) = 3 et f(3) = 7. Quelle est la valeur de f(0) ?|3|2|1|−1|2|Le coefficient directeur est (7 − 3)/(3 − 1) = 2. Puis f(0) = f(1) − 2 = 1.
+Sachant que la fonction carré est décroissante sur ]−∞ ; 0], quelle comparaison est correcte ?|(−3)² > (−1)²|(−3)² < (−1)²|(−3)² = (−1)²|(−3)² < 0|0|−3 < −1 et la fonction carré est décroissante sur ]−∞ ; 0] : 9 > 1.

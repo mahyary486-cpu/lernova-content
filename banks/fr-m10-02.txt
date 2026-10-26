@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quelle est la solution de 2x − 6 = 0 ?|x = −3|x = 3|x = 6|x = 12|1|2x = 6 donc x = 3.
+Résoudre (x − 1)(x + 4) = 0.|x = −1 ou x = 4|x = 1 ou x = 4|x = −3|x = 1 ou x = −4|3|x − 1 = 0 donne x = 1 et x + 4 = 0 donne x = −4.
+Quelle valeur est interdite dans 1/(x − 5) ?|5|−5|0|1|0|Le dénominateur x − 5 s’annule pour x = 5.
+Pour quelles valeurs de x l’expression 2x + 4 est-elle positive ?|x < −2|x > 2|x > −2|x < 2|2|2x + 4 > 0 équivaut à 2x > −4, donc x > −2.
+Résoudre x² = 16.|x = 4 seulement|x = 8 ou x = −8|x = 4 ou x = −4|Pas de solution|2|Deux réels ont pour carré 16 : 4 et −4.
+Résoudre x + 3 > 5.|x > 2|x < 2|x > 8|x > −2|0|On soustrait 3 aux deux membres : x > 2.
+Quel est le signe de −3x + 6 pour x = 0 ?|Négatif|Nul|On ne peut pas savoir|Positif|3|Pour x = 0, −3x + 6 = 6 qui est positif.
+Une fraction A/B est nulle si :|B = 0|A = 0 et B ≠ 0|A = B|A et B sont nuls|1|Un quotient est nul quand son numérateur est nul et que son dénominateur est non nul.
+Quelle est la solution de 5x = 0 ?|x = 5|x = 0|x = 1/5|Il n’y a aucune solution|1|On divise par 5 : x = 0.
+À quoi sert un tableau de signes ?|À calculer la moyenne d’une série|À tracer un cercle|À additionner des fractions|À étudier le signe d’une expression selon les valeurs de x|3|Le tableau de signes donne le signe d’un produit ou d’un quotient sur chaque intervalle.
+Résoudre x² − 9 = 0.|x = 3 ou x = −3|x = 3 seulement|x = 9|x = 0|0|(x − 3)(x + 3) = 0 donne x = 3 ou x = −3.
+Résoudre x² + 4 = 0 dans ℝ.|x = 2|x = 2 ou x = −2|Aucune solution|x = −4|2|x² = −4 est impossible car un carré est toujours positif ou nul.
+Résoudre (2x − 1)(x + 3) = 0.|x = 2 ou x = 3|x = −1/2 ou x = 3|x = 1/2 ou x = −3|x = 1/2 ou x = 3|2|2x − 1 = 0 donne x = 1/2 et x + 3 = 0 donne x = −3.
+Résoudre (x + 2)/(x − 1) = 0.|x = −2|x = 1|x = 2|x = −1|0|Le numérateur x + 2 s’annule pour x = −2, et le dénominateur y est non nul.
+Résoudre 3x − 6 ≥ 0.|]2 ; +∞[|]−∞ ; 2]|[−2 ; +∞[|[2 ; +∞[|3|3x ≥ 6 donne x ≥ 2, borne incluse.
+Pour quelles valeurs de x l’expression −2x + 8 est-elle positive ?|x > 4|x < 4|x < −4|x > −4|1|−2x + 8 > 0 équivaut à −2x > −8, donc x < 4 (on divise par −2 et le sens change).
+Résoudre x² − 5x = 0.|x = 5 seulement|x = 0 ou x = 5|x = 0 seulement|x = −5 ou x = 5|1|x(x − 5) = 0 donne x = 0 ou x = 5.
+Résoudre 1/x = 2.|x = 2|x = −1/2|x = 1|x = 1/2|3|1/x = 2 donne x = 1/2.
+Quelle est la valeur interdite de (x + 1)/(2x − 6) ?|3|−1|6|−3|0|2x − 6 = 0 donne x = 3.
+Résoudre 2x + 1 < 7.|]−∞ ; 3]|]3 ; +∞[|]−∞ ; 3[|]−∞ ; 4[|2|2x < 6 donc x < 3, borne exclue.
+Résoudre (x − 3)(x + 2) > 0.|]−2 ; 3[|]−∞ ; −3[ ∪ ]2 ; +∞[|]−∞ ; −2[ ∪ ]3 ; +∞[|[−2 ; 3]|2|Le produit est positif à l’extérieur des racines −2 et 3, bornes exclues.
+Résoudre (x + 1)(x − 4) ≤ 0.|[−1 ; 4]|]−∞ ; −1] ∪ [4 ; +∞[|]−1 ; 4[|[−4 ; 1]|0|Le produit est négatif entre les racines −1 et 4, bornes incluses car l’inégalité est large.
+Résoudre (x − 2)/(x + 1) ≥ 0.|]−∞ ; −1] ∪ [2 ; +∞[|[−1 ; 2]|]−1 ; 2]|]−∞ ; −1[ ∪ [2 ; +∞[|3|Le quotient est positif ou nul pour x < −1 ou x ≥ 2. La valeur −1 est interdite, donc exclue.
+Résoudre x² − 6x + 9 = 0.|x = −3|x = 3|x = 3 ou x = −3|Aucune solution|1|x² − 6x + 9 = (x − 3)², donc x = 3.
+Résoudre x² ≥ 25.|[−5 ; 5]|]−∞ ; −5] ∪ [5 ; +∞[|[5 ; +∞[|]−∞ ; 5]|1|(x − 5)(x + 5) ≥ 0 donne x ≤ −5 ou x ≥ 5.
+Résoudre 1/(x − 2) = 3/(x + 4).|x = 1|x = −5|x = 2|x = 5|3|x + 4 = 3(x − 2) donne 10 = 2x, donc x = 5. Cette valeur n’est pas interdite.
+Résoudre x(x − 3) = 4x.|x = 0 ou x = 7|x = 7 seulement|x = 0 ou x = −7|x = 4|0|x² − 3x − 4x = 0 donne x(x − 7) = 0. Diviser par x ferait perdre la solution 0.
+Résoudre 4x² − 9 = 0.|x = 9/4|x = 3 ou x = −3|x = 3/2 ou x = −3/2|x = 2/3|2|(2x − 3)(2x + 3) = 0 donne x = 3/2 ou x = −3/2.
+Pour quelles valeurs de x l’expression (x − 1)(3 − x) est-elle positive ?|]−∞ ; 1[ ∪ ]3 ; +∞[|[1 ; 3]|]1 ; 3[|]−∞ ; 3[|2|(x − 1)(3 − x) = −(x − 1)(x − 3) : positif entre les racines 1 et 3, bornes exclues.
+Un rectangle a un périmètre de 20 cm et une aire de 21 cm². Quelle est sa longueur (la plus grande dimension) ?|7 cm|3 cm|10 cm|21 cm|0|Si x est la longueur, x(10 − x) = 21, donc x² − 10x + 21 = 0, soit (x − 3)(x − 7) = 0. La longueur est 7 cm et la largeur 3 cm.

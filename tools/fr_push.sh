@@ -4,7 +4,7 @@
 set -e
 MSG="${1:-FR: content update}"
 BR=$(git rev-parse --abbrev-ref HEAD)
-FILES="banks/fr-* summaries/fr-* details/fr-* packs/FR.json manifest.json tools/fr_math9_part.json tools/fr_merge.py tools/fr_push.sh tools/README_FR.md"
+FILES="banks/fr-* summaries/fr-* details/fr-* packs/FR.json manifest.json tools/fr_*_part.json tools/fr_merge.py tools/fr_push.sh tools/README_FR.md"
 
 sync() {
   if ! git pull --rebase origin "$BR"; then

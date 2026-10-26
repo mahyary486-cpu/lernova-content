@@ -1,7 +1,8 @@
-# Contenu FR — Mathématiques 3ᵉ (pays : FR, niveau 9)
+# Contenu FR — Mathématiques (pays : FR)
 
 - Langue : français (l’application traduit à la demande).
-- Programme : cycle 4, classe de 3ᵉ (Éducation nationale / Eduscol). Textes rédigés de façon originale à partir du programme officiel ; aucun manuel n’est copié.
-- 8 chapitres, 32 leçons, 240 questions QCM à 4 choix (10 faciles, 10 moyennes, 10 difficiles par chapitre).
-- Fichiers : banks/fr-m9-NN.txt, summaries/fr-m9-NN.json, details/fr-m9-NN-0K.md.
+- Programmes : cycle 4 (3ᵉ) puis lycée (Seconde générale et technologique), Éducation nationale / Eduscol. Textes rédigés de façon originale à partir des programmes officiels ; aucun manuel n’est copié.
+- Niveau 9 (3ᵉ) : fr-m9-NN ; niveau 10 (Seconde) : fr-m10-NN. Chaque niveau : 8 chapitres, 32 leçons, 240 QCM à 4 choix (10 faciles, 10 moyennes, 10 difficiles par chapitre).
+- Fichiers : banks/fr-mG-NN.txt, summaries/fr-mG-NN.json, details/fr-mG-NN-0K.md ; chaque niveau a tools/fr_mathG_part.json.
 - Fichiers partagés modifiés : packs/FR.json (pays FR uniquement) et l’entrée "FR" de manifest.json.
+- Publication : bash tools/fr_push.sh "message"

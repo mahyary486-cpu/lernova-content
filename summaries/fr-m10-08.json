@@ -1,0 +1,6 @@
+{
+ "Variables, types et affectations en Python": "En Python, une variable est un nom associé à une valeur par une affectation (x = 5). Les types usuels sont int (entier), float (décimal), str (texte) et bool (booléen). Les opérateurs +, -, *, /, ** (puissance), // (quotient entier) et % (reste) permettent de calculer.",
+ "Instructions conditionnelles if, elif et else": "Une instruction conditionnelle exécute un bloc seulement si une condition est vraie. En Python : if condition: … elif autre_condition: … else: …. Les blocs sont délimités par l’indentation. Python teste les conditions dans l’ordre et exécute le premier bloc dont la condition est vraie.",
+ "Boucles for et while": "Une boucle for répète un bloc un nombre de fois connu, par exemple for i in range(n). Une boucle while répète un bloc tant qu’une condition est vraie. range(n) génère 0, 1, …, n − 1 ; range(a, b) génère a, …, b − 1 ; range(a, b, p) avance de p en p.",
+ "Fonctions et listes en Python": "Une fonction est définie par def nom(paramètres): et renvoie un résultat avec return. Une liste regroupe plusieurs valeurs entre crochets et se repère par des indices qui commencent à 0. Les fonctions len, max, min et la méthode append sont très utilisées."
+}

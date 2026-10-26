@@ -1,0 +1,6 @@
+{
+ "Ensembles de nombres : entiers, décimaux, rationnels et réels": "Les ensembles usuels de nombres sont ℕ, ℤ, les décimaux, ℚ et ℝ, avec ℕ ⊂ ℤ ⊂ D ⊂ ℚ ⊂ ℝ. Un nombre est rationnel s’il s’écrit a/b avec a et b entiers (b non nul) ; les réels non rationnels, comme √2 et π, sont dits irrationnels.",
+ "Intervalles de ℝ, réunion et intersection": "Un intervalle est un ensemble de réels compris entre deux bornes ; le crochet est tourné vers l’intérieur quand la borne est incluse. La réunion A ∪ B regroupe les éléments de A ou de B, l’intersection A ∩ B ceux qui sont dans A et dans B.",
+ "Valeur absolue et distance entre deux réels": "La valeur absolue d’un réel x, notée ∣x∣, est x si x ≥ 0 et −x si x ≤ 0. La distance entre deux réels a et b est ∣a − b∣. L’inéquation ∣x − a∣ ≤ r équivaut à x ∈ [a − r ; a + r].",
+ "Ordre dans ℝ, encadrements et comparaisons": "Additionner un même réel conserve l’ordre ; multiplier par un réel positif le conserve, par un réel négatif l’inverse. Pour comparer deux nombres, on étudie le signe de leur différence. La fonction carré conserve l’ordre sur les positifs, la fonction inverse l’inverse."
+}

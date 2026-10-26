@@ -1,0 +1,6 @@
+{
+ "Repère du plan : coordonnées, milieu et distance": "Dans un repère orthonormé, le milieu de [AB] a pour coordonnées ((xA + xB)/2 ; (yA + yB)/2) et la distance AB vaut √((xB − xA)² + (yB − yA)²). Cette formule vient du théorème de Pythagore.",
+ "Vecteurs : égalité, somme et relation de Chasles": "Un vecteur est défini par une direction, un sens et une norme. Deux vecteurs sont égaux s’ils ont la même direction, le même sens et la même norme. La relation de Chasles s’écrit AB→ + BC→ = AC→. ABCD est un parallélogramme si et seulement si AB→ = DC→.",
+ "Coordonnées d’un vecteur et opérations": "Si A(xA ; yA) et B(xB ; yB), alors AB→ a pour coordonnées (xB − xA ; yB − yA). La somme et le produit par un réel se calculent coordonnée par coordonnée. La norme de u→(x ; y) est √(x² + y²) dans un repère orthonormé.",
+ "Colinéarité et alignement": "Deux vecteurs u→(x ; y) et v→(x’ ; y’) sont colinéaires si et seulement si xy’ − x’y = 0 (déterminant nul). Trois points A, B, C sont alignés si et seulement si AB→ et AC→ sont colinéaires ; les droites (AB) et (CD) sont parallèles si AB→ et CD→ sont colinéaires."
+}

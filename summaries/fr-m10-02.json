@@ -1,0 +1,6 @@
+{
+ "Résoudre une équation par factorisation": "Pour résoudre une équation de degré supérieur à 1, on met tout dans un membre pour obtenir 0, on factorise, puis on applique la règle du produit nul. L’équation x² = a a deux solutions si a > 0, une si a = 0 et aucune si a < 0.",
+ "Équations avec quotients et valeurs interdites": "Dans une équation qui contient un quotient, il faut d’abord repérer les valeurs interdites, c’est-à-dire celles qui annulent un dénominateur. Un quotient A/B est nul si A = 0 et B ≠ 0. Pour l’égalité de deux quotients, on utilise le produit en croix.",
+ "Signe de ax + b et tableaux de signes": "L’expression ax + b s’annule en x = −b/a et change de signe en cette valeur : pour a > 0 elle est négative avant et positive après, pour a < 0 l’inverse. Un tableau de signes regroupe le signe de chaque facteur et en déduit celui du produit ou du quotient.",
+ "Inéquations produit et quotient": "Pour résoudre une inéquation comme (x − 3)(x + 2) > 0 ou (x − 2)/(x + 1) ≥ 0, on ramène un membre à 0, on factorise, on dresse un tableau de signes et on lit les intervalles solutions. Les valeurs interdites ne sont jamais solutions."
+}

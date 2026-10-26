@@ -9,16 +9,18 @@ Other countries are never modified. Safe to run several times.
 import hashlib, json, os, sys
 
 ROOT = os.getcwd()
-PART = os.path.join(ROOT, "tools", "fr_math9_part.json")
-if not os.path.exists(PART):
-    sys.exit("Run this script from the repo root (tools/fr_math9_part.json not found).")
+import glob
+PARTS = sorted(glob.glob(os.path.join(ROOT, "tools", "fr_*_part.json")))
+if not PARTS:
+    sys.exit("Run this script from the repo root (no tools/fr_*_part.json found).")
 
 def read(p):
     with open(p, "rb") as f:
         return f.read()
 
-part = json.loads(read(PART).decode("utf-8"))
-year = part["year"]
+parts = [json.loads(read(p).decode("utf-8")) for p in PARTS]
+year = parts[0]["year"]
+part = {"year": year, "grades": [g for p in parts for g in p["grades"]]}
 
 pack_path = os.path.join(ROOT, "packs", "FR.json")
 os.makedirs(os.path.dirname(pack_path), exist_ok=True)

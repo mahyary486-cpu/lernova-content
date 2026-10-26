@@ -1,0 +1,6 @@
+{
+ "Vecteur directeur et équation cartésienne d’une droite": "Une droite admet une équation cartésienne ax + by + c = 0 avec (a ; b) ≠ (0 ; 0). Le vecteur (−b ; a) est alors un vecteur directeur de la droite. Réciproquement, une droite de vecteur directeur (−b ; a) a une équation de la forme ax + by + c = 0.",
+ "Équation réduite d’une droite": "Une droite non verticale a une équation réduite y = mx + p, où m est le coefficient directeur et p l’ordonnée à l’origine. Si A(xA ; yA) et B(xB ; yB) sont deux points de la droite avec xA ≠ xB, alors m = (yB − yA)/(xB − xA). Le vecteur (1 ; m) est un vecteur directeur.",
+ "Droites parallèles et sécantes": "Deux droites non verticales sont parallèles si et seulement si elles ont le même coefficient directeur. Deux droites d’équations ax + by + c = 0 et a’x + b’y + c’ = 0 sont parallèles si et seulement si ab’ − a’b = 0 ; elles sont alors confondues ou strictement parallèles.",
+ "Systèmes de deux équations linéaires et intersection de droites": "Résoudre un système de deux équations à deux inconnues revient à chercher l’intersection de deux droites. Si les droites sont sécantes, il y a une solution unique ; si elles sont strictement parallèles, aucune ; si elles sont confondues, une infinité. On résout par substitution ou par combinaison."
+}

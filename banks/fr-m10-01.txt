@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quel nombre n’est pas un entier relatif ?|−4|3/2|0|12|1|Le nombre 3/2 = 1,5 n’est pas entier. Les autres nombres sont des éléments de ℤ.
+Le nombre 1/3 appartient à :|ℤ|ℕ|l’ensemble des décimaux|ℚ mais pas à l’ensemble des décimaux|3|1/3 est un quotient d’entiers, donc rationnel, mais son écriture 0,333… est infinie : il n’est pas décimal.
+Quel nombre est irrationnel ?|π|0,75|−2/3|√49|0|0,75 et −2/3 sont rationnels et √49 = 7 est entier. Le nombre π est irrationnel.
+L’intervalle [2 ; 5[ contient :|5 mais pas 2|2 et 5|2 mais pas 5|ni 2 ni 5|2|Le crochet fermé en 2 inclut 2 et le crochet ouvert en 5 exclut 5.
+Combien vaut ∣−7∣ ?|−7|0|7|1/7|2|La valeur absolue de −7 est son opposé : 7.
+Quelle inclusion est vraie ?|ℤ ⊂ ℚ|ℚ ⊂ ℤ|ℝ ⊂ ℚ|ℚ ⊂ ℕ|0|Tout entier relatif est un rationnel (n = n/1). La réciproque est fausse.
+Comment s’écrit l’ensemble des réels strictement positifs ?|[0 ; +∞[|]−∞ ; 0[|]0 ; +∞]|]0 ; +∞[|3|x > 0 donne ]0 ; +∞[. Le crochet est toujours ouvert en +∞.
+Combien vaut ∣3 − 8∣ ?|−5|5|11|3|1|3 − 8 = −5 et ∣−5∣ = 5.
+Le nombre 0,25 est-il décimal ?|Non, il est irrationnel|Oui, 0,25 = 25/100|Non, c’est un entier|Oui, mais il n’est pas rationnel|1|0,25 a un nombre fini de chiffres après la virgule : il est décimal, donc aussi rationnel.
+Que représente ∣a − b∣ sur la droite numérique ?|La somme de a et b|Le milieu de a et b|Le produit de a par b|La distance entre a et b|3|∣a − b∣ est la distance entre les points d’abscisses a et b.
+Écrire sous forme d’intervalle l’ensemble des réels x tels que −1 ≤ x < 4.|[−1 ; 4[|]−1 ; 4]|[−1 ; 4]|]−1 ; 4[|0|Borne −1 incluse (≤) et borne 4 exclue (<) : [−1 ; 4[.
+Quelle est l’intersection [1 ; 6] ∩ [4 ; 9] ?|[1 ; 9]|[1 ; 4]|[4 ; 6]|[6 ; 9]|2|On garde les réels qui sont dans les deux intervalles : de 4 à 6.
+Quelle est la réunion ]−∞ ; 2] ∪ [2 ; 5[ ?|]−∞ ; 5]|]2 ; 5[|]−∞ ; 5[|]−∞ ; 2[|2|Les deux intervalles se rejoignent en 2 qui est inclus ; on obtient ]−∞ ; 5[.
+Résoudre ∣x∣ = 3.|x = 3 ou x = −3|x = 3 seulement|x = −3 seulement|x = 9 ou x = −9|0|Les deux réels situés à la distance 3 de 0 sont 3 et −3.
+Résoudre ∣x − 2∣ ≤ 3. L’ensemble des solutions est :|[−5 ; 1]|[−1 ; 5[|[2 ; 3]|[−1 ; 5]|3|∣x − 2∣ ≤ 3 équivaut à −3 ≤ x − 2 ≤ 3, donc −1 ≤ x ≤ 5.
+Que vaut ∣2 − π∣ ?|2 − π|π − 2|π + 2|2|1|Comme π > 2, le nombre 2 − π est négatif, donc ∣2 − π∣ = −(2 − π) = π − 2.
+Quel est le plus petit des nombres 2/3, 3/4, 5/8 et 7/10 ?|2/3|5/8|3/4|7/10|1|En décimaux : 0,667 ; 0,75 ; 0,625 ; 0,7. Le plus petit est 5/8.
+Quel encadrement de √10 par deux entiers consécutifs est correct ?|2 < √10 < 3|4 < √10 < 5|3 < √10 < 3,1|3 < √10 < 4|3|3² = 9 < 10 < 16 = 4². De plus √10 ≈ 3,16, donc 3,1 est trop petit.
+Si a < b et c > 0, alors :|ac < bc|ac > bc|a + c > b + c|a/c > b/c|0|Multiplier par un réel positif conserve l’ordre : ac < bc.
+Si a < b, que peut-on dire de −a et −b ?|−a < −b|−a = −b|−a > −b|On ne peut rien dire|2|Multiplier par −1 inverse l’ordre.
+Résoudre ∣x + 1∣ > 2.|]−3 ; 1[|]−∞ ; −1[ ∪ ]2 ; +∞[|]−∞ ; −3[ ∪ ]1 ; +∞[|]−∞ ; −3] ∪ [1 ; +∞[|2|x + 1 > 2 ou x + 1 < −2, donc x > 1 ou x < −3. Les bornes sont exclues car l’inégalité est stricte.
+Quel nombre est rationnel ?|0,121212… (le motif 12 se répète indéfiniment)|√3|π|√2 + 1|0|0,121212… = 12/99 = 4/33 est rationnel. Les autres nombres sont irrationnels.
+Le nombre √2 est irrationnel. Cela signifie que :|il est négatif|son écriture décimale est périodique|il n’est pas un réel|on ne peut pas l’écrire a/b avec a et b entiers|3|Un irrationnel est un réel qui n’est pas le quotient de deux entiers.
+Combien de solutions l’équation ∣x − 1∣ = −2 a-t-elle ?|Une|Aucune|Deux|Une infinité|1|Une valeur absolue est toujours positive ou nulle, elle ne peut pas valoir −2.
+Quel est le milieu de l’intervalle [−3 ; 7] ?|5|2|4|−2|1|Le milieu vaut (−3 + 7)/2 = 2.
+L’ensemble des réels situés à une distance au plus 3 de 5 s’écrit :|[3 ; 5]|]2 ; 8[|[−3 ; 3]|[2 ; 8]|3|∣x − 5∣ ≤ 3 équivaut à 2 ≤ x ≤ 8.
+Comparer 3/7 et 4/9.|3/7 < 4/9|3/7 > 4/9|3/7 = 4/9|On ne peut pas comparer|0|3 × 9 = 27 et 4 × 7 = 28. Comme 27 < 28, on a 3/7 < 4/9.
+Que vaut √((−5)²) ?|−5|±5|5|25|2|√(x²) = ∣x∣, donc √((−5)²) = ∣−5∣ = 5.
+Que vaut ]1 ; 5[ ∩ [5 ; 8] ?|{5}|[1 ; 8]|∅ (l’ensemble vide)|]5 ; 8]|2|Le réel 5 n’appartient pas à ]1 ; 5[, donc les deux intervalles n’ont aucun point commun.
+Si 0 < a < b, comparer 1/a et 1/b.|1/a > 1/b|1/a < 1/b|1/a = 1/b|On ne peut pas comparer|0|La fonction inverse est décroissante sur ]0 ; +∞[ : elle inverse l’ordre.

@@ -1,0 +1,6 @@
+{
+ "Moyenne, médiane et quartiles": "La moyenne résume une série par la somme des valeurs divisée par l’effectif. La médiane partage la série en deux groupes de même effectif ; les quartiles Q1 et Q3 découpent la série en quatre. L’écart interquartile Q3 − Q1 mesure la dispersion autour de la médiane.",
+ "Variance et écart-type": "La variance est la moyenne des carrés des écarts à la moyenne ; l’écart-type est sa racine carrée. L’écart-type mesure la dispersion des valeurs autour de la moyenne, dans la même unité que les valeurs. Ajouter un nombre à toutes les valeurs ne change pas l’écart-type ; multiplier toutes les valeurs par k le multiplie par ∣k∣.",
+ "Probabilités : univers, événements et formule de la réunion": "Une expérience aléatoire a un univers formé de toutes les issues possibles. La probabilité d’un événement est la somme des probabilités des issues qui le réalisent. P(A ∪ B) = P(A) + P(B) − P(A ∩ B), et P(non A) = 1 − P(A). Des événements incompatibles n’ont aucune issue commune.",
+ "Échantillonnage et fluctuation": "Quand on prélève un échantillon de taille n dans une population où la proportion d’un caractère est p, la fréquence observée fluctue autour de p. Pour n ≥ 25 et 0,2 ≤ p ≤ 0,8, elle appartient à l’intervalle [p − 1/√n ; p + 1/√n] avec une probabilité d’au moins 0,95."
+}

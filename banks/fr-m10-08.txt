@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Que fait l’instruction x = 5 en Python ?|Elle teste si x vaut 5|Elle affecte la valeur 5 à la variable x|Elle affiche 5|Elle crée une fonction|1|Le signe = est une affectation.
+Quel est le résultat de 7 // 2 ?|3.5|4|1|3|3|// donne le quotient entier : 7 = 2 × 3 + 1.
+Quel est le résultat de 7 % 2 ?|1|3|3.5|0|0|% donne le reste de la division euclidienne : 1.
+Quel mot-clé permet de tester une condition ?|for|def|if|range|2|L’instruction if exécute un bloc si la condition est vraie.
+Que génère range(4) ?|1, 2, 3, 4|0, 1, 2, 3, 4|0, 1, 2, 3|1, 2, 3|2|range(4) commence à 0 et s’arrête avant 4.
+Quel est le type de la valeur 3.5 ?|float|int|str|bool|0|Un nombre décimal est de type float.
+Quel est le résultat de 2 ** 3 ?|6|5|9|8|3|** désigne la puissance : 2³ = 8.
+Quel opérateur teste l’égalité de deux valeurs ?|=|==|!=|=>|1|== teste l’égalité, = affecte.
+Que fait print('Bonjour') ?|Il lit Bonjour|Il affiche Bonjour|Il définit Bonjour|Il calcule Bonjour|1|print affiche la valeur donnée.
+Quel mot-clé définit une fonction ?|func|fun|return|def|3|On écrit def nom(paramètres):.
+Après x = 3 puis x = x + 2, que vaut x ?|5|3|2|32|0|On remplace x par 3 + 2 = 5.
+Que vaut 10 // 3 + 10 % 3 ?|3|6|4|13|2|10 // 3 = 3 et 10 % 3 = 1, donc la somme vaut 4.
+Combien de fois la boucle for i in range(5) s’exécute-t-elle ?|4|6|5|0|2|Elle prend les valeurs 0, 1, 2, 3, 4 : 5 passages.
+s = 0 puis for i in range(1, 4) : s = s + i. Que vaut s à la fin ?|6|3|10|4|0|1 + 2 + 3 = 6.
+n = 1 puis while n < 10 : n = n * 2. Que vaut n à la fin ?|8|10|32|16|3|n prend 1, 2, 4, 8, 16 et la boucle s’arrête quand n n’est plus inférieur à 10.
+On définit def f(x) : return 2*x + 1. Que vaut f(3) ?|6|7|5|9|1|f(3) = 2 × 3 + 1 = 7.
+Que teste la condition x % 2 == 0 ?|Si x est positif|Si x est pair|Si x vaut 2|Si x est premier|1|Un entier pair a un reste nul dans la division par 2.
+Que contient L après L = [1, 2, 3] puis L.append(4) ?|[4, 1, 2, 3]|[1, 2, 3]|[5]|[1, 2, 3, 4]|3|append ajoute l’élément à la fin de la liste.
+Que vaut len([5, 8, 2]) ?|3|2|8|15|0|len renvoie le nombre d’éléments.
+L = [4, 7, 9]. Que vaut L[1] ?|4|9|7|1|2|Les indices commencent à 0 : L[0] = 4, L[1] = 7.
+x = 10 puis if x > 5 : y = 1, elif x > 8 : y = 2, else : y = 3. Que vaut y ?|2|3|1|0|2|Le premier test x > 5 est vrai : le bloc correspondant est exécuté et les autres sont ignorés.
+s = 0 puis for i in range(1, 6) : s = s + i*i. Que vaut s ?|55|15|30|225|0|1 + 4 + 9 + 16 + 25 = 55.
+Que produit une boucle while True sans instruction d’arrêt ?|Une erreur de syntaxe|Aucun passage|Un seul passage|Une boucle infinie|3|La condition est toujours vraie, donc la boucle ne s’arrête pas.
+Que génère range(2, 10, 3) ?|2, 5, 8, 11|2, 5, 8|3, 6, 9|2, 3, 4|1|On part de 2 et on avance de 3 en 3, en s’arrêtant avant 10.
+def g(n) : s = 0 ; for k in range(n) : s = s + k ; return s. Que vaut g(5) ?|15|10|5|4|1|0 + 1 + 2 + 3 + 4 = 10.
+Quelle instruction renvoie le plus grand élément d’une liste L ?|big(L)|L.max|top(L)|max(L)|3|La fonction max renvoie la plus grande valeur.
+a = 5 et b = 3, puis a, b = b, a. Que valent a et b ?|a = 3 et b = 5|a = 5 et b = 3|a = 3 et b = 3|a = 5 et b = 5|0|L’instruction échange les valeurs des deux variables.
+c = 0 puis for i in range(1, 21) : if i % 3 == 0 : c = c + 1. Que vaut c ?|7|20|6|3|2|Les multiples de 3 entre 1 et 20 sont 3, 6, 9, 12, 15 et 18 : 6 valeurs.
+Quelle boucle affiche 1, 4, 9, 16, 25 ?|for i in range(5) : print(i ** 2)|for i in range(1, 5) : print(i ** 2)|for i in range(1, 6) : print(i ** 2)|for i in range(1, 6) : print(i * 2)|2|i prend les valeurs 1 à 5 et on affiche son carré.
+Que vaut '3' + '4' en Python ?|'34'|7|'7'|Une erreur|0|Le signe + concatène deux textes.

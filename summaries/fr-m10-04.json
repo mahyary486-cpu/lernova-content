@@ -1,0 +1,6 @@
+{
+ "Fonctions affines : variations et signe": "Une fonction affine f(x) = ax + b est croissante si a > 0, décroissante si a < 0 et constante si a = 0. Elle s’annule en x = −b/a. Sa courbe est une droite de coefficient directeur a et d’ordonnée à l’origine b.",
+ "Fonction carré et fonction racine carrée": "La fonction carré x ↦ x² est définie sur ℝ, paire, décroissante sur ]−∞ ; 0] et croissante sur [0 ; +∞[ ; sa courbe est une parabole. La fonction racine carrée x ↦ √x est définie et croissante sur [0 ; +∞[.",
+ "Fonctions inverse et cube": "La fonction inverse x ↦ 1/x est définie sur ℝ privé de 0, impaire, décroissante sur ]−∞ ; 0[ et sur ]0 ; +∞[ ; sa courbe est une hyperbole. La fonction cube x ↦ x³ est définie sur ℝ, impaire et croissante sur ℝ.",
+ "Fonctions polynômes du second degré": "Une fonction polynôme du second degré s’écrit f(x) = ax² + bx + c avec a non nul. Sa courbe est une parabole. Sous forme canonique f(x) = a(x − α)² + β, le sommet est S(α ; β) ; sous forme factorisée f(x) = a(x − x1)(x − x2), les racines sont x1 et x2."
+}

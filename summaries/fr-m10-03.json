@@ -1,0 +1,6 @@
+{
+ "Fonction, ensemble de définition, image et antécédent": "Une fonction f associe à chaque réel x de son ensemble de définition un unique réel f(x). L’ensemble de définition exclut les valeurs qui annulent un dénominateur ou rendent négatif ce qui est sous une racine carrée. Un réel a peut avoir plusieurs antécédents.",
+ "Courbe représentative et résolution graphique": "La courbe représentative de f est l’ensemble des points M(x ; y) tels que y = f(x). On lit graphiquement une image avec une verticale, des antécédents avec une horizontale. Les solutions de f(x) = g(x) sont les abscisses des points d’intersection des courbes.",
+ "Variations, tableau de variations et extremums": "Une fonction est croissante sur un intervalle si elle conserve l’ordre, décroissante si elle l’inverse. Un tableau de variations résume ces informations avec des flèches. Le maximum (ou minimum) est la plus grande (ou plus petite) valeur prise par f.",
+ "Fonctions paires et fonctions impaires": "Une fonction est paire si f(−x) = f(x) pour tout x de son ensemble de définition, symétrique par rapport à l’axe des ordonnées. Elle est impaire si f(−x) = −f(x), symétrique par rapport à l’origine. L’ensemble de définition doit être symétrique par rapport à 0."
+}

@@ -1,0 +1,188 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 10,
+   "country": "FR",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "fr-m10-01",
+     "title": "Ensembles de nombres, intervalles et valeur absolue",
+     "lessons": [
+      {
+       "id": "fr-m10-01-01",
+       "title": "Ensembles de nombres : entiers, décimaux, rationnels et réels"
+      },
+      {
+       "id": "fr-m10-01-02",
+       "title": "Intervalles de ℝ, réunion et intersection"
+      },
+      {
+       "id": "fr-m10-01-03",
+       "title": "Valeur absolue et distance entre deux réels"
+      },
+      {
+       "id": "fr-m10-01-04",
+       "title": "Ordre dans ℝ, encadrements et comparaisons"
+      }
+     ]
+    },
+    {
+     "id": "fr-m10-02",
+     "title": "Équations, inéquations et tableaux de signes",
+     "lessons": [
+      {
+       "id": "fr-m10-02-01",
+       "title": "Résoudre une équation par factorisation"
+      },
+      {
+       "id": "fr-m10-02-02",
+       "title": "Équations avec quotients et valeurs interdites"
+      },
+      {
+       "id": "fr-m10-02-03",
+       "title": "Signe de ax + b et tableaux de signes"
+      },
+      {
+       "id": "fr-m10-02-04",
+       "title": "Inéquations produit et quotient"
+      }
+     ]
+    },
+    {
+     "id": "fr-m10-03",
+     "title": "Généralités sur les fonctions",
+     "lessons": [
+      {
+       "id": "fr-m10-03-01",
+       "title": "Fonction, ensemble de définition, image et antécédent"
+      },
+      {
+       "id": "fr-m10-03-02",
+       "title": "Courbe représentative et résolution graphique"
+      },
+      {
+       "id": "fr-m10-03-03",
+       "title": "Variations, tableau de variations et extremums"
+      },
+      {
+       "id": "fr-m10-03-04",
+       "title": "Fonctions paires et fonctions impaires"
+      }
+     ]
+    },
+    {
+     "id": "fr-m10-04",
+     "title": "Fonctions de référence et polynômes du second degré",
+     "lessons": [
+      {
+       "id": "fr-m10-04-01",
+       "title": "Fonctions affines : variations et signe"
+      },
+      {
+       "id": "fr-m10-04-02",
+       "title": "Fonction carré et fonction racine carrée"
+      },
+      {
+       "id": "fr-m10-04-03",
+       "title": "Fonctions inverse et cube"
+      },
+      {
+       "id": "fr-m10-04-04",
+       "title": "Fonctions polynômes du second degré"
+      }
+     ]
+    },
+    {
+     "id": "fr-m10-05",
+     "title": "Repérage, vecteurs et colinéarité",
+     "lessons": [
+      {
+       "id": "fr-m10-05-01",
+       "title": "Repère du plan : coordonnées, milieu et distance"
+      },
+      {
+       "id": "fr-m10-05-02",
+       "title": "Vecteurs : égalité, somme et relation de Chasles"
+      },
+      {
+       "id": "fr-m10-05-03",
+       "title": "Coordonnées d’un vecteur et opérations"
+      },
+      {
+       "id": "fr-m10-05-04",
+       "title": "Colinéarité et alignement"
+      }
+     ]
+    },
+    {
+     "id": "fr-m10-06",
+     "title": "Droites du plan et systèmes linéaires",
+     "lessons": [
+      {
+       "id": "fr-m10-06-01",
+       "title": "Vecteur directeur et équation cartésienne d’une droite"
+      },
+      {
+       "id": "fr-m10-06-02",
+       "title": "Équation réduite d’une droite"
+      },
+      {
+       "id": "fr-m10-06-03",
+       "title": "Droites parallèles et sécantes"
+      },
+      {
+       "id": "fr-m10-06-04",
+       "title": "Systèmes de deux équations linéaires et intersection de droites"
+      }
+     ]
+    },
+    {
+     "id": "fr-m10-07",
+     "title": "Statistiques, probabilités et échantillonnage",
+     "lessons": [
+      {
+       "id": "fr-m10-07-01",
+       "title": "Moyenne, médiane et quartiles"
+      },
+      {
+       "id": "fr-m10-07-02",
+       "title": "Variance et écart-type"
+      },
+      {
+       "id": "fr-m10-07-03",
+       "title": "Probabilités : univers, événements et formule de la réunion"
+      },
+      {
+       "id": "fr-m10-07-04",
+       "title": "Échantillonnage et fluctuation"
+      }
+     ]
+    },
+    {
+     "id": "fr-m10-08",
+     "title": "Algorithmique et programmation en Python",
+     "lessons": [
+      {
+       "id": "fr-m10-08-01",
+       "title": "Variables, types et affectations en Python"
+      },
+      {
+       "id": "fr-m10-08-02",
+       "title": "Instructions conditionnelles if, elif et else"
+      },
+      {
+       "id": "fr-m10-08-03",
+       "title": "Boucles for et while"
+      },
+      {
+       "id": "fr-m10-08-04",
+       "title": "Fonctions et listes en Python"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
