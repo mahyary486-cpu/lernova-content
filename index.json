@@ -534,6 +534,36 @@
               "title": "Solving logarithmic equations"
             }
           ]
+        },
+        {
+          "id": "g11-ch6",
+          "title": "Sequences and Series",
+          "lessons": [
+            {
+              "id": "g11-ch6-l1",
+              "title": "Sequences and notation"
+            },
+            {
+              "id": "g11-ch6-l2",
+              "title": "Arithmetic sequences"
+            },
+            {
+              "id": "g11-ch6-l3",
+              "title": "Arithmetic series and sigma notation"
+            },
+            {
+              "id": "g11-ch6-l4",
+              "title": "Geometric sequences"
+            },
+            {
+              "id": "g11-ch6-l5",
+              "title": "Finite geometric series"
+            },
+            {
+              "id": "g11-ch6-l6",
+              "title": "Infinite geometric series"
+            }
+          ]
         }
       ],
       "country": "US"
