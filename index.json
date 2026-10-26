@@ -564,6 +564,36 @@
               "title": "Infinite geometric series"
             }
           ]
+        },
+        {
+          "id": "g11-ch7",
+          "title": "Statistics and Probability",
+          "lessons": [
+            {
+              "id": "g11-ch7-l1",
+              "title": "Counting: permutations and combinations"
+            },
+            {
+              "id": "g11-ch7-l2",
+              "title": "Probability rules"
+            },
+            {
+              "id": "g11-ch7-l3",
+              "title": "Conditional probability and independence"
+            },
+            {
+              "id": "g11-ch7-l4",
+              "title": "Describing data: center and spread"
+            },
+            {
+              "id": "g11-ch7-l5",
+              "title": "The normal distribution"
+            },
+            {
+              "id": "g11-ch7-l6",
+              "title": "The binomial distribution"
+            }
+          ]
         }
       ],
       "country": "US"

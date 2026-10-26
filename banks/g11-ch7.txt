@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+A student has 3 shirts and 4 pairs of pants. How many different outfits are possible?|7|9|12|16|2|By the counting principle, 3 * 4 = 12.
+What is 6!?|720|36|120|360|0|6! = 6 * 5 * 4 * 3 * 2 * 1 = 720.
+What is 5P3?|10|15|125|60|3|5P3 = 5 * 4 * 3 = 60.
+What is 5C3?|60|10|15|20|1|5C3 = 5P3 / 3! = 60/6 = 10.
+What is 8C2?|28|56|16|40|0|8C2 = (8 * 7)/2 = 28.
+In how many ways can a committee of 3 be chosen from 7 people?|210|21|35|343|2|Order does not matter, so 7C3 = 35.
+A club picks a president, a vice president and a treasurer from 10 members. How many ways?|120|720|1000|30|1|The jobs are different, so order matters: 10P3 = 10 * 9 * 8 = 720.
+How many different arrangements are there of the letters of BOOK?|24|6|8|12|3|4! = 24, divided by 2! for the two O's gives 12.
+What is the probability of rolling an even number on a fair die?|1/2|1/3|1/6|2/3|0|There are 3 even numbers (2, 4, 6) out of 6.
+What is the probability that two dice add up to 7?|1/12|7/36|1/36|1/6|3|There are 6 favorable outcomes out of 36: 6/36 = 1/6.
+If P(rain) = 0.35, what is P(no rain)?|0.35|0.65|0.75|1.35|1|P(not E) = 1 - P(E) = 1 - 0.35.
+A die is rolled. What is P(2 or 5)?|1/3|1/6|1/36|2/3|0|The events are mutually exclusive: 1/6 + 1/6 = 1/3.
+A card is drawn from a standard deck. What is P(heart or king)?|17/52|1/52|4/13|3/13|2|13/52 + 4/52 - 1/52 = 16/52 = 4/13. The king of hearts must not be counted twice.
+If P(A) = 0.5, P(B) = 0.4 and P(A and B) = 0.2, what is P(A or B)?|0.9|0.7|0.2|0.1|1|0.5 + 0.4 - 0.2 = 0.7.
+A fair coin is flipped 3 times. What is the probability of at least one head?|1/8|3/8|1/2|7/8|3|1 - P(no heads) = 1 - 1/8 = 7/8.
+A spinner lands on blue 18 times in 60 spins. What is the experimental probability of blue?|0.18|0.7|0.3|3.3|2|18/60 = 0.3.
+If A and B are independent, then P(A and B) equals|P(A) + P(B)|P(A) / P(B)|P(A) - P(B)|P(A) * P(B)|3|For independent events the probabilities multiply.
+Two fair coins are flipped. What is the probability that both are heads?|1/2|1/4|1/8|2|1|1/2 * 1/2 = 1/4.
+Two fair dice are rolled. What is the probability that both show 6?|1/36|1/6|1/12|1/18|0|1/6 * 1/6 = 1/36.
+Which formula gives the conditional probability P(B given A)?|P(A and B) / P(B)|P(A) / P(A and B)|P(A and B) / P(A)|P(A) * P(B)|2|The denominator is the probability of the given event A.
+If P(A and B) = 0.2 and P(A) = 0.5, what is P(B given A)?|0.1|0.4|0.7|2.5|1|0.2 / 0.5 = 0.4.
+P(A) = 0.4, P(B) = 0.5 and P(A and B) = 0.2. Are A and B independent?|No, because 0.4 + 0.5 is not 0.2|Yes, because 0.2 is less than 0.4|No, because P(A and B) is not 0|Yes, because 0.4 * 0.5 = 0.2|3|Events are independent when P(A and B) = P(A) * P(B).
+A bag has 5 red and 3 blue marbles. Two are drawn without replacement. What is P(both red)?|25/64|5/8|5/14|1/2|2|5/8 * 4/7 = 20/56 = 5/14.
+Two cards are drawn from a deck without replacement. What is P(both aces)?|1/221|1/169|1/26|1/52|0|4/52 * 3/51 = 12/2652 = 1/221.
+Of 50 students, 30 take Spanish and 20 of those also take art. What is P(art given Spanish)?|2/5|2/3|3/5|1/3|1|20/30 = 2/3. The given group is the Spanish students.
+What is the mean of 2, 4, 4, 6, 9?|5|4|6|25|0|The sum is 25 and 25/5 = 5.
+What is the median of 2, 4, 4, 6, 9?|5|6|4|3|2|The middle value of the ordered list is 4.
+What is the range of 2, 4, 4, 6, 9?|9|7|5|4|1|9 - 2 = 7.
+Which measure is least affected by an outlier?|Mean|Range|Standard deviation|Median|3|The median depends only on the middle of the ordered data.
+What is the IQR of 1, 3, 5, 7, 9, 11, 13, 15?|14|4|8|12|2|Q1 = 4 and Q3 = 12, so IQR = 12 - 4 = 8.
+What is the standard deviation of 2, 4, 4, 4, 5, 5, 7, 9?|2|4|5|3|0|The mean is 5 and the squared deviations add to 32. The variance is 32/8 = 4, so the standard deviation is 2.
+Every value in a data set increases by 10. What happens?|Both increase by 10|The mean stays the same and the standard deviation increases by 10|Both stay the same|The mean increases by 10 and the standard deviation stays the same|3|Shifting every value moves the center but does not change the spread.
+Every value in a data set is multiplied by 3. What happens?|Both the mean and the standard deviation are multiplied by 3|Only the mean is multiplied by 3|Both increase by 3|Neither changes|0|Scaling the data scales the center and the spread.
+With Q3 = 12 and IQR = 8, what is the upper fence Q3 + 1.5 * IQR for outliers?|20|28|24|30|2|12 + 1.5(8) = 12 + 12 = 24.
+In a normal distribution, about what percent of data is within 1 standard deviation of the mean?|50%|68%|95%|99.7%|1|The Empirical Rule: 68% within 1, 95% within 2 and 99.7% within 3.
+In a normal distribution, about what percent of data is within 2 standard deviations of the mean?|68%|99.7%|75%|95%|3|The Empirical Rule gives 95% within 2 standard deviations.
+Scores have mean 70 and standard deviation 5. What is the z-score of 80?|10|0.5|2|-2|2|z = (80 - 70)/5 = 2.
+IQ scores have mean 100 and standard deviation 15. About what percent are between 85 and 115?|68%|95%|34%|50%|0|85 and 115 are within 1 standard deviation of the mean.
+IQ scores have mean 100 and standard deviation 15. About what percent are above 115?|32%|34%|2.5%|16%|3|32% lies outside 1 standard deviation, and half of it is on the upper side.
+A normal distribution has mean 50 and standard deviation 10. Which value has a z-score of 1.5?|51.5|65|15|35|1|x = 50 + 1.5(10) = 65.
+About what percent of a normal distribution lies more than 2 standard deviations above the mean?|5%|16%|2.5%|0.15%|2|5% lies outside 2 standard deviations, and half of it is above.
+What is the total area under a normal curve?|0.5|1|0.95|It depends on the standard deviation|1|The area is always 1, which is 100% of the data.
+Which is a requirement of a binomial experiment?|Trials that depend on each other|Three or more outcomes per trial|A success probability that changes each time|A fixed number of independent trials, each with two outcomes|3|A binomial experiment has n independent trials with the same probability p.
+Which is the binomial probability formula for exactly k successes in n trials?|nPk * p^k * (1 - p)^(n - k)|nCk * p^n * (1 - p)^k|nCk * p^k * (1 - p)^(n - k)|p^k * (1 - p)^(n - k)|2|The nCk factor counts the ways to place the successes.
+A fair coin is flipped 3 times. What is P(exactly 2 heads)?|3/8|1/4|1/8|1/2|0|3C2 * (1/2)^3 = 3/8.
+A fair coin is flipped 5 times. What is P(exactly 3 heads)?|3/16|1/32|5/8|5/16|3|5C3 * (1/2)^5 = 10/32 = 5/16.
+What is the mean of a binomial distribution with n = 100 and p = 0.3?|21|30|70|0.3|1|The mean is np = 100 * 0.3 = 30.
+With n = 3 and p = 0.2, what is P(exactly 1 success)?|0.384|0.2|0.096|0.512|0|3C1 * 0.2 * 0.8^2 = 3 * 0.2 * 0.64 = 0.384.
+With n = 3 and p = 1/2, what is P(at least 1 success)?|1/8|7/8|3/8|1/2|1|1 - P(0 successes) = 1 - 1/8 = 7/8.
+A student guesses on 10 questions, each with 4 choices. What is P(none correct)?|About 0.25|About 0.75|About 0.5|About 0.056|3|P(wrong) = 3/4 each time, and (3/4)^10 is about 0.056.
