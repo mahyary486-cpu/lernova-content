@@ -1,0 +1,18 @@
+{
+ "country": "GB",
+ "name": "United Kingdom",
+ "language": "en",
+ "entries": [
+  {
+   "subject": "Mathematics",
+   "stage": "KS3-KS4 (Years 7-11)",
+   "topic": "National curriculum in England: mathematics programmes of study",
+   "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study",
+   "publisher": "UK Department for Education",
+   "approval": "official",
+   "license": "Open Government Licence",
+   "status": "OK",
+   "checked": "2026-10-28"
+  }
+ ]
+}
