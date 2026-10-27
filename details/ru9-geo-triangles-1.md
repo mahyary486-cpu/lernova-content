@@ -1,14 +1,14 @@
-# Sine, cosine, tangent of angles up to 180°
+# Синус, косинус и тангенс углов от 0° до 180°
 
-For an angle α between 0° and 180°, put it on the unit circle. A point has coordinates (cos α; sin α).
+Для угла α от 0° до 180° расположим его на единичной окружности. Точка на окружности имеет координаты (cos α; sin α).
 
-**Key values.**
+**Основные значения.**
 
 - sin 30° = 1/2, cos 30° = √3/2
 - sin 45° = cos 45° = √2/2
 - sin 60° = √3/2, cos 60° = 1/2
 - sin 90° = 1, cos 90° = 0
 
-**Obtuse angles.** sin(180° − α) = sin α and cos(180° − α) = −cos α. So sin 150° = 1/2, cos 120° = −1/2 and sin 120° = √3/2.
+**Тупые углы.** sin(180° − α) = sin α и cos(180° − α) = −cos α. Поэтому sin 150° = 1/2, cos 120° = −1/2 и sin 120° = √3/2.
 
-**Tangent.** tan α = sin α / cos α, defined for α ≠ 90°. Always sin²α + cos²α = 1.
+**Тангенс.** tan α = sin α / cos α, он определён при α ≠ 90°. Всегда sin²α + cos²α = 1.

@@ -1,9 +1,9 @@
-# Vectors and operations on them
+# Векторы и действия над ними
 
-A **vector** is a directed segment. It has a **length** (magnitude) and a **direction**. Two vectors are **equal** when they have the same length and the same direction, wherever they start.
+**Вектор** — это направленный отрезок. У него есть **длина** (модуль) и **направление**. Два вектора **равны**, если у них одинаковые длины и одинаковые направления, где бы они ни начинались.
 
-**Addition.** To add a and b, place the start of b at the end of a (triangle rule). The sum goes from the start of a to the end of b. For vectors from one point, the parallelogram rule gives the same result.
+**Сложение.** Чтобы сложить a и b, отложите начало b от конца a (правило треугольника). Сумма идёт от начала a к концу b. Для векторов, выходящих из одной точки, правило параллелограмма даёт тот же результат.
 
-**Subtraction.** a − b is a + (−b), where −b has the same length as b but the opposite direction.
+**Вычитание.** a − b — это a + (−b), где вектор −b имеет ту же длину, что и b, но противоположное направление.
 
-**Multiplication by a number k.** The vector ka has length |k| times the length of a. It points the same way if k > 0 and the opposite way if k < 0. Vectors a and b are **collinear** if b = ka for some k.
+**Умножение на число k.** Вектор ka имеет длину, в |k| раз большую длины a. Он направлен так же, как a, при k > 0 и противоположно при k < 0. Векторы a и b **коллинеарны**, если b = ka при некотором k.

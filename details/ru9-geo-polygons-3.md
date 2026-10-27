@@ -1,11 +1,11 @@
-# Circumference and arc length
+# Длина окружности и дуги
 
-The **circumference** of a circle of radius r is C = 2πr. The number π ≈ 3.14 is the ratio of circumference to diameter.
+**Длина окружности** радиуса r равна C = 2πr. Число π ≈ 3,14 — это отношение длины окружности к диаметру.
 
-An arc of α degrees is the fraction α / 360 of the whole circle, so its length is
+Дуга в α градусов составляет α / 360 всей окружности, поэтому её длина равна
 
 l = πrα / 180.
 
-**Examples.** A circle of radius 3 has C = 6π. An arc of 90° on a circle of radius 6 has length π · 6 · 90 / 180 = 3π. If C = 10π then 2πr = 10π and r = 5.
+**Примеры.** У окружности радиуса 3 длина C = 6π. Дуга в 90° на окружности радиуса 6 имеет длину π · 6 · 90 / 180 = 3π. Если C = 10π, то 2πr = 10π и r = 5.
 
-**Radians.** An angle of 180° equals π radians, so α radians gives arc length l = rα.
+**Радианы.** Угол 180° равен π радиан, поэтому для угла α радиан длина дуги равна l = rα.

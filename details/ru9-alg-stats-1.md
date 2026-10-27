@@ -1,11 +1,11 @@
-# Counting rules
+# Правила подсчёта
 
-**Multiplication rule.** If a first choice can be made in m ways and a second choice in n ways, the pair can be made in m · n ways.
+**Правило умножения.** Если первый выбор можно сделать m способами, а второй — n способами, то пару можно выбрать m · n способами.
 
-Example: 3 shirts and 4 pairs of trousers give 3 · 4 = 12 outfits.
+Пример: 3 рубашки и 4 пары брюк дают 3 · 4 = 12 комплектов одежды.
 
-**Addition rule.** If an object can be chosen in m ways or in n other ways (never both), there are m + n ways in total.
+**Правило сложения.** Если объект можно выбрать m способами или n другими способами (но не обоими сразу), то всего способов m + n.
 
-**Tree diagram.** A tree lists every possible sequence of choices. It helps to see that the number of branches is the product of the numbers of choices at each step.
+**Дерево возможных вариантов.** Дерево перечисляет все возможные последовательности выборов. Оно помогает увидеть, что число ветвей равно произведению чисел вариантов на каждом шаге.
 
-A three-digit code made from digits 0–9 with repetition allowed has 10 · 10 · 10 = 1000 options.
+Трёхзначный код из цифр 0–9 с повторениями имеет 10 · 10 · 10 = 1000 вариантов.

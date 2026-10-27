@@ -1,21 +1,21 @@
 #HEHHEHHHEMEMMEMEMEMM
-A card is drawn from a 36-card deck. What is the probability that it is an ace?|1/4|1/9|1/36|1/6|1|There are 4 aces among 36 cards: 4/36 = 1/9.
-What is the mode of 2, 3, 3, 5, 7?|3|2|5|7|0|The value 3 appears twice, more than any other.
-Two fair dice are rolled. What is the probability that the sum is 7?|1/12|1/36|7/36|1/6|3|There are 6 favorable pairs out of 36: 6/36 = 1/6.
-In how many ways can a committee of 3 be chosen from 6 people?|120|18|20|36|2|Order does not matter: C(6, 3) = (6 · 5 · 4) / 6 = 20.
-In how many ways can 3 different objects be ordered?|3|6|9|12|1|3! = 3 · 2 · 1 = 6.
-A fair coin is tossed twice. What is the probability of at least one head?|3/4|1/2|1/4|2/3|0|1 − P(two tails) = 1 − 1/4 = 3/4.
-The mean of 5 numbers is 8. Four of them are 6, 7, 9 and 10. What is the fifth?|9|7|10|8|3|The total is 40 and the four known numbers add up to 32, so the fifth is 8.
-How many three-digit numbers with distinct digits can be made from 1, 2, 3, 4, 5?|125|10|60|120|2|A(5, 3) = 5 · 4 · 3 = 60.
-What is 5! ?|25|120|60|24|1|5! = 5 · 4 · 3 · 2 · 1 = 120.
-What is the range of 3, 8, 1, 12, 6?|11|12|9|1|0|12 − 1 = 11.
-What is the probability of heads on a fair coin?|1|1/4|0|1/2|3|One favorable outcome out of two equally likely outcomes.
-What is the median of 2, 9, 4, 7?|5|6|5.5|4|2|Sorted: 2, 4, 7, 9. The median is (4 + 7) / 2 = 5.5.
-What is the probability of an even number on a fair die?|1/3|1/2|1/6|2/3|1|The even numbers are 2, 4, 6: three out of six.
-What is the probability of rolling a 6 on a fair die?|1/6|1/3|1/2|6|0|One favorable outcome out of six.
-A bag has 3 red and 7 blue balls. What is the probability of drawing a red one?|3/7|7/10|1/3|3/10|3|3 favorable outcomes out of 10 balls.
-What is the mean of 2, 4, 6?|6|3|4|12|2|(2 + 4 + 6) / 3 = 4.
-What is C(5, 2)?|20|10|5|25|1|C(5, 2) = (5 · 4) / 2 = 10.
-What is the median of 1, 3, 5, 7, 9?|5|3|25|7|0|The middle value of the sorted list is 5.
-What is A(5, 2), the number of ordered choices of 2 from 5?|10|25|120|20|3|A(5, 2) = 5 · 4 = 20.
-There are 3 shirts and 4 pairs of trousers. How many outfits are possible?|7|6|12|24|2|By the multiplication rule: 3 · 4 = 12.
+Из колоды в 36 карт вынимают одну карту. Какова вероятность того, что это туз?|1/4|1/9|1/36|1/6|1|В колоде 4 туза из 36 карт: 4/36 = 1/9.
+Чему равна мода чисел 2, 3, 3, 5, 7?|3|2|5|7|0|Число 3 встречается дважды, чаще остальных.
+Бросают две правильные игральные кости. Какова вероятность того, что сумма равна 7?|1/12|1/36|7/36|1/6|3|Благоприятных пар 6 из 36: 6/36 = 1/6.
+Сколькими способами можно выбрать комиссию из 3 человек из 6?|120|18|20|36|2|Порядок не важен: C(6, 3) = (6 · 5 · 4) / 6 = 20.
+Сколькими способами можно упорядочить 3 различных объекта?|3|6|9|12|1|3! = 3 · 2 · 1 = 6.
+Правильную монету бросают дважды. Какова вероятность выпадения хотя бы одного орла?|3/4|1/2|1/4|2/3|0|1 − P(две решки) = 1 − 1/4 = 3/4.
+Среднее пяти чисел равно 8. Четыре из них — 6, 7, 9 и 10. Чему равно пятое?|9|7|10|8|3|Сумма равна 40, а четыре известных числа в сумме дают 32, поэтому пятое число равно 8.
+Сколько трёхзначных чисел с различными цифрами можно составить из цифр 1, 2, 3, 4, 5?|125|10|60|120|2|A(5, 3) = 5 · 4 · 3 = 60.
+Чему равно 5! ?|25|120|60|24|1|5! = 5 · 4 · 3 · 2 · 1 = 120.
+Чему равен размах чисел 3, 8, 1, 12, 6?|11|12|9|1|0|12 − 1 = 11.
+Какова вероятность выпадения орла при броске правильной монеты?|1|1/4|0|1/2|3|Один благоприятный исход из двух равновозможных.
+Чему равна медиана чисел 2, 9, 4, 7?|5|6|5,5|4|2|После упорядочивания: 2, 4, 7, 9. Медиана равна (4 + 7) / 2 = 5,5.
+Какова вероятность выпадения чётного числа на правильной игральной кости?|1/3|1/2|1/6|2/3|1|Чётные числа — 2, 4, 6: три исхода из шести.
+Какова вероятность выпадения шестёрки на правильной игральной кости?|1/6|1/3|1/2|6|0|Один благоприятный исход из шести.
+В мешке 3 красных и 7 синих шаров. Какова вероятность достать красный шар?|3/7|7/10|1/3|3/10|3|3 благоприятных исхода из 10 шаров.
+Чему равно среднее чисел 2, 4, 6?|6|3|4|12|2|(2 + 4 + 6) / 3 = 4.
+Чему равно C(5, 2)?|20|10|5|25|1|C(5, 2) = (5 · 4) / 2 = 10.
+Чему равна медиана чисел 1, 3, 5, 7, 9?|5|3|25|7|0|Среднее значение упорядоченного списка равно 5.
+Чему равно A(5, 2) — число упорядоченных выборов 2 элементов из 5?|10|25|120|20|3|A(5, 2) = 5 · 4 = 20.
+Есть 3 рубашки и 4 пары брюк. Сколько комплектов одежды можно составить?|7|6|12|24|2|По правилу умножения: 3 · 4 = 12.

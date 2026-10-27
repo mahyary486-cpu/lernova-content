@@ -1,13 +1,13 @@
-# Inscribed and circumscribed circles
+# Вписанные и описанные окружности
 
-Every regular polygon has a **circumscribed circle** (through all vertices, radius R) and an **inscribed circle** (touching all sides, radius r). Both have the same center.
+У каждого правильного многоугольника есть **описанная окружность** (проходит через все вершины, радиус R) и **вписанная окружность** (касается всех сторон, радиус r). Центр у них общий.
 
-For a regular n-gon with side a: a = 2R · sin(180° / n) and r = R · cos(180° / n).
+Для правильного n-угольника со стороной a: a = 2R · sin(180° / n) и r = R · cos(180° / n).
 
-**Useful cases.**
+**Полезные случаи.**
 
-- Regular triangle: R = a / √3 and r = R / 2. For a = 6, R = 2√3.
-- Square: R = a√2 / 2 and r = a / 2. For a = 6, R = 3√2 and r = 3.
-- Regular hexagon: R = a and r = a√3 / 2. For a = 6, r = 3√3.
+- Правильный треугольник: R = a / √3 и r = R / 2. При a = 6 получаем R = 2√3.
+- Квадрат: R = a√2 / 2 и r = a / 2. При a = 6 получаем R = 3√2 и r = 3.
+- Правильный шестиугольник: R = a и r = a√3 / 2. При a = 6 получаем r = 3√3.
 
-**Area.** The area of a regular polygon is S = (1/2) · P · r, where P is the perimeter. A regular hexagon with side 4 splits into 6 equilateral triangles, so S = 6 · (√3 / 4) · 16 = 24√3.
+**Площадь.** Площадь правильного многоугольника равна S = (1/2) · P · r, где P — периметр. Правильный шестиугольник со стороной 4 разбивается на 6 равносторонних треугольников, поэтому S = 6 · (√3 / 4) · 16 = 24√3.

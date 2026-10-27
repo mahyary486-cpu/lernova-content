@@ -1,12 +1,12 @@
-# Word problems with equations and systems
+# Текстовые задачи на уравнения и системы
 
-Follow the same plan every time.
+Каждый раз действуйте по одному плану.
 
-1. Choose unknowns and say what they mean.
-2. Translate each condition of the problem into an equation.
-3. Solve the equation or system.
-4. Check that the answer makes sense (lengths are positive, counts are whole numbers).
+1. Введите неизвестные и запишите, что они означают.
+2. Переведите каждое условие задачи в уравнение.
+3. Решите уравнение или систему.
+4. Проверьте, что ответ имеет смысл (длины положительны, количества целые).
 
-**Example.** The sum of two numbers is 10 and their product is 21. Let the numbers be x and y. Then x + y = 10 and xy = 21, so x(10 − x) = 21, x² − 10x + 21 = 0 and x = 3 or 7. The numbers are 3 and 7.
+**Пример.** Сумма двух чисел равна 10, а их произведение равно 21. Пусть числа x и y. Тогда x + y = 10 и xy = 21, откуда x(10 − x) = 21, x² − 10x + 21 = 0 и x = 3 или 7. Искомые числа — 3 и 7.
 
-**Example.** A rectangle has perimeter 28 and area 48. Then a + b = 14 and ab = 48, so a² − 14a + 48 = 0 and the sides are 6 and 8.
+**Пример.** Периметр прямоугольника равен 28, а площадь 48. Тогда a + b = 14 и ab = 48, поэтому a² − 14a + 48 = 0 и стороны равны 6 и 8.

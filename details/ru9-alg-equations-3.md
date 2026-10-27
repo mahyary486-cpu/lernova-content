@@ -1,9 +1,9 @@
-# Systems of equations with two variables
+# Системы уравнений с двумя переменными
 
-A **solution** of a system is a pair (x; y) that satisfies every equation.
+**Решением** системы называют пару (x; y), удовлетворяющую каждому уравнению.
 
-**Substitution.** Express one variable from one equation and put it into the other. For x − y = 1 and xy = 6: x = y + 1, so (y + 1)y = 6, y² + y − 6 = 0, y = 2 or −3. Solutions: (3; 2) and (−2; −3).
+**Подстановка.** Выразите одну переменную из одного уравнения и подставьте в другое. Для x − y = 1 и xy = 6: x = y + 1, (y + 1)y = 6, y² + y − 6 = 0, y = 2 или −3. Решения: (3; 2) и (−2; −3).
 
-**Addition.** Add or subtract equations (after multiplying if needed) to cancel a variable. For 2x + y = 7 and x − y = 2, adding gives 3x = 9, so x = 3 and y = 1.
+**Сложение.** Сложите или вычтите уравнения (при необходимости умножив их на числа), чтобы исключить переменную. Для 2x + y = 7 и x − y = 2 сложение даёт 3x = 9, поэтому x = 3 и y = 1.
 
-**Graphical meaning.** Each equation is a curve; the solutions are the intersection points. A line and a parabola can meet in 0, 1 or 2 points, and y = x² never meets y = −1.
+**Графический смысл.** Каждое уравнение задаёт кривую, а решения — точки их пересечения. Прямая и парабола могут иметь 0, 1 или 2 общие точки, а парабола y = x² никогда не пересекает прямую y = −1.

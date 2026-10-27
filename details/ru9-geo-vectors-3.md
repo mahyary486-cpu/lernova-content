@@ -1,13 +1,13 @@
-# Distance and midpoint formulas
+# Расстояние и середина отрезка
 
-**Distance** between A(x₁; y₁) and B(x₂; y₂) equals the length of the vector AB:
+**Расстояние** между точками A(x₁; y₁) и B(x₂; y₂) равно длине вектора AB:
 
 d = √((x₂ − x₁)² + (y₂ − y₁)²).
 
-Example: A(1; 1) and B(4; 5) give d = √(9 + 16) = 5.
+Пример: для A(1; 1) и B(4; 5) получаем d = √(9 + 16) = 5.
 
-**Midpoint** of AB has coordinates ((x₁ + x₂) / 2; (y₁ + y₂) / 2). For A(2; 4) and B(6; 8) the midpoint is (4; 6).
+**Середина** отрезка AB имеет координаты ((x₁ + x₂) / 2; (y₁ + y₂) / 2). Для A(2; 4) и B(6; 8) середина — точка (4; 6).
 
-If you know the midpoint M and one end A, the other end is B = 2M − A (coordinate by coordinate).
+Если известны середина M и один конец A, то другой конец находят по формуле B = 2M − A (по каждой координате).
 
-**Use in geometry.** Placing a figure in a coordinate plane lets you compute side lengths, perimeters, and test whether a quadrilateral is a parallelogram: ABCD is a parallelogram when the vector AB equals the vector DC.
+**Применение в геометрии.** Если поместить фигуру в координатную плоскость, можно вычислять длины сторон, периметры и проверять, является ли четырёхугольник параллелограммом: ABCD — параллелограмм, когда вектор AB равен вектору DC.

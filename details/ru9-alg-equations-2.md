@@ -1,12 +1,12 @@
-# Fractional rational equations
+# Дробно-рациональные уравнения
 
-A fractional rational equation has the variable in a denominator, for example 6 / x = x + 5.
+В дробно-рациональном уравнении переменная стоит в знаменателе, например 6 / x = x + 5.
 
-1. Find the values of x that make a denominator zero. These are **forbidden**.
-2. Multiply both sides by the common denominator to remove fractions.
-3. Solve the resulting equation.
-4. **Check:** discard every root that is forbidden.
+1. Найдите значения x, при которых знаменатель обращается в нуль. Они **запрещены**.
+2. Умножьте обе части на общий знаменатель, чтобы избавиться от дробей.
+3. Решите получившееся уравнение.
+4. **Проверьте:** отбросьте все запрещённые корни.
 
-**Example.** 6 / x = x + 5, with x ≠ 0. Then 6 = x² + 5x, so x² + 5x − 6 = 0 and x = 1 or x = −6. Both are allowed.
+**Пример.** 6 / x = x + 5 при x ≠ 0. Тогда 6 = x² + 5x, x² + 5x − 6 = 0, x = 1 или x = −6. Оба корня допустимы.
 
-**Remember.** A fraction equals zero only when its numerator is 0 and its denominator is not 0. So (x + 1) / (x − 3) = 0 gives x = −1.
+**Запомните.** Дробь равна нулю только тогда, когда её числитель равен 0, а знаменатель не равен 0. Поэтому (x + 1) / (x − 3) = 0 даёт x = −1.

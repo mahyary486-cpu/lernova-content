@@ -1,13 +1,13 @@
-# The law of sines
+# Теорема синусов
 
-In any triangle the sides are proportional to the sines of the opposite angles:
+В любом треугольнике стороны пропорциональны синусам противолежащих углов:
 
 a / sin A = b / sin B = c / sin C = 2R,
 
-where R is the radius of the circumscribed circle.
+где R — радиус описанной окружности.
 
-**Example 1.** a = 10, A = 30°, B = 45°. Then b = a · sin B / sin A = 10 · (√2/2) / (1/2) = 10√2.
+**Пример 1.** a = 10, A = 30°, B = 45°. Тогда b = a · sin B / sin A = 10 · (√2/2) / (1/2) = 10√2.
 
-**Example 2.** a = 5 and A = 30°. Then 2R = 5 / (1/2) = 10, so R = 5.
+**Пример 2.** a = 5 и A = 30°. Тогда 2R = 5 / (1/2) = 10, поэтому R = 5.
 
-Use the law of sines when you know two angles and a side, or two sides and an angle opposite one of them. Remember that the larger side lies opposite the larger angle.
+Теорему синусов применяют, когда известны два угла и сторона либо две стороны и угол, лежащий против одной из них. Помните: против большего угла лежит большая сторона.

@@ -1,9 +1,9 @@
-# Quadratic function and its graph
+# Квадратичная функция и её график
 
-A **quadratic function** has the form y = ax² + bx + c, where a, b, c are numbers and a ≠ 0. Its graph is a **parabola**.
+**Квадратичной функцией** называют функцию вида y = ax² + bx + c, где a, b, c — числа, a ≠ 0. Её график — **парабола**.
 
-If a > 0 the branches point up; if a < 0 they point down. The number c is the value at x = 0, so the parabola crosses the y-axis at (0, c).
+Если a > 0, ветви параболы направлены вверх; если a < 0 — вниз. Число c — это значение функции при x = 0, поэтому парабола пересекает ось y в точке (0; c).
 
-**Zeros** of the function are the x-values where y = 0. They are the roots of ax² + bx + c = 0. With the discriminant D = b² − 4ac: if D > 0 there are two zeros, if D = 0 one zero, if D < 0 none (the parabola does not touch the x-axis).
+**Нули функции** — значения x, при которых y = 0, то есть корни уравнения ax² + bx + c = 0. По дискриминанту D = b² − 4ac: при D > 0 у функции два нуля, при D = 0 один, при D < 0 нулей нет (парабола не пересекает ось x).
 
-**Example.** y = x² − 6x + 5. Here a = 1 > 0, so the branches go up. D = 36 − 20 = 16, so x = (6 ± 4) / 2, giving zeros 1 and 5. The graph crosses the y-axis at (0, 5).
+**Пример.** y = x² − 6x + 5. Здесь a = 1 > 0, ветви направлены вверх. D = 36 − 20 = 16, x = (6 ± 4) / 2, нули функции — 1 и 5. С осью y график пересекается в точке (0; 5).

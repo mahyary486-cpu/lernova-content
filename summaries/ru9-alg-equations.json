@@ -1,6 +1,6 @@
 {
-  "Equations of higher degree": "Lower the degree by factoring, grouping, or a new variable. A product is zero when a factor is zero. For ax⁴ + bx² + c = 0 put t = x².",
-  "Fractional rational equations": "Find forbidden values, multiply by the common denominator, solve, and discard roots that make a denominator zero.",
-  "Systems of equations with two variables": "Solve by substitution or addition. Solutions are pairs (x; y), and graphically they are the intersection points of the curves.",
-  "Word problems with equations and systems": "Choose unknowns, write equations from the conditions, solve, and check that the answer fits the situation."
+  "Уравнения высших степеней": "Понижайте степень разложением на множители, группировкой или заменой переменной. Произведение равно нулю, когда один из множителей равен нулю. Для ax⁴ + bx² + c = 0 положите t = x².",
+  "Дробно-рациональные уравнения": "Найдите запрещённые значения, умножьте на общий знаменатель, решите уравнение и отбросьте корни, обращающие знаменатель в нуль.",
+  "Системы уравнений с двумя переменными": "Решайте подстановкой или сложением. Решения — пары (x; y), а на графике это точки пересечения кривых.",
+  "Текстовые задачи на уравнения и системы": "Введите неизвестные, запишите уравнения по условиям, решите и проверьте, что ответ подходит по смыслу задачи."
 }

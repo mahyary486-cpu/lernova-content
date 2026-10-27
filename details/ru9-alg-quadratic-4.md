@@ -1,11 +1,11 @@
-# The interval method
+# Метод интервалов
 
-The interval method solves inequalities such as (x − 1)(x + 2)(x − 4) > 0 or (x − 3) / (x + 1) ≤ 0.
+Метод интервалов решает неравенства вида (x − 1)(x + 2)(x − 4) > 0 или (x − 3) / (x + 1) ≤ 0.
 
-1. Move everything to one side so that the other side is 0.
-2. Factor and find all zeros of the numerator and denominator.
-3. Mark them on a number line. Zeros of the denominator are always **excluded**.
-4. Check the sign on the rightmost interval (positive if all factors have the form x − a), then alternate signs when passing a zero of odd multiplicity.
-5. Write the intervals that match the sign in the inequality.
+1. Перенесите всё в одну часть, чтобы в другой был нуль.
+2. Разложите на множители и найдите все нули числителя и знаменателя.
+3. Отметьте их на числовой прямой. Нули знаменателя всегда **исключаются** (выколотые точки).
+4. Определите знак на крайнем правом промежутке (плюс, если все множители имеют вид x − a), затем меняйте знак при переходе через нуль нечётной кратности.
+5. Запишите промежутки, знак которых совпадает со знаком неравенства.
 
-**Example.** (x − 3) / (x + 1) ≤ 0. Critical points: −1 (excluded) and 3 (included, since the sign is ≤). To the right of 3 the sign is +, between −1 and 3 it is −. Answer: (−1; 3].
+**Пример.** (x − 3) / (x + 1) ≤ 0. Критические точки: −1 (исключена) и 3 (включена, так как знак ≤). Справа от 3 знак «+», между −1 и 3 знак «−». Ответ: (−1; 3].

@@ -1,21 +1,21 @@
 #EHEEMMEEHMMMMMEEHHHH
-What is each interior angle of a regular triangle?|90°|45°|120°|60°|3|The sum is 180° and the three angles are equal.
-A regular hexagon has side 4. What is its area?|16√3|48|24√3|12√3|2|It consists of 6 equilateral triangles of side 4, each with area 4√3.
-What is the exterior angle of a regular octagon?|60°|45°|36°|135°|1|360° / 8 = 45°.
-What is each interior angle of a regular hexagon?|120°|108°|135°|90°|0|(6 − 2) · 180° / 6 = 120°.
-A square has side 6. What is the radius of its circumscribed circle?|6|3|6√2|3√2|3|R is half the diagonal: 6√2 / 2 = 3√2.
-A circle has circumference 10π. What is its radius?|10|20|5|2.5|2|2πr = 10π, so r = 5.
-What is the area of a circle with radius 4?|8π|16π|4π|64π|1|S = πr² = π · 16.
-What is the sum of the interior angles of a pentagon?|540°|360°|720°|450°|0|(5 − 2) · 180° = 540°.
-The sum of the interior angles of a convex polygon is 1440°. How many sides does it have?|8|9|12|10|3|(n − 2) · 180 = 1440 gives n − 2 = 8, so n = 10.
-What is the length of a 90° arc on a circle of radius 6?|6π|9π|3π|12π|2|l = π · 6 · 90 / 180 = 3π.
-What is the area of a 60° sector of a circle of radius 6?|12π|6π|36π|3π|1|S = π · 36 · 60 / 360 = 6π.
-What is each interior angle of a regular decagon?|144°|150°|135°|162°|0|(10 − 2) · 180° / 10 = 144°.
-A regular polygon has exterior angle 30°. How many sides does it have?|10|8|6|12|3|n = 360° / 30° = 12.
-A square has side 6. What is the radius of its inscribed circle?|6|3√2|3|12|2|The inscribed circle touches the sides, so r = a / 2 = 3.
-What is the circumference of a circle with radius 3?|3π|6π|9π|12π|1|C = 2πr = 2π · 3 = 6π.
-In a regular hexagon with side a, the circumradius R equals|a|a / 2|2a|a√3|0|A regular hexagon splits into six equilateral triangles with side R, so R = a.
-What is the area of the ring between circles of radii 5 and 3?|4π|34π|8π|16π|3|π(25 − 9) = 16π.
-A regular hexagon has side 6. What is the radius of its inscribed circle?|6|3|3√3|6√3|2|r = a√3 / 2 = 3√3.
-A circle has area 49π. What is the length of a 120° arc?|7π / 3|14π / 3|14π|7π|1|r = 7, so l = π · 7 · 120 / 180 = 14π / 3.
-A regular triangle has side 6. What is the radius of its circumscribed circle?|2√3|3√3|6|√3|0|R = a / √3 = 6 / √3 = 2√3.
+Чему равен каждый внутренний угол правильного треугольника?|90°|45°|120°|60°|3|Сумма углов равна 180°, а три угла равны между собой.
+Сторона правильного шестиугольника равна 4. Чему равна его площадь?|16√3|48|24√3|12√3|2|Он состоит из 6 равносторонних треугольников со стороной 4, площадь каждого равна 4√3.
+Чему равен внешний угол правильного восьмиугольника?|60°|45°|36°|135°|1|360° / 8 = 45°.
+Чему равен каждый внутренний угол правильного шестиугольника?|120°|108°|135°|90°|0|(6 − 2) · 180° / 6 = 120°.
+Сторона квадрата равна 6. Чему равен радиус его описанной окружности?|6|3|6√2|3√2|3|R — половина диагонали: 6√2 / 2 = 3√2.
+Длина окружности равна 10π. Чему равен её радиус?|10|20|5|2,5|2|2πr = 10π, поэтому r = 5.
+Чему равна площадь круга радиуса 4?|8π|16π|4π|64π|1|S = πr² = π · 16.
+Чему равна сумма внутренних углов пятиугольника?|540°|360°|720°|450°|0|(5 − 2) · 180° = 540°.
+Сумма внутренних углов выпуклого многоугольника равна 1440°. Сколько у него сторон?|8|9|12|10|3|(n − 2) · 180 = 1440, откуда n − 2 = 8 и n = 10.
+Чему равна длина дуги в 90° на окружности радиуса 6?|6π|9π|3π|12π|2|l = π · 6 · 90 / 180 = 3π.
+Чему равна площадь сектора в 60° круга радиуса 6?|12π|6π|36π|3π|1|S = π · 36 · 60 / 360 = 6π.
+Чему равен каждый внутренний угол правильного десятиугольника?|144°|150°|135°|162°|0|(10 − 2) · 180° / 10 = 144°.
+Внешний угол правильного многоугольника равен 30°. Сколько у него сторон?|10|8|6|12|3|n = 360° / 30° = 12.
+Сторона квадрата равна 6. Чему равен радиус его вписанной окружности?|6|3√2|3|12|2|Вписанная окружность касается сторон, поэтому r = a / 2 = 3.
+Чему равна длина окружности радиуса 3?|3π|6π|9π|12π|1|C = 2πr = 2π · 3 = 6π.
+В правильном шестиугольнике со стороной a радиус описанной окружности R равен|a|a / 2|2a|a√3|0|Правильный шестиугольник разбивается на шесть равносторонних треугольников со стороной R, поэтому R = a.
+Чему равна площадь кольца между окружностями радиусов 5 и 3?|4π|34π|8π|16π|3|π(25 − 9) = 16π.
+Сторона правильного шестиугольника равна 6. Чему равен радиус вписанной окружности?|6|3|3√3|6√3|2|r = a√3 / 2 = 3√3.
+Площадь круга равна 49π. Чему равна длина дуги в 120°?|7π / 3|14π / 3|14π|7π|1|r = 7, поэтому l = π · 7 · 120 / 180 = 14π / 3.
+Сторона правильного треугольника равна 6. Чему равен радиус описанной окружности?|2√3|3√3|6|√3|0|R = a / √3 = 6 / √3 = 2√3.

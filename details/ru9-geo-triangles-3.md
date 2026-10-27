@@ -1,13 +1,13 @@
-# The law of cosines
+# Теорема косинусов
 
-In a triangle with sides a, b, c and the angle C between a and b:
+В треугольнике со сторонами a, b, c и углом C между сторонами a и b:
 
 c² = a² + b² − 2ab · cos C.
 
-For C = 90° we have cos C = 0, so the law becomes the Pythagorean theorem c² = a² + b².
+При C = 90° имеем cos C = 0, и теорема превращается в теорему Пифагора c² = a² + b².
 
-**Example.** a = 3, b = 8, C = 60°. c² = 9 + 64 − 2 · 24 · (1/2) = 49, so c = 7.
+**Пример.** a = 3, b = 8, C = 60°. c² = 9 + 64 − 2 · 24 · (1/2) = 49, поэтому c = 7.
 
-**Finding an angle.** cos C = (a² + b² − c²) / (2ab). For sides 3, 5, 7 the angle opposite 7 has cos = (9 + 25 − 49) / 30 = −1/2, so it is 120°. A negative cosine means an obtuse angle.
+**Нахождение угла.** cos C = (a² + b² − c²) / (2ab). Для сторон 3, 5, 7 угол против стороны 7 имеет cos = (9 + 25 − 49) / 30 = −1/2, то есть равен 120°. Отрицательный косинус означает тупой угол.
 
-Use this law when you know two sides and the angle between them, or all three sides.
+Эту теорему применяют, когда известны две стороны и угол между ними либо все три стороны.

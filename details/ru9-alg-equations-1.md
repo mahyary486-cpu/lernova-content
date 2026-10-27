@@ -1,9 +1,9 @@
-# Equations of higher degree
+# Уравнения высших степеней
 
-An equation P(x) = 0, where P is a polynomial of degree 3 or higher, is solved by lowering its degree.
+Уравнение P(x) = 0, где P — многочлен степени 3 и выше, решают, понижая его степень.
 
-**Factoring.** Move all terms to one side, factor, and use the rule: a product equals zero when at least one factor equals zero. Example: x³ − 4x = x(x − 2)(x + 2) = 0, so x = 0, 2 or −2.
+**Разложение на множители.** Перенесите все слагаемые в одну часть, разложите на множители и используйте правило: произведение равно нулю, когда хотя бы один из множителей равен нулю. Пример: x³ − 4x = x(x − 2)(x + 2) = 0, откуда x = 0, 2 или −2.
 
-**Grouping.** x³ − 3x² − x + 3 = x²(x − 3) − (x − 3) = (x − 3)(x² − 1), so x = 3, 1 or −1.
+**Группировка.** x³ − 3x² − x + 3 = x²(x − 3) − (x − 3) = (x − 3)(x² − 1), поэтому x = 3, 1 или −1.
 
-**New variable (biquadratic equations).** For ax⁴ + bx² + c = 0 put t = x². Solve at² + bt + c = 0, then solve x² = t for each t ≥ 0. Example: x⁴ − 5x² + 4 = 0 gives t = 1 or 4, so x = ±1 or ±2.
+**Замена переменной (биквадратные уравнения).** Для ax⁴ + bx² + c = 0 положим t = x². Решим at² + bt + c = 0, затем для каждого t ≥ 0 решим x² = t. Пример: x⁴ − 5x² + 4 = 0 даёт t = 1 или 4, то есть x = ±1 или ±2.

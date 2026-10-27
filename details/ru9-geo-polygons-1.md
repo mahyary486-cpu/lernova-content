@@ -1,16 +1,16 @@
-# Regular polygons
+# Правильные многоугольники
 
-A **regular polygon** has all sides equal and all angles equal.
+**Правильный многоугольник** — это многоугольник, у которого все стороны равны и все углы равны.
 
-The sum of the interior angles of any convex n-gon is (n − 2) · 180°. Each interior angle of a regular n-gon is (n − 2) · 180° / n. The exterior angle is 360° / n.
+Сумма внутренних углов любого выпуклого n-угольника равна (n − 2) · 180°. Каждый внутренний угол правильного n-угольника равен (n − 2) · 180° / n, а внешний угол равен 360° / n.
 
-**Examples.**
+**Примеры.**
 
-- Regular triangle: interior angle 60°.
-- Square: 90°.
-- Regular pentagon: sum 540°, each angle 108°.
-- Regular hexagon: each angle 120°.
-- Regular decagon: each angle 144°.
-- Regular octagon: exterior angle 360° / 8 = 45°.
+- Правильный треугольник: внутренний угол 60°.
+- Квадрат: 90°.
+- Правильный пятиугольник: сумма углов 540°, каждый угол 108°.
+- Правильный шестиугольник: каждый угол 120°.
+- Правильный десятиугольник: каждый угол 144°.
+- Правильный восьмиугольник: внешний угол 360° / 8 = 45°.
 
-If the exterior angle is 30°, then n = 360 / 30 = 12 sides.
+Если внешний угол равен 30°, то n = 360 / 30 = 12 сторон.

@@ -1,9 +1,9 @@
-# Dot product and the area of a triangle
+# Скалярное произведение и площадь треугольника
 
-**Area.** The area of a triangle equals half the product of two sides and the sine of the angle between them: S = (1/2) · a · b · sin C. For sides 6 and 8 with 30° between them: S = 0.5 · 6 · 8 · 0.5 = 12.
+**Площадь.** Площадь треугольника равна половине произведения двух сторон на синус угла между ними: S = (1/2) · a · b · sin C. Для сторон 6 и 8 с углом 30° между ними: S = 0,5 · 6 · 8 · 0,5 = 12.
 
-**Dot product.** For vectors a and b with angle θ between them, a · b = |a| · |b| · cos θ. In coordinates, a · b = x₁x₂ + y₁y₂. For (2; 3) and (4; −1): 8 − 3 = 5.
+**Скалярное произведение.** Для векторов a и b с углом θ между ними a · b = |a| · |b| · cos θ. В координатах a · b = x₁x₂ + y₁y₂. Для (2; 3) и (4; −1): 8 − 3 = 5.
 
-**Angle between vectors.** cos θ = (a · b) / (|a| · |b|). For (1; 0) and (1; 1): cos θ = 1 / √2, so θ = 45°.
+**Угол между векторами.** cos θ = (a · b) / (|a| · |b|). Для (1; 0) и (1; 1): cos θ = 1 / √2, поэтому θ = 45°.
 
-**Perpendicular vectors.** a ⊥ b exactly when a · b = 0.
+**Перпендикулярные векторы.** a ⊥ b тогда и только тогда, когда a · b = 0.

@@ -1367,155 +1367,155 @@
       "chapters": [
         {
           "id": "ru9-alg-quadratic",
-          "title": "Quadratic Functions and Inequalities",
+          "title": "Квадратичная функция и неравенства",
           "lessons": [
             {
               "id": "ru9-alg-quadratic-1",
-              "title": "Quadratic function and its graph"
+              "title": "Квадратичная функция и её график"
             },
             {
               "id": "ru9-alg-quadratic-2",
-              "title": "Properties of the parabola"
+              "title": "Свойства параболы"
             },
             {
               "id": "ru9-alg-quadratic-3",
-              "title": "Quadratic inequalities"
+              "title": "Квадратные неравенства"
             },
             {
               "id": "ru9-alg-quadratic-4",
-              "title": "The interval method"
+              "title": "Метод интервалов"
             }
           ]
         },
         {
           "id": "ru9-alg-equations",
-          "title": "Equations and Systems of Equations",
+          "title": "Уравнения и системы уравнений",
           "lessons": [
             {
               "id": "ru9-alg-equations-1",
-              "title": "Equations of higher degree"
+              "title": "Уравнения высших степеней"
             },
             {
               "id": "ru9-alg-equations-2",
-              "title": "Fractional rational equations"
+              "title": "Дробно-рациональные уравнения"
             },
             {
               "id": "ru9-alg-equations-3",
-              "title": "Systems of equations with two variables"
+              "title": "Системы уравнений с двумя переменными"
             },
             {
               "id": "ru9-alg-equations-4",
-              "title": "Word problems with equations and systems"
+              "title": "Текстовые задачи на уравнения и системы"
             }
           ]
         },
         {
           "id": "ru9-alg-progressions",
-          "title": "Sequences and Progressions",
+          "title": "Последовательности и прогрессии",
           "lessons": [
             {
               "id": "ru9-alg-progressions-1",
-              "title": "Number sequences"
+              "title": "Числовые последовательности"
             },
             {
               "id": "ru9-alg-progressions-2",
-              "title": "Arithmetic progression"
+              "title": "Арифметическая прогрессия"
             },
             {
               "id": "ru9-alg-progressions-3",
-              "title": "Geometric progression"
+              "title": "Геометрическая прогрессия"
             },
             {
               "id": "ru9-alg-progressions-4",
-              "title": "Sums of progressions"
+              "title": "Суммы прогрессий"
             }
           ]
         },
         {
           "id": "ru9-geo-vectors",
-          "title": "Vectors and the Method of Coordinates",
+          "title": "Векторы и метод координат",
           "lessons": [
             {
               "id": "ru9-geo-vectors-1",
-              "title": "Vectors and operations on them"
+              "title": "Векторы и действия над ними"
             },
             {
               "id": "ru9-geo-vectors-2",
-              "title": "Coordinates of a vector"
+              "title": "Координаты вектора"
             },
             {
               "id": "ru9-geo-vectors-3",
-              "title": "Distance and midpoint formulas"
+              "title": "Расстояние и середина отрезка"
             },
             {
               "id": "ru9-geo-vectors-4",
-              "title": "Equations of a circle and a line"
+              "title": "Уравнения окружности и прямой"
             }
           ]
         },
         {
           "id": "ru9-geo-triangles",
-          "title": "Solving Triangles",
+          "title": "Решение треугольников",
           "lessons": [
             {
               "id": "ru9-geo-triangles-1",
-              "title": "Sine, cosine, tangent of angles up to 180°"
+              "title": "Синус, косинус и тангенс углов от 0° до 180°"
             },
             {
               "id": "ru9-geo-triangles-2",
-              "title": "The law of sines"
+              "title": "Теорема синусов"
             },
             {
               "id": "ru9-geo-triangles-3",
-              "title": "The law of cosines"
+              "title": "Теорема косинусов"
             },
             {
               "id": "ru9-geo-triangles-4",
-              "title": "Dot product and the area of a triangle"
+              "title": "Скалярное произведение и площадь треугольника"
             }
           ]
         },
         {
           "id": "ru9-geo-polygons",
-          "title": "Regular Polygons and the Circle",
+          "title": "Правильные многоугольники и окружность",
           "lessons": [
             {
               "id": "ru9-geo-polygons-1",
-              "title": "Regular polygons"
+              "title": "Правильные многоугольники"
             },
             {
               "id": "ru9-geo-polygons-2",
-              "title": "Inscribed and circumscribed circles"
+              "title": "Вписанные и описанные окружности"
             },
             {
               "id": "ru9-geo-polygons-3",
-              "title": "Circumference and arc length"
+              "title": "Длина окружности и дуги"
             },
             {
               "id": "ru9-geo-polygons-4",
-              "title": "Area of a circle and of a sector"
+              "title": "Площадь круга и сектора"
             }
           ]
         },
         {
           "id": "ru9-alg-stats",
-          "title": "Combinatorics, Probability and Statistics",
+          "title": "Комбинаторика, вероятность и статистика",
           "lessons": [
             {
               "id": "ru9-alg-stats-1",
-              "title": "Counting rules"
+              "title": "Правила подсчёта"
             },
             {
               "id": "ru9-alg-stats-2",
-              "title": "Permutations, arrangements, combinations"
+              "title": "Перестановки, размещения, сочетания"
             },
             {
               "id": "ru9-alg-stats-3",
-              "title": "Probability of an event"
+              "title": "Вероятность события"
             },
             {
               "id": "ru9-alg-stats-4",
-              "title": "Statistics: mean, median, mode, range"
+              "title": "Статистика: среднее, медиана, мода, размах"
             }
           ]
         }

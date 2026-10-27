@@ -1,6 +1,6 @@
 {
-  "Number sequences": "A sequence is given by a formula for the nth term or by a recurrence rule. It can be increasing or decreasing.",
-  "Arithmetic progression": "Each term adds the common difference d. aₙ = a₁ + (n − 1)d, and each middle term is the mean of its neighbors.",
-  "Geometric progression": "Each term is multiplied by the common ratio q. bₙ = b₁qⁿ⁻¹, and bₙ² = bₙ₋₁bₙ₊₁ for positive terms.",
-  "Sums of progressions": "Arithmetic: Sₙ = (a₁ + aₙ)n / 2. Geometric: Sₙ = b₁(qⁿ − 1) / (q − 1). If |q| < 1 the infinite sum is b₁ / (1 − q)."
+  "Числовые последовательности": "Последовательность задают формулой n-го члена или рекуррентным правилом. Она может быть возрастающей или убывающей.",
+  "Арифметическая прогрессия": "Каждый член получается прибавлением разности d. aₙ = a₁ + (n − 1)d, а каждый средний член равен среднему арифметическому соседних.",
+  "Геометрическая прогрессия": "Каждый член получается умножением на знаменатель q. bₙ = b₁qⁿ⁻¹, а для положительных членов bₙ² = bₙ₋₁bₙ₊₁.",
+  "Суммы прогрессий": "Арифметическая: Sₙ = (a₁ + aₙ)n / 2. Геометрическая: Sₙ = b₁(qⁿ − 1) / (q − 1). Если модуль q меньше 1, сумма бесконечной прогрессии равна b₁ / (1 − q)."
 }

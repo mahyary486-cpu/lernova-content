@@ -1,21 +1,21 @@
 #EMEEHHHEEHMEMMMEHMMH
-In a geometric progression b₁ = 2 and q = 2. What is b₄?|8|16|10|32|1|b₄ = 2 · 2³ = 16.
-In a geometric progression b₁ = 3 and q = −2. What is b₅?|48|−48|24|−24|0|b₅ = 3 · (−2)⁴ = 3 · 16 = 48.
-The formula for the nth term of a geometric progression is|bₙ = b₁ + (n − 1)q|bₙ = b₁ · nq|bₙ = b₁ · qⁿ⁺¹|bₙ = b₁ · qⁿ⁻¹|3|Starting from b₁, we multiply by q exactly n − 1 times.
-A sequence is given by aₙ = 2n + 1. What is a₅?|10|9|11|12|2|a₅ = 2 · 5 + 1 = 11.
-In an arithmetic progression a₁ = 2 and d = 3. What is S₂₀?|590|610|620|300|1|S₂₀ = (2 · 2 + 19 · 3) · 20 / 2 = 61 · 10 = 610.
-What is the sum of the infinite progression 1 + 1/2 + 1/4 + …?|2|1|4|it has no sum|0|S = b₁ / (1 − q) = 1 / (1 − 1/2) = 2.
-Three numbers form an arithmetic progression with sum 15 and smallest number 3. What is the largest?|9|8|10|7|3|The middle number is 15 / 3 = 5, so d = 2 and the largest is 7.
-What is the common difference of 3, 7, 11, …?|3|7|4|11|2|7 − 3 = 4, and 11 − 7 = 4.
-What is the common ratio of 2, 6, 18, …?|2|3|4|6|1|6 / 2 = 3 and 18 / 6 = 3.
-A geometric progression has positive terms with b₂ = 6 and b₄ = 54. What is q?|3|9|4|6|0|b₄ / b₂ = q² = 9, and q > 0, so q = 3.
-In an arithmetic progression a₂ = 7 and a₅ = 16. What is d?|4|9|2|3|3|a₅ − a₂ = 3d, so 9 = 3d and d = 3.
-In an arithmetic progression a₁ = 5 and d = 3. What is a₄?|17|12|14|20|2|a₄ = 5 + 3 · 3 = 14.
-Which term of 5, 10, 15, … equals 100?|19th|20th|21st|25th|1|5n = 100 gives n = 20.
-In an arithmetic progression a₁ = −4 and d = 5. What is a₁₀?|41|46|36|45|0|a₁₀ = −4 + 9 · 5 = 41.
-The numbers x, 7, 13 form an arithmetic progression. What is x?|3|10|0|1|3|The difference is 13 − 7 = 6, so x = 7 − 6 = 1.
-The formula for the nth term of an arithmetic progression is|aₙ = a₁ + nd|aₙ = a₁ · dⁿ⁻¹|aₙ = a₁ + (n − 1)d|aₙ = a₁ + (n + 1)d|2|Starting from a₁, we add d exactly n − 1 times to reach aₙ.
-How many terms of 3, 5, 7, … must be added to get a sum of 120?|11|10|12|8|1|Sₙ = (6 + 2(n − 1)) · n / 2 = n(n + 2) = 120, so n = 10.
-What is the sum of the first 6 terms of the geometric progression 1, 2, 4, …?|63|64|31|32|0|S₆ = (2⁶ − 1) / (2 − 1) = 63.
-What is the sum of the first 10 natural numbers 1 + 2 + … + 10?|50|45|100|55|3|S = (1 + 10) · 10 / 2 = 55.
-The numbers 1, x, 9 form a geometric progression with x > 0. What is x?|5|4.5|3|9|2|x² = 1 · 9 = 9, and x > 0, so x = 3.
+В геометрической прогрессии b₁ = 2, q = 2. Чему равен b₄?|8|16|10|32|1|b₄ = 2 · 2³ = 16.
+В геометрической прогрессии b₁ = 3, q = −2. Чему равен b₅?|48|−48|24|−24|0|b₅ = 3 · (−2)⁴ = 3 · 16 = 48.
+Формула n-го члена геометрической прогрессии —|bₙ = b₁ + (n − 1)q|bₙ = b₁ · nq|bₙ = b₁ · qⁿ⁺¹|bₙ = b₁ · qⁿ⁻¹|3|Начиная с b₁, мы умножаем на q ровно n − 1 раз.
+Последовательность задана формулой aₙ = 2n + 1. Чему равен a₅?|10|9|11|12|2|a₅ = 2 · 5 + 1 = 11.
+В арифметической прогрессии a₁ = 2, d = 3. Чему равна S₂₀?|590|610|620|300|1|S₂₀ = (2 · 2 + 19 · 3) · 20 / 2 = 61 · 10 = 610.
+Чему равна сумма бесконечной прогрессии 1 + 1/2 + 1/4 + …?|2|1|4|суммы не существует|0|S = b₁ / (1 − q) = 1 / (1 − 1/2) = 2.
+Три числа образуют арифметическую прогрессию, их сумма равна 15, а наименьшее число равно 3. Чему равно наибольшее?|9|8|10|7|3|Среднее число равно 15 / 3 = 5, поэтому d = 2, а наибольшее число равно 7.
+Чему равна разность прогрессии 3, 7, 11, …?|3|7|4|11|2|7 − 3 = 4 и 11 − 7 = 4.
+Чему равен знаменатель прогрессии 2, 6, 18, …?|2|3|4|6|1|6 / 2 = 3 и 18 / 6 = 3.
+Геометрическая прогрессия с положительными членами имеет b₂ = 6 и b₄ = 54. Чему равен q?|3|9|4|6|0|b₄ / b₂ = q² = 9, а q > 0, поэтому q = 3.
+В арифметической прогрессии a₂ = 7, a₅ = 16. Чему равна разность d?|4|9|2|3|3|a₅ − a₂ = 3d, поэтому 9 = 3d и d = 3.
+В арифметической прогрессии a₁ = 5, d = 3. Чему равен a₄?|17|12|14|20|2|a₄ = 5 + 3 · 3 = 14.
+Какой по счёту член прогрессии 5, 10, 15, … равен 100?|девятнадцатый|двадцатый|двадцать первый|двадцать пятый|1|5n = 100, откуда n = 20.
+В арифметической прогрессии a₁ = −4, d = 5. Чему равен a₁₀?|41|46|36|45|0|a₁₀ = −4 + 9 · 5 = 41.
+Числа x, 7, 13 образуют арифметическую прогрессию. Чему равен x?|3|10|0|1|3|Разность равна 13 − 7 = 6, поэтому x = 7 − 6 = 1.
+Формула n-го члена арифметической прогрессии —|aₙ = a₁ + nd|aₙ = a₁ · dⁿ⁻¹|aₙ = a₁ + (n − 1)d|aₙ = a₁ + (n + 1)d|2|Начиная с a₁, мы прибавляем d ровно n − 1 раз, чтобы получить aₙ.
+Сколько членов прогрессии 3, 5, 7, … нужно сложить, чтобы получить сумму 120?|11|10|12|8|1|Sₙ = (6 + 2(n − 1)) · n / 2 = n(n + 2) = 120, поэтому n = 10.
+Чему равна сумма первых шести членов геометрической прогрессии 1, 2, 4, …?|63|64|31|32|0|S₆ = (2⁶ − 1) / (2 − 1) = 63.
+Чему равна сумма первых 10 натуральных чисел 1 + 2 + … + 10?|50|45|100|55|3|S = (1 + 10) · 10 / 2 = 55.
+Числа 1, x, 9 образуют геометрическую прогрессию, причём x > 0. Чему равен x?|5|4.5|3|9|2|x² = 1 · 9 = 9, а x > 0, поэтому x = 3.

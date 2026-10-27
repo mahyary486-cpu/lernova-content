@@ -1,6 +1,6 @@
 {
-  "Sine, cosine, tangent of angles up to 180°": "Learn the values for 30°, 45°, 60° and 90°. For obtuse angles sin(180° − α) = sin α and cos(180° − α) = −cos α.",
-  "The law of sines": "a / sin A = b / sin B = c / sin C = 2R. Use it with two angles and a side, or two sides and an opposite angle.",
-  "The law of cosines": "c² = a² + b² − 2ab cos C. It reduces to the Pythagorean theorem at 90° and finds angles from three sides.",
-  "Dot product and the area of a triangle": "S = (1/2)ab sin C. The dot product is |a||b| cos θ = x₁x₂ + y₁y₂, and it is zero exactly for perpendicular vectors."
+  "Синус, косинус и тангенс углов от 0° до 180°": "Запомните значения для 30°, 45°, 60° и 90°. Для тупых углов sin(180° − α) = sin α и cos(180° − α) = −cos α.",
+  "Теорема синусов": "a / sin A = b / sin B = c / sin C = 2R. Применяйте, когда известны два угла и сторона либо две стороны и противолежащий угол.",
+  "Теорема косинусов": "c² = a² + b² − 2ab cos C. При угле 90° она превращается в теорему Пифагора, а по трём сторонам позволяет найти угол.",
+  "Скалярное произведение и площадь треугольника": "S = (1/2)ab sin C. Скалярное произведение равно |a||b| cos θ = x₁x₂ + y₁y₂ и обращается в нуль ровно для перпендикулярных векторов."
 }
