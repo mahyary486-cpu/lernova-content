@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie lautet die Parameterform einer Ebene?|x = p + t · u|x = r · u + s · v · p|x = p + r · u + s · v|x = p · u · v|2|Stützvektor p und zwei Spannvektoren u, v.
+Was sind die Spannvektoren einer Ebene in Parameterform?|zwei parallele Vektoren|zwei nicht parallele Richtungsvektoren in der Ebene|der Nullvektor und ein Einheitsvektor|der Stützvektor und ein Normalenvektor|1|Sie spannen die Ebene auf.
+Was ist ein Normalenvektor einer Ebene?|ein Vektor, der senkrecht auf der Ebene steht|ein Vektor in der Ebene|ein Vektor der Länge 0|ein Vektor, der parallel zur x-Achse ist|0|Er steht senkrecht auf beiden Spannvektoren.
+Wie lautet die Normalenform einer Ebene?|n + (x − p) = 0|n · (x − p) = 0|n · x · p = 0|(n − p) · x = 1|1|Das Skalarprodukt aus n und jedem Vektor in der Ebene ist 0.
+Wie lautet die Koordinatenform einer Ebene?|y = m · x + b|x = p + r · u + s · v|x² + y² + z² = r²|ax + by + cz = d|3|Die Koeffizienten stammen vom Normalenvektor.
+Welcher Vektor ist ein Normalenvektor der Ebene ax + by + cz = d?|(a; b; d)|(x; y; z)|(a; b; c)|(d; d; d)|2|Die Koeffizienten bilden den Normalenvektor.
+Welchen Normalenvektor hat die Ebene 2x + 3y − z = 5?|(5; 5; 5)|(1; 1; 1)|(2; 3; 1)|(2; 3; −1)|3|Man liest die Koeffizienten ab.
+Wie prüft man, ob ein Punkt in einer Ebene liegt?|Man teilt seine Koordinaten durch den Normalenvektor.|Man setzt seine Koordinaten in die Koordinatengleichung ein.|Man berechnet seinen Betrag.|Man berechnet das Kreuzprodukt mit dem Ursprung.|1|Die Gleichung muss erfüllt sein.
+Liegt P(1; 1; 1) in der Ebene x + y + z = 3?|Nein|Das lässt sich nicht entscheiden.|Ja|Nur teilweise|2|1 + 1 + 1 = 3.
+Welche Ebene beschreibt x = 0?|die yz-Ebene|die x-Achse|die xy-Ebene|die xz-Ebene|0|Alle Punkte haben die x-Koordinate 0.
+Welche Ebene beschreibt z = 0?|die yz-Ebene|die z-Achse|die xz-Ebene|die xy-Ebene|3|Alle Punkte haben die z-Koordinate 0.
+Wann sind zwei Ebenen parallel?|wenn ihre Normalenvektoren senkrecht sind|wenn sie einen Punkt gemeinsam haben|wenn ihre Stützvektoren gleich sind|wenn ihre Normalenvektoren Vielfache voneinander sind|3|Sie können identisch oder echt parallel sein.
+Wann stehen zwei Ebenen senkrecht aufeinander?|wenn ihre Stützvektoren gleich sind|wenn sie den Ursprung enthalten|wenn ihre Normalenvektoren parallel sind|wenn ihre Normalenvektoren senkrecht aufeinander stehen|3|Das Skalarprodukt der Normalenvektoren ist 0.
+Welche Lagen sind für eine Gerade und eine Ebene möglich?|schneidend, echt parallel oder die Gerade liegt in der Ebene|windschief, schneidend oder identisch|nur schneidend|nur parallel|0|Windschief gibt es nur bei zwei Geraden.
+Was sind die Spurpunkte einer Ebene?|die Schnittpunkte mit den Koordinatenebenen|die Ursprungspunkte|die Punkte mit negativen Koordinaten|die Schnittpunkte mit den Koordinatenachsen|3|Man setzt jeweils zwei Koordinaten gleich 0.
+Welcher Spurpunkt auf der x-Achse gehört zur Ebene 2x + 3y + 6z = 6?|(3; 0; 0)|(2; 0; 0)|(0; 0; 3)|(6; 0; 0)|0|2x = 6 ergibt x = 3.
+Wie erhält man aus zwei Spannvektoren u und v einen Normalenvektor?|durch Subtraktion u − v|mit dem Skalarprodukt u · v|durch Addition u + v|mit dem Kreuzprodukt u × v|3|Das Kreuzprodukt steht senkrecht auf u und v.
+Welchen Normalenvektor hat die Ebene mit den Spannvektoren u = (1; 0; 1) und v = (0; 1; 1)?|(1; 1; 1)|(−1; −1; 1)|(0; 0; 1)|(1; −1; 0)|1|u × v = (0·1 − 1·1; 1·0 − 1·1; 1·1 − 0·0).
+Wie lautet die Koordinatenform der Ebene durch P(1; 2; 3) mit dem Normalenvektor (1; 1; 1)?|3x + 2y + z = 6|x + y + z = 6|x + y + z = 3|x + y + z = 0|1|d = 1 + 2 + 3 = 6.
+Wie lautet die Ebene durch den Ursprung mit dem Normalenvektor (2; −1; 0)?|x + 2y = 0|2x + y = 0|2x − y = 1|2x − y = 0|3|Der Ursprung liefert d = 0.
+Liegt P(2; 1; 1) auf der Ebene x + 2y − z = 3?|Nein, der Wert ist 4|Nein, der Wert ist 2|Das lässt sich nicht entscheiden.|Ja|3|2 + 2 − 1 = 3.
+Wie liegt die Gerade x = (1; 0; 0) + t · (0; 1; 0) zur Ebene x = 1?|Die Gerade liegt in der Ebene.|Sie ist echt parallel zur Ebene.|Sie ist windschief.|Sie schneidet die Ebene in einem Punkt.|0|Alle Punkte der Geraden haben die x-Koordinate 1.
+Wo schneidet die Gerade x = t · (1; 1; 1) die Ebene x + y + z = 3?|in (3; 3; 3)|in (0; 0; 0)|in (3; 0; 0)|in (1; 1; 1)|3|3t = 3 ergibt t = 1.
+Wie liegt die Gerade x = (0; 0; 1) + t · (1; 0; 0) zur Ebene z = 0?|echt parallel|windschief|schneidend|in der Ebene|0|Der Richtungsvektor ist senkrecht zum Normalenvektor, der Aufpunkt liegt nicht in der Ebene.
+Was bedeutet u · n = 0 für eine Gerade mit Richtung u und eine Ebene mit Normalenvektor n?|Es gibt immer genau einen Schnittpunkt.|Die Gerade schneidet die Ebene unter 45°.|Die Gerade ist parallel zur Ebene oder liegt in ihr.|Die Gerade steht senkrecht auf der Ebene.|2|Der Richtungsvektor liegt dann in der Ebene.
+Wie liegen die Ebenen x + y + z = 1 und 2x + 2y + 2z = 5?|sie sind senkrecht|sie schneiden sich in einer Geraden|echt parallel|identisch|2|Die Normalenvektoren sind Vielfache, die Gleichungen aber nicht.
+Wie liegen die Ebenen x + y + z = 1 und 2x + 2y + 2z = 2?|identisch|sie sind senkrecht|echt parallel|sie schneiden sich in einer Geraden|0|Die zweite Gleichung ist das Doppelte der ersten.
+Welche Schnittgerade haben die Ebenen x = 0 und y = 0?|die x-Achse|die y-Achse|die z-Achse|keine, sie sind parallel|2|Alle Punkte (0; 0; z) liegen in beiden Ebenen.
+Wie liegen die Ebenen x = 0 und y = 0 zueinander?|windschief|senkrecht|identisch|parallel|1|Die Normalenvektoren (1; 0; 0) und (0; 1; 0) sind senkrecht.
+Wie groß ist der Abstand des Ursprungs von der Ebene 3x + 4y = 10?|0,5|10|2|5|2|d : Betrag(n) = 10 : 5 = 2.
+Wie groß ist der Abstand von P(1; 0; 0) zur Ebene x + y + z = 4?|2|3|1|√3 ≈ 1,73|3|Betrag(1 − 4) : √3 = 3 : √3 = √3.
+Wie bestimmt man den Winkel zwischen zwei Ebenen?|als Winkel zwischen ihren Stützvektoren|als Differenz ihrer Normalenvektoren|als Betrag ihrer Gleichungen|als Winkel zwischen ihren Normalenvektoren|3|Man verwendet den spitzen Winkel.
+Welchen Winkel schließen die Ebenen x = 0 und y = 0 ein?|90°|180°|0°|45°|0|Die Normalenvektoren sind senkrecht.
+Wie berechnet man den Winkel φ zwischen einer Geraden mit Richtung u und einer Ebene mit Normalenvektor n?|tan φ = u + n|cos φ = u · n|sin φ = Betrag(u · n) : (Betrag(u) · Betrag(n))|sin φ = u · n · Betrag(n)|2|Der Winkel zur Ebene ist 90° minus der Winkel zum Normalenvektor.
+Wie liegt die Richtung einer Geraden, die senkrecht auf einer Ebene steht?|Sie ist ein Spannvektor der Ebene.|Sie ist der Nullvektor.|Sie ist senkrecht zum Normalenvektor.|Sie ist parallel zum Normalenvektor der Ebene.|3|Die Gerade ist dann eine Lotgerade.
+Wie bestimmt man den Lotfußpunkt von P auf eine Ebene E?|Man berechnet den Mittelpunkt von P und O.|Man schneidet die Lotgerade (Stützpunkt P, Richtung n) mit E.|Man addiert P und n.|Man bildet das Kreuzprodukt von P und n.|1|Die Lotgerade steht senkrecht auf E.
+Wie lautet die Koordinatenform der Ebene durch A(1; 0; 0), B(0; 1; 0) und C(0; 0; 1)?|x − y + z = 1|x + y + z = 1|x + y + z = 3|x + y + z = 0|1|Alle drei Punkte erfüllen die Gleichung.
+Wie lautet die Koordinatenform der Ebene durch A(2; 0; 0), B(0; 3; 0) und C(0; 0; 6)?|2x + 3y + 6z = 6|3x + 2y + z = 1|x + y + z = 11|3x + 2y + z = 6|3|Achsenabschnittsform x/2 + y/3 + z/6 = 1, mit 6 multipliziert.
+Welche Schnittgerade haben die Ebenen x + y + z = 3 und z = 0?|x = (0; 0; 3) + t · (1; −1; 0)|x = (0; 3; 0) + t · (1; −1; 0)|x = (3; 0; 0) + t · (1; 1; 0)|x = (0; 3; 0) + t · (1; 1; 0)|1|Mit z = 0 gilt x + y = 3.
+Wie groß ist der Abstand der parallelen Ebenen x + y + z = 1 und x + y + z = 4?|4/√3|√3 ≈ 1,73|3|1|1|Betrag(4 − 1) : √3 = √3.
+Welchen Winkel schließen die Ebenen x + y + z = 3 und z = 0 ein?|45°|90°|≈ 35,3°|≈ 54,7°|3|cos φ = 1 : √3.
+Welchen Winkel schließt eine Gerade mit der Richtung (1; 1; 1) mit der Ebene z = 0 ein?|60°|≈ 54,7°|≈ 35,3°|45°|2|sin φ = 1 : √3.
+Wie lautet der Spiegelpunkt von P(1; 2; 3) an der Ebene z = 0?|(−1; −2; 3)|(0; 0; 3)|(1; 2; −3)|(1; −2; 3)|2|Nur die z-Koordinate wechselt das Vorzeichen.
+Wie lautet der Lotfußpunkt von P(1; 1; 1) auf die Ebene x + y + z = 0?|(−1; −1; −1)|(1; 1; 1)|(0; 0; 0)|(0; 0; 1)|2|Das Lot (1; 1; 1) + t · (1; 1; 1) trifft die Ebene bei t = −1.
+Wie groß ist der Abstand von P(2; 2; 1) zur Ebene 2x + 2y + z = 0?|9|1/3|3|1|2|Betrag(4 + 4 + 1) : 3 = 3.
+Wie lautet die Ebene parallel zu 2x − y + z = 4 durch P(1; 1; 1)?|2x − y + z = 2|2x − y + z = 4|2x − y + z = 0|x − y + z = 2|0|2 − 1 + 1 = 2.
+Wie legt man eine Ebene durch zwei sich schneidende Geraden fest?|Man wählt den Ursprung als Stützpunkt und den Schnittpunkt als Normalenvektor.|Man bildet das Skalarprodukt der Richtungsvektoren.|Der Schnittpunkt ist Stützvektor, die beiden Richtungsvektoren sind Spannvektoren.|Man addiert die beiden Geraden.|2|So liegen beide Geraden in der Ebene.
+Eine Gerade durch P(1; 2; 3) steht senkrecht auf der Ebene x − y + 2z = 0. Welche Parameterform hat sie?|x = (1; 2; 3) + t · (0; 0; 1)|x = (1; 2; 3) + t · (1; 1; 2)|x = (1; 2; 3) + t · (1; −1; 2)|x = t · (1; 2; 3)|2|Der Richtungsvektor ist der Normalenvektor der Ebene.
+Wie groß ist das Volumen des Tetraeders mit den Eckpunkten O(0; 0; 0), B(1; 0; 0), C(0; 1; 0) und D(0; 0; 1)?|1/2|1|1/6|1/3|2|V = (1/6) · Betrag des Spatprodukts = 1/6.
+Wie groß ist das Volumen des Spats (Quaders) mit den Kantenvektoren (1; 0; 0), (0; 2; 0) und (0; 0; 3)?|6|3|5|1/6|0|Betrag des Spatprodukts: 1 · 2 · 3.

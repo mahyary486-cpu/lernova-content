@@ -2534,6 +2534,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 12,
+      "subject": "Mathematics",
+      "country": "DE",
+      "chapters": [
+        {
+          "id": "de-m12-bv",
+          "title": "Stochastik: Binomialverteilung und Hypothesentests",
+          "lessons": [
+            {
+              "id": "de-m12-bv-01",
+              "title": "Zufallsgrößen, Erwartungswert und Varianz"
+            },
+            {
+              "id": "de-m12-bv-02",
+              "title": "Bernoulli-Ketten und Binomialverteilung"
+            },
+            {
+              "id": "de-m12-bv-03",
+              "title": "Kenngrößen und Rechnen mit der Binomialverteilung"
+            },
+            {
+              "id": "de-m12-bv-04",
+              "title": "Hypothesentests und Normalverteilung"
+            }
+          ]
+        },
+        {
+          "id": "de-m12-eb",
+          "title": "Ebenen im Raum",
+          "lessons": [
+            {
+              "id": "de-m12-eb-01",
+              "title": "Ebenengleichungen"
+            },
+            {
+              "id": "de-m12-eb-02",
+              "title": "Lagebeziehungen von Punkt, Gerade und Ebene"
+            },
+            {
+              "id": "de-m12-eb-03",
+              "title": "Lage von Ebenen und Schnittgeraden"
+            },
+            {
+              "id": "de-m12-eb-04",
+              "title": "Abstände und Winkel"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
