@@ -35,7 +35,7 @@ for pk in sorted(glob.glob('packs/*.json')):
     pf = dict(pf) if not isinstance(pf, dict) else pf
     m = [f for f in pf if not os.path.exists(f)]
     s = [f for f in pf if os.path.exists(f) and pf[f] != fp(f)]
-    pre = 'ir' if 'IR' in pk else 'g'
+    pre = 'ir' if 'IR' in pk else ('g' if 'US' in pk else os.path.basename(pk)[:2].lower())
     unlisted = [f for f in glob.glob('banks/*.txt') + glob.glob('summaries/*.json') + glob.glob('details/*.md')
                 if os.path.basename(f).startswith(pre) and f not in pf]
     say(not (m or s or unlisted), '%s: %d فایل، همه به‌روز' % (os.path.basename(pk), len(pf)) +
