@@ -2,17 +2,107 @@
  "country": "GB",
  "name": "United Kingdom",
  "language": "en",
- "entries": [
+ "source": {
+  "name": "Oak National Academy (public body of the UK Department for Education)",
+  "approval": "official",
+  "license": "Open Government Licence v3.0 (verify on site)"
+ },
+ "reference": {
+  "title": "National curriculum in England: mathematics programmes of study",
+  "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study",
+  "status": "OK",
+  "checked": "2026-10-28"
+ },
+ "grades": [
   {
+   "grade": 9,
    "subject": "Mathematics",
-   "stage": "KS3-KS4 (Years 7-11)",
-   "topic": "National curriculum in England: mathematics programmes of study",
-   "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study",
-   "publisher": "UK Department for Education",
-   "approval": "official",
-   "license": "Open Government Licence",
-   "status": "OK",
-   "checked": "2026-10-28"
+   "topics": [
+    {
+     "title": "Geometrical properties: similarity and Pythagoras' theorem",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/geometrical-properties-similarity-and-pythagoras-theorem/lessons",
+     "lessons": 18,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Probability: possible outcomes",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/probability-possible-outcomes/lessons",
+     "lessons": 14,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Probability: theoretical probabilities",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/probability-theoretical-probabilities/lessons",
+     "lessons": 13,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Non-linear relationships",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/non-linear-relationships/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Expressions and formulae",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/expressions-and-formulae/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Trigonometry",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/trigonometry/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Standard form",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/standard-form/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Graphical representations",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/graphical-representations/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Maths and the environment",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/maths-and-the-environment/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Maths in the workplace",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/maths-in-the-workplace/lessons",
+     "lessons": 18,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Thinking critically with maths",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/thinking-critically-with-maths/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-10-28"
+    },
+    {
+     "title": "Calculator functionality",
+     "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/calculator-functionality/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-10-28"
+    }
+   ]
   }
  ]
 }
