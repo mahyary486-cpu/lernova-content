@@ -2585,6 +2585,80 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "country": "GB",
+      "subject": "Mathematics",
+      "linkOnly": true,
+      "chapters": [
+        {
+          "id": "gb-m9-units",
+          "title": "Official lessons - grade 9",
+          "lessons": [
+            {
+              "id": "gb-m9-geometrical-properties-similarity-and-pythagoras-theorem",
+              "title": "Geometrical properties: similarity and Pythagoras' theorem",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/geometrical-properties-similarity-and-pythagoras-theorem/lessons"
+            },
+            {
+              "id": "gb-m9-probability-possible-outcomes",
+              "title": "Probability: possible outcomes",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/probability-possible-outcomes/lessons"
+            },
+            {
+              "id": "gb-m9-probability-theoretical-probabilities",
+              "title": "Probability: theoretical probabilities",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/probability-theoretical-probabilities/lessons"
+            },
+            {
+              "id": "gb-m9-non-linear-relationships",
+              "title": "Non-linear relationships",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/non-linear-relationships/lessons"
+            },
+            {
+              "id": "gb-m9-expressions-and-formulae",
+              "title": "Expressions and formulae",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/expressions-and-formulae/lessons"
+            },
+            {
+              "id": "gb-m9-trigonometry",
+              "title": "Trigonometry",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/trigonometry/lessons"
+            },
+            {
+              "id": "gb-m9-standard-form",
+              "title": "Standard form",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/standard-form/lessons"
+            },
+            {
+              "id": "gb-m9-graphical-representations",
+              "title": "Graphical representations",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/graphical-representations/lessons"
+            },
+            {
+              "id": "gb-m9-maths-and-the-environment",
+              "title": "Maths and the environment",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/maths-and-the-environment/lessons"
+            },
+            {
+              "id": "gb-m9-maths-in-the-workplace",
+              "title": "Maths in the workplace",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/maths-in-the-workplace/lessons"
+            },
+            {
+              "id": "gb-m9-thinking-critically-with-maths",
+              "title": "Thinking critically with maths",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/thinking-critically-with-maths/lessons"
+            },
+            {
+              "id": "gb-m9-calculator-functionality",
+              "title": "Calculator functionality",
+              "link": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/calculator-functionality/lessons"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
