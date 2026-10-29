@@ -690,6 +690,36 @@
               "title": "Modeling with functions"
             }
           ]
+        },
+        {
+          "id": "g12-ch2",
+          "title": "Polynomial and Rational Functions",
+          "lessons": [
+            {
+              "id": "g12-ch2-l1",
+              "title": "Polynomial inequalities"
+            },
+            {
+              "id": "g12-ch2-l2",
+              "title": "Rational functions: intercepts, holes and asymptotes"
+            },
+            {
+              "id": "g12-ch2-l3",
+              "title": "Rational inequalities"
+            },
+            {
+              "id": "g12-ch2-l4",
+              "title": "Partial fraction decomposition"
+            },
+            {
+              "id": "g12-ch2-l5",
+              "title": "Applications and optimization"
+            },
+            {
+              "id": "g12-ch2-l6",
+              "title": "Descartes' rule of signs and bounds on zeros"
+            }
+          ]
         }
       ],
       "country": "US"

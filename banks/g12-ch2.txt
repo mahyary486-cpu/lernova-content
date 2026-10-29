@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+Solve (x + 2)(x - 1)(x - 4) > 0.|(-infinity, -2) together with (1, 4)|(-2, 4)|(-2, 1) together with (4, infinity)|(-infinity, -2) together with (4, infinity)|2|The product is positive on (-2, 1) and on x > 4, and negative on the other two intervals.
+Solve (x + 2)(x - 1)(x - 4) ≥ 0.|[-2, 1] together with [4, infinity)|(-2, 1) together with (4, infinity)|[-2, 4]|(-infinity, -2] together with [1, 4]|0|The same intervals, now including the zeros -2, 1 and 4.
+What is the first step in solving a polynomial inequality?|Divide both sides by x|Square both sides|Take the logarithm of both sides|Move all terms to one side so the other side is 0|3|The sign analysis needs a comparison with 0.
+Solve x^2 + 1 > 0.|No solution|All real numbers|x > 0|x > 1|1|x^2 + 1 is at least 1 for every real x.
+Solve x^2 + 4 < 0.|No real solution|All real numbers|x < -2|-2 < x < 2|0|x^2 + 4 is always at least 4, so it is never negative.
+Solve x^3 - 4x ≤ 0.|[-2, 0] together with [2, infinity)|(-2, 0) together with (2, infinity)|(-infinity, -2] together with [0, 2]|[-2, 2]|2|x(x - 2)(x + 2) ≤ 0, and the product is negative or zero on x ≤ -2 and on 0 ≤ x ≤ 2.
+Solve x(x - 3)(x + 2) > 0.|(-infinity, -2) together with (0, 3)|(-2, 0) together with (3, infinity)|(-2, 3)|(-infinity, -2) together with (3, infinity)|1|The zeros are -2, 0 and 3. The product is positive on (-2, 0) and on x > 3.
+Solve (x - 1)^2 (x + 3) < 0.|-3 < x < 1|x > -3|x < 1|x < -3|3|(x - 1)^2 is never negative, so the sign is decided by x + 3, which is negative for x < -3.
+What is the hole of f(x) = (x^2 - 4)/(x^2 - x - 6)?|(-2, 4/5)|(2, 0)|(3, 5/4)|(-2, 0)|0|The factor x + 2 cancels. The simplified function (x - 2)/(x - 3) at x = -2 gives 4/5.
+What is the vertical asymptote of f(x) = (x^2 - 4)/(x^2 - x - 6)?|x = -2|x = 2|y = 1|x = 3|3|After cancelling x + 2, the denominator x - 3 remains.
+What is the horizontal asymptote of f(x) = (3x^2 - 1)/(2x^2 + 5)?|y = 0|y = 3/2|y = 2/3|y = 3|1|The degrees are equal, so the asymptote is the ratio of the leading coefficients.
+What is the horizontal asymptote of f(x) = (x + 1)/(x^2 + 1)?|y = 0|y = 1|y = x|There is none|0|The degree of the numerator is smaller than the degree of the denominator.
+What is the slant asymptote of f(x) = (2x^2 + 1)/(x - 1)?|y = 2x - 2|y = 2x|y = 2x + 2|y = x + 2|2|Dividing gives 2x + 2 with remainder 3.
+What is the y-intercept of f(x) = (x - 1)/(x + 2)?|1/2|-1/2|-1|1|1|f(0) = -1/2.
+What is the x-intercept of f(x) = (x - 1)/(x + 2)?|-2|-1|0|1|3|The numerator is 0 at x = 1.
+Which function has a slant asymptote?|f(x) = (x + 1)/x^2|f(x) = x/(x + 1)|f(x) = (x^2 + 1)/x|f(x) = (x^2 + 1)/(x^2 - 1)|2|A slant asymptote occurs when the numerator's degree is exactly one more than the denominator's.
+Solve (x - 1)/(x + 2) ≥ 0.|(-infinity, -2] together with [1, infinity)|(-2, 1]|[-2, 1]|(-infinity, -2) together with [1, infinity)|3|-2 is excluded because it makes the denominator 0, and 1 is included because the inequality is ≥.
+Solve x/(x - 3) < 0.|(-infinity, 0) together with (3, infinity)|(0, 3)|[0, 3]|(0, 3]|1|The fraction is negative between the critical numbers 0 and 3.
+Solve (x + 1)/(x - 2) ≤ 0.|[-1, 2)|[-1, 2]|(-1, 2)|(-infinity, -1] together with (2, infinity)|0|The value 2 is excluded and -1 is included.
+Solve 2/(x - 1) > 1.|(-infinity, 1) together with (3, infinity)|(-infinity, 3)|(1, 3)|(3, infinity)|2|Subtract 1 to get (3 - x)/(x - 1) > 0, which is positive between 1 and 3.
+Solve 1/x ≤ 2.|[1/2, infinity)|(-infinity, 0) together with [1/2, infinity)|(0, 1/2]|(-infinity, 1/2]|1|(1 - 2x)/x ≤ 0 holds for x < 0 and for x ≥ 1/2.
+Why should you not multiply both sides of a rational inequality by x - 1?|It is never allowed to multiply an inequality|It changes the zeros|It makes the denominator zero|The sign of x - 1 is unknown, so the inequality might need to be reversed|3|Multiplying by a negative number reverses the inequality, and x - 1 can be either positive or negative.
+What are the critical numbers of (x - 1)/(x + 2)?|1 only|-2 only|-2 and 1|0 and 1|2|One comes from the denominator (-2) and one from the numerator (1).
+In (x + 1)/(x - 2) ≤ 0, why is x = 2 never included?|It makes the denominator 0|It makes the numerator 0|It makes the fraction positive|It is not a critical number|0|The fraction is undefined at x = 2.
+Solve (x - 2)/(x + 1) > 0.|(-1, 2)|(-infinity, -1) together with (2, infinity)|[2, infinity)|(-infinity, -1] together with [2, infinity)|1|The critical numbers are -1 and 2. The fraction is positive when x < -1 and when x > 2, and both endpoints are excluded because the inequality is strict.
+Write (5x + 7)/((x + 1)(x + 2)) as partial fractions.|2/(x + 1) + 3/(x + 2)|3/(x + 1) + 2/(x + 2)|5/(x + 1) + 7/(x + 2)|2/(x + 1) - 3/(x + 2)|0|5x + 7 = A(x + 2) + B(x + 1) gives A = 2 and B = 3.
+Which form is used for 1/((x - 1)(x + 1)) in partial fractions?|A/((x - 1)(x + 1))|(Ax + B)/(x - 1)|A/(x - 1) + B/(x + 1)|A/(x - 1) * B/(x + 1)|2|Each distinct linear factor gets its own constant over that factor.
+Write 1/((x - 1)(x + 1)) as partial fractions.|(1/2)/(x - 1) + (1/2)/(x + 1)|(1/2)/(x - 1) - (1/2)/(x + 1)|1/(x - 1) - 1/(x + 1)|2/(x - 1) - 2/(x + 1)|1|1 = A(x + 1) + B(x - 1) gives A = 1/2 and B = -1/2.
+In (5x + 7)/((x + 1)(x + 2)) = A/(x + 1) + B/(x + 2), what is A?|3|-2|5|2|3|Substitute x = -1: 5(-1) + 7 = 2 = A(1).
+Write 1/(x(x + 3)) as partial fractions.|(1/3)/x + (1/3)/(x + 3)|1/x - 1/(x + 3)|(1/3)/x - (1/3)/(x + 3)|3/x - 3/(x + 3)|2|1 = A(x + 3) + Bx gives A = 1/3 and B = -1/3.
+What should you do first if the numerator's degree is at least the denominator's?|Divide the polynomials|Cancel the x terms|Factor only the numerator|Use partial fractions immediately|0|The fraction is improper, so divide first and decompose the remainder fraction.
+Write (3x + 1)/(x^2 - x - 2) as partial fractions.|(2/3)/(x - 2) + (7/3)/(x + 1)|(7/3)/(x + 2) + (2/3)/(x - 1)|3/(x - 2) + 1/(x + 1)|(7/3)/(x - 2) + (2/3)/(x + 1)|3|x^2 - x - 2 = (x - 2)(x + 1). Then A = 7/3 (x = 2) and B = 2/3 (x = -1).
+Add: 2/(x + 1) + 3/(x + 2).|(5x + 7)/((x + 1)(x + 2))|5/((x + 1)(x + 2))|(5x + 4)/((x + 1)(x + 2))|5/(2x + 3)|0|2(x + 2) + 3(x + 1) = 5x + 7 over the common denominator.
+Why are partial fractions useful?|They make the denominator larger|They remove the variable|They break a complicated fraction into simpler ones that are easier to work with|They always give a whole number|2|Simple fractions are easier to add, graph and, in calculus, to integrate.
+An open box is made from a 12 in by 18 in sheet by cutting squares of side x from the corners. Which gives its volume?|V = x(12 - x)(18 - x)|V = x(12 - 2x)(18 - 2x)|V = (12 - 2x)(18 - 2x)|V = x(12 - 2x) + (18 - 2x)|1|The height is x, the width is 12 - 2x and the length is 18 - 2x.
+What is the domain of x in the open-box problem for the 12 in by 18 in sheet?|0 < x < 9|x > 0|0 < x < 12|0 < x < 6|3|The width 12 - 2x must be positive, so x < 6.
+In the open-box problem, what is V(2)?|216|160|224|96|2|2 * 8 * 14 = 224.
+About what is the maximum volume of the open box?|228 cubic inches|216 cubic inches|224 cubic inches|252 cubic inches|0|The maximum occurs near x = 2.35 and is about 228.
+A farmer has 100 ft of fence and uses a river as one side. If the sides perpendicular to the river are x, what is the maximum area?|2500 square feet|625 square feet|1000 square feet|1250 square feet|3|A = x(100 - 2x) has its vertex at x = 25, and A = 25 * 50 = 1250.
+A rectangle has perimeter 40. What is its maximum area?|80|100|400|200|1|A = x(20 - x) is largest at x = 10, giving 10 * 10 = 100.
+The average cost per item is C(x) = (50x + 200)/x. What does C(x) approach as x gets very large?|0|200|50|250|2|C(x) = 50 + 200/x, and 200/x gets close to 0.
+The concentration is C(t) = 5t/(t + 10). What does the horizontal asymptote y = 5 mean?|The concentration becomes 0|The concentration levels off near 5 over time|The concentration grows without limit|The concentration is 10 at t = 5|1|As t gets large, 5t/(t + 10) approaches 5.
+What does Descartes' Rule of Signs say about positive zeros?|It equals the degree of the polynomial|It equals the number of terms|It is always exactly one|Their number equals the sign changes in f(x), or less by an even number|3|That is the statement of the rule.
+How many positive zeros can f(x) = x^3 - 2x^2 - 5x + 6 have?|3 or 1|Exactly 1|2 or 0|Exactly 3|2|The signs +, -, -, + have 2 changes.
+How many negative zeros does f(x) = x^3 - 2x^2 - 5x + 6 have?|Exactly 1|2 or 0|3|None|0|f(-x) = -x^3 - 2x^2 + 5x + 6 has signs -, -, +, + with 1 change.
+How many real zeros does f(x) = x^4 + 3x^2 + 2 have?|2|4|Exactly 1|None|3|There are no sign changes in f(x) or in f(-x).
+How many positive zeros does f(x) = x^3 + x - 1 have?|2 or 0|Exactly 1|None|3|1|The signs +, +, - have one change.
+Dividing x^3 - 2x^2 - 5x + 6 by x - 4 gives the bottom row 1, 2, 3, 18. What does this show?|4 is an upper bound for the real zeros|4 is a zero|4 is a lower bound|There are no real zeros|0|c = 4 is positive and the whole bottom row is non-negative.
+Dividing x^3 - 2x^2 - 5x + 6 by x + 3 gives the bottom row 1, -5, 10, -24. What does this show?|-3 is a zero|-3 is a lower bound for the real zeros|-3 is an upper bound|The remainder is 0|1|c = -3 is negative and the signs of the bottom row alternate.
+The zeros of x^3 - 2x^2 - 5x + 6 are 1, -2 and 3. Which interval does the bound test guarantee contains all of them?|[0, 4]|[-2, 2]|[-1, 3]|[-3, 4]|3|The test shows no zero is below -3 or above 4.
