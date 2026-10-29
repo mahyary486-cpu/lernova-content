@@ -594,6 +594,36 @@
               "title": "The binomial distribution"
             }
           ]
+        },
+        {
+          "id": "g11-ch8",
+          "title": "Trigonometry",
+          "lessons": [
+            {
+              "id": "g11-ch8-l1",
+              "title": "Right triangle trigonometry"
+            },
+            {
+              "id": "g11-ch8-l2",
+              "title": "Radians and the unit circle"
+            },
+            {
+              "id": "g11-ch8-l3",
+              "title": "Trigonometric functions of any angle"
+            },
+            {
+              "id": "g11-ch8-l4",
+              "title": "Graphs of trigonometric functions"
+            },
+            {
+              "id": "g11-ch8-l5",
+              "title": "Trigonometric identities"
+            },
+            {
+              "id": "g11-ch8-l6",
+              "title": "Solving trigonometric equations"
+            }
+          ]
         }
       ],
       "country": "US"

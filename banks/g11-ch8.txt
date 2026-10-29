@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+In a right triangle, angle A has opposite side 3, adjacent side 4 and hypotenuse 5. What is sin A?|4/5|3/4|3/5|5/3|2|sin A = opposite/hypotenuse = 3/5.
+In the same triangle (opposite 3, adjacent 4, hypotenuse 5), what is tan A?|3/4|4/3|3/5|4/5|0|tan A = opposite/adjacent = 3/4.
+What is sin 30°?|sqrt(3)/2|sqrt(2)/2|1|1/2|3|In a 30-60-90 triangle the side opposite 30° is half the hypotenuse.
+What is tan 45°?|0|1|sqrt(2)/2|sqrt(3)|1|In a 45-45-90 triangle the opposite and adjacent sides are equal.
+What is cos 60°?|1/2|sqrt(3)/2|sqrt(3)/3|2|0|cos 60° = sin 30° = 1/2.
+A right triangle has hypotenuse 10 and an angle of 30°. How long is the side opposite the 30° angle?|5 sqrt(3)|10 sqrt(3)|5|20|2|opposite = 10 * sin 30° = 10 * 1/2 = 5.
+Which expression is equal to sin 20°?|cos 20°|cos 70°|tan 70°|sin 70°|1|Cofunctions: sin θ = cos(90° - θ), so sin 20° = cos 70°.
+You stand 50 ft from a tower. The angle of elevation to its top is 30°. About how tall is the tower?|25 ft|43.3 ft|86.6 ft|28.9 ft|3|height = 50 * tan 30° = 50 * sqrt(3)/3, about 28.9 ft.
+How many radians are equal to 180°?|π|2π|π/2|180|0|A half circle is π radians.
+What is 90° in radians?|π/4|π|3π/2|π/2|3|90 * π/180 = π/2.
+What is 150° in radians?|2π/3|5π/6|3π/4|5π/3|1|150 * π/180 = 5π/6.
+What is 3π/4 radians in degrees?|135°|120°|145°|270°|0|(3π/4)(180/π) = 135°.
+A circle has radius 5. What is the length of an arc with central angle 2 radians?|7|2.5|10|25|2|s = rθ = 5 * 2 = 10.
+What is the point on the unit circle at 60°?|(sqrt(3)/2, 1/2)|(1/2, sqrt(3)/2)|(sqrt(2)/2, sqrt(2)/2)|(1/2, 1/2)|1|The point is (cos 60°, sin 60°).
+What is cos π?|0|1|π|-1|3|At π the point on the unit circle is (-1, 0).
+A sector has radius 4 and central angle π/2. What is its area?|2π|8π|4π|16π|2|A = (1/2) r² θ = (1/2)(16)(π/2) = 4π.
+In which quadrant are sine positive and cosine negative?|Quadrant I|Quadrant III|Quadrant IV|Quadrant II|3|In QII x is negative and y is positive.
+What is the reference angle of 150°?|150°|30°|60°|210°|1|The acute angle to the x-axis is 180° - 150° = 30°.
+What is sin 150°?|1/2|-1/2|sqrt(3)/2|-sqrt(3)/2|0|The reference angle is 30° and sine is positive in QII.
+What is cos 225°?|sqrt(2)/2|-1/2|-sqrt(2)/2|-sqrt(3)/2|2|The reference angle is 45° and cosine is negative in QIII.
+What is tan 300°?|sqrt(3)|-sqrt(3)|-sqrt(3)/3|-1|1|The reference angle is 60°, and tangent is negative in QIV.
+Which angle is coterminal with 400°?|220°|-40°|140°|40°|3|400° - 360° = 40°.
+The terminal side of θ passes through (-3, 4). What is sin θ?|-4/5|3/5|4/5|-3/5|2|r = sqrt(9 + 16) = 5, so sin θ = y/r = 4/5.
+sin θ = 3/5 and θ is in quadrant II. What is cos θ?|-4/5|4/5|3/4|-3/4|0|The adjacent side is 4, and cosine is negative in QII.
+What is sin(-30°)?|1/2|-1/2|sqrt(3)/2|-sqrt(3)/2|1|sin(-θ) = -sin θ, so sin(-30°) = -sin 30° = -1/2.
+What is the amplitude of y = 3 sin x?|3|1|6|2π|0|The amplitude is the absolute value of the coefficient.
+What is the period of y = sin 2x?|2π|4π|π|π/2|2|Period = 2π/B = 2π/2 = π.
+What is the period of y = cos(x/2)?|π|4π|2π|π/2|1|B = 1/2, so the period is 2π/(1/2) = 4π.
+What is the midline of y = 2 sin x + 1?|y = 2|y = 0|x = 1|y = 1|3|The midline is y = D, the number added at the end.
+What is the range of y = 2 sin x - 3?|-1 ≤ y ≤ 1|-3 ≤ y ≤ 3|-5 ≤ y ≤ -1|-2 ≤ y ≤ 2|2|The midline is -3 and the amplitude is 2, so y goes from -5 to -1.
+How is the graph of y = sin(x - π/2) related to the graph of y = sin x?|Shifted right π/2|Shifted left π/2|Shifted up π/2|Shifted right π|0|x - C shifts the graph C units to the right.
+What is the period of y = tan x?|2π|π/2|4π|π|3|The tangent function repeats every π.
+What are the amplitude and period of y = 4 cos 3x?|Amplitude 4, period 2π/3|Amplitude 3, period π/2|Amplitude 4, period 6π|Amplitude 12, period 2π/3|0|Amplitude = 4 and period = 2π/3.
+What is the maximum value of y = 2 sin(x - π/2) + 1?|2|4|3|1|2|The maximum is the midline plus the amplitude: 1 + 2 = 3.
+Which is the Pythagorean identity?|sin θ + cos θ = 1|sin² θ + cos² θ = 1|sin² θ - cos² θ = 1|sin² θ + cos² θ = 0|1|For a point on the unit circle, x² + y² = 1.
+Which identity is correct?|tan θ = cos θ / sin θ|tan θ = sin θ * cos θ|tan θ = 1 / sin θ|tan θ = sin θ / cos θ|3|Tangent is sine divided by cosine.
+What does sec θ equal?|1 / sin θ|1 / tan θ|1 / cos θ|cos θ / sin θ|2|Secant is the reciprocal of cosine.
+Simplify sec θ cos θ.|1|sin θ|tan θ|0|0|(1/cos θ)(cos θ) = 1.
+What does 1 - cos² θ equal?|tan² θ|sin θ|1 - sin² θ|sin² θ|3|From sin² θ + cos² θ = 1.
+sin θ = 3/5 and θ is in quadrant I. What is cos θ?|3/4|4/5|2/5|5/4|1|cos² θ = 1 - 9/25 = 16/25, and cosine is positive in QI.
+If sin θ = 3/5 and cos θ = 4/5, what is sin 2θ?|6/5|12/25|24/25|7/25|2|sin 2θ = 2 sin θ cos θ = 2(3/5)(4/5) = 24/25.
+What is sin 75°, using 75° = 45° + 30°?|(sqrt(6) - sqrt(2))/4|(sqrt(6) + sqrt(2))/4|sqrt(3)/2|(sqrt(2) + sqrt(3))/4|1|sin 45° cos 30° + cos 45° sin 30° = (sqrt(6) + sqrt(2))/4.
+Solve sin x = 1/2 on [0, 2π).|x = π/6 and x = 7π/6|x = π/3 and x = 2π/3|x = π/6 only|x = π/6 and x = 5π/6|3|Sine is positive in QI and QII with reference angle π/6.
+Solve cos x = 1/2 on [0, 2π).|x = π/3 and x = 2π/3|x = π/6 and x = 11π/6|x = π/3 and x = 5π/3|x = π/3 only|2|Cosine is positive in QI and QIV with reference angle π/3.
+Solve tan x = 1 on [0, 2π).|x = π/4 and x = 5π/4|x = π/4 and x = 3π/4|x = π/4 only|x = π/4 and x = 7π/4|0|Tangent is positive in QI and QIII.
+Solve sin x = 2.|x = π/2|x = 2|x = 2π|No solution|3|The sine of an angle is never greater than 1.
+Solve cos x = -sqrt(2)/2 on [0, 2π).|x = π/4 and x = 7π/4|x = 3π/4 and x = 5π/4|x = 3π/4 and x = 7π/4|x = 5π/6 and x = 7π/6|1|Cosine is negative in QII and QIII with reference angle π/4.
+Solve 2 sin² x - sin x - 1 = 0 on [0, 2π).|x = π/2, 7π/6, 11π/6|x = π/2 only|x = π/6, 5π/6|x = 3π/2, 7π/6|0|Factor (2 sin x + 1)(sin x - 1) = 0, so sin x = -1/2 or sin x = 1.
+Solve 2 cos² x = cos x on [0, 2π).|x = π/3 and x = 5π/3 only|x = π/3, π/2, 3π/2, 5π/3|x = 0 and x = π|x = π/6 and x = 5π/6|1|Factor cos x (2 cos x - 1) = 0. Dividing by cos x would lose the solutions π/2 and 3π/2.
+Solve sin 2x = sqrt(3)/2 on [0, 2π).|x = π/6 and x = 5π/6|x = π/3 and x = 2π/3|x = π/6 and x = π/3|x = π/6, π/3, 7π/6, 4π/3|3|2x = π/3, 2π/3, 7π/3, 8π/3 on [0, 4π). Divide by 2.
