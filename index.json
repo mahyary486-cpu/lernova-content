@@ -660,7 +660,38 @@
       "grade": 12,
       "subject": "Mathematics",
       "course": "Pre-Calculus",
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "g12-ch1",
+          "title": "Functions and Their Properties",
+          "lessons": [
+            {
+              "id": "g12-ch1-l1",
+              "title": "Increasing, decreasing and extrema"
+            },
+            {
+              "id": "g12-ch1-l2",
+              "title": "Average rate of change"
+            },
+            {
+              "id": "g12-ch1-l3",
+              "title": "Even and odd functions"
+            },
+            {
+              "id": "g12-ch1-l4",
+              "title": "Piecewise functions and continuity"
+            },
+            {
+              "id": "g12-ch1-l5",
+              "title": "Combining transformations"
+            },
+            {
+              "id": "g12-ch1-l6",
+              "title": "Modeling with functions"
+            }
+          ]
+        }
+      ],
       "country": "US"
     },
     {

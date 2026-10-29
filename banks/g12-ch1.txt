@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+On which interval is f(x) = x^2 - 4x + 3 decreasing?|(2, infinity)|(-infinity, -2)|(-infinity, 2)|(-infinity, 3)|2|The vertex is at x = 2 and the parabola opens up, so it falls to the left of x = 2.
+What is the minimum value of f(x) = x^2 - 4x + 3?|-1|3|2|0|0|The vertex is (2, -1), and the minimum value is the y-coordinate -1.
+What is the absolute maximum of f(x) = -x^2 + 4?|0|2|-4|4|3|The parabola opens down with its vertex at (0, 4).
+On which interval is f(x) = abs(x - 1) increasing?|(-infinity, 1)|(1, infinity)|(-1, infinity)|All real numbers|1|The V-shape has its vertex at x = 1 and rises to the right of it.
+Which function is increasing on its entire domain?|f(x) = x^3|f(x) = x^2|f(x) = abs(x)|f(x) = x^4|0|x^3 always rises. The others fall for negative x.
+For f(x) = x^3 - 3x we have f(-1) = 2 and f(1) = -2. Where is the local maximum?|x = 1|x = 2|x = -1|x = -2|2|The graph rises to a peak at x = -1, then falls to a valley at x = 1.
+A function f is increasing and f(1) = 5. Which statement must be true?|f(2) is less than 5|f(2) is greater than 5|f(0) is greater than 5|f(2) equals 5|1|For an increasing function, a larger input gives a larger output.
+What is the greatest possible number of turning points of a polynomial of degree 4?|4|2|5|3|3|A polynomial of degree n has at most n - 1 turning points.
+Which expression gives the average rate of change of f from x = a to x = b?|(f(b) - f(a)) / (b - a)|(f(b) + f(a)) / (b + a)|(b - a) / (f(b) - f(a))|f(b) - f(a)|0|It is the change in output divided by the change in input.
+What is the average rate of change of f(x) = x^2 from x = 1 to x = 3?|8|2|5|4|3|(9 - 1)/(3 - 1) = 8/2 = 4.
+What is the average rate of change of f(x) = 3x + 2 on [0, 10]?|32|3|2|10|1|For a linear function, the average rate of change is the slope.
+What is the average rate of change of f(x) = 2^x from x = 0 to x = 3?|7/3|8/3|7|3|0|(8 - 1)/(3 - 0) = 7/3.
+What is the average rate of change of f(x) = sqrt(x) from x = 1 to x = 9?|1/2|2|1/4|1/8|2|(3 - 1)/(9 - 1) = 2/8 = 1/4.
+For f(x) = x^2, what does the difference quotient (f(x + h) - f(x))/h simplify to?|2x|2x + h|x + h|2xh|1|(x^2 + 2xh + h^2 - x^2)/h = (2xh + h^2)/h = 2x + h.
+What is the average rate of change of f(x) = x^2 - 2x from x = -1 to x = 2?|1|-3|3|-1|3|f(-1) = 3 and f(2) = 0, so (0 - 3)/(2 - (-1)) = -1.
+A ball is at height 0 ft at 0 s and 20 ft at 2 s. What is the average rate of change of its height?|40 ft/s|20 ft/s|10 ft/s|5 ft/s|2|20 ft divided by 2 s is 10 ft per second.
+A function is even if|f(-x) = -f(x)|f(-x) = 1/f(x)|f(x + 1) = f(x)|f(-x) = f(x)|3|Even functions give the same output for x and -x.
+The graph of an even function is symmetric about|The x-axis|The y-axis|The origin|The line y = x|1|Replacing x with -x does not change the graph, so it mirrors across the y-axis.
+Which function is odd?|f(x) = x^3|f(x) = x^2|f(x) = abs(x)|f(x) = x^2 + 1|0|(-x)^3 = -x^3, so f(-x) = -f(x).
+Is f(x) = x^2 + x even, odd or neither?|Even|Odd|Neither|Both|2|f(-x) = x^2 - x, which is neither f(x) nor -f(x).
+The point (2, 5) is on the graph of an even function. Which point must also be on the graph?|(-2, -5)|(-2, 5)|(2, -5)|(5, 2)|1|For an even function f(-2) = f(2) = 5.
+The point (2, 5) is on the graph of an odd function. Which point must also be on the graph?|(-2, 5)|(2, -5)|(-5, -2)|(-2, -5)|3|For an odd function f(-2) = -f(2) = -5.
+Is f(x) = x^4 - 3x^2 even, odd or neither?|Odd|Neither|Even|Both|2|f(-x) = (-x)^4 - 3(-x)^2 = x^4 - 3x^2 = f(x).
+The product of two odd functions is|Even|Odd|Neither|Always zero|0|For example x * x = x^2, which is even.
+Is f(x) = x^3 + x even, odd or neither?|Even|Odd|Neither|Both|1|f(-x) = -x^3 - x = -(x^3 + x) = -f(x).
+Let f(x) = 2x - 1 if x < 0, x^2 if 0 ≤ x ≤ 3, and 10 if x > 3. What is f(-2)?|-5|4|-3|10|0|-2 < 0, so f(-2) = 2(-2) - 1 = -5.
+For the same function (2x - 1 if x < 0, x^2 if 0 ≤ x ≤ 3, 10 if x > 3), what is f(3)?|10|5|9|6|2|3 is in the middle piece, so f(3) = 3^2 = 9.
+For the same function (2x - 1 if x < 0, x^2 if 0 ≤ x ≤ 3, 10 if x > 3), what is f(5)?|25|10|9|0|1|5 > 3, so f(5) = 10.
+What is the floor of 2.7, the greatest integer less than or equal to 2.7?|3|2.7|0.7|2|3|2 is the greatest integer that is at most 2.7.
+What is the floor of -1.2, the greatest integer less than or equal to -1.2?|-1|1|-2|-1.2|2|-2 is less than -1.2 and -1 is greater than it.
+What kind of discontinuity does f(x) = (x^2 - 1)/(x - 1) have at x = 1?|Removable (a hole)|Jump|Infinite (vertical asymptote)|None, it is continuous at 1|0|The factor x - 1 cancels, leaving x + 1 with a hole at x = 1.
+Let f(x) = x^2 if x ≤ 1 and f(x) = 2x + 1 if x > 1. What happens at x = 1?|A hole|It is continuous at 1|A vertical asymptote|A jump: the left value is 1 and the right side approaches 3|3|The left piece gives 1 and the right piece gives 3, so the graph jumps.
+Let f(x) = x + 1 if x < 2 and f(x) = 5 - x if x ≥ 2. Is f continuous at x = 2?|Yes, both pieces give 3 at x = 2|No, there is a jump|No, there is a hole|No, there is a vertical asymptote|0|The left piece approaches 3 and the right piece gives f(2) = 3.
+For what value of k is f(x) = kx + 1 for x < 2 and f(x) = x^2 - 1 for x ≥ 2 continuous at x = 2?|k = 2|k = 3|k = 1|k = -1|2|The right piece gives 3 at x = 2, so 2k + 1 = 3 and k = 1.
+The point (4, 6) is on the graph of f. Which point is on the graph of g(x) = f(x - 3) + 2?|(1, 8)|(7, 8)|(7, 4)|(1, 4)|1|x - 3 shifts right 3 and +2 shifts up 2.
+What does g(x) = f(2x) do to the graph of f?|Horizontal stretch by a factor of 2|Vertical stretch by a factor of 2|Shift left 2|Horizontal shrink by a factor of 1/2|3|Multiplying the input by 2 squeezes the graph toward the y-axis.
+The point (4, 6) is on the graph of f. Which point is on the graph of g(x) = f(x/2)?|(2, 6)|(4, 12)|(8, 6)|(4, 3)|2|Dividing the input by 2 stretches the graph horizontally by 2.
+The point (4, 6) is on the graph of f. Which point is on the graph of g(x) = -f(x)?|(4, -6)|(-4, 6)|(-4, -6)|(6, 4)|0|A negative outside the function reflects over the x-axis.
+The point (4, 6) is on the graph of f. Which point is on the graph of g(x) = f(-x)?|(4, -6)|(-4, -6)|(6, -4)|(-4, 6)|3|A negative inside the function reflects over the y-axis.
+The point (4, 6) is on the graph of f. Which point is on the graph of g(x) = -3f(2x) + 1?|(8, -17)|(2, -17)|(2, 19)|(2, -19)|1|x becomes 4/2 = 2 and y becomes -3(6) + 1 = -17.
+What is the domain of g(x) = sqrt(-x)?|x ≥ 0|x < 0|x ≤ 0|All real numbers|2|We need -x ≥ 0, which gives x ≤ 0.
+What is the starting point of the graph of y = -2 sqrt(x + 1) + 3?|(1, 3)|(-1, 3)|(-1, -3)|(1, -3)|1|sqrt(x) starts at (0, 0). Shifting left 1 and up 3 gives (-1, 3).
+Evenly spaced data has constant first differences. Which model fits?|Quadratic|Exponential|Logarithmic|Linear|3|A constant first difference means a constant slope.
+Evenly spaced data has constant second differences. Which model fits?|Linear|Exponential|Quadratic|Constant|2|Constant second differences are the sign of a quadratic function.
+Evenly spaced data has a constant ratio between consecutive outputs. Which model fits?|Exponential|Linear|Quadratic|Constant|0|Multiplying by the same number each step is exponential growth or decay.
+The values 2, 5, 10, 17, 26 are given at x = 1, 2, 3, 4, 5. Which model fits?|Linear|Exponential|Constant|Quadratic|3|The first differences 3, 5, 7, 9 are not constant, but the second differences are all 2.
+Which line passes through (0, 5) and (4, 13)?|y = 4x + 5|y = 2x + 5|y = 2x + 13|y = x + 5|1|The slope is (13 - 5)/4 = 2 and the y-intercept is 5.
+Which exponential function passes through (0, 200) and (3, 1600)?|y = 200 * 2^x|y = 200 * 8^x|y = 200 + 2x|y = 200 * 3^x|0|a = 200 and b^3 = 8, so b = 2.
+A tank holds 100 gallons and drains at 5 gallons per minute. When is it empty?|After 5 minutes|After 20 minutes|After 95 minutes|After 500 minutes|1|V = 100 - 5t equals 0 when t = 20.
+Which parabola has vertex (2, -1) and passes through (0, 3)?|y = (x + 2)^2 - 1|y = 2(x - 2)^2 - 1|y = (x - 2)^2 + 3|y = (x - 2)^2 - 1|3|At x = 0: a(4) - 1 = 3, so a = 1.
