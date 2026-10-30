@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Einheit hat die Arbeit?|Joule|Newton|Watt|Pascal|0|Arbeit wird in Joule gemessen: 1 J = 1 N · m.
+Welche Formel gilt für die Arbeit bei konstanter Kraft in Wegrichtung?|W = s / F|W = F / s|W = F + s|W = F · s|3|Arbeit ist das Produkt aus Kraft und Weg.
+Wie groß ist die Arbeit, wenn die Kraft senkrecht zum Weg wirkt?|Negativ|Gleich F · s|Null|Maximal|2|Bei α = 90° ist cos α = 0, also W = 0.
+Welche Einheit hat die Leistung?|Joule|Newton|Meter pro Sekunde|Watt|3|Leistung P = W / t hat die Einheit Watt (1 W = 1 J/s).
+Wie lautet die Formel der kinetischen Energie?|E = m · g · h|E = m · v|E = ½ · m · v²|E = F · s|2|Kinetische Energie ist Bewegungsenergie: E_kin = ½ · m · v².
+Wie lautet die Formel der potenziellen Energie (Lageenergie)?|E = m · g · h|E = ½ · m · v²|E = F / s|E = m · v²|0|Lageenergie hängt von Masse, Ortsfaktor und Höhe ab.
+Welche Energieform hat ein ruhender Stein in 10 m Höhe?|Kinetische Energie|Potenzielle Energie|Kernenergie|Keine Energie|1|Durch seine Lage hat er Lageenergie.
+Was besagt der Energieerhaltungssatz?|Energie geht nicht verloren, sie wird nur umgewandelt|Energie nimmt bei jeder Umwandlung ab|Energie ist immer kinetisch|Energie kann aus nichts entstehen|0|In einem abgeschlossenen System bleibt die Gesamtenergie konstant.
+Wie lautet die Formel für die Leistung?|P = W / t|P = F · s · t|P = t / W|P = W · t|0|Leistung ist Arbeit pro Zeit.
+Wie viel Joule entspricht eine Kilowattstunde?|36 000 Joule|3600 Joule|3,6 Millionen Joule|1000 Joule|2|1 kWh = 1000 W · 3600 s = 3 600 000 J.
+Was gibt der Wirkungsgrad an?|Das Verhältnis von Kraft zu Weg|Das Produkt aus Arbeit und Zeit|Die Höhe der Gesamtenergie|Das Verhältnis von Nutzenergie zu zugeführter Energie|3|η = E_nutz / E_zu.
+Welcher Wert ist für den Wirkungsgrad einer realen Maschine möglich?|0,35|2|150|1,2|0|Der Wirkungsgrad ist immer kleiner als 1, also kleiner als 100 %.
+Wie lautet die Formel der Hubarbeit?|W = m / h|W = m · v|W = m · g · h|W = g / (m · h)|2|Beim Heben wird gegen die Gewichtskraft m · g über die Höhe h gearbeitet.
+Welche Energieform speichert eine gespannte Feder?|Spannenergie|Chemische Energie|Kernenergie|Strahlungsenergie|0|Die Spannenergie beträgt ½ · D · s².
+Eine Kraft von 100 N hebt eine Last 2 m hoch. Wie groß ist die Arbeit?|20 J|50 J|102 J|200 J|3|W = F · s = 100 N · 2 m = 200 J.
+Was passiert mit mechanischer Energie bei Reibung?|Sie verdoppelt sich|Sie wird in Kernenergie umgewandelt|Sie verschwindet vollständig|Sie wird teilweise in thermische Energie umgewandelt|3|Die Gesamtenergie bleibt erhalten, die mechanische Energie nimmt ab.
+Ein Gerät mit 100 W läuft 10 s. Welche Energie nimmt es auf?|0,1 J|1000 J|10 J|100 J|1|W = P · t = 100 W · 10 s = 1000 J.
+Wie groß ist die kinetische Energie eines Autos (1000 kg) bei 20 m/s?|20 000 J|400 000 J|10 000 J|200 000 J|3|E = ½ · 1000 kg · (20 m/s)² = 200 000 J.
+Die Geschwindigkeit eines Körpers verdoppelt sich. Wie ändert sich seine kinetische Energie?|Sie bleibt gleich|Sie halbiert sich|Sie verdoppelt sich|Sie vervierfacht sich|3|Die Geschwindigkeit geht quadratisch ein.
+Welche Hubarbeit ist nötig, um 5 kg um 2 m zu heben (g = 9,81 m/s²)?|19,6 J|98,1 J|10 J|49 J|1|W = 5 · 9,81 · 2 = 98,1 J.
+Ein Stein fällt aus 20 m Höhe ohne Luftwiderstand. Wie schnell ist er am Boden?|etwa 196 m/s|etwa 9,9 m/s|etwa 39,6 m/s|etwa 19,8 m/s|3|v = √(2 · g · h) = √(2 · 9,81 · 20) ≈ 19,8 m/s.
+Eine Feder (D = 200 N/m) wird 0,1 m gedehnt. Wie groß ist die Spannenergie?|1 J|20 J|2 J|0,1 J|0|E = ½ · 200 · 0,1² = 1 J.
+Ein Motor mit 2 kW arbeitet 30 s. Welche Arbeit verrichtet er?|60 kJ|6 kJ|600 J|2 kJ|0|W = P · t = 2000 W · 30 s = 60 000 J.
+Einem Gerät werden 500 J zugeführt, davon werden 400 J genutzt. Wie groß ist der Wirkungsgrad?|0,125|1,25|0,8|0,2|2|η = 400 / 500 = 0,8.
+Wie lässt sich die Arbeit im Kraft-Weg-Diagramm ablesen?|Als Steigung der Kurve|Als Wert auf der Kraftachse|Als Länge der Kurve|Als Fläche unter der Kurve|3|Die Fläche unter F(s) entspricht der Arbeit.
+Eine Kraft von 50 N wirkt unter 60° zum Weg über 10 m. Wie groß ist die Arbeit?|433 J|50 J|250 J|500 J|2|W = 50 · 10 · cos 60° = 250 J.
+Ein Auto wird mit 2000 N bei konstant 15 m/s angetrieben. Welche Leistung ist nötig?|3 kW|30 W|133 W|30 kW|3|P = F · v = 2000 N · 15 m/s = 30 000 W.
+Wann bleibt die mechanische Energie eines Systems erhalten?|Nur bei Bewegung nach oben|Immer, auch mit Reibung|Wenn keine Reibung wirkt|Nur wenn der Körper ruht|2|Ohne Reibung gilt E_kin + E_pot = konstant.
+Wie sind die Energien eines Pendels am tiefsten Punkt?|Kinetische Energie minimal, potenzielle Energie maximal|Beide Energien sind null|Beide Energien sind maximal|Kinetische Energie maximal, potenzielle Energie minimal|3|Am tiefsten Punkt ist die Geschwindigkeit am größten.
+Was besagt der Arbeits-Energie-Satz?|Arbeit ist gleich Kraft durch Weg|Die verrichtete Arbeit ist gleich der Energieänderung|Arbeit ist immer positiv|Energie ist gleich Arbeit mal Zeit|1|W = ΔE.
+Eine Glühlampe hat 100 W elektrische Leistung und einen Lichtwirkungsgrad von 5 %. Wie viel Leistung wird als Licht abgegeben?|0,5 W|50 W|95 W|5 W|3|5 % von 100 W sind 5 W.
+Ein Körper (2 kg) wird aus der Ruhe auf 3 m/s beschleunigt. Welche Beschleunigungsarbeit wurde verrichtet (ohne Reibung)?|6 J|9 J|3 J|18 J|1|W = ½ · 2 · 3² = 9 J.
+Zwei Maschinen mit η₁ = 0,8 und η₂ = 0,5 arbeiten hintereinander. Wie groß ist der Gesamtwirkungsgrad?|0,65|0,4|1,3|0,3|1|η = 0,8 · 0,5 = 0,4.
+Wie viel Energie verbraucht ein Herd mit 2000 W in 3 Stunden?|600 kWh|6 kWh|0,67 kWh|2 kWh|1|E = 2 kW · 3 h = 6 kWh.
+Ein Skifahrer startet aus der Ruhe 50 m über dem Talboden (ohne Reibung). Wie schnell ist er unten?|etwa 15,5 m/s|etwa 31 m/s|etwa 50 m/s|etwa 10 m/s|1|v = √(2 · 9,81 · 50) ≈ 31 m/s.
+Welche Aussage über die Leistung ist richtig?|Sie ist Arbeit mal Zeit|Sie wird in Joule gemessen|Sie ist Kraft pro Weg|Sie gibt an, wie schnell Arbeit verrichtet wird|3|P = W / t.
+Ein Ball (0,5 kg) fällt aus 10 m Höhe und trifft mit 12 m/s auf. Wie viel Energie ging durch Luftreibung verloren?|etwa 85 J|etwa 49 J|etwa 36 J|etwa 13 J|3|E_pot = 0,5 · 9,81 · 10 ≈ 49 J, E_kin = ½ · 0,5 · 12² = 36 J. Differenz ≈ 13 J.
+Ein Auto fährt doppelt so schnell und bremst mit gleicher Bremskraft. Wie ändert sich der Bremsweg?|Er bleibt gleich|Er vervierfacht sich|Er verdoppelt sich|Er halbiert sich|1|F · s = ½ · m · v²: s wächst mit v².
+Ein Aufzug (800 kg) hebt eine Last in 40 s um 20 m. Welche Leistung ist mindestens nötig?|etwa 156 kW|etwa 3,9 kW|etwa 7,8 kW|etwa 0,4 kW|1|P = 800 · 9,81 · 20 / 40 ≈ 3924 W.
+Eine Feder wird von 0 auf 4 cm gespannt (Arbeit W₁), dann weiter von 4 cm auf 8 cm (Arbeit W₂). Wie groß ist W₂ / W₁?|3|1|2|4|0|W ist proportional zu s²: (64 − 16) / 16 = 3.
+Ein Achterbahnwagen startet in 40 m Höhe aus der Ruhe (ohne Reibung). Wie schnell ist er in 15 m Höhe?|etwa 11 m/s|etwa 22 m/s|etwa 31 m/s|etwa 49 m/s|1|v = √(2 · 9,81 · 25) ≈ 22 m/s.
+Ein Wasserkraftwerk nutzt 1000 kg Wasser pro Sekunde, die 50 m fallen. Der Wirkungsgrad beträgt 0,9. Wie groß ist die elektrische Leistung?|etwa 490 kW|etwa 4,4 MW|etwa 441 kW|etwa 49 kW|2|P = 0,9 · 1000 · 9,81 · 50 ≈ 441 kW.
+Eine Kiste wird 5 m mit 40 N gezogen, die Reibungskraft beträgt 15 N. Wie groß ist die Zunahme der kinetischen Energie?|75 J|200 J|125 J|25 J|2|Resultierende Kraft 25 N mal 5 m = 125 J.
+Ein Stein (0,2 kg) wird mit 15 m/s senkrecht nach oben geworfen. Welche Höhe erreicht er (ohne Luftwiderstand)?|etwa 15 m|etwa 11,5 m|etwa 23 m|etwa 7,7 m|1|h = v² / (2g) = 225 / 19,62 ≈ 11,5 m.
+Ein Kraftwerk erhält 100 MW Brennstoffleistung und gibt 38 MW elektrische Leistung ab. Wie groß ist die Verlustleistung?|62 MW|38 MW|138 MW|0,62 MW|0|Verlust = 100 MW − 38 MW = 62 MW (η = 0,38).
+Warum kann ein Perpetuum mobile erster Art nicht funktionieren?|Es ist mit einem Wirkungsgrad über 1 möglich|Es ist nur im Weltall unmöglich|Die Reibung ist immer zu groß für Maschinen|Es würde den Energieerhaltungssatz verletzen|3|Es würde Energie aus nichts liefern.
+Ein Radfahrer gibt bei konstant 5 m/s eine Leistung von 200 W ab. Wie groß ist die Antriebskraft?|205 N|0,025 N|1000 N|40 N|3|F = P / v = 200 W / 5 m/s = 40 N.
+Die Kraft steigt im Kraft-Weg-Diagramm linear von 0 auf 60 N über 0,5 m. Wie groß ist die Arbeit?|15 J|120 J|60 J|30 J|0|Dreiecksfläche: ½ · 60 N · 0,5 m = 15 J.
+Wovon hängt die Endgeschwindigkeit eines reibungsfrei rutschenden Körpers hauptsächlich ab?|Von der Länge der Bahn|Von Masse und Höhe|Von der Höhe, nicht von der Masse|Nur von der Masse|2|v = √(2 · g · h), die Masse kürzt sich heraus.
+Eine Kiste (20 kg) wird reibungsfrei entlang einer schiefen Ebene (Länge 4 m, Höhe 1 m) gezogen. Welche Zugkraft ist nötig?|etwa 49 N|etwa 196 N|etwa 98 N|etwa 4 N|0|F · s = m · g · h ⇒ F = 20 · 9,81 · 1 / 4 ≈ 49 N.

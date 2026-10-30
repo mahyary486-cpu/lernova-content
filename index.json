@@ -2750,6 +2750,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 11,
+      "subject": "Science",
+      "country": "DE",
+      "chapters": [
+        {
+          "id": "de-p11-ae",
+          "title": "Arbeit, Energie und Leistung",
+          "lessons": [
+            {
+              "id": "de-p11-ae-01",
+              "title": "Mechanische Arbeit"
+            },
+            {
+              "id": "de-p11-ae-02",
+              "title": "Kinetische und potenzielle Energie"
+            },
+            {
+              "id": "de-p11-ae-03",
+              "title": "Energieerhaltung"
+            },
+            {
+              "id": "de-p11-ae-04",
+              "title": "Leistung und Wirkungsgrad"
+            }
+          ]
+        },
+        {
+          "id": "de-c11-gg",
+          "title": "Das chemische Gleichgewicht",
+          "lessons": [
+            {
+              "id": "de-c11-gg-01",
+              "title": "Reversible Reaktionen und Gleichgewicht"
+            },
+            {
+              "id": "de-c11-gg-02",
+              "title": "Massenwirkungsgesetz"
+            },
+            {
+              "id": "de-c11-gg-03",
+              "title": "Das Prinzip von Le Chatelier"
+            },
+            {
+              "id": "de-c11-gg-04",
+              "title": "Die Ammoniaksynthese nach Haber-Bosch"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

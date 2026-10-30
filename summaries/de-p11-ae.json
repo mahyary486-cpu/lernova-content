@@ -1,0 +1,6 @@
+{
+ "Mechanische Arbeit": "Arbeit wird verrichtet, wenn eine Kraft einen Körper verschiebt: W = F · s · cos α, Einheit Joule. Steht die Kraft senkrecht zum Weg, ist die Arbeit null. Hub-, Reibungs-, Beschleunigungs- und Spannarbeit sind Beispiele; im Kraft-Weg-Diagramm entspricht die Fläche unter der Kurve der Arbeit.",
+ "Kinetische und potenzielle Energie": "Energie ist die Fähigkeit, Arbeit zu verrichten. Kinetische Energie E = ½ · m · v² wächst quadratisch mit der Geschwindigkeit, potenzielle Energie E = m · g · h hängt von der Höhe ab, Spannenergie E = ½ · D · s² von der Dehnung der Feder. Die verrichtete Arbeit ist gleich der Energieänderung.",
+ "Energieerhaltung": "In einem abgeschlossenen System bleibt die Gesamtenergie konstant. Ohne Reibung gilt E_kin + E_pot = konstant, beim freien Fall v = √(2 · g · h). Mit Reibung wird mechanische Energie in Wärme umgewandelt; ein Perpetuum mobile ist unmöglich.",
+ "Leistung und Wirkungsgrad": "Leistung ist Arbeit pro Zeit, P = W / t = F · v, Einheit Watt; 1 kWh entspricht 3,6 MJ. Der Wirkungsgrad η = Nutzenergie / zugeführte Energie ist immer kleiner als 1. Bei hintereinandergeschalteten Maschinen multiplizieren sich die Wirkungsgrade."
+}

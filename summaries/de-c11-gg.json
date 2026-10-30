@@ -1,0 +1,6 @@
+{
+ "Reversible Reaktionen und Gleichgewicht": "Reversible Reaktionen laufen in beide Richtungen ab (⇌). Im dynamischen Gleichgewicht eines geschlossenen Systems sind die Geschwindigkeiten von Hin- und Rückreaktion gleich und die Konzentrationen konstant. Ein Katalysator beschleunigt nur die Einstellung des Gleichgewichts.",
+ "Massenwirkungsgesetz": "Im Gleichgewicht gilt K_c = [C]^c · [D]^d / ([A]^a · [B]^b). Ein großes K bedeutet, dass das Gleichgewicht bei den Produkten liegt, ein kleines K bei den Edukten. K hängt nur von der Temperatur ab; reine Feststoffe stehen nicht im MWG.",
+ "Das Prinzip von Le Chatelier": "Ein System im Gleichgewicht weicht einem äußeren Zwang aus. Mehr Edukt oder weniger Produkt verschiebt zu den Produkten, Druckerhöhung zur Seite mit weniger Gasteilchen, Temperaturerhöhung in die endotherme Richtung. Nur die Temperatur ändert K, ein Katalysator ändert die Lage nicht.",
+ "Die Ammoniaksynthese nach Haber-Bosch": "Bei N₂ + 3 H₂ ⇌ 2 NH₃ (exotherm, ΔH = −92 kJ) begünstigen hoher Druck und niedrige Temperatur das Produkt. Als Kompromiss arbeitet man bei etwa 400–500 °C mit Eisenkatalysator, entfernt NH₃ durch Verflüssigen und führt die Edukte zurück. Ammoniak ist Grundstoff für Düngemittel."
+}
