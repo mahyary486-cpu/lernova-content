@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wofür steht die Abkürzung DNA?|Desoxyribonukleinsäure|Ribonukleinsäure|Aminosäure|Fettsäure|0|DNA bedeutet Desoxyribonukleinsäure.
+Welche Form hat die DNA?|Einzelne Kugel|Doppelhelix|Würfel|Ring aus Zucker|1|Zwei Stränge sind schraubenförmig umeinander gewunden.
+Welcher Zucker ist Baustein der DNA?|Desoxyribose|Fruktose|Glukose|Ribose|0|Die DNA enthält Desoxyribose, die RNA Ribose.
+Welche Base kommt in der DNA nicht vor?|Guanin|Thymin|Uracil|Adenin|2|Uracil kommt nur in der RNA vor.
+Mit welcher Base paart Adenin in der DNA?|Cytosin|Uracil|Thymin|Guanin|2|Es gilt A–T.
+Mit welcher Base paart Guanin?|Uracil|Adenin|Thymin|Cytosin|3|Es gilt G–C.
+Wie nennt man die Bausteine der DNA?|Aminosäuren|Nukleotide|Monosaccharide|Fettsäuren|1|Ein Nukleotid besteht aus Phosphat, Zucker und Base.
+Wo liegt die DNA bei Eukaryoten hauptsächlich?|Im Golgi-Apparat|In der Zellwand|In den Lysosomen|Im Zellkern|3|Die DNA liegt im Zellkern als Chromatin bzw. Chromosomen.
+Was bedeutet Replikation?|Bildung von Proteinen|Abbau der DNA|Zellatmung|Verdopplung der DNA|3|Bei der Replikation entstehen zwei identische DNA-Moleküle.
+Wo findet die Translation statt?|In der Zellwand|Am Ribosom|In den Lysosomen|Im Zellkern an der DNA|1|Ribosomen übersetzen die mRNA in Proteine.
+Was entsteht bei der Transkription?|mRNA|Glukose|Protein|Fett|0|Die DNA wird in mRNA umgeschrieben.
+Aus wie vielen Basen besteht ein Codon?|4|3|2|1|1|Ein Codon ist ein Basentriplett.
+Wie viele verschiedene Basen kommen in der DNA vor?|5|4|2|3|1|A, T, G und C.
+Woraus bestehen Proteine?|Zuckern|Fettsäuren|Nukleotiden|Aminosäuren|3|Proteine sind Ketten aus Aminosäuren.
+Welche Aufgabe hat die tRNA?|Sie verdoppelt die DNA|Sie bringt Aminosäuren zum Ribosom|Sie baut den Zellkern ab|Sie speichert Energie|1|tRNA-Moleküle transportieren Aminosäuren.
+Wie lautet das Startcodon?|CCC|AUG|UAA|GGG|1|AUG kodiert für Methionin und startet die Translation.
+Was hält die Basenpaare der DNA zusammen?|Ionenbindungen|Peptidbindungen|Wasserstoffbrücken|Metallbindungen|2|Wasserstoffbrücken verbinden komplementäre Basen.
+Wie viele Wasserstoffbrücken bilden Guanin und Cytosin?|1|4|2|3|3|G–C: drei, A–T: zwei Wasserstoffbrücken.
+Wie viele Wasserstoffbrücken bilden Adenin und Thymin?|4|2|3|1|1|A–T besitzt zwei Wasserstoffbrücken.
+Welches Enzym verknüpft bei der Replikation neue Nukleotide?|Amylase|Lipase|Katalase|DNA-Polymerase|3|Die DNA-Polymerase baut den neuen Strang auf.
+Welches Enzym öffnet den DNA-Doppelstrang?|Lipase|Pepsin|Helikase|Ligase|2|Die Helikase trennt die Wasserstoffbrücken.
+Was bedeutet semikonservative Replikation?|Jedes Tochtermolekül hat einen alten und einen neuen Strang|Beide Stränge sind alt|Beide Stränge sind neu|Es entsteht nur ein Tochtermolekül|0|Ein Elternstrang bleibt erhalten.
+Wie heißt das Enzym der Transkription?|DNA-Ligase|Helikase|RNA-Polymerase|Protease|2|Die RNA-Polymerase synthetisiert die mRNA.
+Welche Base ersetzt in der RNA das Thymin?|Guanin|Uracil|Adenin|Cytosin|1|RNA enthält Uracil statt Thymin.
+Wie viele verschiedene Codons gibt es?|100|64|16|20|1|4 hoch 3 ergibt 64.
+Wie viele Aminosäuren werden im Standardcode kodiert?|64|4|20|3|2|Es gibt 20 proteinogene Aminosäuren.
+Was bedeutet: Der genetische Code ist degeneriert?|Der Code ändert sich ständig|Mehrere Codons kodieren dieselbe Aminosäure|Der Code ist fehlerhaft|Ein Codon kodiert mehrere Aminosäuren|1|Es gibt 64 Codons, aber nur 20 Aminosäuren.
+Was ist das Antikodon?|Teil des Ribosoms|Basentriplett der DNA|Ein Enzym|Basentriplett der tRNA|3|Das Antikodon passt zum Codon der mRNA.
+Welches Codon ist ein Stoppcodon?|AUG|GCU|UAA|CAC|2|UAA, UAG und UGA beenden die Translation.
+Wie nennt man Abschnitte der Prä-mRNA, die entfernt werden?|Exons|Introns|Promotoren|Telomere|1|Introns werden herausgeschnitten.
+Was geschieht beim Spleißen?|Introns werden entfernt und Exons verbunden|Proteine werden gefaltet|tRNA wird beladen|Die DNA wird verdoppelt|0|Nur die Exons bleiben in der reifen mRNA.
+Was ist ein Gen?|Ein Ribosom|Eine Aminosäure|Ein ganzes Chromosom|Ein DNA-Abschnitt mit der Information für ein Genprodukt|3|Ein Gen kodiert z. B. ein Protein.
+In welcher Richtung baut die DNA-Polymerase neue Stränge auf?|In beide Richtungen|Zufällig|5'→3'|3'→5'|2|Neue Nukleotide werden am 3'-Ende angehängt.
+Wie heißen die kurzen Stücke am Folgestrang?|Exons|Histone|Okazaki-Fragmente|Codons|2|Der Folgestrang wird diskontinuierlich synthetisiert.
+Was verbindet die Okazaki-Fragmente?|RNA-Polymerase|DNA-Ligase|Amylase|Helikase|1|Die Ligase schließt die Lücken im Zucker-Phosphat-Rückgrat.
+Wo findet die Transkription bei Eukaryoten statt?|Am Ribosom|Im Lysosom|In der Vakuole|Im Zellkern|3|Die mRNA entsteht im Zellkern und wandert ins Zytoplasma.
+Der Codogenstrang zeigt 3'-TAC-5'. Welches mRNA-Codon entsteht?|ATG|AUG|UAC|TAC|1|Komplementär: T→A, A→U, C→G.
+Ein DNA-Abschnitt enthält 30 % Adenin. Wie hoch ist der Guaninanteil?|20 %|70 %|30 %|40 %|0|A = T = 30 %, G = C = (100 − 60) : 2 = 20 %.
+Die mRNA lautet AUG-GCU-UAA. Wie viele Aminosäuren entstehen?|3|1|0|2|3|UAA ist ein Stoppcodon und kodiert keine Aminosäure.
+Austausch einer Base ohne Änderung der Aminosäure heißt|Rasterschubmutation|stille Mutation|Missense-Mutation|Nonsense-Mutation|1|Wegen der Degeneration kann dieselbe Aminosäure entstehen.
+Welche Mutation erzeugt ein vorzeitiges Stoppcodon?|Keine|Missense-Mutation|Stille Mutation|Nonsense-Mutation|3|Das Protein wird verkürzt.
+Was bewirkt die Deletion einer einzelnen Base im Gen?|Leserasterverschiebung|Stille Mutation|Keine Folge|Nur eine Aminosäure ändert sich|0|Ab der Stelle verschieben sich alle Tripletts.
+Wie viele Basen kodieren für ein Protein aus 100 Aminosäuren (ohne Stoppcodon)?|300|600|200|100|0|Pro Aminosäure ein Triplett: 100 · 3.
+Welche Replikationsart bestätigte das Meselson-Stahl-Experiment?|Dispersiv|Semikonservativ|Keine|Konservativ|1|Die 15N/14N-Dichtegradienten stützen den semikonservativen Mechanismus.
+Wie viele DNA-Moleküle entstehen aus einem Molekül nach drei Replikationsrunden?|4|8|3|6|1|2 hoch 3 = 8.
+Der Leitstrang wird synthetisiert|nur in der G1-Phase|kontinuierlich|gar nicht|in Okazaki-Fragmenten|1|Er läuft in Richtung der Replikationsgabel.
+Was ist die Funktion des Promotors?|Abbau der mRNA|Bindestelle für die RNA-Polymerase|Aminosäuretransport|Stoppsignal der Translation|1|Hier beginnt die Transkription.
+Was ist bei Prokaryoten möglich?|Spleißen von Introns wie bei Eukaryoten|Translation beginnt schon während der Transkription|Transkription im Zellkern|Translation nur im Kern|1|Prokaryoten haben keinen Zellkern.
+Die Sichelzellanämie beruht auf|einem fehlenden Chromosom|einer Virusinfektion|einer Punktmutation, die eine Aminosäure verändert|Vitaminmangel|2|Im Hämoglobin-Gen wird eine Base ausgetauscht.
+Welcher komplementäre Gegenstrang gehört zu 5'-ATGC-3'?|5'-TACG-3'|3'-ATGC-5'|3'-UACG-5'|3'-TACG-5'|3|Antiparallel und komplementär: A–T, T–A, G–C, C–G.

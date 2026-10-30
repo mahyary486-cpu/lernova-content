@@ -1,0 +1,6 @@
+{
+ "Aufbau des Neurons": "Ein Neuron hat Soma, Dendriten und Axon; Myelinscheiden und Ranvier-Schnürringe beschleunigen die Leitung. Das ZNS besteht aus Gehirn und Rückenmark; Reflexe laufen über den Reflexbogen.",
+ "Das Ruhepotenzial": "Das Ruhepotenzial (etwa −70 mV) entsteht durch K+-Ausstrom über Kaliumkanäle. Die Natrium-Kalium-Pumpe hält mit ATP die Ionenunterschiede aufrecht.",
+ "Aktionspotenzial und Erregungsleitung": "Ein überschwelliger Reiz löst ein Aktionspotenzial aus: Na+-Einstrom (Depolarisation), K+-Ausstrom (Repolarisation). Es gilt das Alles-oder-Nichts-Gesetz. Markhaltige Axone leiten saltatorisch und schneller.",
+ "Synapsen und Neurotransmitter": "Synapsen übertragen Signale chemisch: Ca2+-Einstrom, Transmitterfreisetzung, Rezeptorbindung, Abbau durch Enzyme. EPSP erregt, IPSP hemmt; Summation entscheidet über ein Aktionspotenzial."
+}

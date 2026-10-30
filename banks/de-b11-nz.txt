@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie heißt die Nervenzelle?|Neuron|Hepatozyt|Erythrozyt|Alveole|0|Neuronen leiten Erregung.
+Welcher Teil des Neurons empfängt Signale?|Dendriten|Ranvier-Schnürring|Axon|Myelinscheide|0|Dendriten sind verzweigte Empfangsfortsätze.
+Wie heißt der lange Fortsatz, der Signale weiterleitet?|Dendrit|Axon|Mitochondrium|Zellkern|1|Das Axon leitet die Erregung zu anderen Zellen.
+Welche Zellen bilden im peripheren Nervensystem die Myelinscheide?|Erythrozyten|Muskelzellen|Fettzellen|Schwann-Zellen|3|Schwann-Zellen umwickeln das Axon.
+Wie heißen die Lücken zwischen den Myelinhüllen?|Synapsen|Ranvier-Schnürringe|Dendriten|Ribosomen|1|Dort kann die Erregung entstehen.
+Wie heißt die Kontaktstelle zwischen zwei Neuronen?|Nukleolus|Vakuole|Synapse|Chromosom|2|Synapsen übertragen Signale.
+Welche Stoffe übertragen Signale an chemischen Synapsen?|Vitamine|Antikörper|Enzyme der Verdauung|Neurotransmitter|3|Beispiel: Acetylcholin.
+Woraus besteht das Zentralnervensystem (ZNS)?|Herz und Lunge|Gehirn und Rückenmark|Nerven der Arme|Muskeln und Knochen|1|Alles andere gehört zum peripheren Nervensystem.
+Wie nennt man die elektrischen Signale des Neurons?|Photosynthese|Osmose|Gärung|Aktionspotenziale|3|Aktionspotenziale sind kurze Spannungsänderungen.
+Welches Ion ist im Ruhezustand im Zellinneren stärker konzentriert?|Eisen (Fe2+)|Kalium (K+)|Natrium (Na+)|Calcium (Ca2+)|1|Innen viel K+, außen viel Na+.
+Wie hoch ist das Ruhepotenzial etwa?|0 mV|+30 mV|+70 mV|−70 mV|3|Das Zellinnere ist negativ geladen.
+Wohin leiten sensorische Neuronen die Erregung?|Nur innerhalb des Gehirns|Von Sinnesorganen zum ZNS|Vom ZNS zu den Muskeln|Zum Herzen|1|Sensorisch bedeutet afferent.
+Wohin leiten motorische Neuronen die Erregung?|Zum Auge|Von der Haut zum Gehirn|Zum Darm nur|Vom ZNS zu Muskeln|3|Motorisch bedeutet efferent.
+Worüber laufen Reflexe ab?|Über den Reflexbogen|Nur über das Großhirn|Über die Haut|Über das Blut|0|Reflexe laufen schnell über das Rückenmark.
+Wie verhält sich die Axonmembran im Ruhezustand?|Völlig durchlässig|Völlig undurchlässig|Sie löst sich auf|Selektiv durchlässig|3|Kaliumkanäle sind teilweise offen.
+Welches Organell liefert die ATP für die Natrium-Kalium-Pumpe?|Zellkern|Ribosom|Mitochondrium|Vakuole|2|Mitochondrien produzieren ATP.
+Das Gehirn gehört zum|peripheren Nervensystem|Verdauungssystem|ZNS|Blutkreislauf|2|Gehirn und Rückenmark bilden das ZNS.
+Was transportiert die Natrium-Kalium-Pumpe pro Zyklus?|Nur Wasser|2 Na+ hinaus und 3 K+ hinein|3 K+ hinaus und 2 Na+ hinein|3 Na+ hinaus und 2 K+ hinein|3|Dabei wird ATP verbraucht.
+Wie arbeitet die Natrium-Kalium-Pumpe?|Ohne Energie|Durch Osmose|Durch Diffusion|Als aktiver Transport unter ATP-Verbrauch|3|Gegen das Konzentrationsgefälle.
+Was ist der Schwellenwert?|Die Ionenkonzentration im Blut|Das Potenzial, ab dem ein Aktionspotenzial ausgelöst wird|Die maximale Reizstärke|Die Dauer des Ruhepotenzials|1|Etwa −50 mV.
+Was besagt das Alles-oder-Nichts-Gesetz?|Aktionspotenziale gibt es nur nachts|Stärkere Reize erzeugen höhere Aktionspotenziale|Ein Aktionspotenzial hat immer dieselbe Amplitude|Aktionspotenziale sind variabel|2|Entweder ein volles AP oder keines.
+Wodurch entsteht die Depolarisation?|Einstrom von Cl−|Ruhe der Pumpe|Ausstrom von K+|Einstrom von Na+|3|Spannungsgesteuerte Na+-Kanäle öffnen sich.
+Wodurch entsteht die Repolarisation?|Aufnahme von Wasser|Ausstrom von K+|Einstrom von Na+|Einstrom von Ca2+|1|Kaliumkanäle öffnen, Na+-Kanäle schließen.
+Was ist die Refraktärzeit?|Zeit besonders hoher Erregbarkeit|Dauer des Ruhepotenzials|Zeit der Transmitterfreisetzung|Zeit, in der kein neues AP ausgelöst werden kann|3|Na+-Kanäle sind inaktiviert.
+Was bedeutet saltatorische Erregungsleitung?|Erregung läuft nur in Dendriten|Erregung läuft rückwärts|Erregung läuft kontinuierlich|Erregung springt von Schnürring zu Schnürring|3|Sie kommt bei markhaltigen Axonen vor.
+Welchen Vorteil bietet die Myelinscheide?|Schnellere Leitung und Energieersparnis|Keinen|Langsamere Leitung|Mehr Ionenkanäle|0|Isolation verhindert Ionenverlust.
+Was liegt zwischen prä- und postsynaptischer Membran?|Die Myelinscheide|Der synaptische Spalt|Der Ranvier-Schnürring|Der Zellkern|1|Der Transmitter diffundiert durch den synaptischen Spalt.
+Wodurch werden Vesikel an der präsynaptischen Membran entleert?|Durch Einstrom von Cl−|Durch Wasserverlust|Durch Einstrom von K+|Durch Einstrom von Ca2+|3|Ca2+-Einstrom löst die Exozytose aus.
+Welches Enzym baut Acetylcholin ab?|Amylase|Lipase|Acetylcholinesterase|Pepsin|2|So endet das Signal im synaptischen Spalt.
+Eine erregende Synapse führt zu|Zelltod|stärkerem Ruhepotenzial|einem IPSP|einem EPSP (Depolarisation)|3|EPSP = erregendes postsynaptisches Potenzial.
+Eine hemmende Synapse führt zu|Reflex|Depolarisation|Hyperpolarisation (IPSP)|direktem Aktionspotenzial|2|Das Potenzial wird negativer.
+Wie wirkt Curare?|Es fördert Acetylcholin|Es erhöht ATP|Es blockiert Acetylcholin-Rezeptoren|Es baut Myelin ab|2|Muskelerregung bleibt aus: Lähmung.
+Wie öffnen sich Ionenkanäle an der postsynaptischen Membran?|Ligandengesteuert durch den Transmitter|Durch Hitze|Nie|Spannungsgesteuert durch Dehnung|0|Der Transmitter bindet an den Rezeptor.
+In welche Richtung wird die Information an der Synapse übertragen?|Nur zurück|In beide Richtungen|Nur von prä- zu postsynaptisch|Zufällig|2|Rezeptoren liegen nur postsynaptisch.
+Wann öffnen spannungsgesteuerte Na+-Kanäle?|Bei Erreichen des Schwellenwerts|Im Ruhepotenzial|Bei Hyperpolarisation|Nie|0|Sie reagieren auf Spannungsänderung.
+Was ist Hyperpolarisation?|Das Membranpotenzial wird negativer als das Ruhepotenzial|Die Membran löst sich auf|Das Potenzial beträgt 0 mV|Das Membranpotenzial wird positiver|0|Typisch nach dem AP oder bei IPSP.
+Wie hoch ist die Spitze des Aktionspotenzials etwa?|0 mV|−90 mV|+30 mV|−70 mV|2|Das Zellinnere wird kurz positiv.
+Warum läuft ein Aktionspotenzial nicht rückwärts?|Wegen der Refraktärzeit der Na+-Kanäle|Zufällig|Wegen des Myelins|Wegen der Pumpen|0|Rückwärtige Abschnitte sind inaktiviert.
+Wovon hängt die Leitungsgeschwindigkeit ab?|Von der Zahl der Dendriten allein|Von der Zellfarbe|Von Myelinisierung und Axondurchmesser|Von der Zellkernform|2|Dicker und markhaltig bedeutet schneller.
+Was geschieht bei Multipler Sklerose?|Pumpen arbeiten schneller|Myelinscheiden werden zerstört|Es entstehen mehr Dendriten|Gliazellen vermehren sich nützlich|1|Die Erregungsleitung wird gestört.
+Welche Folge hat Tetrodotoxin (Na+-Kanalblocker)?|Verkürzte Refraktärzeit|Schnellere Leitung|Dauer-Aktionspotenzial|Kein Aktionspotenzial|3|Ohne Na+-Einstrom keine Depolarisation.
+Wie wird die Reizstärke kodiert?|Durch die Axonlänge|Durch ihre Farbe|Durch ihre Amplitude|Durch die Frequenz der Aktionspotenziale|3|Starke Reize bewirken mehr APs pro Zeit.
+Was ist räumliche Summation?|Zwei Axone verschmelzen|Schnell nacheinander erregte Potenziale an einer Synapse addieren sich|Mehrere gleichzeitig erregte Synapsen addieren ihre Potenziale|Ein Neuron teilt sich|2|Räumlich bedeutet: verschiedene Orte.
+Was ist zeitliche Summation?|Schnell aufeinanderfolgende Potenziale an derselben Stelle addieren sich|Gleichzeitige Potenziale an mehreren Synapsen addieren sich|Aktionspotenziale werden länger|Potenziale werden gelöscht|0|Zeitlich bedeutet: kurz hintereinander.
+Was geschieht bei erhöhter extrazellulärer K+-Konzentration?|Das Ruhepotenzial wird weniger negativ|Das Ruhepotenzial wird negativer|Hyperpolarisation|Es bleibt unverändert|0|Das K+-Konzentrationsgefälle sinkt.
+Wodurch entsteht das Ruhepotenzial hauptsächlich?|Na+-Einstrom|Chloridausstrom|K+-Ausstrom durch Kaliumkanäle und Ionenpumpe|Glukoseaufnahme|2|Der K+-Ausstrom lässt das Innere negativ werden.
+Ein Gift hemmt die Acetylcholinesterase. Welche Folge ist wahrscheinlich?|Keine Erregung mehr|Dauererregung der postsynaptischen Membran|Hyperpolarisation|Schnelle Ruhe|1|Acetylcholin wird nicht abgebaut.
+Botulinumtoxin hemmt die Acetylcholin-Freisetzung. Folge?|Muskellähmung|Muskelkrampf|Schmerz|Mehr Kraft|0|Ohne Transmitter keine Muskelerregung.
+Was bewirkt der Sympathikus?|Förderung der Verdauung|Leistungssteigerung, z. B. höheren Puls|Schlaf|Ruhe und Erholung|1|Der Parasympathikus fördert Erholung.
+Das Neuron hat −70 mV, der Schwellenwert liegt bei −50 mV. Ein Reiz hebt auf −60 mV. Was passiert?|Kein Aktionspotenzial, der Schwellenwert wird nicht erreicht|Hyperpolarisation|Das Neuron stirbt|Ein Aktionspotenzial entsteht|0|Unterschwellige Reize lösen kein AP aus.

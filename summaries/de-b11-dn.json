@@ -1,0 +1,6 @@
+{
+ "Aufbau der DNA": "Die DNA besteht aus Nukleotiden (Phosphat, Desoxyribose, Base) und bildet eine antiparallele Doppelhelix. A paart mit T, G mit C über Wasserstoffbrücken. Die Information liegt in der Basensequenz.",
+ "Replikation der DNA": "Bei der Replikation öffnet die Helikase die DNA, die DNA-Polymerase baut komplementäre Stränge in 5'→3'-Richtung auf. Leitstrang kontinuierlich, Folgestrang in Okazaki-Fragmenten, verbunden durch Ligase. Die Replikation ist semikonservativ.",
+ "Transkription": "Die RNA-Polymerase schreibt ein Gen vom Promotor aus in mRNA um (U statt T). Bei Eukaryoten wird die Prä-mRNA durch Spleißen von Introns befreit; die reife mRNA verlässt den Zellkern.",
+ "Translation und genetischer Code": "Am Ribosom werden Codons der mRNA durch tRNA-Antikodons in Aminosäuren übersetzt, Start AUG, Stopp UAA/UAG/UGA. Der Code ist Triplett, universell, degeneriert und eindeutig. Mutationen können das Protein verändern."
+}
