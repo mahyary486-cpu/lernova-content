@@ -720,6 +720,36 @@
               "title": "Descartes' rule of signs and bounds on zeros"
             }
           ]
+        },
+        {
+          "id": "g12-ch3",
+          "title": "Exponential and Logarithmic Functions",
+          "lessons": [
+            {
+              "id": "g12-ch3-l1",
+              "title": "Transformed exponential and logarithmic graphs"
+            },
+            {
+              "id": "g12-ch3-l2",
+              "title": "Logarithmic scales: pH, decibels and earthquakes"
+            },
+            {
+              "id": "g12-ch3-l3",
+              "title": "Harder exponential equations"
+            },
+            {
+              "id": "g12-ch3-l4",
+              "title": "Logarithmic equations and inequalities"
+            },
+            {
+              "id": "g12-ch3-l5",
+              "title": "Compound interest, annuities and loans"
+            },
+            {
+              "id": "g12-ch3-l6",
+              "title": "Logistic growth and Newton's law of cooling"
+            }
+          ]
         }
       ],
       "country": "US"
@@ -2799,7 +2829,51 @@
               "title": "Die Ammoniaksynthese nach Haber-Bosch"
             }
           ]
-        },{"id": "de-b11-dn", "title": "DNA und Proteinbiosynthese", "lessons": [{"id": "de-b11-dn-01", "title": "Aufbau der DNA"}, {"id": "de-b11-dn-02", "title": "Replikation der DNA"}, {"id": "de-b11-dn-03", "title": "Transkription"}, {"id": "de-b11-dn-04", "title": "Translation und genetischer Code"}]},{"id": "de-b11-nz", "title": "Nervenzelle und Erregung", "lessons": [{"id": "de-b11-nz-01", "title": "Aufbau des Neurons"}, {"id": "de-b11-nz-02", "title": "Das Ruhepotenzial"}, {"id": "de-b11-nz-03", "title": "Aktionspotenzial und Erregungsleitung"}, {"id": "de-b11-nz-04", "title": "Synapsen und Neurotransmitter"}]}
+        },
+        {
+          "id": "de-b11-dn",
+          "title": "DNA und Proteinbiosynthese",
+          "lessons": [
+            {
+              "id": "de-b11-dn-01",
+              "title": "Aufbau der DNA"
+            },
+            {
+              "id": "de-b11-dn-02",
+              "title": "Replikation der DNA"
+            },
+            {
+              "id": "de-b11-dn-03",
+              "title": "Transkription"
+            },
+            {
+              "id": "de-b11-dn-04",
+              "title": "Translation und genetischer Code"
+            }
+          ]
+        },
+        {
+          "id": "de-b11-nz",
+          "title": "Nervenzelle und Erregung",
+          "lessons": [
+            {
+              "id": "de-b11-nz-01",
+              "title": "Aufbau des Neurons"
+            },
+            {
+              "id": "de-b11-nz-02",
+              "title": "Das Ruhepotenzial"
+            },
+            {
+              "id": "de-b11-nz-03",
+              "title": "Aktionspotenzial und Erregungsleitung"
+            },
+            {
+              "id": "de-b11-nz-04",
+              "title": "Synapsen und Neurotransmitter"
+            }
+          ]
+        }
       ]
     }
   ]

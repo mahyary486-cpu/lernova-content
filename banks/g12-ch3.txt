@@ -1,0 +1,51 @@
+#EEEMMMHHEEEMMMHHEEEMMMMHHEEEMMMMHHEEMMMMHHEEMMMMHH
+What is the horizontal asymptote of f(x) = 2^(x - 3) + 1?|y = -3|y = 3|y = 1|y = 0|2|In a*b^(x - h) + k the asymptote is y = k.
+What is the range of f(x) = 2^(x - 3) + 1?|y > 1|y > 0|y > -3|y > 3|0|The graph lies above its horizontal asymptote y = 1.
+What is the y-intercept of f(x) = 2^(x - 3) + 1?|1/8|3|2|9/8|3|f(0) = 2^(-3) + 1 = 1/8 + 1 = 9/8.
+What is the domain of h(x) = ln(x + 2) - 1?|x > 2|x > -2|x > -1|x > 0|1|The argument x + 2 must be positive.
+What is the vertical asymptote of h(x) = ln(x + 2) - 1?|x = -2|x = 2|x = -1|y = -1|0|The asymptote is where the argument equals 0.
+What is the domain of g(x) = log_2(4 - x)?|x > 4|x ≤ 4|x < 4|x > -4|2|We need 4 - x > 0, which gives x < 4.
+What is the range of y = -3^x?|y > 0|y < 0|y ≤ 0|All real numbers|1|3^x is positive, so its negative is always below 0 and never equals 0.
+What is the inverse of f(x) = 2^x + 1?|f^-1(x) = log_2(x) + 1|f^-1(x) = log_2(x + 1)|f^-1(x) = 2^x - 1|f^-1(x) = log_2(x - 1)|3|Swap x and y: x - 1 = 2^y, so y = log_2(x - 1).
+Which formula gives pH?|pH = -log[H+]|pH = log[H+]|pH = 1/[H+]|pH = [H+]/10|0|pH is the negative base-10 logarithm of the hydrogen ion concentration.
+What is the pH of a solution with [H+] = 10^-5?|-5|0.00001|10|5|3|pH = -log(10^-5) = 5.
+A solution has pH 3 and another has pH 6. How does the hydrogen ion concentration of the first compare?|3 times greater|1000 times greater|100 times greater|10000 times greater|1|The pH differs by 3, so the concentrations differ by a factor of 10^3.
+The sound level is L = 10 log(I/I0). What is L when I = 1000 I0?|30 dB|3 dB|100 dB|300 dB|0|L = 10 log(1000) = 10 * 3 = 30.
+A sound is 100 dB. What is its intensity I in terms of I0?|100 I0|10^100 I0|10^10 I0|1000 I0|2|100 = 10 log(I/I0), so log(I/I0) = 10 and I/I0 = 10^10.
+A sound increases by 20 dB. By what factor does its intensity increase?|20|100|2|200|1|20 dB is 2 steps of 10 dB, and each step multiplies by 10.
+How does a magnitude 7 earthquake compare with a magnitude 5 earthquake in amplitude?|2 times larger|10 times larger|1000 times larger|100 times larger|3|The difference is 2, so the factor is 10^2 = 100.
+Why are logarithmic scales used for pH and sound?|They make small numbers negative|They only work for pH|They compress a huge range of values into a small, manageable range|They remove the units|2|The quantities can differ by factors of billions.
+Solve 7 * 2^x = 56.|x = 8|x = 4|x = 49|x = 3|3|Divide by 7: 2^x = 8, so x = 3.
+Solve e^x = 7.|x = 7|x = ln 7|x = e^7|x = 1/7|1|Take the natural log of both sides.
+Solve e^x = 1/e.|x = -1|x = 1|x = e|x = -e|0|1/e = e^(-1).
+Solve 3^(2x + 1) = 81^(x - 1).|x = 5|x = 3/2|x = 5/2|x = -5/2|2|81 = 3^4, so 2x + 1 = 4x - 4 and x = 5/2.
+Solve 2e^(3x) = 10.|x = ln 5|x = (ln 5)/3|x = (ln 10)/3|x = 5/3|1|Divide by 2: e^(3x) = 5, so 3x = ln 5.
+Solve e^(2x) - 5e^x + 6 = 0.|x = 2 or x = 3|x = ln 5 or x = ln 6|x = ln 2 only|x = ln 2 or x = ln 3|3|Let u = e^x: u^2 - 5u + 6 = 0, so u = 2 or 3.
+Solve 2^x + 2^(-x) = 5/2.|x = 1 only|x = 2 or x = 1/2|x = 1 or x = -1|x = 0|2|Let u = 2^x: 2u^2 - 5u + 2 = 0, so u = 2 or 1/2.
+Which expression is the solution of 5^x = 2^(x + 1)?|x = ln 2 / (ln 5 - ln 2)|x = ln 2 / ln 5|x = ln 2 / (ln 5 + ln 2)|x = ln 5 / ln 2|0|x ln 5 = (x + 1) ln 2 gives x(ln 5 - ln 2) = ln 2.
+How long will 100 dollars take to grow to 200 dollars at 5% per year?|About 20 years|About 14.2 years|About 10 years|About 7.1 years|1|t = ln 2 / ln 1.05, which is about 14.2.
+Solve log_3(x - 1) < 2.|1 < x < 10|x < 10|x > 10|0 < x < 9|0|The argument must be positive, so x > 1, and x - 1 < 3^2 = 9 gives x < 10.
+Solve ln x ≥ 1.|x ≥ 1|x ≤ e|x ≥ e|x ≥ 0|2|x ≥ e^1.
+Solve 2^x > 16.|x > 8|x > 4|x < 4|x > 16|1|2^x > 2^4 and the base is greater than 1.
+Solve (1/2)^x < 1/8.|x < 3|x > 8|x < 8|x > 3|3|The base is between 0 and 1, so the inequality reverses: x > 3.
+Solve log(x) + log(x - 3) = 1.|x = -2|x = 5 or x = -2|x = 5|x = 10|2|x(x - 3) = 10 gives x = 5 or x = -2, and x = -2 is outside the domain.
+Solve log_2(x + 1) ≤ 3.|-1 < x ≤ 7|x ≤ 7|x ≤ 8|-1 ≤ x ≤ 7|0|We need x + 1 > 0 and x + 1 ≤ 8.
+Solve ln(x^2) = 4.|x = e^2 only|x = e^4 or x = -e^4|x = 4|x = e^2 or x = -e^2|3|x^2 = e^4, so x = e^2 or x = -e^2.
+Solve e^x < 5.|x < ln 5|x < 5|x > ln 5|x < e^5|0|The natural log is increasing, so the direction is kept.
+Solve log_2(x) > 3.|x > 3|x > 6|x > 8|0 < x < 8|2|x > 2^3 = 8.
+What is the effective annual rate of 6% compounded monthly?|Exactly 6%|About 6.17%|About 7.2%|About 5.9%|1|(1.005)^12 - 1 is about 0.0617.
+At the same nominal rate, which compounding gives the largest amount?|Annually|Quarterly|Monthly|Continuously|3|More frequent compounding gives more, and continuous is the limit.
+How much should be invested now to have 10,000 dollars in 5 years at 4% compounded annually?|About 8,000 dollars|About 12,167 dollars|About 8,219 dollars|About 9,615 dollars|2|PV = 10000/1.04^5, which is about 8,219.
+Which formula gives the present value PV of an amount A due in t years?|PV = A/(1 + r/n)^(nt)|PV = A(1 + r/n)^(nt)|PV = A/(nt)|PV = A - rt|0|Discount by dividing by the growth factor.
+By the rule of 72, about how long does money take to double at 6%?|6 years|72 years|36 years|12 years|3|72/6 = 12.
+About how much is saved by depositing 100 dollars per month for 2 years at 0.5% interest per month?|About 2,400 dollars|About 2,543 dollars|About 2,700 dollars|About 127 dollars|1|FV = 100 * (1.005^24 - 1)/0.005, which is about 2,543.
+What is the monthly payment on a 1,000 dollar loan paid over 12 months at 1% per month?|About 83.33 dollars|About 100 dollars|About 88.85 dollars|About 112.68 dollars|2|PMT = 1000(0.01)/(1 - 1.01^(-12)), which is about 88.85.
+What is the effective annual rate of 6% compounded continuously?|About 6.00%|About 6.18%|About 5.82%|About 12%|1|e^0.06 - 1 is about 0.0618.
+In P(t) = L/(1 + A*e^(-kt)), what does L represent?|The initial population|The growth rate|The time|The carrying capacity|3|L is the upper limit that the population approaches.
+For P(t) = 1000/(1 + 9e^(-0.5t)), what is P(0)?|1000|10|100|9|2|P(0) = 1000/(1 + 9) = 100.
+For P(t) = 1000/(1 + 9e^(-0.5t)), what does P approach as t grows large?|1000|100|0|9|0|e^(-0.5t) goes to 0, leaving 1000/1.
+Early in logistic growth, the graph looks most like|A straight line going down|A constant function|A parabola opening down|Exponential growth|3|At first the population is far below the limit, so growth is exponential.
+In Newton's law of cooling, T(t) = Ts + (T0 - Ts)e^(-kt), what does T approach as t grows large?|T0, the starting temperature|Ts, the surrounding temperature|0|k|1|The exponential term goes to 0.
+Coffee at 90 degrees C in a 20 degree C room has T(t) = 20 + 70e^(-0.1t). What is T(10)?|About 45.8 degrees C|About 70.0 degrees C|About 25.8 degrees C|About 90.0 degrees C|0|20 + 70e^(-1) = 20 + 25.75 = 45.75.
+Carbon-14 has a half-life of 5730 years. What fraction remains after 11,460 years?|1/2|1/4|1/8|1/3|1|11,460 years is 2 half-lives, so (1/2)^2 = 1/4.
+For T(t) = 20 + 70e^(-0.1t), about when is T = 50 degrees C?|About 5.0 minutes|About 10.0 minutes|About 20.0 minutes|About 8.5 minutes|3|30 = 70e^(-0.1t) gives t = ln(7/3)/0.1, which is about 8.5.
