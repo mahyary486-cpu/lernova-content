@@ -9,11 +9,11 @@
    "year": "2026-2027"
   },
   "DE": {
-   "bytes": 482380,
+   "bytes": 518035,
    "currentYear": "2026-2027",
-   "files": 198,
+   "files": 216,
    "name": "Germany",
-   "rev": "742b8ec829",
+   "rev": "6ded3896fc",
    "year": "2026-2027"
   },
   "FR": {
@@ -25,11 +25,11 @@
    "year": "2026-2027"
   },
   "GB": {
-   "bytes": 0,
+   "bytes": 16518,
    "currentYear": "2026-2027",
-   "files": 0,
+   "files": 12,
    "name": "United Kingdom",
-   "rev": "2fda48e498",
+   "rev": "ba21fdfe1c",
    "year": "2026-2027"
   },
   "IR": {
