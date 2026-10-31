@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+Write 3.2 × 10⁴ as an ordinary number.|3 200|320 000|3.2|32 000|3|Move the decimal point 4 places right.
+Write 5000 in standard form.|5 × 10⁴|50 × 10²|5 × 10³|0.5 × 10⁴|2|5000 = 5 × 1000.
+Write 0.002 in standard form.|2 × 10³|2 × 10⁻²|0.2 × 10⁻²|2 × 10⁻³|3|Move the decimal point 3 places right.
+Which number is written in standard form?|45 × 10⁵|0.45 × 10⁷|450 × 10⁴|4.5 × 10⁶|3|The first number must be at least 1 and less than 10.
+Write 0.00045 in standard form.|4.5 × 10⁴|4.5 × 10⁻³|45 × 10⁻⁵|4.5 × 10⁻⁴|3|Move the decimal point 4 places right.
+Work out (2 × 10³) × (3 × 10⁴).|6 × 10¹²|6 × 10⁷|5 × 10⁷|6 × 10¹|1|2 × 3 = 6 and 10³ × 10⁴ = 10⁷.
+Write 7.2 × 10⁻³ as an ordinary number.|0.072|7200|0.0072|0.00072|2|Move the decimal point 3 places left.
+Work out (6 × 10⁸) ÷ (2 × 10³).|3 × 10¹¹|4 × 10⁵|3 × 10⁵|3 × 10⁴|2|6 ÷ 2 = 3 and 10⁸ ÷ 10³ = 10⁵.
+Work out (4 × 10⁵) × (5 × 10³), giving your answer in standard form.|2 × 10⁹|20 × 10⁸|9 × 10⁸|2 × 10⁸|0|4 × 5 = 20, so 20 × 10⁸ = 2 × 10⁹.
+Work out 3 × 10⁴ + 2 × 10³, giving your answer in standard form.|3.2 × 10⁴|5 × 10⁴|3.2 × 10³|5 × 10⁷|0|30 000 + 2 000 = 32 000.

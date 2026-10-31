@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+A right-angled triangle has shorter sides 3 cm and 4 cm. What is the length of the hypotenuse?|5 cm|7 cm|6 cm|12 cm|0|3² + 4² = 9 + 16 = 25, and √25 = 5.
+Pythagoras' theorem for a right-angled triangle with hypotenuse c is:|a + b = c|a² − b² = c²|a² + b² = c²|a² × b² = c²|2|The square on the hypotenuse equals the sum of the squares on the other two sides.
+Which statement about similar shapes is true?|Corresponding angles are equal and corresponding sides are in the same ratio|All sides are equal|They always have the same area|They always have the same perimeter|0|Similar shapes are enlargements of each other, so angles stay the same and lengths scale.
+A rectangle 2 cm by 3 cm is enlarged to 4 cm by 6 cm. What is the scale factor?|1.5|2|4|6|1|4 ÷ 2 = 2 and 6 ÷ 3 = 2.
+A right-angled triangle has hypotenuse 13 cm and one shorter side 5 cm. How long is the other shorter side?|8 cm|18 cm|10 cm|12 cm|3|13² − 5² = 169 − 25 = 144, and √144 = 12.
+A triangle has sides 6 cm, 8 cm and 10 cm. Is it right-angled?|No, because 6 + 8 ≠ 10|No, because the sides are all different|Yes, because 6 + 8 > 10|Yes, because 6² + 8² = 10²|3|36 + 64 = 100 = 10², so the converse of Pythagoras' theorem holds.
+Two triangles are similar. Sides 4 cm and 10 cm correspond. A side of 6 cm in the first triangle corresponds to which side in the second?|12 cm|8 cm|9 cm|15 cm|3|The scale factor is 10 ÷ 4 = 2.5, and 6 × 2.5 = 15.
+A 6.5 m ladder leans against a wall with its foot 2.5 m from the wall. How high up the wall does it reach?|9 m|6 m|4 m|6.5 m|1|6.5² − 2.5² = 42.25 − 6.25 = 36, and √36 = 6.
+Two similar shapes have a length scale factor of 3. What is the area scale factor?|9|3|6|27|0|Area scales by the square of the length scale factor: 3² = 9.
+What is the length of the diagonal of a 9 cm by 12 cm rectangle?|15 cm|21 cm|108 cm|10.5 cm|0|9² + 12² = 81 + 144 = 225, and √225 = 15.

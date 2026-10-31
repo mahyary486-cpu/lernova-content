@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+A conclusion based on a very small sample is often:|Unreliable|Always correct|More accurate than a large sample|Impossible to question|0|Small samples may not represent the whole group.
+Correlation between two things shows that:|They are linked, but one need not cause the other|One definitely causes the other|They are unrelated|Both are random|0|Correlation does not prove causation.
+Which feature can make a graph misleading?|An axis that does not start at zero|A clear title|Labelled axes|A key|0|A truncated axis exaggerates differences.
+Which average is most affected by one very large extreme value?|Median|Mode|Range|Mean|3|The mean uses every value.
+'9 out of 10 people prefer brand X' — only 10 people were asked. What is the main concern?|The sample is too small|The percentage is wrong|Brand X is too cheap|10 is an even number|0|A larger, random sample is needed.
+The data are 2, 4, 6, 8 and 100. Which average best shows the typical value?|Mean, 24|Median, 6|Range, 98|Mode, 100|1|The mean is pulled up by the extreme value 100.
+Ice cream sales and sunburn cases both rise in summer. What explains the link?|Ice cream causes sunburn|A third variable: hot, sunny weather|Sunburn causes ice cream sales|It is pure coincidence|1|A hidden variable can cause both.
+A price rises from £50 to £60, then falls back to £50. What is the percentage fall?|16.7% (to 1 d.p.)|20%|10%|16.0%|0|The fall of 10 is measured against 60: 10 ÷ 60.
+A survey about exercise habits is carried out only at a gym. What is the problem?|The sample is biased|The sample is too random|The survey is too short|Percentages cannot be used|0|Gym users are not typical of everyone.
+A fair coin lands on heads 5 times in a row. What is the probability of heads on the next flip?|Less than 1/2|More than 1/2|1/2|0|2|Each flip is independent.

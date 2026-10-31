@@ -11,7 +11,7 @@
   "title": "National curriculum in England: mathematics programmes of study",
   "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study",
   "status": "OK",
-  "checked": "2026-10-28"
+  "checked": "2026-10-31"
  },
  "grades": [
   {
@@ -23,84 +23,306 @@
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/geometrical-properties-similarity-and-pythagoras-theorem/lessons",
      "lessons": 18,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Probability: possible outcomes",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/probability-possible-outcomes/lessons",
      "lessons": 14,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Probability: theoretical probabilities",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/probability-theoretical-probabilities/lessons",
      "lessons": 13,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Non-linear relationships",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/non-linear-relationships/lessons",
      "lessons": 10,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Expressions and formulae",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/expressions-and-formulae/lessons",
      "lessons": 12,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Trigonometry",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/trigonometry/lessons",
      "lessons": 12,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Standard form",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/standard-form/lessons",
      "lessons": 7,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Graphical representations",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/graphical-representations/lessons",
      "lessons": 9,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Maths and the environment",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/maths-and-the-environment/lessons",
      "lessons": 9,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Maths in the workplace",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/maths-in-the-workplace/lessons",
      "lessons": 18,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Thinking critically with maths",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/thinking-critically-with-maths/lessons",
      "lessons": 5,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
     },
     {
      "title": "Calculator functionality",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-9/units/calculator-functionality/lessons",
      "lessons": 6,
      "status": "OK",
-     "checked": "2026-10-28"
+     "checked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "grade": 10,
+   "subject": "Mathematics",
+   "topics": [
+    {
+     "title": "Algebraic manipulation",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/algebraic-manipulation/lessons",
+     "lessons": 13,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Simultaneous equations: 2 variables",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/simultaneous-equations-2-variables/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Percentages",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/percentages/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Arithmetic procedures: index laws",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/arithmetic-procedures-index-laws/lessons",
+     "lessons": 11,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Standard form calculations",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/standard-form-calculations/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Surds",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/surds/lessons",
+     "lessons": 1,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Sampling",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/sampling/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Graphical representations of data: scatter graphs and time series",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/graphical-representations-of-data-scatter-graphs-and-time-series/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Comparisons of numerical summaries of data",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/comparisons-of-numerical-summaries-of-data/lessons",
+     "lessons": 14,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Rounding, estimation and bounds",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/rounding-estimation-and-bounds/lessons",
+     "lessons": 3,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Ratio",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/ratio/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Linear graphs",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/linear-graphs/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Non-linear graphs",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/non-linear-graphs/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "2D and 3D shape: compound shapes",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/2d-and-3d-shape-compound-shapes/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Angles",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/angles/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Further transformations",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/further-transformations/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Similarity",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/similarity/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Plans and elevations",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/plans-and-elevations/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Right-angled trigonometry",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/right-angled-trigonometry/lessons",
+     "lessons": 11,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Bearings",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/bearings/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "grade": 11,
+   "subject": "Mathematics",
+   "topics": [
+    {
+     "title": "Algebraic fractions",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/algebraic-fractions/lessons",
+     "lessons": 2,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "2D and 3D shape: surface area and volume (pyramids, spheres and cones)",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/2d-and-3d-shape-surface-area-and-volume-pyramids-spheres-and-cones/lessons",
+     "lessons": 15,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Conditional probability",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/conditional-probability/lessons",
+     "lessons": 13,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Compound measures",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/compound-measures/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Real-life graphs",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/real-life-graphs/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Direct and inverse proportion",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/direct-and-inverse-proportion/lessons",
+     "lessons": 2,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Further sequences",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/further-sequences/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Inequalities",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/inequalities/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Vectors",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/vectors/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-10-31"
+    },
+    {
+     "title": "Loci and construction",
+     "url": "https://www.thenational.academy/teachers/programmes/maths-secondary-ks4-foundation/units/loci-and-construction/lessons",
+     "lessons": 13,
+     "status": "OK",
+     "checked": "2026-10-31"
     }
    ]
   }

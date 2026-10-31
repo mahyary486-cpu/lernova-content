@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+How many possible outcomes are there when you roll one fair six-sided die?|6|1|12|36|0|The outcomes are 1, 2, 3, 4, 5 and 6.
+A coin is flipped twice. How many possible outcomes are there?|2|3|4|8|2|HH, HT, TH and TT.
+What is a sample space?|A list of all possible outcomes|The most likely outcome|The number of trials done|The probability of an event|0|The sample space contains every possible outcome of an experiment.
+A letter is chosen from the word MATHS. How many possible outcomes are there?|4|6|1|5|3|M, A, T, H and S are 5 different letters.
+Two fair dice are rolled. How many possible outcomes are there in total?|36|12|18|6|0|6 × 6 = 36.
+A shop sells T-shirts in 3 colours and 2 sizes. How many different T-shirts are possible?|5|3|9|6|3|3 × 2 = 6 combinations.
+A coin is flipped and a die is rolled. How many possible outcomes are there?|8|6|12|36|2|2 × 6 = 12.
+Two fair dice are rolled. In how many ways can the total be 7?|7|6|5|12|1|(1,6), (2,5), (3,4), (4,3), (5,2), (6,1).
+Three coins are flipped. How many possible outcomes are there?|6|9|3|8|3|2 × 2 × 2 = 8.
+How many different two-digit numbers can be made from the digits 1, 2 and 3 if no digit is repeated?|9|3|6|8|2|12, 13, 21, 23, 31, 32.

@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+Which of these is a quadratic equation?|y = 2x + 1|y = 5|y = x² + 1|y = x + 1|2|A quadratic has an x² term as its highest power.
+What is y when x = 3 in y = x²?|9|6|3|12|0|3² = 9.
+What is the shape of the graph of y = x²?|A straight line|A circle|A parabola (a U-shaped curve)|A zig-zag|2|Quadratic graphs are parabolas.
+Which graph is NOT a straight line?|y = 2x|y = x − 4|y = x³|y = 3|2|x³ gives a curve; the others are linear.
+What is y when x = −3 in y = x² − 4?|−13|−5|13|5|3|(−3)² − 4 = 9 − 4 = 5.
+Where does the graph of y = x² − 9 cross the x-axis?|x = 9 only|x = 3 only|x = 0 and x = 9|x = 3 and x = −3|3|Set y = 0: x² = 9, so x = ±3.
+What is y when x = 4 in y = 2ˣ?|16|8|6|32|0|2⁴ = 16.
+Where does y = x² − 2x − 3 cross the x-axis?|x = −3 and x = 1|x = 3 and x = 1|x = 2 and x = −3|x = 3 and x = −1|3|x² − 2x − 3 = (x − 3)(x + 1).
+What is the minimum value of y = (x − 1)² + 2?|1|3|−1|2|3|(x − 1)² ≥ 0, so the minimum is 2 when x = 1.
+What is y when x = 0.5 in y = 1/x?|2|0.5|0.25|5|0|1 ÷ 0.5 = 2.

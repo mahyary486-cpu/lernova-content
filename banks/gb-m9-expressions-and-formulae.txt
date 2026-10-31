@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+Simplify 3x + 2x.|5x²|6x|x|5x|3|Collect like terms: 3 + 2 = 5.
+Expand 2(x + 3).|2x + 3|x + 6|2x + 5|2x + 6|3|Multiply both terms by 2.
+Find the value of 3x − 1 when x = 4.|13|12|7|11|3|3 × 4 − 1 = 11.
+Factorise 4x + 8.|4(x + 8)|2(x + 4)+1|4(x + 2)|x(4 + 8)|2|4 is the highest common factor.
+Expand and simplify (x + 2)(x + 3).|x² + 6|x² + 5x + 5|x² + 6x + 5|x² + 5x + 6|3|x² + 3x + 2x + 6.
+Make t the subject of v = u + at.|t = v − u − a|t = a(v − u)|t = (v + u)/a|t = (v − u)/a|3|Subtract u, then divide by a.
+Simplify 3a × 4a.|12a²|7a|12a|7a²|0|3 × 4 = 12 and a × a = a².
+Factorise x² + 7x + 12.|(x + 2)(x + 6)|(x + 3)(x + 4)|(x + 1)(x + 12)|(x − 3)(x − 4)|1|3 × 4 = 12 and 3 + 4 = 7.
+Expand and simplify (x − 5)(x + 5).|x² + 25|x² − 25|x² − 10x − 25|x² − 10|1|Difference of two squares.
+Make x the subject of y = 3x − 7.|x = (y + 7)/3|x = (y − 7)/3|x = 3y + 7|x = y/3 + 7/3 − 2|0|Add 7, then divide by 3.

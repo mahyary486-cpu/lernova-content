@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+In a right-angled triangle, sin θ is equal to:|opposite ÷ hypotenuse|adjacent ÷ hypotenuse|opposite ÷ adjacent|hypotenuse ÷ opposite|0|SOH: Sine = Opposite / Hypotenuse.
+In a right-angled triangle, tan θ is equal to:|opposite ÷ hypotenuse|adjacent ÷ opposite|adjacent ÷ hypotenuse|opposite ÷ adjacent|3|TOA: Tangent = Opposite / Adjacent.
+A right-angled triangle has opposite side 3 and hypotenuse 5. What is sin θ?|0.8|0.75|1.67|0.6|3|3 ÷ 5 = 0.6.
+The hypotenuse of a right-angled triangle is:|The side next to the angle|The longest side, opposite the right angle|The shortest side|Any side|1|It is always opposite the right angle.
+A right-angled triangle has hypotenuse 10 cm and angle 30°. How long is the side opposite the 30° angle?|8.7 cm|20 cm|3 cm|5 cm|3|10 × sin 30° = 10 × 0.5 = 5.
+If tan θ = 1, what is θ?|30°|45°|60°|90°|1|tan 45° = 1.
+The opposite side is 6 and the adjacent side is 8. What is the angle θ, to 1 decimal place?|36.9°|53.1°|48.6°|41.4°|0|tan θ = 6/8 = 0.75, so θ = tan⁻¹(0.75).
+A 5 m ladder makes a 60° angle with the ground. How high up the wall does it reach, to 2 decimal places?|2.50 m|2.89 m|8.66 m|4.33 m|3|5 × sin 60° = 5 × 0.8660 = 4.33.
+You stand 40 m from a tower. The angle of elevation of the top is 25°. How tall is the tower (to 1 d.p.)?|37.3 m|17.0 m|85.8 m|18.7 m|3|40 × tan 25° ≈ 18.7 m.
+If cos θ = 0.5 for an acute angle θ, what is θ?|30°|45°|60°|90°|2|cos 60° = 0.5.

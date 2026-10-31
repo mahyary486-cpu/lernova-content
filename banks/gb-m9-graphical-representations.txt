@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+Which chart is best for showing how a whole is shared between categories?|Scatter graph|Pie chart|Line graph|Histogram|1|A pie chart shows proportions of a whole.
+What does a scatter graph show?|The share of a whole|Only one set of data|The mode of the data|The relationship between two variables|3|Each point has two values.
+In a bar chart, what does the height of a bar represent?|Angle|Class width|Probability|Frequency|3|Taller bars mean larger frequencies.
+A line graph is best for showing:|Shares of a total|Only categories|Change over time|Random outcomes|2|Lines join points to show trends.
+In a pie chart, 25% of the data is shown by a sector with what angle?|25°|90°|45°|180°|1|25% of 360° = 90°.
+What does positive correlation mean?|As one increases the other decreases|The variables are unrelated|As one variable increases, the other increases|Both stay the same|2|Points slope upwards.
+In a pie chart of 60 people, 12 chose football. What angle is the football sector?|12°|60°|120°|72°|3|12/60 × 360° = 72°.
+For a histogram with unequal class widths, the height of each bar shows:|Frequency|Class width|Cumulative frequency|Frequency density|3|Frequency density = frequency ÷ class width.
+A line of best fit on a scatter graph is mainly used to:|Find the mode|Prove causation|Remove outliers|Estimate values|3|It lets you predict one variable from the other.
+On a cumulative frequency graph with 80 values, the median is read at:|Cumulative frequency 80|Cumulative frequency 20|Cumulative frequency 60|Cumulative frequency 40|3|The median is the middle value: 80 ÷ 2 = 40.

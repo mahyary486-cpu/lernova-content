@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+Which key on a calculator finds a square root?|x²|π|√|Ans|2|The √ key gives the square root.
+A calculator shows 3.5E4. What number is this?|3.5|35 000|350|3 500 000|1|E4 means × 10⁴.
+Using the correct order of operations, what is 2 + 3 × 4?|14|20|24|9|0|Multiply first: 3 × 4 = 12, then add 2.
+What does the Ans key do?|Clears the screen|Switches to radians|Uses the previous answer in a new calculation|Prints the answer|2|It recalls the last result.
+For angle problems measured in degrees, the calculator must be in:|Radian mode|Standard form mode|Table mode|Degree mode|3|Wrong mode gives wrong sin, cos and tan values.
+Work out (3 + 5)².|34|64|28|16|1|8² = 64.
+In degree mode, what is sin 90°?|0|1|0.5|90|1|sin 90° = 1.
+Which entry gives the answer 2 for 12 divided by 3 × 2?|12 ÷ 3 × 2|(12 ÷ 3) × 2|12 × 3 ÷ 2|12 ÷ (3 × 2)|3|Brackets make the calculator divide by the whole 3 × 2.
+Work out 2⁵ using the power key.|10|32|25|64|1|2 × 2 × 2 × 2 × 2 = 32.
+What is 1/4 + 1/2 as a fraction, using the fraction key?|2/6|1/6|3/4|2/4|2|1/4 + 2/4 = 3/4.

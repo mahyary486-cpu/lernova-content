@@ -17,11 +17,13 @@ def git(*a):
     r = subprocess.run(['git'] + list(a), capture_output=True, text=True)
     return r.returncode, r.stdout
 
-def tree_ids(index):
+def tree_ids(index, skip_link_only=False):
     out = set()
     for g in index.get('grades', []):
         cc = g.get('country', 'US')
         out.add((cc,))
+        if skip_link_only and g.get('linkOnly'):
+            continue  # link-only grades are generated from links/*.json and may be rebuilt
         for c in g.get('chapters', []):
             out.add((cc, c['id']))
             for l in c.get('lessons', []):
@@ -40,7 +42,7 @@ base = 'origin/main' if rc == 0 else 'HEAD'
 rc, remote_index = git('show', base + ':index.json')
 mine = json.load(open('index.json', encoding='utf-8'))
 theirs = json.loads(remote_index) if rc == 0 and remote_index.strip() else {'grades': []}
-lost = sorted(tree_ids(theirs) - tree_ids(mine))
+lost = sorted(tree_ids(theirs, True) - tree_ids(mine))
 countries_lost = sorted({t[0] for t in lost if len(t) == 1})
 say(not lost, 'index.json keeps every country, chapter and lesson that is on %s' % base +
     ('' if not lost else '  -> MISSING: countries %s, plus %d chapters/lessons (first: %s)' % (

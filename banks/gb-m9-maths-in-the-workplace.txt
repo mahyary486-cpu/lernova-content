@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+A job pays £12 per hour. How much is earned in 8 hours?|£20|£86|£108|£96|3|12 × 8 = 96.
+VAT is 20%. How much VAT is added to a £50 item?|£10|£20|£5|£2.50|0|20% of 50 = 10.
+Profit is calculated as:|Cost price − selling price|Selling price + cost price|Selling price − cost price|Cost price ÷ selling price|2|Profit is what is left after costs.
+Gross pay is:|Pay after tax|Only overtime pay|Pay for one hour|Pay before deductions such as tax|3|Net pay is after deductions.
+An item costs £80 and is sold for £100. What is the percentage profit?|20%|80%|25%|125%|2|Profit £20 on cost £80 = 25%.
+A £60 coat has 15% off. What is the sale price?|£51|£45|£9|£69|0|60 × 0.85 = 51.
+Overtime is paid at time and a half. The normal rate is £10 per hour. How much is earned for 4 hours of overtime?|£40|£60|£50|£15|1|10 × 1.5 × 4 = 60.
+£1000 is invested at 5% compound interest per year. How much is it worth after 2 years?|£1100|£1050|£1250|£1102.50|3|1000 × 1.05² = 1102.50.
+A price of £100 is increased by 20% and then the new price is decreased by 20%. What is the final price?|£100|£96|£104|£90|1|100 × 1.2 × 0.8 = 96.
+The exchange rate is £1 = €1.15. How many euros do you get for £200?|€173.91|€200|€215|€230|3|200 × 1.15 = 230.

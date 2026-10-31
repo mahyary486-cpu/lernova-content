@@ -1,0 +1,11 @@
+#EEEEMMMHHH
+45 out of 60 bottles are recycled. What percentage is that?|75%|45%|60%|25%|0|45 ÷ 60 = 0.75.
+Electricity costs £0.25 per kWh. What do 120 kWh cost?|£12|£48|£30|£3|2|120 × 0.25 = 30.
+A carbon footprint measures:|The size of a forest|Rainfall in a year|Greenhouse gases produced by activities|Water used in a house|2|It is usually given in kg or tonnes of CO₂.
+How many litres are there in 1 cubic metre?|100|10|10 000|1000|3|1 m³ = 1000 litres.
+A car travels 12 km per litre of fuel. How much fuel is needed for a 90 km journey?|7.5 litres|8 litres|1080 litres|6.5 litres|0|90 ÷ 12 = 7.5.
+A water tank is 2.5 m by 2 m by 1 m. How many litres can it hold?|500 litres|50 litres|5.5 litres|5000 litres|3|Volume 5 m³ = 5000 litres.
+Energy use falls from 400 kWh to 340 kWh. What is the percentage decrease?|60%|17.6%|15%|85%|2|60 ÷ 400 = 0.15.
+A population of 2000 animals falls by 10% each year. How many are left after 2 years?|1600|1800|1620.5 rounded up to 1700|1620|3|2000 × 0.9 × 0.9 = 1620.
+A solar panel produces 1.2 kW for 5 hours. How much energy is that?|0.24 kWh|6 kWh|6.2 kWh|1.2 kWh|1|Energy = power × time = 1.2 × 5.
+Town A recycles 18 of 24 bags; town B recycles 21 of 30. Which has the higher recycling rate?|Town B (70% compared with 75%)|They are equal|Town B (21 is more than 18)|Town A (75% compared with 70%)|3|18/24 = 75% and 21/30 = 70%.
