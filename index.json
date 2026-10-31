@@ -3016,7 +3016,7 @@
           ]
         }
       ]
-    },
+    },{"grade": 12, "subject": "Science", "country": "DE", "chapters": [{"id": "de-p12-qp", "title": "Quantenphysik: Photonen und Materiewellen", "lessons": [{"id": "de-p12-qp-01", "title": "Der Photoeffekt"}, {"id": "de-p12-qp-02", "title": "Photonen und Energie"}, {"id": "de-p12-qp-03", "title": "Welle-Teilchen-Dualismus"}, {"id": "de-p12-qp-04", "title": "Atommodell und Spektren"}]}, {"id": "de-c12-or", "title": "Organische Chemie: Kohlenwasserstoffe und funktionelle Gruppen", "lessons": [{"id": "de-c12-or-01", "title": "Alkane"}, {"id": "de-c12-or-02", "title": "Alkene und Alkine"}, {"id": "de-c12-or-03", "title": "Alkohole, Aldehyde und Ketone"}, {"id": "de-c12-or-04", "title": "Carbonsäuren und Ester"}]}, {"id": "de-b12-ev", "title": "Evolution", "lessons": [{"id": "de-b12-ev-01", "title": "Evolutionstheorien"}, {"id": "de-b12-ev-02", "title": "Mutation, Selektion und Evolutionsfaktoren"}, {"id": "de-b12-ev-03", "title": "Artbildung"}, {"id": "de-b12-ev-04", "title": "Belege und Stammbäume"}]}]},
     {
       "grade": 9,
       "subject": "Physics",

@@ -1,0 +1,6 @@
+{
+ "Der Photoeffekt": "Beim Photoeffekt löst Licht nur oberhalb der Grenzfrequenz Elektronen aus. Ek,max hängt von der Frequenz, nicht von der Intensität ab; das widerspricht der Wellentheorie des Lichts.",
+ "Photonen und Energie": "Photonen tragen die Energie E = h·f und den Impuls p = h/λ. Die Einsteinsche Gleichung lautet Ek,max = h·f − W_A; die Grenzfrequenz ist f_g = W_A/h.",
+ "Welle-Teilchen-Dualismus": "Licht und Materie zeigen Wellen- und Teilchencharakter. Die de-Broglie-Wellenlänge ist λ = h/(m·v); Elektronenbeugung bestätigt sie. Die Unschärferelation begrenzt gleichzeitige Messungen von Ort und Impuls.",
+ "Atommodell und Spektren": "Atome haben quantisierte Energieniveaus (Wasserstoff: E_n = −13,6 eV/n²). Übergänge erzeugen oder absorbieren Photonen mit E = ΔE und damit Linienspektren."
+}

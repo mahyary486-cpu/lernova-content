@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welcher Effekt zeigt den Teilchencharakter des Lichts?|Photoeffekt|Interferenz|Dopplereffekt|Reflexion|0|Beim Photoeffekt löst Licht Elektronen aus einem Metall.
+Wie heißen die Lichtteilchen?|Neutronen|Photonen|Protonen|Elektronen|1|Lichtquanten heißen Photonen.
+Wie lautet die Energie eines Photons?|E = h · f|E = U · I|E = m · c|E = F · s|0|h ist das Plancksche Wirkungsquantum.
+Wie heißt die Konstante h?|Gravitationskonstante|Plancksches Wirkungsquantum|Lichtgeschwindigkeit|Boltzmann-Konstante|1|h = 6,63 · 10^-34 Js.
+Welche Einheit hat die Frequenz?|Joule|Volt|Watt|Hertz|3|1 Hz = 1/s.
+Wie groß ist die Lichtgeschwindigkeit im Vakuum etwa?|3000 km/s|300 000 km/s|340 m/s|30 000 km/s|1|c ≈ 3 · 10^8 m/s.
+Welche Teilchen löst Licht beim äußeren Photoeffekt aus dem Metall?|Protonen|Atomkerne|Elektronen|Neutronen|2|Die Elektronen heißen Photoelektronen.
+Was geschieht bei Licht unterhalb der Grenzfrequenz?|Das Metall schmilzt|Es entstehen Protonen|Es werden keine Elektronen ausgelöst|Es werden Elektronen mit hoher Energie ausgelöst|2|Die Photonenenergie reicht nicht für die Austrittsarbeit.
+Wer erklärte den Photoeffekt mit Lichtquanten?|Isaac Newton|Galileo Galilei|Albert Einstein|Charles Darwin|2|Einstein erhielt dafür den Nobelpreis.
+Welche Farbe des sichtbaren Lichts hat die höchste Frequenz?|Rot|Grün|Gelb|Violett|3|Violett hat die höchste Frequenz und kürzeste Wellenlänge.
+Welche Einheit hat die Energie?|Ampere|Pascal|Newton|Joule|3|1 J = 1 N · m.
+Was ist ein Elektronenvolt (eV)?|Eine Einheit der Masse|Eine Einheit der Ladung|Eine Einheit der Zeit|Eine Energieeinheit|3|1 eV ≈ 1,6 · 10^-19 J.
+Welches Modell beschreibt Elektronen mit festen Energieniveaus?|Bohrsches Atommodell|Kerzenmodell|Rosinenkuchenmodell|Daltons Kugelmodell|0|Bohr führte quantisierte Bahnen ein.
+Wie entsteht ein Linienspektrum?|Durch Magnetismus|Durch Übergänge von Elektronen zwischen Energieniveaus|Durch Schmelzen|Durch Reflexion|1|Jeder Übergang liefert ein Photon bestimmter Energie.
+Welcher Versuch zeigt die Welleneigenschaft des Lichts?|Millikan-Versuch|Doppelspaltversuch|Rutherford-Streuversuch|Photoeffekt|1|Interferenz ist ein Wellenphänomen.
+Welchen Charakter haben Elektronen nach der Quantenphysik?|Teilchen- und Wellencharakter|Nur Teilchencharakter|Nur Wellencharakter|Keinen von beiden|0|Das ist der Welle-Teilchen-Dualismus.
+Wie heißt der Zustand niedrigster Energie eines Atoms?|Grundzustand|Ionisierung|Anregungszustand|Plasma|0|Im Grundzustand ist n = 1.
+Wie lautet die Gleichung des Photoeffekts?|Ek = h·f + W_A|Ek = W_A / h|Ek = h / f|Ek = h·f − W_A|3|Die Photonenenergie minus Austrittsarbeit ergibt die kinetische Energie.
+Wie berechnet man die Grenzfrequenz?|f_g = W_A / h|f_g = W_A · c|f_g = h / W_A|f_g = W_A · h|0|Bei f_g gilt h · f_g = W_A.
+Was bewirkt höhere Lichtintensität bei gleicher Frequenz über der Grenzfrequenz?|Mehr Elektronen pro Zeit, gleiche maximale Energie|Weniger Elektronen|Höhere maximale Elektronenenergie|Keine Wirkung|0|Die Intensität steuert die Photonenzahl.
+Was bewirkt höhere Frequenz über der Grenzfrequenz?|Kleinere Energie|Mehr Elektronen bei gleicher Energie|Größere maximale kinetische Energie der Elektronen|Keine Wirkung|2|Ek,max wächst linear mit f.
+Was ist die Austrittsarbeit?|Mindestenergie, um ein Elektron aus dem Metall zu lösen|Spannung der Lampe|Masse des Elektrons|Gesamtenergie des Lichts|0|Sie ist materialabhängig.
+Was beschreibt die Gegenfeldmethode?|Die Gegenspannung beschleunigt die Elektronen|Die Gegenspannung U0 bremst die Elektronen, es gilt e·U0 = Ek,max|Die Frequenz wird verdoppelt|Die Spannung ist immer null|1|So misst man die maximale kinetische Energie.
+Wie hängen Lichtgeschwindigkeit, Wellenlänge und Frequenz zusammen?|c = λ + f|c = f / λ|c = λ / f|c = λ · f|3|Das gilt für alle Wellen.
+Wie groß ist der Impuls eines Photons?|p = h · λ|p = h · f · c|p = λ / h|p = h / λ|3|Photonen haben Impuls, aber keine Ruhemasse.
+Wie lautet die de-Broglie-Wellenlänge?|λ = h / (m · v)|λ = m / (h · v)|λ = h · m · v|λ = m · v / h|0|Materie hat die Wellenlänge λ = h/p.
+Was zeigten Davisson und Germer?|Radioaktivität|Röntgenstrahlen|Den Photoeffekt|Beugung von Elektronen am Kristall|3|Das bestätigte de Broglies Hypothese.
+Was gilt für die de-Broglie-Wellenlänge eines schnelleren Elektrons?|Sie wird größer|Sie verschwindet|Sie bleibt gleich|Sie wird kleiner|3|λ ist umgekehrt proportional zu v.
+Wie lauten die Energieniveaus des Wasserstoffatoms?|E_n = −13,6 eV · n|E_n = 13,6 eV / n|E_n = −13,6 eV / n²|E_n = +13,6 eV · n|2|Die Energie ist negativ (gebunden).
+Welche Energie ionisiert Wasserstoff im Grundzustand?|0 eV|1,5 eV|3,4 eV|13,6 eV|3|Das Elektron wird dabei völlig abgelöst.
+Wann emittiert ein Atom ein Photon?|Nur im Grundzustand|Beim Übergang auf ein tieferes Niveau|Beim Übergang auf ein höheres Niveau|Nie|1|Die Energiedifferenz wird abgestrahlt.
+Wann absorbiert ein Atom ein Photon?|Nur wenn das Photon sehr groß ist|Wenn die Photonenenergie genau einer Niveaudifferenz entspricht|Bei jeder Photonenenergie|Nie|1|Nur passende Energien werden aufgenommen.
+Was kennzeichnet die Balmer-Serie?|Übergänge auf n = 2 (sichtbarer Bereich)|Übergänge auf n = 10|Übergänge auf n = 1|Übergänge auf n = 3|0|Die Lyman-Serie (n = 1) liegt im UV.
+Wie groß ist die Photonenenergie bei einem Übergang?|E = E_höher − E_tiefer|E = E_höher + E_tiefer|E = E_höher · E_tiefer|E = 0|0|Die Differenz der Niveaus.
+Was besagt die Heisenbergsche Unschärferelation?|Licht hat keine Masse|Elektronen haben feste Bahnen|Ort und Impuls sind nicht gleichzeitig beliebig genau bestimmbar|Die Energie ist unendlich|2|Das ist eine Grenze der Quantenphysik.
+Welche Aussage über Photonen stimmt?|Sie haben große Ruhemasse|Sie sind positiv geladen|Sie haben keine Ruhemasse|Sie sind negativ geladen|2|Photonen sind masselos und neutral.
+Wie groß ist die Energie eines Photons mit f = 6·10^14 Hz?|4,0 · 10^19 J|4,0 · 10^-19 J|1,1 · 10^-48 J|4,0 · 10^-48 J|1|E = 6,63·10^-34 · 6·10^14 ≈ 4,0·10^-19 J.
+Welche Frequenz hat Licht der Wellenlänge 500 nm?|1,5 · 10^15 Hz|6 · 10^14 Hz|1,5 · 10^-15 Hz|6 · 10^6 Hz|1|f = c/λ = 3·10^8 / 5·10^-7 = 6·10^14 Hz.
+W_A = 2,0 eV, Photonenenergie 3,0 eV. Wie groß ist Ek,max?|0 eV|6,0 eV|1,0 eV|5,0 eV|2|3,0 eV − 2,0 eV = 1,0 eV.
+W_A = 4,0 eV, Photonenenergie 3,0 eV. Was geschieht?|Elektronen mit 4 eV|Es werden keine Elektronen ausgelöst|Elektronen mit 7 eV|Elektronen mit 1 eV|1|Die Photonenenergie liegt unter der Austrittsarbeit.
+Die Gegenspannung beträgt 1,5 V. Wie groß ist Ek,max?|3,0 eV|1,5 eV|15 eV|0,75 eV|1|Ek,max = e · U0 = 1,5 eV.
+Die Frequenz wird verdoppelt (über der Grenzfrequenz). Was verdoppelt sich genau?|Die Zahl der Elektronen|Die Austrittsarbeit|Die kinetische Energie der Elektronen|Die Photonenenergie|3|Ek = hf − W_A verdoppelt sich nicht genau.
+Ein Elektron hat v = 1·10^6 m/s (m = 9,11·10^-31 kg). Welche de-Broglie-Wellenlänge hat es?|7,3 · 10^-34 m|0,73 µm|0,073 nm|0,73 nm|3|λ = 6,63·10^-34 / (9,11·10^-31 · 10^6) ≈ 7,3·10^-10 m.
+Wie groß ist der Impuls eines Photons mit λ = 600 nm?|1,1 · 10^-27 kg·m/s|1,1 · 10^27 kg·m/s|4,0 · 10^-40 kg·m/s|3,98 · 10^-19 kg·m/s|0|p = h/λ = 6,63·10^-34 / 6·10^-7.
+Welche Energie hat das Photon beim Übergang n = 3 → n = 2 im Wasserstoffatom?|ca. 1,9 eV|12,1 eV|3,4 eV|10,2 eV|0|−1,51 eV − (−3,40 eV) = 1,89 eV.
+Welche Energie ist für die Anregung von n = 1 auf n = 2 nötig?|10,2 eV|13,6 eV|17,0 eV|3,4 eV|0|−3,4 eV − (−13,6 eV) = 10,2 eV.
+Warum zeigen Atome diskrete Spektrallinien?|Weil Kerne strahlen|Weil Elektronen ruhen|Weil Licht nur aus Wellen besteht|Weil nur bestimmte Energieniveaus erlaubt sind|3|Die Niveaus sind quantisiert.
+Welche Beobachtung ist mit der Wellentheorie des Lichts nicht erklärbar?|Elektronen besitzen Ladung|Ek,max hängt nicht von der Intensität ab|Licht ist elektromagnetisch|Metalle leiten Strom|1|Nach der Wellentheorie müsste mehr Intensität mehr Energie liefern.
+Was entsteht beim Doppelspaltversuch mit einzelnen Elektronen nach vielen Durchläufen?|Ein Interferenzmuster|Zwei exakte Streifen|Nur ein Punkt|Kein Muster|0|Das zeigt den Wellencharakter der Materie.
+W_A = 2,3 eV, Licht mit f = 6,0·10^14 Hz. Wie groß ist Ek,max etwa?|2,5 eV|0 eV|4,8 eV|ca. 0,2 eV|3|Photonenenergie ≈ 2,48 eV; Differenz ≈ 0,18 eV.

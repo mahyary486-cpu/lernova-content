@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wer begründete die Evolutionstheorie der natürlichen Selektion?|Isaac Newton|Charles Darwin|Louis Pasteur|Gregor Mendel|1|Darwin veröffentlichte 1859 „Die Entstehung der Arten“.
+Auf welcher Inselgruppe beobachtete Darwin berühmte Finken?|Hawaii|Madagaskar|Galápagos|Kanaren|2|Die Schnabelformen passten zu den Nahrungsquellen.
+Wer nahm die Vererbung erworbener Eigenschaften an?|Ernst Haeckel|Gregor Mendel|Jean-Baptiste de Lamarck|Charles Darwin|2|Nach Lamarck vererben sich Gebrauch und Nichtgebrauch.
+Was ist Selektion?|Auslese der am besten angepassten Individuen|Rückbildung von Organen|Verschmelzung von Arten|Zufällige Neubildung von Genen|0|Die Umwelt bestimmt den Fortpflanzungserfolg.
+Wie nennt man eine Veränderung des Erbguts?|Migration|Isolation|Mutation|Selektion|2|Mutationen schaffen neue Allele.
+Was bezeichnet Fitness in der Evolution?|Körperkraft|Lebensalter|Körpergröße|Fortpflanzungserfolg|3|Entscheidend ist die Zahl fortpflanzungsfähiger Nachkommen.
+Was ist eine Population?|Gruppe von Individuen einer Art in einem Gebiet|Gesamtheit aller Arten|Ein Ökosystem|Ein einzelnes Individuum|0|Eine Population hat einen gemeinsamen Genpool.
+Was ist ein Fossil?|Ein Mineral|Erhaltener Rest oder Abdruck früherer Lebewesen|Ein Pilz|Ein lebendes Tier|1|Fossilien belegen die Stammesgeschichte.
+Welcher Fund gilt als Brückentier zwischen Reptilien und Vögeln?|Tyrannosaurus|Trilobit|Mammut|Archaeopteryx|3|Er hatte Federn und Reptilienmerkmale.
+Wie nennt man Organe gleichen Ursprungs mit unterschiedlicher Funktion?|Homologe Organe|Analoge Organe|Rudimente|Atavismen|0|Homologie weist auf gemeinsame Abstammung.
+Welches Beispiel ist eine Homologie?|Vordergliedmaßen von Mensch, Wal und Fledermaus|Augen von Tintenfisch und Mensch|Flügel von Vogel und Insekt|Flossen von Hai und Delfin|0|Gleicher Bauplan, andere Funktion.
+Wie heißen zurückgebildete Organe ohne Funktion?|Analogien|Rudimente|Homologien|Fossilien|1|Beispiel: Beckenreste beim Wal.
+Welches Organ ist beim Menschen ein Rudiment?|Herz|Zunge|Steißbein|Leber|2|Das Steißbein ist ein Rest des Schwanzes.
+Was bedeutet Isolation in der Evolution?|Vermischung der Arten|Trennung von Populationen ohne Genaustausch|Verschmelzung von Populationen|Wachstum|1|Isolation ermöglicht getrennte Entwicklung.
+Welche Art gehört zur Gattung Homo?|Homo erectus|Archaeopteryx|Gorilla|Orang-Utan|0|Auch Homo sapiens gehört zur Gattung Homo.
+Mit welchen Menschenaffen sind wir am nächsten verwandt?|Orang-Utans|Makaken|Schimpansen|Gibbons|2|Auch Bonobos sind nah verwandt.
+Wie nennt man die Entstehung neuer Arten?|Photosynthese|Replikation|Artbildung (Speziation)|Mitose|2|Speziation führt zu Biodiversität.
+Welche Reihenfolge beschreibt Darwins Gedanken?|Zufall, Mutation, Gebrauch|Wunsch, Veränderung, Vererbung|Gebrauch, Nichtgebrauch, Vererbung|Überproduktion, Variation, Auslese, Fortpflanzung der Bestangepassten|3|Das Prinzip der natürlichen Selektion.
+Warum widerspricht die Genetik Lamarcks Giraffenhals?|Giraffen haben keinen Hals|Mutationen existieren nicht|Selektion gibt es nicht|Erworbene Eigenschaften verändern die Keimzellen nicht|3|Nur Veränderungen in Keimzellen werden vererbt.
+Wodurch entsteht Rekombination?|Zellatmung|Photosynthese|Mitose|Neukombination von Allelen bei Meiose und Befruchtung|3|Sie erhöht die Variabilität ohne neue Allele.
+Was ist Gendrift?|Zufällige Änderung der Allelhäufigkeiten, v. a. in kleinen Populationen|Selektion durch Feinde|Erhöhte Mutationsrate|Gezielte Anpassung|0|Zufall wirkt in kleinen Populationen stark.
+Was ist der Flaschenhalseffekt?|Starke Verkleinerung einer Population verringert die genetische Vielfalt|Zunahme der Vielfalt|Wanderung von Individuen|Vergrößerung der Population|0|Beispiel: Gepardenpopulationen.
+Was bedeutet Migration (Genfluss)?|Austausch von Allelen zwischen Populationen|Zerstörung des Lebensraums|Trennung von Populationen|Mutation|0|Zuwanderung verändert den Genpool.
+Was kennzeichnet stabilisierende Selektion?|Beide Extreme werden bevorzugt|Extremformen werden benachteiligt, der Mittelwert bleibt|Es gibt keine Selektion|Extremformen werden bevorzugt|1|Beispiel: Geburtsgewicht beim Menschen.
+Was kennzeichnet gerichtete Selektion?|Es gibt keine Selektion|Der Mittelwert wird bevorzugt|Eine Extremform wird bevorzugt, das Merkmal verschiebt sich|Beide Extreme werden bevorzugt|2|Beispiel: Antibiotikaresistenz.
+Was kennzeichnet disruptive Selektion?|Es gibt keine Selektion|Beide Extremformen sind im Vorteil, die Population kann sich aufspalten|Alle Formen sind gleich|Die Mitte ist im Vorteil|1|Sie kann zur Artbildung beitragen.
+Was zeigt der Industriemelanismus beim Birkenspanner?|Helle Form war immer im Vorteil|Dunkle Form war auf verrußten Bäumen im Vorteil|Beide Formen waren gleich|Es gab keine Selektion|1|Vögel fraßen die weniger getarnten Falter.
+Wie entsteht Antibiotikaresistenz?|Durch gezielte Anpassung der Bakterien|Durch absichtliche Mutation|Durch Selektion zufällig resistenter Bakterien|Durch Gewöhnung|2|Das Antibiotikum wirkt als Selektionsfaktor.
+Wie lautet der biologische Artbegriff?|Individuen im gleichen Lebensraum|Individuen gleicher Farbe|Individuen, die sich untereinander fruchtbar fortpflanzen|Individuen mit gleichem Aussehen|2|Reproduktive Isolation trennt Arten.
+Wodurch entsteht allopatrische Artbildung?|Durch räumliche (geografische) Trennung|Durch Veränderung im gleichen Gebiet|Durch Farbänderung|Durch Polyploidie|0|Beispiel: Inselpopulationen.
+Was ist adaptive Radiation?|Aufspaltung in viele Arten mit verschiedenen ökologischen Nischen|Aussterben|Zusammenführung von Arten|Wanderung|0|Beispiel: Darwinfinken.
+Was bedeutet Analogie?|Ähnliche Funktion bei verschiedener Herkunft|Organ ohne Funktion|Gleiche Herkunft|Gleiche Gene|0|Sie entsteht durch Konvergenz.
+Welches Beispiel ist Konvergenz?|Flossen von Hai und Delfin|Steißbein|Flügel von Fledermaus und Arm des Menschen|Arm von Mensch und Wal|0|Ähnliche Umwelt führt zu ähnlichen Merkmalen.
+Was ist ein Atavismus?|Eine Rückbildung|Ein neues Merkmal|Eine Tarnung|Auftreten eines Merkmals, das bei Vorfahren normal war|3|Beispiel: ausgeprägte Körperbehaarung beim Menschen.
+Was ist die molekulare Uhr?|Die Tageszeit|Die Zahl der Unterschiede in DNA oder Proteinen schätzt die Verwandtschaft|Das Alter von Gestein|Die Zellteilungsdauer|1|Mutationen häufen sich ungefähr gleichmäßig an.
+Was zeigt ein Kladogramm?|Verzweigungen nach gemeinsamen abgeleiteten Merkmalen|Das Alter der Arten|Die geografische Verbreitung|Nahrungsketten|0|Es bildet Verwandtschaft ab.
+Wie lautet die Hardy-Weinberg-Gleichung?|p² + 2pq + q² = 1|pq = 1|p + q² = 1|p² − q² = 1|0|p und q sind Allelhäufigkeiten.
+Das Allel a hat q = 0,3. Wie hoch ist die Häufigkeit des Genotyps aa?|0,6|0,3|0,21|0,09|3|q² = 0,3² = 0,09.
+Mit q = 0,3 und p = 0,7: Wie hoch ist die Häufigkeit der Heterozygoten?|0,49|0,42|0,09|0,21|1|2pq = 2 · 0,7 · 0,3 = 0,42.
+Welche Bedingung gilt für das Hardy-Weinberg-Gleichgewicht?|Keine Selektion, Mutation, Migration, Drift und zufällige Paarung|Nur Inzucht|Starke Selektion|Sehr kleine Population|0|Nur dann bleiben die Häufigkeiten gleich.
+Der Genotyp aa tritt zu 4 % auf (q² = 0,04). Wie hoch ist die Häufigkeit des Allels a?|0,2|0,4|0,04|0,02|0|q = √0,04 = 0,2.
+Was ist sympatrische Artbildung?|Artbildung ohne räumliche Trennung, z. B. durch Polyploidie|Artbildung nur durch Berge|Sie ist unmöglich|Artbildung nur auf Inseln|0|Häufig bei Pflanzen.
+Welches ist ein Beispiel für reproduktive Isolation?|Gemeinsamer Lebensraum|Gleiche Paarungszeit|Gleiche Chromosomenzahl|Unterschiedliche Balzrituale|3|Verhaltensbarrieren verhindern Paarung.
+Warum ist ein Maultier steril?|Die Chromosomen von Pferd und Esel sind nicht paarweise homolog|Es hat zu viele Gene|Es isst zu wenig|Es besitzt keine Chromosomen|0|Die Meiose kann nicht regulär ablaufen.
+Was bedeutet Koevolution?|Rückbildung von Organen|Parallelentwicklung ohne Wechselwirkung|Wechselseitige Anpassung zweier Arten, z. B. Blüte und Bestäuber|Aussterben beider Arten|2|Die Selektion wirkt wechselseitig.
+Warum bleibt das Sichelzell-Allel in Malariagebieten häufig?|Heterozygote sind gegen Malaria besser geschützt|Malaria fehlt dort|Homozygote sind besonders gesund|Die Mutationsrate ist dort hoch|0|Das ist ein Heterozygotenvorteil.
+Warum ist DNA-Vergleich oft zuverlässiger als äußere Ähnlichkeit?|DNA gibt es nur beim Menschen|DNA verändert sich nie|Aussehen ist immer exakter|Konvergenz kann ähnliche Merkmale ohne Verwandtschaft erzeugen|3|Gene spiegeln Verwandtschaft direkt wider.
+Worin unterscheiden sich Lamarck und Darwin im Kern?|Beide sind gleich|Lamarck kennt die Selektion|Darwin lehnt Variation ab|Lamarck: Vererbung erworbener Eigenschaften; Darwin: Selektion vorhandener Variation|3|Darwin kannte den Mechanismus der Vererbung noch nicht.
+Warum sind Mensch und Schimpanse in der DNA sehr ähnlich?|Gleiche Umwelt|Der Mensch stammt vom heutigen Schimpansen ab|Sie haben einen gemeinsamen Vorfahren vor einigen Millionen Jahren|Reiner Zufall|2|Wir stammen nicht von heutigen Schimpansen ab.
+Warum kann Hilfe für Verwandte die Gesamtfitness erhöhen?|Es erhöht nie die Fitness|Es kostet nichts|Zufall|Verwandte teilen Allele (Verwandtenselektion)|3|Die Weitergabe gemeinsamer Allele zählt.

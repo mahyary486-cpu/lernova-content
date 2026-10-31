@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Wie lautet die allgemeine Formel der Alkane?|CnH2n−2|CnH2n|CnHn|CnH2n+2|3|Alkane sind gesättigt.
+Wie heißt das einfachste Alkan?|Ethan|Propan|Methan|Butan|2|Methan hat ein C-Atom.
+Wie lautet die Formel von Methan?|CH4|CH3OH|CO2|C2H6|0|Ein C-Atom, vier H-Atome.
+Alkane sind|Salze|ungesättigte Kohlenwasserstoffe|aromatische Verbindungen|gesättigte Kohlenwasserstoffe|3|Sie enthalten nur Einfachbindungen.
+Welche funktionelle Gruppe haben Alkohole?|Aldehydgruppe (−CHO)|Aminogruppe (−NH2)|Carboxygruppe (−COOH)|Hydroxygruppe (−OH)|3|Die OH-Gruppe bestimmt die Eigenschaften.
+Was kennzeichnet Alkene?|Nur Einfachbindungen|Ionenbindungen|Eine C≡C-Dreifachbindung|Eine C=C-Doppelbindung|3|Alkene sind ungesättigt.
+Wie heißt das einfachste Alkin?|Ethin|Methan|Ethen|Ethan|0|Ethin hat die Formel C2H2.
+Wie lautet die Formel von Ethanol?|C2H6|CH3CHO|C2H5OH|CH3COOH|2|Ethanol ist ein Alkohol mit zwei C-Atomen.
+Welche funktionelle Gruppe haben Carbonsäuren?|−OH|−CHO|−NH2|−COOH|3|Die Carboxygruppe.
+Welche Säure ist im Speiseessig?|Ameisensäure|Essigsäure|Zitronensäure|Milchsäure|1|Essigsäure = Ethansäure.
+Was entsteht bei der vollständigen Verbrennung eines Alkans?|Ruß und Sauerstoff|Kohlenstoffmonooxid und Wasserstoff|Kohlenstoffdioxid und Wasser|Methan|2|Voraussetzung ist genug Sauerstoff.
+Wie nennt man Verbindungen gleicher Summenformel mit verschiedener Struktur?|Isomere|Ionen|Polymere|Isotope|0|Beispiel: Butan und Isobutan.
+Welche funktionelle Gruppe haben Aldehyde?|−OH|−CHO|−COOH|C=C|1|Die Gruppe sitzt am Kettenende.
+Wie viele C-Atome hat Propan?|3|5|4|2|0|Prop = 3.
+Wie lautet die Formel von Ethen?|C2H2|CH4|C2H4|C2H6|2|CnH2n mit n = 2.
+Was wird bei Alkenen durch Bromwasser sichtbar?|Nichts|Entfärbung|Aufschäumen|Rotfärbung|1|Brom addiert sich an die Doppelbindung.
+Woraus entstehen Ester?|Alkan und Wasser|Zwei Laugen|Carbonsäure und Alkohol|Zwei Alkoholen|2|Dabei wird Wasser abgespalten.
+Wie lautet die Formel von Butan?|C3H8|C4H10|C4H8|C4H6|1|CnH2n+2 mit n = 4.
+Wie lautet die Formel von Propen?|C3H4|C3H6|C3H8|C2H6|1|CnH2n mit n = 3.
+Wie ändert sich die Siedetemperatur der Alkane mit wachsender Kettenlänge?|Sie bleibt gleich|Sie sinkt|Sie ist zufällig|Sie steigt|3|Die van-der-Waals-Kräfte wachsen.
+Welche Reaktion läuft bei Alkanen mit Brom unter Licht ab?|Kondensation|Radikalische Substitution|Elektrophile Addition|Neutralisation|1|Ein H-Atom wird durch Br ersetzt.
+Welche Reaktion läuft bei Alkenen mit Brom ab?|Verbrennung|Substitution|Neutralisation|Addition|3|Die Doppelbindung wird zur Einfachbindung.
+Wie heißt die Reaktion von Säure und Alkohol zum Ester?|Verseifung|Hydrierung|Veresterung|Polymerisation|2|Sie ist eine Kondensationsreaktion.
+Welches Nebenprodukt entsteht bei der Veresterung?|Kohlenstoffdioxid|Wasserstoff|Sauerstoff|Wasser|3|Säure + Alkohol ⇌ Ester + Wasser.
+Welcher Katalysator wird bei der Veresterung verwendet?|Konzentrierte Schwefelsäure|Stickstoff|Natriumchlorid|Eisenpulver|0|Er beschleunigt die Gleichgewichtseinstellung.
+Was liefert die Oxidation primärer Alkohole?|Aldehyde und danach Carbonsäuren|Alkene|Alkane|Ketone|0|Ethanol wird zu Ethanal, dann zu Essigsäure.
+Was liefert die Oxidation sekundärer Alkohole?|Aldehyde|Alkane|Ketone|Carbonsäuren|2|Das C-Atom mit OH-Gruppe wird zur C=O-Gruppe.
+Wie verhalten sich tertiäre Alkohole bei Oxidation?|Sie liefern Alkane|Sie liefern leicht Aldehyde|Sie lassen sich nicht ohne C-C-Spaltung oxidieren|Sie liefern Carbonsäuren|2|Es fehlt das H-Atom am C-Atom mit OH.
+Warum siedet Ethanol höher als Ethan?|Ethanol ist leichter|Wasserstoffbrücken zwischen den Molekülen|Ethanol hat keine Bindungen|Ethan ist ein Salz|1|OH-Gruppen bilden Wasserstoffbrücken.
+Wie verhält sich Ethanol gegenüber Wasser?|Explosiv|Gut mischbar|Nicht mischbar|Fest|1|Die OH-Gruppe ist hydrophil.
+Wo sitzt die Carbonylgruppe bei Ketonen?|Innerhalb der Kette zwischen zwei C-Atomen|Als −COOH|Als −OH|Am Kettenende|0|Bei Aldehyden steht sie am Kettenende.
+Wie heißt das einfachste Keton?|Methanal|Propanon (Aceton)|Ethanol|Essigsäure|1|Propanon hat drei C-Atome.
+Aus welchen Stoffen entsteht Essigsäureethylester?|Essigsäure und Methan|Ameisensäure und Methanol|Ethanol und Propan|Essigsäure und Ethanol|3|Der Name nennt Säure und Alkohol.
+Wie heißt CH3OH?|Ethanol|Methanol|Methanal|Propanol|1|Methanol ist der einfachste Alkohol.
+Welche Formel hat Ameisensäure?|HCOOH|HCHO|CH3COOH|CH3OH|0|Methansäure.
+Was ist die Hydrierung eines Alkens?|Abspaltung von Wasser|Veresterung|Addition von Wasserstoff unter Bildung eines Alkans|Oxidation|2|Meist mit einem Nickel-Katalysator.
+Wie viele H-Atome hat ein Alkan mit 8 C-Atomen?|16|17|18|20|2|2·8 + 2 = 18.
+Wie viele H-Atome hat ein Alken mit 5 C-Atomen?|8|10|12|11|1|2·5 = 10.
+Wie viele Isomere hat Butan (C4H10)?|2|3|1|4|0|Butan und Isobutan (2-Methylpropan).
+Wie lautet die Gleichung der vollständigen Verbrennung von Methan?|CH4 + 2 O2 → CO2 + 2 H2O|CH4 + O2 → CO + H2O|CH4 + 2 O2 → C + 4 OH|2 CH4 + O2 → 2 CO + 4 H2|0|Die Gleichung ist auf beiden Seiten ausgeglichen.
+Wie viel Mol O2 verbraucht 1 mol Ethan bei vollständiger Verbrennung?|3,5 mol|2 mol|3 mol|7 mol|0|2 C2H6 + 7 O2 → 4 CO2 + 6 H2O.
+Was entsteht bei der Hydrierung von Ethin mit 2 mol H2?|Methan|Propan|Ethan|Ethen|2|Zuerst Ethen, dann Ethan.
+Welcher Alkohol ist ein sekundärer Alkohol?|Methanol|Propan-1-ol|Ethanol|Propan-2-ol|3|Das C-Atom mit OH trägt zwei C-Nachbarn.
+Was entsteht bei der Oxidation von Propan-2-ol?|Propanon|Propansäure|Propanal|Propan|0|Sekundäre Alkohole werden zu Ketonen oxidiert.
+Womit lassen sich Aldehyde nachweisen?|Fehling-Probe|Kalkwasser|Bromwasser|Lackmus|0|Aldehyde reduzieren Cu2+ zu rotem Cu2O.
+Warum sind Carbonsäuren stärker sauer als Alkohole?|Das Carboxylat-Anion ist mesomeriestabilisiert|Sie sind größer|Sie enthalten mehr Kohlenstoff|Sie enthalten Stickstoff|0|Die Ladung verteilt sich über zwei O-Atome.
+Welche Stoffe bilden durch Wasserstoffbrücken Dimere?|Edelgase|Alkene|Carbonsäuren|Alkane|2|Zwei Säuremoleküle verbinden sich über zwei H-Brücken.
+Was liefert die Verseifung eines Esters mit NaOH?|Nur Wasser|Alkan und CO2|Alkohol und Carboxylatsalz|Aldehyd und Wasserstoff|2|Die Esterspaltung in Basen verläuft vollständig.
+Warum siedet Butansäure höher als Butanal?|Ionenbindungen|Höhere Masse allein|Doppelbindungen|Wasserstoffbrücken zwischen den Säuremolekülen|3|Aldehyde bilden keine H-Brücken untereinander.
+Welche Verbindung ist ein Isomer von Ethanol?|Ethen|Methanol|Dimethylether (CH3OCH3)|Ethanal|2|Beide haben die Summenformel C2H6O.
