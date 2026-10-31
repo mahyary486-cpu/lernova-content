@@ -3241,6 +3241,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "subject": "Chemistry",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn9c-ch1",
+          "title": "我们周围的空气",
+          "lessons": [
+            {
+              "id": "cn9c-ch1-l1",
+              "title": "空气的成分"
+            },
+            {
+              "id": "cn9c-ch1-l2",
+              "title": "氧气"
+            },
+            {
+              "id": "cn9c-ch1-l3",
+              "title": "空气污染与保护"
+            }
+          ]
+        },
+        {
+          "id": "cn9c-ch2",
+          "title": "物质构成的奥秘",
+          "lessons": [
+            {
+              "id": "cn9c-ch2-l1",
+              "title": "分子和原子"
+            },
+            {
+              "id": "cn9c-ch2-l2",
+              "title": "原子的结构和离子"
+            },
+            {
+              "id": "cn9c-ch2-l3",
+              "title": "元素和化学式"
+            }
+          ]
+        },
+        {
+          "id": "cn9c-ch3",
+          "title": "自然界的水",
+          "lessons": [
+            {
+              "id": "cn9c-ch3-l1",
+              "title": "水的组成"
+            },
+            {
+              "id": "cn9c-ch3-l2",
+              "title": "水的净化"
+            },
+            {
+              "id": "cn9c-ch3-l3",
+              "title": "爱护水资源与物质的分类"
+            }
+          ]
+        },
+        {
+          "id": "cn9c-ch4",
+          "title": "化学方程式",
+          "lessons": [
+            {
+              "id": "cn9c-ch4-l1",
+              "title": "质量守恒定律"
+            },
+            {
+              "id": "cn9c-ch4-l2",
+              "title": "化学方程式的书写"
+            },
+            {
+              "id": "cn9c-ch4-l3",
+              "title": "利用化学方程式的简单计算"
+            }
+          ]
+        },
+        {
+          "id": "cn9c-ch5",
+          "title": "碳和碳的氧化物",
+          "lessons": [
+            {
+              "id": "cn9c-ch5-l1",
+              "title": "碳的单质"
+            },
+            {
+              "id": "cn9c-ch5-l2",
+              "title": "二氧化碳"
+            },
+            {
+              "id": "cn9c-ch5-l3",
+              "title": "一氧化碳"
+            }
+          ]
+        },
+        {
+          "id": "cn9c-ch6",
+          "title": "金属和金属材料",
+          "lessons": [
+            {
+              "id": "cn9c-ch6-l1",
+              "title": "金属材料"
+            },
+            {
+              "id": "cn9c-ch6-l2",
+              "title": "金属的化学性质"
+            },
+            {
+              "id": "cn9c-ch6-l3",
+              "title": "金属资源的利用和保护"
+            }
+          ]
+        },
+        {
+          "id": "cn9c-ch7",
+          "title": "溶液",
+          "lessons": [
+            {
+              "id": "cn9c-ch7-l1",
+              "title": "溶液的形成"
+            },
+            {
+              "id": "cn9c-ch7-l2",
+              "title": "饱和溶液和溶解度"
+            },
+            {
+              "id": "cn9c-ch7-l3",
+              "title": "溶质的质量分数"
+            }
+          ]
+        },
+        {
+          "id": "cn9c-ch8",
+          "title": "酸和碱",
+          "lessons": [
+            {
+              "id": "cn9c-ch8-l1",
+              "title": "常见的酸"
+            },
+            {
+              "id": "cn9c-ch8-l2",
+              "title": "常见的碱"
+            },
+            {
+              "id": "cn9c-ch8-l3",
+              "title": "酸碱中和与溶液的酸碱度"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
