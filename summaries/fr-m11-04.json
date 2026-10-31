@@ -1,0 +1,6 @@
+{
+ "Définition et propriétés algébriques de l’exponentielle": "La fonction exponentielle est l’unique fonction dérivable sur ℝ égale à sa dérivée et valant 1 en 0. On note exp(x) = e^x avec e = exp(1) ≈ 2,718. Elle vérifie e^(a+b) = e^a × e^b, e^(−a) = 1/e^a, e^(a−b) = e^a/e^b et (e^a)^n = e^(na).",
+ "Dérivée et variations de l’exponentielle": "La dérivée de exp est exp elle-même. Comme e^x > 0, la fonction exponentielle est strictement croissante sur ℝ. On en déduit que e^a < e^b équivaut à a < b. La tangente à la courbe en 0 a pour équation y = x + 1.",
+ "Fonctions de la forme exp(ax + b) et exp(−x)": "La fonction x ↦ e^(ax + b) a pour dérivée a e^(ax + b). Elle est croissante si a > 0 et décroissante si a < 0. En particulier (e^(−x))’ = −e^(−x) : la fonction x ↦ e^(−x) est strictement décroissante sur ℝ.",
+ "Équations, inéquations et études de fonctions avec exp": "Pour résoudre une équation ou une inéquation avec e^x, on se ramène à une égalité ou une comparaison d’exposants car l’exponentielle est strictement croissante. Pour étudier une fonction, on calcule la dérivée, on factorise par e^x (toujours positif) et on étudie le signe du facteur restant."
+}

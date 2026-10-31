@@ -1,0 +1,188 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 11,
+   "country": "FR",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "fr-m11-01",
+     "title": "Suites numériques : arithmétiques et géométriques",
+     "lessons": [
+      {
+       "id": "fr-m11-01-01",
+       "title": "Suites : définition, modes de génération et sens de variation"
+      },
+      {
+       "id": "fr-m11-01-02",
+       "title": "Suites arithmétiques"
+      },
+      {
+       "id": "fr-m11-01-03",
+       "title": "Suites géométriques"
+      },
+      {
+       "id": "fr-m11-01-04",
+       "title": "Sommes de termes consécutifs et algorithmes de seuil"
+      }
+     ]
+    },
+    {
+     "id": "fr-m11-02",
+     "title": "Second degré : forme canonique, discriminant et signe",
+     "lessons": [
+      {
+       "id": "fr-m11-02-01",
+       "title": "Forme canonique et sommet d’une parabole"
+      },
+      {
+       "id": "fr-m11-02-02",
+       "title": "Discriminant et racines d’un trinôme"
+      },
+      {
+       "id": "fr-m11-02-03",
+       "title": "Signe d’un trinôme et inéquations du second degré"
+      },
+      {
+       "id": "fr-m11-02-04",
+       "title": "Somme et produit des racines, problèmes"
+      }
+     ]
+    },
+    {
+     "id": "fr-m11-03",
+     "title": "Dérivation : nombre dérivé, fonction dérivée et variations",
+     "lessons": [
+      {
+       "id": "fr-m11-03-01",
+       "title": "Nombre dérivé et tangente à une courbe"
+      },
+      {
+       "id": "fr-m11-03-02",
+       "title": "Dérivées des fonctions usuelles et opérations"
+      },
+      {
+       "id": "fr-m11-03-03",
+       "title": "Dérivée d’un produit, d’un quotient et d’une fonction f(ax + b)"
+      },
+      {
+       "id": "fr-m11-03-04",
+       "title": "Dérivée et variations, extremums"
+      }
+     ]
+    },
+    {
+     "id": "fr-m11-04",
+     "title": "Fonction exponentielle",
+     "lessons": [
+      {
+       "id": "fr-m11-04-01",
+       "title": "Définition et propriétés algébriques de l’exponentielle"
+      },
+      {
+       "id": "fr-m11-04-02",
+       "title": "Dérivée et variations de l’exponentielle"
+      },
+      {
+       "id": "fr-m11-04-03",
+       "title": "Fonctions de la forme exp(ax + b) et exp(−x)"
+      },
+      {
+       "id": "fr-m11-04-04",
+       "title": "Équations, inéquations et études de fonctions avec exp"
+      }
+     ]
+    },
+    {
+     "id": "fr-m11-05",
+     "title": "Trigonométrie : radian, cosinus et sinus",
+     "lessons": [
+      {
+       "id": "fr-m11-05-01",
+       "title": "Radian et cercle trigonométrique"
+      },
+      {
+       "id": "fr-m11-05-02",
+       "title": "Cosinus et sinus : valeurs remarquables et symétries"
+      },
+      {
+       "id": "fr-m11-05-03",
+       "title": "Fonctions cosinus et sinus : parité et périodicité"
+      },
+      {
+       "id": "fr-m11-05-04",
+       "title": "Équations trigonométriques simples"
+      }
+     ]
+    },
+    {
+     "id": "fr-m11-06",
+     "title": "Produit scalaire et géométrie analytique",
+     "lessons": [
+      {
+       "id": "fr-m11-06-01",
+       "title": "Produit scalaire : définitions et propriétés"
+      },
+      {
+       "id": "fr-m11-06-02",
+       "title": "Produit scalaire dans un repère orthonormé et orthogonalité"
+      },
+      {
+       "id": "fr-m11-06-03",
+       "title": "Formule d’Al-Kashi et théorème de la médiane"
+      },
+      {
+       "id": "fr-m11-06-04",
+       "title": "Équation d’un cercle et droites définies par un vecteur normal"
+      }
+     ]
+    },
+    {
+     "id": "fr-m11-07",
+     "title": "Probabilités conditionnelles, variables aléatoires et loi binomiale",
+     "lessons": [
+      {
+       "id": "fr-m11-07-01",
+       "title": "Probabilité conditionnelle et arbres pondérés"
+      },
+      {
+       "id": "fr-m11-07-02",
+       "title": "Formule des probabilités totales et indépendance"
+      },
+      {
+       "id": "fr-m11-07-03",
+       "title": "Variable aléatoire : loi, espérance, variance et écart-type"
+      },
+      {
+       "id": "fr-m11-07-04",
+       "title": "Schéma de Bernoulli et loi binomiale"
+      }
+     ]
+    },
+    {
+     "id": "fr-m11-08",
+     "title": "Algorithmique et programmation : listes, fonctions et recherche",
+     "lessons": [
+      {
+       "id": "fr-m11-08-01",
+       "title": "Listes et compréhension de listes en Python"
+      },
+      {
+       "id": "fr-m11-08-02",
+       "title": "Fonctions, paramètres et valeurs renvoyées"
+      },
+      {
+       "id": "fr-m11-08-03",
+       "title": "Suites et algorithmes de seuil en Python"
+      },
+      {
+       "id": "fr-m11-08-04",
+       "title": "Balayage, dichotomie et recherche de racine"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "Probabilité conditionnelle et arbres pondérés": "La probabilité de B sachant A (avec P(A) ≠ 0) est P_A(B) = P(A ∩ B)/P(A), d’où P(A ∩ B) = P(A) × P_A(B). Dans un arbre pondéré, la probabilité d’une issue est le produit des probabilités le long du chemin, et la somme des probabilités des branches issues d’un nœud vaut 1.",
+ "Formule des probabilités totales et indépendance": "Si A et son contraire forment une partition de l’univers, P(B) = P(A ∩ B) + P(non A ∩ B) = P(A) P_A(B) + P(non A) P_non A(B). Deux événements A et B sont indépendants si P(A ∩ B) = P(A) × P(B), c’est-à-dire si P_A(B) = P(B).",
+ "Variable aléatoire : loi, espérance, variance et écart-type": "Une variable aléatoire X associe un nombre à chaque issue. Sa loi donne les probabilités p_i de chaque valeur x_i. L’espérance est E(X) = Σ p_i x_i, la variance V(X) = Σ p_i (x_i − E(X))² et l’écart-type σ(X) = √V(X).",
+ "Schéma de Bernoulli et loi binomiale": "Une épreuve de Bernoulli a deux issues, succès (probabilité p) et échec (probabilité 1 − p). La répétition de n épreuves identiques et indépendantes est un schéma de Bernoulli. Le nombre X de succès suit la loi binomiale B(n ; p) : P(X = k) = C(n,k) p^k (1 − p)^(n − k), avec E(X) = np et V(X) = np(1 − p)."
+}

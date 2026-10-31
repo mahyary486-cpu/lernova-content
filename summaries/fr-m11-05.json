@@ -1,0 +1,6 @@
+{
+ "Radian et cercle trigonométrique": "Un radian est la mesure de l’angle au centre qui intercepte un arc de longueur égale au rayon ; π radians valent 180°. Sur le cercle trigonométrique, à tout réel x correspond un point M dont le cosinus est l’abscisse et le sinus l’ordonnée. Deux réels qui diffèrent d’un multiple de 2π correspondent au même point.",
+ "Cosinus et sinus : valeurs remarquables et symétries": "Pour tout réel x : cos²x + sin²x = 1, avec −1 ≤ cos x ≤ 1 et −1 ≤ sin x ≤ 1. Les valeurs remarquables pour 0, π/6, π/4, π/3, π/2 et π sont à connaître. Les symétries du cercle donnent cos(−x) = cos x, sin(−x) = −sin x, cos(π − x) = −cos x, sin(π − x) = sin x, cos(π + x) = −cos x et sin(π + x) = −sin x.",
+ "Fonctions cosinus et sinus : parité et périodicité": "Les fonctions cosinus et sinus sont définies sur ℝ et périodiques de période 2π : cos(x + 2π) = cos x et sin(x + 2π) = sin x. Le cosinus est paire (courbe symétrique par rapport à l’axe des ordonnées), le sinus est impaire (symétrie par rapport à l’origine). Leurs courbes sont des sinusoïdes.",
+ "Équations trigonométriques simples": "Pour résoudre cos x = cos a, on utilise les solutions x = a + 2kπ ou x = −a + 2kπ. Pour sin x = sin a : x = a + 2kπ ou x = π − a + 2kπ. Sur un intervalle comme [0 ; 2π], on garde les valeurs qui y appartiennent."
+}

@@ -1,0 +1,6 @@
+{
+ "Produit scalaire : définitions et propriétés": "Le produit scalaire de u et v est le nombre u·v = ‖u‖ × ‖v‖ × cos θ où θ est l’angle entre les deux vecteurs (et 0 si l’un est nul). Il est symétrique et bilinéaire, et u·u = ‖u‖². Deux vecteurs non nuls sont orthogonaux si et seulement si u·v = 0.",
+ "Produit scalaire dans un repère orthonormé et orthogonalité": "Dans un repère orthonormé, si u(x ; y) et v(x’ ; y’), alors u·v = xx’ + yy’ et ‖u‖² = x² + y². Deux vecteurs sont orthogonaux si et seulement si xx’ + yy’ = 0. L’angle entre deux vecteurs non nuls se calcule avec cos θ = u·v/(‖u‖‖v‖).",
+ "Formule d’Al-Kashi et théorème de la médiane": "Dans un triangle ABC, avec a = BC, b = AC et c = AB : a² = b² + c² − 2bc cos A (formule d’Al-Kashi). On peut aussi écrire AB→·AC→ = (AB² + AC² − BC²)/2. Elle généralise le théorème de Pythagore.",
+ "Équation d’un cercle et droites définies par un vecteur normal": "Le cercle de centre Ω(a ; b) et de rayon r a pour équation (x − a)² + (y − b)² = r². Une droite de vecteur normal n(a ; b) a une équation de la forme ax + by + c = 0. Le cercle de diamètre [AB] est l’ensemble des points M tels que MA→·MB→ = 0."
+}

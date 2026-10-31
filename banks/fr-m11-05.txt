@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Combien vaut π radians en degrés ?|90°|180°|360°|60°|1|Un demi-tour mesure π radians, soit 180°.
+Que vaut cos(0) ?|0|−1|1/2|1|3|Le point associé à 0 est (1 ; 0).
+Que vaut sin(π/2) ?|1|0|−1|1/2|0|Le point associé à π/2 est (0 ; 1).
+Que vaut cos(π) ?|0|1|−1|π|2|Le point associé à π est (−1 ; 0).
+Que vaut sin(π/6) ?|√3/2|√2/2|1/2|1|2|C’est une valeur remarquable.
+Que vaut cos(π/3) ?|1/2|√3/2|√2/2|0|0|C’est une valeur remarquable.
+Quelle est la période des fonctions cosinus et sinus ?|π|1|π/2|2π|3|cos(x + 2π) = cos x et sin(x + 2π) = sin x.
+Pour tout réel x, cos²x + sin²x vaut :|0|1|2|cos(2x)|1|C’est la relation fondamentale de la trigonométrie.
+Que vaut sin(0) ?|1|0|−1|1/2|1|Le point associé à 0 est (1 ; 0).
+90° en radians vaut :|π|π/4|2π|π/2|3|90° = 180°/2 = π/2 rad.
+Que vaut cos(π/4) ?|√2/2|1/2|√3/2|1|0|C’est une valeur remarquable.
+Que vaut sin(−π/6) ?|1/2|−√3/2|−1/2|√3/2|2|Le sinus est impair : sin(−π/6) = −sin(π/6) = −1/2.
+Que vaut cos(2π/3) ?|1/2|−√3/2|−1/2|√3/2|2|cos(π − π/3) = −cos(π/3) = −1/2.
+60° en radians vaut :|π/3|π/6|π/4|2π/3|0|60° = 180°/3 = π/3 rad.
+cos x = 3/5 avec x dans [0 ; π]. Que vaut sin x ?|−4/5|2/5|16/25|4/5|3|sin²x = 1 − 9/25 = 16/25 et sin x ≥ 0 sur [0 ; π].
+Que vaut sin(π/3) ?|1/2|√3/2|√2/2|1|1|C’est une valeur remarquable.
+Résoudre cos x = 1 sur [0 ; 2π].|x = π|x = 0 ou x = 2π|x = π/2|x = 0 seulement|1|Le point (1 ; 0) correspond à 0 et à 2π.
+sin(π + x) est égal à :|sin x|cos x|−cos x|−sin x|3|Le point associé à π + x est le symétrique de celui de x par rapport à O.
+cos(π/2 − x) est égal à :|sin x|cos x|−sin x|−cos x|0|C’est la symétrie par rapport à la droite y = x.
+Quelle est la longueur de l’arc de cercle de rayon 2 et d’angle π/3 ?|π/3|2π|2π/3|π/6|2|Longueur = rayon × angle = 2 × π/3.
+Résoudre cos x = 1/2 sur [0 ; 2π].|x = π/3 ou x = 2π/3|x = π/6 ou x = 11π/6|x = π/3 ou x = 5π/3|x = π/3 seulement|2|cos x = cos(π/3) donne x = π/3 ou x = −π/3 + 2π = 5π/3.
+Résoudre sin x = 1/2 sur [0 ; 2π].|x = π/6 ou x = 5π/6|x = π/3 ou x = 2π/3|x = π/6 ou x = 7π/6|x = π/6 seulement|0|sin x = sin(π/6) donne x = π/6 ou x = π − π/6 = 5π/6.
+Résoudre cos x = 0 sur [0 ; 2π].|x = 0 ou x = π|x = π/2 seulement|x = π|x = π/2 ou x = 3π/2|3|Les points d’abscisse 0 sur le cercle sont (0 ; 1) et (0 ; −1).
+Résoudre sin x = −1 sur [0 ; 2π].|x = π/2|x = 3π/2|x = −π/2|x = π|1|sin x = −1 pour le point (0 ; −1), associé à 3π/2.
+Que vaut cos(7π/6) ?|√3/2|−√3/2|−1/2|1/2|1|7π/6 = π + π/6 donc cos(7π/6) = −cos(π/6) = −√3/2.
+Que vaut sin(5π/6) ?|−1/2|√3/2|−√3/2|1/2|3|sin(π − π/6) = sin(π/6) = 1/2.
+Que vaut cos(−π/3) ?|1/2|−1/2|√3/2|−√3/2|0|Le cosinus est pair : cos(−π/3) = cos(π/3) = 1/2.
+Simplifier cos(π − x) + cos x.|2cos x|−2cos x|0|1|2|cos(π − x) = −cos x, donc la somme est nulle.
+La fonction sinus est :|paire et de période 2π|impaire et de période π|impaire et de période 2π|paire et de période π|2|sin(−x) = −sin x et sin(x + 2π) = sin x.
+Résoudre sin x = −√2/2 sur [0 ; 2π].|x = 5π/4 ou x = 7π/4|x = π/4 ou x = 3π/4|x = 3π/4 ou x = 5π/4|x = 7π/4 seulement|0|sin(5π/4) = sin(7π/4) = −√2/2.

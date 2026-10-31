@@ -1,0 +1,6 @@
+{
+ "Listes et compréhension de listes en Python": "Une liste regroupe des valeurs entre crochets, repérées par un indice qui commence à 0. On accède au dernier élément avec L[-1] et à une tranche avec L[a:b]. Une compréhension de liste construit une liste en une ligne : [expression for x in range(n) if condition].",
+ "Fonctions, paramètres et valeurs renvoyées": "Une fonction se définit avec def, prend des paramètres et renvoie une valeur avec return. Les variables créées dans une fonction sont locales. Une fonction qui n’exécute pas return renvoie None. Une bonne fonction est courte, nommée clairement et testée avec plusieurs valeurs.",
+ "Suites et algorithmes de seuil en Python": "On calcule les termes d’une suite avec une boucle for ou while. Un algorithme de seuil utilise une boucle while pour trouver le premier rang n tel que u_n dépasse (ou passe sous) un seuil donné. Il faut que la condition de la boucle puisse devenir fausse, sinon la boucle ne s’arrête jamais.",
+ "Balayage, dichotomie et recherche de racine": "Pour encadrer la solution d’une équation f(x) = 0 avec f continue, on peut balayer des valeurs avec un pas fixe ou utiliser la dichotomie : on coupe l’intervalle [a ; b] en son milieu m et on garde la moitié où f change de signe. L’amplitude de l’intervalle est divisée par 2 à chaque étape."
+}

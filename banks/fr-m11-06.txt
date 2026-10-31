@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Soit u(2 ; 3) et v(1 ; 4). Que vaut u·v ?|11|14|6|8|1|u·v = 2 × 1 + 3 × 4 = 14.
+Les vecteurs u(1 ; 2) et v(2 ; −1) sont :|colinéaires|égaux|de même norme|orthogonaux|3|u·v = 2 − 2 = 0.
+Pour u(3 ; 4), que vaut u·u ?|25|7|5|12|0|u·u = 9 + 16 = 25 = ‖u‖².
+‖u‖ = 5, ‖v‖ = 2 et les vecteurs ont la même direction et le même sens. Que vaut u·v ?|7|3|10|0|2|cos 0 = 1 donc u·v = 5 × 2 = 10.
+Si deux vecteurs non nuls forment un angle droit, leur produit scalaire vaut :|1|−1|0|la somme de leurs normes|2|cos 90° = 0.
+Quelle est la définition du produit scalaire ?|u·v = ‖u‖ × ‖v‖ × cos θ|u·v = ‖u‖ + ‖v‖|u·v = ‖u‖ × ‖v‖ × sin θ|u·v = ‖u × v‖|0|θ est l’angle entre u et v.
+Quelle est l’équation du cercle de centre O et de rayon 3 ?|x² + y² = 3|x + y = 9|x² − y² = 9|x² + y² = 9|3|OM² = r² donne x² + y² = 9.
+Si u·v = 0 avec u et v non nuls, alors :|u et v sont colinéaires|u et v sont orthogonaux|u = v|u = −v|1|Le produit scalaire est nul si et seulement si les vecteurs sont orthogonaux.
+Pour u(−1 ; 2) et v(3 ; 1), que vaut u·v ?|1|−1|5|−5|1|u·v = −3 + 2 = −1.
+Que dit la propriété de symétrie du produit scalaire ?|u·v = −v·u|u·v = ‖u‖‖v‖|u·v = u + v|u·v = v·u|3|Le produit scalaire est symétrique.
+‖u‖ = 4, ‖v‖ = 3 et l’angle entre u et v vaut 60°. Que vaut u·v ?|6|12|3|6√3|0|4 × 3 × cos 60° = 12 × 1/2 = 6.
+Quelle est l’équation du cercle de centre (1 ; −2) et de rayon 3 ?|(x + 1)² + (y − 2)² = 9|(x − 1)² + (y + 2)² = 3|(x − 1)² + (y + 2)² = 9|(x − 1)² − (y + 2)² = 9|2|(x − a)² + (y − b)² = r² avec a = 1 et b = −2.
+A(0 ; 0), B(2 ; 0), C(0 ; 3). Que vaut AB→·AC→ ?|6|2|0|3|2|AB→(2 ; 0) et AC→(0 ; 3) : 0 + 0 = 0.
+Dans ABC, AB = 3, AC = 4 et l’angle A = 60°. Que vaut BC² ?|13|25|7|37|0|BC² = 9 + 16 − 2 × 3 × 4 × 1/2 = 13.
+Pour quelle valeur de k les vecteurs u(2 ; k) et v(3 ; −6) sont-ils orthogonaux ?|k = −1|k = 9|k = 2|k = 1|3|6 − 6k = 0 donne k = 1.
+Quel est un vecteur normal à la droite 2x + 3y − 5 = 0 ?|(3 ; 2)|(2 ; 3)|(−2 ; 3)|(3 ; −2)|1|Pour ax + by + c = 0, le vecteur (a ; b) est normal.
+Quelle est l’équation de la droite passant par A(1 ; 2) de vecteur normal n(3 ; −1) ?|3x + y − 5 = 0|3x − y − 1 = 0|x − 3y + 5 = 0|3x − y + 1 = 0|1|3(x − 1) − (y − 2) = 0 donne 3x − y − 1 = 0.
+AB = 5, AC = 2 et l’angle A = 120°. Que vaut AB→·AC→ ?|5|10|−10|−5|3|5 × 2 × cos 120° = 10 × (−1/2) = −5.
+Pour u(3 ; −2), que vaut u·u ?|13|5|1|−13|0|u·u = 9 + 4 = 13.
+Quel est l’angle entre u(1 ; 0) et v(1 ; 1) ?|30°|60°|45°|90°|2|cos θ = 1/(1 × √2) = √2/2, donc θ = 45°.
+A(1 ; 1), B(4 ; 2), C(2 ; 5). Que vaut AB→·AC→ ?|13|−7|7|10|2|AB→(3 ; 1) et AC→(1 ; 4) : 3 + 4 = 7.
+Si AB→·AC→ > 0, alors l’angle en A est :|aigu|obtus|droit|plat|0|Un produit scalaire positif correspond à un cosinus positif.
+Quel est le centre et le rayon du cercle d’équation x² + y² − 4x + 6y − 12 = 0 ?|Centre (−2 ; 3) et rayon 5|Centre (2 ; −3) et rayon 25|Centre (4 ; −6) et rayon 5|Centre (2 ; −3) et rayon 5|3|(x − 2)² + (y + 3)² = 12 + 4 + 9 = 25.
+Quelle est l’équation du cercle de diamètre [AB] avec A(0 ; 0) et B(4 ; 2) ?|(x − 2)² + (y − 1)² = 20|(x − 2)² + (y − 1)² = 5|x² + y² = 5|(x − 4)² + (y − 2)² = 5|1|Centre (2 ; 1) et rayon AB/2 = √20/2 = √5.
+Un triangle a pour côtés 5, 7 et 8. Quel est l’angle opposé au côté 7 ?|30°|60°|45°|90°|1|cos A = (25 + 64 − 49)/(2 × 5 × 8) = 1/2.
+Si ‖u‖ = 3, ‖v‖ = 4 et u·v = 0, que vaut ‖u + v‖ ?|7|1|√7|5|3|‖u + v‖² = 9 + 0 + 16 = 25.
+Les droites x + 2y − 4 = 0 et 2x − y + 1 = 0 sont-elles perpendiculaires ?|Oui, car les vecteurs normaux (1 ; 2) et (2 ; −1) ont un produit scalaire nul|Non, car elles ont des coefficients différents|Oui, car elles sont parallèles|On ne peut pas savoir|0|1 × 2 + 2 × (−1) = 0.
+A(0 ; 0) et B(2 ; 0). Quel est l’ensemble des points M tels que MA→·MB→ = 0 ?|La droite (AB)|La médiatrice de [AB]|Le cercle de diamètre [AB]|Le segment [AB]|2|x(x − 2) + y² = 0 est l’équation du cercle de centre (1 ; 0) et de rayon 1.
+Si v = −3u et ‖u‖ = 2, que vaut u·v ?|12|−6|−12|−3|2|u·v = −3 u·u = −3 × 4 = −12.
+Dans un triangle ABC, AB = 3, AC = 4 et BC = 5. Que vaut AB→·AC→ ?|0|12|6|−12|0|AB→·AC→ = (AB² + AC² − BC²)/2 = (9 + 16 − 25)/2 = 0 : le triangle est rectangle en A.

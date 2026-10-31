@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quel est le discriminant de x² − 5x + 6 ?|49|1|−1|11|1|Δ = (−5)² − 4 × 1 × 6 = 25 − 24 = 1.
+Combien de solutions réelles a ax² + bx + c = 0 si Δ < 0 ?|Une|Deux|Une infinité|Aucune|3|Si Δ < 0, le trinôme ne s’annule jamais.
+Si Δ > 0, combien de racines distinctes a le trinôme ?|Deux|Une|Aucune|Trois|0|Les deux racines sont (−b ± √Δ)/(2a).
+Si Δ = 0, la racine double est :|b/(2a)|−b/a|−b/(2a)|√Δ|2|Quand Δ = 0, x0 = −b/(2a).
+Quelle est la forme canonique de x² − 4x + 1 ?|(x − 2)² + 3|(x + 2)² − 3|(x − 2)² − 3|(x − 4)² + 1|2|(x − 2)² = x² − 4x + 4, donc x² − 4x + 1 = (x − 2)² − 3.
+La parabole de f(x) = 2x² + 3x − 1 est tournée vers :|le haut|le bas|la droite|la gauche|0|a = 2 > 0.
+Quelles sont les racines de x² − 5x + 6 ?|−2 et −3|1 et 6|5 et 6|2 et 3|3|x² − 5x + 6 = (x − 2)(x − 3).
+Quelles sont les racines de x² − 9 ?|9 et −9|3 et −3|3 seulement|Il n’y en a pas|1|(x − 3)(x + 3) = 0.
+Quel est le discriminant de 2x² + 3x + 1 ?|17|1|−1|9|1|Δ = 9 − 4 × 2 × 1 = 1.
+Quelle est la somme des racines de x² − 7x + 10 ?|10|−7|3|7|3|x1 + x2 = −b/a = 7.
+Résoudre 2x² − 8 = 0.|x = 2 ou x = −2|x = 4|x = 2 seulement|x = 4 ou x = −4|0|2x² = 8 donc x² = 4.
+Combien de racines réelles a x² + x + 1 ?|Une|Deux|Aucune|Trois|2|Δ = 1 − 4 = −3 < 0.
+Résoudre x² + 2x − 3 = 0.|x = −1 ou x = 3|x = 3 seulement|x = 1 ou x = −3|x = 2 ou x = −3|2|Δ = 16 et x = (−2 ± 4)/2.
+Résoudre 2x² − 3x − 2 = 0.|x = 2 ou x = −1/2|x = −2 ou x = 1/2|x = 2 seulement|x = 1 ou x = −2|0|Δ = 25 et x = (3 ± 5)/4.
+Quelle est la forme factorisée de x² − 5x + 6 ?|(x + 2)(x + 3)|(x − 1)(x − 6)|(x − 5)(x − 1)|(x − 2)(x − 3)|3|Les racines sont 2 et 3.
+Quel est le sommet de la parabole de f(x) = x² − 6x + 5 ?|(−3 ; −4)|(3 ; −4)|(3 ; 4)|(6 ; 5)|1|α = 3 et β = f(3) = 9 − 18 + 5 = −4.
+Quel est le produit des racines de x² − 7x + 10 = 0 ?|7|10|−10|−7|1|x1 × x2 = c/a = 10.
+Résoudre x² − 6x + 9 = 0.|x = −3|x = 3 ou x = −3|Aucune solution|x = 3 (racine double)|3|x² − 6x + 9 = (x − 3)².
+Résoudre x² − 4 < 0.|]−2 ; 2[|]−∞ ; −2[ ∪ ]2 ; +∞[|[−2 ; 2]|]0 ; 2[|0|Le trinôme est négatif entre les racines −2 et 2.
+Quel est le minimum de f(x) = x² + 2x + 3 ?|3|1|2|−2|2|f(x) = (x + 1)² + 2, minimum 2 en x = −1.
+Résoudre x² − x − 6 ≥ 0.|[−2 ; 3]|]−2 ; 3[|]−∞ ; −2] ∪ [3 ; +∞[|[3 ; +∞[|2|Racines −2 et 3, a > 0 : positif à l’extérieur, bornes incluses.
+Résoudre −x² + 4x − 3 > 0.|]1 ; 3[|]−∞ ; 1[ ∪ ]3 ; +∞[|[1 ; 3]|]−3 ; −1[|0|Racines 1 et 3, a < 0 : positif entre les racines.
+Pour quelle valeur de m l’équation x² + 4x + m = 0 a-t-elle une racine double ?|m = 16|m = 2|m = −4|m = 4|3|Δ = 16 − 4m = 0 donne m = 4.
+Pour quelles valeurs de m l’équation x² + mx + 1 = 0 n’a-t-elle aucune solution réelle ?|m ∈ [−2 ; 2]|m ∈ ]−2 ; 2[|m > 2|m = 0|1|Δ = m² − 4 < 0 équivaut à −2 < m < 2.
+Deux nombres ont pour somme 10 et pour produit 21. Quels sont-ils ?|2 et 8|3 et 7|5 et 5|1 et 21|1|Ce sont les racines de x² − 10x + 21 = 0.
+Quel trinôme a pour racines 1 et 4 et prend la valeur 8 en x = 0 ?|(x − 1)(x − 4)|8(x − 1)(x − 4)|2(x + 1)(x + 4)|2(x − 1)(x − 4)|3|f(0) = a × 4 = 8 donc a = 2.
+Résoudre x² − 2x − 1 = 0.|x = 1 + √2 ou x = 1 − √2|x = 1 ou x = −1|x = 2 ± √2|x = −1 ± √2|0|Δ = 8 et x = (2 ± 2√2)/2 = 1 ± √2.
+Quelles sont les racines de 3x² − 2x − 1 ?|−1 et 1/3|3 et −1|1 et −1/3|1 et 1/3|2|Δ = 16 et x = (2 ± 4)/6 : 1 ou −1/3.
+Un rectangle a une longueur égale à sa largeur plus 3 et une aire de 40. Quelle est sa largeur ?|8|4|5|3|2|w² + 3w − 40 = 0, Δ = 169, w = (−3 + 13)/2 = 5.
+Si a > 0 et Δ < 0, le signe de ax² + bx + c est :|toujours positif|toujours négatif|positif puis négatif|nul|0|La parabole est tournée vers le haut et ne coupe pas l’axe des abscisses.

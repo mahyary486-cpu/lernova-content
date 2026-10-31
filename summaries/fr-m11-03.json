@@ -1,0 +1,6 @@
+{
+ "Nombre dérivé et tangente à une courbe": "Le taux d’accroissement de f entre a et a + h est (f(a + h) − f(a))/h. Si ce taux se rapproche d’un nombre quand h tend vers 0, ce nombre est le nombre dérivé f’(a). La tangente à la courbe en A(a ; f(a)) a pour équation y = f’(a)(x − a) + f(a).",
+ "Dérivées des fonctions usuelles et opérations": "Dérivées usuelles : (constante)’ = 0, (x)’ = 1, (x²)’ = 2x, (x^n)’ = n x^(n−1), (1/x)’ = −1/x², (√x)’ = 1/(2√x). Pour des fonctions u et v dérivables et un réel k : (u + v)’ = u’ + v’ et (k u)’ = k u’.",
+ "Dérivée d’un produit, d’un quotient et d’une fonction f(ax + b)": "Pour u et v dérivables : (uv)’ = u’v + uv’, (1/v)’ = −v’/v² et (u/v)’ = (u’v − uv’)/v². Pour une fonction g(x) = f(ax + b), g’(x) = a f’(ax + b).",
+ "Dérivée et variations, extremums": "Le signe de f’ donne les variations de f : si f’ > 0 sur un intervalle, f est strictement croissante ; si f’ < 0, strictement décroissante. Si f’ s’annule en changeant de signe, f admet un extremum local. On résume l’étude dans un tableau de variations."
+}

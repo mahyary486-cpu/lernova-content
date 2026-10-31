@@ -1,0 +1,6 @@
+{
+ "Forme canonique et sommet d’une parabole": "Tout trinôme ax² + bx + c (a ≠ 0) s’écrit sous forme canonique a(x − α)² + β avec α = −b/(2a) et β = f(α). Le sommet de la parabole est S(α ; β). Si a > 0, f a un minimum β ; si a < 0, un maximum β.",
+ "Discriminant et racines d’un trinôme": "Le discriminant de ax² + bx + c est Δ = b² − 4ac. Si Δ > 0 il y a deux racines (−b − √Δ)/(2a) et (−b + √Δ)/(2a) ; si Δ = 0 une racine double −b/(2a) ; si Δ < 0 aucune racine réelle. Si x1 et x2 sont racines, ax² + bx + c = a(x − x1)(x − x2).",
+ "Signe d’un trinôme et inéquations du second degré": "Le signe de ax² + bx + c dépend de a et des racines. Si Δ > 0, il est du signe de a à l’extérieur des racines et du signe de −a entre les racines. Si Δ = 0, il est du signe de a sauf en la racine double. Si Δ < 0, il est du signe de a pour tout x.",
+ "Somme et produit des racines, problèmes": "Si le trinôme ax² + bx + c a deux racines x1 et x2, leur somme vaut −b/a et leur produit c/a. Réciproquement, deux nombres de somme S et de produit P sont les racines de x² − Sx + P. On l’utilise pour trouver une racine à partir de l’autre ou résoudre des problèmes."
+}

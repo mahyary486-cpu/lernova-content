@@ -1,0 +1,6 @@
+{
+ "Suites : définition, modes de génération et sens de variation": "Une suite associe à chaque entier n un réel u_n. Elle peut être définie de façon explicite (u_n = f(n)) ou par récurrence (u_(n+1) = f(u_n) avec un premier terme). Elle est croissante si u_(n+1) − u_n ≥ 0 pour tout n, décroissante si u_(n+1) − u_n ≤ 0.",
+ "Suites arithmétiques": "Une suite est arithmétique de raison r si u_(n+1) = u_n + r pour tout n. Son terme général est u_n = u_0 + n r, ou plus généralement u_n = u_p + (n − p) r. Elle est croissante si r > 0, décroissante si r < 0, constante si r = 0.",
+ "Suites géométriques": "Une suite est géométrique de raison q si u_(n+1) = q u_n pour tout n. Son terme général est u_n = u_0 q^n, ou u_n = u_p q^(n − p). Pour u_0 > 0, elle est croissante si q > 1, décroissante si 0 < q < 1.",
+ "Sommes de termes consécutifs et algorithmes de seuil": "La somme 1 + 2 + … + n vaut n(n + 1)/2. Pour une suite arithmétique, la somme de termes consécutifs est le nombre de termes × (premier + dernier)/2. Pour une suite géométrique de raison q ≠ 1, 1 + q + … + q^n = (1 − q^(n+1))/(1 − q). Un algorithme de seuil cherche le premier rang où un terme dépasse une valeur donnée."
+}

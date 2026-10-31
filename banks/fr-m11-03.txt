@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quelle est la dérivée de f(x) = x² ?|x|2x|x²|2|1|(x²)’ = 2x.
+Quelle est la dérivée de f(x) = x³ ?|x²|3x|x⁴/4|3x²|3|(x^n)’ = n x^(n−1) avec n = 3.
+Quelle est la dérivée de f(x) = 5x + 2 ?|5|5x|2|7|0|La dérivée d’une fonction affine ax + b est a.
+Quelle est la dérivée d’une fonction constante ?|1|la constante elle-même|0|Elle n’existe pas|2|Une constante ne varie pas : sa dérivée est nulle.
+Quelle est la dérivée de f(x) = 1/x ?|1/x²|−1/x|−1/x²|ln x|2|(1/x)’ = −1/x².
+Quelle est la dérivée de f(x) = √x ?|1/(2√x)|2√x|1/√x|√x/2|0|(√x)’ = 1/(2√x) pour x > 0.
+Si f’(x) > 0 sur un intervalle I, alors f est :|strictement décroissante sur I|constante sur I|non dérivable sur I|strictement croissante sur I|3|Le signe de f’ donne le sens de variation.
+Le coefficient directeur de la tangente en a à la courbe de f est :|f(a)|f’(a)|a|f’(0)|1|C’est la définition géométrique du nombre dérivé.
+(u + v)’ est égal à :|u’v + uv’|u’ + v’|u’ × v’|(u + v)|1|La dérivée d’une somme est la somme des dérivées.
+Quelle est la dérivée de f(x) = 4x² ?|4x|8x²|2x|8x|3|(4x²)’ = 4 × 2x = 8x.
+Soit f(x) = x² − 3x + 1. Que vaut f’(2) ?|1|−1|3|−3|0|f’(x) = 2x − 3, donc f’(2) = 1.
+Quelle est l’équation de la tangente à f(x) = x² en x = 1 ?|y = 2x + 1|y = x|y = 2x − 1|y = 2x|2|f(1) = 1 et f’(1) = 2 : y = 2(x − 1) + 1 = 2x − 1.
+Quelle est la dérivée de f(x) = x³ − 2x² + x ?|3x² − 2x + 1|x² − 4x + 1|3x² − 4x + 1|3x² − 4x|2|On dérive terme à terme.
+Quelle est la dérivée de f(x) = (2x + 1)(x − 3) ?|4x − 5|2x − 3|4x + 5|2(x − 3)|0|(2x + 1)(x − 3) = 2x² − 5x − 3, donc f’(x) = 4x − 5. On retrouve la formule (uv)’ = 2(x − 3) + (2x + 1) = 4x − 5.
+Quelle est la dérivée de f(x) = x² + 1/x ?|2x + 1/x²|2x − 1/x|x² − 1/x²|2x − 1/x²|3|(x²)’ = 2x et (1/x)’ = −1/x².
+Quelles sont les variations de f(x) = x² − 4x ?|Croissante sur ]−∞ ; 2] puis décroissante|Décroissante sur ]−∞ ; 2] puis croissante sur [2 ; +∞[|Toujours croissante|Toujours décroissante|1|f’(x) = 2x − 4 est négatif avant 2 et positif après.
+Quelle est la dérivée de g(x) = (3x − 2)² ?|6x − 4|18x − 12|2(3x − 2)|9x − 6|1|g(x) = 9x² − 12x + 4, donc g’(x) = 18x − 12.
+Quelle est la dérivée de f(x) = 3/x ?|3/x²|−3/x|3x|−3/x²|3|f(x) = 3 × (1/x), donc f’(x) = 3 × (−1/x²).
+Quelle est la dérivée de g(x) = 2√x ?|1/√x|2/√x|1/(2√x)|√x|0|2 × 1/(2√x) = 1/√x.
+Quel est le coefficient directeur de la tangente à la courbe de f(x) = x² au point d’abscisse 3 ?|3|9|6|2|2|f’(x) = 2x donc f’(3) = 6.
+Quelle est la dérivée de f(x) = (x² + 1)/(x − 1) ?|(x² + 2x − 1)/(x − 1)²|2x/(x − 1)|(x² − 2x − 1)/(x − 1)²|(3x² − 2x + 1)/(x − 1)²|2|(2x(x − 1) − (x² + 1))/(x − 1)² = (x² − 2x − 1)/(x − 1)².
+Quelle est la dérivée de f(x) = x√x ?|3√x/2|√x|3√x|1/(2√x)|0|f’(x) = √x + x/(2√x) = √x + √x/2 = 3√x/2.
+Quelle est la dérivée de f(x) = 1/(2x + 1) ?|−1/(2x + 1)²|2/(2x + 1)²|−2/(2x + 1)|−2/(2x + 1)²|3|(1/v)’ = −v’/v² avec v = 2x + 1 et v’ = 2.
+Quel est le maximum local de f(x) = x³ − 3x ?|−2|2|0|3|1|f’(x) = 3(x − 1)(x + 1). Le maximum local est f(−1) = −1 + 3 = 2.
+Pour f(x) = x² − 6x + 1, en quelle valeur de x la tangente est-elle horizontale ?|x = 6|x = 3|x = −3|x = 1|1|f’(x) = 2x − 6 = 0 pour x = 3.
+Quelle est la dérivée de f(x) = (x + 2)(x² − 1) ?|2x|x² + 2x − 1|3x² + 4x + 1|3x² + 4x − 1|3|f’(x) = (x² − 1) + (x + 2) × 2x = 3x² + 4x − 1.
+Quelle est l’équation de la tangente à f(x) = 1/x en x = 1 ?|y = −x + 2|y = x|y = −x|y = x + 2|0|f(1) = 1 et f’(1) = −1 : y = −(x − 1) + 1 = −x + 2.
+Pour f(x) = x⁴ − 2x², en quelles valeurs de x la dérivée s’annule-t-elle ?|0 seulement|−1 et 1|−1, 0 et 1|−2, 0 et 2|2|f’(x) = 4x³ − 4x = 4x(x − 1)(x + 1).
+Quel est le maximum de B(x) = −x² + 8x − 7 ?|4|7|9|16|2|B’(x) = −2x + 8 s’annule en 4 et B(4) = −16 + 32 − 7 = 9.
+Quelle est la dérivée de f(x) = x/(x + 1) ?|1/(x + 1)²|1/(x + 1)|x/(x + 1)²|(2x + 1)/(x + 1)²|0|((x + 1) − x)/(x + 1)² = 1/(x + 1)².

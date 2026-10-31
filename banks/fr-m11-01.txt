@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Une suite arithmétique a pour premier terme u_0 = 3 et pour raison 2. Que vaut u_1 ?|6|5|1|3|1|u_1 = u_0 + r = 3 + 2 = 5.
+Quelle est la raison de la suite 5, 8, 11, 14 ?|5|2|19|3|3|On passe d’un terme au suivant en ajoutant 3.
+Quelle est la raison de la suite géométrique 2, 6, 18, 54 ?|3|4|2|6|0|6/2 = 18/6 = 54/18 = 3.
+Une suite est arithmétique lorsque :|on passe d’un terme au suivant en multipliant par le même nombre|tous les termes sont égaux|on passe d’un terme au suivant en ajoutant toujours le même nombre|tous les termes sont positifs|2|C’est la définition d’une suite arithmétique.
+Une suite est géométrique lorsque :|on ajoute toujours le même nombre|elle est croissante|on passe d’un terme au suivant en multipliant toujours par le même nombre|ses termes sont des entiers|2|C’est la définition d’une suite géométrique.
+Pour u_n = 2n + 1, que vaut u_3 ?|7|6|5|9|0|u_3 = 2 × 3 + 1 = 7.
+Une suite arithmétique de raison r > 0 est :|décroissante|constante|ni croissante ni décroissante|croissante|3|u_(n+1) − u_n = r > 0.
+u_0 = 1 et u_(n+1) = 2u_n. Que vaut u_2 ?|2|4|3|8|1|u_1 = 2 et u_2 = 4.
+Une suite géométrique de premier terme positif et de raison q > 1 est :|décroissante|croissante|constante|alternée|1|Chaque terme est multiplié par un nombre supérieur à 1.
+Combien vaut 1 + 2 + 3 + … + 10 ?|45|50|100|55|3|10 × 11/2 = 55.
+Une suite arithmétique a pour premier terme u_0 = 4 et pour raison 3. Que vaut u_10 ?|34|30|37|43|0|u_10 = 4 + 10 × 3 = 34.
+Une suite géométrique a pour premier terme u_0 = 2 et pour raison 3. Que vaut u_4 ?|24|54|162|486|2|u_4 = 2 × 3^4 = 2 × 81 = 162.
+Dans une suite arithmétique, u_2 = 8 et u_5 = 17. Quelle est la raison ?|9|4|3|2|2|r = (17 − 8)/(5 − 2) = 3.
+Que vaut 1 + 2 + 3 + … + 100 ?|5 050|5 000|5 100|10 100|0|100 × 101/2 = 5 050.
+Quelle est la somme de 3, 5, 7, 9, 11 ?|30|33|40|35|3|5 termes × (3 + 11)/2 = 5 × 7 = 35.
+Pour u_n = n² − 4n, que vaut u_3 ?|3|−3|−1|−9|1|u_3 = 9 − 12 = −3.
+Quel est le sens de variation de u_n = 3n − 5 ?|Décroissante|Croissante|Constante|Ni croissante ni décroissante|1|u_(n+1) − u_n = 3 > 0.
+Une suite géométrique de premier terme 8 et de raison 1/2. Que vaut u_3 ?|4|2|1/2|1|3|u_3 = 8 × (1/2)³ = 8/8 = 1.
+Que vaut 1 + 2 + 4 + 8 + 16 + 32 ?|63|62|64|31|0|(1 − 2^6)/(1 − 2) = 63.
+u_0 = 1 et u_(n+1) = u_n + 5. Quelle est l’expression de u_n ?|u_n = 5 + n|u_n = 5^n|u_n = 1 + 5n|u_n = 1 + n|2|Suite arithmétique de premier terme 1 et de raison 5.
+Une suite géométrique a pour premier terme u_0 = 5 et pour raison q = 0,5. Quelle est sa variation ?|Croissante|Constante|Décroissante|Non monotone|2|u_0 > 0 et 0 < q < 1 : les termes diminuent.
+Une suite arithmétique a pour premier terme u_0 = 10 et pour raison −3. À partir de quel rang u_n est-il négatif ?|n = 4|n = 3|n = 5|n = 10|0|u_n = 10 − 3n. u_3 = 1 > 0 et u_4 = −2 < 0.
+On place 1 000 € à 5 % par an à intérêts composés. Quel est le capital après 3 ans ?|1 150 €|1 157,50 €|1 050 €|1 157,63 €|3|1 000 × 1,05³ = 1 157,625 environ 1 157,63 €.
+u_0 = 2 et u_(n+1) = 3u_n − 1. Que vaut u_2 ?|5|14|8|17|1|u_1 = 3 × 2 − 1 = 5 puis u_2 = 3 × 5 − 1 = 14.
+Que vaut 1 + 3 + 9 + 27 + 81 ?|120|121|243|81|1|(3^5 − 1)/2 = 242/2 = 121.
+La suite u_n = (−1)^n est :|croissante|décroissante|constante|ni croissante ni décroissante|3|Elle vaut 1, −1, 1, −1… : elle alterne.
+Une suite géométrique de raison positive vérifie u_3 = 24 et u_5 = 96. Quelle est sa raison ?|2|4|3|1/2|0|u_5 = u_3 × q², donc q² = 4 et q = 2.
+Une suite arithmétique vérifie u_1 = 7 et u_4 = 19. Que vaut u_0 ?|4|−5|3|12|2|r = (19 − 7)/3 = 4 puis u_0 = u_1 − r = 3.
+Algorithme : u = 1, n = 0, puis tant que u < 100 : u = 2u et n = n + 1. Que vaut n à la fin ?|6|8|7|100|2|u prend les valeurs 2, 4, 8, 16, 32, 64, 128 : la boucle s’arrête après 7 passages.
+Quelle est la somme des 20 premiers termes (de u_0 à u_19) de la suite arithmétique u_0 = 1 et r = 2 ?|400|380|420|39|0|20 × (1 + 39)/2 = 400.
