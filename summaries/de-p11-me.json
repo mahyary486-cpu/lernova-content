@@ -1,0 +1,6 @@
+{
+ "Gleichförmige und beschleunigte Bewegung": "Gleichförmig: s = v·t. Gleichmäßig beschleunigt: v = a·t, s = ½·a·t². Im v-t-Diagramm ist die Fläche der Weg, die Steigung die Beschleunigung.",
+ "Freier Fall und waagerechter Wurf": "Im freien Fall gilt v = g·t, s = ½·g·t². Der waagerechte Wurf überlagert gleichförmige Bewegung und freien Fall; die Bahn ist eine Parabel.",
+ "Die Newtonschen Gesetze": "F = m·a; ohne Kraftsumme bleibt der Bewegungszustand erhalten; Kraft und Gegenkraft greifen an verschiedenen Körpern an. Wichtige Kräfte: Gewichtskraft und Reibung.",
+ "Impuls und Impulserhaltung": "Der Impuls p = m·v bleibt in abgeschlossenen Systemen erhalten. Bei elastischen Stößen bleibt auch die kinetische Energie erhalten, bei unelastischen nicht."
+}

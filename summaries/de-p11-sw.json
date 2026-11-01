@@ -1,0 +1,6 @@
+{
+ "Harmonische Schwingung": "Harmonische Schwingungen haben eine rücktreibende Kraft proportional zur Auslenkung. Energie wandelt sich zwischen Spann- und Bewegungsenergie; bei Resonanz wird die Amplitude besonders groß.",
+ "Federpendel und Fadenpendel": "Federpendel: T = 2π·√(m/D). Fadenpendel (kleine Winkel): T = 2π·√(l/g), unabhängig von der Masse.",
+ "Wellen und Schall": "Wellen transportieren Energie; es gilt c = λ·f. Schall ist eine Longitudinalwelle (≈ 340 m/s in Luft); der Doppler-Effekt verändert die wahrgenommene Frequenz.",
+ "Interferenz und stehende Wellen": "Interferenz entsteht durch Überlagerung (Δs = n·λ verstärkt, (n+½)·λ löscht aus). Stehende Wellen haben Knoten und Bäuche; bei der Saite gilt in der Grundschwingung λ = 2l."
+}

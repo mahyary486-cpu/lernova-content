@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Einheit hat die elektrische Ladung?|Ohm|Volt|Coulomb|Ampere|2|1 C = 1 A · s.
+Wie verhalten sich gleichnamige Ladungen?|Sie ziehen sich an|Sie verschmelzen|Es gibt keine Wirkung|Sie stoßen sich ab|3|Ungleichnamige ziehen sich an.
+Wie verhalten sich ungleichnamige Ladungen?|Es gibt keine Wirkung|Sie ziehen sich an|Sie rotieren|Sie stoßen sich ab|1|Plus und Minus ziehen sich an.
+Welche Einheit hat die elektrische Spannung?|Coulomb|Volt|Ampere|Farad|1|1 V = 1 J/C.
+Welche Einheit hat die elektrische Feldstärke?|J|A/m|T|V/m|3|Gleichwertig: N/C.
+Wie verlaufen elektrische Feldlinien?|Gar nicht|Von plus nach minus|Kreisförmig|Von minus nach plus|1|Das ist die Festlegung.
+Welche Einheit hat die Kapazität?|Tesla|Weber|Henry|Farad|3|1 F = 1 C/V.
+Welche Einheit hat die magnetische Flussdichte?|Farad|Tesla|Henry|Ohm|1|1 T = 1 V·s/m².
+Welche Pole hat ein Magnet?|Nur einen Nordpol|Nord- und Südpol|Keine|Nur einen Südpol|1|Pole treten immer paarweise auf.
+Wie verhalten sich gleichnamige Magnetpole?|Sie ziehen sich an|Sie stoßen sich ab|Sie verschmelzen|Es gibt keine Wirkung|1|Ungleichnamige ziehen sich an.
+Was erzeugt ein stromdurchflossener Leiter?|Nur Wärme|Ein Magnetfeld|Nichts|Schall|1|Das entdeckte Oersted.
+Auf welche Ladungen wirkt die Lorentzkraft?|Auf Photonen|Auf bewegte Ladungen im Magnetfeld|Auf Neutronen|Auf ruhende Ladungen|1|Ruhende Ladungen spüren keine magnetische Kraft.
+Wer entdeckte die elektromagnetische Induktion?|Isaac Newton|Albert Einstein|Marie Curie|Michael Faraday|3|Faraday entdeckte sie 1831.
+Was bedeutet Induktion?|Ladung verschwindet|Ein Magnet wird heiß|Strom fließt ohne Änderung|Spannung entsteht bei Änderung des magnetischen Flusses|3|Ohne Änderung keine Induktionsspannung.
+Welches Gerät nutzt Induktion?|Generator|Glühlampe|Thermometer|Waage|0|Er wandelt Bewegungsenergie in elektrische Energie.
+Was bewirkt ein Transformator?|Er speichert Strom|Er ändert Gleichspannungen|Er ändert Wechselspannungen|Er erzeugt Licht|2|Er arbeitet mit Induktion.
+Was speichert ein Kondensator?|Elektrische Ladung und Energie|Nur Wärme|Masse|Licht|0|Die Energie steckt im elektrischen Feld.
+Wie lautet das Coulombsche Gesetz?|F = Q1 / (Q2 · r)|F = k · r² / Q|F = k · r|F = k · Q1 · Q2 / r²|3|Die Kraft nimmt mit r² ab.
+Wie ist die elektrische Feldstärke definiert?|E = F · q|E = F / q|E = q / F|E = F + q|1|Kraft pro Probeladung.
+Wie groß ist die Feldstärke im Plattenkondensator?|E = U / d|E = d / U|E = U · d|E = U²|0|Das Feld ist homogen.
+Wie lautet die Definition der Kapazität?|C = Q + U|C = Q · U|C = U / Q|C = Q / U|3|Sie gibt Ladung pro Spannung an.
+Welche Energie speichert ein Kondensator?|W = ½ · C · U²|W = ½ · C · U|W = C · U|W = C / U²|0|Die Energie wächst quadratisch mit U.
+Wie berechnet sich die Gesamtkapazität bei Parallelschaltung?|C = C1 · C2|1/C = 1/C1 + 1/C2|C = C1 − C2|C = C1 + C2|3|Die Kapazitäten addieren sich.
+Wie lautet die Lorentzkraft bei senkrechtem Feld?|F = q · B / v|F = v · B / q|F = q · v · B|F = q / (v · B)|2|Sie steht senkrecht auf v und B.
+Wofür verwendet man die Drei-Finger-Regel?|Für die Masse|Für die Richtung der Lorentzkraft|Für die Wellenlänge|Für die Spannung|1|Daumen, Zeigefinger, Mittelfinger.
+Wie bewegt sich ein geladenes Teilchen senkrecht zu einem homogenen Magnetfeld?|Auf einer Kreisbahn|Geradlinig|Auf einer Parabel|Auf einer Spirale|0|Die Lorentzkraft wirkt als Zentripetalkraft.
+Wie lautet der Radius der Kreisbahn?|r = q · B / (m · v)|r = m · v · q · B|r = v / (m · q · B)|r = m · v / (q · B)|3|Aus q·v·B = m·v²/r.
+Wie lautet das Induktionsgesetz?|U = N · ΔΦ · Δt|U = Φ|U = R · I|U = −N · ΔΦ / Δt|3|Das Minus drückt die Lenzsche Regel aus.
+Was besagt die Lenzsche Regel?|Der Induktionsstrom wirkt nicht|Der Induktionsstrom verstärkt die Ursache|Der Induktionsstrom ist immer null|Der Induktionsstrom wirkt seiner Ursache entgegen|3|Das folgt aus der Energieerhaltung.
+Wie lautet der magnetische Fluss bei senkrechtem Feld?|Φ = A / B|Φ = B · A|Φ = B + A|Φ = B / A|1|Einheit: Weber.
+Wie lautet das Spannungsverhältnis beim idealen Transformator?|U1 / U2 = N2 / N1|U1 · U2 = N1 · N2|U1 = U2|U1 / U2 = N1 / N2|3|Es entspricht dem Windungsverhältnis.
+Womit funktioniert ein Transformator?|Mit Gleichspannung|Mit Licht|Mit Wärme|Mit Wechselspannung|3|Nur veränderliche Felder induzieren.
+Wie groß ist das elektrische Feld im Inneren eines Faradayschen Käfigs?|Maximal|Null|Konstant ungleich null|Ungerichtet|1|Die Ladungen verteilen sich auf der Oberfläche.
+Wie ändert sich C eines Plattenkondensators bei halbiertem Plattenabstand?|Sie halbiert sich|Sie verdoppelt sich|Sie vervierfacht sich|Sie bleibt gleich|1|C ist umgekehrt proportional zu d.
+Was geschieht, wenn man ein Dielektrikum einführt?|Die Kapazität sinkt|Die Kapazität steigt|Die Kapazität bleibt gleich|Die Kapazität wird null|1|Das Dielektrikum schwächt das Feld.
+Welche Kraft lenkt den Elektronenstrahl im Fadenstrahlrohr ab?|Die Reibung|Die Gravitation|Der Auftrieb|Die Lorentzkraft|3|Das Magnetfeld der Helmholtzspulen wirkt auf die Elektronen.
+Zwei Ladungen von je 1 µC haben 0,3 m Abstand (k = 9 · 10^9 Nm²/C²). Wie groß ist die Kraft?|1 N|10 N|0,01 N|0,1 N|3|F = 9·10^9 · 10^-12 / 0,09.
+Ein Plattenkondensator hat U = 200 V und d = 4 mm. Wie groß ist E?|0,02 V/m|800 V/m|5000 V/m|50 000 V/m|3|E = 200 / 0,004.
+Ein Kondensator mit C = 10 µF liegt an 12 V. Wie groß ist die Ladung?|120 µC|0,83 µC|1,2 µC|22 µC|0|Q = C · U.
+Welche Energie speichert dieser Kondensator?|0,72 mJ|0,36 mJ|7,2 mJ|1,44 mJ|0|W = ½ · 10^-5 · 144.
+Ein Elektron (v = 10^6 m/s) bewegt sich senkrecht zu B = 1 mT. Wie groß ist die Lorentzkraft?|1,6 · 10^-16 N|1,6 · 10^-19 N|1,6 · 10^-13 N|1,6 · 10^-10 N|0|F = e · v · B.
+Wie groß ist der Radius seiner Kreisbahn (m = 9,11 · 10^-31 kg)?|ca. 57 mm|ca. 0,57 mm|ca. 5,7 mm|ca. 5,7 cm|2|r = m · v / (e · B).
+Eine Spule mit N = 100 erfährt eine Flussänderung von 0,02 Wb in 0,1 s. Wie groß ist die Induktionsspannung?|200 V|2 V|20 V|0,2 V|2|U = 100 · 0,02 / 0,1.
+Ein Transformator hat N1 = 1000, N2 = 50 und U1 = 230 V. Wie groß ist U2?|4600 V|50 V|ca. 11,5 V|230 V|2|U2 = 230 · 50 / 1000.
+Der ideale Transformator liefert sekundär 2 A (N1 = 1000, N2 = 50). Wie groß ist der Primärstrom?|40 A|10 A|0,1 A|2 A|2|I1 = I2 · N2 / N1.
+Warum wird für Fernleitungen die Spannung hochtransformiert?|Wegen des Lichts|Bei kleinerer Stromstärke sinken die Verluste (P = I² · R)|Die Verluste steigen|Damit mehr Strom fließt|1|Kleinere Ströme erzeugen weniger Wärme.
+Beide Ladungen werden bei gleichem Abstand verdoppelt. Was geschieht mit der Kraft?|Sie bleibt gleich|Sie verdoppelt sich|Sie halbiert sich|Sie vervierfacht sich|3|F ist proportional zu Q1 · Q2.
+Der Abstand zweier Ladungen wird verdoppelt. Was geschieht mit der Kraft?|Sie sinkt auf ein Viertel|Sie bleibt gleich|Sie verdoppelt sich|Sie halbiert sich|0|F ist proportional zu 1/r².
+Warum fällt ein Magnet in einem Kupferrohr langsam?|Wirbelströme bremsen nach der Lenzschen Regel|Reibung an der Wand|Die Schwerkraft nimmt ab|Luftwiderstand|0|Der Induktionsstrom wirkt der Bewegung entgegen.
+Ein geladenes Teilchen bewegt sich parallel zu den Feldlinien eines Magnetfeldes. Was gilt?|Es wirkt die maximale Lorentzkraft|Es wird beschleunigt|Es wirkt keine Lorentzkraft|Es bewegt sich auf einer Kreisbahn|2|F = q · v · B · sin α mit α = 0.

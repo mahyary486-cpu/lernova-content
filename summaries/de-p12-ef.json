@@ -1,0 +1,6 @@
+{
+ "Elektrisches Feld und Coulombkraft": "Das Coulombsche Gesetz F = k·Q1·Q2/r² beschreibt die Kraft zwischen Ladungen. Die Feldstärke E = F/q beträgt im Plattenkondensator E = U/d.",
+ "Der Kondensator": "Kondensatoren speichern Ladung: C = Q/U und W = ½·C·U². Parallel addieren sich die Kapazitäten; ein Dielektrikum erhöht C.",
+ "Magnetfeld und Lorentzkraft": "Auf bewegte Ladungen wirkt im Magnetfeld die Lorentzkraft F = q·v·B. Senkrecht zum Feld entsteht eine Kreisbahn mit r = m·v/(q·B).",
+ "Elektromagnetische Induktion": "Eine Flussänderung induziert die Spannung U = −N·ΔΦ/Δt (Lenzsche Regel). Generatoren erzeugen Wechselspannung, Transformatoren wandeln sie mit U1/U2 = N1/N2."
+}

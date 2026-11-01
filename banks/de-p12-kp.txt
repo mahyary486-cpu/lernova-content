@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Woraus besteht der Atomkern?|Elektronen und Photonen|Nur Quarks|Protonen und Neutronen|Neutrinos|2|Zusammen heißen sie Nukleonen.
+Welche Ladung hat das Proton?|Wechselnd|Positiv|Negativ|Neutral|1|Die Ladung beträgt +e.
+Welche Ladung hat das Neutron?|Positiv|Negativ|Es ist elektrisch neutral|Magnetisch geladen|2|Es hat etwa die Masse des Protons.
+Was gibt die Ordnungszahl an?|Die Massenzahl|Die Zahl der Photonen|Die Zahl der Protonen|Die Zahl der Neutronen|2|Sie bestimmt das Element.
+Was gibt die Massenzahl A an?|Protonen plus Neutronen|Nur Neutronen|Elektronen|Nur Protonen|0|A = Z + N.
+Was sind Isotope?|Atome mit verschiedener Protonenzahl|Atome mit gleicher Massenzahl|Atome mit gleicher Neutronenzahl|Atome mit gleicher Protonenzahl, aber verschiedener Neutronenzahl|3|Sie sind dasselbe Element.
+Welche Strahlung besteht aus Heliumkernen?|Röntgenstrahlung|Alphastrahlung|Betastrahlung|Gammastrahlung|1|Alpha-Teilchen sind 2 Protonen und 2 Neutronen.
+Was ist Gammastrahlung?|Heliumkerne|Elektronen|Protonen|Elektromagnetische Strahlung|3|Sie hat sehr hohe Energie.
+Woraus besteht Beta-minus-Strahlung?|Aus Elektronen|Aus Neutronen|Aus Photonen|Aus Heliumkernen|0|Sie entsteht beim Zerfall eines Neutrons.
+Welche Einheit hat die Aktivität?|Tesla|Sievert|Gray|Becquerel|3|1 Bq = 1 Zerfall pro Sekunde.
+Welche Einheit hat die Äquivalentdosis?|Watt|Joule|Becquerel|Sievert|3|Sie berücksichtigt die biologische Wirkung.
+Wer entdeckte die Radioaktivität?|Michael Faraday|Niels Bohr|Henri Becquerel|Isaac Newton|2|Entdeckt 1896.
+Wodurch wird Alphastrahlung abgeschirmt?|Gar nicht|Durch einen Meter Beton|Nur durch eine Bleiwand|Durch ein Blatt Papier|3|Ihre Reichweite in Luft beträgt nur wenige Zentimeter.
+Wodurch wird Gammastrahlung gut abgeschwächt?|Durch dicke Bleischichten|Durch Luft|Durch Papier|Durch die Haut|0|Sie ist sehr durchdringend.
+Welche Kraft hält den Atomkern zusammen?|Die Gravitation|Die Magnetkraft|Die starke Kernkraft|Die Reibung|2|Sie überwindet die Abstoßung der Protonen.
+Was ist die Halbwertszeit?|Zeit bis alle Kerne zerfallen sind|Dauer der Strahlung|Zeit, nach der die Hälfte der Kerne zerfallen ist|Dauer einer Spaltung|2|Sie ist für jedes Nuklid charakteristisch.
+Welche Anwendung nutzt Radioaktivität?|Lupe|Altersbestimmung mit C-14|Elektromotor|Thermometer|1|Die C-14-Methode datiert organische Funde.
+Was geschieht beim Alphazerfall?|Der Kern verliert 1 Proton|Der Kern verliert 2 Protonen und 2 Neutronen|Der Kern verliert 2 Neutronen|Der Kern verliert ein Elektron|1|Es entsteht ein Heliumkern.
+Was geschieht beim Beta-minus-Zerfall?|Ein Proton wird zum Neutron|Ein Photon entsteht|Der Kern zerbricht|Ein Neutron wandelt sich in ein Proton, ein Elektron und ein Antineutrino um|3|Die Massenzahl bleibt gleich.
+Wie ändert sich die Ordnungszahl beim Alphazerfall?|Sie nimmt um 4 ab|Sie nimmt um 1 zu|Sie bleibt gleich|Sie nimmt um 2 ab|3|Es gehen 2 Protonen verloren.
+Wie ändert sich die Massenzahl beim Alphazerfall?|Sie nimmt um 1 zu|Sie bleibt gleich|Sie nimmt um 2 ab|Sie nimmt um 4 ab|3|Es gehen 4 Nukleonen verloren.
+Wie ändert sich die Ordnungszahl beim Beta-minus-Zerfall?|Sie bleibt gleich|Sie nimmt um 1 ab|Sie nimmt um 1 zu|Sie nimmt um 2 zu|2|Ein Neutron wird zum Proton.
+Wie lautet das Zerfallsgesetz?|N(t) = N0 · (1/2)^(t / T½)|N(t) = N0 + t|N(t) = N0 / t|N(t) = N0 · t|0|Die Zahl der Kerne sinkt exponentiell.
+Wie viel bleibt nach zwei Halbwertszeiten übrig?|50 %|25 %|12,5 %|0 %|1|(1/2)² = 1/4.
+Wie viel bleibt nach drei Halbwertszeiten übrig?|50 %|25 %|12,5 %|6,25 %|2|(1/2)³ = 1/8.
+Wie ist die Aktivität definiert?|A = t / N|A = N · t|A = ΔN / Δt|A = N + t|2|Zerfälle pro Zeit.
+Was ist der Massendefekt?|Die Kernmasse ist größer als die Summe der Nukleonenmassen|Beide sind gleich|Die Kernmasse ist kleiner als die Summe der Nukleonenmassen|Die Masse ist null|2|Der Unterschied entspricht der Bindungsenergie.
+Wie folgt die Bindungsenergie aus dem Massendefekt?|E = Δm / c|E = Δm + c|E = Δm · c²|E = m · g|2|Das ist die Masse-Energie-Äquivalenz.
+Was ist Kernspaltung?|Zwei leichte Kerne verschmelzen|Ein Atom wird ionisiert|Ein Elektron wird frei|Ein schwerer Kern zerfällt in leichtere Kerne und setzt Neutronen frei|3|Beispiel: Uran-235.
+Was ist Kernfusion?|Leichte Kerne verschmelzen|Ein schwerer Kern spaltet sich|Elektronen wandern|Ein Atom zerfällt|0|Beispiel: Wasserstoff zu Helium.
+Was ist eine Kettenreaktion?|Neutronen fusionieren|Freigesetzte Neutronen lösen weitere Spaltungen aus|Elektronen zerfallen|Ein Zufallsprozess|1|So entsteht eine sich selbst erhaltende Reaktion.
+Was bremst der Moderator im Reaktor?|Die Elektronen|Die Protonen|Die Neutronen|Die Photonen|2|Langsame Neutronen spalten U-235 besser.
+Was bewirken Steuerstäbe?|Sie nehmen Neutronen auf|Sie erzeugen Neutronen|Sie kühlen das Wasser|Sie erzeugen Strom|0|So wird die Kettenreaktion geregelt.
+Woher stammt die Energie der Sonne?|Aus Kernspaltung|Aus Reibung|Aus chemischer Verbrennung|Aus Kernfusion (Wasserstoff zu Helium)|3|Im Kern herrschen etwa 15 Millionen Kelvin.
+Wie viele Protonen hat Uran-235 (Z = 92)?|327|143|235|92|3|Z ist die Protonenzahl.
+Wie viele Neutronen hat Uran-235?|327|235|143|92|2|N = A − Z = 235 − 92.
+Ra-226 (Z = 88) zerfällt durch Alphazerfall. Welcher Tochterkern entsteht?|Ac-226|Th-224|Rn-226|Rn-222|3|Z sinkt um 2, A um 4.
+C-14 (Z = 6) zerfällt durch Beta-minus. Welcher Tochterkern entsteht?|C-13|N-14|B-14|N-13|1|Z steigt um 1, A bleibt gleich.
+Iod-131 hat eine Halbwertszeit von 8 Tagen. Wie viel bleibt von 80 g nach 24 Tagen?|20 g|40 g|10 g|5 g|2|24 Tage sind drei Halbwertszeiten.
+Eine Probe hat 800 Bq, T½ = 2 h. Welche Aktivität hat sie nach 6 h?|100 Bq|200 Bq|50 Bq|400 Bq|0|Drei Halbwertszeiten: 800 / 8.
+Nach wie vielen Halbwertszeiten sind noch 1/16 der Kerne übrig?|16|8|4|2|2|(1/2)^4 = 1/16.
+Bei einer Reaktion tritt ein Massendefekt von 0,03 u auf (1 u ≙ 931,5 MeV). Welche Energie wird frei?|ca. 0,03 MeV|ca. 931 MeV|ca. 2,8 MeV|ca. 28 MeV|3|E = 0,03 · 931,5 MeV.
+Wie viel Energie wird bei einer Spaltung von U-235 etwa frei?|Etwa 20 GeV|Etwa 2 eV|Etwa 200 MeV|Etwa 2 MeV|2|Das ist etwa das Millionenfache chemischer Reaktionen.
+Was gilt für die Energiefreisetzung pro Nukleon?|Bei der Fusion ist sie größer als bei der Spaltung|Beide sind null|Beide sind gleich|Bei der Fusion ist sie kleiner|0|Pro Nukleon ist der Massendefekt bei der Fusion größer.
+Warum braucht Kernfusion sehr hohe Temperaturen?|Kerne brauchen Licht|Elektronen frieren ein|Neutronen sind kalt|Die Coulomb-Abstoßung der Kerne muss überwunden werden|3|Nur schnelle Kerne kommen nah genug.
+Wie verändert sich die Aktivität einer Probe mit der Zeit?|Sie bleibt konstant|Sie nimmt zu|Sie nimmt linear ab|Sie nimmt exponentiell ab|3|Das folgt aus dem Zerfallsgesetz.
+Was misst ein Geiger-Müller-Zählrohr?|Schall|Magnetfelder|Wärme|Ionisierende Strahlung|3|Strahlung ionisiert das Füllgas.
+Der Abstand von einer punktförmigen Quelle wird verdoppelt. Wie ändert sich die Strahlungsintensität?|Sie halbiert sich|Sie sinkt auf ein Viertel|Sie bleibt gleich|Sie sinkt auf ein Achtel|1|I ist proportional zu 1/r².
+Ein Fund enthält 25 % des C-14-Anteils lebender Organismen (T½ = 5730 a). Wie alt ist er etwa?|ca. 2865 Jahre|ca. 11 460 Jahre|ca. 17 190 Jahre|ca. 5730 Jahre|1|25 % entsprechen zwei Halbwertszeiten.
+Warum ist Alphastrahlung im Körper besonders gefährlich?|Sie ist nicht ionisierend|Sie ist ein Photon|Sie hat eine große Reichweite|Sie gibt auf kurzer Strecke sehr viel Energie ab|3|Die Ionisationsdichte ist sehr hoch.

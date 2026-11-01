@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche Einheit hat die Frequenz?|Meter|Hertz|Newton|Sekunde|1|1 Hz = 1/s.
+Was ist die Periodendauer?|Zahl der Schwingungen pro Sekunde|Größte Auslenkung|Abstand zweier Wellenberge|Zeit für eine vollständige Schwingung|3|Formelzeichen T.
+Wie hängen Frequenz und Periodendauer zusammen?|f = 2 · T|f = T|f = 1 / T|f = T²|2|Beide sind Kehrwerte.
+Was ist die Amplitude?|Die maximale Auslenkung|Die Schwingungsdauer|Die Frequenz|Die Wellenlänge|0|Sie wird vom Gleichgewichtspunkt aus gemessen.
+Welches System kann harmonisch schwingen?|Rakete|Kugel im freien Fall|Federpendel|Auto auf gerader Straße|2|Es gibt eine rücktreibende Kraft.
+Was schwingt bei einer Schallwelle in Luft?|Lichtquanten|Elektronen|Luftteilchen|Magnetfelder|2|Schall ist eine mechanische Welle.
+In welchem Medium breitet sich Schall nicht aus?|In Stahl|In Wasser|In Luft|Im Vakuum|3|Schall braucht ein Medium.
+Wie groß ist die Schallgeschwindigkeit in Luft etwa?|3000 m/s|300 000 km/s|340 m/s|3 m/s|2|Bei etwa 20 °C.
+Was ist die Wellenlänge?|Abstand zweier benachbarter Wellenberge|Zeit einer Schwingung|Zahl der Schwingungen|Höhe der Welle|0|Formelzeichen λ.
+Wie lautet die Wellengleichung?|c = λ + f|c = λ / f|c = λ · f|c = f / λ|2|Sie gilt für alle Wellen.
+Was kennzeichnet eine Transversalwelle?|Sie ist kreisförmig|Sie schwingt nicht|Die Schwingung erfolgt senkrecht zur Ausbreitung|Die Schwingung erfolgt parallel zur Ausbreitung|2|Beispiel: Seilwelle.
+Was kennzeichnet eine Longitudinalwelle?|Die Schwingung erfolgt parallel zur Ausbreitung|Sie ist kreisförmig|Die Schwingung erfolgt senkrecht zur Ausbreitung|Sie breitet sich nicht aus|0|Beispiel: Schall in Luft.
+Welche Welle ist eine Longitudinalwelle?|Radiowelle|Seilwelle|Licht|Schall in Luft|3|Luftteilchen schwingen in Ausbreitungsrichtung.
+Was bedeutet höhere Frequenz bei einem Ton?|Größere Lautstärke|Kleinere Lautstärke|Höhere Tonhöhe|Tiefere Tonhöhe|2|Tonhöhe hängt von der Frequenz ab.
+Was bedeutet größere Amplitude bei einem Ton?|Keine Änderung|Größere Lautstärke|Tiefere Tonhöhe|Höhere Tonhöhe|1|Die Lautstärke hängt von der Amplitude ab.
+Welche Einheit hat die Wellenlänge?|Hertz|Sekunde|Newton|Meter|3|Sie ist eine Länge.
+Was ist Interferenz?|Absorption|Änderung der Ausbreitungsrichtung|Rückwurf von Wellen|Überlagerung von Wellen|3|Das Superpositionsprinzip gilt.
+Wie lautet die Periodendauer eines Federpendels?|T = π · √(m / D)|T = 2π · m · D|T = 2π · √(D / m)|T = 2π · √(m / D)|3|Größere Masse bedeutet längere Periodendauer.
+Wie lautet die Periodendauer eines Fadenpendels?|T = π · √(l / g)|T = 2π · l · g|T = 2π · √(l / g)|T = 2π · √(g / l)|2|Sie gilt für kleine Auslenkungen.
+Wovon hängt die Periodendauer des Fadenpendels nicht ab?|Von der Masse|Von keiner Größe|Vom Ortsfaktor g|Von der Länge|0|Die Masse kürzt sich heraus.
+Was geschieht mit T, wenn die Pendellänge vervierfacht wird?|T verdoppelt sich|T bleibt gleich|T halbiert sich|T vervierfacht sich|0|T ist proportional zu √l.
+Wie lautet das Hookesche Gesetz?|F = s / D|F = D + s|F = D / s|F = D · s|3|D ist die Federkonstante.
+Wann tritt Resonanz auf?|Bei sehr hoher Erregerfrequenz|Nur ohne Dämpfung|Bei Amplitude null|Bei Erregerfrequenz gleich Eigenfrequenz|3|Dann wird die Amplitude besonders groß.
+Was kennzeichnet eine gedämpfte Schwingung?|Die Amplitude nimmt ab|Die Frequenz steigt|Die Periode wird null|Die Energie steigt|0|Reibung entzieht Energie.
+Welche Energie hat ein Federpendel im Umkehrpunkt?|Nur Wärme|Nur kinetische Energie|Nur Spannenergie|Keine Energie|2|Dort ist die Geschwindigkeit null.
+Welche Energie hat ein Federpendel im Nulldurchgang?|Nur Wärme|Maximale Spannenergie|Maximale kinetische Energie|Keine Energie|2|Dort ist die Geschwindigkeit am größten.
+Was bewirkt konstruktive Interferenz?|Auslöschung|Keine Änderung|Absorption|Verstärkung|3|Berg trifft Berg.
+Was bewirkt destruktive Interferenz?|Reflexion|Verstärkung|Brechung|Abschwächung oder Auslöschung|3|Berg trifft Tal.
+Bei welchem Gangunterschied entstehen Maxima?|Nie|Bei einem Viertel der Wellenlänge|Bei halber Wellenlänge|Bei ganzzahligen Vielfachen der Wellenlänge|3|Δs = n · λ.
+Wodurch entsteht eine stehende Welle?|Überlagerung einer Welle mit ihrer Reflexion|Beugung|Absorption|Brechung|0|Dabei entstehen Knoten und Bäuche.
+Wie groß ist der Abstand zweier benachbarter Knoten?|λ|2 · λ|λ / 4|λ / 2|3|Zwischen den Knoten liegt ein Schwingungsbauch.
+Was ist der Doppler-Effekt?|Frequenzänderung durch Bewegung von Quelle oder Beobachter|Brechung|Lautstärkeänderung|Reflexion|0|Beispiel: Martinshorn.
+Wie ändert sich die wahrgenommene Frequenz, wenn sich eine Schallquelle nähert?|Sie wird höher|Sie bleibt gleich|Sie wird tiefer|Sie wird null|0|Die Wellen werden gestaucht.
+Was ist Beugung?|Absorption|Brechung|Ausbreitung in den Schattenraum hinter einer Kante oder Öffnung|Reflexion|2|Sie tritt besonders bei Öffnungen in der Größe der Wellenlänge auf.
+Was ist Brechung?|Reflexion|Absorption|Richtungsänderung beim Übergang in ein anderes Medium|Beugung|2|Die Geschwindigkeit ändert sich.
+Welche Periodendauer gehört zu f = 50 Hz?|0,02 s|2 s|0,2 s|50 s|0|T = 1 / 50.
+Schall breitet sich mit 340 m/s aus, f = 170 Hz. Wie groß ist die Wellenlänge?|5,0 m|57 800 m|2,0 m|0,5 m|2|λ = c / f.
+Ein Federpendel hat m = 0,5 kg und D = 50 N/m. Wie groß ist T?|ca. 0,063 s|ca. 6,3 s|ca. 0,63 s|ca. 1,0 s|2|T = 2π · √(0,5 / 50).
+Ein Fadenpendel ist 1,0 m lang (g = 9,81 m/s²). Wie groß ist T?|ca. 4,0 s|ca. 2,0 s|ca. 1,0 s|ca. 6,3 s|1|T = 2π · √(1 / 9,81).
+Wie lang ist ein Sekundenpendel (T = 2 s) etwa?|ca. 1 m|ca. 0,25 m|ca. 4 m|ca. 2 m|0|l = g · T² / (4π²).
+Eine Feder dehnt sich bei 2 N um 4 cm. Wie groß ist D?|50 N/m|8 N/m|500 N/m|0,5 N/m|0|D = F / s = 2 / 0,04.
+Ein Pendel schwingt mit f = 2 Hz. Wie lange dauern zwei Perioden?|4,0 s|2,0 s|1,0 s|0,5 s|2|T = 0,5 s, also 2 · 0,5 s.
+Ein Echo kehrt nach 2,0 s zurück (340 m/s). Wie weit ist die Wand entfernt?|680 m|340 m|170 m|85 m|1|Der Schall legt den Weg zweimal zurück.
+Eine Welle hat λ = 4 m und f = 0,5 Hz. Wie groß ist ihre Geschwindigkeit?|4,5 m/s|0,125 m/s|2 m/s|8 m/s|2|c = 4 · 0,5.
+Eine Saite (0,6 m) schwingt in der Grundschwingung. Wie groß ist λ?|0,3 m|1,2 m|2,4 m|0,6 m|1|Die Saitenlänge entspricht λ/2.
+Wie ändert sich die Grundfrequenz einer Saite bei halber Länge?|Sie halbiert sich|Sie verdoppelt sich|Sie bleibt gleich|Sie vervierfacht sich|1|f ist umgekehrt proportional zur Länge.
+Zwei Quellen haben einen Gangunterschied von λ/2. Was geschieht?|Auslöschung|Gleiche Phase|Nichts|Verstärkung|0|Berg trifft Tal.
+Wie ändert sich die Energie einer Schwingung bei verdoppelter Amplitude?|Sie verdoppelt sich|Sie bleibt gleich|Sie halbiert sich|Sie vervierfacht sich|3|E ist proportional zu A².
+Wofür sorgt ein Stoßdämpfer?|Für Verstärkung|Für Dämpfung|Für Beugung|Für Resonanz|1|Er entzieht der Schwingung Energie.
+Warum muss beim Fadenpendel die Auslenkung klein sein?|Wegen der Farbe|Wegen des Gewichts|Wegen der Luft|Nur dann ist die Rückstellkraft näherungsweise proportional zur Auslenkung|3|Für große Winkel ist die Schwingung nicht harmonisch.

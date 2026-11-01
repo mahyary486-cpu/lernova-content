@@ -1,0 +1,6 @@
+{
+ "Aufbau des Atomkerns": "Der Kern besteht aus Protonen und Neutronen (A = Z + N). Der Massendefekt entspricht der Bindungsenergie E = Δm·c².",
+ "Radioaktive Strahlung und Zerfälle": "Es gibt Alpha-, Beta- und Gammastrahlung. Alphazerfall senkt Z um 2 und A um 4, Beta-minus erhöht Z um 1. Schutz durch Abstand, Abschirmung und kurze Zeit.",
+ "Zerfallsgesetz und Halbwertszeit": "Nach t = n·T½ bleibt der Anteil (1/2)^n übrig; die Aktivität sinkt exponentiell. Mit der C-14-Methode wird das Alter organischer Funde bestimmt.",
+ "Kernspaltung und Kernfusion": "Bei der Kernspaltung zerfällt ein schwerer Kern; Neutronen halten die Kettenreaktion aufrecht. Bei der Fusion verschmelzen leichte Kerne und setzen pro Nukleon mehr Energie frei."
+}

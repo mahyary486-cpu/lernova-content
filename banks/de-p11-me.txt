@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Welche SI-Einheit hat die Geschwindigkeit?|kg|m/s|m/s²|N|1|Geschwindigkeit = Weg pro Zeit.
+Wie lautet die Gleichung der gleichförmigen Bewegung?|s = v / t|s = v · t|v = s · t|s = a · t|1|Bei konstanter Geschwindigkeit wächst der Weg linear.
+Welche SI-Einheit hat die Beschleunigung?|J|m/s²|N|m/s|1|Beschleunigung = Geschwindigkeitsänderung pro Zeit.
+Welche Einheit hat die Kraft?|Pascal|Watt|Newton|Joule|2|1 N = 1 kg · m/s².
+Wie lautet das zweite Newtonsche Gesetz?|F = m · v|F = m / a|F = m · a|F = a / m|2|Kraft ist Masse mal Beschleunigung.
+Was besagt das Trägheitsgesetz?|Reibung ist immer null|Ohne äußere Kraft bleibt ein Körper in Ruhe oder in gleichförmiger Bewegung|Kraft ist Masse mal Geschwindigkeit|Jeder Körper wird ständig schneller|1|Das ist das erste Newtonsche Gesetz.
+Was besagt das Wechselwirkungsprinzip?|F = m · a|Energie bleibt erhalten|Zu jeder Kraft gibt es eine gleich große Gegenkraft|Körper bleiben in Ruhe|2|Actio gleich Reactio.
+Wie groß ist die Fallbeschleunigung auf der Erde etwa?|9,81 m/s²|0,981 m/s²|1 m/s²|98,1 m/s²|0|Der Ortsfaktor g beträgt etwa 9,81 m/s².
+Welche Größe ist ein Vektor?|Geschwindigkeit|Temperatur|Zeit|Masse|0|Geschwindigkeit hat Betrag und Richtung.
+Welche Einheit hat der Impuls?|kg · m/s|N · m|J|kg · m/s²|0|p = m · v.
+Wie lautet die Formel für den Impuls?|p = m · v|p = m / v|p = m · a|p = F · s|0|Impuls ist Masse mal Geschwindigkeit.
+Wie fallen Feder und Kugel im Vakuum?|Gar nicht|Die Kugel langsamer|Die Feder langsamer|Gleich schnell|3|Ohne Luftwiderstand fallen alle Körper gleich.
+Wie lautet die Gewichtskraft?|F_G = m / g|F_G = m · g|F_G = g / m|F_G = m · v|1|Gewichtskraft = Masse mal Ortsfaktor.
+Was ist ein waagerechter Wurf?|Überlagerung einer gleichförmigen waagerechten Bewegung mit dem freien Fall|Nur freier Fall|Nur gleichförmige Bewegung|Eine Kreisbewegung|0|Die Bewegungen sind voneinander unabhängig.
+Wie berechnet man die mittlere Geschwindigkeit?|Masse durch Volumen|Strecke durch Zeit|Kraft mal Weg|Zeit durch Strecke|1|v = s / t.
+Wie sieht das v-t-Diagramm einer gleichmäßig beschleunigten Bewegung aus?|Eine Gerade|Eine waagerechte Linie|Ein Kreis|Eine Parabel|0|Die Steigung entspricht der Beschleunigung.
+Wann gilt die Impulserhaltung?|In einem abgeschlossenen System|Nie|In jedem System immer|Nur in Flüssigkeiten|0|Es dürfen keine äußeren Kräfte wirken.
+Für welche Bewegung gilt s = ½ · a · t²?|Gleichmäßig beschleunigte Bewegung aus der Ruhe|Gleichförmige Bewegung|Ruhe|Kreisbewegung|0|Sie folgt aus v = a · t und der mittleren Geschwindigkeit.
+Wie groß ist die Geschwindigkeit aus der Ruhe nach der Zeit t?|v = t / a|v = a / t|v = a · t|v = a · t²|2|Die Geschwindigkeit wächst linear.
+Wie lautet die Fallstrecke im freien Fall?|s = g · t²|s = ½ · g · t²|s = g / t|s = g · t|1|Die Fallstrecke wächst quadratisch.
+Wie lange dauert der freie Fall aus 5 m (g = 9,81 m/s²)?|ca. 1,0 s|ca. 5,0 s|ca. 2,0 s|ca. 0,5 s|0|t = √(2 · 5 / 9,81) ≈ 1,0 s.
+Eine Kraft von 10 N wirkt auf 2 kg. Welche Beschleunigung ergibt sich?|0,2 m/s²|12 m/s²|5 m/s²|20 m/s²|2|a = F/m = 10/2.
+Ein Auto fährt 20 m/s und beschleunigt 5 s lang mit 2 m/s². Wie schnell ist es danach?|22 m/s|30 m/s|10 m/s|25 m/s|1|v = 20 + 2 · 5.
+Wie groß ist die Gewichtskraft von 5 kg (g = 9,81 m/s²)?|5 N|0,5 N|49 N|490 N|2|F = 5 · 9,81 ≈ 49 N.
+Wie groß ist der Impuls von 3 kg bei 4 m/s?|12 kg · m/s|0,75 kg · m/s|1,33 kg · m/s|7 kg · m/s|0|p = 3 · 4.
+Wie lautet die Gleitreibungskraft?|F_R = μ + F_N|F_R = μ / F_N|F_R = μ · F_N|F_R = F_N / μ|2|μ ist die Reibungszahl.
+Wie verhält sich beim waagerechten Wurf die waagerechte Geschwindigkeit?|Sie ist null|Sie bleibt konstant|Sie nimmt zu|Sie nimmt ab|1|Waagerecht wirkt keine Kraft (ohne Luftwiderstand).
+Welche Bahn hat ein waagerecht geworfener Körper?|Gerade|Parabel|Spirale|Kreis|1|Die Überlagerung ergibt eine Wurfparabel.
+Was gilt beim elastischen Stoß?|Impuls und kinetische Energie bleiben erhalten|Nichts bleibt erhalten|Nur die Energie bleibt erhalten|Nur der Impuls bleibt erhalten|0|Elastische Stöße verformen die Körper nicht bleibend.
+Was gilt beim unelastischen Stoß?|Nichts bleibt erhalten|Der Impuls bleibt erhalten, die kinetische Energie nicht|Der Impuls geht verloren|Beide bleiben erhalten|1|Ein Teil der Energie wird zu Verformung und Wärme.
+Worauf beruht der Raketenantrieb?|Auf Luftwiderstand|Auf Auftrieb|Auf Reibung|Auf der Impulserhaltung (Rückstoß)|3|Ausgestoßenes Gas erhält Impuls, die Rakete den entgegengesetzten.
+Wie lässt sich die Kraft über den Impuls ausdrücken?|F = Δt / Δp|F = Δp / Δt|F = p · t|F = Δp · Δt|1|Das ist die allgemeine Form des zweiten Axioms.
+Ein Körper bewegt sich mit konstanter Geschwindigkeit. Wie groß ist die Summe aller Kräfte?|Unendlich|Null|Negativ|Größer als null|1|Ohne Beschleunigung ist die Kraftsumme null.
+Die Geschwindigkeit eines bremsenden Autos verdoppelt sich. Was geschieht mit dem Bremsweg (konstante Verzögerung)?|Er bleibt gleich|Er halbiert sich|Er vervierfacht sich|Er verdoppelt sich|2|s = v² / (2a).
+Wie wächst die Geschwindigkeit beim freien Fall?|Gar nicht|Linear mit der Zeit|Quadratisch mit der Zeit|Sie nimmt ab|1|v = g · t.
+Warum fallen schwere und leichte Körper gleich schnell?|Die Schwerkraft ist null|Gewichtskraft und Trägheit sind beide proportional zur Masse|Die Luft stört nicht|Die Masse spielt keine Rolle|1|Die Masse kürzt sich aus F = m · a.
+Ein Wagen beschleunigt aus der Ruhe mit 2 m/s². Welche Strecke legt er in 6 s zurück?|72 m|12 m|18 m|36 m|3|s = ½ · 2 · 6².
+Ein Auto bremst von 30 m/s mit 5 m/s². Wie lang ist der Bremsweg?|150 m|45 m|180 m|90 m|3|s = v² / (2a) = 900 / 10.
+Ein Stein fällt 3,0 s lang (g = 9,81 m/s²). Welche Höhe durchfällt er?|29,4 m|44,1 m|14,7 m|88,2 m|1|s = ½ · 9,81 · 9.
+Welche Geschwindigkeit hat der Stein nach 3,0 s?|29,4 m/s|44,1 m/s|9,81 m/s|88,2 m/s|0|v = 9,81 · 3,0.
+Ein Ball wird mit 10 m/s waagerecht von einem 1,25 m hohen Tisch geworfen (g = 9,81 m/s²). Wie weit fliegt er?|10 m|2,5 m|12,5 m|ca. 5,0 m|3|t = √(2 · 1,25 / 9,81) ≈ 0,5 s; x = 10 · 0,5.
+Ein Wagen (2 kg, 3 m/s) stößt unelastisch auf einen ruhenden Wagen (1 kg). Wie schnell sind sie danach?|4 m/s|3 m/s|2 m/s|1 m/s|2|6 kg·m/s = 3 kg · v.
+Ein Ball (0,4 kg) wird in 0,02 s von 0 auf 25 m/s beschleunigt. Wie groß ist die mittlere Kraft?|10 N|200 N|500 N|5000 N|2|F = 0,4 · 25 / 0,02.
+Eine Masse von 10 kg wird mit 30 N gezogen, die Reibungskraft beträgt 10 N. Welche Beschleunigung ergibt sich?|1 m/s²|3 m/s²|2 m/s²|4 m/s²|2|a = (30 − 10) / 10.
+Ein 80 kg schwerer Mensch fährt in einem Aufzug mit a = 1 m/s² nach oben. Welche Kraft übt der Boden aus (g = 9,81 m/s²)?|80 N|ca. 865 N|ca. 720 N|ca. 785 N|1|F = m · (g + a).
+Welche Beschleunigung hat ein Körper auf der reibungsfreien schiefen Ebene (30°)?|2,45 m/s²|4,9 m/s²|9,81 m/s²|8,5 m/s²|1|a = g · sin 30° = 9,81 / 2.
+Was gilt für Kraft und Gegenkraft nach dem dritten Axiom?|Sie wirken nur in Ruhe|Sie greifen an verschiedenen Körpern an|Sie heben sich am selben Körper auf|Sie sind verschieden groß|1|Deshalb heben sie sich nicht gegenseitig auf.
+Wie groß ist der Impuls eines Fahrzeugs von 1000 kg bei 20 m/s?|50 kg · m/s|2000 kg · m/s|20 000 kg · m/s|200 000 kg · m/s|2|p = 1000 · 20.
+Zwei gleiche Kugeln stoßen zentral elastisch, eine ruht. Was geschieht?|Beide fliegen mit halber Geschwindigkeit|Beide bleiben stehen|Die erste bleibt stehen, die zweite übernimmt die Geschwindigkeit|Beide fliegen zurück|2|Das gilt für gleiche Massen.
+Ein Körper wird mit 20 m/s senkrecht nach oben geworfen (ohne Luftwiderstand). Wie lange steigt er?|ca. 1,0 s|ca. 4,1 s|ca. 2,0 s|ca. 9,8 s|2|t = v / g = 20 / 9,81.
