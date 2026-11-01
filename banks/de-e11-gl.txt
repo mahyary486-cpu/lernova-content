@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+I enjoy ___ to music.|listened|listen|to listen|listening|3|Enjoy + -ing.
+She wants ___ a doctor.|to be|being|be|been|0|Want + to-Infinitiv.
+He decided ___ abroad.|go|gone|going|to go|3|Decide + to-Infinitiv.
+Stop ___!|talk|to talk|talked|talking|3|Stop + -ing: mit etwas aufhören.
+I'm looking forward to ___ you.|saw|seeing|to see|see|1|Look forward to + -ing.
+She suggested ___ to the cinema.|going|went|to go|go|0|Suggest + -ing.
+I'd rather ___ at home.|stayed|stay|staying|to stay|1|Would rather + Infinitiv ohne to.
+He avoided ___ the question.|to answer|answering|answer|answered|1|Avoid + -ing.
+They promised ___ on time.|to be|been|being|be|0|Promise + to-Infinitiv.
+It's no use ___.|cried|cry|to cry|crying|3|It's no use + -ing.
+We hope ___ you soon.|to see|see|saw|seeing|0|Hope + to-Infinitiv.
+She admitted ___ the window.|break|broke|breaking|to break|2|Admit + -ing.
+He refused ___ me.|helped|help|to help|helping|2|Refuse + to-Infinitiv.
+Would you mind ___ the door?|to close|closed|closing|close|2|Mind + -ing.
+I can't stand ___ in queues.|to wait|waiting|wait|waited|1|Can't stand + -ing.
+Which verb is followed by an -ing form?|decide|enjoy|hope|want|1|Enjoy + -ing.
+Which verb is followed by a to-infinitive?|suggest|avoid|enjoy|decide|3|Decide + to-Infinitiv.
+'Walking down the street, I met an old friend.' means|Because I walked down the street, I met an old friend.|While I was walking down the street, I met an old friend.|If I walk down the street, I will meet an old friend.|After I walked down the street, I met an old friend.|1|Gleichzeitigkeit.
+'Having finished his work, he went home.' means|Because he finishes his work, he goes home.|After he had finished his work, he went home.|If he finished his work, he would go home.|While he was finishing his work, he went home.|1|Having + Partizip drückt Vorzeitigkeit aus.
+'Not knowing the answer, she kept silent.' means|Because she did not know the answer, she kept silent.|Although she knew the answer, she kept silent.|When she knows the answer, she keeps silent.|If she doesn't know the answer, she keeps silent.|0|Partizipialkonstruktion mit Grund.
+The present participle is formed with|to + verb|verb + -ing|verb + -ed|have + verb|1|Present Participle = -ing.
+The man ___ at the door is my uncle.|to stand|stood|standing|stands|2|Verkürzter Relativsatz mit -ing.
+The book ___ by Orwell is famous.|to write|written|writing|wrote|1|Verkürzter Passiv-Relativsatz mit Partizip.
+Never ___ such a film.|seen I have|I seen have|I have seen|have I seen|3|Nach never am Satzanfang steht Inversion.
+Not only ___ rude, but also late.|he was|was he|he were|did he|1|Inversion nach not only.
+'It was Tom who broke the window.' emphasises|the window|the time|the verb|Tom|3|Cleft sentence betont das Subjekt.
+'Hardly had she arrived when it started to rain.' Which tense follows 'hardly'?|Present|Past Perfect|Simple Past|Future|1|Hardly had + Partizip ... when.
+I wish I ___ about it earlier.|had known|would know|knew|know|0|Wish + Past Perfect für Bedauern in der Vergangenheit.
+It's high time you ___ to bed.|went|had gone|go|will go|0|It's high time + Simple Past.
+He behaves as if he ___ the boss.|will be|were|is|has been|1|As if + were.
+Which word is more formal?|purchase|grab|get|buy|0|Purchase ist formeller.
+Which word is more formal?|commence|kick off|start|get going|0|Commence ist formell.
+What is the formal word for 'kids'?|kiddies|children|brats|guys|1|Formell: children.
+Which verb forms a collocation with 'decision'?|have|give|make|do|2|Make a decision.
+Which verb forms a collocation with 'photo'?|make|take|do|give|1|Take a photo.
+Which verb forms a collocation with 'homework'?|do|make|take|have|0|Do homework.
+She can't help ___.|laughing|laughed|to laugh|laugh|0|Can't help + -ing.
+I remember ___ him last year.|meeting|meet|met|to meet|0|Remember + -ing: sich erinnern, dass man etwas getan hat.
+Remember ___ the door!|lock|locked|locking|to lock|3|Remember + to: nicht vergessen.
+He stopped ___ a newspaper.|bought|buying|to buy|buy|2|Stop + to: anhalten, um etwas zu tun.
+I regret ___ you that the flight is cancelled.|told|telling|to tell|tell|2|Regret + to: bedauern, etwas mitteilen zu müssen.
+She tried ___ the window, but it was stuck.|open|opened|to open|opening|2|Try + to: versuchen.
+Try ___ some salt if the soup is bland.|to add|added|add|adding|3|Try + -ing: ausprobieren.
+I'm used to ___ early.|getting up|to get up|got up|get up|0|Be used to + -ing: gewohnt sein.
+I used to ___ in Paris.|live|to live|lived|living|0|Used to + Infinitiv: früher.
+Hardly ___ the door when the phone rang.|had I opened|I had opened|did I open|have I opened|0|Inversion nach hardly.
+Rarely ___ such a beautiful view.|do you see|you see|see you|you do see|0|Inversion nach rarely.
+'Were I you, I would accept.' means|If I were you, I would accept.|Because I am you, I accept.|Although I were you, I accepted.|When I am you, I accept.|0|Inversion statt if.
+'Should you need help, call me.' means|If you need help, call me.|Although you need help, call me.|Because you need help, call me.|Unless you need help, call me.|0|Should am Satzanfang ersetzt if.
+'What I need is a holiday.' is|a pseudo-cleft sentence|a passive sentence|a conditional sentence|a question|0|Pseudo-cleft betont einen Satzteil.

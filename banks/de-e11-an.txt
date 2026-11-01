@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A metaphor is a figure of speech that|says the opposite of what is meant|repeats the same sound|compares two things without 'like' or 'as'|compares two things using 'like' or 'as'|2|Metapher: direkter Vergleich ohne like/as.
+A simile compares two things using|a negative|a question|'like' or 'as'|no linking word|2|Simile = Vergleich mit like oder as.
+Alliteration is|a rhyme at the end of lines|an exaggeration|a comparison|the repetition of the same initial sound|3|Beispiel: big, bad boys.
+Hyperbole is|an understatement|a question|an exaggeration|a comparison|2|Hyperbel = Übertreibung.
+Irony means|saying the opposite of what is meant|comparing two things|repeating a word|giving things human qualities|0|Ironie sagt das Gegenteil des Gemeinten.
+Personification means|giving human qualities to non-human things|saying the opposite|comparing two things|exaggerating|0|Beispiel: The wind whispered.
+A rhetorical question|is a quiz question|asks for information|is asked for effect without expecting an answer|always needs an answer|2|Rhetorische Fragen wirken auf die Zuhörer.
+Which tense is normally used in a summary?|Present Perfect only|Present tense|Past tense|Future tense|1|Zusammenfassungen stehen im Präsens.
+A summary should contain|the main points in your own words|every detail|only direct quotes|your personal opinion|0|Kurz und mit eigenen Worten.
+Does a summary contain your personal opinion?|No|Only at the end|Always|Yes|0|Eine Zusammenfassung ist neutral.
+A thesis is|the title|the main claim of an argument|an example|a quotation|1|Die These ist die Hauptbehauptung.
+A good argument consists of|a claim, evidence and an example|a title, a name and a date|only an opinion|only a quotation|0|Behauptung, Beleg und Beispiel.
+'Pro' and 'contra' mean|for and against|before and after|big and small|first and last|0|Pro = dafür, contra = dagegen.
+A speech is|a diary entry|a text spoken to an audience|a private letter|a recipe|1|Reden wenden sich an Zuhörer.
+Which of these is a newspaper text?|a sonnet|a stage direction|a news report|a chapter of a novel|2|Ein Zeitungsbericht informiert.
+The target audience is|the place of publication|the group of people a text is written for|the title|the author|1|Zielgruppe = Adressaten.
+The author's intention is|who read it|when it was printed|where the text was written|what the writer wants to achieve|3|Absicht des Autors.
+A text that tries to convince the reader is called|informative|descriptive|persuasive|narrative|2|Persuasive Texte überzeugen.
+The tone of a text is|the length of the text|the title|the attitude of the writer|the font|2|Ton = Haltung, z. B. ironisch, ernst.
+Repeating the same words at the start of clauses is called|anaphora|simile|metaphor|irony|0|Anapher: Wiederholung am Satzanfang.
+A list of three items for effect is called|an oxymoron|a tricolon|a paradox|a pun|1|Dreierfigur, z. B. veni, vidi, vici.
+An oxymoron is|a combination of contradictory words|a repetition|a comparison|an exaggeration|0|Beispiel: bittersweet.
+An understatement is|a repetition|an exaggeration|a comparison|saying less than is meant|3|Untertreibung.
+An antithesis is|a list|a repetition|contrasting ideas in a parallel structure|a comparison|2|Gegensatz in paralleler Form.
+How do you quote in an analysis?|With quotation marks and a line reference|Only by paraphrasing|Without quotation marks|Only the title|0|Zitate stehen in Anführungszeichen mit Zeilenangabe.
+A good analytical paragraph follows the pattern|summary only|opinion, quote|point, evidence, explanation of the effect|list only|2|P-E-E (point, evidence, explanation).
+'Effect on the reader' explains|where it is placed|who wrote it|what the device does|when it was written|2|Wirkung eines Stilmittels.
+A comment requires|your own opinion with arguments|only facts|only a summary|only quotes|0|Kommentar = begründete Meinung.
+Which connector introduces a counter-argument?|finally|for example|firstly|however|3|However leitet einen Gegenpunkt ein.
+Which connector introduces an example?|however|although|for instance|therefore|2|For instance = zum Beispiel.
+An introduction to an analysis names|a quotation only|a personal story|title, author, text type and topic|a glossary|2|Einleitung: Basisinformationen.
+To paraphrase means|to restate something in your own words|to translate a word|to shorten a quotation|to copy a text|0|Paraphrasieren = in eigenen Worten wiedergeben.
+A primary source is|a commentary on it|a summary of it|an original document|a textbook|2|Primärquelle = Originaltext.
+Bias means|a quotation|a fact|a one-sided view|a summary|2|Voreingenommenheit.
+What is the difference between fact and opinion?|Facts can be proven, opinions cannot|Neither can be proven|Both can be proven|Opinions can be proven, facts cannot|0|Tatsachen sind überprüfbar.
+A rhetorical device is|a grammar rule|a technique that makes language more persuasive|an author|a font|1|Stilmittel/rhetorisches Mittel.
+'The pen is mightier than the sword' is an example of|onomatopoeia|simile|alliteration|metonymy|3|Pen und sword stehen für Schrift und Gewalt.
+Onomatopoeia describes|words that imitate sounds, like 'buzz'|a comparison|repeated sounds|a question|0|Lautmalerei.
+'I've told you a million times' is|a simile|understatement|irony|hyperbole|3|Bewusste Übertreibung.
+'How lovely, another Monday!' (said unhappily) is an example of|hyperbole|irony|a simile|a metaphor|1|Gemeint ist das Gegenteil.
+'The wind whispered through the trees' is|irony|personification|a simile|an oxymoron|1|Wind flüstert wie ein Mensch.
+'as brave as a lion' is|a simile|a metaphor|irony|personification|0|Vergleich mit as ... as.
+'Time is money' is|hyperbole|a simile|irony|a metaphor|3|Direkter Vergleich ohne like/as.
+A speaker who says 'we' and 'us' wants to|create unity with the audience|show anger|give facts only|keep a distance|0|Wir-Form schafft Verbundenheit.
+Emotive language aims to|define terms|give statistics|appeal to the readers' emotions|be neutral|2|Emotionale Sprache.
+Which sentence is a strong thesis?|I will write about social media.|Social media does more harm than good to teenagers.|Social media is a topic.|Many people use social media.|1|Eine These ist eine klare Behauptung.
+A counter-argument with a refutation means|ignoring other views|presenting an opposing view and answering it|summarising the text|repeating your thesis|1|Gegenargument und Widerlegung.
+Which sentence belongs in a summary?|I think the author is wrong.|I once slept twelve hours.|The author argues that young people need more sleep.|The text is boring.|2|Neutrale Wiedergabe der Aussage.
+Which sentence is correct for an analysis?|The author will emphasised the risks.|The author emphasised the risks yesterday.|The author is emphasise the risks.|The author emphasises the risks.|3|Analyse im Präsens.
+Connotation refers to|its length|the dictionary meaning of a word|the feelings or ideas associated with a word|its spelling|2|Konnotation = Nebenbedeutung.

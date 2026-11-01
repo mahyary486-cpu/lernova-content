@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+I enjoy ___ music.|listened to|listen to|to listen to|listening to|3|Enjoy + -ing.
+She wants ___ a doctor.|to be|being|be|been|0|Want + to-Infinitiv.
+He suggested ___ to the cinema.|go|goes|to go|going|3|Suggest + -ing.
+I'm looking forward to ___ you.|to see|see|saw|seeing|3|Look forward to + -ing.
+They decided ___ home.|went|to go|go|going|1|Decide + to-Infinitiv.
+He gave up ___.|smoking|smoked|to smoke|smoke|0|Give up + -ing.
+She can't help ___.|laughed|laughing|laugh|to laugh|1|Can't help + -ing.
+It's worth ___.|to visit|visiting|visit|visited|1|Worth + -ing.
+I'd like ___ a coffee.|to have|had|having|have|0|Would like + to-Infinitiv.
+She promised ___ me.|helped|help|helping|to help|3|Promise + to-Infinitiv.
+Do you mind ___ the window?|opening|open|opened|to open|0|Mind + -ing.
+Which verb is followed by 'to + infinitive'?|mind|suggest|hope|enjoy|2|Hope to do.
+Which verb is followed by '-ing'?|want|decide|enjoy|hope|2|Enjoy doing.
+I used to ___.|playing football|plays football|play football|played football|2|Used to + Infinitiv.
+I'm used to ___ early.|get up|getting up|got up|to get up|1|Be used to + -ing.
+Which verb is correct? 'to ___ a decision'|take? no|make|give|do|1|Collocation: make a decision.
+I have to ___ my homework.|have|take|make|do|3|Do homework.
+Walking along the street, I met Tom. The participle clause expresses|a contrast|two actions at the same time|a condition|a result|1|Gleichzeitigkeit.
+Having finished the work, he went home. 'Having finished' expresses|a later action|an earlier action|a question|a wish|1|Vorzeitigkeit.
+The man ___ in the corner is my uncle.|sitting|sits|is sit|sat|0|Partizip Präsens als Attribut.
+The book ___ by Orwell is famous.|wrote|written|writing|write|1|Partizip Perfekt mit passivem Sinn.
+Not only ___ late, but he also forgot his book.|he is|he was|was he|did he was|2|Inversion nach not only.
+Never ___ such a film.|have seen I|have I seen|I have seen|I saw|1|Inversion nach never.
+Hardly had she arrived ___ it started to rain.|while|as|than|when|3|Hardly ... when.
+It was John ___ broke the window.|which|who|whose|whom|1|Cleft sentence.
+'What I need is a holiday.' is a|question|passive|conditional|pseudo-cleft sentence|3|Betonungskonstruktion.
+You ___ a mistake when you add wrongly.|have|make|do|take|1|Make a mistake.
+Scientists ___ research.|do|give|make|take|0|Do research.
+Which collocation is correct?|heavy rain|high rain|strong rain|big rain|0|Heavy rain.
+Which collocation is correct?|big wind|strong wind|high wind|much wind|1|Strong wind.
+Which verb is more formal than 'get'?|obtain|pick|grab|fetch|0|Obtain ist formell.
+A formal word for 'ask for' is|request|wonder|beg|want|0|Request.
+Despite ___ hard, he failed.|to study|studying|study|studied|1|Despite + -ing.
+She is interested in ___.|learned|learn|learning|to learn|2|Interested in + -ing.
+I remember ___ the door (I did lock it).|to lock|locking|lock|locked|1|Remember + -ing = sich erinnern.
+Remember ___ the door! (Don't forget.)|to lock|locking|lock|locked|0|Remember + to = daran denken.
+He tried ___ the door, but it was stuck.|to open|opened|opening|open|0|Try + to = versuchen.
+I tried ___ the window, but it didn't help (as an experiment).|opening|open|opened|to open|0|Try + -ing = ausprobieren.
+Under no circumstances ___ the door.|open you|should open you|you should open|should you open|3|Inversion nach under no circumstances.
+Rarely ___ such kindness.|saw I|I have seen|have I seen|I saw|2|Inversion nach rarely.
+Which sentence is correct?|Little does he knew about the plan.|Little he knew about the plan.|Little did he know about the plan.|Little knew he about the plan.|2|Inversion mit did.
+No sooner had he sat down ___ the phone rang.|that|as|than|when|2|No sooner ... than.
+___ to the manager, she left the room.|Speaking having|Be spoken|Spoke|Having spoken|3|Vorzeitigkeit: having + Partizip.
+Not knowing the way, ___.|he asked for directions|the directions asked|he asking directions|directions were asked|0|Das Subjekt muss passen.
+He denied ___ the money.|taking|took|take|to take|0|Deny + -ing.
+She is said ___ rich.|to be|being|be|been|0|Persönliches Passiv.
+I would rather you ___ here.|didn't smoke|don't smoke|won't smoke|not smoke|0|Would rather + Past.
+It's high time you ___ to bed.|went|will go|gone|go|0|High time + Past.
+He suggested that she ___ a doctor.|see|seeing|sees|saw|0|Subjunctive nach suggest that.
+You should ___ attention in class.|pay|make|take|do|0|Pay attention.

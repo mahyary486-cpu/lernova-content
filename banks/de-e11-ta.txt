@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A text that tells a story is called a|advertisement|timetable|narrative text|recipe|2|Narrative Texte erzählen eine Geschichte.
+The plot of a story is|the title|the narrator|the sequence of events|the setting only|2|Plot = Handlung.
+The setting of a story describes|the characters' feelings|the plot|the author|time and place|3|Setting = Ort und Zeit der Handlung.
+The protagonist is|the villain|the reader|the main character|the narrator|2|Protagonist = Hauptfigur.
+The antagonist is|the opponent of the protagonist|the narrator|the hero|the author|0|Antagonist = Gegenspieler.
+A simile compares things using|like or as|not|is|but|0|Simile = Vergleich mit like/as.
+A metaphor|uses like or as|asks a question|describes something as if it were something else, without like or as|uses numbers|2|Metapher = Bild ohne Vergleichswort.
+'He is as brave as a lion.' is a|rhyme|simile|metaphor|irony|1|Vergleich mit as ... as.
+'Time is money.' is a|metaphor|simile|question|rhyme|0|Die Gleichsetzung ist ohne like/as.
+Alliteration is|repetition of the same first sound in neighbouring words|a question|exaggeration|opposite meaning|0|Beispiel: Peter Piper picked a peck.
+Hyperbole is|comparison|exaggeration|understatement|repetition|1|Übertreibung.
+Irony is|saying the opposite of what you mean|repeating a word|exaggerating|naming a person|0|Ironie.
+A rhetorical question is|a question asked for effect, no answer expected|a real question|an order|a statement|0|Rhetorische Frage.
+Which tense is normally used in a literary analysis?|Future tense|Present tense|Past tense|Past perfect|1|Konvention: Präsens.
+A narrator who is a character in the story is a|third-person narrator|omniscient narrator|first-person narrator|no narrator|2|Ich-Erzähler.
+A third-person narrator uses|you|he, she, they|we|I|1|Er-/Sie-Erzähler.
+In an analysis, quotations are put in|underlines|capital letters|asterisks|quotation marks|3|Zitate stehen in Anführungszeichen.
+An omniscient narrator|knows nothing|is the author|knows the thoughts of all characters|knows only one character|2|Allwissender Erzähler.
+Limited point of view means|many characters narrate|the whole story is told|events are seen through one character|there is no narrator|2|Beschränkte Perspektive.
+Personification is|giving human qualities to non-human things|exaggerating|repeating a sound|comparing with like|0|Personifikation.
+Understatement is|exaggeration|making something seem less important than it is|repetition|rhyme|1|Untertreibung.
+A symbol is|something that stands for an idea|a narrator|a question|a repeated word|0|Symbol = Sinnbild.
+The tone or atmosphere of a text is|its length|its plot|the narrator's name|its general feeling|3|Atmosphäre.
+Direct characterisation means|nothing is said|we infer from the character's actions|the narrator tells us about the character|the character speaks|2|Direkte Charakterisierung.
+Indirect characterisation means|we learn about the character from actions, speech and thoughts|only descriptions|the narrator states it|nothing|0|Indirekte Charakterisierung.
+What belongs in the introduction of an analysis?|Only quotations|Personal feelings|Title, author, text type, topic and short summary|The ending|2|Einleitung.
+What belongs in the main part of an analysis?|Only a summary|Only personal opinion|Structure, content, language and style|A list of words|2|Hauptteil.
+How is a line reference written?|(l. 12)|line twelve|[12]|#12|0|Zeilenangabe in Klammern.
+A stylistic device must be|quoted only|ignored|named only|named, quoted and its effect explained|3|Nennen, belegen, Wirkung erklären.
+The climax of a story is|the introduction|the ending|the turning point of highest tension|the title|2|Höhepunkt.
+The exposition introduces|the resolution|the climax|setting and characters|the conclusion|2|Exposition.
+A flashback is|a scene from the past inserted into the present story|a dream|a comparison|a future scene|0|Rückblende.
+Foreshadowing means|describing past events|repeating|hinting at future events|exaggerating|2|Vorausdeutung.
+Repetition (anaphora) is used to|shorten|confuse|emphasise|mislead|2|Wiederholung betont.
+The connotation of a word is|the feeling or idea associated with it|its origin|its spelling|its dictionary meaning|0|Konnotation.
+The denotation of a word is|its associations|its literal dictionary meaning|its opposite|its feelings|1|Denotation.
+'The silence was deafening.' is an|alliteration|simile|personification|oxymoron|3|Widersprüchliche Verbindung.
+'The White House announced a new law.' is a|metonymy|irony|simile|hyperbole|0|Der Ort steht für die Regierung.
+'I've told you a million times.' is a|simile|understatement|irony|hyperbole|3|Übertreibung.
+'It's a bit chilly,' said about –20 °C, is an|metaphor|understatement|hyperbole|simile|1|Untertreibung.
+'What a lovely day!' said during a storm is|a metaphor|irony|a symbol|a simile|1|Das Gegenteil des Gemeinten.
+An unreliable narrator is|a narrator whose account cannot be fully trusted|an omniscient narrator|the reader|the author|0|Unzuverlässiger Erzähler.
+An interior monologue shows|a dialogue|a third-person description|a summary|a character's thoughts directly|3|Innerer Monolog.
+Stream of consciousness is|a continuous flow of thoughts|a chorus|a dialogue|a list|0|Bewusstseinsstrom.
+Why is the present tense used in an analysis?|It is for narrators only|It sounds old|It is the convention for literary analysis|There is no reason|2|Konvention.
+How should a quotation be integrated?|Translate it|Embed it grammatically in your own sentence|Insert it without introduction|Write it in italics only|1|Zitate in den eigenen Satz einbauen.
+'In medias res' means starting|with the ending|in the middle of the action|with the title|with dialogue only|1|Beginn mitten im Geschehen.
+Dramatic irony means|the characters know more|nothing happens|the audience knows more than the characters|the narrator lies|2|Dramatische Ironie.
+Free indirect speech|is a headline|is a direct quote|is a question|reports thoughts without 'he thought'|3|Erlebte Rede.
+'The wind whispered through the trees.' is a|alliteration|simile|personification|irony|2|Der Wind wird vermenschlicht.

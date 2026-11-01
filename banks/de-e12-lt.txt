@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The narrator is|the voice that tells the story|the author|the reader|the title|0|Erzähler.
+A first-person narrator uses|'they'|'I'|'he'|'she'|1|Ich-Erzähler.
+The setting is|the conflict|the time and place of a story|the theme|the main character|1|Schauplatz und Zeit.
+The plot is|the character|the setting|the tone|the sequence of events|3|Handlung.
+The protagonist is|the narrator only|the main character|the reader|the villain|1|Hauptfigur.
+The antagonist is|a friend|the hero|the opponent of the protagonist|the author|2|Gegenspieler.
+The theme is|the title|the length|the central idea of a text|a page|2|Thema.
+A conflict is|a resolution|a struggle between opposing forces|a setting|the beginning|1|Konflikt.
+The climax is|the turning point or point of highest tension|the beginning|the end|the title|0|Höhepunkt.
+A stanza is|a chapter|a scene|an act|a group of lines in a poem|3|Strophe.
+A rhyme is|repeated words|opposite words|words with the same meaning|words with the same end sound|3|Reim.
+A sonnet has|20 lines|10 lines|8 lines|14 lines|3|Sonett.
+Acts and scenes appear in|a play|a newspaper|a poem|a novel|0|Drama.
+Stage directions are|the dialogue|instructions for actors and the stage|the title|the audience list|1|Regieanweisungen.
+A monologue is|a dialogue|a song|an audience|a long speech by one character|3|Monolog.
+A dialogue is|a speech|a title|a conversation between characters|a setting|2|Dialog.
+The mood or atmosphere is|the feeling a text creates|the author|the place|the length|0|Stimmung.
+A third-person omniscient narrator|knows the thoughts of all characters|knows only one character's thoughts|knows no thoughts|is a character|0|Allwissender Erzähler.
+An unreliable narrator is|a narrator whose account cannot be fully trusted|the reader|a perfect narrator|the author|0|Unzuverlässiger Erzähler.
+A flashback is|a title|an ending|a scene that goes back to earlier events|a prediction|2|Rückblende.
+Foreshadowing means|hints at later events|a flashback|a summary|an ending|0|Vorausdeutung.
+Direct characterisation means|the narrator describes a character openly|a character is shown by actions|only by dialogue|only by the setting|0|Direkte Charakterisierung.
+Indirect characterisation means|the narrator states traits|a character is shown through actions, speech and thoughts|no description|only physical description|1|Indirekte Charakterisierung.
+Iambic pentameter is|five pairs of unstressed and stressed syllables per line|five acts|five lines|ten stanzas|0|Jambischer Pentameter.
+Enjambment is|a rhyme|a refrain|a sentence continuing over a line break|a full stop at line end|2|Zeilensprung.
+A refrain is|a new idea|a repeated line or phrase|the ending|the title|1|Refrain.
+A soliloquy is|a character speaking their thoughts alone on stage|a chorus|a dialogue|a narrator's comment|0|Selbstgespräch.
+Mediation (Sprachmittlung) means|word-for-word translation|speaking loudly|summarising only in the same language|conveying content in another language for someone else|3|Sinngemäße Übertragung.
+In a mediation task you should|add your opinion|skip all content|translate everything|select the information relevant for the addressee|3|Adressatenbezug.
+A letter to the editor is|a job application|a text in which readers give their opinion to a newspaper|a speech|a diary|1|Leserbrief.
+A speech should include|footnotes|tables|an address, rhetorical devices and a clear structure|a bibliography|2|Rede.
+A review|gives a recipe|explains a law|evaluates a book, film or other work|describes the weather|2|Rezension.
+A blog post often has|a legal style|a strictly formal style|a poetic style|an informal, personal style|3|Blog.
+A comment requires|a plot summary|a clear opinion supported by arguments|only quotations|a neutral summary|1|Kommentar.
+Which tense is used in a literary analysis?|The past tense|The present tense|Any tense|The future tense|1|Analyse im Präsens.
+How do you give a quotation reference?|Without any reference|Only the author|Only the title|With the line number, e.g. (l. 12)|3|Zitatbeleg.
+The operator 'analyse' means|to give a personal opinion|to translate|to examine in detail how and why|to list|2|Analysieren.
+The operator 'discuss' means|to copy|to weigh up arguments for and against|to describe|to summarise|1|Erörtern.
+The operator 'evaluate' means|to list|to judge or assess with reasons|to retell|to translate|1|Beurteilen.
+The operator 'outline' means|to copy|to argue|to give the main points briefly|to analyse in depth|2|Skizzieren.
+The operator 'comment on' means|to summarise|to give your own view with reasons|to list|to describe|1|Stellung nehmen.
+The operator 'compare' means|to invent|to translate|to show similarities and differences|to evaluate|2|Vergleichen.
+The operator 'describe' means|to argue|to rewrite|to give a detailed account of features|to evaluate|2|Beschreiben.
+The operator 'explain' means|to discuss|to make clear with reasons|to retell|to list|1|Erklären.
+The operator 'state' means|to analyse|to give brief facts|to evaluate|to discuss|1|Nennen.
+The operator 'justify' means|to list|to describe|to give reasons for a statement|to copy|2|Begründen.
+In an exam you should|write as much as possible|write double|write only half|stay close to the given word count|3|Vorgaben beachten.
+The recipient in a mediation task is|nobody|a specific person or group who needs the information|the author|the teacher only|1|Adressat.
+A subject line in an email|is forbidden|shows the topic|is grammar|is decoration|1|Betreffzeile.
+You should proofread your text to|add words|shorten it|translate it|correct mistakes|3|Korrekturlesen.
