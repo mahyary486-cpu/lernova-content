@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+If it rains, we ___ at home.|stay|stayed|will stay|would stay|2|If-Satz Typ 1: will + Infinitiv im Hauptsatz.
+If I had a car, I ___ to work.|will drive|had driven|would have driven|would drive|3|Typ 2: would + Infinitiv.
+If I had known, I ___ you.|would have helped|had helped|will help|would help|0|Typ 3: would have + Partizip.
+What is the passive of 'The cat eats the mouse'?|The mouse has eating the cat.|The mouse eats the cat.|The mouse is eaten by the cat.|The mouse was eaten by the cat.|2|Present Simple Passive: is/are + Partizip.
+How is the passive formed?|be + past participle|do + infinitive|will + infinitive|have + past participle|0|Passiv = Form von be + Partizip.
+English ___ all over the world.|is spoken|speaks|is speaking|spoke|0|Passiv Präsens.
+The window ___ yesterday.|is broken|broke|has broke|was broken|3|Simple Past Passive.
+'I am tired,' she said. → She said that she ___ tired.|has been|was|is|were|1|Im Indirect Speech rutscht die Zeit zurück.
+He said, 'I like pizza.' → He said he ___ pizza.|likes|has liked|liked|like|2|Simple Present wird zu Simple Past.
+Which relative pronoun is used for people?|which|what|whose|who|3|Who bezieht sich auf Personen.
+Which relative pronoun is used for things?|which|whom|who|whose|0|Which bezieht sich auf Sachen.
+The man ___ lives next door is a doctor.|whose|whom|which|who|3|Who als Subjekt für Personen.
+The book ___ I bought is great.|who|which|whose|where|1|Which für Sachen.
+That's the girl ___ bike was stolen.|whom|which|whose|who|2|Whose zeigt Besitz an.
+Which tense is used in an if-clause of type 1?|will-future|Simple Past|Simple Present|Past Perfect|2|Typ 1: if + Simple Present.
+Which tense is used in an if-clause of type 2?|Simple Past|would + infinitive|Past Perfect|Simple Present|0|Typ 2: if + Simple Past.
+'Unless' means|because|although|when|if not|3|Unless = wenn nicht.
+If she ___ harder, she would pass the test.|had studied|would study|studied|studies|2|Typ 2: if + Simple Past.
+If I ___ you, I would apologise.|were|would be|will be|am|0|Im If-Satz verwendet man were.
+If they had left earlier, they ___ the train.|had caught|would have caught|would catch|will catch|1|Typ 3: would have + Partizip.
+The letter ___ by my teacher.|has wrote|wrote|was written|is write|2|Simple Past Passive.
+The homework must ___ tomorrow.|handed in|hand in|be handed in|be hand in|2|Modalverb + be + Partizip.
+The bridge ___ built.|has|has been|is been|have been|1|Present Perfect Passive: has been + Partizip.
+When ___ the house built?|were|did|was|does|2|Passivfrage im Simple Past.
+'I will help you,' he said. → He said he ___ help me.|will|had|would|can|2|Will wird zu would.
+'I have finished,' she said. → She said she ___ finished.|has|have|had|was|2|Present Perfect wird zu Past Perfect.
+In reported speech 'tomorrow' becomes|yesterday|today|tomorrow|the next day|3|Zeitangaben werden angepasst.
+'Where do you live?' he asked. → He asked me where I ___.|did live|lived|live|do live|1|Indirekte Frage: Aussagesatzstellung.
+Word order in reported questions is|question order with an auxiliary verb|unchanged from the direct question|statement order|question order with do|2|Im indirekten Fragesatz steht kein do.
+'Close the door!' → He told me ___ the door.|that close|to close|closing|close|1|Befehl: told + Person + to-Infinitiv.
+The woman, ___ is my aunt, lives in Berlin.|what|which|who|whose|2|Nichtnotwendiger Relativsatz mit Kommas.
+What is a defining relative clause?|A clause with commas|An essential clause without commas|A clause only used in the plural|Optional extra information|1|Der Relativsatz ist für das Verständnis notwendig.
+I know the town ___ he was born.|which|when|where|what|2|Where bezieht sich auf Orte.
+'He passed the exam, which surprised everyone.' – Which refers to|everyone|he|the exam|the whole clause|3|Which kann sich auf den ganzen Satz beziehen.
+I'll call you as soon as I ___ home.|will get|got|would get|get|3|In Zeitsätzen steht kein will.
+If you heat ice, it ___.|melts|would melt|melted|will melt|0|Typ 0: allgemeingültige Aussage.
+If I ___ rich, I would travel the world.|would be|am|had been|were|3|Förmlich: If I were.
+I wish I ___ more time.|would have|have|has|had|3|Wish + Simple Past.
+She ___ the job if she had had more experience.|will get|had got|would get|would have got|3|Typ 3: would have + Partizip.
+If I had studied medicine, I ___ a doctor now.|will be|would be|was|would have been|1|Gemischtes Konditional: Vergangenheit und Gegenwart.
+'It is said that he is rich.' → He ___ rich.|says to be|is saying|is said to be|said to be|2|Persönliches Passiv mit to-Infinitiv.
+'People think the bank was robbed.' → The bank ___ to have been robbed.|is thinking|thought|is thought|thinks|2|Is thought to have been + Partizip.
+'Don't touch it!' he said. → He told me ___ it.|not to touch|to not touched|don't touch|not touching|0|Verneinter Befehl: not to + Infinitiv.
+She asked me whether I ___ coffee.|will want|wanted|do want|want|1|Die Zeit rutscht zurück.
+The film, ___ I saw last week, was great.|who|that|which|whose|2|Nach einem Komma steht which, nicht that.
+The reason ___ he left is unclear.|why|whom|who|what|0|Reason why.
+Is it the man ___ car was stolen?|whose|that|which|who's|0|Whose = dessen.
+What is the passive of 'People speak English here'?|English is speaking here.|Spoken English is here.|English speaks here.|English is spoken here.|3|Present Simple Passive.
+Which is the correct passive of 'She gave me a book'?|I given a book.|I has been given a book.|I was gave a book.|I was given a book.|3|Persönliches Passiv mit dem indirekten Objekt.
+Unless you hurry, you ___ the bus.|will miss|missed|would miss|miss|0|Unless + Simple Present, Hauptsatz mit will.

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+What does 'skimming' mean?|Reading every word carefully|Reading quickly to get the main idea|Translating a text|Looking for a specific number|1|Skimming = überfliegen.
+What does 'scanning' mean?|Reading aloud|Translating|Reading for the main idea|Looking for specific information|3|Scanning = gezielt nach Informationen suchen.
+An informal email can end with|Respectfully yours|Yours sincerely|Best wishes|Yours faithfully|2|Best wishes ist freundlich, aber nicht steif.
+A formal letter that begins 'Dear Sir or Madam' ends with|Yours faithfully|Cheers|Yours sincerely|Love|0|Unbekannter Empfänger: Yours faithfully.
+A formal letter that begins 'Dear Mr Smith' ends with|Yours sincerely|Yours faithfully|See you|Bye|0|Namentlich bekannter Empfänger: Yours sincerely.
+Which linking word shows contrast?|because|and|but|so|2|But = aber.
+Which linking word gives a reason?|but|because|however|although|1|Because = weil.
+Which linking word shows a result?|because|although|so|but|2|So = deshalb.
+Which linking word adds information?|and|because|but|unless|0|And = und.
+'I would like to apply for the job' belongs to|a formal letter|a poem|a text message|a diary|0|Bewerbung ist formell.
+What is a topic sentence?|A sentence that states the main idea of a paragraph|The last sentence of a text|A sentence with examples|A repeated title|0|Der Hauptgedanke des Absatzes.
+The introduction of an essay|introduces the topic|lists the sources|gives the conclusion|summarises the text|0|Die Einleitung führt in das Thema ein.
+'To look up a word' means|wegwerfen|aufstehen|nachschlagen|aufgeben|2|Look up = nachschlagen.
+'To give up' means|abholen|anrufen|aufgeben|aufstehen|2|Give up = aufgeben.
+'To get up' means|aufgeben|aufstehen|einsteigen|aussteigen|1|Get up = aufstehen.
+The English word 'gift' means|Gabel|Geschenk|Preis|Gift|1|Falscher Freund: gift = Geschenk.
+'To become' means|beginnen|bekommen|brauchen|werden|3|Falscher Freund: become = werden.
+'Although' expresses|time|contrast|result|reason|1|Although = obwohl.
+'However' means|weil|jedoch|obwohl|deshalb|1|However = jedoch.
+'Therefore' means|aber|deshalb|während|obwohl|1|Therefore = deshalb.
+'While' or 'whereas' is used to|end a letter|give an order|give a reason|compare two things|3|Gegenüberstellung.
+What is the usual order of an essay?|Conclusion, introduction, main part|Only an introduction|Main part, title, introduction|Introduction, main part, conclusion|3|Einleitung, Hauptteil, Schluss.
+'I look forward to hearing from you' belongs to|the opening of a letter|the title|the address|the closing of a letter|3|Schlusssatz in einem Brief.
+A formal letter often begins with|Hey Sir!|Hi!|What's up?|I am writing to ...|3|Formeller Briefanfang.
+What style is typical for a formal letter?|Many abbreviations|Emoticons|Polite, no contractions|Slang|2|Förmlicher Stil.
+'To turn off' means|ausschalten|einschalten|anrufen|umdrehen|0|Turn off = ausschalten.
+'The plane takes off at 8.' means that it|lands|starts|waits|is cancelled|1|Take off = abheben.
+'To find out' means|herausgehen|finden|herausfinden|verlieren|2|Find out = herausfinden.
+'To run out of' means|auslaufen|weglaufen|loslaufen|nicht mehr genug haben|3|We have run out of milk.
+'To put on' means|auslegen|anziehen|hinlegen|ausziehen|1|Put on = anziehen.
+The English word 'chef' means|Sessel|Kleid|Koch|Chef|2|Falscher Freund: chef = Koch.
+The English word 'actual' means|aktuell|aktiv|tatsächlich|akut|2|Falscher Freund: actual = tatsächlich.
+The English word 'sensible' means|vernünftig|sinnlich|empfindlich|sensibel|0|Falscher Freund: sensible = vernünftig.
+The English word 'eventually' means|vielleicht|oft|schließlich|eventuell|2|Falscher Freund: eventually = schließlich.
+The English verb 'to mean' translates as|bedeuten|leben|messen|gemein sein nur|0|Mean = bedeuten, meinen.
+The English word 'sympathetic' means|stabil|mitfühlend|teuer|sympathisch|1|Falscher Freund: sympathetic = mitfühlend.
+___ it was raining, we went for a walk.|Although|Therefore|So|Because|0|Although leitet einen Gegensatz ein.
+He was tired; ___, he finished the work.|nevertheless|so that|as|because|0|Nevertheless = trotzdem.
+She studied hard ___ she could pass the exam.|despite|although|so that|because of|2|So that drückt einen Zweck aus.
+___ the bad weather, we had a great time.|Despite|Because|Although|While|0|Despite steht vor einem Nomen.
+He didn't come ___ he was ill.|despite|although|because|because of|2|Because leitet einen Nebensatz ein.
+'Because of' is followed by|a noun|a full clause|a to-infinitive|a verb in the past|0|Because of + Nomen.
+'In my opinion' is used to|express a personal view|give a fact|say goodbye|ask a question|0|Meinungsäußerung.
+A good conclusion|is left out|introduces new arguments|repeats the introduction word for word|summarises the main points|3|Der Schluss fasst zusammen.
+'To come across' means|überqueren|ausgehen|ankommen|zufällig finden oder treffen|3|Come across = zufällig stoßen auf.
+'To carry on' means|wegtragen|weggehen|anrufen|weitermachen|3|Carry on = weitermachen.
+'To put off' means|anziehen|wegwerfen|ausziehen|verschieben|3|Put off = verschieben.
+'To get along with someone' means|sich mit jemandem verstehen|mitgehen|aussteigen|vorankommen|0|Get along = sich verstehen.
+'To take part in' means|teilnehmen an|teilen|nehmen|dazugeben|0|Take part in = teilnehmen.
+'To bring up a child' means|großziehen|anheben|mitbringen|hochbringen|0|Bring up = großziehen.
