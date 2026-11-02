@@ -1,0 +1,6 @@
+{
+ "Polynomials and degree": "A polynomial has non-negative whole-number powers. Its degree is the highest power of x.",
+ "Linear polynomials and their graphs": "A linear polynomial ax + b has a straight-line graph with slope a and y-intercept b.",
+ "Zeroes of a linear polynomial": "The zero of ax + b is −b/a, the x-coordinate where the graph meets the x-axis.",
+ "Linear polynomials in real life": "Linear polynomials model fixed-plus-rate situations. A line through two points is found from its slope and intercept."
+}

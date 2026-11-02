@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Natural numbers are|all negative integers|0, 1, 2, ...|1, 2, 3, ...|all fractions|2|Counting numbers.
+Whole numbers include|0|fractions|negative numbers|decimals|0|Whole numbers are 0, 1, 2, ...
+Integers are|..., -2, -1, 0, 1, 2, ...|only positive numbers|only negative numbers|only fractions|0|They include negatives, zero and positives.
+A rational number can be written as|p/q with q ≠ 0|a non-terminating non-recurring decimal|π|√2|0|p and q are integers.
+Which number is irrational?|0.5|0.333...|√2|3/4|2|0.333... = 1/3 is rational.
+The number π is|an integer|a whole number|irrational|rational|2|Its decimal never ends or repeats.
+The number √4 is|irrational|negative|rational|imaginary|2|√4 = 2.
+0.25 as a fraction is|25|2/5|1/2|1/4|3|25/100 = 1/4.
+A terminating decimal is|irrational|undefined|rational|complex|2|It can be written as a fraction.
+Every integer is|a decimal only|not real|rational|irrational|2|n = n/1.
+The real numbers consist of|rational and irrational numbers|only integers|only irrational numbers|only rational numbers|0|Together they fill the number line.
+The real number line shows|only whole numbers|only fractions|only integers|all real numbers|3|Every real number has a place on it.
+√9 equals|3|4.5|81|9|0|3 × 3 = 9.
+What is 2³?|9|5|6|8|3|2 × 2 × 2.
+What is 5⁰?|5|1|0|undefined|1|Any non-zero number to the power 0 is 1.
+What is 3⁻¹?|1/3|-1/3|3|-3|0|a⁻ⁿ = 1/aⁿ.
+Which is greater: 0.5 or 0.45?|0.45|Cannot say|They are equal|0.5|3|0.50 > 0.45.
+What is the decimal form of 1/3?|0.31|0.4|0.3 (terminating)|0.333... (recurring)|3|Division never ends and repeats.
+The decimal expansion of 1/7 is|non-terminating and non-recurring|zero|non-terminating and recurring|terminating|2|Rational numbers repeat or terminate.
+The decimal expansion of √2 is|non-terminating and non-recurring|recurring|terminating|finite|0|That makes it irrational.
+The decimal 0.5 is|non-terminating non-recurring|terminating|irrational|recurring|1|It ends after one digit.
+What is aᵐ × aⁿ?|aᵐ⁺ⁿ|(2a)ᵐ⁺ⁿ|aᵐⁿ|aᵐ⁻ⁿ|0|Add the exponents.
+What is aᵐ ÷ aⁿ?|aᵐ⁺ⁿ|aᵐⁿ|a|aᵐ⁻ⁿ|3|Subtract the exponents.
+What is (aᵐ)ⁿ?|aᵐ/ⁿ|aᵐⁿ|aᵐ⁻ⁿ|aᵐ⁺ⁿ|1|Multiply the exponents.
+What is (ab)ⁿ?|aⁿbⁿ|aⁿ + bⁿ|n(ab)|abⁿ|0|The power applies to each factor.
+What is 2⁵ × 2³?|2¹⁵|2²|2⁸|4⁸|2|5 + 3 = 8.
+What is (3²)³?|9⁵|3⁵|3⁹|3⁶|3|2 × 3 = 6.
+What is 16^(1/2)?|4|8|256|2|0|The square root of 16.
+What is 27^(1/3)?|1/3|81|3|9|2|The cube root of 27.
+What is √2 × √3?|√6|√5|6|5|0|√a × √b = √(ab).
+Simplify √12.|3√2|4√3|2√3|6|2|√12 = √4 × √3.
+Rationalising the denominator of 1/√2 gives|√2|2√2|√2/2|1/2|2|Multiply top and bottom by √2.
+What is (√3)²?|6|√3|3|9|2|Squaring undoes the square root.
+Which number lies between 1 and 2?|√5|√2|√1|√9|1|√2 ≈ 1.41.
+Which number lies between 0.1 and 0.2?|0.3|0.25|0.05|0.15|3|0.1 < 0.15 < 0.2.
+Which rational number lies between 1/2 and 3/4?|4/5|5/8|1/4|1|1|5/8 = 0.625.
+What fraction is 0.666... (recurring)?|1/3|6/10|2/3|3/2|2|0.666... = 2/3.
+0.999... (recurring) equals|0.9|9/10|0.99|1|3|It is exactly 1.
+What fraction is 0.363636... (recurring)?|9/25|4/11|36/100|3/11|1|Let x = 0.3636...; 99x = 36.
+What is (2 + √3)(2 − √3)?|1|7|4|4 − 3√3|0|a² − b² = 4 − 3.
+What is (√5 + √2)²?|10|7 + 2√7|7|7 + 2√10|3|5 + 2 + 2√10.
+What is 1/(√3 + √2) after rationalising?|√3 + √2|√3 − √2|√5|5|1|Multiply by (√3 − √2)/(√3 − √2).
+What is 2⁻³?|-8|1/8|-6|6|1|1/2³.
+What is (8/27)^(1/3)?|2/3|4/9|8/9|3/2|0|Cube root of 8 over cube root of 27.
+What is (−1)ⁿ when n is even?|0|n|1|-1|2|An even number of factors of −1.
+Which number is irrational?|√2 + 1|(√2)²|√2 × √2|√2 − √2|0|The others equal 2, 2 and 0.
+The number √2 + √3 is|an integer|rational|a whole number|irrational|3|It cannot be written as p/q.
+The product of a non-zero rational number and an irrational number is|irrational|an integer|zero|rational|0|Otherwise the irrational number would be rational.
+What is the sum of √2 and −√2?|undefined|imaginary|0, which is rational|irrational|2|They cancel.
+How many rational numbers lie between 1 and 2?|Exactly one|None|Exactly nine|Infinitely many|3|Between any two numbers there are infinitely many rationals.

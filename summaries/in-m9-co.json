@@ -1,0 +1,6 @@
+{
+ "The Cartesian plane": "The x-axis and y-axis meet at the origin. A point is an ordered pair (x, y): abscissa first, ordinate second.",
+ "Quadrants and signs": "The four quadrants differ in the signs of x and y. Points on the axes belong to no quadrant.",
+ "Plotting points and reading coordinates": "Plot a point by moving along x and then along y. Distances from the axes are the absolute values of the coordinates.",
+ "Reflection, distance and midpoint": "Reflections change signs of coordinates. Lengths along axes are differences; the midpoint averages the coordinates."
+}
