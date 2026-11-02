@@ -2,6 +2,7 @@
 """Checks the whole content repo: bank format, packs fingerprints, and expected new files.
 Usage (from the repo root):  python3 tools/verify_content.py"""
 import glob, hashlib, json, os, subprocess, sys
+import re
 ok = True
 def say(good, msg):
     global ok
@@ -37,7 +38,7 @@ for pk in sorted(glob.glob('packs/*.json')):
     s = [f for f in pf if os.path.exists(f) and pf[f] != fp(f)]
     pre = 'ir' if 'IR' in pk else ('g' if 'US' in pk else os.path.basename(pk)[:2].lower())
     unlisted = [f for f in glob.glob('banks/*.txt') + glob.glob('summaries/*.json') + glob.glob('details/*.md')
-                if os.path.basename(f).startswith(pre) and f not in pf]
+                if re.match(r'^' + (r'g\d' if pre == 'g' else re.escape(pre) + r'-'), os.path.basename(f)) and f not in pf]
     say(not (m or s or unlisted), '%s: %d فایل، همه به‌روز' % (os.path.basename(pk), len(pf)) +
         ((' (مشکل: %d ناهماهنگ، %d ثبت‌نشده)' % (len(m) + len(s), len(unlisted))) if (m or s or unlisted) else ''))
 # 4) index lessons all have a detail file where expected
