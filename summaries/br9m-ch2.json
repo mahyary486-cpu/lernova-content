@@ -1,0 +1,4 @@
+{
+  "Resolução e fórmula de Bhaskara": "Uma equação do 2º grau tem a forma ax² + bx + c = 0, com a ≠ 0. A fórmula de Bhaskara é x = (−b ± √Δ)/(2a), com Δ = b² − 4ac. Equações incompletas (b = 0 ou c = 0) podem ser resolvidas por isolamento ou fatoração.",
+  "Discriminante e soma e produto das raízes": "O sinal de Δ indica o número de raízes reais: Δ > 0, duas raízes distintas; Δ = 0, uma raiz dupla; Δ < 0, nenhuma raiz real. Para ax² + bx + c = 0, a soma das raízes é −b/a e o produto é c/a."
+}

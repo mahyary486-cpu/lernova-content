@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Quem é considerado o pai da genética?|Gregor Mendel|Charles Darwin|Louis Pasteur|Isaac Newton|0|Mendel descobriu as leis básicas da hereditariedade ao cruzar ervilhas.
+No cruzamento Aa × Aa, qual é a proporção genotípica?|3 : 1|1 AA : 2 Aa : 1 aa|1 : 1|9 : 3 : 3 : 1|1|Os gametas A e a se combinam em quatro possibilidades: AA, Aa, Aa e aa.
+Um casal Aa × Aa tem filhos. Qual é a probabilidade de uma criança ser aa?|50%|75%|25%|100%|2|A chance é 1/4 = 25%.
+Que organismo Mendel utilizou em seus experimentos?|mosca-das-frutas|rato|milho|ervilha|3|Mendel cruzou plantas de ervilha com características contrastantes.
+No cruzamento Aa × Aa, qual é a proporção fenotípica?|3 dominantes : 1 recessivo|1 dominante : 1 recessivo|1 dominante : 3 recessivos|todos dominantes|0|AA e Aa mostram o dominante (3), e aa mostra o recessivo (1).
+Um casal Aa × Aa terá dois filhos seguidos aa. Qual é a probabilidade?|1/8|1/16|1/4|1/2|1|Eventos independentes: 1/4 · 1/4 = 1/16.
+Um alelo dominante é aquele que:|só se manifesta em homozigose|nunca se manifesta|se manifesta mesmo em heterozigose|desaparece na descendência|2|O dominante aparece quando está em dose simples (Aa).
+No cruzamento Aa × aa, a descendência é:|100% dominantes|25% recessivos|75% dominantes|50% dominantes e 50% recessivos|3|Os filhos são 1/2 Aa e 1/2 aa.
+No cruzamento AaBb × AaBb, qual é a proporção fenotípica esperada?|9 : 3 : 3 : 1|3 : 1|1 : 2 : 1|1 : 1 : 1 : 1|0|É a proporção da 2ª Lei de Mendel, com genes independentes.
+Um indivíduo com genótipo Aa é:|homozigoto dominante|heterozigoto|homozigoto recessivo|haploide|1|Heterozigoto tem dois alelos diferentes.
+No cruzamento AA × aa, a primeira geração é:|toda AA|toda aa|toda Aa (heterozigota)|metade AA e metade aa|2|Cada filho recebe A de um genitor e a do outro.
+Quantos tipos de gameta produz um indivíduo AaBb?|2|8|16|4|3|Os gametas são AB, Ab, aB e ab.
+Qual molécula guarda a informação genética?|DNA|ATP|glicose|lipídio|0|O DNA armazena as instruções para o funcionamento da célula.
+Na espécie humana:|XX é homem e XY é mulher|XX é mulher e XY é homem|XY é mulher|YY é homem|1|A mulher tem dois cromossomos X e o homem tem X e Y.
+O daltonismo, ligado ao cromossomo X, é mais comum em homens porque eles:|têm dois cromossomos X|têm o gene no cromossomo Y|têm apenas um cromossomo X|têm o alelo dominante|2|Com um único X, um alelo recessivo se manifesta.
+Onde fica o DNA nas células eucarióticas?|no ribossomo|no lisossomo|no vacúolo|no núcleo|3|O material genético fica no núcleo (e também em mitocôndrias e cloroplastos).
+Qual é a probabilidade de um casal ter um menino?|50%|25%|75%|100%|0|Metade dos espermatozoides leva X e metade leva Y.
+Em um DNA de fita dupla com 20% de adenina, qual é a porcentagem de citosina?|20%|30%|40%|60%|1|A = T = 20%, sobram 60% para C + G, ou seja, 30% de cada.
+Quantos cromossomos tem uma célula do corpo humano?|23|44|46|48|2|Os humanos têm 23 pares, ou seja, 46 cromossomos.
+Uma mutação é:|uma doença contagiosa|um tipo de proteína|uma troca de gametas|uma alteração no material genético|3|Mutações são mudanças no DNA que podem gerar novas variações.
+Em relação ao DNA, o RNA tem:|uracila no lugar de timina e ribose|timina e desoxirribose|duas fitas e timina|só adenina e citosina|0|O RNA usa uracila e açúcar ribose.
+Fenótipo é:|o conjunto de alelos|a característica observável do organismo|um tipo de célula|um órgão|1|O fenótipo resulta do genótipo e do ambiente.
+Quais são as bases nitrogenadas do DNA?|A, U, C e G|A, T, U e G|A, T, C e G|A, B, C e D|2|No DNA a timina (T) faz par com a adenina (A).
+A tradução é o processo em que se sintetizam:|RNA mensageiro, no núcleo|DNA, nos ribossomos|lipídios, no núcleo|proteínas, nos ribossomos|3|O RNA mensageiro é lido nos ribossomos para formar proteínas.
+Quantos cromossomos tem um gameta humano?|23|46|92|12|0|Os gametas têm metade do número de cromossomos: 23.
+No DNA, o pareamento correto das bases é:|A–C e T–G|A–T e C–G|A–G e T–C|A–A e C–C|1|A pareia com T e C pareia com G.
+Um casal já tem 3 filhos meninos. Qual é a chance de o quarto ser menino?|25%|100%|50%|6,25%|2|Cada nascimento é independente, então a chance continua 50%.
+Um gene é:|uma proteína do sangue|um tipo de célula|um órgão do corpo|um segmento de DNA com informação para uma característica|3|Genes são trechos do DNA que codificam características.
+Um organismo transgênico é aquele que:|recebeu um gene de outra espécie|não tem DNA|tem cromossomos a mais|é sempre estéril|0|A técnica insere um gene de outro organismo no DNA do receptor.
+A seleção natural pode ser descrita como:|mudança de características por vontade do indivíduo|sobrevivência e reprodução maiores dos indivíduos com variações favoráveis|herança das características adquiridas em vida|extinção de todas as variações|1|Variações vantajosas aumentam as chances de deixar descendentes.

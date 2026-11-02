@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Na equação x² − 5x + 6 = 0, qual é o valor do coeficiente b?|5|6|−5|1|2|Na forma ax² + bx + c = 0, o coeficiente de x é b = −5.
+Quais são as raízes de x² − 6x + 8 = 0?|−2 e −4|1 e 8|3 e 5|2 e 4|3|Δ = 36 − 32 = 4 e x = (6 ± 2)/2, ou seja, 4 e 2.
+Para quais valores de m a equação x² + 4x + m = 0 não tem raízes reais?|m > 4|m < 4|m > −4|m < −4|0|Δ = 16 − 4m < 0 → m > 4.
+Qual das equações a seguir é do 2º grau?|2x + 1 = 0|x² − 4 = 0|x³ − 1 = 0|3x − 7 = 2|1|Equação do 2º grau tem x² como maior expoente.
+Quais são as raízes de x² + 2x − 8 = 0?|−2 e 4|2 e 4|2 e −4|−2 e −4|2|Δ = 4 + 32 = 36 e x = (−2 ± 6)/2, ou seja, 2 e −4.
+Qual é a soma dos quadrados das raízes de x² − 5x + 6 = 0?|25|11|5|13|3|As raízes são 2 e 3, e 2² + 3² = 13.
+Quais são as raízes de x² − 9 = 0?|3 e −3|somente 3|9 e −9|0 e 9|0|x² = 9, logo x = 3 ou x = −3.
+Para qual valor de k a equação x² − 4x + k = 0 tem uma raiz dupla?|−4|4|2|16|1|Δ = 16 − 4k = 0, logo k = 4.
+Quais são as raízes reais de (x − 1)(x + 4) = 6?|1 e −4|−2 e 5|2 e −5|7 e −10|2|x² + 3x − 4 = 6 → x² + 3x − 10 = 0 → x = (−3 ± 7)/2, ou seja, 2 e −5.
+Qual é o discriminante de x² − 4x + 4 = 0?|8|16|−16|0|3|Δ = (−4)² − 4 · 1 · 4 = 16 − 16 = 0.
+Na equação 2x² − 10x + 8 = 0, a soma e o produto das raízes são, respectivamente:|5 e 4|10 e 8|−5 e 4|4 e 5|0|Soma = −b/a = 10/2 = 5 e produto = c/a = 8/2 = 4.
+O triplo do quadrado de um número menos cinco vezes esse número é igual a 2. Qual é o número positivo?|1/3|2|−2|6|1|3x² − 5x − 2 = 0 → Δ = 49 → x = (5 ± 7)/6, ou seja, 2 ou −1/3.
+Se Δ < 0, a equação do 2º grau tem:|duas raízes reais distintas|uma raiz real dupla|nenhuma raiz real|infinitas raízes|2|Com discriminante negativo não existe raiz quadrada real.
+O quadrado de um número somado ao triplo desse número é 28. Qual é o número positivo?|7|−4|28|4|3|x² + 3x − 28 = 0 → Δ = 121 → x = (−3 ± 11)/2, ou seja, 4 ou −7.
+Uma bola lançada para cima tem altura h(t) = −5t² + 20t (h em metros, t em segundos). Em que instante ela volta ao solo?|4 s|2 s|5 s|20 s|0|−5t(t − 4) = 0 → t = 0 ou t = 4 s.
+Uma das raízes de x² − 3x = 0 é:|−3|3|9|1|1|x(x − 3) = 0, logo x = 0 ou x = 3.
+Um retângulo tem lados x e x + 2 e área 24 m². Qual é o menor lado?|6 m|12 m|4 m|22 m|2|x² + 2x − 24 = 0 → x = 4 (a raiz −6 não serve).
+Qual é a altura máxima atingida pela bola da função h(t) = −5t² + 20t?|40 m|10 m|15 m|20 m|3|O ponto mais alto ocorre em t = 2 s e h(2) = −20 + 40 = 20 m.
+Qual é a soma das raízes de x² − 7x + 10 = 0?|7|−7|10|−10|0|A soma é −b/a = −(−7)/1 = 7.
+Quais são as raízes de x² − 2x − 3 = 0?|−3 e 1|3 e −1|3 e 1|−3 e −1|1|Soma 2 e produto −3 correspondem a 3 e −1.
+Um retângulo tem perímetro de 20 m e área de 24 m². Quais são seus lados?|3 m e 8 m|2 m e 12 m|4 m e 6 m|5 m e 5 m|2|Os lados são x e 10 − x, então x(10 − x) = 24 → x² − 10x + 24 = 0 → x = 4 ou 6.
+Qual é o produto das raízes de x² − 8x + 15 = 0?|−15|8|−8|15|3|O produto é c/a = 15.
+Se 2 é raiz de x² − 5x + m = 0, qual é o valor de m?|6|−6|10|4|0|Substituindo: 4 − 10 + m = 0, logo m = 6.
+Quantas raízes reais tem a equação x⁴ − 5x² + 4 = 0?|2|4|0|3|1|Com y = x²: y² − 5y + 4 = 0 → y = 1 ou 4 → x = ±1 ou ±2.
+Quais são as raízes de x² − 5x + 6 = 0?|−2 e −3|1 e 6|2 e 3|−1 e −6|2|Soma 5 e produto 6 correspondem a 2 e 3.
+Qual é o discriminante de 2x² − 3x + 5 = 0?|49|31|−49|−31|3|Δ = (−3)² − 4 · 2 · 5 = 9 − 40 = −31.
+Se x₁ e x₂ são as raízes de x² − 6x + 5 = 0, qual é o valor de 1/x₁ + 1/x₂?|6/5|5/6|11|1/5|0|1/x₁ + 1/x₂ = (x₁ + x₂)/(x₁x₂) = 6/5.
+Na equação 3x² + 2x − 1 = 0, qual é o valor de a?|2|3|−1|0|1|O coeficiente de x² é a = 3.
+Quais são as raízes de 3x² − 12 = 0?|4 e −4|somente 2|2 e −2|12 e −12|2|3x² = 12 → x² = 4 → x = ±2.
+A equação kx² − 6x + 3 = 0 tem duas raízes reais distintas se, e somente se:|k > 3|k < 0|k ≤ 3|k < 3 e k ≠ 0|3|Δ = 36 − 12k > 0 → k < 3, e k ≠ 0 para a equação ser do 2º grau.

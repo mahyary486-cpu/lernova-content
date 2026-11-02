@@ -1,0 +1,4 @@
+{
+  "Números racionais e irracionais": "Os números racionais podem ser escritos como fração de inteiros (decimais finitos ou dízimas periódicas). Os irracionais, como √2 e π, têm representação decimal infinita e não periódica. Juntos, racionais e irracionais formam o conjunto dos números reais.",
+  "Potências e raízes": "Propriedades: aᵐ·aⁿ = aᵐ⁺ⁿ, aᵐ÷aⁿ = aᵐ⁻ⁿ, (aᵐ)ⁿ = aᵐⁿ, a⁰ = 1 e a⁻ⁿ = 1/aⁿ. Um expoente fracionário representa uma raiz: a^(1/2) = √a. A notação científica escreve números muito grandes ou pequenos como k·10ⁿ, com 1 ≤ k < 10."
+}

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Segundo Lavoisier, em um sistema fechado a massa total:|aumenta sempre|diminui sempre|se conserva|dobra|2|Na natureza nada se cria nem se perde: a massa total fica constante.
+Quais são os coeficientes de H₂ + O₂ → H₂O, na ordem, após o balanceamento?|1, 1 e 1|1, 2 e 2|2, 2 e 1|2, 1 e 2|3|2 H₂ + O₂ → 2 H₂O tem 4 H e 2 O em cada lado.
+Quais são os coeficientes de Al + HCl → AlCl₃ + H₂ após o balanceamento?|2, 6, 2 e 3|1, 3, 1 e 1|2, 3, 2 e 3|1, 6, 1 e 3|0|2 Al + 6 HCl → 2 AlCl₃ + 3 H₂ tem 2 Al, 6 H e 6 Cl dos dois lados.
+Qual é a fórmula da água?|HO₂|H₂O|H₂O₂|OH|1|A água tem 2 átomos de hidrogênio e 1 de oxigênio.
+Quais são os coeficientes de N₂ + H₂ → NH₃, na ordem, após o balanceamento?|1, 1 e 1|2, 3 e 1|1, 3 e 2|1, 2 e 3|2|N₂ + 3 H₂ → 2 NH₃ tem 2 N e 6 H em cada lado.
+Quais são os coeficientes de C₃H₈ + O₂ → CO₂ + H₂O após o balanceamento?|1, 3, 3 e 4|1, 5, 3 e 8|2, 5, 6 e 8|1, 5, 3 e 4|3|C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O tem 3 C, 8 H e 10 O em cada lado.
+Qual é a fórmula do dióxido de carbono?|CO₂|CO|C₂O|CO₃|0|O dióxido de carbono tem 1 átomo de carbono e 2 de oxigênio.
+12 g de C reagem com 32 g de O₂ e formam 44 g de CO₂. Com 24 g de C, quantos gramas de CO₂ se formam?|44 g|88 g|22 g|66 g|1|Dobrando a massa de C, dobra a massa de CO₂ (Proust).
+Em 2 H₂ + O₂ → 2 H₂O, quantos mols de água se formam a partir de 4 mol de H₂ (O₂ em excesso)?|2 mol|8 mol|4 mol|1 mol|2|A proporção H₂ : H₂O é 1 : 1.
+Em uma equação química, os reagentes ficam:|à direita da seta|sobre a seta|abaixo da seta|à esquerda da seta|3|Reagentes → produtos.
+24 g de Mg e 16 g de O formam 40 g de MgO. Com 48 g de Mg, qual é a massa de MgO?|80 g|40 g|96 g|64 g|0|A proporção é constante: 48 g de Mg é o dobro, então a massa de MgO é o dobro.
+Qual é a massa de água formada a partir de 4 g de H₂ (O₂ em excesso; H₂ = 2 g/mol; H₂O = 18 g/mol)?|18 g|36 g|4 g|72 g|1|4 g de H₂ são 2 mol, que formam 2 mol de H₂O = 36 g.
+Os coeficientes estequiométricos indicam:|a cor das substâncias|a temperatura da reação|a proporção entre as quantidades de substâncias|o estado físico|2|Os coeficientes mostram quantas unidades de cada substância participam da reação.
+A massa de uma vela parece diminuir ao queimar em frasco aberto porque:|a matéria desaparece|a massa não se conserva|a vela vira energia pura|gases produzidos escapam para o ambiente|3|O sistema é aberto, então os gases saem e a massa medida diminui.
+Na decomposição CaCO₃ → CaO + CO₂, quantos gramas de CO₂ se obtêm de 40 g de CaCO₃ (M = 100 g/mol; CO₂ = 44 g/mol)?|17,6 g|40 g|4,4 g|44 g|0|40 g é 0,4 mol, que forma 0,4 mol de CO₂ = 0,4 · 44 = 17,6 g.
+Qual destes é um exemplo de transformação química?|fusão do gelo|queima de papel|evaporação da água|amassar uma folha|1|Na queima, o papel se transforma em outras substâncias.
+Na equação balanceada CH₄ + 2 O₂ → CO₂ + 2 H₂O, qual é a soma dos coeficientes?|4|5|6|8|2|1 + 2 + 1 + 2 = 6.
+O reagente limitante é aquele que:|sobra em maior quantidade|tem maior massa molar|é sempre um gás|acaba primeiro|3|Ele determina a quantidade máxima de produto.
+Se 10 g de A reagem com 20 g de B e formam C, qual é a massa de C?|30 g|10 g|20 g|200 g|0|Lavoisier: 10 + 20 = 30 g.
+Qual é o coeficiente do O₂ em Fe + O₂ → Fe₂O₃ após o balanceamento?|2|3|4|1|1|4 Fe + 3 O₂ → 2 Fe₂O₃.
+Em 2 H₂ + O₂ → 2 H₂O com 3 mol de H₂ e 3 mol de O₂, qual é o reagente limitante?|O₂|H₂O|H₂|nenhum, ambos acabam juntos|2|3 mol de H₂ consomem apenas 1,5 mol de O₂, e sobra O₂.
+Na equação H₂ + Cl₂ → 2 HCl, qual é o coeficiente do HCl?|1|3|4|2|3|O coeficiente está escrito antes da fórmula: 2.
+Qual é a massa molar da água (H = 1; O = 16)?|18 g/mol|17 g/mol|16 g/mol|34 g/mol|0|2 · 1 + 16 = 18 g/mol.
+Se o rendimento teórico é 20 g e foram obtidos 15 g, qual é o rendimento percentual?|133%|75%|5%|15%|1|15/20 · 100% = 75%.
+A Lei de Proust trata de:|massas que variam livremente|volumes sempre iguais|proporções constantes entre as massas|temperaturas fixas|2|As substâncias reagem sempre na mesma proporção em massa.
+Qual é a massa molar do CO₂ (C = 12; O = 16)?|28 g/mol|32 g/mol|56 g/mol|44 g/mol|3|12 + 2 · 16 = 44 g/mol.
+2 g de H e 16 g de O formam 18 g de água. Que massa de oxigênio é necessária para formar 36 g de água?|32 g|16 g|4 g|36 g|0|A massa é proporcional: 36 g de água é o dobro de 18 g, então 2 · 16 = 32 g de O.
+O símbolo (s) após uma fórmula indica estado:|líquido|sólido|gasoso|aquoso|1|s = sólido, l = líquido, g = gasoso e aq = aquoso.
+A reação HCl + NaOH → NaCl + H₂O produz:|gás e metal|ácido e base|sal e água|apenas gás|2|É uma neutralização: ácido + base → sal + água.
+Em 2 Na + Cl₂ → 2 NaCl, 46 g de Na reagem com 71 g de Cl₂. Qual é a massa de NaCl formada?|71 g|46 g|58,5 g|117 g|3|Lavoisier: 46 + 71 = 117 g.

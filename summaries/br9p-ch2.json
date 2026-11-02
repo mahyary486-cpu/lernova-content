@@ -1,0 +1,4 @@
+{
+  "Corrente elétrica e tensão": "A corrente elétrica é o movimento ordenado de cargas (elétrons nos metais) e é medida em ampère (A). A tensão (ddp) é medida em volt (V) e é o que \"empurra\" as cargas. Q = i·t relaciona carga, corrente e tempo; P = U·i é a potência elétrica.",
+  "Resistência e Lei de Ohm": "A Lei de Ohm diz que U = R·i para resistores ôhmicos (R em ohm, Ω). Em série, Req = R₁ + R₂ e a corrente é a mesma; em paralelo, a tensão é a mesma e 1/Req = 1/R₁ + 1/R₂. A potência dissipada também vale P = R·i²."
+}

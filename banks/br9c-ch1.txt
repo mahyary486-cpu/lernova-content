@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Quais partículas ficam no núcleo do átomo?|prótons e nêutrons|prótons e elétrons|elétrons e nêutrons|somente elétrons|0|O núcleo contém prótons e nêutrons; os elétrons ficam na eletrosfera.
+Um átomo tem Z = 11 e A = 23. Quantos nêutrons ele possui?|11|12|23|34|1|N = A − Z = 23 − 11 = 12.
+Um átomo tem 17 prótons e 18 nêutrons. Qual é seu número de massa?|17|18|35|52|2|A = Z + N = 17 + 18 = 35.
+Qual é a carga elétrica do elétron?|positiva|nula|variável|negativa|3|O elétron tem carga negativa.
+Isótopos são átomos com:|mesmo número atômico e diferente número de massa|mesmo número de massa e diferente número atômico|mesmo número de nêutrons|mesmo número de elétrons e diferente número de prótons|0|Isótopos pertencem ao mesmo elemento (mesmo Z) e diferem em nêutrons.
+O cátion Mg²⁺ (Z = 12) possui quantos elétrons?|12|10|14|8|1|Perdeu 2 elétrons: 12 − 2 = 10.
+O número atômico (Z) indica:|o número de nêutrons|a massa total|o número de prótons|o número de camadas|2|Z é o número de prótons no núcleo.
+O íon Na⁺ (Z = 11) tem quantos elétrons?|12|11|9|10|3|O Na perdeu 1 elétron: 11 − 1 = 10.
+Isóbaros são átomos com:|mesmo número de massa e diferente número atômico|mesmo número atômico e diferente número de massa|mesmo número de nêutrons e diferente número de massa|mesmo número de elétrons|0|Isóbaros têm o mesmo A e Z diferente (por exemplo ⁴⁰Ar e ⁴⁰Ca).
+Em um átomo neutro:|prótons = nêutrons|prótons = elétrons|elétrons = nêutrons|só há prótons|1|As cargas positivas e negativas se equilibram.
+O íon Cl⁻ (Z = 17) tem quantos elétrons?|16|17|18|35|2|O Cl ganhou 1 elétron: 17 + 1 = 18.
+Isótonos são átomos com:|mesmo número de prótons|mesmo número de massa|mesmo número de elétrons|mesmo número de nêutrons|3|Isótonos têm N igual, mas Z e A diferentes.
+Qual elemento tem símbolo Na?|sódio|nitrogênio|níquel|neônio|0|Na vem do latim natrium e representa o sódio.
+Elementos do mesmo período têm:|o mesmo número de elétrons de valência|o mesmo número de camadas eletrônicas|o mesmo número de prótons|a mesma massa atômica|1|O período indica quantas camadas eletrônicas o átomo possui.
+A massa atômica do cloro é cerca de 35,5 porque:|o átomo tem 35,5 nêutrons|os prótons têm massa fracionária|existe uma mistura natural dos isótopos ³⁵Cl e ³⁷Cl|houve erro experimental|2|O valor é a média ponderada dos isótopos presentes na natureza.
+Como são chamadas as colunas da tabela periódica?|períodos|camadas|isótopos|grupos ou famílias|3|As colunas são grupos (1 a 18); as linhas são períodos.
+Elementos do mesmo grupo têm propriedades químicas parecidas porque têm:|o mesmo número de elétrons na última camada|o mesmo número de camadas|o mesmo número de nêutrons|a mesma massa|0|Os elétrons de valência determinam o comportamento químico.
+O raio atômico aumenta:|de baixo para cima em um grupo|de cima para baixo em um grupo|da esquerda para a direita em um período|em direção aos gases nobres|1|Descendo no grupo surgem novas camadas eletrônicas.
+Qual família é formada pelos gases nobres?|grupo 1|grupo 17|grupo 18|grupo 2|2|Os gases nobres (He, Ne, Ar...) estão no grupo 18.
+Qual é o nome da família do grupo 17?|calcogênios|metais alcalinos|gases nobres|halogênios|3|O grupo 17 (F, Cl, Br, I) é a família dos halogênios.
+A energia de ionização geralmente cresce:|da esquerda para a direita em um período|da direita para a esquerda em um período|de cima para baixo em um grupo|em direção aos metais alcalinos|0|Os átomos menores seguram melhor seus elétrons.
+Qual destes é um metal alcalino?|cloro (Cl)|sódio (Na)|neônio (Ne)|enxofre (S)|1|Os metais alcalinos são do grupo 1: Li, Na, K...
+Um elemento tem 2 camadas e 7 elétrons de valência. Qual é ele?|cloro|oxigênio|flúor|neônio|2|Período 2 e grupo 17 correspondem ao flúor.
+Os metais tendem a:|ganhar elétrons formando ânions|compartilhar todos os elétrons|não interagir com outros átomos|perder elétrons formando cátions|3|Os metais têm poucos elétrons de valência e baixa energia de ionização.
+O número de massa A é calculado por:|A = Z + N|A = Z − N|A = Z · N|A = N − Z|0|A massa do núcleo vem da soma de prótons e nêutrons.
+Um átomo neutro tem 2, 8 e 3 elétrons nas camadas K, L e M. Qual é seu número atômico?|3|13|10|8|1|Z = 2 + 8 + 3 = 13 (alumínio).
+Um elemento com Z = 20 está em qual grupo?|grupo 1|grupo 18|grupo 2|grupo 8|2|A distribuição é 2, 8, 8, 2, com 2 elétrons de valência, logo está no grupo 2 (cálcio).
+Quantos elétrons tem um átomo neutro de carbono (Z = 6)?|12|14|3|6|3|Em átomo neutro, elétrons = prótons = 6.
+Qual destes elementos é o mais eletronegativo?|flúor|césio|sódio|potássio|0|A eletronegatividade cresce para cima e para a direita, e o flúor é o maior valor.
+O modelo atômico de Rutherford propõe:|esfera maciça com cargas distribuídas (pudim de passas)|núcleo pequeno, denso e positivo com elétrons ao redor|átomo indivisível e maciço|elétrons só em órbitas sem núcleo|1|O experimento da lâmina de ouro mostrou um núcleo concentrado.

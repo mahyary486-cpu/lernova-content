@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual é a unidade de velocidade no Sistema Internacional?|m/s|m/s²|kg|N|0|A velocidade é medida em metros por segundo (m/s).
+Um trem a 90 km/h percorre quantos quilômetros em 20 minutos?|45 km|30 km|18 km|60 km|1|20 min = 1/3 h, então Δs = 90 · 1/3 = 30 km.
+Um carro faz metade do percurso a 40 km/h e a outra metade a 60 km/h. Qual é a velocidade média?|50 km/h|52 km/h|48 km/h|45 km/h|2|Com distância d em cada metade: tempo = d/40 + d/60 = d/24, e vm = 2d/(d/24) = 48 km/h.
+Qual é a fórmula da velocidade média?|vm = Δt/Δs|vm = Δs · Δt|vm = Δs − Δt|vm = Δs/Δt|3|A velocidade média é o deslocamento dividido pelo tempo gasto.
+Uma viagem de 150 km tem 100 km a 50 km/h e 50 km a 100 km/h. Qual é a velocidade média?|60 km/h|75 km/h|70 km/h|50 km/h|0|Tempo total = 2 h + 0,5 h = 2,5 h, logo vm = 150/2,5 = 60 km/h.
+A parte de s = 0 a 10 m/s e B de s = 100 m a 5 m/s, no mesmo sentido. Quando A alcança B?|10 s|20 s|15 s|25 s|1|10t = 100 + 5t → t = 20 s.
+Um carro percorre 100 km em 2 h. Qual é sua velocidade média?|200 km/h|100 km/h|50 km/h|2 km/h|2|vm = 100/2 = 50 km/h.
+Em quanto tempo um carro a 120 km/h percorre 360 km?|2 h|4 h|30 h|3 h|3|t = Δs/v = 360/120 = 3 h.
+Dois móveis estão a 100 m um do outro e se aproximam a 6 m/s e 4 m/s. Em quanto tempo se encontram?|10 s|50 s|25 s|20 s|0|Velocidade de aproximação = 6 + 4 = 10 m/s, então t = 100/10 = 10 s.
+Quanto vale 36 km/h em m/s?|36 m/s|10 m/s|3,6 m/s|129,6 m/s|1|Divide-se por 3,6: 36 ÷ 3,6 = 10 m/s.
+Em um gráfico s × t, uma reta ascendente indica:|repouso|velocidade negativa constante|movimento uniforme com velocidade positiva|aceleração crescente|2|A inclinação constante e positiva mostra velocidade constante e positiva.
+Um trem de 200 m passa por um poste a 20 m/s. Quanto tempo leva?|20 s|5 s|200 s|10 s|3|Basta percorrer o próprio comprimento: t = 200/20 = 10 s.
+No movimento uniforme, a velocidade:|é constante|aumenta sempre|diminui sempre|é nula|0|No MU a velocidade não varia ao longo do tempo.
+Um móvel está em 10 m em t = 0 e em 35 m em t = 5 s. Qual é sua velocidade?|7 m/s|5 m/s|2,5 m/s|35 m/s|1|v = (35 − 10)/5 = 5 m/s.
+Um trem de 200 m atravessa uma ponte de 300 m a 20 m/s. Quanto tempo leva?|10 s|15 s|25 s|30 s|2|Distância = 200 + 300 = 500 m, então t = 500/20 = 25 s.
+Um corredor percorre 400 m em 50 s. Qual é sua velocidade média?|20 000 m/s|0,125 m/s|350 m/s|8 m/s|3|vm = 400/50 = 8 m/s.
+Um atleta mantém 6 m/s. Em quanto tempo percorre 100 m?|≈ 16,7 s|600 s|0,06 s|60 s|0|t = 100/6 ≈ 16,7 s.
+O som viaja a 340 m/s. Se o trovão chega 3 s após o relâmpago, a distância do raio é:|340 m|1 020 m|113 m|3 400 m|1|Δs = 340 · 3 = 1 020 m (a luz chega praticamente de imediato).
+Um objeto em repouso em relação ao solo tem velocidade:|constante e diferente de zero|crescente|zero|negativa|2|Em repouso não há variação de posição, então a velocidade é nula.
+Quanto vale 108 km/h em m/s?|108 m/s|388,8 m/s|10 m/s|30 m/s|3|108 ÷ 3,6 = 30 m/s.
+Um carro a 72 km/h mantém essa velocidade por 30 s. Que distância percorre?|600 m|2 160 m|36 m|2 400 m|0|72 km/h = 20 m/s e Δs = 20 · 30 = 600 m.
+Que distância percorre um móvel a 5 m/s em 10 s?|2 m|50 m|15 m|0,5 m|1|Δs = v · t = 5 · 10 = 50 m.
+Dada a função s = 4 + 3t (SI), qual é a posição em t = 5 s?|15 m|23 m|19 m|12 m|2|s = 4 + 3 · 5 = 19 m.
+Uma pessoa anda 3 km a 6 km/h e corre 3 km a 12 km/h. Qual é a velocidade média?|9 km/h|7 km/h|10 km/h|8 km/h|3|Tempo = 0,5 h + 0,25 h = 0,75 h, e vm = 6/0,75 = 8 km/h.
+Quanto vale 20 m/s em km/h?|72 km/h|5,6 km/h|20 km/h|200 km/h|0|Multiplica-se por 3,6: 20 · 3,6 = 72 km/h.
+Em um gráfico v × t de movimento uniforme, a área sob a reta representa:|a aceleração|o deslocamento|a massa|a força|1|Velocidade × tempo = deslocamento.
+Um móvel mantém 10 m/s de 0 a 4 s e fica parado de 4 a 6 s. Qual é a velocidade média nos 6 s?|10 m/s|5 m/s|≈ 6,7 m/s|≈ 3,3 m/s|2|Δs = 40 m em 6 s, então vm = 40/6 ≈ 6,7 m/s.
+Qual é a função horária da posição no movimento uniforme?|s = v/t|s = s₀ · t|s = s₀ − t²|s = s₀ + v · t|3|No MU a posição varia linearmente com o tempo.
+O carro A tem 20 m/s e o carro B, 15 m/s, na mesma direção e sentido. Qual é a velocidade de A em relação a B?|5 m/s|35 m/s|20 m/s|15 m/s|0|Na mesma direção e sentido, subtraem-se as velocidades: 20 − 15 = 5 m/s.
+Um carro a 54 km/h leva quantos segundos para percorrer 450 m?|8,3 s|30 s|120 s|25 s|1|54 km/h = 15 m/s e t = 450/15 = 30 s.
