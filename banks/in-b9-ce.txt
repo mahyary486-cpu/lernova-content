@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Who first observed cells?|Charles Darwin|Gregor Mendel|Robert Hooke|Isaac Newton|2|He saw cork cells in 1665.
+Hooke observed cells in a thin slice of|a leaf|blood|pond water|cork|3|He used a microscope.
+The basic unit of life is the|cell|organ|tissue|atom|0|All organisms consist of cells.
+The cell theory states that|all living organisms are made of cells|only plants have cells|only animals have cells|organs are the basic unit|0|It is a basic biological principle.
+The control centre of the cell is the|nucleus|cell wall|lysosome|vacuole|0|It contains the DNA.
+The powerhouse of the cell is the|mitochondrion|nucleus|ribosome|Golgi apparatus|0|It releases energy.
+Photosynthesis takes place in the|ribosome|mitochondrion|nucleus|chloroplast|3|Chloroplasts contain chlorophyll.
+Proteins are made at the|centrioles|vacuoles|ribosomes|lysosomes|2|Ribosomes assemble amino acids.
+A cell wall is present in|human cells|plant cells|animal cells|red blood cells|1|It surrounds the plasma membrane.
+The plant cell wall is made of|starch|fat|protein|cellulose|3|Cellulose gives it strength.
+Which structure is selectively permeable?|Chloroplast|Nucleus|Cell wall|Plasma membrane|3|It controls what enters and leaves.
+Which organelle is absent from animal cells?|Ribosome|Nucleus|Chloroplast|Mitochondrion|2|Animals do not photosynthesise.
+A large central vacuole is found in|mature plant cells|nerve cells|red blood cells|animal cells|0|It stores water and substances.
+Lysosomes are known as 'suicide bags' because they|carry out photosynthesis|make energy|make proteins|contain digestive enzymes|3|They can digest the cell.
+Which instrument is used to see cells?|Periscope|Telescope|Stethoscope|Microscope|3|It magnifies small objects.
+Which is a unicellular organism?|Dog|Tree|Amoeba|Human|2|It has a single cell.
+The cytoplasm is the|DNA|jelly-like fluid inside the cell|cell wall|nucleus|1|Organelles lie in it.
+Prokaryotic cells|are always multicellular|have no true nucleus|have mitochondria|have a true nucleus|1|Their DNA lies free.
+Which of these has a prokaryotic cell?|Bacterium|Yeast|Amoeba|Onion cell|0|Bacteria are prokaryotes.
+Eukaryotic cells have|no DNA|no membrane|no nucleus|a membrane-bound nucleus|3|Plants and animals are eukaryotes.
+DNA in a eukaryotic cell is mainly found in the|cell wall|plasma membrane|nucleus|vacuole|2|It forms chromosomes.
+Chromosomes carry|only fats|only water|genes|only energy|2|Genes control inheritance.
+The Golgi apparatus|modifies, packages and dispatches materials|produces energy|stores DNA|carries out photosynthesis|0|It is the cell's post office.
+The rough endoplasmic reticulum has|a nucleus|chloroplasts|lysosomes|ribosomes on its surface|3|It helps make proteins.
+The smooth endoplasmic reticulum helps in|making proteins|making lipids and detoxification|making energy|photosynthesis|1|It has no ribosomes.
+Chloroplasts contain the pigment|keratin|chlorophyll|melanin|haemoglobin|1|It absorbs light.
+Chromoplasts give|energy|water|colour to flowers and fruits|green colour to leaves|2|They contain other pigments.
+Leucoplasts store|chlorophyll|water|starch, oils and proteins|DNA|2|They are colourless plastids.
+Diffusion is the movement of particles from|only liquids to solids|a cell to a cell wall|a region of high concentration to low concentration|low to high concentration|2|It needs no energy.
+Osmosis is the movement of|solute through a membrane|energy|water through a semi-permeable membrane|gases only|2|It is a special diffusion of water.
+A cell placed in a hypotonic solution|shrinks|does not change|swells because water enters|dissolves immediately|2|The outside has less solute.
+A cell placed in a hypertonic solution|divides|swells|does not change|shrinks (plasmolysis)|3|Water moves out.
+In an isotonic solution there is|net movement of water in|no net movement of water|net movement of water out|bursting|1|The concentrations are equal.
+When a cell is placed in concentrated salt solution it|stays the same|produces salt|loses water and shrinks|gains water and swells|2|Water leaves by osmosis.
+Mitochondria have their own|nucleus|chlorophyll|DNA|cell wall|2|They are semi-autonomous.
+Ribosomes are found|only in the vacuole|only in the cell wall|on the rough ER and in the cytoplasm|only in the nucleus|2|They make proteins.
+Red blood cells shrink in strong salt water because|they divide|salt enters|water moves out by osmosis|the membrane dissolves|2|The solution is hypertonic.
+Plasmolysis is the|division of a cell|breakage of the wall|shrinkage of the cytoplasm away from the cell wall|swelling of the cell|2|It occurs in a hypertonic solution.
+Why are most cells very small?|They have no reason|They need a large surface-area-to-volume ratio|To avoid proteins|To avoid DNA|1|Exchange must be efficient.
+Which cell has no cell wall?|Plant cell|Bacterial cell|Fungal cell|Animal cell|3|Animal cells have only a plasma membrane.
+Which is the largest known cell?|White blood cell|Red blood cell|Nerve cell|Ostrich egg|3|An egg is a single cell.
+Which organelle is common to both plant and animal cells?|Cell wall|Chloroplast|Mitochondrion|Large central vacuole|2|Both respire.
+Why are mitochondria called the powerhouse?|They make proteins|They release energy (ATP) by respiration|They store water|They digest waste|1|ATP is the energy currency.
+Centrioles help in|protein synthesis|photosynthesis|cell division in animal cells|energy release|2|They form the spindle.
+Which statement is true for bacteria?|They have chloroplasts|They have a cell wall but no membrane-bound organelles|They have a nucleus|They have mitochondria|1|They are prokaryotes.
+Water enters root hair cells by|evaporation|osmosis|respiration|active transport only|1|The soil water is more dilute.
+An egg without its shell kept in water swells because|it divides|it photosynthesises|solute leaves|water enters through osmosis|3|The inside is more concentrated.
+Raisins swell in water because|water enters by osmosis|they divide|sugar leaves|they photosynthesise|0|They are more concentrated than water.
+The plasma membrane is mainly made of|cellulose|lipids and proteins|DNA|starch|1|It is flexible.
+Active transport needs|energy (ATP)|light|no energy|only water|0|It moves substances against the gradient.

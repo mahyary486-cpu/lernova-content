@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+What is the SI unit of distance?|Newton|Kilogram|Metre|Second|2|Length is measured in metres.
+What is the SI unit of speed?|m/s²|m|m/s|s|2|Speed is distance per time.
+What is the SI unit of acceleration?|m/s|N|m/s²|m|2|Acceleration is velocity change per time.
+Distance is a|pressure|vector quantity|scalar quantity|force|2|It has magnitude only.
+Displacement is a|vector quantity|form of energy|time interval|scalar quantity|0|It has magnitude and direction.
+How is speed calculated?|Time divided by distance|Distance plus time|Distance multiplied by time|Distance divided by time|3|Speed = distance / time.
+Velocity is speed in a stated|direction|unit|colour|shape|0|Velocity includes direction.
+An object at rest has a speed of|a negative value|infinity|zero|1 m/s|2|It does not move.
+In uniform motion, an object covers|no distance|different distances in equal times|more distance each second|equal distances in equal intervals of time|3|Speed is constant.
+Which instrument shows the speed of a vehicle?|Ammeter|Speedometer|Thermometer|Barometer|1|The speedometer reads speed.
+What does an odometer measure?|Time|Distance travelled|Speed|Acceleration|1|It records the distance.
+How many metres are there in 1 km?|10 000|1000|100|10|1|Kilo means 1000.
+How many seconds are there in 1 hour?|360|60|3600|100|2|60 × 60.
+Acceleration is the rate of change of|force|mass|distance|velocity|3|a = Δv / Δt.
+Negative acceleration is called|retardation|inertia|displacement|friction|0|The body slows down.
+A runner completes one full lap of a circular track. What is the displacement?|The length of the track|Zero|Twice the length of the track|Half the length of the track|1|Start and end points coincide.
+A horizontal line on a distance–time graph means the object is|at rest|moving with uniform speed|decelerating|accelerating|0|The distance does not change.
+A car travels 120 km in 2 h. What is its speed?|240 km/h|60 km/h|122 km/h|30 km/h|1|120 / 2.
+A body moves at 20 m/s for 5 s. How far does it go?|100 m|25 m|15 m|4 m|0|20 × 5.
+A body covers 150 m at 30 m/s. How long does it take?|180 s|4500 s|5 s|0.2 s|2|150 / 30.
+What is 72 km/h in m/s?|259 m/s|20 m/s|72 m/s|7.2 m/s|1|Divide by 3.6.
+What is 10 m/s in km/h?|3.6 km/h|36 km/h|10 km/h|100 km/h|1|Multiply by 3.6.
+Average speed is|the final speed|total distance divided by total time|the difference of speeds|the sum of all speeds|1|Use totals.
+A car goes 60 km in 1 h and then 40 km in 1 h. What is its average speed?|100 km/h|60 km/h|50 km/h|40 km/h|2|100 km in 2 h.
+A body moves 3 m east and then 4 m north. What is the distance travelled?|5 m|1 m|7 m|12 m|2|3 + 4.
+For the same motion, what is the magnitude of the displacement?|12 m|7 m|1 m|5 m|3|√(3² + 4²).
+Velocity changes from 0 to 20 m/s in 4 s. What is the acceleration?|16 m/s²|80 m/s²|5 m/s²|0.2 m/s²|2|20 / 4.
+In v = u + at, what does u stand for?|Final velocity|Initial velocity|Distance|Time|1|u is the starting velocity.
+The equation s = ut + ½at² gives the distance for|circular motion only|a body at rest|uniformly accelerated motion|uniform motion only|2|It assumes constant acceleration.
+The equation v² = u² + 2as relates|energy only|velocity, acceleration and distance|mass and force|time and speed|1|It does not involve time.
+The slope of a distance–time graph gives|acceleration|force|time|speed|3|Slope = distance / time.
+The slope of a velocity–time graph gives|speed|distance|acceleration|force|2|Slope = Δv / Δt.
+The area under a velocity–time graph gives|acceleration|speed|distance or displacement|force|2|Area = velocity × time.
+A car starts from rest and accelerates at 2 m/s² for 5 s. What is its final velocity?|7 m/s|10 m/s|2.5 m/s|25 m/s|1|v = 0 + 2 × 5.
+What is the acceleration due to gravity near the Earth?|About 9.8 m/s²|About 98 m/s²|About 1 m/s²|About 0.98 m/s²|0|g ≈ 9.8 m/s².
+In uniform circular motion the speed is constant but the velocity changes because|the distance is zero|the direction changes|the acceleration is zero|the mass changes|1|Velocity includes direction.
+A train slows from 30 m/s to 10 m/s in 5 s. What is its acceleration?|8 m/s²|4 m/s²|-4 m/s²|-8 m/s²|2|(10 − 30) / 5.
+A body starts from rest and accelerates at 3 m/s² for 4 s. What distance does it cover?|12 m|48 m|36 m|24 m|3|½ × 3 × 16.
+A car has u = 10 m/s and a = 2 m/s². What distance does it cover in 5 s?|60 m|75 m|100 m|50 m|1|10 × 5 + ½ × 2 × 25.
+A car brakes from 20 m/s to rest in 40 m. What is the magnitude of the retardation?|10 m/s²|0.5 m/s²|5 m/s²|2.5 m/s²|2|a = v² / 2s = 400 / 80.
+A stone is dropped from rest (g = 10 m/s²). What is its speed after 3 s?|30 m/s|3.3 m/s|15 m/s|60 m/s|0|v = g t.
+How far has that stone fallen in 3 s?|15 m|90 m|45 m|30 m|2|½ × 10 × 9.
+A stone is thrown upward at 20 m/s (g = 10 m/s²). How long does it take to reach the top?|1 s|2 s|20 s|4 s|1|t = u / g.
+What maximum height does that stone reach?|20 m|200 m|10 m|40 m|0|h = u² / 2g.
+A runner completes a 400 m circular lap in 50 s. What is the average velocity over the lap?|8 m/s|400 m/s|0 m/s|50 m/s|2|The displacement is zero.
+Car A travels at 60 km/h and car B at 40 km/h in the same direction. What is the relative speed?|50 km/h|24 km/h|100 km/h|20 km/h|3|60 − 40.
+If the two cars move towards each other, what is the relative speed?|20 km/h|100 km/h|50 km/h|2400 km/h|1|60 + 40.
+Which graph shows uniform acceleration?|A horizontal line on a distance–time graph|A straight sloping line on a velocity–time graph|A horizontal line on a velocity–time graph|A vertical line on a distance–time graph|1|Constant slope means constant acceleration.
+Velocity rises from 0 to 10 m/s in 5 s and then stays constant for 5 s. What is the total distance?|25 m|100 m|75 m|50 m|2|25 m + 50 m.
+An object returns to its start after 10 s having moved a total of 20 m. What is its average speed?|0 m/s|2 m/s|10 m/s|200 m/s|1|20 / 10.

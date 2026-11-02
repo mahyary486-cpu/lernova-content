@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+What is the SI unit of work?|Newton|Pascal|Joule|Watt|2|1 J = 1 N · m.
+How is work calculated?|Force plus displacement|Force divided by displacement|Force multiplied by displacement|Mass multiplied by velocity|2|W = F × s.
+What is the SI unit of power?|Newton|Watt|Joule|Volt|1|1 W = 1 J/s.
+How is power calculated?|Force multiplied by time|Work plus time|Work divided by time|Work multiplied by time|2|P = W / t.
+How many watts are there in 1 kilowatt?|100|10 000|10|1000|3|Kilo means 1000.
+What is the SI unit of energy?|Joule|Metre|Newton|Watt|0|Energy and work share the joule.
+Energy stored because of position or height is|heat|kinetic energy|sound|potential energy|3|Position gives potential energy.
+Energy due to motion is|kinetic energy|nuclear energy|chemical energy|potential energy|0|A moving body has kinetic energy.
+Which object has kinetic energy?|A parked car|A hanging picture|A book on a table|A moving car|3|It is in motion.
+A stretched spring stores|kinetic energy|light energy|elastic potential energy|sound energy|2|The spring is deformed.
+The law of conservation of energy states that energy|can be created|can neither be created nor destroyed|can be destroyed|exists only as heat|1|Energy changes form.
+A simple machine makes work easier by|changing the size or direction of the force|creating energy|reducing the work required to zero|increasing the energy|0|It does not create energy.
+Which is an example of a lever?|A seesaw|A battery|A thermometer|A television|0|It turns about a fulcrum.
+The fixed point of a lever is the|load|fulcrum|slope|effort|1|The lever pivots on it.
+Which is an inclined plane?|A thermometer|A ramp|A battery|A lens|1|A sloping surface.
+A fixed pulley changes the|direction of the force|gravity|energy|mass|0|It makes pulling downwards possible.
+The work done is zero when|the displacement is zero|the force is large|the speed is high|the time is long|0|W = F × s.
+What is the work done by a 10 N force over 5 m?|50 J|15 J|0.5 J|2 J|0|10 × 5.
+What is the work done in lifting 5 kg through 2 m (g = 10 m/s²)?|100 J|50 J|20 J|10 J|0|mgh = 5 × 10 × 2.
+What is the power if 600 J of work is done in 20 s?|12 000 W|620 W|30 W|0.03 W|2|600 / 20.
+How much energy does a 500 W motor use in 10 s?|5000 J|510 J|50 J|0.02 J|0|500 × 10.
+What is the formula for kinetic energy?|mgh|mv|mv²|½mv²|3|KE = ½ m v².
+What is the kinetic energy of 2 kg moving at 3 m/s?|3 J|18 J|9 J|6 J|2|½ × 2 × 9.
+What happens to the kinetic energy if the speed doubles?|It halves|It becomes four times|It doubles|It stays the same|1|KE is proportional to v².
+What is the formula for gravitational potential energy?|½mv²|Fd/t|mv|mgh|3|PE = m g h.
+What is the potential energy of 3 kg at a height of 5 m (g = 10 m/s²)?|150 J|8 J|30 J|15 J|0|3 × 10 × 5.
+When an object falls, its potential energy changes into|pressure|mass|force|kinetic energy|3|Energy is conserved.
+A ball is thrown vertically upward. What is its kinetic energy at the highest point?|Maximum|Negative|Infinite|Zero|3|It stops momentarily.
+Mechanical advantage is|effort divided by load|load multiplied by effort|load minus effort|load divided by effort|3|MA = L / E.
+A lever lifts a 100 N load with a 20 N effort. What is the mechanical advantage?|5|80|2000|0.2|0|100 / 20.
+In a first-class lever the fulcrum is|between the effort and the load|absent|at the load end|at the effort end|0|A seesaw is an example.
+In a wheelbarrow the load lies|at the fulcrum|between the fulcrum and the effort|nowhere|beyond the effort|1|It is a second-class lever.
+A single fixed pulley has a mechanical advantage of about|1|4|0.5|2|0|It only changes direction.
+For the same height, a longer inclined plane needs|more effort|no effort|less effort|the same effort|2|Distance increases, force decreases.
+How is efficiency calculated?|Output times input|Output minus input|Useful output divided by input, times 100%|Input divided by output, times 100%|2|Efficiency is below 100%.
+According to the work–energy theorem, the work done on a body equals the change in its|temperature|kinetic energy|mass|volume|1|W = ΔKE.
+A 2 kg ball falls from 20 m (g = 10 m/s²). What is its speed just before the ground?|40 m/s|200 m/s|20 m/s|10 m/s|2|v = √(2gh).
+What is the kinetic energy of a 1000 kg car moving at 20 m/s?|10 000 J|200 000 J|20 000 J|400 000 J|1|½ × 1000 × 400.
+A pump lifts 100 kg of water through 10 m in 20 s (g = 10 m/s²). What is its power?|500 W|50 W|5000 W|1000 W|0|10 000 J / 20 s.
+A machine takes in 500 J and gives out 400 J of useful work. What is its efficiency?|80%|20%|125%|90%|0|400 / 500.
+A man pushes a box with 100 N but it does not move. How much work is done?|0 J|10 J|1000 J|100 J|0|The displacement is zero.
+A person carries a bag while walking on a level road. The work done by the lifting force is|infinite|zero|negative|positive|1|The force is perpendicular to the displacement.
+A ball is dropped from 10 m. At 5 m, its kinetic energy is|one-third of its potential energy|twice its potential energy|equal to its potential energy at that point|zero|2|Half the energy has converted.
+If the speed of a body triples, its kinetic energy becomes|3 times|9 times|27 times|6 times|1|KE is proportional to v².
+A lever has an effort arm of 2 m and a load arm of 0.5 m. What effort lifts an 80 N load?|320 N|160 N|5 N|20 N|3|E × 2 = 80 × 0.5.
+A block and tackle has 4 supporting strands. What is its ideal mechanical advantage?|2|4|1|8|1|One per supporting strand.
+A ramp is 4 m long and 1 m high. What is its ideal mechanical advantage?|3|1/4|4|5|2|Length / height.
+Which principle explains the swing of a pendulum?|Snell's law|Boyle's law|Conservation of mechanical energy|Ohm's law|2|PE and KE interchange.
+A 60 W bulb runs for 5 h. How much energy does it use in kWh?|3 kWh|0.3 kWh|300 kWh|0.03 kWh|1|0.06 kW × 5 h.
+How many joules are there in 1 kWh?|3.6 × 10⁴ J|3600 J|3.6 × 10⁶ J|1000 J|2|1000 W × 3600 s.

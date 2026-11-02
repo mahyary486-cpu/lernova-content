@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A pure substance has|always several components|a fixed composition|different properties throughout|a variable composition|1|Its composition never varies.
+Which of these is an element?|Salt|Oxygen|Water|Air|1|It contains only one kind of atom.
+Which of these is a compound?|Water|Oxygen|Iron|Gold|0|Hydrogen and oxygen combine chemically.
+Which of these is a mixture?|Water|Air|Oxygen|Gold|1|It contains several gases.
+A mixture with a uniform composition throughout is|heterogeneous|homogeneous|an element|pure|1|The components cannot be seen separately.
+Sand and water form a|homogeneous mixture|compound|element|heterogeneous mixture|3|The sand can be seen separately.
+A sugar solution is a|heterogeneous mixture|compound|homogeneous mixture|element|2|It looks uniform.
+In a solution, the substance that dissolves is the|solute|solvent|filtrate|residue|0|Salt in water: salt is the solute.
+The dissolving medium in a solution is the|precipitate|residue|solvent|solute|2|Water is the usual solvent.
+Which of these is a colloid?|Salt solution|Milk|Pure water|Sugar solution|1|Fat droplets are dispersed in water.
+The Tyndall effect is the|scattering of light by colloidal particles|reflection from a mirror|refraction through a prism|absorption of light|0|It makes a light beam visible.
+Filtration separates|two liquids|an insoluble solid from a liquid|a gas mixture|salt from water|1|The solid stays on the filter paper.
+Evaporation separates|a dissolved solid from a liquid|sand from water|two gases|iron from sand|0|The liquid is turned to vapour.
+Distillation separates|iron from sand|miscible liquids with different boiling points|sand from water|flour from water|1|It uses boiling points.
+A separating funnel separates|a solid and a gas|gases|immiscible liquids|miscible liquids|2|Oil and water separate in layers.
+A magnet can separate|sugar from water|iron filings from sand|water from oil|sand from salt|1|Iron is magnetic.
+Chromatography is used to separate|gases|the coloured components of ink|salt and water|sand and iron|1|Components travel at different rates.
+In a suspension the particles|settle on standing|are invisible|never settle|pass through filter paper|0|They are large.
+Which mixture has the largest particles?|True solution|Pure element|Colloid|Suspension|3|Suspension particles are visible.
+Does a true solution scatter a beam of light?|No|Only when hot|Yes, strongly|Yes, only in the dark|0|Its particles are very small.
+What is the formula for mass percentage of a solution?|Mass of solution / mass of solute|Mass of solute / mass of solution × 100|Mass of solvent / mass of solution × 100|Mass of solute / mass of solvent × 100|1|It is relative to the whole solution.
+10 g of salt is dissolved in 90 g of water. What is the mass percentage?|90%|11%|9%|10%|3|10 / 100 × 100.
+20 g of sugar makes 200 g of solution. What is the mass percentage?|20%|100%|1%|10%|3|20 / 200 × 100.
+A saturated solution is one that|can dissolve more solute|has no solute|cannot dissolve more solute at that temperature|is a suspension|2|It holds the maximum solute.
+The solubility of most solids in water generally|increases with temperature|decreases with temperature|becomes zero|does not change|0|Warm water dissolves more.
+Which is a physical change?|Burning wood|Rusting iron|Cooking an egg|Dissolving sugar in water|3|No new substance forms.
+Compounds can be separated into elements by|a magnet|chemical methods|filtration|sieving|1|Chemical bonds must be broken.
+The components of a mixture|lose all properties|keep only their colour|keep their own properties|change their mass|2|No chemical change occurs.
+Brass is a|colloid|single element|compound|homogeneous mixture of metals|3|It is an alloy of copper and zinc.
+Fog is a colloid of|solid in a gas|solid in a liquid|a gas in a liquid|liquid droplets in a gas|3|Water droplets are in air.
+Salt is obtained from sea water by|sublimation|evaporation|a magnet|filtration|1|The water evaporates.
+A mixture of salt and ammonium chloride is separated by|sublimation|filtration|using a magnet|decantation|0|Ammonium chloride sublimes.
+Cream is separated from milk by|centrifugation|a magnet|filtration|evaporation|0|Spinning separates by density.
+A mixture of iron filings, sand and salt: which step comes first?|Add oil|Distil the mixture|Remove the iron with a magnet|Evaporate the water|2|The magnet takes only iron.
+The components of crude oil are separated by|sieving|using a magnet|filtration|fractional distillation|3|Components have different boiling points.
+The gases of air are separated by|decantation|filtration|using a magnet|fractional distillation of liquid air|3|Gases liquefy at different temperatures.
+25 g of sugar is dissolved in 100 g of water. What is the mass percentage?|125%|20%|25%|4%|1|25 / 125 × 100.
+How much salt is in 250 g of an 8% solution?|20 g|2 g|200 g|8 g|0|8% of 250.
+How much water is needed with 5 g of solute to make a 5% solution by mass?|105 g|100 g|5 g|95 g|3|Total solution is 100 g.
+A pure substance melts and boils|at any temperature|over a range of temperatures|at fixed temperatures|never|2|Mixtures show a range.
+Which pair can be separated by decantation?|Salt and water|Sand and water|Alcohol and water|Ink and water|1|The sand settles.
+In chromatography the components move different distances because of|temperature only|different mass only|colour only|different solubility and attraction to the paper|3|Each component behaves differently.
+The Rf value is|their sum|distance moved by the solvent divided by that of the substance|their difference|distance moved by the substance divided by distance moved by the solvent|3|It is a ratio less than 1.
+Why does a distillation setup have a thermometer?|To filter|To cool the vapour|To measure mass|To keep the temperature at the boiling point of the lower-boiling component|3|It tracks the boiling point.
+In an alloy the components|lose all properties|are in a fixed ratio|can be present in varying proportions|are chemically bonded in a fixed ratio|2|It is a mixture.
+Which is NOT a property of colloids?|They are stable|They pass through filter paper|They scatter light|Particles settle quickly|3|Colloids stay dispersed.
+Brownian motion is the|settling of particles|random zig-zag movement of colloidal particles|absence of movement|straight movement|1|Molecules collide with the particles.
+Which is a homogeneous mixture?|Oil and water|Brass|Muddy water|Sand and water|1|Brass is uniform.
+Two immiscible liquids of different density are separated by a|evaporating dish|magnet|filter paper|separating funnel|3|Layers form.
+A solution contains 2 g of solute in 50 mL. What is the concentration (mass/volume)?|0.4%|4%|2%|25%|1|2 / 50 × 100.
