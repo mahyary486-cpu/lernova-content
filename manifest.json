@@ -37,7 +37,7 @@
    "currentYear": "2026-2027",
    "files": 12,
    "name": "United Kingdom",
-   "rev": "ba21fdfe1c",
+   "rev": "6a377dd931",
    "year": "2026-2027"
   },
   "IN": {
@@ -65,11 +65,11 @@
    "year": "2026-2027"
   },
   "US": {
-   "bytes": 403369,
+   "bytes": 424717,
    "currentYear": "2026-2027",
-   "files": 165,
+   "files": 173,
    "name": "United States",
-   "rev": "9429f5099d",
+   "rev": "cbf4727917",
    "year": "2026-2027"
   }
  }
