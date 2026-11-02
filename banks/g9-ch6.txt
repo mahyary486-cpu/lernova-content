@@ -1,0 +1,51 @@
+#EEEMMMMHEEEMMMMHHHEMEMMHEHEEMMMMHHEMMMMHHHEEMEMMHH
+Which direction does the parabola y = 2x^2 - 3 open?|Up|To the right|Down|To the left|0|Since a = 2 is positive, the parabola opens up.
+What is the axis of symmetry of y = x^2 - 6x + 5?|x = 6|x = -3|x = 5|x = 3|3|x = -b/(2a) = 6/2 = 3.
+What is the y-intercept of y = x^2 + 4x - 7?|(0, 7)|(0, 4)|(0, -7)|(-7, 0)|2|The y-intercept is (0, c) = (0, -7).
+What is the vertex of y = x^2 - 4x + 3?|(-2, -1)|(2, 1)|(1, 0)|(2, -1)|3|x = 4/2 = 2 and y = 4 - 8 + 3 = -1, so the vertex is (2, -1).
+What is the vertex of y = 3(x + 1)^2 - 5?|(1, -5)|(3, -5)|(-1, -5)|(-1, 5)|2|Writing it as 3(x - (-1))^2 + (-5) gives h = -1 and k = -5.
+What is the maximum value of y = -2x^2 + 8x + 1?|9|2|17|1|0|The vertex is at x = 2, and y = -8 + 16 + 1 = 9. The maximum value is the y-coordinate, 9.
+What is the range of y = x^2 - 4x + 3?|y <= -1|y >= 2|All real numbers|y >= -1|3|The parabola opens up and its lowest point is the vertex (2, -1), so y >= -1.
+A parabola has vertex (1, -4) and passes through (0, -2). What is a in y = a(x - 1)^2 - 4?|2|1|4|-2|0|Substitute (0, -2): -2 = a(1) - 4, so a = 2.
+A parabola crosses the x-axis at x = 1 and x = 5. What is its axis of symmetry?|x = 3|x = 5|x = 6|x = 2|0|The axis is halfway between the intercepts: (1 + 5)/2 = 3.
+Solve (x - 2)(x + 7) = 0.|x = 2 or x = 7|x = 2 or x = -7|x = -2 or x = 7|x = -2 or x = -7|1|Set x - 2 = 0 and x + 7 = 0 to get x = 2 and x = -7.
+Solve x^2 + 5x + 6 = 0.|x = 1 or x = -6|x = -1 or x = 6|x = -2 or x = -3|x = 2 or x = 3|2|(x + 2)(x + 3) = 0, so x = -2 or x = -3.
+Solve x^2 = 3x + 10.|x = -5 or x = 2|x = 10 or x = -3|x = 5 or x = -2|x = 3 or x = 10|2|Rewrite as x^2 - 3x - 10 = 0, which factors as (x - 5)(x + 2) = 0.
+Solve 2x^2 - 8x = 0.|x = 4 only|x = 2 or x = 4|x = 0 or x = 4|x = 0 or x = -4|2|Factor 2x(x - 4) = 0. Dividing by x would lose the solution x = 0.
+Solve 9x^2 - 25 = 0.|x = 5/3 or x = -5/3|x = 5/9 or x = -5/9|x = 25/9 or x = -25/9|x = 3/5 or x = -3/5|0|Difference of squares: (3x + 5)(3x - 5) = 0, so x = plus or minus 5/3.
+How many solutions does x^2 - 6x + 9 = 0 have?|Exactly one, x = 3|Two: x = 3 and x = 9|None|Two: x = 3 and x = -3|0|It factors as (x - 3)^2 = 0, a double root at x = 3.
+What is the sum of the solutions of x^2 - x - 12 = 0?|12|7|1|-1|2|(x - 4)(x + 3) = 0 gives x = 4 and x = -3, and 4 + (-3) = 1.
+Solve (x - 1)(x - 2) = 6.|x = 3 or x = -3|x = 1 or x = 2|x = 7 or x = 8|x = 4 or x = -1|3|Expand: x^2 - 3x - 4 = 0, so (x - 4)(x + 1) = 0. You cannot set each factor equal to 6.
+If x = 3 is a solution of x^2 + bx - 15 = 0, what is b?|2|-4|-2|4|0|9 + 3b - 15 = 0, so 3b = 6 and b = 2.
+Solve x^2 = 49.|x = 49 or x = -49|x = 7 or x = -7|x = 7 only|x = 24.5 or x = -24.5|1|Taking square roots gives both the positive and negative root.
+Solve (x - 3)^2 = 7.|x = -3 plus or minus sqrt(7)|x = 3 plus or minus 7|x = 7 plus or minus 3|x = 3 plus or minus sqrt(7)|3|x - 3 = plus or minus sqrt(7), so x = 3 plus or minus sqrt(7).
+What number must be added to x^2 + 6x to complete the square?|36|3|6|9|3|(6/2)^2 = 9.
+Solve 2x^2 - 50 = 0.|x = 25 or x = -25|x = 5 only|x = 5 or x = -5|x = 10 or x = -10|2|2x^2 = 50 gives x^2 = 25, so x = plus or minus 5.
+Completing the square on x^2 + 6x - 1 = 0 gives (x + 3)^2 equal to what?|8|10|1|9|1|x^2 + 6x = 1; adding 9 to both sides gives (x + 3)^2 = 10.
+Solve x^2 - 8x + 5 = 0.|x = 4 plus or minus sqrt(21)|x = 8 plus or minus sqrt(11)|x = -4 plus or minus sqrt(11)|x = 4 plus or minus sqrt(11)|3|x^2 - 8x + 16 = -5 + 16 = 11, so (x - 4)^2 = 11.
+How many real solutions does x^2 = -9 have?|Two|Infinitely many|One|None|3|A square cannot be negative, so there is no real solution.
+Solve 2x^2 + 12x - 14 = 0 by completing the square.|x = 4 or x = -4|x = -1 or x = 7|x = 1 or x = -7|x = 1 or x = 7|2|Divide by 2: x^2 + 6x = 7, so (x + 3)^2 = 16 and x = -3 plus or minus 4.
+Which is the quadratic formula for ax^2 + bx + c = 0?|x = (-b plus or minus sqrt(b^2 - 4ac)) / a|x = (-b plus or minus sqrt(b^2 - 4ac)) / (2a)|x = (-b plus or minus sqrt(b^2 + 4ac)) / (2a)|x = (b plus or minus sqrt(b^2 - 4ac)) / (2a)|1|This is the standard form of the formula.
+What is the discriminant of x^2 - 5x + 6 = 0?|49|1|25|-1|1|b^2 - 4ac = 25 - 24 = 1.
+How many real solutions does x^2 + 4x + 7 = 0 have?|None|One|Infinitely many|Two|0|D = 16 - 28 = -12 is negative, so there are no real solutions.
+Which are the solutions of 2x^2 + 3x - 4 = 0?|x = (3 plus or minus sqrt(41)) / 4|x = (-3 plus or minus sqrt(41)) / 4|x = (-3 plus or minus sqrt(25)) / 4|x = (-3 plus or minus sqrt(41)) / 2|1|D = 9 - 4(2)(-4) = 41 and 2a = 4.
+For which value of k does x^2 + 6x + k = 0 have exactly one solution?|9|6|-9|36|0|Set D = 36 - 4k = 0, so k = 9.
+What is the discriminant of 3x^2 - 2x - 1 = 0?|4|-8|8|16|3|(-2)^2 - 4(3)(-1) = 4 + 12 = 16.
+For which values of k does x^2 - 4x + k = 0 have two real solutions?|k < 4|k = 4|k > 4|k < -4|0|D = 16 - 4k > 0 gives k < 4.
+Solve x^2 + 2x - 1 = 0.|x = -2 plus or minus sqrt(2)|x = 1 plus or minus sqrt(2)|x = -1 plus or minus sqrt(2)|x = -1 plus or minus sqrt(3)|2|D = 4 + 4 = 8, so x = (-2 plus or minus 2*sqrt(2))/2 = -1 plus or minus sqrt(2).
+A ball's height is h = -16t^2 + 48t feet. When does it land?|After 48 seconds|After 36 seconds|After 1.5 seconds|After 3 seconds|3|Set -16t(t - 3) = 0. The positive solution is t = 3.
+For h = -16t^2 + 48t, what is the maximum height?|72 feet|36 feet|48 feet|1.5 feet|1|The vertex is at t = 1.5, and h = -16(2.25) + 72 = 36.
+A rectangle has a perimeter of 40 m. What is the largest possible area?|400 square meters|80 square meters|100 square meters|200 square meters|2|A = w(20 - w) has its vertex at w = 10, giving 10 * 10 = 100.
+The product of two consecutive positive integers is 56. What are they?|8 and 9|7 and 8|-8 and -7|6 and 9|1|n(n + 1) = 56 gives (n + 8)(n - 7) = 0. Reject n = -8, so n = 7.
+Revenue is R = -5p^2 + 100p dollars at price p. Which price gives the maximum revenue?|10 dollars|100 dollars|20 dollars|500 dollars|0|p = -100/(2*(-5)) = 10. The 500 is the maximum revenue, not the price.
+An object's height is h = -16t^2 + 32t + 48 feet. When does it hit the ground?|After 4 seconds|After 3 seconds|After -1 second|After 1 second|1|-16(t - 3)(t + 1) = 0, so t = 3 or t = -1. Reject the negative time.
+A positive number plus its square equals 72. What is the number?|72|8|-9|9|1|n^2 + n - 72 = 0 factors as (n + 9)(n - 8) = 0, and the positive solution is 8.
+A farmer fences three sides of a rectangle next to a river, using 60 m of fence. What is the largest area?|900 square meters|225 square meters|600 square meters|450 square meters|3|Width x, length 60 - 2x: A = x(60 - 2x), vertex at x = 15, so A = 15 * 30 = 450.
+For x = 0, 1, 2, 3 the values of y are 2, 5, 8, 11. Which model fits?|Quadratic|Exponential|Linear|None of these|2|The first differences are all 3, which is constant, so it is linear.
+For x = 0, 1, 2, 3 the values of y are 3, 6, 12, 24. Which model fits?|Linear|None of these|Exponential|Quadratic|2|Each value is 2 times the previous one, so it is exponential.
+For x = 0, 1, 2, 3 the values of y are 1, 2, 5, 10. Which model fits?|Quadratic|Exponential|None of these|Linear|0|First differences 1, 3, 5 are not constant, but second differences 2, 2 are, so it is quadratic.
+With equally spaced x-values, which feature shows a quadratic function?|Constant ratios|Increasing y-values|Constant first differences|Constant second differences|3|Quadratics have constant second differences.
+Which is larger at x = 10: 2^x or x^2?|They are equal|2^x, since 1024 is greater than 100|Cannot be determined|x^2, since 100 is greater than 20|1|2^10 = 1024 and 10^2 = 100.
+A quadratic table for x = 0, 1, 2, 3 has y = 2, 3, 6, 11. What is y at x = 4?|15|18|16|20|1|First differences 1, 3, 5 grow by 2, so the next is 7 and y = 11 + 7 = 18.
+For x = 0, 1, 2, 3 the values of y are 5, 10, 20, 40. What is y when x = 5?|75|160|100|80|1|The ratio is 2: y at x = 4 is 80 and at x = 5 is 160, so y = 5 * 2^x.
+A quadratic function has y = 3, 4, 9 at x = 0, 1, 2. Which is its equation?|y = 2x^2 - x + 3|y = 3x^2 - 2x + 3|y = x^2 + 3|y = 2x^2 + x + 3|0|c = 3, a + b = 1 and 4a + 2b = 6 give a = 2 and b = -1.
