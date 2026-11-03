@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Os produtores de uma cadeia alimentar são:|fungos|herbívoros|plantas e algas|carnívoros|2|Produtores fazem fotossíntese e fabricam o próprio alimento.
+Em média, que parte da energia passa de um nível trófico para o seguinte?|100%|cerca de 90%|nenhuma|cerca de 10%|3|A maior parte se perde como calor e nas funções vitais.
+O produtor tem 10 000 kJ de energia. Com 10% de transferência, quanto chega ao consumidor secundário?|100 kJ|1 000 kJ|10 kJ|5 000 kJ|0|Primário: 1 000 kJ; secundário: 100 kJ.
+Os herbívoros são consumidores:|secundários|primários|terciários|decompositores|1|Eles se alimentam diretamente dos produtores.
+A relação entre leão e zebra é:|mutualismo|parasitismo|predação|comensalismo|2|O leão caça e se alimenta da zebra.
+Na bioacumulação, a concentração de toxinas:|diminui nos níveis tróficos mais altos|é igual em todos os níveis|só ocorre nos produtores|aumenta nos níveis tróficos mais altos|3|Os predadores acumulam as toxinas de todas as presas.
+Quais seres atuam como decompositores?|fungos e bactérias|plantas|herbívoros|aves de rapina|0|Eles reciclam a matéria orgânica.
+No mutualismo:|um é prejudicado|ambos os organismos se beneficiam|ambos são prejudicados|não há interação|1|Exemplo: abelhas e flores.
+A eutrofização é causada por:|falta de luz|aumento do oxigênio|excesso de nutrientes, com proliferação de algas|excesso de predadores|2|A decomposição das algas reduz o oxigênio da água.
+Um ecossistema é formado por:|apenas as plantas|apenas os animais|apenas o solo|seres vivos e o ambiente em que vivem|3|O ecossistema reúne fatores bióticos e abióticos.
+No parasitismo:|um se beneficia e o outro é prejudicado|ambos se beneficiam|ambos são prejudicados|nenhum é afetado|0|O parasita vive à custa do hospedeiro.
+A sucessão ecológica é:|a extinção súbita de espécies|a substituição gradual de comunidades|a migração de aves|a formação de rochas|1|Ela leva a uma comunidade estável (clímax).
+Habitat é:|a função da espécie no ecossistema|o tipo de alimento|o local onde uma espécie vive|o número de indivíduos|2|É o "endereço" da espécie.
+Na competição, os organismos:|se beneficiam mutuamente|vivem sem se afetar|trocam de espécie|disputam o mesmo recurso|3|Alimento, espaço e luz são recursos disputados.
+Uma espécie exótica invasora:|é introduzida em um local e causa desequilíbrio|é sempre benéfica|só vive em desertos|nunca compete com as nativas|0|Sem predadores naturais, ela pode se multiplicar demais.
+População é o conjunto de:|espécies diferentes em uma área|indivíduos da mesma espécie em uma área|todos os animais do planeta|somente os predadores|1|Todos pertencem à mesma espécie.
+No ciclo do carbono, a fotossíntese:|libera CO₂ para a atmosfera|produz nitrogênio|retira CO₂ da atmosfera|destrói o oxigênio|2|As plantas fixam o carbono em compostos orgânicos.
+A chuva é considerada ácida quando tem:|pH igual a 7|pH maior que 8|pH igual a 14|pH menor que 5,6|3|O CO₂ já torna a chuva natural levemente ácida (cerca de 5,6).
+Comunidade é o conjunto de:|populações de espécies diferentes|indivíduos de uma espécie|rochas e solos|apenas as plantas|0|Ela reúne todas as populações de um local.
+A queima de combustíveis fósseis libera principalmente:|oxigênio apenas|gás carbônico (CO₂)|hélio|nitrogênio puro|1|Isso intensifica o efeito estufa.
+A evapotranspiração é a perda de água por:|congelamento|fotossíntese apenas|evaporação do solo e transpiração das plantas|respiração dos peixes|2|Ela leva vapor de água à atmosfera.
+A fonte de energia da maioria das cadeias alimentares é:|os decompositores|os carnívoros|o solo|o Sol|3|A energia solar é fixada pelos produtores.
+A intensificação do efeito estufa provoca:|o aquecimento global|o resfriamento global|o fim das estações|o aumento da camada de ozônio|0|Mais gases retêm mais calor na atmosfera.
+Se os predadores de topo são removidos de um ecossistema:|o ecossistema não se altera|as populações de presas podem crescer sem controle|as plantas desaparecem imediatamente|os decompositores morrem|1|O controle populacional é perdido.
+Na cadeia capim → gafanhoto → sapo → cobra, o sapo é consumidor:|primário|terciário|secundário|produtor|2|Ele se alimenta de um consumidor primário.
+As bactérias fixadoras de nitrogênio vivem, por exemplo:|nas folhas de pinheiros|no ar apenas|nas rochas|nas raízes de leguminosas|3|Elas convertem N₂ em formas que as plantas absorvem.
+Desenvolvimento sustentável é aquele que:|atende às necessidades atuais sem comprometer as das gerações futuras|ignora os recursos naturais|esgota os recursos mais rápido|só pensa no lucro|0|Esse é o conceito do Relatório Brundtland.
+Biodiversidade é:|o número de pessoas|a variedade de espécies e de genes|a quantidade de água|o tipo de clima|1|Ela mede a riqueza biológica de um ambiente.
+A camada de ozônio protege a Terra contra:|a chuva ácida|os ruídos|a radiação ultravioleta|os asteroides|2|O ozônio absorve a radiação UV.
+Qual gás do efeito estufa é liberado por ruminantes?|oxigênio|hélio|argônio|metano|3|O metano vem da fermentação digestiva do gado.

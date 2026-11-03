@@ -4866,6 +4866,181 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 10,
+      "subject": "Mathematics",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br10m-ch1",
+          "title": "Função afim",
+          "lessons": [
+            {
+              "id": "br10m-ch1-l1",
+              "title": "Função afim: conceito e gráfico"
+            },
+            {
+              "id": "br10m-ch1-l2",
+              "title": "Zero da função afim e aplicações"
+            }
+          ]
+        },
+        {
+          "id": "br10m-ch2",
+          "title": "Função exponencial e logaritmos",
+          "lessons": [
+            {
+              "id": "br10m-ch2-l1",
+              "title": "Função exponencial"
+            },
+            {
+              "id": "br10m-ch2-l2",
+              "title": "Logaritmos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "subject": "Physics",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br10p-ch1",
+          "title": "Leis de Newton",
+          "lessons": [
+            {
+              "id": "br10p-ch1-l1",
+              "title": "Primeira e Segunda Leis de Newton"
+            },
+            {
+              "id": "br10p-ch1-l2",
+              "title": "Terceira Lei de Newton, normal e atrito"
+            }
+          ]
+        },
+        {
+          "id": "br10p-ch2",
+          "title": "Trabalho, energia e potência",
+          "lessons": [
+            {
+              "id": "br10p-ch2-l1",
+              "title": "Trabalho e potência mecânica"
+            },
+            {
+              "id": "br10p-ch2-l2",
+              "title": "Energia cinética, potencial e conservação"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "subject": "Chemistry",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br10c-ch1",
+          "title": "Ligações químicas",
+          "lessons": [
+            {
+              "id": "br10c-ch1-l1",
+              "title": "Regra do octeto e ligação iônica"
+            },
+            {
+              "id": "br10c-ch1-l2",
+              "title": "Ligação covalente e ligação metálica"
+            }
+          ]
+        },
+        {
+          "id": "br10c-ch2",
+          "title": "Funções inorgânicas",
+          "lessons": [
+            {
+              "id": "br10c-ch2-l1",
+              "title": "Ácidos e bases"
+            },
+            {
+              "id": "br10c-ch2-l2",
+              "title": "Sais e óxidos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "subject": "Science",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br10s-ch1",
+          "title": "A célula e o metabolismo energético",
+          "lessons": [
+            {
+              "id": "br10s-ch1-l1",
+              "title": "Tipos de célula e organelas"
+            },
+            {
+              "id": "br10s-ch1-l2",
+              "title": "Membrana, transporte e metabolismo energético"
+            }
+          ]
+        },
+        {
+          "id": "br10s-ch2",
+          "title": "Ecologia",
+          "lessons": [
+            {
+              "id": "br10s-ch2-l1",
+              "title": "Cadeias alimentares e fluxo de energia"
+            },
+            {
+              "id": "br10s-ch2-l2",
+              "title": "Ciclos biogeoquímicos e impactos ambientais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "subject": "English",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br10e-ch1",
+          "title": "Voz passiva (Passive Voice)",
+          "lessons": [
+            {
+              "id": "br10e-ch1-l1",
+              "title": "Passive voice no presente e no passado"
+            },
+            {
+              "id": "br10e-ch1-l2",
+              "title": "Passive voice no futuro, com modais e no presente contínuo"
+            }
+          ]
+        },
+        {
+          "id": "br10e-ch2",
+          "title": "Comparativos, superlativos e Second Conditional",
+          "lessons": [
+            {
+              "id": "br10e-ch2-l1",
+              "title": "Comparatives and superlatives"
+            },
+            {
+              "id": "br10e-ch2-l2",
+              "title": "Second conditional"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

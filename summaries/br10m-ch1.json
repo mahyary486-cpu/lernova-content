@@ -1,0 +1,4 @@
+{
+  "Função afim: conceito e gráfico": "Função afim é toda função da forma f(x) = ax + b, com a ≠ 0. O coeficiente angular a dá a inclinação da reta e o coeficiente linear b é o valor em que ela corta o eixo y. Se a > 0 a função é crescente; se a < 0, decrescente. O gráfico é sempre uma reta.",
+  "Zero da função afim e aplicações": "O zero da função afim é o valor de x para o qual f(x) = 0, isto é, x = −b/a; é onde o gráfico corta o eixo x. O sinal de f muda nesse ponto. Muitos problemas do cotidiano, como corrida de táxi e planos de celular, têm um valor fixo mais um valor variável e são modelados por funções afins."
+}

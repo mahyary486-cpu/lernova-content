@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+A 1ª Lei de Newton também é conhecida como Lei da:|inércia|ação e reação|gravitação|conservação da energia|0|A inércia é a tendência de manter o estado de movimento.
+Uma força de 30 N atua sobre um corpo de 6 kg. Qual é a aceleração?|180 m/s²|5 m/s²|24 m/s²|0,2 m/s²|1|a = F/m = 30/6 = 5 m/s².
+Os blocos A (2 kg) e B (3 kg) estão em contato sobre uma superfície lisa e uma força de 10 N empurra A. Qual é a força que A exerce em B?|10 N|4 N|6 N|2 N|2|a = 10/5 = 2 m/s² e a força em B é 3 · 2 = 6 N.
+Qual é a unidade de força no Sistema Internacional?|joule (J)|watt (W)|pascal (Pa)|newton (N)|3|A força é medida em newtons.
+Duas forças de 8 N e 6 N atuam na mesma direção e em sentidos opostos. Qual é a resultante?|2 N|14 N|48 N|10 N|0|Subtraem-se: 8 − 6 = 2 N.
+Um bloco A de 3 kg está sobre uma mesa lisa, ligado por fio a um bloco B de 2 kg pendurado (g = 10 m/s²). Qual é a aceleração?|10 m/s²|4 m/s²|6,7 m/s²|2 m/s²|1|a = PB/(mA + mB) = 20/5 = 4 m/s².
+A 2ª Lei de Newton é expressa por:|F = m/a|F = m + a|F = m · a|F = a/m|2|A força resultante é o produto da massa pela aceleração.
+Duas forças perpendiculares de 3 N e 4 N atuam sobre um corpo. Qual é a resultante?|7 N|1 N|12 N|5 N|3|FR² = 3² + 4² = 25, logo FR = 5 N.
+No sistema anterior, qual é a tração no fio?|12 N|20 N|8 N|6 N|0|T = mA · a = 3 · 4 = 12 N.
+Qual força resultante é necessária para acelerar uma massa de 2 kg a 3 m/s²?|5 N|6 N|1,5 N|0,67 N|1|F = m · a = 2 · 3 = 6 N.
+O uso do cinto de segurança está relacionado com:|a ação e reação|a Lei de Ohm|a inércia|o atrito do ar|2|Em uma freada, o corpo tende a continuar em movimento.
+Um elevador sobe acelerando a 2 m/s² (g = 10 m/s²). Qual é a normal sobre uma pessoa de 60 kg?|600 N|480 N|120 N|720 N|3|N = m(g + a) = 60 · 12 = 720 N.
+Qual é o peso de um corpo de 5 kg (g = 10 m/s²)?|50 N|5 N|0,5 N|500 N|0|P = m · g = 5 · 10 = 50 N.
+Qual é o peso de uma pessoa de 60 kg na Terra (g = 10 m/s²)?|60 N|600 N|6 N|6 000 N|1|P = 60 · 10 = 600 N.
+Um elevador desce acelerando a 2 m/s² (g = 10 m/s²). Qual é a normal sobre uma pessoa de 60 kg?|720 N|600 N|480 N|120 N|2|N = m(g − a) = 60 · 8 = 480 N.
+Um astronauta vai da Terra à Lua. O que acontece com sua massa e seu peso?|o peso é o mesmo e a massa diminui|ambos permanecem iguais|ambos se anulam|a massa é a mesma e o peso diminui|3|A massa é constante; o peso depende da gravidade local.
+Qual é o peso de uma pessoa de 60 kg na Lua (g = 1,6 m/s²)?|96 N|600 N|60 N|37,5 N|0|P = 60 · 1,6 = 96 N.
+Um bloco de 10 kg tem μ = 0,4 e normal de 100 N. Qual é o atrito máximo?|4 N|40 N|400 N|25 N|1|fat = μ · N = 0,4 · 100 = 40 N.
+As forças de ação e reação:|atuam no mesmo corpo|se anulam sempre|atuam em corpos diferentes|têm intensidades diferentes|2|Por atuarem em corpos diferentes, elas não se anulam.
+Uma pessoa de 70 kg está parada dentro de um elevador em repouso (g = 10 m/s²). Qual é a força normal?|70 N|0 N|7 000 N|700 N|3|Em equilíbrio, N = P = 700 N.
+Uma força de 30 N puxa um bloco de 10 kg com atrito cinético μ = 0,2 (g = 10 m/s²). Qual é a aceleração?|1 m/s²|3 m/s²|2 m/s²|0,5 m/s²|0|Atrito = 0,2 · 100 = 20 N, FR = 10 N e a = 1 m/s².
+Se a força resultante sobre um corpo em repouso é nula, ele:|acelera|permanece em repouso|inverte o sentido|gira sempre|1|Pela 1ª Lei, sem força resultante o estado de movimento se mantém.
+Um bloco de 5 kg é puxado por uma força de 20 N, e o atrito vale 10 N. Qual é a aceleração?|4 m/s²|6 m/s²|2 m/s²|10 m/s²|2|FR = 20 − 10 = 10 N e a = 10/5 = 2 m/s².
+Na queda de um objeto com resistência do ar, quando a resistência se iguala ao peso:|a velocidade aumenta sem limite|o objeto para|o peso se anula|a velocidade fica constante|3|A resultante é nula, então a velocidade é constante (velocidade terminal).
+A força de atrito:|se opõe ao movimento ou à tendência de movimento|favorece sempre o movimento|só existe no vácuo|é sempre nula|0|O atrito é uma força de contato contrária ao deslizamento.
+Um carro de 1 000 kg vai de 0 a 20 m/s em 10 s. Qual é a força resultante?|200 N|2 000 N|20 000 N|10 000 N|1|a = 2 m/s² e F = 1 000 · 2 = 2 000 N.
+Um corpo de 2 kg tem a velocidade variada de 4 m/s para 10 m/s em 3 s. Qual é a força resultante?|12 N|2 N|4 N|6 N|2|a = 6/3 = 2 m/s² e F = 2 · 2 = 4 N.
+Um corpo de 10 kg tem aceleração de 2 m/s². Qual é a força resultante?|5 N|12 N|0,2 N|20 N|3|F = m · a = 10 · 2 = 20 N.
+Um foguete é impulsionado ao expelir gases para trás. Isso ilustra:|a 3ª Lei de Newton|a 1ª Lei de Newton|a Lei de Ohm|a Lei de Hooke|0|Os gases são empurrados para trás e o foguete, para a frente (ação e reação).
+Dois patinadores em repouso se empurram. A (60 kg) sofre aceleração de 2 m/s². Qual é a aceleração de B (40 kg)?|2 m/s²|3 m/s²|1,3 m/s²|4,8 m/s²|1|A força em A é 120 N; B sofre 120 N em sentido oposto e a = 120/40 = 3 m/s².

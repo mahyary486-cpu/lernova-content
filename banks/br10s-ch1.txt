@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual é a unidade básica dos seres vivos?|a célula|o átomo|o órgão|o tecido|0|Todos os seres vivos são formados por células.
+Na difusão simples, as substâncias se movem:|do meio menos concentrado para o mais concentrado|do meio mais concentrado para o menos concentrado|sempre com gasto de ATP|só através de proteínas|1|O movimento é a favor do gradiente de concentração.
+Uma célula colocada em meio hipertônico:|ganha água e incha|não troca água|perde água e murcha|só ganha sais|2|A água sai da célula para o meio mais concentrado.
+Uma célula sem núcleo definido é chamada de:|eucariótica|vegetal|animal|procariótica|3|Procariontes não têm núcleo delimitado por membrana.
+A osmose é a passagem de:|água através de uma membrana semipermeável|sais por transporte ativo|proteínas pelo núcleo|gases pelo citoplasma|0|Ela ocorre da solução menos concentrada para a mais concentrada.
+Uma hemácia em água destilada:|murcha (crenação)|incha e pode estourar (lise)|permanece igual|forma parede celular|1|Sem parede celular, a hemácia não resiste à entrada de água.
+As bactérias são organismos:|eucariontes|pluricelulares|procariontes|multinucleados|2|As bactérias têm células procarióticas.
+Uma célula vegetal em água destilada:|murcha|explode sempre|para de respirar|fica túrgida|3|A parede celular impede a ruptura e a célula se enche de água.
+A fermentação lática produz:|ácido lático e pouca energia|muito ATP e CO₂ apenas|glicose e oxigênio|DNA e RNA|0|Ela ocorre sem oxigênio e rende 2 ATP por glicose.
+Qual organela realiza a respiração celular?|cloroplasto|mitocôndria|ribossomo|vacúolo|1|A mitocôndria produz a maior parte do ATP.
+O transporte ativo:|não gasta energia|ocorre a favor do gradiente|gasta energia (ATP)|só ocorre em vegetais|2|Ele move substâncias contra o gradiente.
+A respiração aeróbica rende, por molécula de glicose, aproximadamente:|2 ATP|4 ATP|100 ATP|36 ATP|3|Cerca de 36 ATP, muito mais que a glicólise sozinha (2 ATP).
+A fotossíntese ocorre no:|cloroplasto|núcleo|lisossomo|ribossomo|0|Os cloroplastos contêm clorofila.
+Quais são os reagentes da fotossíntese?|glicose e oxigênio|gás carbônico e água|oxigênio e água|glicose e gás carbônico|1|CO₂ + H₂O → glicose + O₂.
+A teoria endossimbiótica propõe que as mitocôndrias:|originaram-se de vírus|são formadas só pelo núcleo|originaram-se de procariotos incorporados por outras células|não possuem membrana|2|Isso explica o DNA próprio das mitocôndrias.
+A parede celular está presente em:|células animais|hemácias|neurônios|células vegetais|3|As plantas têm parede de celulose.
+A respiração celular produz principalmente:|ATP|amido|clorofila|DNA|0|O ATP é a moeda de energia da célula.
+As células musculares têm muitas mitocôndrias porque:|fazem fotossíntese|demandam muita energia (ATP)|não têm núcleo|produzem clorofila|1|As mitocôndrias fornecem o ATP da contração.
+O núcleo da célula contém:|a clorofila|o amido|o material genético (DNA)|os lisossomos|2|O DNA fica no núcleo nas células eucarióticas.
+A função do complexo de Golgi é:|sintetizar clorofila|guardar DNA|realizar a fotossíntese|empacotar e secretar substâncias|3|Ele modifica e distribui proteínas e lipídios.
+Na difusão facilitada, as substâncias atravessam a membrana:|com ajuda de proteínas, sem gastar ATP|contra o gradiente, gastando ATP|só pela camada de lipídios|por fagocitose|0|As proteínas carregadoras auxiliam a passagem a favor do gradiente.
+Os ribossomos são responsáveis por:|realizar fotossíntese|sintetizar proteínas|digerir alimentos|armazenar água|1|Neles o RNA mensageiro é traduzido em proteínas.
+A função dos lisossomos é:|a fotossíntese|a síntese de DNA|a digestão intracelular|o transporte de gases|2|Eles contêm enzimas digestivas.
+A bomba de sódio e potássio é um exemplo de:|difusão simples|osmose|fagocitose|transporte ativo|3|Ela move íons contra o gradiente com gasto de ATP.
+A membrana plasmática:|controla a entrada e a saída de substâncias|produz energia|guarda o DNA|faz fotossíntese|0|Ela é seletivamente permeável.
+Qual par de estruturas existe na célula vegetal e não na animal?|núcleo e mitocôndrias|parede celular e cloroplastos|ribossomos e membrana|Golgi e lisossomos|1|Parede celular e cloroplastos são características vegetais.
+A mitose produz:|quatro células diferentes|gametas|duas células geneticamente idênticas|uma célula com metade dos cromossomos|2|Ela mantém o número de cromossomos.
+Qual gás é consumido na respiração celular aeróbica?|gás carbônico|nitrogênio|hélio|oxigênio|3|O O₂ é o aceptor final dos elétrons.
+O retículo endoplasmático rugoso é assim chamado porque:|tem ribossomos aderidos|tem espinhos|não tem membrana|é sempre sólido|0|Os ribossomos dão aspecto áspero à membrana.
+A meiose produz:|duas células idênticas|quatro células com metade do número de cromossomos|uma célula com o dobro de cromossomos|nenhuma célula|1|Ela forma os gametas.

@@ -1,0 +1,4 @@
+{
+  "Função exponencial": "A função exponencial tem a forma f(x) = aˣ, com a > 0 e a ≠ 1. Seu gráfico passa por (0, 1). Se a > 1 é crescente; se 0 < a < 1, decrescente. Serve para modelar crescimento populacional, juros compostos e decaimento radioativo.",
+  "Logaritmos": "O logaritmo de b na base a é o expoente x tal que aˣ = b (logₐ b = x), com a > 0, a ≠ 1 e b > 0. Propriedades: log(a·b) = log a + log b, log(a/b) = log a − log b e log aⁿ = n·log a. O logaritmo de 1 é 0."
+}

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual é o valor de 2⁴?|8|6|16|32|2|2⁴ = 2 · 2 · 2 · 2 = 16.
+Qual é a solução de 2ˣ = 32?|4|6|16|5|3|32 = 2⁵, então x = 5.
+Qual é a solução de 4ˣ = 8?|3/2|2/3|2|4|0|4ˣ = 2²ˣ e 8 = 2³, então 2x = 3 e x = 3/2.
+Se f(x) = 2ˣ, qual é o valor de f(3)?|6|8|9|5|1|f(3) = 2³ = 8.
+Qual é a solução de 3ˣ⁺¹ = 27?|3|1|2|9|2|27 = 3³, então x + 1 = 3 e x = 2.
+Se log₂ x = 5, qual é o valor de x?|10|25|7|32|3|x = 2⁵ = 32.
+Se f(x) = 5ˣ, qual é o valor de f(0)?|1|0|5|10|0|Qualquer número não nulo elevado a zero vale 1.
+Qual é o valor de log₂ 16?|8|4|2|3|1|2⁴ = 16.
+Aplicando R$ 1 000,00 a juros compostos de 10% ao ano, quanto haverá após 2 anos?|R$ 1.200,00|R$ 1.100,00|R$ 1.210,00|R$ 1.020,00|2|1 000 · 1,1² = 1 210.
+Qual é o valor de log₁₀ 100?|10|100|1|2|3|10² = 100, logo log₁₀ 100 = 2.
+Qual é o valor de log₅ 125?|3|25|5|2|0|5³ = 125.
+Qual é o valor de log₃ 81 − log₃ 9?|9|2|72|6|1|4 − 2 = 2 (ou log₃ (81/9) = log₃ 9 = 2).
+Qual é o valor de log₂ 8?|4|2|3|16|2|2³ = 8.
+Se log₂ 4 = 2 e log₂ 8 = 3, quanto vale log₂ 32?|6|12|1|5|3|log₂ 32 = log₂ (4 · 8) = 2 + 3 = 5.
+Sabendo que log 2 ≈ 0,30, qual é o valor aproximado de log 5?|0,70|0,60|1,30|0,15|0|log 5 = log (10/2) = 1 − 0,30 = 0,70.
+Qual é o valor de logₐ 1, em qualquer base válida?|1|0|a|não existe|1|a⁰ = 1, logo logₐ 1 = 0.
+Sabendo que log 2 ≈ 0,30, quanto vale log 20?|0,60|2,30|1,30|3,00|2|log 20 = log 2 + log 10 ≈ 0,30 + 1 = 1,30.
+Uma substância cai pela metade a cada hora. De 80 g, quanto resta após 3 horas?|20 g|40 g|5 g|10 g|3|80 · (1/2)³ = 10 g.
+A função f(x) = 3ˣ é:|crescente|decrescente|constante|nula|0|Com base maior que 1, a função exponencial cresce.
+Uma colônia de 100 bactérias dobra a cada hora. Quantas há após 3 horas?|300|800|600|1 200|1|100 · 2³ = 800.
+Qual é a solução de 2ˣ · 2ˣ = 16?|4|8|2|1|2|2²ˣ = 2⁴, então 2x = 4 e x = 2.
+Qual é o valor de log₃ 9?|3|9|1/2|2|3|3² = 9.
+Qual é o valor de 4⁻¹?|1/4|−4|−1/4|4|0|a⁻ⁿ = 1/aⁿ, então 4⁻¹ = 1/4.
+Qual é a solução de 9ˣ = 27?|3|3/2|2/3|9/2|1|3²ˣ = 3³, então 2x = 3 e x = 3/2.
+Qual é o valor de log 1000 (base 10)?|10|1000|3|300|2|10³ = 1000.
+Qual é a solução de 5ˣ = 1/5?|1|−5|5|−1|3|1/5 = 5⁻¹, então x = −1.
+Qual é a solução de log₂ (x − 1) = 3?|9|7|8|4|0|x − 1 = 2³ = 8, logo x = 9.
+Em que ponto o gráfico de f(x) = 2ˣ corta o eixo y?|(1, 0)|(0, 1)|(0, 0)|(0, 2)|1|f(0) = 2⁰ = 1.
+Para que valores de x o logaritmo de x (log x) existe?|x < 0|x ≥ 0|x > 0|qualquer número real|2|O logaritmando precisa ser positivo.
+Em f(x) = 2ˣ, quanto vale f(x + 1)/f(x)?|1|x|2x|2|3|2ˣ⁺¹/2ˣ = 2.

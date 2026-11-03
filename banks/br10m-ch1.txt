@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual das funções a seguir é afim?|f(x) = 2x + 3|f(x) = x²|f(x) = 1/x|f(x) = √x|0|Função afim tem a forma ax + b, com a ≠ 0.
+Qual é o zero da função f(x) = 2x − 6?|−3|3|6|12|1|2x − 6 = 0 → x = 3.
+Qual é a função afim cujo gráfico passa por (1, 3) e (3, −1)?|f(x) = 2x + 1|f(x) = −2x + 1|f(x) = −2x + 5|f(x) = −x + 4|2|a = (−1 − 3)/(3 − 1) = −2 e 3 = −2 + b dá b = 5.
+Em f(x) = 3x − 5, qual é o coeficiente angular?|−5|5|1/3|3|3|O coeficiente angular é o número que multiplica x.
+Uma reta passa por (0, 1) e (2, 5). Qual é a função?|f(x) = 2x + 1|f(x) = x + 1|f(x) = 2x + 5|f(x) = 4x + 1|0|a = (5 − 1)/(2 − 0) = 2 e b = 1.
+Se f(x) = ax + b, com f(1) = 5 e f(−1) = 1, qual é o valor de f(10)?|21|23|30|25|1|a + b = 5 e −a + b = 1 dão a = 2 e b = 3. Logo f(10) = 23.
+Em f(x) = 3x − 5, qual é o coeficiente linear?|3|5|−5|0|2|O coeficiente linear é o termo independente b = −5.
+Em que valor de x a reta f(x) = −2x + 8 corta o eixo x?|−4|8|−8|4|3|−2x + 8 = 0 → x = 4.
+Qual é a solução de 3x − 9 > 0?|x > 3|x < 3|x > −3|x < −3|0|3x > 9 → x > 3.
+Se f(x) = 2x + 1, qual é o valor de f(3)?|6|7|5|9|1|f(3) = 2 · 3 + 1 = 7.
+Se f(x) = ax + 3 e f(2) = 11, qual é o valor de a?|8|5|4|7|2|2a + 3 = 11 → a = 4.
+Qual é o ponto de encontro das retas y = x + 1 e y = −x + 5?|(3, 2)|(4, 1)|(1, 4)|(2, 3)|3|x + 1 = −x + 5 → x = 2 e y = 3.
+O gráfico de uma função afim é:|uma reta|uma parábola|uma circunferência|uma hipérbole|0|A função afim sempre gera uma reta no plano cartesiano.
+Uma corrida de táxi custa R$ 5 de bandeirada mais R$ 2 por km. Qual função dá o custo para x km?|C(x) = 5x + 2|C(x) = 2x + 5|C(x) = 7x|C(x) = 2x − 5|1|Valor fixo (5) mais valor variável (2x).
+Um plano cobra R$ 30 fixos mais R$ 0,50 por minuto excedente. Uma conta de R$ 55 corresponde a quantos minutos excedentes?|110|25|50|55|2|55 − 30 = 25 e 25/0,5 = 50 minutos.
+Uma função afim com a > 0 é:|decrescente|constante|nula|crescente|3|Coeficiente angular positivo indica função crescente.
+Se f(x) = 3x − 2, qual é o valor de f(−1)?|−5|1|−1|5|0|f(−1) = 3 · (−1) − 2 = −5.
+Em f(x) = −3x + 7, quando x aumenta 1 unidade, f(x):|aumenta 3 unidades|diminui 3 unidades|diminui 7 unidades|aumenta 7 unidades|1|A variação é o coeficiente angular: −3.
+Uma função afim com a < 0 é:|crescente|constante|decrescente|sempre positiva|2|Coeficiente angular negativo indica função decrescente.
+O gráfico de f(x) = 5 é:|uma reta vertical|uma parábola|um ponto|uma reta horizontal|3|Com a = 0 a função é constante e o gráfico é horizontal.
+Para que valor de k a função f(x) = (k − 2)x + 1 é constante?|2|−2|1|0|0|O coeficiente angular precisa ser zero: k − 2 = 0.
+Em f(x) = 4x + 2, qual é o valor de f(0)?|0|2|4|6|1|f(0) = 4 · 0 + 2 = 2.
+Qual destas funções é decrescente?|f(x) = 2x|f(x) = x + 1|f(x) = −x + 4|f(x) = 0,5x|2|O coeficiente angular precisa ser negativo.
+Para que valores de k a função f(x) = (k − 3)x + 2 é decrescente?|k > 3|k = 3|k < −3|k < 3|3|É preciso k − 3 < 0, ou seja, k < 3.
+Qual é o zero da função f(x) = x − 7?|7|−7|0|1|0|x − 7 = 0 → x = 7.
+Em que valor de x f(x) = 2x + 1 e g(x) = x + 4 são iguais?|−3|3|5|1|1|2x + 1 = x + 4 → x = 3.
+Qual é a área do triângulo formado pela reta f(x) = −2x + 4 e os eixos coordenados?|8|2|4|6|2|Os vértices são (0, 0), (2, 0) e (0, 4); a área é 2 · 4/2 = 4.
+Em que ponto o gráfico de f(x) = 2x + 5 corta o eixo y?|(5, 0)|(0, 2)|(2, 0)|(0, 5)|3|O ponto é (0, f(0)) = (0, 5).
+Para quais valores de x a função f(x) = x − 2 é positiva?|x > 2|x < 2|x > −2|x < −2|0|x − 2 > 0 → x > 2.
+Se f(x) = 2x − 1, qual é o valor de f(f(2))?|3|5|7|6|1|f(2) = 3 e f(3) = 5.

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Uma solução com pH igual a 3 é:|básica|neutra|ácida|nula|2|pH menor que 7 indica solução ácida.
+Quais são os produtos da reação HCl + NaOH?|NaClO e H₂|Na, Cl₂ e H₂O|NaH e HClO|NaCl e H₂O|3|Ácido + base → sal + água.
+Qual é a soma dos coeficientes da reação balanceada H₂SO₄ + NaOH → Na₂SO₄ + H₂O?|6|4|5|7|0|H₂SO₄ + 2 NaOH → Na₂SO₄ + 2 H₂O: 1 + 2 + 1 + 2 = 6.
+A água pura a 25 °C tem pH igual a:|0|7|14|1|1|A água pura é neutra, com pH 7.
+Qual é o nome do H₂SO₄?|ácido sulfuroso|ácido nítrico|ácido sulfúrico|ácido clorídrico|2|H₂SO₄ é o ácido sulfúrico.
+Qual é o pH de uma solução de HCl 0,1 mol/L (ácido forte, ionização total)?|0,1|13|7|1|3|[H⁺] = 10⁻¹ mol/L e pH = 1.
+Qual é o nome do HCl em solução aquosa?|ácido clorídrico|hidróxido de sódio|cloreto de sódio|água oxigenada|0|HCl é o ácido clorídrico.
+Qual é o nome do Ca(OH)₂?|óxido de cálcio|hidróxido de cálcio|carbonato de cálcio|cloreto de cálcio|1|É uma base com cálcio e OH⁻.
+Uma solução tem pH = 11. Qual é o seu pOH?|11|14|3|7|2|pH + pOH = 14.
+O NaOH é uma:|ácido|sal|óxido|base|3|O NaOH libera OH⁻ em água e é a soda cáustica.
+Qual é o nome do CaCO₃?|carbonato de cálcio|óxido de cálcio|hidróxido de cálcio|cloreto de cálcio|0|O CaCO₃ é o principal componente do calcário.
+Qual volume de HCl 0,1 mol/L neutraliza 100 mL de NaOH 0,1 mol/L?|50 mL|100 mL|200 mL|10 mL|1|A proporção é 1 : 1 e as concentrações são iguais, logo os volumes também.
+Qual destas substâncias é um ácido?|NaOH|NaCl|H₂SO₄|CaO|2|O H₂SO₄ libera H⁺ em água.
+O CaO (cal virgem) é um:|óxido ácido|sal|ácido|óxido básico|3|É óxido de metal e reage com ácidos formando sais.
+Ao se dissolver em água, o HCl libera:|H⁺ (na forma de H₃O⁺)|OH⁻|Na⁺|O²⁻|0|Essa é a característica de um ácido de Arrhenius.
+A reação entre um ácido e uma base é chamada de:|combustão|neutralização|fusão|sublimação|1|Ela forma sal e água.
+A chuva ácida é causada principalmente por óxidos de:|cálcio e magnésio|sódio e potássio|enxofre e nitrogênio|ferro e cobre|2|SO₂, SO₃ e NOₓ formam ácidos na atmosfera.
+Uma base de Arrhenius libera em água:|H⁺|O²⁻|Cl⁻|OH⁻|3|O íon característico das bases é a hidroxila.
+O NaCl é classificado como:|sal|ácido|base|óxido|0|Ele resulta da neutralização entre HCl e NaOH.
+Um antiácido estomacal contém:|um ácido forte|uma base fraca|um sal ácido|um óxido ácido|1|A base neutraliza o excesso de ácido do estômago.
+Qual é o sal formado na reação entre HNO₃ e KOH?|KNO₂|K₂SO₄|KNO₃|NaNO₃|2|O cátion vem da base (K⁺) e o ânion do ácido (NO₃⁻).
+O CO₂ é classificado como:|ácido|base|sal|óxido|3|É um composto binário com oxigênio.
+Qual é o pH de uma solução com [H⁺] = 10⁻³ mol/L?|3|11|7|−3|0|pH = −log 10⁻³ = 3.
+Ao borbulhar CO₂ em água de cal, Ca(OH)₂, forma-se um precipitado de:|CaO|CaCO₃|CaCl₂|CaSO₄|1|Ca(OH)₂ + CO₂ → CaCO₃ + H₂O.
+Qual substância é usada como indicador de pH?|açúcar|areia|fenolftaleína|ouro|2|A fenolftaleína muda de cor conforme o pH.
+Uma solução de pH 3 é quantas vezes mais ácida que uma de pH 4?|2 vezes|3 vezes|100 vezes|10 vezes|3|Cada unidade de pH muda a concentração de H⁺ por um fator 10.
+Qual destes óxidos reage com água formando um ácido?|SO₃|CaO|Na₂O|MgO|0|Óxidos de ametais, como SO₃, formam ácidos (H₂SO₄).
+O vinagre contém principalmente:|hidróxido de sódio|ácido acético|amônia|sal comum|1|O ácido acético dá o sabor azedo do vinagre.
+Qual é o nome do NaNO₃?|nitrito de sódio|nitreto de sódio|nitrato de sódio|sulfato de sódio|2|O ânion NO₃⁻ é o nitrato.
+Que massa de NaOH (40 g/mol) é necessária para preparar 500 mL de solução 0,2 mol/L?|40 g|8 g|0,4 g|4 g|3|n = 0,2 · 0,5 = 0,1 mol e m = 0,1 · 40 = 4 g.

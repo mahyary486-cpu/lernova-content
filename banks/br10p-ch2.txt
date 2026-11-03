@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual é a unidade de energia no Sistema Internacional?|watt (W)|newton (N)|joule (J)|volt (V)|2|A energia e o trabalho são medidos em joules.
+Qual é a energia cinética de um corpo de 4 kg a 5 m/s?|100 J|20 J|25 J|50 J|3|Ec = 4 · 25/2 = 50 J.
+Um carrinho de 2 kg desce uma rampa lisa de 5 m de altura (g = 10 m/s²). Qual é sua velocidade na base?|10 m/s|5 m/s|50 m/s|100 m/s|0|v = √(2 · 10 · 5) = 10 m/s.
+Qual é a unidade de potência no Sistema Internacional?|joule (J)|watt (W)|newton (N)|pascal (Pa)|1|A potência é medida em watts (J/s).
+Se a velocidade de um corpo dobra, a energia cinética:|dobra|fica igual|quadruplica|cai pela metade|2|Ec é proporcional ao quadrado da velocidade.
+Uma mola com k = 200 N/m está comprimida 0,1 m. Qual é a energia potencial elástica armazenada?|2 J|20 J|0,1 J|1 J|3|Ep = k · x²/2 = 200 · 0,01/2 = 1 J.
+O trabalho de uma força constante paralela ao deslocamento é:|τ = F · d|τ = F/d|τ = F + d|τ = d/F|0|O trabalho é o produto da força pelo deslocamento.
+Um motor realiza 200 J em 4 s. Qual é a potência?|800 W|50 W|0,02 W|204 W|1|P = 200/4 = 50 W.
+Um corredor de 70 kg sobe 10 m em 20 s (g = 10 m/s²). Qual é a potência média?|140 W|700 W|350 W|7 000 W|2|τ = 70 · 10 · 10 = 7 000 J e P = 7 000/20 = 350 W.
+Uma força de 10 N desloca um corpo por 5 m na mesma direção. Qual é o trabalho?|2 J|15 J|0,5 J|50 J|3|τ = 10 · 5 = 50 J.
+Um motor de 500 W funciona por 10 s. Que trabalho realiza?|5 000 J|50 J|510 J|0,02 J|0|τ = P · Δt = 500 · 10 = 5 000 J.
+Um motor recebe 1 000 J e realiza 400 J de trabalho útil. Qual é seu rendimento?|60%|40%|250%|400%|1|η = 400/1 000 = 40%.
+A energia cinética é dada por:|Ec = m · g · h|Ec = m · v|Ec = m · v²/2|Ec = F · d|2|A energia cinética depende da massa e do quadrado da velocidade.
+Uma bola de 0,5 kg está a 10 m de altura (g = 10 m/s²). Qual é sua energia potencial?|5 J|500 J|10 J|50 J|3|Ep = 0,5 · 10 · 10 = 50 J.
+Um corpo de 3 kg a 10 m/s é freado por atrito e para após 25 m. Qual é a força de atrito?|6 N|15 N|3 N|30 N|0|τ = −Ec = −150 J e F = 150/25 = 6 N.
+A energia potencial gravitacional é dada por:|Ep = m · v²/2|Ep = m · g · h|Ep = F/d|Ep = m/g · h|1|Ela depende da massa, da gravidade e da altura.
+Um objeto cai de 20 m a partir do repouso, sem resistência do ar (g = 10 m/s²). Com que velocidade chega ao solo?|10 m/s|200 m/s|20 m/s|40 m/s|2|m·g·h = m·v²/2 → v = √(2 · 10 · 20) = 20 m/s.
+Um pêndulo é solto de 0,8 m acima do ponto mais baixo (g = 10 m/s²). Qual é a velocidade nesse ponto?|8 m/s|16 m/s|2 m/s|4 m/s|3|v = √(2 · 10 · 0,8) = √16 = 4 m/s.
+A potência é calculada por:|P = τ/Δt|P = τ · Δt|P = Δt/τ|P = F + v|0|Potência é trabalho por unidade de tempo.
+O trabalho realizado pela força de atrito sobre um corpo em movimento é:|positivo|negativo|sempre nulo|infinito|1|O atrito é contrário ao deslocamento.
+Um carro de 1 000 kg anda a 72 km/h. Qual é sua energia cinética?|400 000 J|72 000 J|200 000 J|20 000 J|2|72 km/h = 20 m/s e Ec = 1 000 · 400/2 = 200 000 J.
+Em um sistema sem atrito, a energia mecânica total:|aumenta sempre|diminui sempre|desaparece|se conserva|3|Ec + Ep permanece constante.
+Uma força perpendicular ao deslocamento realiza trabalho:|nulo|máximo|negativo|igual a F · d|0|Sem componente da força na direção do deslocamento, não há trabalho.
+Se a massa e a velocidade de um corpo dobram, a energia cinética fica:|4 vezes maior|8 vezes maior|2 vezes maior|6 vezes maior|1|Ec ∝ m · v²: 2 · 4 = 8.
+Qual é a energia cinética de um corpo de 2 kg a 3 m/s?|6 J|18 J|9 J|12 J|2|Ec = 2 · 9/2 = 9 J.
+Quanto vale 1 kWh em joules?|3 600 J|36 000 J|1 000 J|3,6 · 10⁶ J|3|1 000 W · 3 600 s = 3,6 · 10⁶ J.
+Um atleta de 60 kg salta e atinge 0,8 m de altura (g = 10 m/s²). Qual é sua energia cinética inicial?|480 J|48 J|600 J|4 800 J|0|Ec = Ep = 60 · 10 · 0,8 = 480 J.
+Qual é a energia potencial de um corpo de 5 kg a 2 m de altura (g = 10 m/s²)?|10 J|100 J|50 J|7 J|1|Ep = 5 · 10 · 2 = 100 J.
+Um elevador sobe 3 m carregando 200 kg (g = 10 m/s²). Qual é o trabalho da força que o sustenta?|600 J|60 000 J|6 000 J|200 J|2|F = P = 2 000 N e τ = 2 000 · 3 = 6 000 J.
+Uma bomba retira 100 kg de água de um poço de 12 m em 60 s (g = 10 m/s²). Qual é a potência?|20 W|2 000 W|12 000 W|200 W|3|τ = 100 · 10 · 12 = 12 000 J e P = 12 000/60 = 200 W.

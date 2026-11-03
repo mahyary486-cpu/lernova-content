@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+A regra do octeto diz que os átomos tendem a ficar com:|8 elétrons na camada de valência|2 elétrons em todas as camadas|8 prótons no núcleo|8 nêutrons|0|Com 8 elétrons de valência o átomo atinge a estabilidade dos gases nobres.
+Qual é o íon formado pelo cloro (grupo 17)?|Cl⁺|Cl⁻|Cl²⁺|Cl²⁻|1|O cloro ganha 1 elétron para completar o octeto.
+Qual é a fórmula do composto formado por Al³⁺ e O²⁻?|AlO|Al₃O₂|Al₂O₃|Al₂O|2|2 Al³⁺ (+6) e 3 O²⁻ (−6) se anulam.
+A ligação iônica ocorre entre:|dois ametais|dois metais|gases nobres|metal e ametal|3|O metal cede elétrons e o ametal os recebe.
+Qual é a fórmula do composto formado por Mg²⁺ e Cl⁻?|MgCl₂|MgCl|Mg₂Cl|Mg₂Cl₂|0|Para anular as cargas são necessários 2 Cl⁻ para cada Mg²⁺.
+Qual é a fórmula do composto formado por Ca²⁺ e F⁻?|CaF|CaF₂|Ca₂F|Ca₂F₂|1|São necessários 2 F⁻ para cada Ca²⁺.
+Na ligação covalente os átomos:|transferem todos os elétrons|perdem os prótons|compartilham pares de elétrons|ficam sem elétrons|2|Ametais completam o octeto compartilhando elétrons.
+Qual é a fórmula do composto formado por Na⁺ e O²⁻?|NaO|NaO₂|Na₂O₂|Na₂O|3|São necessários 2 Na⁺ para anular O²⁻.
+Um elemento X com Z = 16 tende a formar o íon:|X²⁻|X²⁺|X⁶⁺|X⁻|0|Com 6 elétrons de valência ele ganha 2 para completar o octeto.
+A ligação metálica ocorre entre átomos de:|ametais|metais|gases nobres|hidrogênio e oxigênio|1|Os metais formam uma rede de cátions com elétrons livres.
+Quantos pares de elétrons são compartilhados na molécula de O₂ (ligação dupla)?|1|3|2|4|2|Ligação dupla corresponde a 2 pares compartilhados.
+A ligação covalente polar ocorre entre átomos com:|eletronegatividades iguais|apenas metais|nenhum compartilhamento|eletronegatividades diferentes|3|A diferença de eletronegatividade desloca a nuvem eletrônica.
+O NaCl (sal de cozinha) é um composto:|iônico|molecular|metálico|nobre|0|Ele é formado por Na⁺ e Cl⁻.
+A molécula de N₂ tem ligação:|simples|tripla|dupla|iônica|1|Cada nitrogênio compartilha 3 elétrons: N≡N.
+Qual destas moléculas é apolar?|HCl|H₂O|Cl₂|NH₃|2|Átomos iguais compartilham os elétrons igualmente.
+As ligações entre H e O na molécula da água são:|iônicas|metálicas|inexistentes|covalentes|3|Hidrogênio e oxigênio compartilham elétrons.
+Os compostos iônicos conduzem corrente elétrica quando:|estão fundidos ou dissolvidos em água|estão no estado sólido|estão congelados|nunca|0|Só então os íons ficam livres para se mover.
+Qual é a geometria da molécula de água?|linear|angular|trigonal plana|tetraédrica|1|O oxigênio tem pares de elétrons livres e a molécula é angular.
+Um ânion é um íon com carga:|positiva|neutra|negativa|variável|2|O ânion ganhou elétrons.
+Os metais conduzem eletricidade por causa:|dos prótons livres|dos nêutrons|das ligações covalentes|dos elétrons livres|3|Os elétrons da ligação metálica circulam pela rede.
+Qual é a geometria da molécula de CO₂?|linear|angular|piramidal|tetraédrica|0|A estrutura O=C=O é linear.
+Um cátion é um íon com carga:|negativa|positiva|neutra|nula|1|O cátion perdeu elétrons.
+As substâncias moleculares têm, em geral, pontos de fusão:|muito altos sempre|iguais aos dos metais|relativamente baixos|sempre nulos|2|As forças entre moléculas são mais fracas que as ligações iônicas.
+Quantas ligações N–H há na molécula de NH₃?|2|4|1|3|3|O nitrogênio completa o octeto com 3 ligações simples.
+Os gases nobres são estáveis porque têm:|a camada de valência completa|muitos prótons|alta massa|poucos nêutrons|0|A camada completa dá estabilidade e baixa reatividade.
+Qual é a fórmula estrutural da água?|H=O=H|H–O–H|H–H–O|O–H–O|1|O oxigênio faz duas ligações simples com os hidrogênios.
+O ponto de ebulição do HF é alto devido:|à ligação iônica|à ligação metálica|às ligações de hidrogênio|à ausência de ligações|2|O hidrogênio ligado a F atrai fortemente moléculas vizinhas.
+Qual é o íon formado pelo sódio (grupo 1)?|Na⁻|Na²⁺|Na²⁻|Na⁺|3|O sódio perde 1 elétron.
+Quantas ligações duplas tem a molécula de CO₂?|2|1|4|0|0|A estrutura é O=C=O.
+Qual ligação tem maior caráter iônico?|HCl|NaCl|Cl₂|H₂|1|A maior diferença de eletronegatividade ocorre no NaCl.
