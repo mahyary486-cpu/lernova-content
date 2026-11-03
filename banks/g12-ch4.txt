@@ -1,0 +1,51 @@
+#EEEMMMMHHHEEEMMMMMHHEEEMMMMHHHEEEMMMMMHHEEEMMMMHHH
+Convert 180 degrees to radians.|pi|pi/2|2pi|180pi|0|180 x pi/180 = pi.
+Convert 90 degrees to radians.|pi/2|pi/4|pi|3pi/2|0|90 x pi/180 = pi/2.
+Convert pi/3 radians to degrees.|30 degrees|60 degrees|45 degrees|120 degrees|1|pi/3 x 180/pi = 60 degrees.
+Convert 225 degrees to radians.|3pi/4|5pi/6|4pi/3|5pi/4|3|225 x pi/180 = 5pi/4.
+Which angle is coterminal with 50 degrees?|410 degrees|230 degrees|130 degrees|320 degrees|0|Coterminal angles differ by multiples of 360 degrees: 50 + 360 = 410.
+A circle has radius 8 and a central angle of pi/4 radians. What is the arc length?|4pi|pi/2|32pi|2pi|3|s = r x theta = 8 x pi/4 = 2pi.
+Convert -2pi/3 radians to degrees.|120 degrees|-240 degrees|-60 degrees|-120 degrees|3|-2pi/3 x 180/pi = -120 degrees.
+A sector has radius 10 and central angle 3pi/5 radians. What is its area?|30pi|60pi|15pi|150pi|0|A = (1/2) r^2 theta = (1/2)(100)(3pi/5) = 30pi.
+An arc of length 15 cm lies on a circle of radius 6 cm. What is the central angle?|0.4 radians|2.5 radians|9 radians|90 radians|1|theta = s / r = 15 / 6 = 2.5 radians.
+Which angle is coterminal with -7pi/6?|7pi/6|pi/6|11pi/6|5pi/6|3|Add 2pi: -7pi/6 + 12pi/6 = 5pi/6.
+What point on the unit circle corresponds to the angle 0?|(0, 1)|(1, 0)|(-1, 0)|(0, 0)|1|The terminal side of angle 0 meets the circle at (cos 0, sin 0) = (1, 0).
+What is cos(pi/2)?|1|-1|0|1/2|2|The point at pi/2 is (0, 1), and cosine is the x-coordinate.
+What is sin(pi/6)?|sqrt(3)/2|sqrt(2)/2|1/2|1|2|The point at pi/6 is (sqrt(3)/2, 1/2).
+What is cos(2pi/3)?|1/2|-sqrt(3)/2|sqrt(3)/2|-1/2|3|The reference angle is pi/3 with cosine 1/2, and cosine is negative in Quadrant II.
+What is tan(3pi/4)?|1|-sqrt(2)/2|-1|sqrt(2)/2|2|The reference angle is pi/4, where tan = 1, and tangent is negative in Quadrant II.
+What is sin(7pi/6)?|-1/2|1/2|-sqrt(3)/2|sqrt(3)/2|0|The reference angle is pi/6, and sine is negative in Quadrant III.
+In which quadrant is sine negative and cosine positive?|Quadrant I|Quadrant IV|Quadrant II|Quadrant III|1|The y-coordinate is negative and the x-coordinate is positive only in Quadrant IV.
+What is cos(-pi/3)?|-1/2|sqrt(3)/2|-sqrt(3)/2|1/2|3|Cosine is even: cos(-pi/3) = cos(pi/3) = 1/2.
+If sin theta = -5/13 and theta is in Quadrant III, what is cos theta?|12/13|-12/5|-12/13|5/13|2|cos^2 theta = 1 - 25/169 = 144/169, and cosine is negative in Quadrant III.
+What is tan(11pi/6)?|sqrt(3)/3|-sqrt(3)|-sqrt(3)/3|sqrt(3)|2|The reference angle is pi/6, tan(pi/6) = sqrt(3)/3, and tangent is negative in Quadrant IV.
+A right triangle has legs 3 and 4 and hypotenuse 5. For the angle opposite the side 3, what is sin?|4/5|3/5|3/4|5/3|1|sin = opposite / hypotenuse = 3/5.
+Which function is the reciprocal of sin theta?|cos theta|csc theta|sec theta|cot theta|1|csc theta = 1 / sin theta.
+In a right triangle, tan theta equals which ratio?|adjacent / opposite|opposite / adjacent|opposite / hypotenuse|hypotenuse / adjacent|1|Tangent compares the opposite side to the adjacent side.
+A right triangle has legs 5 and 12. For the angle A opposite the side 5, what is sec A?|13/5|12/13|13/12|12/5|2|The hypotenuse is 13. sec A = hypotenuse / adjacent = 13/12.
+What is csc 30 degrees?|1/2|sqrt(3)|2sqrt(3)/3|2|3|sin 30 degrees = 1/2, so csc 30 degrees = 2.
+cos 35 degrees equals sin of which angle?|35 degrees|65 degrees|145 degrees|55 degrees|3|Cofunction identity: cos theta = sin(90 degrees - theta) = sin 55 degrees.
+What is cot 60 degrees?|sqrt(3)|1/2|2sqrt(3)/3|sqrt(3)/3|3|tan 60 degrees = sqrt(3), so cot 60 degrees = 1/sqrt(3) = sqrt(3)/3.
+If sin theta = 5/13 and theta is acute, what is cot theta?|5/12|13/12|13/5|12/5|3|The adjacent side is sqrt(169 - 25) = 12, so cot theta = adjacent / opposite = 12/5.
+A 10 m ladder leans against a wall and makes a 60 degree angle with the ground. How high up the wall does it reach?|5 m|10 sqrt(3) m|5 sqrt(3) m|10 sqrt(3)/3 m|2|The height is opposite the angle: 10 sin 60 degrees = 10 x sqrt(3)/2 = 5 sqrt(3) m.
+From the top of a 40 m cliff, the angle of depression to a boat is 30 degrees. How far is the boat from the base of the cliff?|40 sqrt(3) m|40 sqrt(3)/3 m|20 sqrt(3) m|80 m|0|tan 30 degrees = 40 / d, so d = 40 / (sqrt(3)/3) = 40 sqrt(3) m.
+What is the amplitude of y = 4 sin x?|4|1|2pi|8|0|The amplitude is abs(A) = 4.
+What is the period of y = sin x?|pi|1|2pi|4pi|2|The sine wave repeats every 2pi.
+What is the value of y = cos x at x = 0?|1|0|-1|pi|0|cos 0 = 1, the maximum of cosine.
+What is the period of y = sin(3x)?|3|6pi|2pi/3|pi/3|2|Period = 2pi / abs(B) = 2pi / 3.
+What is the amplitude of y = -2 cos x + 5?|-2|2|5|7|1|The amplitude is abs(A) = abs(-2) = 2. The 5 only moves the midline.
+What is the midline of y = 3 sin x - 4?|y = -4|y = 3|y = 4|y = -1|0|The midline is y = D, here D = -4.
+How is the graph of y = sin(x - pi/3) related to y = sin x?|Shifted left pi/3|Shifted right pi/3|Shifted right 2pi/3|Shifted right pi/6|1|Replacing x by x - C shifts the graph right by C = pi/3.
+What is the range of y = 2 cos x + 1?|-2 to 2|1 to 3|-1 to 1|-1 to 3|3|The midline is 1 and the amplitude is 2, so y goes from 1 - 2 = -1 to 1 + 2 = 3.
+What is the period of y = 5 cos(pi x / 2)?|4|2|2pi|pi/2|0|Period = 2pi / (pi/2) = 4.
+What is the phase shift of y = sin(2x - pi)?|Right pi/2|Right pi|Left pi/2|Right 2pi|0|Factor: sin(2(x - pi/2)), so the shift is pi/2 to the right.
+What is the period of y = tan x?|2pi|pi|pi/2|4pi|1|Tangent repeats every pi.
+Where is a vertical asymptote of y = tan x?|x = 0|x = pi/2|x = pi|x = pi/4|1|tan x is undefined where cos x = 0, such as x = pi/2.
+What is the range of y = sec x?|All real numbers|-1 <= y <= 1|y >= 0|y <= -1 or y >= 1|3|Since abs(cos x) <= 1, abs(sec x) >= 1.
+What is the period of y = tan(2x)?|pi|2pi|pi/2|pi/4|2|Period = pi / abs(B) = pi / 2.
+The graph of y = sec x has vertical asymptotes where|cos x = 0|sin x = 0|tan x = 0|cos x = 1|0|sec x = 1 / cos x is undefined when cos x = 0.
+What is the period of y = csc(x/2)?|pi|4pi|2pi|pi/2|1|Period = 2pi / (1/2) = 4pi.
+Which value of x is a zero of y = cot x?|0|pi|pi/2|2pi|2|cot x = cos x / sin x equals 0 when cos x = 0. The other choices are asymptotes.
+Which is a vertical asymptote of y = tan(x - pi/4)?|x = pi/4|x = pi/2|x = 3pi/4|x = 0|2|Set x - pi/4 = pi/2, so x = 3pi/4.
+What is the range of y = 3 csc x?|-3 <= y <= 3|y <= -3 or y >= 3|y <= -1 or y >= 1|All real numbers|1|The related sine curve has amplitude 3, so the branches begin at y = 3 and y = -3.
+Which function's graph never crosses the x-axis?|y = sec x|y = tan x|y = cot x|y = sin x|0|sec x = 1 / cos x is never 0, so it has no x-intercepts.

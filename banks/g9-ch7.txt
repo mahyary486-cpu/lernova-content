@@ -1,0 +1,51 @@
+#EEEMMMMHHHEEEMMMMMHHEEEMMMMHHHEEEMMMMMHHEEEMMMMHHH
+What is sqrt(49)?|24.5|7|14|49|1|The number that multiplies by itself to give 49 is 7.
+Which of these numbers is a perfect square?|49|48|50|52|0|7 * 7 = 49, so 49 is a perfect square. The others are not squares of whole numbers.
+Which is sqrt(18) in simplest radical form?|9 sqrt(2)|3 sqrt(2)|2 sqrt(9)|6 sqrt(3)|1|18 = 9 * 2, so sqrt(18) = sqrt(9) * sqrt(2) = 3 sqrt(2).
+Simplify sqrt(72).|36 sqrt(2)|6 sqrt(2)|2 sqrt(18)|3 sqrt(8)|1|72 = 36 * 2, so sqrt(72) = 6 sqrt(2). The other forms are not simplest or are not equal.
+Simplify sqrt(75).|25 sqrt(3)|3 sqrt(5)|15 sqrt(5)|5 sqrt(3)|3|75 = 25 * 3, so sqrt(75) = 5 sqrt(3).
+Simplify sqrt(5/16).|5/4|sqrt(5)/16|sqrt(5)/4|sqrt(5)/8|2|By the quotient rule sqrt(5/16) = sqrt(5)/sqrt(16) = sqrt(5)/4.
+Simplify 6 / sqrt(3) by rationalizing the denominator.|6 sqrt(3)|2/sqrt(3)|sqrt(3)/2|2 sqrt(3)|3|Multiply top and bottom by sqrt(3): 6 sqrt(3)/3 = 2 sqrt(3).
+Simplify sqrt(50x^3), where x >= 0.|5x sqrt(2x)|25x sqrt(2x)|10x sqrt(x)|5x^2 sqrt(2)|0|50x^3 = 25 * x^2 * 2x, so the root is 5 * x * sqrt(2x).
+Which of these numbers is irrational?|sqrt(20)|sqrt(81)|sqrt(0.25)|sqrt(1/9)|0|20 is not a perfect square, so sqrt(20) never ends or repeats. The others equal 9, 0.5 and 1/3.
+Simplify 10 / sqrt(5).|2 sqrt(5)|10 sqrt(5)|5 sqrt(5)|sqrt(5)/2|0|10 sqrt(5)/5 = 2 sqrt(5) after multiplying top and bottom by sqrt(5).
+Simplify 3 sqrt(5) + 4 sqrt(5).|7 sqrt(10)|12 sqrt(5)|7 sqrt(5)|sqrt(35)|2|The radicals are alike, so add the coefficients 3 + 4 = 7 and keep sqrt(5).
+What is sqrt(2) * sqrt(3)?|sqrt(5)|sqrt(6)|6|sqrt(23)|1|Multiply the numbers under the roots: sqrt(2 * 3) = sqrt(6).
+Which sum can be combined into a single radical term?|sqrt(2) + sqrt(3)|2 sqrt(5) + 3 sqrt(5)|4 sqrt(2) + 4 sqrt(3)|sqrt(7) + sqrt(11)|1|Only like radicals can be combined, and 2 sqrt(5) + 3 sqrt(5) = 5 sqrt(5).
+Simplify sqrt(12) + sqrt(27).|sqrt(39)|5 sqrt(3)|5 sqrt(6)|13 sqrt(3)|1|sqrt(12) = 2 sqrt(3) and sqrt(27) = 3 sqrt(3), and 2 sqrt(3) + 3 sqrt(3) = 5 sqrt(3).
+Simplify 2 sqrt(6) * 3 sqrt(2).|6 sqrt(3)|5 sqrt(8)|12 sqrt(2)|12 sqrt(3)|3|Multiply coefficients: 6. Then sqrt(12) = 2 sqrt(3), giving 12 sqrt(3).
+Expand and simplify (3 + sqrt(2))(3 - sqrt(2)).|11|7|9|5|1|This is a difference of squares: 3^2 - (sqrt(2))^2 = 9 - 2 = 7.
+Simplify sqrt(50) - sqrt(8).|3 sqrt(2)|7 sqrt(2)|sqrt(42)|3|0|sqrt(50) = 5 sqrt(2) and sqrt(8) = 2 sqrt(2), so the difference is 3 sqrt(2).
+Expand and simplify (3 + sqrt(2))^2.|9 + 6 sqrt(2)|11 + 3 sqrt(2)|13 + 6 sqrt(2)|11 + 6 sqrt(2)|3|9 + 2 * 3 * sqrt(2) + 2 = 11 + 6 sqrt(2).
+Simplify 12 sqrt(30) / (4 sqrt(6)).|8 sqrt(5)|3 sqrt(24)|3 sqrt(5)|12 sqrt(5)|2|12/4 = 3 and sqrt(30)/sqrt(6) = sqrt(5), so the result is 3 sqrt(5).
+Rationalize and simplify 1 / (1 + sqrt(2)).|sqrt(2) - 1|1 - sqrt(2)|sqrt(2) + 1|(1 - sqrt(2))/3|0|Multiply by the conjugate: (1 - sqrt(2))/(1 - 2) = (1 - sqrt(2))/(-1) = sqrt(2) - 1.
+Favorite color is an example of which type of data?|Numerical|Skewed|Symmetric|Categorical|3|Colors place items in groups, so the data is categorical.
+Which display keeps every actual data value?|Histogram|Stem-and-leaf plot|Bar graph|Box-and-whisker plot|1|A stem-and-leaf plot shows each value as a stem and a leaf, while the others group or summarize.
+Which display uses touching bars over equal-width intervals of numerical data?|Histogram|Bar graph|Dot plot|Stem-and-leaf plot|0|A histogram groups numbers into equal bins with touching bars.
+A histogram has intervals 0-9, 10-19 and 20-29 with frequencies 4, 7 and 5. How many values are there in total?|7|12|16|28|2|Add the frequencies: 4 + 7 + 5 = 16.
+What is the median of 2, 4, 5, 7, 8, 10, 12?|8|5|7|6|2|The ordered list has 7 values, and the fourth one, 7, is in the middle.
+For the data 2, 4, 5, 7, 8, 10, 12, which gives Q1 and Q3?|Q1 = 5, Q3 = 10|Q1 = 4, Q3 = 8|Q1 = 4, Q3 = 10|Q1 = 4, Q3 = 12|2|The lower half 2, 4, 5 has median 4 and the upper half 8, 10, 12 has median 10.
+A distribution has a long tail toward larger values. How is it described?|Skewed left|Symmetric|Uniform|Skewed right|3|The direction of the long tail names the skew, so a tail toward larger values is skewed right.
+A stem-and-leaf plot has stem 1 with leaves 2, 5; stem 2 with leaves 1, 3, 3, 7; and stem 3 with leaves 1, 8. How many data values are shown?|3|8|7|10|1|Count the leaves: 2 + 4 + 2 = 8.
+For the data 12, 15, 21, 23, 23, 27, 31, 38, what is the median?|21|23|25|22|1|With 8 values, average the 4th and 5th: (23 + 23)/2 = 23.
+Which statement about a box-and-whisker plot is true?|A longer box means more data values|Each of the four sections holds about 25 percent of the data|The median is always at the center of the box|The whiskers show the mean and the median|1|The minimum, Q1, median, Q3 and maximum split the data into four parts of about 25 percent each.
+What is the mean of 4, 6, 6, 8, 11?|6|8|35|7|3|The sum is 35 and 35/5 = 7.
+What is the mode of 3, 5, 5, 7, 9?|7|5|5.8|3|1|The mode is the value that appears most often, and 5 appears twice.
+What is the range of 12, 5, 20, 9?|15|8|20|17|0|Range = maximum - minimum = 20 - 5 = 15.
+What is the median of 3, 5, 9, 15?|7|5|9|8|0|With an even count, average the middle two values: (5 + 9)/2 = 7.
+What is the interquartile range of 3, 5, 9, 15?|8|12|4|7|0|Q1 = 4 and Q3 = 12, so IQR = 12 - 4 = 8.
+The mean of 2, 4, 6, 8 is 5. What is the mean absolute deviation?|8|2|5|4|1|The distances from 5 are 3, 1, 1, 3, which sum to 8, and 8/4 = 2.
+What is the median of 9, 3, 7, 1, 5, 15?|4|7|5|6|3|Ordered: 1, 3, 5, 7, 9, 15. The middle values are 5 and 7, and their mean is 6.
+The data 4, 6, 6, 8, 11 has median 6. After adding the value 100, what is the median?|7|6|22.5|8|0|The ordered data is 4, 6, 6, 8, 11, 100. The middle values are 6 and 8, so the median is 7.
+The data 4, 6, 6, 8, 11 has mean 7. What is the mean after adding the value 100?|27|7|20|22.5|3|The new sum is 135 and there are 6 values, so the mean is 135/6 = 22.5.
+A data set has Q1 = 4 and Q3 = 12. Using the 1.5 * IQR rule, values above which number are outliers?|18|20|36|24|3|IQR = 8, so the upper fence is 12 + 1.5 * 8 = 24.
+As x increases, y tends to decrease. What kind of correlation is this?|Positive|No correlation|Negative|Perfect|2|When one variable goes down as the other goes up, the correlation is negative.
+Which correlation coefficient shows the strongest linear relationship?|0.6|0.1|-0.3|-0.95|3|The closer r is to 1 or -1, the stronger the relationship, and -0.95 is closest.
+A line of best fit for hours studied (x) and test score (y) is y = 5x + 55. What does the slope 5 mean?|Each extra hour adds about 5 points|Each extra hour lowers the score by 5 points|The score with 0 hours is 5|The student gets 55 points per hour|0|The slope is the change in y for each increase of 1 in x.
+Using y = 5x + 55, what score is predicted for 6 hours of study?|85|30|61|90|0|5(6) + 55 = 30 + 55 = 85.
+A line passes through (2, 65) and (8, 95). What is its slope?|6|1/5|5|30|2|Slope = (95 - 65)/(8 - 2) = 30/6 = 5.
+A line has slope 5 and passes through (2, 65). Which is its equation?|y = 5x + 65|y = 2x + 65|y = 5x + 55|y = 5x + 10|2|65 = 5(2) + b gives b = 55, so y = 5x + 55.
+At x = 4 the line predicts 75 but the actual value is 78. What is the residual?|-3|153|78|3|3|Residual = actual - predicted = 78 - 75 = 3.
+The data covers 1 to 8 hours of study. Which prediction is the least reliable?|Predicting the score for 5 hours|Predicting the score for 3 hours|Predicting the score for 20 hours|Predicting the score for 7 hours|2|20 hours is far outside the data range, so that is extrapolation and is unreliable.
+Ice cream sales and sunburns are strongly correlated. What can be concluded?|Ice cream causes sunburn|Sunburn causes people to buy ice cream|Correlation alone does not show that one causes the other|The correlation must be zero|2|Both rise in summer, so a strong correlation does not prove cause.
+At x = 4 the line y = 5x + 55 gives 75. The actual value is 70. What is the residual?|5|145|-5|-75|2|Residual = actual - predicted = 70 - 75 = -5.

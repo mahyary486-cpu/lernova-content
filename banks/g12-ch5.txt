@@ -1,0 +1,51 @@
+#EEEMMMMHHHEEEMMMMMHHEEEMMMMHHHEEEMMMMMHHEEEMMMMHHH
+Which function is the reciprocal of sin x?|sec x|csc x|cot x|tan x|1|csc x is 1/sin x, while sec x is 1/cos x and cot x is 1/tan x.
+What is sin^2 x + cos^2 x equal to?|0|2|1|sin 2x|2|This is the basic Pythagorean identity, true for every x.
+Which expression equals tan x?|cos x / sin x|sin x / cos x|1 / sin x|sin x cos x|1|The quotient identity says tan x = sin x / cos x.
+Simplify 1 - cos^2 x.|sin x|tan^2 x|sin^2 x|-sin^2 x|2|From sin^2 x + cos^2 x = 1, we get 1 - cos^2 x = sin^2 x.
+Simplify sec^2 x - tan^2 x.|1|-1|0|sec x|0|Since 1 + tan^2 x = sec^2 x, the difference is 1.
+What is sin(-x) equal to?|sin x|cos x|-cos x|-sin x|3|Sine is an odd function, so sin(-x) = -sin x.
+Simplify cos x tan x.|sin x|1|cos x|sec x|0|cos x (sin x / cos x) = sin x.
+If sin x = 3/5 and x is in Quadrant II, what is tan x?|3/4|-3/4|-4/3|4/3|1|cos x = -4/5 in Quadrant II, so tan x = (3/5)/(-4/5) = -3/4.
+Simplify (1 + tan^2 x) cos^2 x.|sin^2 x|cos^2 x|1|sec^2 x|2|1 + tan^2 x = sec^2 x, and sec^2 x cos^2 x = 1.
+Simplify sin x/(1 + cos x) + (1 + cos x)/sin x.|2 sec x|2 sin x|2 csc x|csc x|2|The numerator is sin^2 x + 1 + 2cos x + cos^2 x = 2(1 + cos x), so the sum is 2/sin x = 2 csc x.
+Which is the correct formula for sin(A + B)?|sin A + sin B|sin A cos B - cos A sin B|cos A cos B - sin A sin B|sin A cos B + cos A sin B|3|The sine sum formula keeps the plus sign and mixes sine and cosine.
+Which is the correct formula for cos(A + B)?|cos A cos B + sin A sin B|cos A + cos B|sin A cos B + cos A sin B|cos A cos B - sin A sin B|3|The cosine formula has the opposite sign from the one inside the parentheses.
+What does sin 40 cos 20 + cos 40 sin 20 (degrees) equal?|sin 20|cos 60|sin 60|sin 800|2|It matches sin A cos B + cos A sin B with A = 40 and B = 20, giving sin 60.
+What is the exact value of cos 75 degrees?|(sqrt(6) - sqrt(2))/4|(sqrt(6) + sqrt(2))/4|(sqrt(3) - 1)/2|sqrt(6)/4|0|cos(45+30) = (sqrt2/2)(sqrt3/2) - (sqrt2/2)(1/2) = (sqrt6 - sqrt2)/4.
+What is the exact value of sin 15 degrees?|(sqrt(6) - sqrt(2))/4|(sqrt(6) + sqrt(2))/4|(sqrt(3) - 1)/2|sqrt(3)/4|0|sin(45-30) = (sqrt2/2)(sqrt3/2) - (sqrt2/2)(1/2) = (sqrt6 - sqrt2)/4.
+What is the exact value of tan 75 degrees?|2 - sqrt(3)|sqrt(3) - 1|1 + sqrt(3)|2 + sqrt(3)|3|tan(45+30) = (1 + 1/sqrt3)/(1 - 1/sqrt3) = (sqrt3 + 1)/(sqrt3 - 1) = 2 + sqrt3.
+Which is the correct formula for cos(A - B)?|cos A cos B - sin A sin B|cos A cos B + sin A sin B|sin A cos B - cos A sin B|cos A - cos B|1|For cosine the sign flips: the difference formula uses a plus sign.
+What is the exact value of sin 105 degrees?|(sqrt(6) + sqrt(2))/4|(sqrt(6) - sqrt(2))/4|-(sqrt(6) + sqrt(2))/4|sqrt(2)/2|0|sin(60+45) = (sqrt3/2)(sqrt2/2) + (1/2)(sqrt2/2) = (sqrt6 + sqrt2)/4.
+If sin A = 3/5 and cos B = 5/13 with A and B in Quadrant I, what is cos(A + B)?|16/65|-16/65|56/65|63/65|1|cos A = 4/5 and sin B = 12/13, so cos(A+B) = 20/65 - 36/65 = -16/65.
+If sin A = 4/5 (A in Quadrant I) and cos B = -12/13 (B in Quadrant II), what is sin(A + B)?|33/65|-63/65|63/65|-33/65|3|cos A = 3/5 and sin B = 5/13, so sin(A+B) = (4/5)(-12/13) + (3/5)(5/13) = -48/65 + 15/65 = -33/65.
+Which expression equals sin 2A?|2 sin A|sin^2 A|cos^2 A - sin^2 A|2 sin A cos A|3|Setting B = A in the sine sum formula gives 2 sin A cos A.
+Which expression is NOT equal to cos 2A?|cos^2 A - sin^2 A|1 - 2 cos^2 A|2 cos^2 A - 1|1 - 2 sin^2 A|1|The correct forms are 1 - 2 sin^2 A and 2 cos^2 A - 1, not 1 - 2 cos^2 A.
+Which expression equals cos^2 A?|(1 - cos 2A)/2|1 - sin A|cos 2A / 2|(1 + cos 2A)/2|3|Solving cos 2A = 2 cos^2 A - 1 for cos^2 A gives (1 + cos 2A)/2.
+If sin A = 3/5 and A is in Quadrant II, what is sin 2A?|-24/25|24/25|6/5|-12/25|0|cos A = -4/5, so sin 2A = 2(3/5)(-4/5) = -24/25.
+If sin A = 3/5, what is cos 2A?|-7/25|16/25|24/25|7/25|3|cos 2A = 1 - 2 sin^2 A = 1 - 18/25 = 7/25.
+What is the exact value of cos 22.5 degrees?|sqrt(2 - sqrt(2))/2|sqrt(2 + sqrt(2))/2|sqrt(2 + sqrt(2))/4|(1 + sqrt(2))/2|1|cos(45/2) = sqrt((1 + sqrt2/2)/2) = sqrt(2 + sqrt2)/2, positive in Quadrant I.
+If tan A = 1/2, what is tan 2A?|1|3/4|4/3|2/3|2|tan 2A = 2(1/2)/(1 - 1/4) = 1/(3/4) = 4/3.
+If cos t = -7/25 and t is in Quadrant II, what is sin(t/2)?|4/5|3/5|-4/5|3/4|0|t/2 is in Quadrant I, so sin(t/2) = sqrt((1 + 7/25)/2) = sqrt(16/25) = 4/5.
+If sin A = 12/13 and A is in Quadrant I, what is tan(A/2)?|3/2|3/5|2/5|2/3|3|cos A = 5/13, so tan(A/2) = sin A/(1 + cos A) = (12/13)/(18/13) = 2/3.
+Simplify cos^4 x - sin^4 x.|1|cos 2x|sin 2x|2 cos^2 x|1|It factors as (cos^2 x - sin^2 x)(cos^2 x + sin^2 x) = cos 2x (1) = cos 2x.
+What is the range of y = arcsin x?|[0, pi]|(-pi/2, pi/2)|[-pi/2, pi/2]|[-1, 1]|2|arcsin returns angles from -pi/2 to pi/2 inclusive; [-1, 1] is its domain.
+What is the range of y = arccos x?|[-pi/2, pi/2]|[0, pi]|[0, 2pi]|(0, pi)|1|arccos returns angles from 0 to pi inclusive.
+What is arcsin(1/2)?|pi/3|5pi/6|pi/4|pi/6|3|sin(pi/6) = 1/2 and pi/6 lies in the range [-pi/2, pi/2].
+What is arccos(-1/2)?|-2pi/3|pi/3|2pi/3|4pi/3|2|The angle must be in [0, pi] with cosine -1/2, which is 2pi/3.
+What is arctan(-1)?|3pi/4|pi/4|-pi/4|-3pi/4|2|The range of arctan is (-pi/2, pi/2), and tan(-pi/4) = -1.
+What is arcsin(-sqrt(3)/2)?|-pi/3|pi/3|-2pi/3|5pi/3|0|The answer must lie in [-pi/2, pi/2], and sin(-pi/3) = -sqrt3/2.
+What is cos(arcsin(3/5))?|4/5|3/5|3/4|5/4|0|In a right triangle with opposite 3 and hypotenuse 5, the adjacent side is 4, so cosine is 4/5.
+Which expression is undefined in the real numbers?|arccos 0|arcsin 2|arctan 5|arcsin(-1)|1|The domain of arcsin is [-1, 1], so arcsin 2 does not exist.
+What is arccos(cos(7pi/6))?|7pi/6|pi/6|5pi/6|-5pi/6|2|cos(7pi/6) = -sqrt3/2, and the angle in [0, pi] with that cosine is 5pi/6.
+What is tan(arccos(-5/13))?|12/5|-5/12|5/12|-12/5|3|The angle is in Quadrant II with adjacent -5 and hypotenuse 13, so sin = 12/13 and tan = -12/5.
+What are the solutions of sin x = 1/2 on [0, 2pi)?|pi/6 and 7pi/6|pi/3 and 2pi/3|pi/6 and 5pi/6|pi/6 only|2|Sine is positive in Quadrants I and II, giving pi/6 and pi - pi/6 = 5pi/6.
+After finding one solution of tan x = c, which multiple is added to get the general solution?|2pi*k|pi*k|pi/2*k|4pi*k|1|Tangent has period pi, so solutions repeat every pi.
+What are the solutions of cos x = 0 on [0, 2pi)?|pi/2 and 3pi/2|0 and pi|pi only|pi/2 only|0|Cosine is zero at the top and bottom of the unit circle.
+Solve 2 cos x - sqrt(3) = 0 on [0, 2pi).|pi/6 and 5pi/6|pi/3 and 5pi/3|pi/6 and 11pi/6|5pi/6 and 7pi/6|2|cos x = sqrt3/2 in Quadrants I and IV, giving pi/6 and 11pi/6.
+Solve 2 sin^2 x - sin x = 0 on [0, 2pi).|0, pi/6, 5pi/6, pi|pi/6 and 5pi/6|0, pi/3, 2pi/3, pi|0, pi/6, 5pi/6|0|Factor as sin x (2 sin x - 1) = 0, so sin x = 0 (0, pi) or sin x = 1/2 (pi/6, 5pi/6).
+How many solutions does sin 2x = 1/2 have on [0, 2pi)?|4|2|8|1|0|2x ranges over [0, 4pi), which holds two full periods with two solutions each, so 4 solutions.
+Solve cos x = -1/2 on [0, 2pi).|pi/3 and 5pi/3|2pi/3 and 5pi/3|pi/3 and 2pi/3|2pi/3 and 4pi/3|3|Cosine is negative in Quadrants II and III, with reference angle pi/3.
+Solve 2 cos^2 x + cos x - 1 = 0 on [0, 2pi).|pi/3 and 5pi/3|pi/3, pi, 5pi/3|2pi/3, pi, 4pi/3|0, pi/3, 5pi/3|1|Factor as (2 cos x - 1)(cos x + 1) = 0, so cos x = 1/2 (pi/3, 5pi/3) or cos x = -1 (pi).
+Solve sin^2 x = 1 + cos x on [0, 2pi).|pi/2, pi, 3pi/2|pi/2 and 3pi/2|0, pi/2, 3pi/2|pi only|0|Replace sin^2 x by 1 - cos^2 x to get cos^2 x + cos x = 0, so cos x = 0 or cos x = -1.
+Solve sin 2x = cos x on [0, 2pi).|pi/6 and 5pi/6|pi/6, pi/2, 5pi/6, 3pi/2|pi/2 and 3pi/2|pi/6, pi/2, 5pi/6|1|2 sin x cos x - cos x = 0 gives cos x (2 sin x - 1) = 0, so cos x = 0 or sin x = 1/2.

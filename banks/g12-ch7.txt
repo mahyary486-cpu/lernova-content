@@ -1,0 +1,51 @@
+#EEEMMMMMHHEEEMMMMMHHEEEMMMMHHHEEEMMMMHHHEEEMMMMHHH
+What is the focus of x^2 = 12y?|(0, 12)|(0, 3)|(3, 0)|(0, 6)|1|x^2 = 4py with 4p = 12, p = 3: focus (0, p).
+What is the directrix of y^2 = 8x?|x = 2|y = -2|x = -2|x = -8|2|Here 4p = 8, p = 2 and the directrix is x = -p.
+In which direction does y^2 = -4x open?|Right|Left|Up|Down|1|y^2 = 4px with p = -1 < 0 opens left.
+Which is the equation of the parabola with vertex (0, 0) and focus (0, -5)?|x^2 = 20y|y^2 = -20x|x^2 = -20y|x^2 = -5y|2|Focus (0, p) with p = -5 gives 4p = -20 and x^2 = -20y.
+Which is the equation of the parabola with vertex (2, 1) and focus (2, 4)?|(x - 2)^2 = 12(y - 1)|(x - 2)^2 = 3(y - 1)|(x + 2)^2 = 12(y + 1)|(y - 1)^2 = 12(x - 2)|0|p = 4 - 1 = 3, so 4p = 12.
+Which is the equation of the parabola with vertex (-1, 3) and directrix x = -4?|(y - 3)^2 = -12(x + 1)|(y + 3)^2 = 12(x - 1)|(x + 1)^2 = 12(y - 3)|(y - 3)^2 = 12(x + 1)|3|Vertex to directrix is 3 units, so the parabola opens right with p = 3: (y - 3)^2 = 12(x + 1).
+What is the width of the parabola y^2 = 20x at its focus?|20|5|10|40|0|The latus rectum width is abs(4p) = 20.
+What is the vertex of y = x^2 - 6x + 5?|(-3, -4)|(3, -4)|(3, 4)|(6, 5)|1|Complete the square: y = (x - 3)^2 - 4.
+What is the focus of x^2 - 4x - 8y + 20 = 0?|(2, 0)|(4, 2)|(2, 4)|(2, 3)|2|(x - 2)^2 = 8y - 16 = 8(y - 2), so vertex (2, 2), p = 2, focus (2, 4).
+A parabola has vertex (0, 0), its axis is the x-axis, and it passes through (4, 2). Which is its equation?|y^2 = 4x|y^2 = 8x|y^2 = x|x^2 = y|2|Substitute (4, 2) into y^2 = 4px: 4 = 16p, so p = 1/4 and the equation is y^2 = x.
+What are the center and radius of (x - 3)^2 + (y + 2)^2 = 25?|Center (-3, 2), radius 5|Center (3, -2), radius 25|Center (-3, 2), radius 25|Center (3, -2), radius 5|3|Center (h, k) = (3, -2) and r^2 = 25 gives r = 5.
+What is the radius of x^2 + y^2 = 49?|49|24.5|14|7|3|r^2 = 49, so r = 7.
+What are the vertices of x^2/25 + y^2/9 = 1?|(+-3, 0)|(0, +-5)|(+-5, 0)|(+-4, 0)|2|a^2 = 25 and the major axis is horizontal, so the vertices are (+-5, 0).
+What are the foci of x^2/169 + y^2/144 = 1?|(+-5, 0)|(+-13, 0)|(0, +-5)|(+-sqrt(313), 0)|0|c^2 = 169 - 144 = 25, so c = 5.
+What is the length of the major axis of x^2/9 + y^2/25 = 1?|10|6|5|50|0|a^2 = 25 is under y, so a = 5 and the major axis is 2a = 10.
+What is the eccentricity of x^2/25 + y^2/9 = 1?|3/5|5/4|16/25|4/5|3|c^2 = 25 - 9 = 16, c = 4, e = c/a = 4/5.
+What is the center of x^2 + y^2 + 8x - 2y - 8 = 0?|(4, -1)|(-4, 1)|(-4, -1)|(8, -2)|1|Complete squares: (x + 4)^2 + (y - 1)^2 = 25, center (-4, 1).
+Which is the ellipse with foci (0, +-4) and major axis of length 10?|x^2/9 + y^2/25 = 1|x^2/25 + y^2/9 = 1|x^2/25 + y^2/41 = 1|x^2/9 + y^2/16 = 1|0|a = 5 and c = 4 give b^2 = 9, with the major axis vertical.
+What are the foci of 4x^2 + 9y^2 = 36?|(+-sqrt(13), 0)|(+-sqrt(5), 0)|(0, +-sqrt(5))|(+-5, 0)|1|Divide by 36: x^2/9 + y^2/4 = 1, c^2 = 9 - 4 = 5.
+What is the length of the major axis of x^2 + 4y^2 - 6x + 8y - 3 = 0?|4|16|2|8|3|(x - 3)^2/16 + (y + 1)^2/4 = 1, so a = 4 and 2a = 8.
+What are the vertices of x^2/9 - y^2/16 = 1?|(+-4, 0)|(0, +-3)|(+-5, 0)|(+-3, 0)|3|a^2 = 9 gives a = 3 on the x-axis.
+Which equation describes a hyperbola whose branches open up and down?|x^2/4 - y^2/9 = 1|y^2/4 - x^2/9 = 1|x^2/4 + y^2/9 = 1|x^2 = 4y|1|The positive term is y^2, so the branches open up and down.
+A hyperbola has a = 3 and b = 4. What is c?|7|sqrt(7)|1|5|3|c^2 = a^2 + b^2 = 25.
+What are the asymptotes of x^2/9 - y^2/16 = 1?|y = +-(4/3)x|y = +-(3/4)x|y = +-(16/9)x|y = +-(9/16)x|0|Horizontal axis: slope +-b/a = +-4/3.
+What are the foci of x^2/16 - y^2/9 = 1?|(+-sqrt(7), 0)|(0, +-5)|(+-4, 0)|(+-5, 0)|3|c^2 = 16 + 9 = 25, so c = 5 on the x-axis.
+What are the asymptotes of y^2/25 - x^2/144 = 1?|y = +-(12/5)x|y = +-(5/12)x|y = +-(25/144)x|y = +-(144/25)x|1|Vertical axis: slope +-a/b = +-5/12.
+What is the eccentricity of x^2/16 - y^2/9 = 1?|4/5|3/4|5/4|5/3|2|c = 5 and a = 4, so e = 5/4.
+Which is the hyperbola with vertices (+-3, 0) and foci (+-5, 0)?|x^2/9 - y^2/16 = 1|x^2/9 + y^2/16 = 1|x^2/16 - y^2/9 = 1|x^2/9 - y^2/25 = 1|0|a = 3, c = 5, b^2 = 25 - 9 = 16.
+What is the center of x^2 - 4y^2 - 2x - 16y - 19 = 0?|(-1, 2)|(1, 2)|(-1, -2)|(1, -2)|3|Completing squares gives (x - 1)^2/4 - (y + 2)^2 = 1, center (1, -2).
+A hyperbola is centered at the origin, has a vertex at (3, 0) and has asymptotes y = +-(2/3)x. Which is its equation?|x^2/4 - y^2/9 = 1|x^2/9 - y^2/4 = 1|y^2/9 - x^2/4 = 1|x^2/3 - y^2/2 = 1|1|a = 3 and b/a = 2/3 gives b = 2.
+For x = t + 1 and y = 2t, what point corresponds to t = 3?|(3, 6)|(4, 5)|(4, 6)|(6, 4)|2|Substitute t = 3: (3 + 1, 6) = (4, 6).
+For x = 2t and y = t^2, what point corresponds to t = -1?|(2, 1)|(-2, 1)|(-2, -1)|(-1, 1)|1|x = -2 and y = (-1)^2 = 1.
+In the equations x = 3t and y = t^2, what is the variable t called?|The slope|The radius|The vertex|The parameter|3|t is the parameter that both x and y depend on.
+Eliminate t from x = 2t - 1 and y = t + 3. Which equation results?|y = (x - 7)/2|y = 2x + 7|y = (x + 7)/2|y = x/2 + 3|2|t = (x + 1)/2, so y = (x + 1)/2 + 3 = (x + 7)/2.
+Eliminate t from x = 3 cos t and y = 3 sin t. Which equation results?|x^2 + y^2 = 3|x^2/3 + y^2/3 = 1|x^2 + y^2 = 9|x^2 - y^2 = 9|2|cos^2 t + sin^2 t = 1 gives x^2/9 + y^2/9 = 1.
+Eliminate t from x = 5 cos t and y = 2 sin t. Which equation results?|x^2/25 + y^2/4 = 1|x^2/5 + y^2/2 = 1|x^2/4 + y^2/25 = 1|x^2/25 - y^2/4 = 1|0|cos t = x/5 and sin t = y/2, so x^2/25 + y^2/4 = 1.
+Which parametrization traces the segment from (1, 2) to (5, 10) as t goes from 0 to 1?|x = 1 + 4t, y = 2 + 8t|x = 1 + 5t, y = 2 + 10t|x = 4 + t, y = 8 + t|x = 5 + 4t, y = 10 + 8t|0|Changes are 4 and 8, so x = 1 + 4t and y = 2 + 8t.
+What part of the circle x^2 + y^2 = 16 is traced by x = 4 cos t, y = 4 sin t for 0 <= t <= pi?|The lower half|The upper half|The right half|The whole circle|1|For t from 0 to pi, sin t >= 0 so y >= 0.
+For x = 2 cos t + 1 and y = 3 sin t - 2, what is the center of the curve?|(-1, 2)|(2, 3)|(1, -2)|(1, 2)|2|(x - 1)/2 = cos t and (y + 2)/3 = sin t, so the center is (1, -2).
+For all real t, what does x = t^2, y = t^4 trace?|The entire parabola y = x^2|The line y = x|Only the part of y = x^2 with x <= 0|Only the part of y = x^2 with x >= 0|3|y = t^4 = (t^2)^2 = x^2 but x = t^2 is never negative.
+If A is a 2 x 3 matrix and B is a 3 x 4 matrix, what is the size of AB?|3 x 3|2 x 3|2 x 4|3 x 4|2|Inner sizes match (3), and the result is 2 x 4.
+What is the determinant of [3 2; 1 4]?|14|10|5|-10|1|ad - bc = 12 - 2 = 10.
+How many solutions can a system made of a line and a circle have?|0, 1 or 2|Only 1|Always 2|Infinitely many|0|A line can miss, touch or cut a circle.
+What is the solution of x + y = 7 and x - y = 1?|(3, 4)|(5, 2)|(4, 3)|(6, 1)|2|Adding gives 2x = 8, x = 4, then y = 3.
+What is [2 1; 0 3] times [1 4; 2 0]?|[4 8; 6 0]|[2 4; 0 0]|[2 13; 4 2]|[4 6; 8 0]|0|Rows times columns: row 1 gives 4 and 8, row 2 gives 6 and 0.
+What is the inverse of [4 3; 1 1]?|[1 -3; -1 4]|[1 3; 1 4]|[-1 3; 1 -4]|[4 -3; -1 1]|0|The determinant is 4 - 3 = 1, so swap the diagonal and negate the others.
+What are the solutions of y = x and x^2 + y^2 = 8?|(2, 2) only|(2, 2) and (2, -2)|(4, 4) and (-4, -4)|(2, 2) and (-2, -2)|3|2x^2 = 8 gives x = +-2 and y = x.
+Use matrices to solve 3x + 2y = 12 and x + y = 5. What is the solution?|(3, 2)|(2, 3)|(2, -3)|(7, -2)|1|The inverse of [3 2; 1 1] is [1 -2; -1 3], and times [12; 5] gives [2; 3].
+What are the intersection points of y = x + 3 and y = x^2 + 1?|(2, 5) and (-1, 2)|(2, 5) and (1, 2)|(2, 2) and (-1, 5)|(2, 5) only|0|x^2 - x - 2 = 0 gives x = 2 or -1, then y = 5 or 2.
+For which values of k does y = x + k touch x^2 + y^2 = 2 at exactly one point?|k = +-1|k = +-2|k = +-sqrt(2)|k = +-4|1|Substituting gives 2x^2 + 2kx + k^2 - 2 = 0 with discriminant 16 - 4k^2 = 0, so k = +-2.

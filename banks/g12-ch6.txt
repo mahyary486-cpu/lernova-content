@@ -1,0 +1,51 @@
+#EEEMMMMHHHEEEMMMMMHHEEEMMMMHHHEEEMMMMMHHEEEMMMMHHH
+What does the Law of Sines state for a triangle with sides a, b, c opposite angles A, B, C?|a sin A = b sin B = c sin C|a/cos A = b/cos B = c/cos C|a^2/sin A = b^2/sin B = c^2/sin C|a/sin A = b/sin B = c/sin C|3|Each side divided by the sine of its opposite angle gives the same ratio.
+In a triangle A = 50 degrees and B = 70 degrees. What is angle C?|120 degrees|50 degrees|70 degrees|60 degrees|3|The angles add to 180, so C = 180 - 50 - 70 = 60 degrees.
+Which given information can be solved directly with the Law of Sines?|Two angles and a non-included side (AAS)|Three sides (SSS)|Two sides and the included angle (SAS)|Three angles (AAA)|0|The Law of Sines needs a matched angle and opposite side. AAS gives that; SSS and SAS need the Law of Cosines, and AAA gives no side length.
+In a triangle A = 40 degrees, B = 60 degrees and a = 10. What is b, to two decimals?|7.42|15.32|13.47|11.50|2|b = a sin B / sin A = 10(0.8660)/0.6428 = 13.47.
+In a triangle A = 30 degrees, B = 45 degrees and b = 10. What is a, to two decimals?|14.14|5.00|8.66|7.07|3|a = b sin A / sin B = 10(0.5)/0.7071 = 7.07.
+Two sides of a triangle are 6 and 10 and the angle between them is 30 degrees. What is the area?|30|60|15|7.5|2|Area = (1/2)(6)(10) sin 30 = 30(0.5) = 15.
+In a triangle A = 30 degrees, a = 8 and b = 10. How many triangles are possible?|2|0|1|3|0|sin B = 10(0.5)/8 = 0.625, so B = 38.68 or 141.32 degrees. Both fit with A, giving two triangles.
+In a triangle A = 40 degrees, a = 5 and b = 10. How many triangles are possible?|1|2|Infinitely many|0|3|sin B = 10 sin 40 / 5 = 1.286, which is greater than 1, so no triangle exists.
+In a triangle A = 30 degrees, a = 5 and b = 10. How many triangles are possible?|0|Exactly 1|2|3|1|sin B = 10(0.5)/5 = 1, so B = 90 degrees and there is exactly one right triangle.
+Two sides are 8 and 12 and the included angle is 150 degrees. What is the area?|48|24|41.57|83.14|1|Area = (1/2)(8)(12) sin 150 = 48(0.5) = 24.
+Which is the Law of Cosines for side c?|c^2 = a^2 + b^2 - 2ab cos C|c^2 = a^2 + b^2 + 2ab cos C|c^2 = a^2 + b^2 - 2ab sin C|c = a^2 + b^2 - 2ab cos C|0|The law has a minus sign and the cosine of the angle opposite c, and the left side is c^2.
+Which given information requires the Law of Cosines to start?|Three sides (SSS)|Two angles and a side (AAS)|Two angles and the included side (ASA)|Three angles (AAA)|0|With SSS there is no matched angle and side, so the Law of Sines cannot start.
+What does the Law of Cosines become when C = 90 degrees?|c^2 = a^2 - b^2|c = a + b|c^2 = 2ab|c^2 = a^2 + b^2|3|cos 90 = 0, so the last term vanishes and we get the Pythagorean theorem.
+In a triangle a = 5, b = 8 and C = 60 degrees. What is c?|49|7|9.43|11.36|1|c^2 = 25 + 64 - 80(0.5) = 49, so c = 7.
+A triangle has sides 5, 7 and 8. What is the angle opposite the side 7?|60 degrees|30 degrees|90 degrees|120 degrees|0|cos B = (25 + 64 - 49)/80 = 0.5, so B = 60 degrees.
+A triangle has sides 3, 4 and 6. What is the largest angle, to the nearest tenth?|62.7 degrees|90.0 degrees|97.2 degrees|117.3 degrees|3|cos C = (9 + 16 - 36)/24 = -11/24, which gives 117.3 degrees (obtuse because the cosine is negative).
+What is the area of a triangle with sides 13, 14 and 15?|21|42|84|168|2|s = 21, so Area = sqrt(21 * 8 * 7 * 6) = sqrt(7056) = 84.
+What is the area of a triangle with sides 6, 8 and 10?|48|12|24|30|2|s = 12, so Area = sqrt(12 * 6 * 4 * 2) = sqrt(576) = 24.
+A triangle has sides 7, 8 and 9. What is the cosine of the angle opposite the side 7?|1/3|7/9|1/2|2/3|3|cos A = (64 + 81 - 49)/(2 * 8 * 9) = 96/144 = 2/3.
+In a triangle a = 10, b = 12 and C = 120 degrees. What is c, to two decimals?|19.08|15.62|11.14|364|0|c^2 = 100 + 144 - 240 cos 120 = 244 + 120 = 364, so c = 19.08.
+What is the component form of the vector from P(1, 2) to Q(4, 6)?|<-3, -4>|<3, 4>|<5, 8>|<4, 3>|1|Terminal minus initial: <4 - 1, 6 - 2> = <3, 4>.
+What is the magnitude of the vector <6, 8>?|14|10|100|48|1|sqrt(36 + 64) = sqrt(100) = 10.
+If u = <2, 3> and v = <4, -1>, what is u + v?|<6, 2>|<2, 4>|<8, -3>|<6, 4>|0|Add component by component: <2 + 4, 3 + (-1)> = <6, 2>.
+If u = <2, 3> and v = <4, -1>, what is 3u - 2v?|<-2, 7>|<14, 7>|<-2, 11>|<2, 11>|2|3u = <6, 9> and 2v = <8, -2>, so 3u - 2v = <6 - 8, 9 + 2> = <-2, 11>.
+If u = <2, 3> and v = <4, -1>, what is u . v?|<8, -3>|11|13|5|3|The dot product is 2(4) + 3(-1) = 5, a number.
+A force of 10 N acts at 30 degrees above the positive x-axis. What is its component form?|<5, 8.66>|<10, 0.5>|<8.66, 5>|<8.66, 8.66>|2|<10 cos 30, 10 sin 30> = <8.66, 5>.
+What is the unit vector in the direction of <5, 12>?|<5/17, 12/17>|<5/13, 12/13>|<1/5, 1/12>|<5/12, 12/5>|1|The magnitude is sqrt(25 + 144) = 13, so divide each component by 13.
+What is the angle between u = <3, 4> and v = <4, 3>, to two decimals?|73.74 degrees|36.87 degrees|16.26 degrees|90 degrees|2|u . v = 24 and (magnitude of u)(magnitude of v) = 25, so cos theta = 24/25 and theta = 16.26 degrees.
+For which value of k are <k, 3> and <2, 4> perpendicular?|-6|6|-1.5|1.5|0|The dot product must be 0: 2k + 12 = 0, so k = -6.
+What is the direction angle (0 to 360 degrees) of the vector <-3, 3>?|-45 degrees|45 degrees|135 degrees|225 degrees|2|tan theta = -1 and the vector is in quadrant II, so theta = 135 degrees.
+What are the rectangular coordinates of the polar point (2, 90 degrees)?|(2, 0)|(0, 2)|(0, -2)|(2, 90)|1|x = 2 cos 90 = 0 and y = 2 sin 90 = 2.
+What is the graph of r = 5 in polar coordinates?|A circle of radius 5 centered at the origin|A line through the origin|A circle of radius 25|The vertical line x = 5|0|Every point is 5 units from the pole, which is a circle of radius 5.
+What are the rectangular coordinates of the polar point (4, 60 degrees)?|(2, 2 sqrt(3))|(2 sqrt(3), 2)|(4, 60)|(2, 2)|0|x = 4 cos 60 = 2 and y = 4 sin 60 = 2 sqrt(3).
+What is the polar form of the point (-3, 3) with r positive and theta in degrees from 0 to 360?|(3 sqrt(2), 45 degrees)|(3 sqrt(2), -45 degrees)|(18, 135 degrees)|(3 sqrt(2), 135 degrees)|3|r = sqrt(18) = 3 sqrt(2). The point is in quadrant II, so theta = 135 degrees.
+Which polar point is the same location as (-r, theta)?|(r, theta)|(r, theta + 180 degrees)|(r, -theta)|(r, theta - 90 degrees)|1|A negative r points the opposite way, which is the same as adding 180 degrees to the angle.
+Which rectangular equation matches r = 2 sin theta?|x^2 + y^2 = 4|x^2 + (y - 2)^2 = 4|(x - 1)^2 + y^2 = 1|x^2 + (y - 1)^2 = 1|3|Multiply by r: x^2 + y^2 = 2y, then complete the square: x^2 + (y - 1)^2 = 1.
+What is the graph of r = 3 + 3 cos theta?|A circle|A rose|A cardioid|A line|2|The form r = a + b cos theta with a = b is a cardioid.
+How many petals does the rose r = sin(4 theta) have?|4|8|2|16|1|When n is even the rose has 2n petals, so 8.
+What are the center and radius of the circle r = 4 cos theta?|Center (2, 0), radius 2|Center (4, 0), radius 4|Center (0, 2), radius 2|Center (2, 0), radius 4|0|r^2 = 4r cos theta gives x^2 + y^2 = 4x, so (x - 2)^2 + y^2 = 4.
+What are the rectangular coordinates of the polar point (-2, 30 degrees)?|(sqrt(3), 1)|(-sqrt(3), -1)|(-1, -sqrt(3))|(sqrt(3), -1)|1|x = -2 cos 30 = -sqrt(3) and y = -2 sin 30 = -1.
+What is the modulus of the complex number 3 + 4i?|7|25|sqrt(7)|5|3|r = sqrt(9 + 16) = 5.
+What is 1 + i sqrt(3) in polar form?|2 cis 60 degrees|2 cis 30 degrees|4 cis 60 degrees|2 cis 120 degrees|0|r = sqrt(1 + 3) = 2 and tan theta = sqrt(3) in quadrant I, so theta = 60 degrees.
+How do you multiply two complex numbers in polar form?|Multiply the moduli and add the angles|Add the moduli and multiply the angles|Multiply the moduli and multiply the angles|Add the moduli and add the angles|0|r1 cis a * r2 cis b = r1 r2 cis(a + b).
+What is (2 cis 30 degrees)(3 cis 50 degrees)?|5 cis 80 degrees|6 cis 80 degrees|6 cis 1500 degrees|6 cis 20 degrees|1|Multiply moduli: 2 * 3 = 6. Add angles: 30 + 50 = 80.
+What is (6 cis 100 degrees) divided by (2 cis 40 degrees)?|3 cis 140 degrees|4 cis 60 degrees|3 cis 60 degrees|12 cis 140 degrees|2|Divide moduli: 6/2 = 3. Subtract angles: 100 - 40 = 60.
+What is (1 + i)^8?|256|8|16i|16|3|r = sqrt(2) and theta = 45 degrees, so r^8 = 16 and the angle is 360 degrees, giving 16.
+What is the argument of -1 - i between 0 and 360 degrees?|45 degrees|225 degrees|135 degrees|315 degrees|1|The point (-1, -1) is in quadrant III and tan theta = 1, so theta = 225 degrees.
+What is (sqrt(3) + i)^6?|64|-64i|-64|64i|2|r = 2 and theta = 30 degrees. By De Moivre, 2^6 cis 180 = 64(-1) = -64.
+Which is a cube root of 8i?|2 cis 90 degrees|2 cis 30 degrees|8 cis 30 degrees|2 cis 120 degrees|1|8i = 8 cis 90. Cube root: modulus 2 and angle 90/3 = 30 degrees. Check: (2 cis 30)^3 = 8 cis 90.
+Which set is all the fourth roots of 16?|4, 4i, -4, -4i|2 and -2 only|2, 2i, -2, -2i|2, 2 cis 45, 2 cis 90, 2 cis 135|2|16 = 16 cis 0, so the roots have modulus 2 and angles 0, 90, 180, 270, giving 2, 2i, -2, -2i.
