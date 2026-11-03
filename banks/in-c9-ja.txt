@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Who discovered the electron?|J. J. Thomson|Rutherford|Bohr|Chadwick|0|Thomson discovered the electron in cathode rays.
+Electrons carry|positive charge|negative charge|no charge|double charge|1|Electrons are negatively charged.
+Protons carry|negative charge|no charge|positive charge|double negative charge|2|Protons are positively charged.
+Neutrons are|positively charged|negatively charged|charged only in the nucleus|neutral particles|3|Neutrons carry no charge.
+The neutron was discovered by|James Chadwick|Thomson|Goldstein|Dalton|0|Chadwick discovered the neutron in 1932.
+The nucleus of an atom contains|electrons and protons|protons and neutrons|only electrons|only neutrons|1|Protons and neutrons are called nucleons.
+The atomic number is the number of|neutrons|nucleons|protons|shells|2|Z equals the number of protons.
+The mass number is the sum of the numbers of|protons and electrons|electrons and neutrons|shells and electrons|protons and neutrons|3|A = protons + neutrons.
+In a neutral atom the number of electrons equals the number of|protons|neutrons|nucleons|isotopes|0|Charges balance, so the atom is neutral.
+The plum pudding model was proposed by|Rutherford|J. J. Thomson|Bohr|Dalton|1|Electrons were embedded in a positive sphere.
+Rutherford bombarded a thin foil with|gamma rays|electrons|alpha particles|neutrons|2|He used alpha particles from a radioactive source.
+An alpha particle is|a hydrogen atom|an electron|a photon|a helium nucleus|3|It has 2 protons and 2 neutrons.
+Rutherford's foil was made of|gold|lead|iron|copper|0|Gold can be hammered into a very thin foil.
+The maximum number of electrons in the K shell is|8|2|18|32|1|The K shell holds at most 2 electrons.
+The maximum number of electrons in the L shell is|2|18|8|32|2|The L shell holds at most 8 electrons.
+Atoms of the same element with the same atomic number but different mass numbers are|isobars|ions|isomers|isotopes|3|They differ in the number of neutrons.
+The atomic number of carbon is|6|12|14|8|0|Carbon has 6 protons.
+Most alpha particles passed straight through the gold foil, showing that|the atom is solid|most of the atom is empty space|the nucleus is large|electrons repel alpha particles|1|Only a tiny part of the atom deflects particles.
+A few alpha particles were deflected through large angles, showing that|electrons are spread everywhere|the foil was too thin|the atom has a small, dense, positively charged nucleus|neutrons were present|2|Strong repulsion came from a concentrated positive charge.
+Very few alpha particles bounced straight back, showing that|the atom has no nucleus|electrons are heavy|the foil melted|the nucleus is very small and very dense|3|Only a head-on hit with the tiny nucleus reverses a particle.
+In Bohr's model electrons revolve in|fixed orbits called energy levels|any path|straight lines|the nucleus|0|Each orbit has a definite energy.
+An electron in a stationary orbit|continuously loses energy|does not radiate energy|gains mass|becomes positive|1|This is Bohr's postulate for stable atoms.
+How many neutrons are in sodium-23 (atomic number 11)?|11|23|12|34|2|23 − 11 = 12.
+The electronic configuration of oxygen (Z = 8) is|2, 8|8, 2|6, 2|2, 6|3|Two in K and six in L.
+The electronic configuration of chlorine (Z = 17) is|2, 8, 7|2, 7, 8|8, 8, 1|2, 8, 8|0|Shells fill K, then L, then M.
+The valency of an element with configuration 2, 8, 1 is|2|1|7|8|1|It loses one electron.
+The valency of an element with configuration 2, 8, 6 is|6|8|2|4|2|It gains two electrons to complete eight.
+Which pair are isotopes of hydrogen?|Hydrogen and helium|Carbon and oxygen|Sodium and chlorine|Protium and deuterium|3|Both have one proton but different neutrons.
+Isotopes of an element differ in the number of|neutrons|protons|electrons|atomic number|0|Protons are the same; neutrons differ.
+Isobars have the same|atomic number|mass number|number of protons|chemical properties|1|Different elements can have the same mass number.
+Calcium-40 and argon-40 are|isotopes|isomers|isobars|ions|2|Same mass number, different atomic numbers.
+The chemical properties of isotopes of an element are|different|opposite|unpredictable|the same|3|Chemical behaviour depends on electrons.
+Chlorine exists as Cl-35 and Cl-37. This explains why its atomic mass is|about 35.5|exactly 35|exactly 37|about 36.5|0|It is the weighted average of both isotopes.
+Electrons in the outermost shell are called|core electrons|valence electrons|nucleons|protons|1|They decide the valency of the atom.
+Which element has a completely filled outermost shell?|Sodium|Oxygen|Neon|Chlorine|2|Neon is 2, 8.
+Goldstein's canal rays led to the discovery of|neutrons|electrons|alpha particles|protons|3|Canal rays are positively charged.
+An atom has 17 protons and 18 neutrons. Its mass number is|35|17|18|1|0|17 + 18 = 35.
+An ion with 11 protons and 10 electrons has a charge of|−1|+1|0|+2|1|One proton is not balanced.
+An atom has 15 electrons and mass number 31. It has how many neutrons?|15|31|16|46|2|31 − 15 = 16.
+Which species has the same electronic configuration as neon?|Na|Cl|S|Na⁺|3|Na⁺ has 10 electrons, 2, 8.
+The electronic configuration of calcium (Z = 20) is|2, 8, 8, 2|2, 8, 10|2, 8, 2|2, 8, 18|0|The M shell holds 8 before N starts.
+Thomson's model failed because it|said electrons do not exist|could not explain the alpha scattering results|said atoms are neutral|gave protons no charge|1|Rutherford's experiment contradicted it.
+A limitation of Rutherford's model was that it|had no nucleus|made atoms charged|could not explain why electrons stay in orbit|ignored protons|2|Orbiting electrons should lose energy and spiral in.
+A sample is 75% Cl-35 and 25% Cl-37. The average atomic mass is|36|36.5|35.75|35.5|3|0.75 × 35 + 0.25 × 37 = 35.5.
+An isotope of cobalt is used in|cancer treatment|making glass|bleaching|water softening|0|Cobalt-60 is used in radiotherapy.
+An isotope of iodine is used in the treatment of|fever|goitre|fractures|cough|1|Iodine isotopes help treat thyroid disorders.
+Uranium-235 is used as|a food preservative|a dye|fuel in nuclear reactors|a catalyst for rusting|2|It undergoes fission to release energy.
+An atom has 12 electrons. Its valency is|12|10|4|2|3|Configuration 2, 8, 2 gives valency 2.
+An element has three shells with 7 electrons in the outer shell. Its atomic number is|17|7|18|35|0|2 + 8 + 7 = 17.
+The size of the nucleus compared with the size of the atom is roughly|1 : 10|1 : 100 000|1 : 2|1 : 100|1|Nucleus is about 10⁻¹⁵ m, atom about 10⁻¹⁰ m.

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Sound is produced when an object is|vibrating|at rest|heated|charged|0|Vibration of an object produces sound.
+Sound needs which of the following to travel?|A vacuum|A material medium|Light|A magnetic field|1|Sound is a mechanical wave and needs a medium.
+Sound cannot travel through|water|air|a vacuum|steel|2|There are no particles in a vacuum to carry the vibration.
+Sound waves in air are|transverse waves|electromagnetic waves|stationary waves|longitudinal waves|3|Air particles vibrate parallel to the direction of the wave.
+A region where air particles are pressed together is called a|compression|rarefaction|crest|trough|0|Compressions are regions of high pressure.
+A region where air particles are far apart is called a|compression|rarefaction|crest|node|1|Rarefactions are regions of low pressure.
+The SI unit of frequency is|metre|second|hertz|newton|2|1 Hz = 1 vibration per second.
+Time period is measured in|hertz|metres|watts|seconds|3|Time period is the time for one complete vibration.
+The SI unit of wavelength is|metre|hertz|second|decibel|0|Wavelength is a length.
+The loudness of a sound depends mainly on its|wavelength|amplitude|colour|speed of light|1|Larger amplitude gives a louder sound.
+The pitch of a sound depends on its|amplitude|colour|frequency|temperature only|2|Higher frequency gives a higher pitch.
+A high-pitched sound has|low frequency|zero frequency|no vibration|high frequency|3|Pitch rises with frequency.
+The reflection of sound that is heard separately is called|an echo|an eclipse|an image|a shadow|0|An echo is reflected sound heard after the original.
+Sound generally travels fastest in|liquids|solids|gases|a vacuum|1|Particles in solids are closest together.
+Which part of the body detects sound?|The eye|The nose|The ear|The skin only|2|The ear converts sound vibrations into nerve signals.
+Loudness is measured in|hertz|joules|metres|decibels|3|The unit of loudness level is the decibel (dB).
+Sound with frequency above 20 000 Hz is called|ultrasound|infrasound|audible sound|radio sound|0|Ultrasound is above the human hearing range.
+The normal hearing range of a young human is|2 Hz to 2000 Hz|20 Hz to 20 000 Hz|200 Hz to 200 000 Hz|0 Hz to 20 Hz|1|Audible range is 20 Hz to 20 kHz.
+The relation between frequency f and time period T is|f = T|f = T²|f = 1/T|f = 2T|2|Frequency is the reciprocal of the time period.
+The wave speed formula is|v = f + λ|v = f / λ|v = λ / f|v = f × λ|3|Speed equals frequency times wavelength.
+A source has frequency 50 Hz. Its time period is|0.02 s|0.5 s|50 s|2 s|0|T = 1/50 = 0.02 s.
+A wave has frequency 500 Hz and wavelength 0.68 m. Its speed is|680 m/s|340 m/s|170 m/s|3400 m/s|1|v = 500 × 0.68 = 340 m/s.
+The speed of sound in air at about 20 °C is roughly|3 × 10⁸ m/s|34 m/s|343 m/s|3400 m/s|2|Sound in air travels at about 343 m/s.
+The speed of sound in air increases when|temperature falls|loudness increases|pitch increases|temperature rises|3|Warmer air carries sound faster.
+For a distinct echo (speed 344 m/s, persistence 0.1 s) the minimum distance to the reflector is about|17 m|1.7 m|170 m|34 m|0|d = 344 × 0.1 / 2 ≈ 17 m.
+The persistence of hearing is about|1 s|0.1 s|0.01 s|10 s|1|Sounds within 0.1 s of each other blend together.
+SONAR uses|X-rays|radio waves|ultrasonic waves|visible light|2|SONAR sends ultrasound and times the echo.
+Which part of the ear vibrates when sound waves arrive?|The cochlea|The auditory nerve|The lens|The eardrum|3|The eardrum is a thin membrane that vibrates.
+Which of these is NOT a mechanical wave?|Light|Sound|A water wave|A wave on a string|0|Light is an electromagnetic wave and needs no medium.
+Amplitude is the|distance between two compressions|maximum displacement of a particle from its mean position|number of vibrations per second|time for one vibration|1|Amplitude measures how far particles move.
+The distance between two consecutive compressions is the|amplitude|time period|wavelength|frequency|2|This distance is one wavelength.
+Bats find their way in the dark using|infrasound|X-rays|microwaves|ultrasound|3|Bats emit ultrasound and listen to the echoes.
+Which change makes a sound louder?|Larger amplitude|Smaller amplitude|Lower frequency only|Longer wavelength only|0|Loudness increases with amplitude.
+In which medium is the speed of sound the least?|Water|Air|Iron|Steel|1|Gases transmit sound slowest.
+Infrasound has frequency|above 20 kHz|exactly 20 Hz|below 20 Hz|between 20 Hz and 20 kHz|2|Infrasound is below the audible range.
+Elephants communicate over long distances partly using|ultrasound|X-rays|very high notes|infrasound|3|Elephants produce infrasonic calls.
+A sound wave has frequency 256 Hz and speed 344 m/s. Its wavelength is about|1.34 m|0.74 m|88 064 m|13.4 m|0|λ = v / f = 344 / 256 ≈ 1.34 m.
+A boy hears an echo 2 s after shouting. Speed of sound is 340 m/s. The wall is|680 m away|340 m away|170 m away|1.7 m away|1|d = 340 × 2 / 2 = 340 m.
+A SONAR signal returns after 4 s in water (speed 1500 m/s). The depth is|6000 m|1500 m|3000 m|375 m|2|d = 1500 × 4 / 2 = 3000 m.
+A wave has time period 0.005 s and wavelength 1.7 m. Its speed is|3400 m/s|34 m/s|8.5 m/s|340 m/s|3|v = λ / T = 1.7 / 0.005 = 340 m/s.
+When sound passes from air into water, which quantity stays the same?|Frequency|Speed|Wavelength|None of them|0|Frequency is fixed by the source; speed and wavelength change.
+We see lightning before hearing thunder because|sound is faster than light|sound is much slower than light|lightning makes no sound|clouds absorb light|1|Light travels about a million times faster than sound in air.
+Two sounds are equally loud but differ in pitch. They differ mainly in|amplitude|speed in air|frequency|medium|2|Pitch is determined by frequency.
+Astronauts cannot talk directly on the Moon's surface because|the Moon is too cold|sound is too fast there|gravity is weak|there is no air to carry sound|3|No medium means no sound propagation.
+If the frequency of a source doubles in the same medium, the wavelength becomes|half|double|the same|four times|0|v is constant, so λ = v / f halves.
+Concert hall ceilings are often curved to|absorb all sound|spread sound evenly by reflection|increase the speed of sound|lower the frequency|1|Curved surfaces reflect sound toward the audience.
+Ultrasound is used for medical imaging because it|travels faster than light|is visible|reflects at boundaries between tissues|has no frequency|2|Echoes from tissue boundaries form an image.
+In a longitudinal wave, the particles of the medium vibrate|perpendicular to the wave|in circles only|not at all|parallel to the direction of the wave|3|This is why sound has compressions and rarefactions.
+A source makes 20 vibrations in 0.5 s. Its frequency is|40 Hz|10 Hz|20 Hz|0.025 Hz|0|f = 20 / 0.5 = 40 Hz.
+A wave of wavelength 0.5 m travels at 340 m/s. Its time period is about|680 s|0.0015 s|170 s|0.5 s|1|T = λ / v = 0.5 / 340 ≈ 0.0015 s.
