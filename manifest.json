@@ -1,11 +1,11 @@
 {
  "countries": {
   "BR": {
-   "bytes": 66934,
+   "bytes": 134467,
    "currentYear": "2026",
-   "files": 40,
+   "files": 80,
    "name": "Brazil",
-   "rev": "156860704f",
+   "rev": "2db5a50893",
    "year": "2026"
   },
   "CN": {
