@@ -105,6 +105,122 @@
    ]
   },
   {
+   "grade": 9,
+   "subject": "Science",
+   "topics": [
+    {
+     "title": "Breathing and respiration",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/breathing-and-respiration/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Acids and bases",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/acids-and-bases/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Magnets and electromagnets",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/magnets-and-electromagnets/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Plant nutrition and photosynthesis",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/plant-nutrition-and-photosynthesis/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Materials",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/materials/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Hidden forces",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/hidden-forces/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Adaptations, competition, natural selection and evolution",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/adaptations-competition-natural-selection-and-evolution/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Carbon cycle and climate change",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/carbon-cycle-and-climate-change/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Waves",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/waves/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Disease and drugs",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/disease-and-drugs/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Patterns in the periodic table",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/patterns-in-the-periodic-table/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Resistance and parallel circuits",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/resistance-and-parallel-circuits/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Reproduction in plants",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/reproduction-in-plants/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Climate change and biodiversity",
+     "url": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/climate-change-and-biodiversity/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04"
+    }
+   ]
+  },
+  {
    "grade": 10,
    "subject": "Mathematics",
    "topics": [
