@@ -221,6 +221,75 @@
    ]
   },
   {
+   "grade": 9,
+   "subject": "English",
+   "topics": [
+    {
+     "title": "Lord of the Flies",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/lord-of-the-flies/lessons",
+     "lessons": 24,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Women's rights across the ages: non-fiction reading and writing",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/womens-rights-across-the-ages-non-fiction-reading-and-writing/lessons",
+     "lessons": 25,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Malevolent characters: fiction writing",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/malevolent-characters-descriptive-and-narrative-writing/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Literary perspectives from the First World War",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/a-world-at-war-short-stories/lessons",
+     "lessons": 23,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Comparing poetry from the First World War",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/a-world-at-war-poetry/lessons",
+     "lessons": 11,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Creating and performing slam poetry",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/creating-and-performing-slam-poetry/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Small Island",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/small-island/lessons",
+     "lessons": 35,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Othello",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/othello/lessons",
+     "lessons": 25,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Simon Armitage: writing your world",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/simon-armitage-writing-your-world/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04"
+    }
+   ]
+  },
+  {
    "grade": 10,
    "subject": "Mathematics",
    "topics": [

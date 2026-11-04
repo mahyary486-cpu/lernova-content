@@ -4252,7 +4252,73 @@
               "title": "Atomic number, mass number, isotopes and isobars"
             }
           ]
-        },{"id": "in-c9-af", "title": "Atomic Foundations of Matter", "lessons": [{"id": "in-c9-af-01", "title": "Laws of chemical combination"}, {"id": "in-c9-af-02", "title": "Dalton's atomic theory, atoms and molecules"}, {"id": "in-c9-af-03", "title": "Atomic and molecular mass, ions and chemical formulae"}, {"id": "in-c9-af-04", "title": "The mole concept and Avogadro number"}]},{"id": "in-b9-ti", "title": "Tissues in Action", "lessons": [{"id": "in-b9-ti-01", "title": "Plant tissues: meristematic and permanent"}, {"id": "in-b9-ti-02", "title": "Complex plant tissues: xylem, phloem and protection"}, {"id": "in-b9-ti-03", "title": "Animal tissues: epithelial and connective"}, {"id": "in-b9-ti-04", "title": "Muscular and nervous tissue"}]},{"id": "in-b9-dc", "title": "Diversity and Classification", "lessons": [{"id": "in-b9-dc-01", "title": "Need for classification"}, {"id": "in-b9-dc-02", "title": "The five kingdoms"}, {"id": "in-b9-dc-03", "title": "Classification of plants and animals"}, {"id": "in-b9-dc-04", "title": "Binomial nomenclature and the hierarchy"}]}
+        },
+        {
+          "id": "in-c9-af",
+          "title": "Atomic Foundations of Matter",
+          "lessons": [
+            {
+              "id": "in-c9-af-01",
+              "title": "Laws of chemical combination"
+            },
+            {
+              "id": "in-c9-af-02",
+              "title": "Dalton's atomic theory, atoms and molecules"
+            },
+            {
+              "id": "in-c9-af-03",
+              "title": "Atomic and molecular mass, ions and chemical formulae"
+            },
+            {
+              "id": "in-c9-af-04",
+              "title": "The mole concept and Avogadro number"
+            }
+          ]
+        },
+        {
+          "id": "in-b9-ti",
+          "title": "Tissues in Action",
+          "lessons": [
+            {
+              "id": "in-b9-ti-01",
+              "title": "Plant tissues: meristematic and permanent"
+            },
+            {
+              "id": "in-b9-ti-02",
+              "title": "Complex plant tissues: xylem, phloem and protection"
+            },
+            {
+              "id": "in-b9-ti-03",
+              "title": "Animal tissues: epithelial and connective"
+            },
+            {
+              "id": "in-b9-ti-04",
+              "title": "Muscular and nervous tissue"
+            }
+          ]
+        },
+        {
+          "id": "in-b9-dc",
+          "title": "Diversity and Classification",
+          "lessons": [
+            {
+              "id": "in-b9-dc-01",
+              "title": "Need for classification"
+            },
+            {
+              "id": "in-b9-dc-02",
+              "title": "The five kingdoms"
+            },
+            {
+              "id": "in-b9-dc-03",
+              "title": "Classification of plants and animals"
+            },
+            {
+              "id": "in-b9-dc-04",
+              "title": "Binomial nomenclature and the hierarchy"
+            }
+          ]
+        }
       ]
     },
     {
@@ -5053,6 +5119,113 @@
               "id": "gb-s9-climate-change-and-biodiversity-l1",
               "title": "Climate change and biodiversity",
               "link": "https://www.thenational.academy/pupils/programmes/science-secondary-year-9/units/climate-change-and-biodiversity/lessons"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "country": "GB",
+      "subject": "English",
+      "linkOnly": true,
+      "chapters": [
+        {
+          "id": "gb-e9-lord-of-the-flies",
+          "title": "Lord of the Flies",
+          "lessons": [
+            {
+              "id": "gb-e9-lord-of-the-flies-l1",
+              "title": "Lord of the Flies",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/lord-of-the-flies/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-womens-rights-across-the-ages-non-fiction-reading-and-writing",
+          "title": "Women's rights across the ages: non-fiction reading and writing",
+          "lessons": [
+            {
+              "id": "gb-e9-womens-rights-across-the-ages-non-fiction-reading-and-writing-l1",
+              "title": "Women's rights across the ages: non-fiction reading and writing",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/womens-rights-across-the-ages-non-fiction-reading-and-writing/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-malevolent-characters-descriptive-and-narrative-writing",
+          "title": "Malevolent characters: fiction writing",
+          "lessons": [
+            {
+              "id": "gb-e9-malevolent-characters-descriptive-and-narrative-writing-l1",
+              "title": "Malevolent characters: fiction writing",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/malevolent-characters-descriptive-and-narrative-writing/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-a-world-at-war-short-stories",
+          "title": "Literary perspectives from the First World War",
+          "lessons": [
+            {
+              "id": "gb-e9-a-world-at-war-short-stories-l1",
+              "title": "Literary perspectives from the First World War",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/a-world-at-war-short-stories/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-a-world-at-war-poetry",
+          "title": "Comparing poetry from the First World War",
+          "lessons": [
+            {
+              "id": "gb-e9-a-world-at-war-poetry-l1",
+              "title": "Comparing poetry from the First World War",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/a-world-at-war-poetry/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-creating-and-performing-slam-poetry",
+          "title": "Creating and performing slam poetry",
+          "lessons": [
+            {
+              "id": "gb-e9-creating-and-performing-slam-poetry-l1",
+              "title": "Creating and performing slam poetry",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/creating-and-performing-slam-poetry/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-small-island",
+          "title": "Small Island",
+          "lessons": [
+            {
+              "id": "gb-e9-small-island-l1",
+              "title": "Small Island",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/small-island/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-othello",
+          "title": "Othello",
+          "lessons": [
+            {
+              "id": "gb-e9-othello-l1",
+              "title": "Othello",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/othello/lessons"
+            }
+          ]
+        },
+        {
+          "id": "gb-e9-simon-armitage-writing-your-world",
+          "title": "Simon Armitage: writing your world",
+          "lessons": [
+            {
+              "id": "gb-e9-simon-armitage-writing-your-world-l1",
+              "title": "Simon Armitage: writing your world",
+              "link": "https://www.thenational.academy/pupils/programmes/english-secondary-year-9/units/simon-armitage-writing-your-world/lessons"
             }
           ]
         }
