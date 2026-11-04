@@ -443,6 +443,493 @@
    ]
   },
   {
+   "grade": 10,
+   "subject": "Science",
+   "topics": [
+    {
+     "title": "Atomic structure and the periodic table",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/atomic-structure-and-the-periodic-table/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Eukaryotic and prokaryotic cells",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/eukaryotic-and-prokaryotic-cells/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Particle explanations of density and pressure",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/particle-explanations-of-density-and-pressure/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "DNA and the genome",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/dna-and-the-genome/lessons",
+     "lessons": 3,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Structure and bonding",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/structure-and-bonding/lessons",
+     "lessons": 11,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Health and disease",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/health-and-disease/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Measuring and calculating motion",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/measuring-and-calculating-motion/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "States of matter",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/states-of-matter/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Biological molecules and enzymes",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/biological-molecules-and-enzymes/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Transport and exchange surfaces in humans",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/transport-and-exchange-surfaces-in-humans/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Electric fields and circuit calculations",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/electric-fields-and-circuit-calculations/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Coordination and control: the human nervous system",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/coordination-and-control-the-human-nervous-system/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Separating substances",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/separating-substances/lessons",
+     "lessons": 15,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Coordination and control: hormones and the human endocrine system",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/coordination-and-control-hormones-and-the-human-endocrine-system/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Measuring waves",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/measuring-waves/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Photosynthesis: requirements and products",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/photosynthesis-requirements-and-products/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Calculations involving masses",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/calculations-involving-masses/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Inheritance, genotype and phenotype",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/inheritance-genotype-and-phenotype/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Energy of moving objects",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/energy-of-moving-objects/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Cell division: mitosis and meiosis",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/cell-division-mitosis-and-meiosis/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Making salts",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/making-salts/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Stem cells and differentiation",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/stem-cells-and-differentiation/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Energy of moving particles",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/energy-of-moving-particles/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Fossil evidence, selective breeding and explaining evolution",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/fossil-evidence-selective-breeding-and-explaining-evolution/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Chemistry of carbon",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/chemistry-of-carbon/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Living organisms and their environments",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/living-organisms-and-their-environments/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Circuit components",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/circuit-components/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Energy changes in reactions",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/energy-changes-in-reactions/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    }
+   ]
+  },
+  {
+   "grade": 10,
+   "subject": "Physics",
+   "topics": [
+    {
+     "title": "Particle explanations of density and pressure",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/particle-explanations-of-density-and-pressure/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Measuring and calculating motion",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/measuring-and-calculating-motion/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Electric fields and circuit calculations",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/electric-fields-and-circuit-calculations/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Measuring waves",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/measuring-waves/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Energy of moving objects",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/energy-of-moving-objects/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Energy of moving particles",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/energy-of-moving-particles/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Circuit components",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/circuit-components/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    }
+   ]
+  },
+  {
+   "grade": 10,
+   "subject": "Chemistry",
+   "topics": [
+    {
+     "title": "Atomic structure and the periodic table",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/atomic-structure-and-the-periodic-table/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Structure and bonding",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/structure-and-bonding/lessons",
+     "lessons": 11,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "States of matter",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/states-of-matter/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Separating substances",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/separating-substances/lessons",
+     "lessons": 15,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Calculations involving masses",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/calculations-involving-masses/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Making salts",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/making-salts/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Chemistry of carbon",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/chemistry-of-carbon/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Energy changes in reactions",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-10-higher-aqa/units/energy-changes-in-reactions/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    }
+   ]
+  },
+  {
+   "grade": 10,
+   "subject": "English",
+   "topics": [
+    {
+     "title": "Leave Taking: a sense of belonging",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/modern-text-first-study-198/lessons",
+     "lessons": 29,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "An Inspector Calls: power and responsibility",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/modern-text-first-study-4896/lessons",
+     "lessons": 16,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Animal Farm: the pigs and power",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/modern-text-first-study-5139/lessons",
+     "lessons": 26,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Macbeth: Lady Macbeth as a Machiavellian villain",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/macbeth-lady-macbeth-as-a-machiavellian-villain-4877/lessons",
+     "lessons": 26,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Romeo and Juliet: exploring the role of love and fate",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/macbeth-lady-macbeth-as-a-machiavellian-villain-4876/lessons",
+     "lessons": 16,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "A Christmas Carol: Scrooge's redemption",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/nineteenth-century-text-first-study-200/lessons",
+     "lessons": 26,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Jekyll & Hyde: duality and evil",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/nineteenth-century-text-first-study-154/lessons",
+     "lessons": 26,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Poetry: World and Lives",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/poetry-anthology-first-study-199/lessons",
+     "lessons": 32,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Poetry: Love and Relationships",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/poetry-anthology-first-study-201/lessons",
+     "lessons": 27,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Poetry: Power and Conflict",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/poetry-anthology-first-study-155/lessons",
+     "lessons": 33,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Non-fiction: crime and punishment",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/non-fiction-crime-and-punishment/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Fiction: read around the world",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/fiction-read-around-the-world/lessons",
+     "lessons": 17,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Spoken language: the language of change",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/spoken-language-the-language-of-change/lessons",
+     "lessons": 14,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Non-fiction: letter writing",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/non-fiction-letter-writing-v3731/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Fiction: science fiction writing",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/fiction-science-fiction-writing/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Non-fiction: changing views",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/non-fiction-changing-views/lessons",
+     "lessons": 18,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Fiction: ending stories",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-10-aqa/units/fiction-ending-stories/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04"
+    }
+   ]
+  },
+  {
    "grade": 11,
    "subject": "Mathematics",
    "topics": [
@@ -548,6 +1035,348 @@
      "title": "Transformations of graphs",
      "url": "https://www.thenational.academy/pupils/programmes/maths-secondary-year-11-higher/units/transformations-of-graphs/lessons",
      "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "grade": 11,
+   "subject": "Science",
+   "topics": [
+    {
+     "title": "Defences against pathogens, the human immune system and vaccination",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/defences-against-pathogens-the-human-immune-system-and-vaccination/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Rate of reaction",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/rate-of-reaction/lessons",
+     "lessons": 11,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Aerobic and anaerobic cellular respiration",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/aerobic-and-anaerobic-cellular-respiration/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Forces make things change",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/forces-make-things-change/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Maintaining biodiversity and human impacts",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/maintaining-biodiversity-and-human-impacts/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Using Earth's resources",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/using-earths-resources/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Transport and exchange surfaces in plants",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/transport-and-exchange-surfaces-in-plants/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Nuclear physics",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/nuclear-physics/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Hormones and human reproduction",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/hormones-and-human-reproduction/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Groups of the periodic table",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/groups-of-the-periodic-table/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Coordination and control: maintaining a constant internal environment",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/coordination-and-control-maintaining-a-constant-internal-environment/lessons",
+     "lessons": 3,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Electromagnetism",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/electromagnetism/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Photosynthesis: factors affecting the rate",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/photosynthesis-factors-affecting-the-rate/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Atmosphere and changing climate",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/atmosphere-and-changing-climate/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Medicines and new treatments for disease",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/medicines-and-new-treatments-for-disease/lessons",
+     "lessons": 2,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Electromagnetic waves",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/electromagnetic-waves/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Variation and natural selection at the genetic level",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/variation-and-natural-selection-at-the-genetic-level/lessons",
+     "lessons": 3,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Electrolysis",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/electrolysis/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Classification in modern biology",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/classification-in-modern-biology/lessons",
+     "lessons": 4,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Mains electricity",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/mains-electricity/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Gene technology",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/gene-technology/lessons",
+     "lessons": 3,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Biology"
+    },
+    {
+     "title": "Industrial chemistry",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/industrial-chemistry/lessons",
+     "lessons": 3,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    }
+   ]
+  },
+  {
+   "grade": 11,
+   "subject": "Physics",
+   "topics": [
+    {
+     "title": "Forces make things change",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/forces-make-things-change/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Nuclear physics",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/nuclear-physics/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Electromagnetism",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/electromagnetism/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Electromagnetic waves",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/electromagnetic-waves/lessons",
+     "lessons": 7,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    },
+    {
+     "title": "Mains electricity",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/mains-electricity/lessons",
+     "lessons": 6,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Physics"
+    }
+   ]
+  },
+  {
+   "grade": 11,
+   "subject": "Chemistry",
+   "topics": [
+    {
+     "title": "Rate of reaction",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/rate-of-reaction/lessons",
+     "lessons": 11,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Using Earth's resources",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/using-earths-resources/lessons",
+     "lessons": 9,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Groups of the periodic table",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/groups-of-the-periodic-table/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Atmosphere and changing climate",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/atmosphere-and-changing-climate/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Electrolysis",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/electrolysis/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    },
+    {
+     "title": "Industrial chemistry",
+     "url": "https://www.thenational.academy/pupils/programmes/combined-science-secondary-year-11-higher-aqa/units/industrial-chemistry/lessons",
+     "lessons": 3,
+     "status": "OK",
+     "checked": "2026-11-04",
+     "category": "Chemistry"
+    }
+   ]
+  },
+  {
+   "grade": 11,
+   "subject": "English",
+   "topics": [
+    {
+     "title": "Spoken language masters: refining public speaking skills",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/spoken-language-masters-refining-public-speaking-skills/lessons",
+     "lessons": 5,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Fiction: books that changed my world",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/fiction-books-that-changed-my-world/lessons",
+     "lessons": 14,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Non-fiction: teenage kicks",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/non-fiction-teenage-kicks/lessons",
+     "lessons": 18,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Fiction: inner musings",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/fiction-inner-musings/lessons",
+     "lessons": 12,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Non-fiction: explorers",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/non-fiction-explorers/lessons",
+     "lessons": 8,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Writing masters",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/writing-masters/lessons",
+     "lessons": 10,
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Leave Taking: the power of education",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/modern-text-first-deep-dive-188/lessons",
+     "status": "OK",
+     "checked": "2026-11-04"
+    },
+    {
+     "title": "Poetry anthology: continued study",
+     "url": "https://www.thenational.academy/pupils/programmes/english-secondary-year-11-aqa/units/poetry-anthology-continued-study-172/lessons",
      "status": "OK",
      "checked": "2026-11-04"
     }
