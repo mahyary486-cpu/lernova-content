@@ -1381,6 +1381,145 @@
      "checked": "2026-11-04"
     }
    ]
+  },
+  {
+   "grade": 12,
+   "subject": "Mathematics",
+   "topics": [
+    {
+     "title": "Proof",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Algebra and functions",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Coordinate geometry in the (x, y) plane",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Sequences and series",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Trigonometry",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Exponentials and logarithms",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Differentiation",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Integration",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Numerical methods",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Vectors",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Statistical sampling",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Data presentation and interpretation",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Probability",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Statistical distributions",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Statistical hypothesis testing",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Quantities and units in mechanics",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Kinematics",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Forces and Newton's laws",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    },
+    {
+     "title": "Moments",
+     "url": "https://www.physicsandmathstutor.com/maths-revision/",
+     "status": "OK",
+     "checked": "2026-11-04",
+     "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+    }
+   ]
   }
  ]
 }

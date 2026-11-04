@@ -8,8 +8,8 @@ def rd(p):
     with open(os.path.join(ROOT, p), encoding="utf-8") as f: return json.load(f)
 def wr(p, d, **kw):
     with open(os.path.join(ROOT, p), "w", encoding="utf-8") as f: json.dump(d, f, ensure_ascii=False, **kw); f.write("\n")
-def slug(url):
-    s = url.split("/units/")[-1].split("/")[0].lower()
+def slug(url, title=""):
+    s = (url.split("/units/")[-1].split("/")[0] if "/units/" in url else title).lower()
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
 index = rd("index.json"); years = rd("school_years.json"); years_changed = False
 for f in sorted(glob.glob(os.path.join(ROOT, "links", "*.json"))):
@@ -25,8 +25,8 @@ for f in sorted(glob.glob(os.path.join(ROOT, "links", "*.json"))):
         pre = "%s-%s%d" % (cc.lower(), g["subject"][0].lower(), g["grade"])
         chapters = []
         for t in topics:
-            cid = pre + "-" + slug(t["url"])
-            chapters.append({"id": cid, "title": t["title"], "lessons": [{"id": cid + "-l1", "title": t["title"], "link": t["url"]}]})
+            cid = pre + "-" + slug(t["url"], t["title"])
+            chapters.append({"id": cid, "title": t["title"], "lessons": [dict({"id": cid + "-l1", "title": t["title"], "link": t["url"]}, **({"source": t["source"]} if t.get("source") else {}))]})
         index["grades"].append({"grade": g["grade"], "country": cc, "subject": g["subject"], "linkOnly": True, "chapters": chapters})
         print("added:", cc, g["grade"], g["subject"], len(chapters), "topics")
     if cc not in years:

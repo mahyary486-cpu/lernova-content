@@ -6817,6 +6817,242 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 12,
+      "country": "GB",
+      "subject": "Mathematics",
+      "linkOnly": true,
+      "chapters": [
+        {
+          "id": "gb-m12-proof",
+          "title": "Proof",
+          "lessons": [
+            {
+              "id": "gb-m12-proof-l1",
+              "title": "Proof",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-algebra-and-functions",
+          "title": "Algebra and functions",
+          "lessons": [
+            {
+              "id": "gb-m12-algebra-and-functions-l1",
+              "title": "Algebra and functions",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-coordinate-geometry-in-the-x-y-plane",
+          "title": "Coordinate geometry in the (x, y) plane",
+          "lessons": [
+            {
+              "id": "gb-m12-coordinate-geometry-in-the-x-y-plane-l1",
+              "title": "Coordinate geometry in the (x, y) plane",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-sequences-and-series",
+          "title": "Sequences and series",
+          "lessons": [
+            {
+              "id": "gb-m12-sequences-and-series-l1",
+              "title": "Sequences and series",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-trigonometry",
+          "title": "Trigonometry",
+          "lessons": [
+            {
+              "id": "gb-m12-trigonometry-l1",
+              "title": "Trigonometry",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-exponentials-and-logarithms",
+          "title": "Exponentials and logarithms",
+          "lessons": [
+            {
+              "id": "gb-m12-exponentials-and-logarithms-l1",
+              "title": "Exponentials and logarithms",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-differentiation",
+          "title": "Differentiation",
+          "lessons": [
+            {
+              "id": "gb-m12-differentiation-l1",
+              "title": "Differentiation",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-integration",
+          "title": "Integration",
+          "lessons": [
+            {
+              "id": "gb-m12-integration-l1",
+              "title": "Integration",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-numerical-methods",
+          "title": "Numerical methods",
+          "lessons": [
+            {
+              "id": "gb-m12-numerical-methods-l1",
+              "title": "Numerical methods",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-vectors",
+          "title": "Vectors",
+          "lessons": [
+            {
+              "id": "gb-m12-vectors-l1",
+              "title": "Vectors",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-statistical-sampling",
+          "title": "Statistical sampling",
+          "lessons": [
+            {
+              "id": "gb-m12-statistical-sampling-l1",
+              "title": "Statistical sampling",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-data-presentation-and-interpretation",
+          "title": "Data presentation and interpretation",
+          "lessons": [
+            {
+              "id": "gb-m12-data-presentation-and-interpretation-l1",
+              "title": "Data presentation and interpretation",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-probability",
+          "title": "Probability",
+          "lessons": [
+            {
+              "id": "gb-m12-probability-l1",
+              "title": "Probability",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-statistical-distributions",
+          "title": "Statistical distributions",
+          "lessons": [
+            {
+              "id": "gb-m12-statistical-distributions-l1",
+              "title": "Statistical distributions",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-statistical-hypothesis-testing",
+          "title": "Statistical hypothesis testing",
+          "lessons": [
+            {
+              "id": "gb-m12-statistical-hypothesis-testing-l1",
+              "title": "Statistical hypothesis testing",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-quantities-and-units-in-mechanics",
+          "title": "Quantities and units in mechanics",
+          "lessons": [
+            {
+              "id": "gb-m12-quantities-and-units-in-mechanics-l1",
+              "title": "Quantities and units in mechanics",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-kinematics",
+          "title": "Kinematics",
+          "lessons": [
+            {
+              "id": "gb-m12-kinematics-l1",
+              "title": "Kinematics",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-forces-and-newton-s-laws",
+          "title": "Forces and Newton's laws",
+          "lessons": [
+            {
+              "id": "gb-m12-forces-and-newton-s-laws-l1",
+              "title": "Forces and Newton's laws",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        },
+        {
+          "id": "gb-m12-moments",
+          "title": "Moments",
+          "lessons": [
+            {
+              "id": "gb-m12-moments-l1",
+              "title": "Moments",
+              "link": "https://www.physicsandmathstutor.com/maths-revision/",
+              "source": "Topics: DfE, AS and A level mathematics content (Open Government Licence v3.0). Resources: PhysicsAndMathsTutor.com (free)."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
