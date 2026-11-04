@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Who proposed the atomic theory of matter?|John Dalton|Rutherford|Thomson|Lavoisier|0|Dalton proposed that matter is made of atoms.
+The law of conservation of mass was given by|Dalton|Lavoisier|Proust|Avogadro|1|Lavoisier studied mass changes in reactions.
+The law of constant proportions was given by|Lavoisier|Dalton|Proust|Bohr|2|Proust studied the composition of compounds.
+According to the law of conservation of mass, in a chemical reaction mass is|always created|always destroyed|doubled|neither created nor destroyed|3|Total mass of reactants equals total mass of products.
+The smallest particle of an element that can take part in a chemical reaction is|an atom|a molecule|an ion|a compound|0|Atoms are the building units of elements.
+A molecule of oxygen gas contains|one atom|two atoms|three atoms|four atoms|1|Oxygen gas is O₂.
+The symbol of sodium is|S|So|Na|N|2|The symbol comes from the Latin natrium.
+The symbol of potassium is|P|Po|Pt|K|3|The symbol comes from the Latin kalium.
+The symbol of iron is|Fe|I|Ir|F|0|The symbol comes from the Latin ferrum.
+The formula of water is|HO₂|H₂O|H₂O₂|OH|1|Two hydrogen atoms bond with one oxygen atom.
+The formula of carbon dioxide is|C₂O|CO|CO₂|C₂O₂|2|One carbon atom and two oxygen atoms.
+The atomic mass unit (u) is 1/12 of the mass of one atom of|hydrogen|oxygen|uranium|carbon-12|3|Carbon-12 is the standard.
+A positively charged ion is called a|cation|anion|molecule|neutron|0|Cations form by losing electrons.
+A negatively charged ion is called an|cation|anion|isotope|isobar|1|Anions form by gaining electrons.
+The approximate value of the Avogadro number is|6.022 × 10²⁰|3 × 10⁸|6.022 × 10²³|9.8|2|It is the number of particles in one mole.
+The SI unit of amount of substance is the|gram|litre|newton|mole|3|One mole contains 6.022 × 10²³ particles.
+Atoms of different elements differ in|mass and chemical properties|nothing|colour only|temperature only|0|Each element has its own kind of atom.
+According to Dalton, atoms cannot be|seen|created or destroyed in a chemical reaction|combined|heated|1|This postulate explains conservation of mass.
+In water, the ratio by mass of hydrogen to oxygen is|1 : 1|2 : 1|1 : 8|8 : 1|2|2 g of H combines with 16 g of O.
+If 2 g of hydrogen forms 18 g of water, the oxygen used is|2 g|18 g|8 g|16 g|3|18 − 2 = 16 g.
+Which Dalton postulate explains the law of constant proportions?|The relative numbers and kinds of atoms in a compound are constant|Atoms are very small|Atoms of an element are identical|Matter is made of atoms|0|Fixed atom ratios give fixed mass ratios.
+The atomic mass of carbon is|6 u|12 u|14 u|1 u|1|Carbon-12 is the reference.
+The molecular mass of H₂O (H = 1, O = 16) is|17 u|16 u|18 u|20 u|2|2 × 1 + 16 = 18.
+The molecular mass of CO₂ (C = 12, O = 16) is|28 u|32 u|40 u|44 u|3|12 + 2 × 16 = 44.
+The formula unit mass of NaCl (Na = 23, Cl = 35.5) is|58.5 u|58 u|23 u|35.5 u|0|23 + 35.5 = 58.5.
+The formula of sodium chloride is|Na₂Cl|NaCl|NaCl₂|Na₂Cl₂|1|Na⁺ and Cl⁻ combine 1 : 1.
+The formula of calcium chloride is|Ca₂Cl|CaCl|CaCl₂|Ca₂Cl₂|2|Ca²⁺ needs two Cl⁻.
+The formula of aluminium oxide is|AlO|Al₃O₂|Al₂O|Al₂O₃|3|Al³⁺ and O²⁻ cross over.
+The formula of magnesium oxide is|MgO|Mg₂O|MgO₂|Mg₂O₂|0|Mg²⁺ and O²⁻ balance 1 : 1.
+The number of moles in 36 g of water (M = 18 g/mol) is|1|2|18|0.5|1|36 / 18 = 2.
+The mass of 1 mole of carbon atoms is|6 g|1 g|12 g|44 g|2|Molar mass equals atomic mass in grams.
+How many molecules are in 2 moles of oxygen gas?|6.022 × 10²³|3.011 × 10²³|6.022 × 10²⁴|1.2044 × 10²⁴|3|2 × 6.022 × 10²³.
+The molar mass of O₂ (O = 16) is|32 g/mol|16 g/mol|8 g/mol|64 g/mol|0|2 × 16 = 32.
+Which of these is a polyatomic ion?|Na⁺|Sulphate (SO₄²⁻)|Cl⁻|Mg²⁺|1|It contains several atoms with a net charge.
+The valency of magnesium is|1|3|2|0|2|Mg loses two electrons.
+The valency of aluminium is|1|2|4|3|3|Al loses three electrons.
+The mass of 0.5 mole of CO₂ (44 g/mol) is|22 g|44 g|11 g|88 g|0|0.5 × 44 = 22.
+How many moles are in 11 g of CO₂?|0.5|0.25|2|4|1|11 / 44 = 0.25.
+How many hydrogen atoms are in 0.5 mole of H₂ molecules?|3.011 × 10²³|1.2044 × 10²⁴|6.022 × 10²³|1|2|0.5 mol H₂ is 1 mol of atoms.
+What is the mass of 3.011 × 10²³ molecules of water?|18 g|4.5 g|36 g|9 g|3|That is 0.5 mole, so 0.5 × 18 = 9 g.
+The percentage of hydrogen in water by mass (H = 1, O = 16) is about|11.1%|88.9%|50%|5.5%|0|2 / 18 × 100 = 11.1.
+Which is the correct formula of ammonium sulphate?|NH₄SO₄|(NH₄)₂SO₄|(NH₄)SO₄₂|NH₄₂SO₄|1|Two NH₄⁺ balance one SO₄²⁻.
+The formula of calcium carbonate is|Ca₂CO₃|CaCO|CaCO₃|Ca(CO₃)₂|2|Ca²⁺ and CO₃²⁻ combine 1 : 1.
+5.3 g sodium carbonate reacts with 6 g ethanoic acid giving 2.2 g CO₂, 0.9 g water and sodium ethanoate. The sodium ethanoate mass is|11.3 g|3.1 g|5.3 g|8.2 g|3|Reactants 11.3 g minus 3.1 g other products.
+12 g of carbon burns completely in 32 g of oxygen. The mass of CO₂ formed is|44 g|12 g|32 g|20 g|0|Mass is conserved: 12 + 32 = 44.
+How many moles are in 4 g of NaOH (40 g/mol)?|0.4|0.1|10|1|1|4 / 40 = 0.1.
+How many molecules are in 4.4 g of CO₂?|6.022 × 10²³|6.022 × 10²¹|6.022 × 10²²|6.022 × 10²⁴|2|4.4 / 44 = 0.1 mol.
+Two water samples from different sources have a hydrogen to oxygen mass ratio of|different values|2 : 1|depends on the source|1 : 8 in both|3|Constant proportions hold for any pure sample.
+The total number of atoms in one molecule of H₂SO₄ is|7|6|4|3|0|2 + 1 + 4 = 7.
+The molar mass of CaCO₃ (Ca = 40, C = 12, O = 16) is|84 g/mol|100 g/mol|68 g/mol|56 g/mol|1|40 + 12 + 48 = 100.

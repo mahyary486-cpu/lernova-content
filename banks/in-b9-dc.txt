@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The science of classifying organisms is|taxonomy|ecology|genetics|anatomy|0|Taxonomy groups living things.
+The five-kingdom classification was proposed by|Linnaeus|R. H. Whittaker|Darwin|Mendel|1|Whittaker proposed it in 1969.
+Linnaeus is known for|cell theory|evolution|binomial nomenclature|DNA structure|2|He gave two-part scientific names.
+Which kingdom has prokaryotes?|Protista|Fungi|Plantae|Monera|3|Bacteria are in Monera.
+Amoeba belongs to|Protista|Monera|Fungi|Plantae|0|Amoeba is a unicellular eukaryote.
+Mushrooms belong to|Plantae|Fungi|Protista|Monera|1|Mushrooms are fungi.
+Organisms that make their own food are|heterotrophs|parasites|autotrophs|decomposers|2|Plants make food by photosynthesis.
+Moss belongs to|Pteridophyta|Gymnosperms|Angiosperms|Bryophyta|3|Bryophytes lack vascular tissue.
+Plants with naked seeds are|gymnosperms|angiosperms|bryophytes|pteridophytes|0|Their seeds are not enclosed in fruits.
+Plants with flowers and covered seeds are|gymnosperms|angiosperms|ferns|algae|1|Seeds develop inside fruits.
+Animals with a backbone are|invertebrates|protozoa|vertebrates|poriferans|2|The backbone is part of the vertebral column.
+Birds belong to class|Mammalia|Reptilia|Pisces|Aves|3|Birds have feathers and wings.
+Animals that have hair and feed their young with milk are|mammals|reptiles|birds|amphibians|0|Mammary glands produce milk.
+The scientific name of humans is|Panthera leo|Homo sapiens|Mangifera indica|Felis catus|1|Genus Homo, species sapiens.
+Scientific names are written in|Hindi|English only|Latin form|Greek only|2|Latin gives a universal form.
+The highest level in the classification hierarchy is the|species|genus|family|kingdom|3|Kingdom is the largest group.
+The basic unit of classification is the|species|genus|order|class|0|A species can interbreed.
+Which is the correct order of the hierarchy, largest to smallest?|Kingdom, Class, Phylum, Order, Family, Genus, Species|Kingdom, Phylum, Class, Order, Family, Genus, Species|Kingdom, Phylum, Order, Class, Family, Genus, Species|Species, Genus, Family, Order, Class, Phylum, Kingdom|1|Remember KPCOFGS.
+In a binomial name the first word is the|species, written in small letters|family|genus, written with a capital letter|class|2|Example: Homo sapiens.
+The species word in a binomial name begins with|a capital letter|a number|any letter|a small letter|3|Only the genus is capitalised.
+Mangifera indica is the scientific name of|mango|neem|banyan|rice|0|It is the common mango.
+Thallophytes are mostly|ferns|algae|mosses|conifers|1|They have no differentiated body parts.
+Plants with vascular tissue but no seeds are|bryophytes|gymnosperms|pteridophytes|angiosperms|2|Ferns are examples.
+Monocot seeds have|two cotyledons|no cotyledon|three cotyledons|one cotyledon|3|Mono means one.
+Dicot seeds have|two cotyledons|one cotyledon|no cotyledon|four cotyledons|0|Di means two.
+Wheat is a|dicot|monocot|gymnosperm|fern|1|Wheat seeds have one cotyledon.
+Pea is a|monocot|moss|dicot|alga|2|Pea seeds have two cotyledons.
+Animals with jointed legs belong to phylum|Annelida|Mollusca|Porifera|Arthropoda|3|Insects and spiders are arthropods.
+Sponges belong to phylum|Porifera|Cnidaria|Echinodermata|Nematoda|0|Porifera means pore-bearers.
+Earthworms with segmented bodies belong to|Platyhelminthes|Annelida|Nematoda|Mollusca|1|Annelids have ring-like segments.
+Snails and octopuses belong to|Arthropoda|Annelida|Mollusca|Echinodermata|2|Molluscs have soft bodies.
+Starfish belong to|Mollusca|Cnidaria|Porifera|Echinodermata|3|They have spiny skins.
+Frogs are|amphibians|reptiles|fishes|mammals|0|They live on land and in water.
+Vertebrates with dry scaly skin that lay eggs on land are|mammals|reptiles|birds|amphibians|1|Snakes and lizards are reptiles.
+Bacteria are made of|eukaryotic multicellular tissue|no cells|prokaryotic cells|cells with a nucleus|2|They lack a true nucleus.
+The cell wall of fungi is made of|cellulose|peptidoglycan|lignin|chitin|3|Plant cell walls are cellulose.
+Which pair is correctly matched?|Fungi: heterotrophs with chitin cell walls|Monera: eukaryotes|Plantae: no cell wall|Protista: prokaryotes|0|The other pairs are wrong.
+Which kingdom has unicellular eukaryotes?|Monera|Protista|Fungi|Plantae|1|Amoeba and Paramecium belong here.
+Dog and wolf belong to the same genus Canis, so they are|unrelated|in different kingdoms|closely related|in different families|2|A shared genus means close relationship.
+Which taxon contains the largest number of organisms?|Genus|Species|Family|Kingdom|3|Higher groups include more organisms.
+Which group has the most characters in common?|Species|Kingdom|Phylum|Class|0|Lower groups share more characters.
+Lichens are an association of|bacteria and viruses|algae and fungi|moss and fern|alga and moss|1|The partners help each other.
+Euglena shows|only plant features|only animal features|both plant-like and animal-like features|no cell structure|2|It has chlorophyll and a flagellum.
+Binomial nomenclature is useful because it|uses local names|differs in every country|avoids classification|gives each organism a unique, universal name|3|Scientists everywhere use the same name.
+Bats are mammals because they|have mammary glands and give birth to young|can fly|have wings like birds|are nocturnal|0|Flying does not decide the class.
+Whales are|fish|mammals|reptiles|amphibians|1|They breathe air and feed milk.
+Which of these is NOT a vertebrate?|Frog|Eagle|Earthworm|Snake|2|Earthworms lack a backbone.
+Bryophytes are called the amphibians of the plant kingdom because they|live only in water|have gills|lay eggs|need water for reproduction|3|Sperm swim through water.
+A gymnosperm example is|pine|mango|wheat|fern|0|Pine seeds are naked.
+A feature common to all chordates is|jointed legs|a notochord at some stage|a segmented body with bristles|pores in the body|1|The notochord supports the body.

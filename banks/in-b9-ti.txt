@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A group of similar cells performing a specific function is a|tissue|organ|organelle|organism|0|Cells with the same function form a tissue.
+Plant tissue made of actively dividing cells is|permanent tissue|meristematic tissue|epithelial tissue|muscular tissue|1|Meristems are the growing regions.
+Growth in the length of a plant is due to the|lateral meristem|xylem|apical meristem|phloem|2|Apical meristem is at root and shoot tips.
+Which plant tissue transports water?|Phloem|Parenchyma|Collenchyma|Xylem|3|Xylem carries water and minerals upward.
+Which plant tissue transports food?|Phloem|Xylem|Sclerenchyma|Epidermis|0|Phloem carries prepared food.
+Epithelial tissue|forms only bones|covers and lines body surfaces and organs|forms only muscles|carries only impulses|1|It is a protective covering tissue.
+Blood is a type of|epithelial tissue|muscular tissue|connective tissue|nervous tissue|2|Blood has cells in a fluid matrix.
+The tissue that connects muscle to bone is a|ligament|cartilage|nerve|tendon|3|Tendons are strong fibrous cords.
+Ligaments connect|bone to bone|muscle to bone|nerve to muscle|skin to muscle|0|Ligaments hold joints together.
+The functional unit of nervous tissue is the|nephron|neuron|alveolus|osteocyte|1|Neurons carry impulses.
+Muscles that we can move at will are|involuntary muscles|cardiac muscles|voluntary muscles|smooth muscles|2|Skeletal muscles are voluntary.
+The muscle of the heart is|skeletal muscle|smooth muscle|voluntary muscle|cardiac muscle|3|Cardiac muscle works without rest.
+Fat is stored in|adipose tissue|nervous tissue|xylem|epithelial tissue|0|Adipose tissue is a connective tissue.
+Which plant tissue gives hardness and strength, as in the coconut husk?|Parenchyma|Sclerenchyma|Meristem|Phloem|1|Its walls are thick with lignin.
+Parenchyma containing chloroplasts is called|aerenchyma|collenchyma|chlorenchyma|sclerenchyma|2|It carries out photosynthesis.
+Cartilage is found in|the blood|leaves|hair|the nose and ear|3|It is a flexible connective tissue.
+Bone is a|connective tissue|epithelial tissue|nervous tissue|meristem|0|Bone has a hard matrix.
+Walls thickened with lignin are found in|parenchyma|sclerenchyma|collenchyma|epidermis|1|Lignin makes cells rigid.
+Collenchyma provides|only storage|only photosynthesis|flexibility with support|only water transport|2|Its walls are unevenly thickened.
+Stomata are surrounded by|companion cells|sieve tubes|vessels|guard cells|3|Guard cells open and close stomata.
+Companion cells are associated with|sieve tubes|vessels|tracheids|fibres|0|They help sieve tubes in phloem.
+Water-conducting elements of xylem are tracheids and|sieve tubes|vessels|companion cells|phloem parenchyma|1|Both form tubes for water.
+The protective cork of old stems is made of|living green cells|dividing cells|dead cells with suberin|phloem cells|2|Suberin makes cork waterproof.
+Lateral meristem causes|an increase in length|leaf fall|flowering|an increase in girth|3|It makes stems and roots thicker.
+Simple squamous epithelium is found in|the lining of blood vessels and alveoli|the lining of the intestine|the outer skin|the lining of kidney tubules|0|Its cells are thin and flat.
+Columnar epithelium is found in|alveoli|the lining of the intestine|blood vessels|the skin surface|1|Tall cells help absorption and secretion.
+Ciliated columnar epithelium helps move|blood|food in the intestine|mucus in the respiratory tract|urine|2|Cilia sweep mucus along.
+Stratified squamous epithelium|carries impulses|stores fat|contracts|protects the skin from wear and tear|3|Many layers resist abrasion.
+Which blood cells carry oxygen?|Red blood cells|White blood cells|Platelets|Plasma|0|They contain haemoglobin.
+Platelets help in|oxygen transport|blood clotting|immunity|digestion|1|They seal wounds.
+Smooth muscles are|voluntary and striated|involuntary and striated|involuntary and unstriated|voluntary and unstriated|2|They line the gut and blood vessels.
+Cardiac muscle is|voluntary and striated|involuntary and unstriated|voluntary and unstriated|involuntary and striated|3|It is found only in the heart.
+Skeletal muscles are attached to|bones|only skin|the intestines|the heart|0|They move the skeleton.
+A neuron has|a root, stem and leaf|dendrites, a cell body and an axon|cilia and flagella|a head, neck and tail|1|These parts receive and pass impulses.
+A nerve impulse travels along the|vessel|tendon|axon|ligament|2|The axon carries impulses away from the cell body.
+Areolar tissue|stores fat only|carries impulses|forms hard bones|fills spaces inside organs and supports them|3|It is a loose connective tissue.
+A tissue has thin-walled cells, large vacuoles and intercellular spaces. It is|parenchyma|sclerenchyma|xylem|collenchyma|0|These are features of parenchyma.
+Food moves through phloem by translocation, which needs|only gravity|energy from ATP|only transpiration|no energy|1|Loading sugar into phloem uses energy.
+Roots grow longer because of the|lateral meristem|cork cambium|apical meristem at the root tip|xylem|2|The tip has dividing cells.
+Multicellular organisms have tissues because|every cell does everything|it saves sunlight|tissues have no cells|groups of cells specialise for functions|3|This is division of labour.
+Tendons are|fibrous, strong and with limited stretch|elastic and very stretchy|liquid|soft and fatty|0|They transmit muscle force.
+Desert plants have a thick waxy epidermis to|increase photosynthesis|reduce water loss|attract insects|absorb water|1|Wax cuts transpiration.
+If a ring of bark containing phloem is removed from a tree, the roots eventually starve because|water cannot go up|light cannot enter|food cannot travel down|roots cannot absorb|2|Phloem carries food down.
+Which connective tissue has a fluid matrix?|Bone|Cartilage|Tendon|Blood|3|Plasma is the fluid matrix.
+The matrix of bone is hard because of|calcium and phosphorus salts|chlorophyll|lignin|keratin only|0|Mineral salts make bone rigid.
+The axon of a neuron is long so that|it stores fat|impulses travel long distances|it carries blood|it makes proteins|1|Long axons connect distant parts.
+Which is NOT a function of epithelial tissue?|Protection|Secretion|Contraction to move limbs|Absorption|2|Contraction is the role of muscle.
+Transpiration pull works because xylem vessels form|closed chambers|solid rods|sieve plates|continuous tubes|3|Continuous columns of water can be pulled up.
+Cartilage cells lie in|a flexible matrix|bone marrow|blood plasma|xylem|0|The matrix is firm but flexible.
+A tissue with long, cylindrical, multinucleate, unbranched, striated cells is|cardiac muscle|skeletal muscle|smooth muscle|nervous tissue|1|These are skeletal muscle features.
