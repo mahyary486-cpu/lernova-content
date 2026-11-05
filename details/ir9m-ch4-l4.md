@@ -1,58 +1,58 @@
-# Roots of higher order
+# ریشه‌های مرتبه‌ی بالاتر
 
-The n-th root of a number is the number which, when multiplied by itself n times, gives the original number.
+ریشه‌ی n‌ام یک عدد، عددی است که n بار در خودش ضرب شود و عدد اصلی را بدهد.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- The cube root of a is the number whose cube equals a. We write it as ∛a. For example, ∛27 = 3 because 3^3 = 27.
-- The fourth root is written ∜a, and in general the n-th root of a is written with the radical sign and a small number n (the index) above it.
-- Odd roots (cube root, fifth root, and so on) exist for every real number, positive or negative. For example, ∛(−8) = −2 because (−2)^3 = −8. There is exactly one odd root.
-- Even roots (square root, fourth root, and so on) exist only for numbers that are zero or positive, and by definition they are zero or positive. For example, ∜81 = 3. The number ∜(−16) does not exist among the real numbers.
-- Roots and powers undo each other: ∛(x^3) = x for any x, and (∛x)^3 = x.
-- Product rule: ∛(a × b) = ∛a × ∛b. Quotient rule: ∛(a / b) = ∛a / ∛b (b ≠ 0). The same rules hold for other roots.
-- To simplify a cube root, take out the largest perfect cube factor (1, 8, 27, 64, 125, ...).
-- Roots can be written as fractional exponents: the n-th root of a equals a^(1/n). So 8^(1/3) = 2. Also a^(m/n) = (a^(1/n))^m, so 16^(3/4) = (16^(1/4))^3 = 2^3 = 8.
-- Roots with the same index and the same radical part can be added or subtracted.
+- ریشه‌ی سوم a عددی است که مکعبش برابر a باشد. آن را به صورت ∛a می‌نویسیم. برای نمونه ∛۲۷ = ۳ چون ۳^۳ = ۲۷.
+- ریشه‌ی چهارم را با ∜a نشان می‌دهیم و در حالت کلی ریشه‌ی n‌ام a با علامت رادیکال و عدد کوچک n (فرجه) بالای آن نوشته می‌شود.
+- ریشه‌های فرد (ریشه‌ی سوم، پنجم و مانند آن) برای هر عدد حقیقی، مثبت یا منفی، وجود دارند. برای نمونه ∛(-۸) = -۲ چون (-۲)^۳ = -۸. ریشه‌ی فرد دقیقاً یکی است.
+- ریشه‌های زوج (جذر، ریشه‌ی چهارم و مانند آن) فقط برای عددهای صفر یا مثبت وجود دارند و طبق تعریف صفر یا مثبت‌اند. برای نمونه ∜۸۱ = ۳. عدد ∜(-۱۶) در اعداد حقیقی وجود ندارد.
+- ریشه و توان اثر هم را خنثی می‌کنند: ∛(x^۳) = x برای هر x و (∛x)^۳ = x.
+- قاعده‌ی ضرب: ∛(a × b) = ∛a × ∛b. قاعده‌ی تقسیم: ∛(a / b) = ∛a / ∛b (با b ≠ ۰). همین قاعده‌ها برای ریشه‌های دیگر هم برقرارند.
+- برای ساده‌کردن ریشه‌ی سوم، بزرگ‌ترین عامل مکعب کامل (۱، ۸، ۲۷، ۶۴، ۱۲۵، ...) را بیرون می‌آوریم.
+- ریشه‌ها را می‌توان با نمای کسری نوشت: ریشه‌ی n‌ام a برابر a^(۱/n) است. پس ۸^(۱/۳) = ۲. همچنین a^(m/n) = (a^(۱/n))^m، پس ۱۶^(۳/۴) = (۱۶^(۱/۴))^۳ = ۲^۳ = ۸.
+- ریشه‌هایی که فرجه و قسمت رادیکالی یکسان دارند را می‌توان جمع یا تفریق کرد.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Find ∛(−64), ∜16 and ∛(1/125).
+**مثال ۱.** مقدار ∛(-۶۴) و ∜۱۶ و ∛(۱/۱۲۵) را بیابید.
 
-Step 1: (−4)^3 = −64, so ∛(−64) = −4.
-Step 2: 2^4 = 16, so ∜16 = 2.
-Step 3: ∛(1/125) = ∛1 / ∛125 = 1/5.
-Answer: −4, 2 and 1/5.
+گام ۱: (-۴)^۳ = -۶۴ پس ∛(-۶۴) = -۴.
+گام ۲: ۲^۴ = ۱۶ پس ∜۱۶ = ۲.
+گام ۳: ∛(۱/۱۲۵) = ∛۱ / ∛۱۲۵ = ۱/۵.
+پاسخ: -۴ و ۲ و ۱/۵.
 
-Example 2. Simplify ∛54 and then calculate ∛16 + ∛2.
+**مثال ۲.** ∛۵۴ را ساده کنید، سپس حاصل ∛۱۶ + ∛۲ را بیابید.
 
-Step 1: 54 = 27 × 2, so ∛54 = ∛27 × ∛2 = 3∛2.
-Step 2: 16 = 8 × 2, so ∛16 = ∛8 × ∛2 = 2∛2.
-Step 3: ∛16 + ∛2 = 2∛2 + ∛2 = 3∛2.
-Answer: ∛54 = 3∛2, and ∛16 + ∛2 = 3∛2.
+گام ۱: ۵۴ = ۲۷ × ۲ پس ∛۵۴ = ∛۲۷ × ∛۲ = ۳∛۲.
+گام ۲: ۱۶ = ۸ × ۲ پس ∛۱۶ = ∛۸ × ∛۲ = ۲∛۲.
+گام ۳: ∛۱۶ + ∛۲ = ۲∛۲ + ∛۲ = ۳∛۲.
+پاسخ: ∛۵۴ = ۳∛۲ و ∛۱۶ + ∛۲ = ۳∛۲.
 
-Example 3. Calculate ∛2 × ∛4, and then evaluate 27^(2/3) and 32^(1/5).
+**مثال ۳.** حاصل ∛۲ × ∛۴ را بیابید، سپس ۲۷^(۲/۳) و ۳۲^(۱/۵) را حساب کنید.
 
-Step 1: ∛2 × ∛4 = ∛(2 × 4) = ∛8 = 2.
-Step 2: 27^(2/3) = (27^(1/3))^2 = 3^2 = 9.
-Step 3: 32^(1/5) = 2, because 2^5 = 32.
-Answer: 2, 9 and 2.
+گام ۱: ∛۲ × ∛۴ = ∛(۲ × ۴) = ∛۸ = ۲.
+گام ۲: ۲۷^(۲/۳) = (۲۷^(۱/۳))^۲ = ۳^۲ = ۹.
+گام ۳: ۳۲^(۱/۵) = ۲، چون ۲^۵ = ۳۲.
+پاسخ: ۲ و ۹ و ۲.
 
-Example 4. Solve x^3 = 125 and x^3 = −8. Then solve x^4 = 81.
+**مثال ۴.** معادله‌های x^۳ = ۱۲۵ و x^۳ = -۸ را حل کنید. سپس x^۴ = ۸۱ را حل کنید.
 
-Step 1: x^3 = 125 gives x = ∛125 = 5. There is only one solution.
-Step 2: x^3 = −8 gives x = ∛(−8) = −2.
-Step 3: x^4 = 81 has two real solutions, x = ∜81 = 3 and x = −3, because (−3)^4 = 81 also.
-Answer: x = 5; x = −2; x = 3 or x = −3.
+گام ۱: x^۳ = ۱۲۵ نتیجه می‌دهد x = ∛۱۲۵ = ۵. فقط یک جواب دارد.
+گام ۲: x^۳ = -۸ نتیجه می‌دهد x = ∛(-۸) = -۲.
+گام ۳: x^۴ = ۸۱ دو جواب حقیقی دارد: x = ∜۸۱ = ۳ و x = -۳، چون (-۳)^۴ = ۸۱ هم هست.
+پاسخ: x = ۵؛ x = -۲؛ x = ۳ یا x = -۳.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Saying a cube root of a negative number does not exist. It does exist, for example ∛(−27) = −3.
-- Using the square root rules for the wrong index. ∛(a + b) is not ∛a + ∛b, and ∛8 is not 4.
-- Forgetting that an even equation like x^4 = 81 has two solutions, while an odd equation like x^3 = 125 has one.
-- Taking out a perfect square from a cube root. For ∛54, you need a perfect cube factor (27), not a perfect square (9).
+- گفتن اینکه ریشه‌ی سوم عدد منفی وجود ندارد. وجود دارد، مثلاً ∛(-۲۷) = -۳.
+- استفاده از قاعده‌های جذر برای فرجه‌ی نادرست. ∛(a + b) با ∛a + ∛b برابر نیست و ∛۸ برابر ۴ نیست.
+- فراموش‌کردن اینکه معادله‌ی زوج مانند x^۴ = ۸۱ دو جواب دارد ولی معادله‌ی فرد مانند x^۳ = ۱۲۵ یک جواب.
+- بیرون‌آوردن مربع کامل از ریشه‌ی سوم. برای ∛۵۴ به عامل مکعب کامل (۲۷) نیاز دارید، نه مربع کامل (۹).
 
-## Remember
+## به یاد داشته باشید
 
-- Odd roots exist for all real numbers. Even roots exist only for numbers that are zero or positive.
-- The n-th root of a = a^(1/n), and a^(m/n) = (a^(1/n))^m.
-- To simplify an n-th root, take out the largest perfect n-th power factor.
+- ریشه‌های فرد برای همه‌ی اعداد حقیقی وجود دارند. ریشه‌های زوج فقط برای عددهای صفر یا مثبت.
+- ریشه‌ی n‌ام a برابر a^(۱/n) و a^(m/n) = (a^(۱/n))^m است.
+- برای ساده‌کردن ریشه‌ی n‌ام، بزرگ‌ترین عامل توان n‌ام کامل را بیرون بیاورید.

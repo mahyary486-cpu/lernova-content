@@ -1,55 +1,55 @@
-# Scientific notation
+# نماد علمی
 
-Scientific notation is a short way to write very large or very small numbers as a number between 1 and 10 multiplied by a power of 10.
+نماد علمی روشی کوتاه برای نوشتن عددهای خیلی بزرگ یا خیلی کوچک است، به صورت عددی بین ۱ و ۱۰ که در یک توان ۱۰ ضرب شده است.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- A number is in scientific notation when it is written as a × 10^n, where 1 ≤ a < 10 and n is an integer.
-- Large numbers have a positive n. For example, 45 000 = 4.5 × 10^4. Moving the decimal point 4 places to the left gives 4.5.
-- Numbers smaller than 1 have a negative n. For example, 0.00032 = 3.2 × 10^(-4). Moving the decimal point 4 places to the right gives 3.2.
-- Numbers from 1 up to (but not including) 10 have n = 0. For example, 7.5 = 7.5 × 10^0.
-- To multiply: multiply the front numbers and add the exponents of 10.
-- To divide: divide the front numbers and subtract the exponents of 10.
-- After a calculation, check that the front number is still between 1 and 10. If it is not, change it and adjust the exponent. For example, 30 × 10^7 = 3 × 10^8.
-- To add or subtract, first write both numbers with the same power of 10.
-- Scientific notation also makes it easy to compare sizes. Compare the exponents first. The larger exponent means the larger number, if both front numbers are between 1 and 10.
+- عددی به نماد علمی است که به صورت a × ۱۰^n نوشته شود، به‌طوری که ۱ ≤ a < ۱۰ و n عددی صحیح باشد.
+- عددهای بزرگ n مثبت دارند. برای نمونه ۴۵ ۰۰۰ = ۴٫۵ × ۱۰^۴. با ۴ رقم جابه‌جایی ممیز به چپ به ۴٫۵ می‌رسیم.
+- عددهای کوچک‌تر از ۱، n منفی دارند. برای نمونه ۰٫۰۰۰۳۲ = ۳٫۲ × ۱۰^(-۴). با ۴ رقم جابه‌جایی ممیز به راست به ۳٫۲ می‌رسیم.
+- عددهای از ۱ تا کوچک‌تر از ۱۰ نمای ۰ دارند. برای نمونه ۷٫۵ = ۷٫۵ × ۱۰^۰.
+- برای ضرب: ضریب‌ها را در هم ضرب و نمای ۱۰ را با هم جمع می‌کنیم.
+- برای تقسیم: ضریب‌ها را بر هم تقسیم و نمای ۱۰ را از هم کم می‌کنیم.
+- بعد از محاسبه بررسی کنید که ضریب هنوز بین ۱ و ۱۰ باشد. اگر نبود، آن را اصلاح و نما را تنظیم کنید. برای نمونه ۳۰ × ۱۰^۷ = ۳ × ۱۰^۸.
+- برای جمع و تفریق، اول هر دو عدد را با توان یکسان ۱۰ می‌نویسیم.
+- نماد علمی مقایسه‌ی اندازه‌ها را آسان می‌کند. اول نماها را مقایسه کنید. اگر هر دو ضریب بین ۱ و ۱۰ باشند، نمای بزرگ‌تر عدد بزرگ‌تر را نشان می‌دهد.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Write 0.0072 and 560 000 in scientific notation.
+**مثال ۱.** عددهای ۰٫۰۰۷۲ و ۵۶۰ ۰۰۰ را به نماد علمی بنویسید.
 
-Step 1: For 0.0072, move the decimal point 3 places to the right to get 7.2. So 0.0072 = 7.2 × 10^(-3).
-Step 2: For 560 000, move the decimal point 5 places to the left to get 5.6. So 560 000 = 5.6 × 10^5.
+گام ۱: برای ۰٫۰۰۷۲، ممیز را ۳ رقم به راست می‌بریم و ۷٫۲ به دست می‌آید. پس ۰٫۰۰۷۲ = ۷٫۲ × ۱۰^(-۳).
+گام ۲: برای ۵۶۰ ۰۰۰، ممیز را ۵ رقم به چپ می‌بریم و ۵٫۶ به دست می‌آید. پس ۵۶۰ ۰۰۰ = ۵٫۶ × ۱۰^۵.
 
-Example 2. Calculate (3 × 10^5) × (2 × 10^(-2)) and (6 × 10^3) × (5 × 10^4). Give answers in scientific notation.
+**مثال ۲.** حاصل (۳ × ۱۰^۵) × (۲ × ۱۰^(-۲)) و (۶ × ۱۰^۳) × (۵ × ۱۰^۴) را به نماد علمی بنویسید.
 
-Step 1: First product. 3 × 2 = 6 and 10^5 × 10^(-2) = 10^3. The answer is 6 × 10^3, which is 6000.
-Step 2: Second product. 6 × 5 = 30 and 10^3 × 10^4 = 10^7. So the result is 30 × 10^7.
-Step 3: The front number 30 is not between 1 and 10. Write 30 = 3 × 10, so 30 × 10^7 = 3 × 10^8.
-Answer: 6 × 10^3 and 3 × 10^8.
+گام ۱: حاصل‌ضرب اول: ۳ × ۲ = ۶ و ۱۰^۵ × ۱۰^(-۲) = ۱۰^۳. جواب ۶ × ۱۰^۳ است که برابر ۶۰۰۰ می‌شود.
+گام ۲: حاصل‌ضرب دوم: ۶ × ۵ = ۳۰ و ۱۰^۳ × ۱۰^۴ = ۱۰^۷. پس نتیجه ۳۰ × ۱۰^۷ است.
+گام ۳: ضریب ۳۰ بین ۱ و ۱۰ نیست. ۳۰ = ۳ × ۱۰ پس ۳۰ × ۱۰^۷ = ۳ × ۱۰^۸.
+پاسخ: ۶ × ۱۰^۳ و ۳ × ۱۰^۸.
 
-Example 3. Calculate (8 × 10^6) / (4 × 10^(-2)).
+**مثال ۳.** حاصل (۸ × ۱۰^۶) / (۴ × ۱۰^(-۲)) را بیابید.
 
-Step 1: Divide the front numbers: 8 / 4 = 2.
-Step 2: Subtract the exponents: 6 − (−2) = 8.
-Answer: 2 × 10^8.
+گام ۱: ضریب‌ها را تقسیم می‌کنیم: ۸ / ۴ = ۲.
+گام ۲: نماها را از هم کم می‌کنیم: ۶ - (-۲) = ۸.
+پاسخ: ۲ × ۱۰^۸.
 
-Example 4. Light travels at 3 × 10^8 meters per second. The distance from the Sun to the Earth is about 1.5 × 10^11 meters. How long does light need to travel this distance?
+**مثال ۴.** سرعت نور ۳ × ۱۰^۸ متر بر ثانیه است. فاصله‌ی خورشید تا زمین حدود ۱٫۵ × ۱۰^۱۱ متر است. نور چقدر طول می‌کشد تا این فاصله را طی کند؟
 
-Step 1: Time = distance / speed = (1.5 × 10^11) / (3 × 10^8).
-Step 2: 1.5 / 3 = 0.5 and 10^11 / 10^8 = 10^3. So the time is 0.5 × 10^3.
-Step 3: Fix the front number: 0.5 × 10^3 = 5 × 10^2.
-Answer: 5 × 10^2 seconds, which is 500 seconds (about 8 minutes and 20 seconds).
+گام ۱: زمان = فاصله / سرعت = (۱٫۵ × ۱۰^۱۱) / (۳ × ۱۰^۸).
+گام ۲: ۱٫۵ / ۳ = ۰٫۵ و ۱۰^۱۱ / ۱۰^۸ = ۱۰^۳. پس زمان ۰٫۵ × ۱۰^۳ است.
+گام ۳: ضریب را اصلاح می‌کنیم: ۰٫۵ × ۱۰^۳ = ۵ × ۱۰^۲.
+پاسخ: ۵ × ۱۰^۲ ثانیه، یعنی ۵۰۰ ثانیه (حدود ۸ دقیقه و ۲۰ ثانیه).
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Leaving a front number outside the range 1 to 10, such as writing 45 × 10^3 as the final answer. Write 4.5 × 10^4 instead.
-- Moving the decimal point in the wrong direction. A number smaller than 1 always needs a negative exponent.
-- Adding exponents when adding numbers. The exponent rule is only for multiplication. For 3.2 × 10^4 + 5 × 10^3, first write 5 × 10^3 = 0.5 × 10^4. Then the sum is 3.7 × 10^4.
-- Forgetting that 10^(-n) is a small number, not a negative number.
+- ماندن ضریب بیرون از بازه‌ی ۱ تا ۱۰، مثلاً نوشتن ۴۵ × ۱۰^۳ به‌عنوان جواب نهایی. به‌جای آن ۴٫۵ × ۱۰^۴ بنویسید.
+- جابه‌جایی ممیز در جهت اشتباه. عددی کوچک‌تر از ۱ همیشه نمای منفی دارد.
+- جمع‌کردن نماها هنگام جمع عددها. قاعده‌ی نما فقط برای ضرب است. برای ۳٫۲ × ۱۰^۴ + ۵ × ۱۰^۳ اول می‌نویسیم ۵ × ۱۰^۳ = ۰٫۵ × ۱۰^۴. آن‌گاه مجموع ۳٫۷ × ۱۰^۴ است.
+- فراموش‌کردن اینکه ۱۰^(-n) عددی کوچک است، نه عددی منفی.
 
-## Remember
+## به یاد داشته باشید
 
-- Scientific notation has the form a × 10^n with 1 ≤ a < 10.
-- Multiply: multiply the front numbers, add the exponents. Divide: divide the front numbers, subtract the exponents.
-- Always check the front number at the end of a calculation.
+- نماد علمی به شکل a × ۱۰^n با ۱ ≤ a < ۱۰ است.
+- ضرب: ضریب‌ها را ضرب و نماها را جمع کنید. تقسیم: ضریب‌ها را تقسیم و نماها را کم کنید.
+- در پایان محاسبه همیشه ضریب را بررسی کنید.

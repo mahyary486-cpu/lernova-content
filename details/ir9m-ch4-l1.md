@@ -1,64 +1,64 @@
-# Integer powers
+# توان‌های صحیح
 
-An integer power shows how many times a number is multiplied by itself, and the exponent can also be zero or negative.
+توان صحیح نشان می‌دهد عددی چند بار در خودش ضرب می‌شود، و نما می‌تواند صفر یا منفی هم باشد.
 
-## Key ideas
+## نکته‌های کلیدی
 
-- For a positive integer n, a^n means a multiplied by itself n times. For example, 2^4 = 2 × 2 × 2 × 2 = 16. The number a is the base and n is the exponent.
-- Zero exponent: a^0 = 1 for every a ≠ 0.
-- Negative exponent: a^(-n) = 1/a^n for a ≠ 0. So 2^(-3) = 1/2^3 = 1/8. A negative exponent does not make the answer negative. It means "take the reciprocal".
-- Rules for powers with the same base (a ≠ 0):
+- برای n صحیح و مثبت، a^n یعنی a را n بار در خودش ضرب کنیم. برای نمونه ۲^۴ = ۲ × ۲ × ۲ × ۲ = ۱۶. عدد a را «پایه» و n را «نما» می‌نامیم.
+- نمای صفر: برای هر a ≠ ۰ داریم a^۰ = ۱.
+- نمای منفی: برای a ≠ ۰ داریم a^(-n) = ۱/a^n. پس ۲^(-۳) = ۱/۲^۳ = ۱/۸. نمای منفی جواب را منفی نمی‌کند. یعنی «معکوس بگیر».
+- قاعده‌های توان‌ها با پایه‌ی یکسان (a ≠ ۰):
   - a^m × a^n = a^(m+n)
-  - a^m / a^n = a^(m−n)
+  - a^m / a^n = a^(m-n)
   - (a^m)^n = a^(m×n)
-- Rules for powers with the same exponent (a ≠ 0, b ≠ 0):
+- قاعده‌های توان‌ها با نمای یکسان (a ≠ ۰ و b ≠ ۰):
   - (a × b)^n = a^n × b^n
   - (a/b)^n = a^n / b^n
-- A fraction with a negative exponent is flipped: (a/b)^(-n) = (b/a)^n.
-- Sign of a negative base: (−2)^3 = −8 because an odd number of negative factors gives a negative result. (−2)^4 = 16 because an even number of negative factors gives a positive result. Note that −2^4 = −16, because the exponent applies only to 2.
+- کسری که نمای منفی دارد برمی‌گردد: (a/b)^(-n) = (b/a)^n.
+- علامت پایه‌ی منفی: (-۲)^۳ = -۸ چون تعداد فرد عامل منفی، نتیجه را منفی می‌کند. (-۲)^۴ = ۱۶ چون تعداد زوج عامل منفی، نتیجه را مثبت می‌کند. توجه کنید -۲^۴ = -۱۶، چون نما فقط به ۲ مربوط است.
 
-## Worked examples
+## مثال‌های حل‌شده
 
-Example 1. Calculate 2^(-3) × 2^5.
+**مثال ۱.** حاصل ۲^(-۳) × ۲^۵ را بیابید.
 
-Step 1: The bases are the same, so add the exponents: −3 + 5 = 2.
-Step 2: 2^2 = 4.
-Answer: 4.
-Check: 2^(-3) = 1/8 and 2^5 = 32, and 32/8 = 4.
+گام ۱: پایه‌ها یکسان‌اند، پس نماها را جمع می‌کنیم: -۳ + ۵ = ۲.
+گام ۲: ۲^۲ = ۴.
+پاسخ: ۴.
+بررسی: ۲^(-۳) = ۱/۸ و ۲^۵ = ۳۲ و ۳۲/۸ = ۴.
 
-Example 2. Simplify (2x^3 y^(-2))^2 and write the answer with positive exponents.
+**مثال ۲.** عبارت (۲x^۳ y^(-۲))^۲ را ساده کنید و پاسخ را با نمای مثبت بنویسید.
 
-Step 1: Apply the power to each factor: 2^2 × (x^3)^2 × (y^(-2))^2.
-Step 2: 2^2 = 4, (x^3)^2 = x^6, and (y^(-2))^2 = y^(-4).
-Step 3: Write y^(-4) as 1/y^4.
-Answer: 4x^6 / y^4.
+گام ۱: توان را به هر عامل می‌دهیم: ۲^۲ × (x^۳)^۲ × (y^(-۲))^۲.
+گام ۲: ۲^۲ = ۴ و (x^۳)^۲ = x^۶ و (y^(-۲))^۲ = y^(-۴).
+گام ۳: y^(-۴) را به صورت ۱/y^۴ می‌نویسیم.
+پاسخ: ۴x^۶ / y^۴.
 
-Example 3. Calculate (3^4 × 9^(-1)) / 3^(-2).
+**مثال ۳.** حاصل (۳^۴ × ۹^(-۱)) / ۳^(-۲) را بیابید.
 
-Step 1: Write 9 as 3^2. Then 9^(-1) = (3^2)^(-1) = 3^(-2).
-Step 2: The numerator is 3^4 × 3^(-2) = 3^(4−2) = 3^2.
-Step 3: Divide by 3^(-2): 3^2 / 3^(-2) = 3^(2−(−2)) = 3^4.
-Step 4: 3^4 = 81.
-Answer: 81.
-Check: 81 × (1/9) = 9, and 9 / (1/9) = 81.
+گام ۱: ۹ را ۳^۲ می‌نویسیم. آن‌گاه ۹^(-۱) = (۳^۲)^(-۱) = ۳^(-۲).
+گام ۲: صورت برابر ۳^۴ × ۳^(-۲) = ۳^(۴-۲) = ۳^۲ است.
+گام ۳: بر ۳^(-۲) تقسیم می‌کنیم: ۳^۲ / ۳^(-۲) = ۳^(۲-(-۲)) = ۳^۴.
+گام ۴: ۳^۴ = ۸۱.
+پاسخ: ۸۱.
+بررسی: ۸۱ × (۱/۹) = ۹ و ۹ / (۱/۹) = ۸۱.
 
-Example 4. Calculate (2/3)^(-2) + 5^0 − 2^(-1).
+**مثال ۴.** حاصل (۲/۳)^(-۲) + ۵^۰ - ۲^(-۱) را بیابید.
 
-Step 1: (2/3)^(-2) = (3/2)^2 = 9/4.
-Step 2: 5^0 = 1.
-Step 3: 2^(-1) = 1/2.
-Step 4: 9/4 + 1 − 1/2 = 9/4 + 4/4 − 2/4 = 11/4.
-Answer: 11/4.
+گام ۱: (۲/۳)^(-۲) = (۳/۲)^۲ = ۹/۴.
+گام ۲: ۵^۰ = ۱.
+گام ۳: ۲^(-۱) = ۱/۲.
+گام ۴: ۹/۴ + ۱ - ۱/۲ = ۹/۴ + ۴/۴ - ۲/۴ = ۱۱/۴.
+پاسخ: ۱۱/۴.
 
-## Common mistakes
+## اشتباه‌های رایج
 
-- Thinking that 2^(-3) = −8. The correct value is 1/8. The exponent is negative, not the number.
-- Multiplying exponents when you should add them. In 2^3 × 2^4 you add the exponents to get 2^7. You do not multiply to get 2^12.
-- Adding the bases. 2^3 × 2^4 is not 4^7. When you multiply powers, the base stays the same.
-- Forgetting the brackets with a negative base. (−3)^2 = 9 but −3^2 = −9.
+- فکر کردن به اینکه ۲^(-۳) = -۸. مقدار درست ۱/۸ است. نما منفی است، نه عدد.
+- ضرب نماها وقتی باید جمع شوند. در ۲^۳ × ۲^۴ نماها را جمع می‌کنیم و ۲^۷ به دست می‌آید. حاصل ۲^۱۲ نیست.
+- جمع پایه‌ها. ۲^۳ × ۲^۴ برابر ۴^۷ نیست. هنگام ضرب توان‌ها پایه ثابت می‌ماند.
+- فراموش‌کردن پرانتز برای پایه‌ی منفی. (-۳)^۲ = ۹ ولی -۳^۲ = -۹.
 
-## Remember
+## به یاد داشته باشید
 
-- a^0 = 1 and a^(-n) = 1/a^n for a ≠ 0.
-- Same base: add the exponents when multiplying, subtract them when dividing, multiply them for a power of a power.
-- Always check the sign of a negative base: odd exponent gives a negative result, even exponent gives a positive result.
+- a^۰ = ۱ و a^(-n) = ۱/a^n برای a ≠ ۰.
+- پایه‌ی یکسان: هنگام ضرب نماها را جمع کنید، هنگام تقسیم کم کنید و برای توان یک توان آن‌ها را در هم ضرب کنید.
+- علامت پایه‌ی منفی را همیشه بررسی کنید: نمای فرد جواب منفی و نمای زوج جواب مثبت می‌دهد.
