@@ -49,7 +49,7 @@ def build():
         for g in grades:
             for c in g.get('chapters', []):
                 cid = c['id']
-                for rel in ('summaries/%s.json' % cid, 'banks/%s.txt' % cid):
+                for rel in ('summaries/%s.json' % cid, 'banks/%s.txt' % cid, 'solutions/%s.json' % cid):
                     if os.path.exists(os.path.join(ROOT, rel)):
                         files[rel] = fp(rel)
                 for l in c.get('lessons', []):
