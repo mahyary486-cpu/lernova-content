@@ -7884,6 +7884,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "subject": "Chemistry",
+      "country": "RU",
+      "chapters": [
+        {
+          "id": "ru9-chem-periodic",
+          "title": "Периодический закон и химические реакции",
+          "lessons": [
+            {
+              "id": "ru9-chem-periodic-1",
+              "title": "Периодический закон и строение атома"
+            },
+            {
+              "id": "ru9-chem-periodic-2",
+              "title": "Химическая связь"
+            },
+            {
+              "id": "ru9-chem-periodic-3",
+              "title": "Типы и скорость химических реакций"
+            },
+            {
+              "id": "ru9-chem-periodic-4",
+              "title": "Электролитическая диссоциация"
+            }
+          ]
+        },
+        {
+          "id": "ru9-chem-nonmetals",
+          "title": "Неметаллы и их соединения",
+          "lessons": [
+            {
+              "id": "ru9-chem-nonmetals-1",
+              "title": "Галогены"
+            },
+            {
+              "id": "ru9-chem-nonmetals-2",
+              "title": "Сера и её соединения"
+            },
+            {
+              "id": "ru9-chem-nonmetals-3",
+              "title": "Азот и его соединения"
+            },
+            {
+              "id": "ru9-chem-nonmetals-4",
+              "title": "Углерод и кремний"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
