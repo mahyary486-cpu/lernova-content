@@ -7443,6 +7443,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 10,
+      "subject": "Physics",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn10p-ch1",
+          "title": "运动的描述",
+          "lessons": [
+            {
+              "id": "cn10p-ch1-l1",
+              "title": "质点、参考系和位移"
+            },
+            {
+              "id": "cn10p-ch1-l2",
+              "title": "速度"
+            },
+            {
+              "id": "cn10p-ch1-l3",
+              "title": "加速度"
+            }
+          ]
+        },
+        {
+          "id": "cn10p-ch2",
+          "title": "匀变速直线运动的研究",
+          "lessons": [
+            {
+              "id": "cn10p-ch2-l1",
+              "title": "匀变速直线运动的速度与位移"
+            },
+            {
+              "id": "cn10p-ch2-l2",
+              "title": "自由落体运动"
+            },
+            {
+              "id": "cn10p-ch2-l3",
+              "title": "匀变速直线运动的推论与图象"
+            }
+          ]
+        },
+        {
+          "id": "cn10p-ch3",
+          "title": "相互作用——力",
+          "lessons": [
+            {
+              "id": "cn10p-ch3-l1",
+              "title": "重力与弹力"
+            },
+            {
+              "id": "cn10p-ch3-l2",
+              "title": "摩擦力"
+            },
+            {
+              "id": "cn10p-ch3-l3",
+              "title": "力的合成与分解、共点力平衡"
+            }
+          ]
+        },
+        {
+          "id": "cn10p-ch4",
+          "title": "运动和力的关系",
+          "lessons": [
+            {
+              "id": "cn10p-ch4-l1",
+              "title": "牛顿第一定律与第三定律"
+            },
+            {
+              "id": "cn10p-ch4-l2",
+              "title": "牛顿第二定律"
+            },
+            {
+              "id": "cn10p-ch4-l3",
+              "title": "超重与失重"
+            }
+          ]
+        },
+        {
+          "id": "cn10p-ch5",
+          "title": "抛体运动",
+          "lessons": [
+            {
+              "id": "cn10p-ch5-l1",
+              "title": "曲线运动与运动的合成"
+            },
+            {
+              "id": "cn10p-ch5-l2",
+              "title": "平抛运动"
+            },
+            {
+              "id": "cn10p-ch5-l3",
+              "title": "斜抛运动"
+            }
+          ]
+        },
+        {
+          "id": "cn10p-ch6",
+          "title": "圆周运动",
+          "lessons": [
+            {
+              "id": "cn10p-ch6-l1",
+              "title": "描述圆周运动的物理量"
+            },
+            {
+              "id": "cn10p-ch6-l2",
+              "title": "向心力与向心加速度"
+            },
+            {
+              "id": "cn10p-ch6-l3",
+              "title": "生活中的圆周运动"
+            }
+          ]
+        },
+        {
+          "id": "cn10p-ch7",
+          "title": "万有引力与宇宙航行",
+          "lessons": [
+            {
+              "id": "cn10p-ch7-l1",
+              "title": "万有引力定律"
+            },
+            {
+              "id": "cn10p-ch7-l2",
+              "title": "宇宙速度与人造卫星"
+            },
+            {
+              "id": "cn10p-ch7-l3",
+              "title": "同步卫星与天体质量"
+            }
+          ]
+        },
+        {
+          "id": "cn10p-ch8",
+          "title": "机械能守恒定律",
+          "lessons": [
+            {
+              "id": "cn10p-ch8-l1",
+              "title": "功和功率"
+            },
+            {
+              "id": "cn10p-ch8-l2",
+              "title": "重力势能与动能定理"
+            },
+            {
+              "id": "cn10p-ch8-l3",
+              "title": "机械能守恒定律及其应用"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
