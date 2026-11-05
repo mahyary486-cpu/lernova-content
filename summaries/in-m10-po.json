@@ -1,0 +1,6 @@
+{
+ "Polynomials, degree and zeroes": "Degree 1, 2, 3 are linear, quadratic, cubic; a zero k satisfies p(k) = 0.",
+ "Zeroes and graphs of polynomials": "Zeroes are x-intercepts; a quadratic has 0, 1 or 2 real zeroes.",
+ "Relationship between zeroes and coefficients": "Quadratic: sum of zeroes = −b/a, product = c/a.",
+ "Cubic polynomials and the division algorithm": "Cubic relations use −b/a, c/a, −d/a; p(x) = g(x)q(x) + r(x)."
+}

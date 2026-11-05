@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Euclid's division lemma says that for positive integers a and b there are unique q and r with a =|bq + r, 0 ≤ r < b|aq + b|b + q|bq − r|0|Dividend = divisor × quotient + remainder.
+Euclid's division algorithm is used to find the|LCM of two numbers|HCF of two numbers|square root|sum of two numbers|1|It repeats division until the remainder is 0.
+In a = bq + r, the remainder r satisfies|r > b|r = b|0 ≤ r < b|r < 0|2|The remainder is smaller than the divisor.
+The Fundamental Theorem of Arithmetic says every composite number is|a sum of primes|a difference of primes|a quotient of primes|a product of primes in a unique way, apart from order|3|Prime factorisation is unique.
+The HCF of two numbers is their|greatest common factor|smallest common multiple|sum|product|0|It is the largest number dividing both.
+The LCM of two numbers is their|greatest common factor|smallest common multiple|difference|quotient|1|It is the smallest number divisible by both.
+For two positive integers a and b, HCF × LCM equals|a + b|a − b|a × b|a / b|2|HCF(a, b) × LCM(a, b) = a × b.
+The prime factorisation of 12 is|2 × 3²|2 × 6|3 × 4|2² × 3|3|12 = 2 × 2 × 3.
+Which of these is irrational?|√2|0.5|1/3|4|0|√2 cannot be written as p/q.
+Which of these is rational?|√3|0.25|π|√5|1|0.25 = 1/4.
+The decimal expansion of a rational number is either terminating or|non-terminating non-repeating|irrational|non-terminating repeating|always zero|2|Rational numbers never give non-repeating infinite decimals.
+The decimal expansion of an irrational number is|terminating|non-terminating repeating|periodic|non-terminating non-repeating|3|There is no repeating block.
+Which of these is a prime number?|13|15|21|27|0|13 has only two factors, 1 and 13.
+The HCF of 12 and 18 is|3|6|36|9|1|12 = 2² × 3 and 18 = 2 × 3², so HCF = 2 × 3 = 6.
+The LCM of 4 and 6 is|24|2|12|10|2|4 = 2², 6 = 2 × 3, so LCM = 2² × 3 = 12.
+The sum of a rational and an irrational number is|rational|an integer|zero|irrational|3|For example 2 + √3 is irrational.
+√4 is|rational|irrational|imaginary|undefined|0|√4 = 2.
+By Euclid's algorithm the HCF of 135 and 225 is|15|45|5|25|1|225 = 135 × 1 + 90, 135 = 90 × 1 + 45, 90 = 45 × 2.
+By Euclid's algorithm the HCF of 26 and 91 is|7|26|13|1|2|91 = 26 × 3 + 13 and 26 = 13 × 2.
+The prime factorisation of 140 is|2 × 5 × 14|2³ × 5 × 7|4 × 35|2² × 5 × 7|3|140 = 4 × 35 = 2² × 5 × 7.
+The LCM of 12 and 15 is|60|30|180|3|0|12 = 2² × 3, 15 = 3 × 5, so LCM = 2² × 3 × 5 = 60.
+The HCF and LCM of 6 and 20 are|4 and 30|2 and 60|1 and 120|2 and 120|1|HCF = 2; LCM = 120/2 = 60.
+If HCF(a, b) = 9 and a × b = 1620, then LCM(a, b) is|9|1620|180|18|2|LCM = 1620 / 9 = 180.
+The HCF of 72 and 120 is|12|36|8|24|3|72 = 2³ × 3², 120 = 2³ × 3 × 5, HCF = 2³ × 3 = 24.
+The LCM of 72 and 120 is|360|720|240|24|0|LCM = 2³ × 3² × 5 = 360.
+Can 6ⁿ end with the digit 0 for a natural number n?|Yes, always|No, because 6ⁿ has no prime factor 5|Yes, if n is even|Only when n = 5|1|A number ending in 0 is divisible by 5.
+√3 is|rational|an integer|irrational|a natural number|2|It is proved irrational by contradiction.
+The product of a non-zero rational number and an irrational number is|rational|zero|an integer|irrational|3|For example 2√5 is irrational.
+3 + √5 is|irrational|rational|an integer|a natural number|0|A rational plus an irrational is irrational.
+0.375 written as p/q in lowest terms is|3/10|3/8|37/100|1/3|1|0.375 = 375/1000 = 3/8.
+Which fraction has a terminating decimal expansion?|1/3|2/7|7/8|5/6|2|The denominator 8 = 2³ has only the prime factor 2.
+The decimal expansion of 1/7 is|terminating|non-terminating non-repeating|irrational|non-terminating repeating|3|1/7 = 0.142857142857…
+p/q (in lowest terms) terminates when q has prime factors only|2 and 5|3 and 7|2 and 3|5 and 7|0|The denominator must be of the form 2ⁿ5ᵐ.
+Which number has a terminating decimal expansion?|17/6|13/3125|64/455|29/343|1|3125 = 5⁵, so the denominator is of the form 2ⁿ5ᵐ.
+When 17 is divided by 5 using Euclid's lemma, the remainder is|3|5|2|0|2|17 = 5 × 3 + 2.
+Every positive odd integer is of the form|2q|3q|4q|2q + 1|3|Odd numbers leave remainder 1 on division by 2.
+If HCF(306, 657) = 9, then LCM(306, 657) is|22338|2234|201042|20104|0|LCM = 306 × 657 / 9 = 22338.
+To prove that √5 is irrational we use|proof by induction|proof by contradiction|direct substitution|trial and error|1|Assume √5 = p/q in lowest terms and reach a contradiction.
+The largest number that divides 70 and 125 leaving remainders 5 and 8 is|5|8|13|65|2|HCF(65, 117) = 13.
+The smallest number divisible by 12, 15 and 20 is|120|180|30|60|3|LCM = 2² × 3 × 5 = 60.
+Three bells ring every 12, 15 and 18 minutes. They ring together again after|180 minutes|90 minutes|60 minutes|360 minutes|0|LCM(12, 15, 18) = 180.
+The maximum number of columns in which 616 and 32 people can march is|4|8|16|2|1|HCF(616, 32) = 8.
+Is 7 × 11 × 13 + 13 a prime or composite number?|Prime|Irrational|Composite, since it equals 13 × 78|It cannot be decided|2|7 × 11 × 13 + 13 = 13(77 + 1).
+(2 + √3)² is|rational|an integer|zero|irrational|3|(2 + √3)² = 7 + 4√3.
+5 − 2√3 is|irrational|rational|an integer|a natural number|0|Rational minus a non-zero multiple of an irrational is irrational.
+The recurring decimal 0.333… written as p/q is|3/10|1/3|33/100|3/100|1|Let x = 0.333…; 10x − x = 3, so x = 1/3.
+The recurring decimal 0.1212… written as p/q is|12/100|1/12|4/33|3/25|2|x = 12/99 = 4/33.
+If n² is divisible by 3, then n is divisible by|9|6|2|3|3|This fact is used to prove √3 is irrational.
+For any positive integer n, n³ − n is divisible by|6|8|9|12|0|n³ − n = (n − 1)n(n + 1) is a product of three consecutive integers.
+The HCF of 2³ × 3² × 5 and 2² × 3³ × 7 is|72|36|108|6|1|Take the lowest powers: 2² × 3² = 36.

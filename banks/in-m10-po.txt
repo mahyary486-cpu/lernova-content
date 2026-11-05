@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A polynomial of degree 1 is called|linear|quadratic|cubic|constant|0|For example 2x + 3.
+A polynomial of degree 2 is called|linear|quadratic|cubic|constant|1|For example x² − 5x + 6.
+A polynomial of degree 3 is called|quadratic|linear|cubic|constant|2|For example x³ − 6x² + 11x − 6.
+The degree of 5x³ − 2x + 1 is|1|2|5|3|3|The degree is the highest power of x.
+A real number k is a zero of p(x) if|p(k) = 0|p(k) = 1|k = 0|p(0) = k|0|The value k makes the polynomial zero.
+The graph of a linear polynomial is a|parabola|straight line|circle|hyperbola|1|y = ax + b is a line.
+The graph of a quadratic polynomial is a|straight line|circle|parabola|ellipse|2|It opens up if a > 0 and down if a < 0.
+The zero of x − 3 is|−3|0|1|3|3|x − 3 = 0 gives x = 3.
+A linear polynomial has at most|1 zero|2 zeroes|3 zeroes|no zero|0|The line meets the x-axis at most once.
+A quadratic polynomial has at most|1 zero|2 zeroes|3 zeroes|4 zeroes|1|The degree gives the maximum number of zeroes.
+A cubic polynomial has at most|2 zeroes|1 zero|3 zeroes|4 zeroes|2|Degree 3 means at most 3 zeroes.
+The standard form of a quadratic polynomial is|ax + b|ax³ + bx + c|a/x|ax² + bx + c, a ≠ 0|3|The coefficient a must be non-zero.
+For ax² + bx + c the sum of the zeroes is|−b/a|b/a|c/a|−c/a|0|Sum of zeroes = −(coefficient of x)/(coefficient of x²).
+For ax² + bx + c the product of the zeroes is|−c/a|c/a|b/a|−b/a|1|Product = constant term / coefficient of x².
+The value of p(x) = x² − 1 at x = 2 is|1|4|3|−3|2|p(2) = 4 − 1 = 3.
+The degree of the non-zero constant polynomial 7 is|1|7|2|0|3|There is no power of x, so the degree is 0.
+The number of zeroes of a polynomial equals the number of points where its graph cuts the|x-axis|y-axis|both axes|origin|0|Zeroes are x-values where y = 0.
+The zeroes of x² − 4 are|4 and −4|2 and −2|2 only|0 and 4|1|x² − 4 = (x − 2)(x + 2).
+The zeroes of x² − 5x + 6 are|−2 and −3|1 and 6|2 and 3|5 and 1|2|x² − 5x + 6 = (x − 2)(x − 3).
+The zeroes of x² + 2x − 8 are|4 and −2|2 and 4|−2 and −4|−4 and 2|3|x² + 2x − 8 = (x + 4)(x − 2).
+The sum of the zeroes of x² − 7x + 12 is|7|−7|12|−12|0|Sum = −(−7)/1 = 7.
+The product of the zeroes of x² − 7x + 12 is|−12|12|7|−7|1|Product = 12/1.
+The quadratic polynomial with sum of zeroes 5 and product 6 is|x² + 5x + 6|x² − 6x + 5|x² − 5x + 6|x² + 6x − 5|2|x² − (sum)x + product.
+The sum and product of the zeroes of 2x² − 8x + 6 are|−4 and 3|8 and 6|4 and 6|4 and 3|3|Sum = 8/2 = 4; product = 6/2 = 3.
+If 2 is a zero of x² − 3x + k, then k =|2|−2|6|3|0|4 − 6 + k = 0 gives k = 2.
+The parabola y = ax² + bx + c opens upward when|a < 0|a > 0|b > 0|c > 0|1|The sign of a decides the direction.
+A parabola that cuts the x-axis at two points shows|no real zeroes|one zero|two distinct real zeroes|three zeroes|2|Each intersection is a zero.
+A parabola that touches the x-axis at one point shows|two distinct zeroes|no zeroes|three zeroes|one repeated zero|3|The two zeroes are equal.
+A parabola that does not meet the x-axis shows|no real zeroes|two zeroes|one zero|three zeroes|0|The polynomial never becomes zero.
+The zero of 2x + 5 is|5/2|−5/2|−2/5|2/5|1|2x + 5 = 0 gives x = −5/2.
+For the cubic ax³ + bx² + cx + d the sum of the zeroes is|b/a|c/a|−b/a|−d/a|2|α + β + γ = −b/a.
+For the cubic ax³ + bx² + cx + d the product of the zeroes is|d/a|c/a|−c/a|−d/a|3|αβγ = −d/a.
+For the cubic ax³ + bx² + cx + d, αβ + βγ + γα equals|c/a|−c/a|b/a|−d/a|0|The sum of products taken two at a time is c/a.
+In the division algorithm p(x) = g(x)q(x) + r(x), we have|degree r(x) > degree g(x)|degree r(x) < degree g(x), or r(x) = 0|r(x) = 0 always|g(x) = 0|1|The remainder is of lower degree than the divisor.
+A cubic whose graph cuts the x-axis at 3 points has|1 zero|2 zeroes|3 zeroes|no zero|2|Each point of intersection is a zero.
+The zeroes of x² − 9 are|9 and −9|3 only|0 and 3|3 and −3|3|x² − 9 = (x − 3)(x + 3).
+If α and β are the zeroes of x² − 5x + 6, then α + β + αβ =|11|1|−1|6|0|5 + 6 = 11.
+If α and β are the zeroes of x² − 3x + 2, then α² + β² =|13|5|9|4|1|(α + β)² − 2αβ = 9 − 4 = 5.
+If α and β are the zeroes of x² − 5x + 6, then 1/α + 1/β =|6/5|1/5|5/6|−5/6|2|(α + β)/αβ = 5/6.
+The quadratic polynomial with zeroes 3 and −4 is|x² − x − 12|x² + 7x + 12|x² − 7x + 12|x² + x − 12|3|Sum = −1, product = −12.
+If 1/2 is a zero of 2x² − 3x + k, then k =|1|2|−1|0|0|1/2 − 3/2 + k = 0 gives k = 1.
+If the sum of the zeroes of x² − (k + 6)x + 2(2k − 1) is half their product, then k =|−7|7|1|6|1|k + 6 = 2k − 1 gives k = 7.
+The quotient when x³ − 3x² + 5x − 3 is divided by x² − 2 is|x + 3|x² − 3|x − 3|x − 2|2|The remainder is 7x − 9.
+The zeroes of 6x² − 7x − 3 are|1/3 and −3/2|3 and 2|−3 and 2|−1/3 and 3/2|3|6x² − 7x − 3 = (3x + 1)(2x − 3).
+A quadratic polynomial with zeroes 1/4 and −1 is|4x² + 3x − 1|4x² − 3x − 1|4x² + 3x + 1|x² + 3x − 4|0|Sum = −3/4, product = −1/4.
+A parabola cuts the x-axis at (−2, 0) and (3, 0). The polynomial is|x² + x − 6|x² − x − 6|x² − 5x + 6|x² + 5x + 6|1|(x + 2)(x − 3) = x² − x − 6.
+If the zeroes of x² − 6x + k differ by 2, then k =|9|5|8|10|2|The zeroes are 2 and 4, so k = 8.
+The product of the zeroes of x³ − 6x² + 11x − 6 is|−6|11|−11|6|3|Product = −(−6)/1 = 6.
+The zeroes of x³ − 6x² + 11x − 6 are|1, 2, 3|−1, −2, −3|1, 2, 6|2, 3, 6|0|p(1) = p(2) = p(3) = 0.
+The sum of the zeroes of x³ − 6x² + 11x − 6 is|−6|6|11|−11|1|Sum = −(−6)/1 = 6.

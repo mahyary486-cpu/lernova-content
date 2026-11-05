@@ -7054,5 +7054,5 @@
         }
       ]
     }
-  ]
+  ,{"grade": 10, "subject": "Mathematics", "country": "IN", "chapters": [{"id": "in-m10-rn", "title": "Real Numbers", "lessons": [{"id": "in-m10-rn-01", "title": "Euclid's division lemma and algorithm"}, {"id": "in-m10-rn-02", "title": "Fundamental Theorem of Arithmetic, HCF and LCM"}, {"id": "in-m10-rn-03", "title": "Irrational numbers"}, {"id": "in-m10-rn-04", "title": "Decimal expansions of rational numbers"}]}, {"id": "in-m10-po", "title": "Polynomials", "lessons": [{"id": "in-m10-po-01", "title": "Polynomials, degree and zeroes"}, {"id": "in-m10-po-02", "title": "Zeroes and graphs of polynomials"}, {"id": "in-m10-po-03", "title": "Relationship between zeroes and coefficients"}, {"id": "in-m10-po-04", "title": "Cubic polynomials and the division algorithm"}]}, {"id": "in-m10-le", "title": "Pair of Linear Equations in Two Variables", "lessons": [{"id": "in-m10-le-01", "title": "Pair of linear equations and the graphical method"}, {"id": "in-m10-le-02", "title": "Consistency and the ratio conditions"}, {"id": "in-m10-le-03", "title": "Substitution and elimination methods"}, {"id": "in-m10-le-04", "title": "Word problems and reducible equations"}]}]}]
 }

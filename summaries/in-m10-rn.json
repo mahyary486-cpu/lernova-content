@@ -1,0 +1,6 @@
+{
+ "Euclid's division lemma and algorithm": "a = bq + r with 0 ≤ r < b; the algorithm finds the HCF by repeated division.",
+ "Fundamental Theorem of Arithmetic, HCF and LCM": "Prime factorisation is unique. HCF × LCM = product of the two numbers.",
+ "Irrational numbers": "Irrational numbers are not p/q; roots like √2 are proved irrational by contradiction.",
+ "Decimal expansions of rational numbers": "p/q terminates if q = 2ⁿ5ᵐ; otherwise it repeats."
+}
