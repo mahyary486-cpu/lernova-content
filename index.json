@@ -7594,6 +7594,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 10,
+      "subject": "Chemistry",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn10c-ch1",
+          "title": "物质及其变化",
+          "lessons": [
+            {
+              "id": "cn10c-ch1-l1",
+              "title": "物质的分类与分散系"
+            },
+            {
+              "id": "cn10c-ch1-l2",
+              "title": "离子反应"
+            },
+            {
+              "id": "cn10c-ch1-l3",
+              "title": "氧化还原反应"
+            }
+          ]
+        },
+        {
+          "id": "cn10c-ch2",
+          "title": "钠和氯",
+          "lessons": [
+            {
+              "id": "cn10c-ch2-l1",
+              "title": "钠及其化合物"
+            },
+            {
+              "id": "cn10c-ch2-l2",
+              "title": "氯气及氯的化合物"
+            },
+            {
+              "id": "cn10c-ch2-l3",
+              "title": "氯气的实验室制法与氯离子的检验"
+            }
+          ]
+        },
+        {
+          "id": "cn10c-ch3",
+          "title": "物质的量",
+          "lessons": [
+            {
+              "id": "cn10c-ch3-l1",
+              "title": "物质的量与摩尔质量"
+            },
+            {
+              "id": "cn10c-ch3-l2",
+              "title": "气体摩尔体积"
+            },
+            {
+              "id": "cn10c-ch3-l3",
+              "title": "物质的量浓度"
+            }
+          ]
+        },
+        {
+          "id": "cn10c-ch4",
+          "title": "铁和金属材料",
+          "lessons": [
+            {
+              "id": "cn10c-ch4-l1",
+              "title": "铁的单质、氧化物和氢氧化物"
+            },
+            {
+              "id": "cn10c-ch4-l2",
+              "title": "铁盐和亚铁盐"
+            },
+            {
+              "id": "cn10c-ch4-l3",
+              "title": "金属材料与铝"
+            }
+          ]
+        },
+        {
+          "id": "cn10c-ch5",
+          "title": "原子结构与元素周期律",
+          "lessons": [
+            {
+              "id": "cn10c-ch5-l1",
+              "title": "原子结构与核外电子排布"
+            },
+            {
+              "id": "cn10c-ch5-l2",
+              "title": "元素周期表"
+            },
+            {
+              "id": "cn10c-ch5-l3",
+              "title": "元素周期律"
+            }
+          ]
+        },
+        {
+          "id": "cn10c-ch6",
+          "title": "化学反应与能量",
+          "lessons": [
+            {
+              "id": "cn10c-ch6-l1",
+              "title": "化学键"
+            },
+            {
+              "id": "cn10c-ch6-l2",
+              "title": "化学反应与热能"
+            },
+            {
+              "id": "cn10c-ch6-l3",
+              "title": "原电池与化学反应速率"
+            }
+          ]
+        },
+        {
+          "id": "cn10c-ch7",
+          "title": "硫、氮及其化合物",
+          "lessons": [
+            {
+              "id": "cn10c-ch7-l1",
+              "title": "硫及其化合物"
+            },
+            {
+              "id": "cn10c-ch7-l2",
+              "title": "氮及其化合物"
+            },
+            {
+              "id": "cn10c-ch7-l3",
+              "title": "酸雨与无机非金属材料"
+            }
+          ]
+        },
+        {
+          "id": "cn10c-ch8",
+          "title": "有机化合物",
+          "lessons": [
+            {
+              "id": "cn10c-ch8-l1",
+              "title": "甲烷与烷烃"
+            },
+            {
+              "id": "cn10c-ch8-l2",
+              "title": "乙烯与苯"
+            },
+            {
+              "id": "cn10c-ch8-l3",
+              "title": "乙醇和乙酸"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
