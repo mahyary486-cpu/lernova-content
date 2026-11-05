@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Two figures with the same shape but not necessarily the same size are|similar|congruent|equal|identical|0|Similar figures are enlargements or reductions of each other.
+Congruent figures are|only the same shape|identical in shape and size|only the same area|of different shapes|1|One fits exactly on the other.
+All circles are|congruent|not similar|similar|equal in size|2|They have the same shape.
+All squares are|congruent|not similar|equal in size|similar|3|All angles are 90° and sides are proportional.
+The Basic Proportionality Theorem is also called|Thales' theorem|Pythagoras' theorem|Euclid's theorem|Apollonius' theorem|0|It was stated by Thales.
+In ΔABC, if DE ∥ BC with D on AB and E on AC, then AD/DB =|DB/AD|AE/EC|AE/AC|BC/DE|1|A line parallel to one side divides the other two sides in the same ratio.
+By the AA criterion two triangles are similar if|two sides are equal|one angle is equal|two angles of one equal two angles of the other|their areas are equal|2|The third angles are then equal too.
+By the SSS criterion two triangles are similar if|only their angles are equal|their areas are equal|their perimeters are equal|corresponding sides are in the same ratio|3|All three ratios must be equal.
+In similar triangles the corresponding angles are|equal|proportional|supplementary|all right angles|0|This is part of the definition.
+In similar triangles the corresponding sides are|equal|proportional|parallel|perpendicular|1|The ratio is the scale factor.
+Pythagoras theorem states that in a right triangle|hypotenuse = sum of the other two sides|a + b = c|hypotenuse² = sum of squares of the other two sides|(a + b)² = c²|2|c² = a² + b².
+The longest side of a right triangle is the|base|altitude|median|hypotenuse|3|It is opposite the right angle.
+A Pythagorean triplet is|3, 4, 5|2, 3, 4|4, 5, 7|1, 2, 3|0|9 + 16 = 25.
+In similar triangles the ratio of corresponding sides is|different for each pair|the same for all pairs|always 1|zero|1|That ratio is the scale factor.
+The symbol for similarity is|≅|∥|∼|⊥|2|ΔABC ∼ ΔPQR.
+The symbol for congruence is|∼|∥|⊥|≅|3|ΔABC ≅ ΔPQR.
+The converse of the BPT says that a line dividing two sides in the same ratio is|parallel to the third side|perpendicular to the third side|equal to the third side|a bisector of the angle|0|The ratio condition forces the line to be parallel.
+In ΔABC, DE ∥ BC, AD = 2, DB = 3 and AE = 4. Then EC =|3|6|8|2|1|2/3 = 4/EC.
+The sides 5, 12, 13 form|an acute triangle|an obtuse triangle|a right triangle|an equilateral triangle|2|25 + 144 = 169.
+The hypotenuse of a right triangle with legs 6 and 8 is|14|12|9|10|3|√(36 + 64) = 10.
+A right triangle has hypotenuse 13 and one leg 5. The other leg is|12|8|10|18|0|√(169 − 25) = 12.
+The ratio of the areas of two similar triangles equals|the ratio of corresponding sides|the square of the ratio of corresponding sides|the cube of that ratio|the sum of the sides|1|Area scales as the square of length.
+Two similar triangles have corresponding sides in ratio 1 : 2. Their areas are in ratio|1 : 2|2 : 1|1 : 4|1 : 8|2|1² : 2².
+Two similar triangles have areas in ratio 9 : 16. Their sides are in ratio|9 : 16|4 : 3|81 : 256|3 : 4|3|Take square roots.
+ΔABC ∼ ΔDEF with AB = 4, DE = 6 and BC = 8. Then EF =|12|10|16|9|0|4/6 = 8/EF.
+ΔABC ∼ ΔPQR with AB/PQ = 2/3 and perimeter of ΔABC = 20. The perimeter of ΔPQR is|40/3|30|60|10|1|20 × 3/2 = 30.
+The areas of two similar triangles are in ratio 4 : 9. Their altitudes are in ratio|4 : 9|3 : 2|2 : 3|16 : 81|2|Corresponding altitudes follow the side ratio.
+The ratio of the perimeters of similar triangles equals the ratio of|squares of sides|areas|cubes of sides|corresponding sides|3|Perimeter is a sum of lengths.
+7² + 24² =|625|576|49|600|0|49 + 576 = 625 = 25².
+ΔABC is right-angled at B with AB = 5 and BC = 12. Then AC =|17|13|7|11|1|√(25 + 144) = 13.
+The diagonal of a rectangle of sides 8 and 6 is|14|12|10|9|2|√(64 + 36) = 10.
+The diagonal of a square of side 5 is|10|5|25|5√2|3|√(25 + 25).
+In ΔABC, DE ∥ BC, AD = 1.5, DB = 3 and AE = 1. Then EC =|2|1.5|3|0.5|0|1.5/3 = 1/EC.
+One triangle has angles 50° and 60° and another has angles 60° and 70°. The triangles are|congruent|similar by AA|not similar|both equilateral|1|Both have angles 50°, 60°, 70°.
+All equilateral triangles are|congruent|right-angled|similar|scalene|2|All angles are 60°.
+By the SAS criterion triangles are similar if one angle is equal and the sides including it are|equal|parallel|perpendicular|proportional|3|The ratio of the two including sides must match.
+When the altitude is drawn from the right angle to the hypotenuse, the two triangles formed are|similar to the whole triangle and to each other|congruent|equilateral|isosceles|0|They share angles with the original triangle.
+ΔABC ∼ ΔDEF, areas 64 cm² and 121 cm², EF = 15.4 cm. Then BC =|12 cm|11.2 cm|14 cm|10 cm|1|BC/EF = 8/11.
+A 10 m ladder reaches a window 8 m high. The foot of the ladder is from the wall|4 m|2 m|6 m|12.8 m|2|√(100 − 64) = 6.
+A man walks 15 m west and then 8 m north. His distance from the start is|23 m|7 m|13 m|17 m|3|√(225 + 64) = 17.
+The height of an equilateral triangle of side 2a is|√3 a|2a|a/√3|√2 a|0|h = (√3/2) × 2a.
+In an equilateral triangle the square on the altitude equals|1/2 of it|3/4 of the square on a side|2/3 of it|4/3 of it|1|h² = 3a²/4.
+ΔABC ∼ ΔDEF with areas 9 and 16. The ratio of their perimeters is|9 : 16|4 : 3|3 : 4|16 : 9|2|Perimeters follow the side ratio.
+Two similar triangles have sides in ratio 3 : 5. The smaller has area 27 cm². The larger has area|45 cm²|135 cm²|125 cm²|75 cm²|3|27 × 25/9 = 75.
+If two similar triangles have equal areas, they are|congruent|not similar|right-angled|isosceles|0|The scale factor must be 1.
+Triangles with sides 3, 4, 5 and 6, 8, 10 are|congruent|similar by SSS|not similar|similar only by AA|1|All ratios are 1 : 2.
+In trapezium ABCD with AB ∥ DC, the diagonals meet at O. Then AO/OC =|OD/OB|OA/OD|OB/OD|OC/OB|2|ΔAOB ∼ ΔCOD.
+Two poles of heights 6 m and 11 m stand 12 m apart. The distance between their tops is|12 m|17 m|15 m|13 m|3|√(25 + 144) = 13.
+The hypotenuse of a right isosceles triangle with legs 7 is|7√2|14|7|49|0|√(49 + 49).
+In ΔABC, DE ∥ BC with AD/AB = 2/5 and BC = 10 cm. Then DE =|5 cm|4 cm|2 cm|25 cm|1|DE/BC = AD/AB.

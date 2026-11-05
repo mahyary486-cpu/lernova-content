@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+In an AP each term is obtained by adding a fixed number called the|common difference|common ratio|mean|median|0|The fixed number is d.
+The common difference of 2, 5, 8, 11, … is|2|3|−3|5|1|5 − 2 = 3.
+Which of these lists is an AP?|1, 2, 4, 8|1, 4, 9, 16|3, 6, 9, 12|2, 4, 7, 11|2|The difference is always 3.
+The nth term of an AP with first term a and common difference d is|a + nd|a − (n − 1)d|a × dⁿ⁻¹|a + (n − 1)d|3|Add d (n − 1) times to a.
+The sum of the first n terms of an AP is|n/2 [2a + (n − 1)d]|n[2a + d]|n/2 [a + nd]|n(a + d)|0|Sₙ = n/2 (a + l) as well.
+The first term of the AP 7, 10, 13, … is|10|7|3|13|1|The first term is a.
+The next term of 2, 4, 6, 8, … is|9|12|10|16|2|Add d = 2.
+The common difference of 10, 7, 4, 1, … is|3|−7|10|−3|3|7 − 10 = −3.
+The 10th term of 1, 2, 3, … is|10|9|11|1|0|aₙ = n here.
+The sum of the first n natural numbers is|n²|n(n + 1)/2|n(n − 1)/2|n(n + 1)|1|Gauss's formula.
+The sum of the first 10 natural numbers is|45|50|55|100|2|10 × 11 / 2.
+If d = 0, the AP is|increasing|decreasing|alternating|a constant list|3|All terms are equal to a.
+If d > 0, the AP is|increasing|decreasing|constant|alternating|0|Each term is larger than the previous one.
+If d < 0, the AP is|increasing|decreasing|constant|undefined|1|Each term is smaller than the previous one.
+Is 1, 3, 9, 27, … an AP?|Yes|Only if d = 3|No|Only the first three terms|2|The differences are 2, 6, 18.
+In Sₙ = n/2 (a + l), l is|the first term|the common difference|the number of terms|the last term|3|Use it when the last term is known.
+The sum of the first n odd natural numbers is|n²|n(n + 1)|n²/2|2n|0|1 + 3 + 5 + … + (2n − 1) = n².
+The 20th term of 3, 7, 11, … is|83|79|77|75|1|3 + 19 × 4 = 79.
+The 10th term of 2, 7, 12, … is|52|42|47|45|2|2 + 9 × 5 = 47.
+Which term of the AP 3, 8, 13, … is 78?|15th|17th|14th|16th|3|3 + (n − 1) × 5 = 78 gives n = 16.
+Is 301 a term of 5, 11, 17, 23, …?|No|Yes, the 50th term|Yes, the 51st term|Yes, the 49th term|0|(301 − 5)/6 is not an integer.
+The number of terms in 7, 13, 19, …, 205 is|33|34|35|32|1|(205 − 7)/6 + 1 = 34.
+The 11th term of −3, −1/2, 2, … is|25|20|22|23|2|d = 5/2, so −3 + 10 × 5/2 = 22.
+The sum of the first 10 terms of 2, 7, 12, … is|250|240|490|245|3|5 × (4 + 45) = 245.
+The sum of the first 20 terms of 1, 3, 5, … is|400|200|420|441|0|n² = 400.
+The sum 1 + 2 + 3 + … + 100 is|5000|5050|10100|4950|1|100 × 101 / 2.
+The sum of the first 15 multiples of 8 is|120|1000|960|1920|2|15/2 × (8 + 120) = 960.
+If a = 5 and d = 3, then a₁₀ =|35|30|27|32|3|5 + 9 × 3 = 32.
+If a = 5 and a₁₀ = 41, then d =|4|3|5|6|0|9d = 36.
+If 3, x, 11 are in AP, then x =|8|7|6|14|1|x is the mean of 3 and 11.
+If k + 2, 4k − 6 and 3k − 2 are in AP, then k =|2|4|3|6|2|2(4k − 6) = (k + 2) + (3k − 2).
+If Sₙ = n², then the first term is|0|2|n|1|3|a₁ = S₁ = 1.
+The number of two-digit numbers divisible by 3 is|30|29|31|33|0|The numbers run from 12 to 99.
+The sum of the first 5 terms of 2, 4, 6, … is|20|30|25|35|1|2 + 4 + 6 + 8 + 10.
+The number of multiples of 4 between 10 and 250 is|59|61|60|62|2|They run from 12 to 248.
+The sum of the first 22 terms of 8, 3, −2, … is|979|−1000|−969|−979|3|S = 11 × (16 − 105) = −979.
+If the 3rd term is 5 and the 7th term is 9, the first term is|3|2|4|5|0|d = 1 and a = 5 − 2 = 3.
+The sum of the first 7 terms of an AP is 63 and of the first 14 terms is 224. The 28th term is|60|57|56|54|1|a = 3, d = 2, so a₂₈ = 3 + 54.
+In an AP a₃ = 16 and a₇ − a₅ = 12. The sum of the first 12 terms is|440|450|444|432|2|d = 6, a = 4, S = 6 × 74.
+The sum of all natural numbers from 1 to 100 divisible by 3 is|1650|1700|1716|1683|3|3 + 6 + … + 99 = 33/2 × 102.
+How many terms of 24, 21, 18, … give the sum 78?|4 or 13|4 only|13 only|6 or 11|0|n² − 17n + 52 = 0 gives n = 4 or 13.
+The sum of the first 16 terms of 10, 6, 2, … is|320|−320|−300|−340|1|8 × (20 − 60) = −320.
+Which term of the AP 21, 42, 63, … is 420?|19th|21st|20th|10th|2|21n = 420.
+Houses on a street are numbered 1 to 49. The house number x with equal sums before and after is|36|34|25|35|3|The sums of 1 to 34 and 36 to 49 are both 595.
+If Sₙ = 3n² + n, the common difference is|6|3|4|10|0|a₁ = 4, a₂ = 10.
+The nth term of an AP is 3 + 2n. The sum of the first 25 terms is|700|725|750|650|1|25/2 × (5 + 53) = 725.
+Three numbers in AP have sum 21 and product 280. The numbers are|3, 7, 11|5, 7, 9|4, 7, 10|2, 7, 12|2|The middle term is 7 and d = 3.
+Rungs of a 2.5 m ladder are 25 cm apart and taper uniformly from 45 cm to 25 cm. The wood needed for the rungs is|350 cm|420 cm|300 cm|385 cm|3|There are 11 rungs: 11/2 × (45 + 25) = 385.
+The 17th term of an AP exceeds its 10th term by 7. The common difference is|1|7|2|0.7|0|7d = 7.
+The nth term of an AP is 4n + 1. The sum of the first 15 terms is|480|495|510|525|1|15/2 × (5 + 61) = 495.

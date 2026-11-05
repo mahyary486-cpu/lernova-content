@@ -1,0 +1,6 @@
+{
+ "Arithmetic progression and the nth term": "aₙ = a + (n − 1)d with common difference d.",
+ "Finding terms and number of terms": "Solve a + (n − 1)d = value; n = (l − a)/d + 1.",
+ "Sum of the first n terms": "Sₙ = n/2 [2a + (n − 1)d] = n/2 (a + l).",
+ "Applications of AP": "Identify a, d, n and apply aₙ or Sₙ."
+}
