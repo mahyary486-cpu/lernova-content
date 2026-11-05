@@ -1,0 +1,6 @@
+{
+ "Vecteurs, repérage et coordonnées dans l’espace": "Dans un repère orthonormé (O ; i, j, k), un point a trois coordonnées (x ; y ; z). Le vecteur AB a pour coordonnées (xB − xA ; yB − yA ; zB − zA), le milieu de [AB] a pour coordonnées la moyenne des coordonnées, et la distance AB vaut √((xB − xA)² + (yB − yA)² + (zB − zA)²). Trois points sont alignés si les vecteurs AB et AC sont colinéaires.",
+ "Droites de l’espace : représentation paramétrique": "Une droite passant par A(x_A ; y_A ; z_A) de vecteur directeur u(a ; b ; c) est l’ensemble des points M(x ; y ; z) tels que x = x_A + ta, y = y_A + tb, z = z_A + tc avec t réel. C’est une représentation paramétrique de la droite.",
+ "Produit scalaire, orthogonalité et plans définis par un vecteur normal": "Dans un repère orthonormé de l’espace, le produit scalaire de u(x ; y ; z) et v(x’ ; y’ ; z’) est u·v = xx’ + yy’ + zz’. Deux vecteurs sont orthogonaux si u·v = 0. Un plan de vecteur normal n(a ; b ; c) a une équation cartésienne ax + by + cz + d = 0.",
+ "Positions relatives et intersections de droites et de plans": "Une droite de vecteur directeur u et un plan de vecteur normal n sont parallèles si u·n = 0 (la droite est alors incluse dans le plan ou strictement parallèle) ; sinon ils sont sécants en un point que l’on trouve en remplaçant la représentation paramétrique dans l’équation du plan."
+}

@@ -1,0 +1,6 @@
+{
+ "Fonction logarithme népérien : définition et propriétés algébriques": "La fonction ln est la réciproque de la fonction exponentielle : pour x > 0, e^(ln x) = x, et pour tout réel y, ln(e^y) = y. Elle est définie sur ]0 ; +∞[ et vérifie ln 1 = 0, ln e = 1, ln(ab) = ln a + ln b, ln(1/a) = −ln a, ln(a/b) = ln a − ln b et ln(a^n) = n ln a.",
+ "Étude de la fonction ln : dérivée, variations et limites": "La fonction ln est dérivable sur ]0 ; +∞[ et (ln x)’ = 1/x. Elle est strictement croissante, avec lim(x→0+) ln x = −∞ et lim(x→+∞) ln x = +∞. Elle est concave, et ln x ≤ x − 1 pour tout x > 0. Pour x > 0, ln x > 0 équivaut à x > 1.",
+ "Équations et inéquations avec ln et exp": "Pour résoudre une équation avec ln, on détermine d’abord l’ensemble de définition, puis on utilise ln a = ln b ⇔ a = b (a, b > 0) et ln x = c ⇔ x = e^c. Pour une inéquation, ln étant strictement croissante, ln a ≤ ln b ⇔ a ≤ b. Avec l’exponentielle, e^x ≤ c ⇔ x ≤ ln c (c > 0).",
+ "Croissances comparées": "Pour tout entier n ≥ 1 : lim(x→+∞) ln x/x^n = 0, lim(x→0+) x^n ln x = 0, lim(x→+∞) e^x/x^n = +∞ et lim(x→+∞) x^n e^(−x) = 0. L’exponentielle l’emporte sur toute puissance, qui l’emporte elle-même sur le logarithme."
+}

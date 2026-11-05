@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Que vaut la limite de 1/n quand n tend vers +∞ ?|1|0|+∞|−∞|1|1/n devient aussi petit que l’on veut.
+Que vaut la limite de n² quand n tend vers +∞ ?|0|1|n|+∞|3|n² devient aussi grand que l’on veut.
+Que vaut la limite de (1/2)^n ?|0|1/2|+∞|1|0|Pour −1 < q < 1, lim q^n = 0.
+Que vaut la limite de 2^n ?|0|2|+∞|1|2|Pour q > 1, lim q^n = +∞.
+La suite (−1)^n :|converge vers 1|converge vers −1|n’a pas de limite|tend vers +∞|2|Elle vaut alternativement 1 et −1.
+Quelles sont les trois étapes d’un raisonnement par récurrence ?|Initialisation, hérédité, conclusion|Définition, calcul, vérification|Hypothèse, exemple, conclusion|Initialisation, calcul, limite|0|On vérifie le premier rang, on prouve que la propriété se transmet, puis on conclut.
+Une suite croissante et majorée est :|divergente|constante|non bornée|convergente|3|C’est le théorème de convergence monotone.
+Que vaut la limite de 3 + 1/n ?|4|3|+∞|0|1|1/n tend vers 0.
+Si q = 1, que vaut la limite de q^n ?|0|1|+∞|Elle n’existe pas|1|1^n = 1 pour tout n.
+Que vaut la limite de √n ?|0|1|n|+∞|3|√n devient aussi grand que l’on veut.
+Que vaut la limite de (3n + 1)/(n + 2) ?|3|+∞|1/2|0|0|On divise par n : (3 + 1/n)/(1 + 2/n) tend vers 3.
+Que vaut la limite de n² − 3n + 5 ?|−∞|5|+∞|0|2|n² − 3n + 5 = n²(1 − 3/n + 5/n²) et n² tend vers +∞.
+Que vaut la limite de (2n² + 1)/(n² + 3) ?|+∞|0|2|1/3|2|(2 + 1/n²)/(1 + 3/n²) tend vers 2.
+Que vaut la limite de (−0,5)^n ?|0|−0,5|1|+∞|0|Pour −1 < q < 1, q^n tend vers 0.
+Que vaut la limite de 2 − 3/n² ?|−3|0|+∞|2|3|3/n² tend vers 0.
+u_n ≤ v_n ≤ w_n avec lim u_n = lim w_n = 2. Que peut-on dire de v_n ?|v_n tend vers +∞|v_n converge vers 2|v_n n’a pas de limite|v_n converge vers 0|1|C’est le théorème des gendarmes.
+Que vaut la limite de cos(n)/n ?|1|0|+∞|Elle n’existe pas|1|−1/n ≤ cos(n)/n ≤ 1/n et les deux bornes tendent vers 0.
+Si u_n ≥ n pour tout n, alors :|lim u_n = 0|lim u_n = 1|u_n est décroissante|lim u_n = +∞|3|C’est le théorème de comparaison.
+u_0 = 1 et u_(n+1) = u_n/2 + 1. Si la suite converge, quelle est sa limite ?|2|1|1/2|0|0|ℓ = ℓ/2 + 1 donne ℓ = 2.
+Dans une récurrence, l’étape qui montre que P(n) entraîne P(n + 1) s’appelle :|l’initialisation|la conclusion|l’hérédité|la limite|2|C’est le caractère héréditaire de la propriété.
+Que vaut la limite de n − √n ?|0|1|+∞|−∞|2|n − √n = n(1 − 1/√n) et 1 − 1/√n tend vers 1.
+Que vaut la limite de √(n + 1) − √n ?|0|1|+∞|1/2|0|√(n + 1) − √n = 1/(√(n + 1) + √n), qui tend vers 0.
+Que vaut la limite de 3^n − 2^n ?|0|1|−∞|+∞|3|3^n − 2^n = 3^n(1 − (2/3)^n) et 3^n tend vers +∞.
+Que vaut la limite de (2^n + 3^n)/3^n ?|0|1|+∞|5|1|(2/3)^n + 1 tend vers 0 + 1 = 1.
+Que vaut la limite de (n + 1)/(n² + 1) ?|1|0|+∞|1/2|1|(1/n + 1/n²)/(1 + 1/n²) tend vers 0.
+Quelle est la limite de 1 + 1/2 + 1/4 + … + 1/2^n quand n tend vers +∞ ?|1|+∞|3/2|2|3|La somme vaut (1 − (1/2)^(n+1))/(1/2) qui tend vers 2.
+u_0 = 0 et u_(n+1) = 0,5u_n + 3. Si la suite converge, quelle est sa limite ?|6|3|0|1,5|0|ℓ = 0,5ℓ + 3 donne 0,5ℓ = 3, donc ℓ = 6.
+Une suite croissante qui n’est pas majorée :|converge vers 0|est constante|tend vers +∞|n’a pas de limite|2|Elle dépasse tout nombre donné à partir d’un certain rang.
+Pour montrer 2^n ≥ n + 1 par récurrence, quelle hérédité est correcte ?|2^(n+1) = 2^n + 2 ≥ n + 3|2^(n+1) = 2^n ≥ n + 2|2^(n+1) = 2 × 2^n ≥ 2(n + 1) ≥ n + 2|2^(n+1) = n + 2|2|On utilise l’hypothèse 2^n ≥ n + 1 puis 2n + 2 ≥ n + 2 car n ≥ 0.
+Que vaut la limite de 1 000 × 1,02^n ?|+∞|1 000|0|2 000|0|1,02 > 1 : le capital croît sans borne.

@@ -1,0 +1,188 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 12,
+   "country": "FR",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "fr-m12-01",
+     "title": "Suites : récurrence, limites et convergence",
+     "lessons": [
+      {
+       "id": "fr-m12-01-01",
+       "title": "Raisonnement par récurrence"
+      },
+      {
+       "id": "fr-m12-01-02",
+       "title": "Limite d’une suite et suites de référence"
+      },
+      {
+       "id": "fr-m12-01-03",
+       "title": "Opérations sur les limites et théorème des gendarmes"
+      },
+      {
+       "id": "fr-m12-01-04",
+       "title": "Suites monotones, bornées et convergence"
+      }
+     ]
+    },
+    {
+     "id": "fr-m12-02",
+     "title": "Limites de fonctions, continuité et valeurs intermédiaires",
+     "lessons": [
+      {
+       "id": "fr-m12-02-01",
+       "title": "Limites en l’infini et asymptotes"
+      },
+      {
+       "id": "fr-m12-02-02",
+       "title": "Limites en un point, opérations et formes indéterminées"
+      },
+      {
+       "id": "fr-m12-02-03",
+       "title": "Continuité"
+      },
+      {
+       "id": "fr-m12-02-04",
+       "title": "Théorème des valeurs intermédiaires"
+      }
+     ]
+    },
+    {
+     "id": "fr-m12-03",
+     "title": "Logarithme népérien et croissances comparées",
+     "lessons": [
+      {
+       "id": "fr-m12-03-01",
+       "title": "Fonction logarithme népérien : définition et propriétés algébriques"
+      },
+      {
+       "id": "fr-m12-03-02",
+       "title": "Étude de la fonction ln : dérivée, variations et limites"
+      },
+      {
+       "id": "fr-m12-03-03",
+       "title": "Équations et inéquations avec ln et exp"
+      },
+      {
+       "id": "fr-m12-03-04",
+       "title": "Croissances comparées"
+      }
+     ]
+    },
+    {
+     "id": "fr-m12-04",
+     "title": "Dérivation d’une composée et convexité",
+     "lessons": [
+      {
+       "id": "fr-m12-04-01",
+       "title": "Dérivée d’une fonction composée"
+      },
+      {
+       "id": "fr-m12-04-02",
+       "title": "Études de fonctions avec exp, ln et composées"
+      },
+      {
+       "id": "fr-m12-04-03",
+       "title": "Dérivée seconde et convexité"
+      },
+      {
+       "id": "fr-m12-04-04",
+       "title": "Points d’inflexion"
+      }
+     ]
+    },
+    {
+     "id": "fr-m12-05",
+     "title": "Primitives et équations différentielles",
+     "lessons": [
+      {
+       "id": "fr-m12-05-01",
+       "title": "Primitives : définition et primitives usuelles"
+      },
+      {
+       "id": "fr-m12-05-02",
+       "title": "Primitives et opérations"
+      },
+      {
+       "id": "fr-m12-05-03",
+       "title": "Équations différentielles y’ = ay"
+      },
+      {
+       "id": "fr-m12-05-04",
+       "title": "Équations différentielles y’ = ay + b"
+      }
+     ]
+    },
+    {
+     "id": "fr-m12-06",
+     "title": "Calcul intégral",
+     "lessons": [
+      {
+       "id": "fr-m12-06-01",
+       "title": "Intégrale d’une fonction continue et aire"
+      },
+      {
+       "id": "fr-m12-06-02",
+       "title": "Propriétés de l’intégrale"
+      },
+      {
+       "id": "fr-m12-06-03",
+       "title": "Calcul d’intégrales avec une primitive"
+      },
+      {
+       "id": "fr-m12-06-04",
+       "title": "Valeur moyenne et intégration par parties"
+      }
+     ]
+    },
+    {
+     "id": "fr-m12-07",
+     "title": "Probabilités : sommes de variables aléatoires et concentration",
+     "lessons": [
+      {
+       "id": "fr-m12-07-01",
+       "title": "Épreuves indépendantes, schéma de Bernoulli et loi binomiale"
+      },
+      {
+       "id": "fr-m12-07-02",
+       "title": "Somme de variables aléatoires : espérance et variance"
+      },
+      {
+       "id": "fr-m12-07-03",
+       "title": "Inégalités de concentration et loi des grands nombres"
+      },
+      {
+       "id": "fr-m12-07-04",
+       "title": "Échantillonnage, fluctuation et estimation"
+      }
+     ]
+    },
+    {
+     "id": "fr-m12-08",
+     "title": "Géométrie dans l’espace : vecteurs, droites et plans",
+     "lessons": [
+      {
+       "id": "fr-m12-08-01",
+       "title": "Vecteurs, repérage et coordonnées dans l’espace"
+      },
+      {
+       "id": "fr-m12-08-02",
+       "title": "Droites de l’espace : représentation paramétrique"
+      },
+      {
+       "id": "fr-m12-08-03",
+       "title": "Produit scalaire, orthogonalité et plans définis par un vecteur normal"
+      },
+      {
+       "id": "fr-m12-08-04",
+       "title": "Positions relatives et intersections de droites et de plans"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{
+ "Dérivée d’une fonction composée": "Si u est dérivable en x et g dérivable en u(x), alors g(u(x)) est dérivable et (g ∘ u)’(x) = u’(x) × g’(u(x)). Cas usuels : (e^u)’ = u’e^u, (ln u)’ = u’/u (u > 0), (u^n)’ = n u’ u^(n−1) et (√u)’ = u’/(2√u) (u > 0).",
+ "Études de fonctions avec exp, ln et composées": "Pour étudier une fonction, on détermine son ensemble de définition, on calcule f’, on étudie son signe (en factorisant les facteurs toujours positifs comme e^u), on dresse le tableau de variations avec les limites et on trace la courbe. On utilise aussi les tangentes et les asymptotes.",
+ "Dérivée seconde et convexité": "Une fonction dérivable f est convexe sur I si sa dérivée f’ est croissante, c’est-à-dire si f’’ ≥ 0 sur I ; sa courbe est alors au-dessus de ses tangentes. Elle est concave si f’ est décroissante (f’’ ≤ 0) ; sa courbe est alors en dessous de ses tangentes.",
+ "Points d’inflexion": "Un point d’inflexion est un point où la courbe traverse sa tangente, c’est-à-dire où la convexité change. Pour une fonction deux fois dérivable, c’est un point où f’’ s’annule en changeant de signe. Un point d’inflexion marque un changement de concavité."
+}

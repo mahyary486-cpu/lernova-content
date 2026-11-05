@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Quelle est une primitive de f(x) = 2x ?|2|x²|x|2x²|1|(x²)’ = 2x.
+Quelle est une primitive de e^x ?|x e^x|e^(x+1)/(x+1)|1|e^x|3|(e^x)’ = e^x.
+Quelle est une primitive de 1/x sur ]0 ; +∞[ ?|ln x|1/x²|−1/x|x ln x|0|(ln x)’ = 1/x.
+Deux primitives d’une même fonction diffèrent :|d’un facteur|de leur dérivée|d’une constante|d’une variable|2|Si F’ = G’ alors F − G est constante.
+Quelle est une primitive de la fonction constante 3 ?|3|x³|3x|3x²|2|(3x)’ = 3.
+Les solutions de y’ = y sont les fonctions :|C e^x|e^(Cx)|C x|C + e^x|0|y’ = ay donne y = Ce^(ax) avec a = 1.
+Quelle est une primitive de x² ?|x³|2x|x²/3|x³/3|3|(x³/3)’ = x².
+La fonction x² + 5 est une primitive de :|x²|2x|2x + 5|x|1|(x² + 5)’ = 2x.
+Les solutions de y’ = 2y sont :|C e^x|C e^(2x)|2C e^x|C + 2x|1|y’ = ay donne y = Ce^(ax) avec a = 2.
+Quelle est une primitive de 1/x² sur ]0 ; +∞[ ?|1/x|ln x|x|−1/x|3|(−1/x)’ = 1/x².
+Quelle est une primitive de 3x² + 2x ?|x³ + x²|x³ + 2x|6x + 2|3x³ + x²|0|(x³ + x²)’ = 3x² + 2x.
+Quelle est une primitive de e^(2x) ?|e^(2x)|2e^(2x)|e^(2x)/2|e^x|2|(e^(2x)/2)’ = e^(2x).
+Quelle est une primitive de 1/(2√x) ?|2√x|1/√x|√x|x√x|2|(√x)’ = 1/(2√x).
+Quelle est une primitive de x³ − x ?|x⁴/4 − x²/2|3x² − 1|x⁴ − x²|x⁴/4 − x|0|On intègre chaque terme.
+Quelle est une primitive de 2x e^(x²) ?|x e^(x²)|2e^(x²)|e^(2x)|e^(x²)|3|(e^(x²))’ = 2x e^(x²).
+Quelle est une primitive de 2x/(x² + 1) ?|2 ln(x² + 1)|ln(x² + 1)|1/(x² + 1)|ln(2x)|1|(ln u)’ = u’/u avec u = x² + 1.
+y’ = 3y et y(0) = 2. Quelle est la solution ?|y = 3e^(2x)|y = 2e^(3x)|y = e^(3x) + 1|y = 6e^x|1|y = Ce^(3x) avec C = y(0) = 2.
+y’ = −y et y(0) = 1. Quelle est la solution ?|y = −e^x|y = e^x|y = 1 − x|y = e^(−x)|3|C = 1 et a = −1.
+Quelles sont les solutions de y’ = 2y + 4 ?|y = Ce^(2x) − 2|y = Ce^(2x) + 2|y = Ce^(2x) + 4|y = 2e^x − 4|0|La solution constante est −b/a = −2.
+Quelle est une primitive de 1/√x ?|√x|1/(2√x)|2√x|x√x|2|(2√x)’ = 1/√x.
+Quelle est une primitive de 3(3x − 1)² ?|(3x − 1)³|3(3x − 1)³|(3x − 1)³/3|(3x − 1)²/3|2|u’u² a pour primitive u³/3 avec u = 3x − 1.
+Quelle est la primitive de 1/x sur ]0 ; +∞[ qui vaut 2 en x = 1 ?|ln x + 2|ln x|ln x − 2|2 ln x|0|F(x) = ln x + C et F(1) = C = 2.
+y’ = 2y + 6 et y(0) = 1. Quelle est la solution ?|y = e^(2x) − 3|y = 4e^(2x) + 3|y = 3e^(2x) − 2|y = 4e^(2x) − 3|3|y = Ce^(2x) − 3 et 1 = C − 3 donne C = 4.
+Quelles sont les solutions de y’ = −2y + 4 ?|y = Ce^(−2x) − 2|y = Ce^(−2x) + 2|y = Ce^(2x) + 2|y = Ce^(−2x) + 4|1|La solution constante est −b/a = −4/(−2) = 2.
+Quelle fonction est une primitive de x e^x ?|x e^x|(x − 1)e^x|(x + 1)e^x|x²e^x/2|1|((x − 1)e^x)’ = e^x + (x − 1)e^x = x e^x.
+Quelle est une primitive de e^(−x) ?|e^(−x)|e^x|−e^x|−e^(−x)|3|(−e^(−x))’ = e^(−x).
+Quelle est une primitive de 1/(x + 1) sur ]−1 ; +∞[ ?|ln(x + 1)|1/(x + 1)²|−1/(x + 1)|ln x + 1|0|(ln(x + 1))’ = 1/(x + 1).
+Quelle est une primitive de x/(x² + 1) ?|ln(x² + 1)|2 ln(x² + 1)|(1/2) ln(x² + 1)|x ln(x² + 1)|2|x/(x² + 1) = (1/2) × 2x/(x² + 1).
+N’(t) = −0,1N(t) et N(0) = 500. Quelle est la solution ?|N(t) = 500e^(0,1t)|N(t) = 500 − 0,1t|N(t) = 500e^(−0,1t)|N(t) = −0,1e^(500t)|2|N(t) = N(0)e^(at) avec a = −0,1.
+Un objet vérifie T’(t) = −0,5(T(t) − 20) avec T(0) = 80. Que vaut T(t) ?|T(t) = 20 + 60e^(−0,5t)|T(t) = 80e^(−0,5t)|T(t) = 20 + 80e^(−0,5t)|T(t) = 60 + 20e^(−0,5t)|0|T’ = −0,5T + 10 : T = Ce^(−0,5t) + 20 et T(0) = 80 donne C = 60.

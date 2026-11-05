@@ -1,0 +1,6 @@
+{
+ "Limites en l’infini et asymptotes": "Si lim(x→+∞) f(x) = ℓ, la droite y = ℓ est asymptote horizontale à la courbe. En l’infini, un polynôme se comporte comme son terme de plus haut degré et une fraction rationnelle comme le quotient des termes de plus haut degré. Limites usuelles : lim e^x = +∞ en +∞ et 0 en −∞ ; lim 1/x = 0 en ±∞.",
+ "Limites en un point, opérations et formes indéterminées": "Une limite en un réel a peut être finie ou infinie. Lorsque x tend vers a, 1/(x − a) tend vers +∞ si x > a et vers −∞ si x < a, d’où une asymptote verticale x = a. Les formes indéterminées (∞ − ∞, 0 × ∞, ∞/∞, 0/0) se lèvent en factorisant ou en simplifiant.",
+ "Continuité": "Une fonction f est continue en a si lim(x→a) f(x) = f(a). Une fonction est continue sur un intervalle si elle l’est en tout point. Les fonctions polynômes, rationnelles (là où elles sont définies), exp, ln et racine carrée sont continues sur leurs ensembles de définition. Toute fonction dérivable est continue.",
+ "Théorème des valeurs intermédiaires": "Si f est continue sur [a ; b] et si k est compris entre f(a) et f(b), l’équation f(x) = k a au moins une solution dans [a ; b]. Si de plus f est strictement monotone, cette solution est unique. On l’utilise pour montrer qu’une équation a une solution et pour l’encadrer par balayage ou dichotomie."
+}

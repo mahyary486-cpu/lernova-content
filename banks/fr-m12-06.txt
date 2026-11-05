@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Que vaut ∫_0^1 2x dx ?|2|1|0|1/2|1|[x²]_0^1 = 1.
+Que vaut ∫_0^2 3 dx ?|3|2|5|6|3|[3x]_0^2 = 6.
+Que vaut ∫_a^a f(x) dx ?|0|f(a)|1|a|0|L’intervalle d’intégration est réduit à un point.
+Que vaut ∫_0^1 x² dx ?|1|1/2|1/3|2|2|[x³/3]_0^1 = 1/3.
+Si F est une primitive de f, ∫_a^b f(x) dx est égale à :|F(a) − F(b)|F(a) + F(b)|F(b) − F(a)|f(b) − f(a)|2|C’est la définition de l’intégrale.
+Si f ≥ 0 sur [a ; b] avec a ≤ b, alors ∫_a^b f(x) dx est :|positive ou nulle|négative|toujours nulle|non définie|0|C’est la propriété de positivité.
+Que vaut ∫_0^3 x dx ?|9|3|6|9/2|3|[x²/2]_0^3 = 9/2.
+∫_a^b (f + g) est égale à :|∫_a^b f × ∫_a^b g|∫_a^b f + ∫_a^b g|∫_a^b f − ∫_a^b g|f(b) + g(b)|1|C’est la linéarité de l’intégrale.
+Que vaut ∫_0^1 e^x dx ?|e|e − 1|1|e + 1|1|[e^x]_0^1 = e − 1.
+∫_b^a f(x) dx est égale à :|∫_a^b f(x) dx|0|f(a) − f(b)|−∫_a^b f(x) dx|3|Inverser les bornes change le signe.
+Que vaut ∫_1^2 3x² dx ?|7|8|3|9|0|[x³]_1^2 = 8 − 1 = 7.
+Que vaut ∫_1^e (1/x) dx ?|e|0|1|e − 1|2|[ln x]_1^e = 1 − 0 = 1.
+Que vaut ∫_0^1 (x + 1) dx ?|1|2|3/2|1/2|2|[x²/2 + x]_0^1 = 1/2 + 1 = 3/2.
+Quelle est l’aire sous la courbe de y = x² entre x = 0 et x = 3 ?|9 unités d’aire|27 unités d’aire|3 unités d’aire|6 unités d’aire|0|∫_0^3 x² dx = [x³/3]_0^3 = 9.
+Que vaut ∫_0^(ln 2) e^x dx ?|2|ln 2|e|1|3|[e^x]_0^(ln 2) = 2 − 1 = 1.
+Quelle est la valeur moyenne de f(x) = x sur [0 ; 4] ?|4|2|8|1|1|(1/4) × ∫_0^4 x dx = (1/4) × 8 = 2.
+Que vaut ∫_0^2 (x² + 1) dx ?|10/3|14/3|8/3|6|1|[x³/3 + x]_0^2 = 8/3 + 2 = 14/3.
+Que vaut ∫_0^1 e^(2x) dx ?|e² − 1|(e − 1)/2|e²/2|(e² − 1)/2|3|[e^(2x)/2]_0^1 = (e² − 1)/2.
+D’après la relation de Chasles, ∫_0^2 f + ∫_2^5 f est égale à :|∫_0^5 f|∫_2^5 f|∫_0^2 f|0|0|Les intervalles se recollent.
+Que vaut ∫_(−1)^1 x³ dx ?|1/2|2|0|−1|2|La fonction x³ est impaire sur un intervalle symétrique : [x⁴/4]_(−1)^1 = 0.
+Que vaut ∫_0^1 x e^x dx ?|e|e − 1|1|0|2|Par parties : [x e^x]_0^1 − ∫_0^1 e^x dx = e − (e − 1) = 1.
+Que vaut ∫_1^e ln x dx ?|1|e|0|e − 1|0|Par parties : [x ln x]_1^e − ∫_1^e 1 dx = e − (e − 1) = 1.
+Que vaut ∫_0^1 2x e^(x²) dx ?|e|1|2e − 2|e − 1|3|[e^(x²)]_0^1 = e − 1.
+Que vaut ∫_0^1 x/(x² + 1) dx ?|ln 2|(ln 2)/2|1/2|ln 2 − 1|1|[(1/2) ln(x² + 1)]_0^1 = (1/2) ln 2.
+Quelle est l’aire entre les courbes de y = x et y = x² sur [0 ; 1] ?|1/2|1/6|1/3|5/6|1|∫_0^1 (x − x²) dx = 1/2 − 1/3 = 1/6.
+Quelle est la valeur moyenne de x² sur [0 ; 3] ?|9|1|27|3|3|(1/3) × ∫_0^3 x² dx = 9/3 = 3.
+Que vaut ∫_1^4 (1/√x) dx ?|2|4|1|6|0|[2√x]_1^4 = 4 − 2 = 2.
+Que vaut ∫_0^1 (3x² + 2x + 1) dx ?|6|2|3|1|2|[x³ + x² + x]_0^1 = 3.
+∫_0^3 f = 5 et ∫_0^2 f = 2. Que vaut ∫_2^3 f ?|7|10|3|−3|2|Chasles : ∫_2^3 f = ∫_0^3 f − ∫_0^2 f = 3.
+Que vaut ∫_0^2 x e^(x²) dx ?|(e⁴ − 1)/2|e⁴ − 1|e⁴/2|e² − 1|0|[e^(x²)/2]_0^2 = (e⁴ − 1)/2.

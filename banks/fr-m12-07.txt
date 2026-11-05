@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+E(X + Y) est égale à :|E(X) × E(Y)|E(X) + E(Y)|E(X) − E(Y)|V(X) + V(Y)|1|L’espérance est linéaire, que X et Y soient indépendantes ou non.
+Quelle est l’espérance de B(10 ; 0,5) ?|10|0,5|2,5|5|3|E(X) = np = 5.
+Quelle est la variance de B(n ; p) ?|np(1 − p)|np|n(1 − p)|p(1 − p)|0|V(X) = np(1 − p).
+V(aX) est égale à :|a V(X)|V(X)/a|a² V(X)|a + V(X)|2|La variance est quadratique.
+E(X) = 3. Que vaut E(2X + 1) ?|6|5|7|9|2|E(2X + 1) = 2 × 3 + 1 = 7.
+Si X et Y sont indépendantes, V(X + Y) vaut :|V(X) + V(Y)|V(X) × V(Y)|V(X) − V(Y)|E(X) + E(Y)|0|Les variances s’ajoutent pour des variables indépendantes.
+L’espérance d’une variable de Bernoulli de paramètre p vaut :|1 − p|p(1 − p)|1|p|3|X vaut 1 avec la probabilité p et 0 sinon.
+L’écart-type σ(X) est égal à :|V(X)²|√V(X)|V(X)/2|E(X)²|1|C’est la racine carrée de la variance.
+La moyenne M_n de n variables X_1, …, X_n est :|X_1 + … + X_n|(X_1 + … + X_n)/n|X_1 × … × X_n|n(X_1 + … + X_n)|1|C’est la somme divisée par n.
+Pour toute variable aléatoire X, V(X) est :|négative|toujours égale à 1|non définie|positive ou nulle|3|La variance est une moyenne de carrés.
+E(X) = 4 et V(X) = 9. Que vaut V(3X − 2) ?|81|27|79|7|0|V(3X − 2) = 3² × 9 = 81.
+E(X) = 4. Que vaut E(3X − 2) ?|12|14|10|6|2|3 × 4 − 2 = 10.
+X et Y sont indépendantes avec V(X) = 2 et V(Y) = 3. Que vaut V(X + Y) ?|6|1|5|√5|2|2 + 3 = 5.
+Quelle est la variance de B(20 ; 0,25) ?|3,75|5|3|15|0|20 × 0,25 × 0,75 = 3,75.
+M_n est la moyenne de n variables indépendantes de variance 16, avec n = 4. Que vaut V(M_n) ?|16|64|2|4|3|V(M_n) = V/n = 16/4 = 4.
+L’écart-type de chaque variable vaut 6 et n = 9. Que vaut σ(M_n) ?|6|2|18|54|1|σ/√n = 6/3 = 2.
+V(X) = 4 et δ = 4. Quelle est la borne de Bienaymé-Tchebychev pour P(∣X − E(X)∣ ≥ δ) ?|1|0,25|0,5|16|1|V/δ² = 4/16 = 0,25.
+X suit B(5 ; 0,5). Quelle est P(X = 5) ?|1/5|1/10|5/32|1/32|3|0,5⁵ = 1/32.
+La somme de deux variables de Bernoulli indépendantes de paramètre 0,5 suit :|B(2 ; 0,5)|B(1 ; 1)|B(0,5 ; 2)|une loi de Bernoulli|0|C’est une loi binomiale de paramètres 2 et 0,5.
+X suit B(3 ; 0,2). Que vaut P(X = 0) ?|0,8|0,6|0,512|0,008|2|0,8³ = 0,512.
+Les variables sont indépendantes de variance 1. Quelle taille n garantit σ(M_n) ≤ 0,1 ?|n ≥ 10|n ≥ 1 000|n ≥ 100|n ≥ 20|2|1/√n ≤ 0,1 équivaut à √n ≥ 10.
+V = 1, n = 100 et δ = 0,5. Quelle borne donne P(∣M_n − μ∣ ≥ δ) ≤ V/(nδ²) ?|0,04|0,4|0,25|0,5|0|1/(100 × 0,25) = 0,04.
+E(X) = 18 et V(X) = 7,2 pour X ~ B(n ; p). Que valent n et p ?|n = 18 et p = 1|n = 24 et p = 0,75|n = 36 et p = 0,5|n = 30 et p = 0,6|3|np = 18 et 1 − p = 7,2/18 = 0,4, donc p = 0,6 et n = 30.
+X suit B(100 ; 0,5). Quelle borne de Bienaymé-Tchebychev majore P(∣X − 50∣ ≥ 15) ?|1/4|1/9|25/15|1/15|1|V(X) = 25 et δ = 15 : 25/225 = 1/9.
+X suit B(4 ; 0,1). Quelle est P(X ≥ 1) ?|0,6561|0,3439|0,4|0,1|1|1 − 0,9⁴ = 1 − 0,6561.
+Quand n augmente, la moyenne M_n de variables indépendantes de même loi se rapproche de :|V(X)|n|0|E(X)|3|C’est la loi des grands nombres.
+X et Y sont indépendantes avec V(X) = 1 et V(Y) = 4. Que vaut V(X − Y) ?|5|−3|3|17|0|V(X − Y) = V(X) + V(Y) = 5.
+X suit B(3 ; 0,5). Que vaut P(X ≥ 2) ?|0,375|0,25|0,5|0,75|2|P(X = 2) + P(X = 3) = 3/8 + 1/8 = 0,5.
+Chaque variable a un écart-type de 0,5 et n = 400. Que vaut σ(M_n) ?|0,25|0,0025|0,025|0,5|2|σ/√n = 0,5/20 = 0,025.
+X suit B(4 ; 0,5). Pour quelle valeur de k la probabilité P(X = k) est-elle maximale ?|k = 2|k = 0|k = 1|k = 4|0|P(X = 2) = 6/16 = 0,375, qui est la plus grande.

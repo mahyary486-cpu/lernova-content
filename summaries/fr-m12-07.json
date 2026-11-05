@@ -1,0 +1,6 @@
+{
+ "Épreuves indépendantes, schéma de Bernoulli et loi binomiale": "Une succession de n épreuves de Bernoulli identiques et indépendantes de paramètre p donne un schéma de Bernoulli. Le nombre X de succès suit la loi binomiale B(n ; p) : P(X = k) = C(n,k) p^k (1 − p)^(n−k), avec E(X) = np et V(X) = np(1 − p).",
+ "Somme de variables aléatoires : espérance et variance": "Pour deux variables aléatoires X et Y : E(X + Y) = E(X) + E(Y) et E(aX + b) = aE(X) + b. Si X et Y sont indépendantes, V(X + Y) = V(X) + V(Y). Dans tous les cas, V(aX + b) = a²V(X), et l’écart-type σ(X) = √V(X).",
+ "Inégalités de concentration et loi des grands nombres": "Inégalité de Bienaymé-Tchebychev : pour tout δ > 0, P(∣X − E(X)∣ ≥ δ) ≤ V(X)/δ². Appliquée à la moyenne M_n : P(∣M_n − μ∣ ≥ δ) ≤ V/(nδ²). Loi des grands nombres : quand n augmente, la moyenne M_n se rapproche de l’espérance μ avec une probabilité qui tend vers 1.",
+ "Échantillonnage, fluctuation et estimation": "Pour un échantillon de taille n d’une population où la proportion d’un caractère est p, la fréquence observée fluctue. Pour n ≥ 25 et 0,2 ≤ p ≤ 0,8, elle appartient à l’intervalle [p − 1/√n ; p + 1/√n] avec une probabilité d’au moins 0,95. Réciproquement, on estime p à partir d’une fréquence observée f par l’intervalle [f − 1/√n ; f + 1/√n]."
+}

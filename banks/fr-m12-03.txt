@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Que vaut ln(1) ?|1|0|e|−1|1|e^0 = 1 donc ln 1 = 0.
+Que vaut ln(e) ?|0|e|−1|1|3|e^1 = e donc ln e = 1.
+ln(ab) est égal à :|ln a + ln b|ln a × ln b|ln a − ln b|ln(a + b)|0|Le logarithme transforme un produit en somme.
+Quelle est la dérivée de ln x sur ]0 ; +∞[ ?|x|ln x|1/x|e^x|2|(ln x)’ = 1/x.
+La fonction ln est sur ]0 ; +∞[ :|strictement décroissante|constante|strictement croissante|paire|2|Sa dérivée 1/x est strictement positive.
+L’ensemble de définition de ln est :|]0 ; +∞[|ℝ|[0 ; +∞[|]−∞ ; 0[|0|ln x n’existe que pour x > 0.
+Que vaut e^(ln 5) ?|ln 5|e^5|1|5|3|e^(ln x) = x pour x > 0.
+Que vaut ln(e²) ?|e|2|1|e²|1|ln(e^y) = y.
+ln(1/a) est égal à :|ln a|−ln a|1/ln a|a|1|ln(1/a) = ln 1 − ln a = −ln a.
+Que vaut lim(x→+∞) ln x ?|0|1|−∞|+∞|3|ln est croissante et non majorée.
+Exprimer ln 8 en fonction de ln 2.|3 ln 2|2 ln 3|8 ln 2|ln 2 + 3|0|ln 8 = ln(2³) = 3 ln 2.
+Résoudre ln x = 2.|x = 2|x = 2e|x = e²|x = ln 2|2|ln x = 2 équivaut à x = e².
+Résoudre e^x = 5.|x = 5|x = e^5|x = ln 5|x = 5 ln e|2|On applique ln : x = ln 5.
+Résoudre ln x > 0.|x > 1|x > 0|x < 1|x > e|0|ln 1 = 0 et ln est strictement croissante.
+Pour quelles valeurs de x la fonction ln(x − 3) est-elle définie ?|x ≥ 3|x > 0|x < 3|x > 3|3|Il faut x − 3 > 0.
+ln 6 − ln 2 est égal à :|ln 4|ln 3|ln 8|ln 12|1|ln 6 − ln 2 = ln(6/2) = ln 3.
+Quelle est la dérivée de f(x) = x ln x − x ?|ln x + 1|ln x|1/x|x ln x|1|f’(x) = ln x + x × 1/x − 1 = ln x.
+Que vaut lim(x→0+) ln x ?|0|+∞|1|−∞|3|ln x tend vers −∞ quand x se rapproche de 0 par valeurs positives.
+Résoudre ln x = ln(3x − 4).|x = 2|x = 4|x = 1|x = −2|0|x = 3x − 4 donne x = 2, qui est valable car 3 × 2 − 4 = 2 > 0.
+Résoudre e^(2x) = 3.|x = ln 6|x = 2 ln 3|x = (ln 3)/2|x = ln 3 − 2|2|2x = ln 3.
+Résoudre ln(x − 1) + ln(x + 1) = ln 8.|x = −3|x = 3 ou x = −3|x = 3|x = 9|2|Domaine x > 1 ; (x − 1)(x + 1) = 8 donne x² = 9 et seule x = 3 convient.
+Résoudre e^x ≥ 4.|x ≥ ln 4|x ≥ 4|x ≤ ln 4|x ≥ e^4|0|L’exponentielle est strictement croissante : on applique ln.
+Résoudre ln x ≤ 1.|x ≤ 1|x ≤ e|x ≥ e|0 < x ≤ e|3|ln x ≤ 1 = ln e, avec x > 0.
+Que vaut lim(x→+∞) ln x / x ?|+∞|0|1|−∞|1|Croissances comparées : x l’emporte sur ln x.
+Que vaut lim(x→0+) x ln x ?|−∞|0|1|+∞|1|Croissances comparées.
+Que vaut lim(x→+∞) e^x / x ?|0|1|e|+∞|3|L’exponentielle l’emporte sur toute puissance de x.
+Que vaut lim(x→+∞) x e^(−x) ?|0|+∞|1|−1|0|x e^(−x) = x/e^x tend vers 0.
+Résoudre (ln x)² − ln x − 2 = 0.|x = 2 ou x = −1|x = e² seulement|x = e² ou x = e^(−1)|x = e ou x = 1/e|2|Avec X = ln x : X² − X − 2 = 0 donne X = 2 ou X = −1.
+Quel est le plus petit entier n tel que 1,05^n ≥ 2 ?|14|10|15|20|2|n ≥ ln 2/ln 1,05 ≈ 14,2, donc n = 15.
+Que vaut ln(1/e) ?|−1|1|0|−e|0|ln(1/e) = −ln e = −1.

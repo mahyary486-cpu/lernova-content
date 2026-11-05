@@ -1,0 +1,6 @@
+{
+ "Intégrale d’une fonction continue et aire": "Si f est continue sur [a ; b] et F est une primitive de f, l’intégrale de a à b de f est le nombre F(b) − F(a), noté ∫ de a à b de f(x) dx. Quand f est positive, elle mesure l’aire (en unités d’aire) du domaine compris entre la courbe, l’axe des abscisses et les droites x = a et x = b.",
+ "Propriétés de l’intégrale": "Linéarité : ∫(f + g) = ∫f + ∫g et ∫(k f) = k ∫f. Relation de Chasles : ∫_a^c f = ∫_a^b f + ∫_b^c f. Positivité : si f ≥ 0 sur [a ; b] avec a ≤ b, alors ∫_a^b f ≥ 0. Croissance : si f ≤ g sur [a ; b], alors ∫_a^b f ≤ ∫_a^b g.",
+ "Calcul d’intégrales avec une primitive": "Pour calculer une intégrale, on cherche une primitive F de f, puis on calcule F(b) − F(a). On utilise les primitives usuelles et les formes composées u’e^u, u’/u et u’u^n. On peut aussi découper l’intervalle avec la relation de Chasles.",
+ "Valeur moyenne et intégration par parties": "La valeur moyenne de f sur [a ; b] est (1/(b − a)) ∫_a^b f(x) dx. L’intégration par parties donne ∫_a^b u(x) v’(x) dx = [u(x) v(x)]_a^b − ∫_a^b u’(x) v(x) dx, pour u et v dérivables à dérivées continues. Elle sert à intégrer des produits comme x e^x ou ln x."
+}

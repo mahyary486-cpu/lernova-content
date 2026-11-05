@@ -1,0 +1,6 @@
+{
+ "Primitives : définition et primitives usuelles": "Une primitive de f sur un intervalle I est une fonction F dérivable sur I telle que F’ = f. Si F est une primitive de f, les primitives de f sont les fonctions F + C où C est une constante. Primitives usuelles : x^n → x^(n+1)/(n + 1), 1/x → ln x, e^x → e^x, 1/√x → 2√x, 1/x² → −1/x.",
+ "Primitives et opérations": "Une primitive de f + g est F + G et une primitive de k f est k F. Formes à reconnaître : u’e^u a pour primitive e^u ; u’/u a pour primitive ln u (u > 0) ; u’u^n a pour primitive u^(n+1)/(n + 1) ; u’/√u a pour primitive 2√u.",
+ "Équations différentielles y’ = ay": "Les solutions de y’ = ay (a réel) sont les fonctions x ↦ C e^(ax), avec C réel. Il existe une unique solution vérifiant la condition initiale y(x_0) = y_0. Ces équations modélisent les phénomènes dont la vitesse de variation est proportionnelle à la quantité : croissance de population, désintégration radioactive.",
+ "Équations différentielles y’ = ay + b": "Pour y’ = ay + b avec a ≠ 0, la fonction constante y = −b/a est solution particulière et les solutions sont les fonctions y(x) = C e^(ax) − b/a. Avec une condition initiale, on détermine C. Ces équations modélisent par exemple le refroidissement d’un corps."
+}

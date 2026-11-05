@@ -1,0 +1,6 @@
+{
+ "Raisonnement par récurrence": "Pour démontrer qu’une propriété P(n) est vraie pour tout entier n ≥ n_0, on vérifie l’initialisation (P(n_0) est vraie), puis l’hérédité (si P(n) est vraie pour un entier n ≥ n_0 alors P(n + 1) est vraie), et on conclut que P(n) est vraie pour tout n ≥ n_0.",
+ "Limite d’une suite et suites de référence": "Une suite converge vers ℓ si ses termes deviennent aussi proches de ℓ que l’on veut à partir d’un certain rang ; elle diverge vers +∞ si ses termes deviennent aussi grands que l’on veut. Suites de référence : n, n², √n tendent vers +∞ ; 1/n, 1/n², 1/√n tendent vers 0. Pour q^n : q > 1 donne +∞, −1 < q < 1 donne 0, q ≤ −1 pas de limite.",
+ "Opérations sur les limites et théorème des gendarmes": "Les limites se combinent par somme, produit et quotient, sauf dans les quatre formes indéterminées (∞ − ∞, 0 × ∞, ∞/∞, 0/0). Théorème des gendarmes : si u_n ≤ v_n ≤ w_n à partir d’un certain rang et si u_n et w_n ont la même limite ℓ, alors v_n converge vers ℓ. Théorème de comparaison : si u_n ≤ v_n et lim u_n = +∞, alors lim v_n = +∞.",
+ "Suites monotones, bornées et convergence": "Une suite croissante et majorée converge ; une suite décroissante et minorée converge. Une suite croissante non majorée tend vers +∞. Pour une suite définie par u_(n+1) = f(u_n) qui converge vers ℓ, avec f continue, la limite vérifie f(ℓ) = ℓ."
+}
