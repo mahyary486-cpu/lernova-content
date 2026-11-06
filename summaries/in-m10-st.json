@@ -1,0 +1,6 @@
+{
+ "Mean of grouped data (direct method)": "Mean = Σfx / Σf using class marks.",
+ "Assumed mean and step-deviation methods": "Shift and scale the data to simplify the mean.",
+ "Mode of grouped data": "Mode uses the modal class and its neighbours.",
+ "Median of grouped data": "Median = l + (n/2 − cf)/f × h."
+}

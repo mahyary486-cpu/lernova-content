@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The mean of 2, 4, 6, 8 is|5|4|6|20|0|Sum 20 divided by 4.
+The mean of ungrouped data is|sum of observations|sum of observations / number of observations|middle value|most frequent value|1|It is the average.
+The mode of a data set is the|middle value|average|most frequent value|largest value|2|It occurs the greatest number of times.
+The median of a data set is the|most frequent value|average|smallest value|middle value of the ordered data|3|Half the values lie below it.
+The mean of grouped data by the direct method is|Σfᵢxᵢ / Σfᵢ|Σxᵢ / n|Σfᵢ / Σxᵢ|Σfᵢxᵢ|0|xᵢ is the class mark.
+In grouped data xᵢ denotes the|class width|class mark|frequency|lower limit|1|It is the midpoint of the class.
+The class mark of the class 10–20 is|10|20|15|30|2|(10 + 20)/2.
+The class width of the class 10–20 is|20|15|30|10|3|20 − 10.
+The class mark equals|(upper limit + lower limit)/2|upper limit − lower limit|upper limit × lower limit|(upper limit − lower limit)/2|0|It is the average of the limits.
+The median of 1, 3, 5 is|5|3|1|9|1|The middle value.
+The mode of 2, 3, 3, 4, 5 is|2|4|3|5|2|3 occurs twice.
+The sum of the frequencies is denoted by|Σxᵢ|h|l|Σfᵢ (or n)|3|It is the total number of observations.
+The empirical relationship between the three measures is 3 Median =|Mode + 2 Mean|Mode + Mean|2 Mode + Mean|Mean − Mode|0|Mode = 3 Median − 2 Mean.
+The modal class is the class with the|lowest frequency|highest frequency|largest class mark|smallest width|1|The mode lies in it.
+The median class is the class whose cumulative frequency is just greater than|n|n/4|n/2|2n|2|n is the total frequency.
+In statistics, cf stands for|class frequency|central frequency|common factor|cumulative frequency|3|It is a running total of frequencies.
+The mean of five numbers each equal to 7 is|7|35|5|0|0|All values are the same.
+The mean of 3, 5, 7, 9, 11 is|6|7|8|35|1|35/5.
+The class mark of 25–35 is|25|35|30|60|2|(25 + 35)/2.
+The median of 3, 9, 5, 7 is|5|7|8|6|3|Ordered: 3, 5, 7, 9, so (5 + 7)/2.
+The mode of 1, 2, 2, 3, 3, 3, 4 is|3|2|4|1|0|3 occurs three times.
+If Σfᵢxᵢ = 2640 and Σfᵢ = 40, the mean is|40|66|2640|100|1|2640/40.
+If Σfᵢ = 50 and Σfᵢxᵢ = 1000, the mean is|50|1000|20|0.05|2|1000/50.
+By the assumed mean method, the mean is|a − Σfᵢdᵢ / Σfᵢ|a × Σfᵢdᵢ|Σfᵢdᵢ / a|a + Σfᵢdᵢ / Σfᵢ|3|dᵢ = xᵢ − a.
+By the step-deviation method, the mean is|a + h × Σfᵢuᵢ / Σfᵢ|a + Σfᵢuᵢ / Σfᵢ|h × Σfᵢuᵢ|a − h × Σfᵢuᵢ / Σfᵢ|0|uᵢ = (xᵢ − a)/h.
+The mode of grouped data is|l + (f₁ + f₀)/(2f₁ + f₀ + f₂) × h|l + (f₁ − f₀)/(2f₁ − f₀ − f₂) × h|l + (f₀ − f₁)/(2f₁ − f₀ − f₂) × h|l + h/f₁|1|f₁ is the modal class frequency.
+The median of grouped data is|l + (n − cf)/f × h|l + (cf − n/2)/f × h|l + (n/2 − cf)/f × h|l + n/(2f) × h|2|cf is the cumulative frequency of the class before the median class.
+In the mode formula, l is the|upper limit of the modal class|class mark|frequency|lower limit of the modal class|3|h is the class width.
+A modal class has l = 20, f₁ = 12, f₀ = 8, f₂ = 6 and h = 10. The mode is|24|28|22|20|0|20 + 4/10 × 10.
+A median class has l = 40, n = 50, cf = 18, f = 14 and h = 10. The median is|50|45|35|40|1|40 + (25 − 18)/14 × 10.
+The mean of the first five natural numbers is|2|5|3|15|2|15/5.
+The mean of 5 observations is 12. Their sum is|12|17|7|60|3|5 × 12.
+The mean of x, x + 2 and x + 4 is|x + 2|x|x + 4|3x + 6|0|(3x + 6)/3.
+The mean of four numbers is 10. Three of them are 8, 9 and 11. The fourth is|10|12|9|40|1|40 − 28.
+If every observation is increased by 5, the mean|stays the same|doubles|increases by 5|decreases by 5|2|Each value shifts by 5.
+If every observation is multiplied by 2, the mean|stays the same|halves|increases by 2|doubles|3|The mean scales with the data.
+Classes 0–20, 20–40, 40–60 have frequencies 6, 8, 6. The mean is|30|20|40|10|0|(60 + 240 + 300)/20.
+Classes 0–10, 10–20, 20–30, 30–40, 40–50 have frequencies 4, 6, 10, 18, 12. The median is about|35|32.78|27.5|30|1|30 + (25 − 20)/18 × 10.
+Classes 10–20, 20–30, 30–40 have frequencies 6, 10, 8. The mode is about|25|30|26.67|23.33|2|20 + 4/6 × 10.
+The mean of six numbers is 20. If one number 8 is replaced by 14, the new mean is|20|26|14|21|3|The sum rises by 6.
+Ten students have mean 40 and twenty students have mean 55. The combined mean is|50|47.5|45|55|0|(400 + 1100)/30.
+If the median is 20 and the mean is 21, the mode is about|60|18|42|19|1|3 × 20 − 2 × 21.
+If the mean is 25 and the median is 24, the mode is about|23|26|22|21|2|3 × 24 − 2 × 25.
+If the mean of 1, 2, 3, …, n is 8, then n =|8|16|17|15|3|(n + 1)/2 = 8.
+With assumed mean 50, Σfᵢ = 40 and Σfᵢdᵢ = −20, the mean is|49.5|50.5|49|51|0|50 − 20/40.
+With a = 45, h = 10, Σfᵢuᵢ = −15 and Σfᵢ = 30, the mean is|50|40|42.5|45|1|45 + 10 × (−15/30).
+The median of 3, 5, 7, 2, 9, 4, 6 is|4|6|5|7|2|Ordered: 2, 3, 4, 5, 6, 7, 9.
+If the mean of 3, x and 7 is 6, then x =|6|7|5|8|3|18 − 10.
+The class marks of consecutive classes are 12.5 and 17.5. The class width is|5|2.5|10|15|0|17.5 − 12.5.
+For a modal class with l = 40, h = 10, f₁ = 20, f₀ = 12 and f₂ = 10, the mode is about|48|44.44|45|42.5|1|40 + 8/18 × 10.
