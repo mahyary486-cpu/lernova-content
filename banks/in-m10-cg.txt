@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The distance of the point (x, y) from the origin is|√(x² + y²)|x + y|x² + y²|√(x − y)|0|Apply Pythagoras with the origin.
+The distance between (x₁, y₁) and (x₂, y₂) is|(x₂ − x₁) + (y₂ − y₁)|√((x₂ − x₁)² + (y₂ − y₁)²)|√((x₂ + x₁)² + (y₂ + y₁)²)|(x₂ − x₁)² + (y₂ − y₁)²|1|This is the distance formula.
+The distance between (0, 0) and (3, 4) is|7|1|5|12|2|√(9 + 16) = 5.
+The distance between (1, 2) and (4, 6) is|7|25|3|5|3|√(9 + 16) = 5.
+The coordinates of the origin are|(0, 0)|(1, 1)|(0, 1)|(1, 0)|0|The axes meet at the origin.
+A point on the x-axis has y-coordinate|1|0|x|−1|1|Example: (5, 0).
+A point on the y-axis has x-coordinate|1|y|0|−1|2|Example: (0, 5).
+The midpoint of (2, 4) and (6, 8) is|(8, 12)|(2, 2)|(4, 4)|(4, 6)|3|Average the coordinates.
+The midpoint formula gives|((x₁ + x₂)/2, (y₁ + y₂)/2)|(x₁x₂, y₁y₂)|((x₁ − x₂)/2, (y₁ − y₂)/2)|(x₁ + x₂, y₁ + y₂)|0|It averages x and y separately.
+The point (−2, 3) lies in the|first quadrant|second quadrant|third quadrant|fourth quadrant|1|x is negative and y is positive.
+The point (3, −5) lies in the|first quadrant|second quadrant|fourth quadrant|third quadrant|2|x is positive and y is negative.
+The distance between (2, 3) and (2, 7) is|5|10|2|4|3|The x-coordinates are the same.
+The distance between (1, 5) and (6, 5) is|5|6|1|30|0|The y-coordinates are the same.
+The distance of (−3, 4) from the origin is|7|5|1|25|1|√(9 + 16) = 5.
+Points are collinear if they lie on|a circle|a parabola|one straight line|two different lines|2|Collinear means on a common line.
+Three points A, B, C are collinear if|AB = BC = CA|AB² = BC²|AB × BC = AC|the sum of two distances equals the third|3|For example AB + BC = AC.
+A triangle with all three sides equal is|equilateral|isosceles|scalene|right-angled|0|Use the distance formula to test.
+The distance between (−5, 7) and (−1, 3) is|4|4√2|8|2√2|1|√(16 + 16) = 4√2.
+The distance between (a, b) and (−a, −b) is|√(a² + b²)|2(a + b)|2√(a² + b²)|a + b|2|√(4a² + 4b²).
+The distance between (2, −3) and (10, y) is 10. Then y =|6 or −6|−3 or 9|3 only|3 or −9|3|64 + (y + 3)² = 100.
+Are (1, 5), (2, 3) and (−2, −11) collinear?|No|Yes|Only two of them|Cannot say|0|AB + BC ≠ AC for every order.
+The points (0, 0), (3, 0) and (0, 4) form|an equilateral triangle|a right triangle|a collinear set|an obtuse triangle|1|The right angle is at the origin.
+The triangle with vertices (1, 1), (5, 1) and (3, 3) is|equilateral|scalene|isosceles and right-angled|a straight line|2|Sides 4, 2√2, 2√2 and 8 + 8 = 16.
+The points (0, 0), (4, 0), (4, 4) and (0, 4) form a|rhombus that is not a square|rectangle that is not a square|trapezium|square|3|All sides are 4 and the diagonals are equal.
+The point on the x-axis equidistant from (2, −5) and (−2, 9) is|(−7, 0)|(7, 0)|(0, −7)|(0, 7)|0|(x − 2)² + 25 = (x + 2)² + 81.
+The midpoint of (−3, 5) and (7, −1) is|(4, 4)|(2, 2)|(5, −3)|(−5, 3)|1|((−3 + 7)/2, (5 − 1)/2).
+If the midpoint of AB is (3, 4) and A = (1, 2), then B =|(2, 3)|(4, 6)|(5, 6)|(7, 8)|2|B = 2 × midpoint − A.
+The section formula for internal division in ratio m : n is|((mx₁ + nx₂)/(m + n), (my₁ + ny₂)/(m + n))|((x₁ + x₂)/2, (y₁ + y₂)/2)|((mx₂ − nx₁)/(m − n), (my₂ − ny₁)/(m − n))|((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n))|3|m goes with the second point.
+The point dividing (1, 3) and (4, 6) in the ratio 1 : 2 is|(2, 4)|(3, 5)|(2.5, 4.5)|(3, 4)|0|x = (4 + 2)/3, y = (6 + 6)/3.
+The point dividing (−1, 7) and (4, −3) in the ratio 2 : 3 is|(2, 1)|(1, 3)|(3, 1)|(1, 2)|1|x = (8 − 3)/5 = 1 and y = (−6 + 21)/5 = 3.
+The centroid of the triangle with vertices (0, 0), (6, 0) and (0, 9) is|(3, 3)|(3, 4.5)|(2, 3)|(6, 9)|2|Average the x's and the y's.
+The centroid of a triangle has coordinates|((x₁ + x₂ + x₃)/2, (y₁ + y₂ + y₃)/2)|(x₁x₂x₃, y₁y₂y₃)|the midpoint of two vertices|((x₁ + x₂ + x₃)/3, (y₁ + y₂ + y₃)/3)|3|It divides each median in the ratio 2 : 1.
+The x-axis divides the segment joining (2, −3) and (5, 6) in the ratio|1 : 2|2 : 1|1 : 1|3 : 1|0|(6k − 3)/(k + 1) = 0 gives k = 1/2.
+The y-axis divides the segment joining (−4, 3) and (6, 5) in the ratio|3 : 2|2 : 3|1 : 1|1 : 2|1|(6k − 4)/(k + 1) = 0 gives k = 2/3.
+The point dividing (4, −3) and (8, 5) in the ratio 3 : 1 is|(5, −1)|(6, 1)|(7, 3)|(7, 1)|2|x = (24 + 4)/4 = 7 and y = (15 − 3)/4 = 3.
+The midpoint of the segment joining (a, b) and (−a, −b) is|(a, b)|(2a, 2b)|(−a, −b)|(0, 0)|3|The sums are zero.
+The points (7, 10), (−2, 5) and (3, −4) are the vertices of|an isosceles right triangle|an equilateral triangle|a scalene non-right triangle|a collinear set|0|AB² = BC² = 106 and AC² = 212.
+The points (−7, −3), (5, 10), (15, 8) and (3, −5) taken in order form a|square|parallelogram|rhombus|kite|1|The diagonals have the same midpoint (4, 2.5), but the sides are unequal.
+The centre of the circle through (6, −6), (3, −7) and (3, 3) is|(2, −3)|(−3, 2)|(3, −2)|(4, −3)|2|It is equidistant from the three points.
+Three vertices of parallelogram PQRS are P(1, 2), Q(4, 2) and R(5, 6). Then S =|(8, 6)|(0, −2)|(2, 2)|(2, 6)|3|S = P + R − Q.
+A(−2, 1), B(a, 0), C(4, b) and D(1, 2) form a parallelogram ABCD. Then|a = 1, b = 1|a = 2, b = 1|a = 1, b = 2|a = 0, b = 1|0|The diagonals AC and BD share a midpoint.
+The point on the y-axis equidistant from (−5, −2) and (3, 2) is|(0, 2)|(0, −2)|(−2, 0)|(2, 0)|1|25 + (y + 2)² = 9 + (y − 2)².
+A point (5, y) is at distance 13 from the origin. Then y =|±8|±13|±12|±5|2|25 + y² = 169.
+The triangle with vertices (0, 0), (a, 0) and (a/2, a√3/2) is|isosceles right-angled|scalene|right-angled|equilateral|3|All three sides equal a.
+The point (−1, 6) divides the segment joining (−3, 10) and (6, −8) in the ratio|2 : 7|7 : 2|1 : 2|3 : 4|0|(6k − 3)/(k + 1) = −1 gives k = 2/7.
+The midpoint of the segment joining (2a, 4) and (−2, 2b) is (1, 2a + 1). Then|a = 3, b = 2|a = 2, b = 3|a = 1, b = 3|a = 2, b = 2|1|a − 1 = 1 and 2 + b = 2a + 1.
+The trisection point nearer to (4, −1) on the segment joining (4, −1) and (−2, −3) is|(0, −7/3)|(1, −2)|(2, −5/3)|(3, −2)|2|It divides the segment in the ratio 1 : 2.
+A circle with centre at the origin passes through (3, 4). Another point on the circle is|(4, 4)|(3, 3)|(0, 4)|(5, 0)|3|The radius is 5.
+Two vertices of a triangle are (1, −6) and (−5, 2) and its centroid is (−2, 1). The third vertex is|(−2, 7)|(2, −7)|(−2, −7)|(7, −2)|0|x = −6 − 1 + 5, y = 3 + 6 − 2.
+The x-axis divides the segment joining (1, −5) and (−4, 5) in the ratio|1 : 2|1 : 1|2 : 1|1 : 3|1|The y-coordinates are equal and opposite.

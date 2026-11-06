@@ -1,0 +1,6 @@
+{
+ "Line of sight, angle of elevation and depression": "Elevation is above the horizontal, depression below it.",
+ "Heights using the angle of elevation": "Height = distance × tan θ.",
+ "Distances using the angle of depression": "Distance = h / tan θ.",
+ "Combined problems": "Two right triangles, one shared side, two equations."
+}

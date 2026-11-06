@@ -1,0 +1,6 @@
+{
+ "Distance formula": "d = √((x₂ − x₁)² + (y₂ − y₁)²).",
+ "Applications of the distance formula": "Use distances to classify shapes and test collinearity.",
+ "Section formula and midpoint": "Section formula: ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n)).",
+ "Applications of the section formula": "Centroid is the average of the vertices; an axis cuts a segment where a coordinate is 0."
+}

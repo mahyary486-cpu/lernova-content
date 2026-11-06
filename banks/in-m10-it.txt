@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+In a right triangle, sin A =|opposite / hypotenuse|adjacent / hypotenuse|opposite / adjacent|hypotenuse / opposite|0|Sides are named with respect to angle A.
+In a right triangle, cos A =|opposite / hypotenuse|adjacent / hypotenuse|opposite / adjacent|adjacent / opposite|1|Cosine uses the adjacent side.
+In a right triangle, tan A =|adjacent / opposite|opposite / hypotenuse|opposite / adjacent|hypotenuse / adjacent|2|Tangent is opposite over adjacent.
+cosec A is the reciprocal of|cos A|tan A|cot A|sin A|3|cosec A = 1 / sin A.
+sec A is the reciprocal of|cos A|sin A|tan A|cot A|0|sec A = 1 / cos A.
+cot A is the reciprocal of|sin A|tan A|cos A|sec A|1|cot A = 1 / tan A.
+tan A equals|cos A / sin A|sin A × cos A|sin A / cos A|1 / sin A|2|Divide the opposite and adjacent sides by the hypotenuse.
+sin 30° =|√3/2|1/√2|1|1/2|3|This is a standard value.
+cos 60° =|1/2|√3/2|1/√2|0|0|This is a standard value.
+tan 45° =|0|1|√3|1/√3|1|Opposite and adjacent are equal.
+sin 90° =|0|1/2|1|√3/2|2|The opposite side equals the hypotenuse.
+cos 0° =|0|1/2|undefined|1|3|The adjacent side equals the hypotenuse.
+sin 0° =|0|1|1/2|undefined|0|The opposite side vanishes.
+sin² A + cos² A =|0|1|2|sin 2A|1|This is the basic identity.
+sin 45° =|1/2|√3/2|1/√2|1|2|The two legs are equal.
+sin 60° =|1/2|1/√2|1|√3/2|3|This is a standard value.
+cos 90° =|0|1|1/2|undefined|0|The adjacent side vanishes.
+In a right triangle the side opposite angle A is 3 and the hypotenuse is 5. Then sin A =|4/5|3/5|3/4|5/3|1|Opposite over hypotenuse.
+If tan A = 3/4 for an acute angle A, then sin A =|4/5|5/3|3/5|5/4|2|The hypotenuse is 5.
+If sin A = 3/5, then cos A =|3/4|5/4|5/3|4/5|3|cos A = √(1 − 9/25).
+If sin A = 1/2 for an acute angle, then A =|30°|45°|60°|90°|0|sin 30° = 1/2.
+If cos A = 1/2 for an acute angle, then A =|30°|60°|45°|0°|1|cos 60° = 1/2.
+If tan A = 1, then A =|30°|60°|45°|90°|2|tan 45° = 1.
+sin 30° + cos 60° =|1/2|√3/2|2|1|3|1/2 + 1/2.
+sin 60° cos 30° + sin 30° cos 60° =|1|3/4|1/2|0|0|3/4 + 1/4.
+sin(90° − A) =|sin A|cos A|tan A|cot A|1|Complementary angle relation.
+cos(90° − A) =|cos A|cot A|sin A|sec A|2|Complementary angle relation.
+tan(90° − A) =|tan A|sec A|cosec A|cot A|3|Complementary angle relation.
+sec(90° − A) =|cosec A|sec A|cot A|tan A|0|Complementary angle relation.
+sin 25° / cos 65° =|0|1|25/65|tan 25°|1|sin 25° = cos 65°.
+tan 15° × tan 75° =|0|15/75|1|2|2|tan 75° = cot 15°.
+cos 48° − sin 42° =|1|−1|1/2|0|3|cos 48° = sin 42°.
+1 + tan² A =|sec² A|cosec² A|cot² A|sin² A|0|Divide sin² + cos² = 1 by cos².
+1 + cot² A =|sec² A|cosec² A|tan² A|cos² A|1|Divide sin² + cos² = 1 by sin².
+sec² A − tan² A =|0|−1|1|2|2|This is the identity 1 + tan² A = sec² A.
+cosec² A − cot² A =|0|−1|2|1|3|This is the identity 1 + cot² A = cosec² A.
+If sin A = 3/5 and A is acute, then tan A =|3/4|4/3|3/5|5/3|0|cos A = 4/5.
+If tan θ = 4/3 and θ is acute, then sin θ + cos θ =|1|7/5|5/7|12/25|1|sin θ = 4/5 and cos θ = 3/5.
+If cos A = 4/5, then sec A + tan A =|9/4|1|2|3/2|2|5/4 + 3/4.
+(sin 30° + cos 30°) − (sin 60° + cos 60°) =|1|√3|1/2|0|3|The two brackets are equal.
+2 tan² 45° + cos² 30° − sin² 60° =|2|3|1|0|0|2 + 3/4 − 3/4.
+(tan 60° − tan 30°)/(1 + tan 60° tan 30°) =|√3|1/√3|1|0|1|(√3 − 1/√3)/2 = 1/√3.
+sec A (1 − sin A)(sec A + tan A) =|0|sin A|1|cos A|2|(1 − sin A)(1 + sin A)/cos² A = 1.
+(1 + tan² A)/(1 + cot² A) =|cot² A|1|sec² A|tan² A|3|sec² A / cosec² A = tan² A.
+sin θ/(1 + cos θ) + (1 + cos θ)/sin θ =|2 cosec θ|2 sec θ|2 sin θ|2|0|Combine the fractions: (2 + 2 cos θ)/(sin θ (1 + cos θ)).
+If sin(A + B) = 1 and cos(A − B) = √3/2 with 0° < A + B ≤ 90°, then A =|30°|60°|45°|90°|1|A + B = 90° and A − B = 30°.
+If 7 sin² θ + 3 cos² θ = 4, then tan θ =|√3|1|1/√3|0|2|4 sin² θ = 1, so θ = 30°.
+If sec θ + tan θ = p, then sec θ − tan θ =|p|−p|p²|1/p|3|(sec θ + tan θ)(sec θ − tan θ) = 1.
+If sin θ + cos θ = √2 and θ is acute, then θ =|45°|30°|60°|90°|0|The maximum of sin θ + cos θ is at 45°.
+tan 1° tan 2° tan 3° … tan 89° =|0|1|89|1/2|1|Pairs tan θ tan (90° − θ) = 1 and tan 45° = 1.
