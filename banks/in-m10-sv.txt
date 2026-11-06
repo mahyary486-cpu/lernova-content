@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The volume of a cylinder is|πr²h|2πrh|⅓πr²h|4/3 πr³|0|Base area times height.
+The curved surface area of a cylinder is|πr²h|2πrh|2πr(r + h)|πrl|1|Circumference times height.
+The total surface area of a cylinder is|2πrh|πr²h|2πr(r + h)|πr(r + l)|2|Curved surface plus two circular ends.
+The volume of a cone is|πr²h|πrl|2πrh|⅓πr²h|3|One third of the cylinder with the same base and height.
+The curved surface area of a cone is|πrl|⅓πr²h|2πrh|πr²|0|l is the slant height.
+The slant height of a cone with radius r and height h is|r + h|√(r² + h²)|√(h² − r²)|r² + h²|1|Pythagoras theorem.
+The surface area of a sphere is|2πr²|3πr²|4πr²|4/3 πr³|2|A standard formula.
+The volume of a sphere is|4πr²|2/3 πr³|πr²h|4/3 πr³|3|A standard formula.
+The curved surface area of a hemisphere is|2πr²|4πr²|3πr²|πr²|0|Half of the sphere's surface.
+The total surface area of a hemisphere is|2πr²|3πr²|4πr²|πr²|1|Curved surface 2πr² plus the flat base πr².
+The volume of a hemisphere is|4/3 πr³|πr³|2/3 πr³|⅓πr³|2|Half of the sphere.
+A unit of volume is|cm²|cm|cm/s|cm³|3|Cubic units.
+A unit of surface area is|cm²|cm³|cm|cm/s|0|Square units.
+The volume of a cube of edge a is|6a²|a³|a²|3a|1|Edge cubed.
+The total surface area of a cube of edge a is|a³|4a²|6a²|12a|2|Six square faces.
+The volume of a cuboid is|2(lb + bh + hl)|l + b + h|lb|l × b × h|3|Length × breadth × height.
+The total surface area of a cuboid is|2(lb + bh + hl)|lbh|l + b + h|4(l + b + h)|0|Three pairs of faces.
+The volume of a cylinder with r = 7 cm and h = 10 cm (π = 22/7) is|440 cm³|1540 cm³|154 cm³|3080 cm³|1|154 × 10.
+The curved surface area of a cylinder with r = 7 cm and h = 10 cm is|1540 cm²|154 cm²|440 cm²|880 cm²|2|2 × 22/7 × 7 × 10.
+The volume of a cone with r = 7 cm and h = 6 cm (π = 22/7) is|924 cm³|154 cm³|616 cm³|308 cm³|3|⅓ × 154 × 6.
+The slant height of a cone with r = 6 cm and h = 8 cm is|10 cm|14 cm|2 cm|√28 cm|0|√(36 + 64).
+The curved surface area of a cone with r = 7 cm and l = 25 cm (π = 22/7) is|175 cm²|550 cm²|1100 cm²|154 cm²|1|22/7 × 7 × 25.
+The surface area of a sphere of radius 7 cm (π = 22/7) is|154 cm²|1232 cm²|616 cm²|308 cm²|2|4 × 154.
+The volume of a sphere of radius 3 cm is|12π cm³|108π cm³|27π cm³|36π cm³|3|4/3 × π × 27.
+The volume of a hemisphere of radius 7 cm (π = 22/7) is|2156/3 cm³|1078 cm³|4312/3 cm³|539 cm³|0|2/3 × 22/7 × 343.
+The total surface area of a hemisphere of radius 7 cm (π = 22/7) is|308 cm²|462 cm²|616 cm²|154 cm²|1|3 × 154.
+A toy is a cone on a hemisphere of the same radius r, with slant height l. Its total surface area is|πrl + 3πr²|πr(r + l) + 2πr²|πrl + 2πr²|πrl + πr²|2|Cone curved surface plus hemisphere curved surface.
+A capsule is a cylinder of radius r and height h with hemispherical ends. Its total surface area is|2πrh + 2πr²|2πr(r + h)|4πr²|2πrh + 4πr²|3|The two hemispheres make one sphere.
+The volume of the capsule (cylinder with two hemispherical ends) is|πr²h + 4/3 πr³|πr²h + 2/3 πr³|πr²h|4/3 πr³|0|Cylinder plus a full sphere.
+When a solid is melted and recast into another solid, its volume|doubles|remains the same|halves|becomes zero|1|Matter is conserved.
+A sphere of radius 3 cm is melted into small spheres of radius 1 cm. The number of small spheres is|9|3|27|81|2|(3/1)³.
+The number of 2 cm × 2 cm × 1 cm blocks made from a 4 cm cube is|32|8|4|16|3|64/4.
+A metallic sphere of radius 4.2 cm is melted into a cylinder of radius 6 cm. The cylinder's height is about|2.74 cm|4.2 cm|3.2 cm|1.37 cm|0|4/3 × 4.2³ / 6².
+A cylinder with radius r and height 2r has curved surface area|2πr²|4πr²|6πr²|πr²|1|2πr × 2r.
+The ratio of the volume of a cone to that of a cylinder with the same base and height is|3 : 1|1 : 2|1 : 3|2 : 3|2|V(cone) = ⅓ V(cylinder).
+A hemisphere of radius r and a cone of base radius r and height r have volumes in the ratio|1 : 2|3 : 1|1 : 1|2 : 1|3|2/3 πr³ : ⅓ πr³.
+A solid made of a cone (r = 3 cm, h = 4 cm) on a hemisphere of radius 3 cm has volume|30π cm³|18π cm³|12π cm³|48π cm³|0|12π + 18π.
+For the same solid (cone on hemisphere, r = 3 cm, h = 4 cm), the total surface area is|27π cm²|33π cm²|24π cm²|42π cm²|1|πrl = 15π and 2πr² = 18π.
+A cylindrical bucket of radius 18 cm and height 32 cm is emptied into a cone of height 24 cm. The cone's radius is|18 cm|72 cm|36 cm|24 cm|2|R² = 324 × 32 × 3/24 = 1296.
+Spheres of radii 6 cm, 8 cm and 10 cm are melted into one sphere. Its radius is|24 cm|10 cm|18 cm|12 cm|3|216 + 512 + 1000 = 1728 = 12³.
+A cone of radius 6 cm and height 24 cm is moulded into a sphere. The sphere's radius is|6 cm|12 cm|3 cm|8 cm|0|⅓ × 36 × 24 = 288 = 4/3 r³ gives r³ = 216.
+A cylinder of radius 3 cm and length 10 cm has a hemisphere of radius 3 cm at each end. The total volume is|90π cm³|126π cm³|108π cm³|54π cm³|1|90π + 36π.
+The total surface area of that solid is|60π cm²|72π cm²|96π cm²|132π cm²|2|60π + 36π.
+A hemisphere of diameter 10 cm is scooped out from the top of a cube of edge 10 cm. The remaining total surface area is|600 − 25π cm²|600 + 50π cm²|600 cm²|600 + 25π cm²|3|600 − 25π + 50π.
+The number of cubes of edge 2 cm that can be cut from a 10 cm × 8 cm × 6 cm cuboid is|60|30|48|120|0|480/8.
+The volume of earth dug from a well of diameter 7 m and depth 20 m (π = 22/7) is|385 m³|770 m³|1540 m³|3080 m³|1|22/7 × 3.5² × 20.
+A hollow sphere has external radius 5 cm and internal radius 4 cm. The volume of material is|61π cm³|4π/3 cm³|244π/3 cm³|36π cm³|2|4/3 × π × (125 − 64).
+The ratio of the surface areas of two spheres with radii in the ratio 1 : 3 is|1 : 3|1 : 27|3 : 1|1 : 9|3|Surface area ∝ r².
+The ratio of the volumes of two spheres with radii in the ratio 1 : 3 is|1 : 27|1 : 9|1 : 3|3 : 1|0|Volume ∝ r³.
+If the radius of a sphere is doubled, its volume becomes|2 times|8 times|4 times|16 times|1|V ∝ r³.

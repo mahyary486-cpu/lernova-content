@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The circumference of a circle of radius r is|2πr|πr²|πr|2πr²|0|C = 2πr.
+The area of a circle of radius r is|2πr|πr²|πr|2πr²|1|A = πr².
+The circumference of a circle of diameter d is|πd²|2πd|πd|d/π|2|C = πd.
+The area of a circle of radius 7 cm (π = 22/7) is|44 cm²|49 cm²|22 cm²|154 cm²|3|22/7 × 49.
+The circumference of a circle of radius 7 cm (π = 22/7) is|44 cm|154 cm|22 cm|14 cm|0|2 × 22/7 × 7.
+The radius of a circle of area 154 cm² (π = 22/7) is|14 cm|7 cm|49 cm|22 cm|1|r² = 49.
+A sector is the region between|two chords|a chord and a tangent|two radii and an arc|two tangents|2|It looks like a slice of pizza.
+A segment of a circle is the region between|two radii|two tangents|a secant and a tangent|a chord and an arc|3|The chord cuts the segment off.
+The area of a sector of angle θ in a circle of radius r is|(θ/360) × πr²|θ × πr²|(θ/360) × 2πr|(360/θ) × πr²|0|It is a fraction of the whole circle.
+The length of an arc of angle θ is|(θ/360) × πr²|(θ/360) × 2πr|θ × 2πr|2πr/θ|1|It is a fraction of the circumference.
+The angle of a minor sector is less than|90°|360°|180°|45°|2|Its arc is shorter than a semicircle.
+The area of a semicircle of radius r is|πr²|2πr²|πr|½πr²|3|Half of the circle.
+The area of a quadrant of a circle of radius r is|¼πr²|½πr²|πr²|2πr²|0|A quarter of the circle.
+The perimeter of a semicircle of radius r is|πr|πr + 2r|2πr|πr² + 2r|1|Arc plus diameter.
+The ratio of the circumference of a circle to its diameter is|2|1|π|π²|2|This ratio is constant.
+An approximate value of π is|7/22|3|2.5|22/7|3|Commonly used in school mathematics.
+The full angle at the centre of a circle is|360°|180°|90°|270°|0|One complete turn.
+The area of a sector with r = 7 cm and θ = 90° (π = 22/7) is|154 cm²|38.5 cm²|77 cm²|19.25 cm²|1|¼ × 154.
+The arc length with r = 14 cm and θ = 60° (π = 22/7) is|22 cm|88 cm|44/3 cm|14 cm|2|(60/360) × 88.
+The area of a circle whose circumference is 44 cm is|44 cm²|22 cm²|308 cm²|154 cm²|3|r = 7 cm.
+A circle has circumference 66 cm. Its radius is|10.5 cm|21 cm|7 cm|33 cm|0|r = 66 × 7/44.
+The area of the ring between circles of radii 7 cm and 3.5 cm is|154 cm²|115.5 cm²|38.5 cm²|77 cm²|1|π(49 − 12.25).
+A wheel has diameter 70 cm. In 10 revolutions it travels|2.2 m|44 m|22 m|220 m|2|10 × 220 cm.
+A sector that is 1/6 of a circle has angle|30°|90°|120°|60°|3|360°/6.
+The minute hand of a clock is 14 cm long. The area it sweeps in 5 minutes is|154/3 cm²|154 cm²|77/3 cm²|44 cm²|0|5 minutes is 30°: (1/12) × 616.
+The tip of a 14 cm minute hand moves in 30 minutes through|88 cm|44 cm|22 cm|14 cm|1|Half the circumference.
+The area of a segment equals|area of sector + area of triangle|area of sector × area of triangle|area of sector − area of triangle|area of sector / area of triangle|2|For a minor segment.
+A 90° sector of a circle of radius 10 cm contains a triangle of area|100 cm²|25 cm²|78.5 cm²|50 cm²|3|½ × 10 × 10.
+The area of a quadrant of a circle of radius 14 cm (π = 22/7) is|154 cm²|616 cm²|308 cm²|77 cm²|0|¼ × 616.
+The circumference of a circle of radius 3.5 cm (π = 22/7) is|11 cm|22 cm|44 cm|7 cm|1|2 × 22/7 × 3.5.
+The area of a circle of diameter 14 cm (π = 22/7) is|616 cm²|44 cm²|154 cm²|308 cm²|2|r = 7 cm.
+The perimeter of a quadrant of radius r is|πr/2|πr + 2r|πr²/4 + 2r|πr/2 + 2r|3|Arc πr/2 plus two radii.
+The perimeter of a sector of angle θ and radius r is|(θ/360) × 2πr + 2r|(θ/360) × πr²|2πr|πr + 2r|0|Arc length plus two radii.
+The area of the circle inscribed in a square of side 14 cm is|196 cm²|154 cm²|616 cm²|44 cm²|1|The radius is 7 cm.
+A circle is inscribed in a square of side 14 cm. The area of the square outside the circle is|154 cm²|196 cm²|42 cm²|56 cm²|2|196 − 154.
+The ratio of the areas of circles with radii in the ratio 1 : 2 is|1 : 2|2 : 1|1 : 8|1 : 4|3|Area is proportional to r².
+In a circle of radius 21 cm, a minor sector has angle 60°. The area of the major sector is|1155 cm²|231 cm²|1386 cm²|924 cm²|0|(5/6) × 1386.
+Using π = 3.14, the area of the minor segment of a circle of radius 10 cm with a 90° angle is|78.5 cm²|28.5 cm²|50 cm²|100 cm²|1|78.5 − 50.
+The largest circle that can be cut from a square of side 28 cm has area|784 cm²|308 cm²|616 cm²|154 cm²|2|The radius is 14 cm.
+A horse is tied to a corner of a 15 m square field by a 5 m rope. The area it can graze is about|78.57 m²|39.28 m²|25 m²|19.64 m²|3|¼ × π × 25.
+The area of a 60° sector of a circle of radius 6 cm is about|18.86 cm²|37.7 cm²|113.1 cm²|6.28 cm²|0|(1/6) × π × 36.
+The perimeter of a quadrant of radius 14 cm (π = 22/7) is|22 cm|50 cm|36 cm|44 cm|1|22 + 28.
+A square of side 10 cm has quarter circles of radius 5 cm removed at its four corners. Using π = 3.14, the area left is|78.5 cm²|100 cm²|21.5 cm²|50 cm²|2|100 − 78.5.
+A circular pizza of radius 14 cm is cut into 8 equal sectors. Each has area|616 cm²|154 cm²|88 cm²|77 cm²|3|616/8.
+The length of the arc of a 45° sector of a circle of radius 28 cm (π = 22/7) is|22 cm|44 cm|11 cm|88 cm|0|(1/8) × 176.
+If a circle and a square have the same perimeter, the ratio of the circle's area to the square's area is|11 : 14|14 : 11|22 : 7|7 : 22|1|Area of circle = 4a²/π.
+A wire in the form of a circle of radius 14 cm is bent into a square. The side of the square is|14 cm|44 cm|22 cm|11 cm|2|Perimeter 88 cm.
+A minute hand of 10 cm sweeps from 7:00 to 7:05. Using π = 3.14, the area swept is|314 cm²|31.4 cm²|52.3 cm²|26.17 cm²|3|(1/12) × 314.
+The hour hand of a clock is 6 cm long. In 2 hours its tip moves (π = 22/7)|6.29 cm|12.57 cm|3.14 cm|18.86 cm|0|The hand turns through 60°.
+The ratio of the circumferences of two circles is 2 : 3. The ratio of their areas is|2 : 3|4 : 9|8 : 27|3 : 2|1|Radii are in ratio 2 : 3.
