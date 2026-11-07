@@ -8,6 +8,7 @@ on:
       - 'summaries/**'
       - 'banks/**'
       - 'details/**'
+      - 'solutions/**'
       - 'school_years.json'
       - 'tools/**'
   workflow_dispatch:
