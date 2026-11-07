@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Acids turn blue litmus paper|red|blue|green|colourless|0|Acids are sour.
+Bases turn red litmus paper|red|blue|green|yellow|1|Bases are bitter and soapy.
+The sour taste of foods is due to|bases|salts|acids|metals|2|For example lemon contains citric acid.
+A bitter taste and soapy feel are properties of|acids|salts|water|bases|3|Soap contains a base.
+The pH of a neutral solution is|7|0|14|1|0|Pure water has pH 7.
+An acidic solution has a pH|greater than 7|less than 7|equal to 7|equal to 14|1|The smaller the pH, the stronger the acid.
+A basic solution has a pH|less than 7|equal to 7|greater than 7|equal to 0|2|The larger the pH, the stronger the base.
+The pH scale runs from|1 to 10|0 to 7|7 to 14|0 to 14|3|It is a scale of hydrogen ion concentration.
+Lemon juice contains|citric acid|acetic acid|lactic acid|oxalic acid|0|Citric acid is in citrus fruits.
+Vinegar contains|citric acid|acetic acid|lactic acid|oxalic acid|1|It is also called ethanoic acid.
+Curd contains|acetic acid|citric acid|lactic acid|formic acid|2|Lactic acid forms by fermentation.
+Tamarind contains|oxalic acid|citric acid|lactic acid|tartaric acid|3|Tartaric acid gives it its sour taste.
+The sting of an ant contains|methanoic (formic) acid|acetic acid|lactic acid|citric acid|0|A mild base gives relief.
+The formula of common salt is|NaOH|NaCl|Na₂CO₃|NaHCO₃|1|Sodium chloride.
+The formula of baking soda is|Na₂CO₃|NaOH|NaHCO₃|NaCl|2|Sodium hydrogencarbonate.
+The formula of washing soda is|NaHCO₃|NaOH|CaOCl₂|Na₂CO₃·10H₂O|3|Sodium carbonate decahydrate.
+The formula of bleaching powder is|CaOCl₂|CaO|CaCO₃|Ca(OH)₂|0|Calcium oxychloride.
+An acid reacting with a metal gives|a salt and water|a salt and hydrogen|a salt and carbon dioxide|only a salt|1|Metal + acid → salt + H₂.
+An acid reacting with a metal carbonate gives|a salt and hydrogen|only a salt|a salt, water and carbon dioxide|only water|2|CO₂ turns lime water milky.
+An acid reacting with a base gives|a salt and hydrogen|only water|only a salt|a salt and water|3|This is neutralisation.
+The gas that turns lime water milky is|carbon dioxide|hydrogen|oxygen|nitrogen|0|CaCO₃ forms.
+The gas that burns with a pop sound is|oxygen|hydrogen|carbon dioxide|nitrogen|1|This is the test for hydrogen.
+A neutralisation reaction is essentially the combination of|a salt to form a gas|a metal to form an oxide|H⁺ and OH⁻ to form water|an acid to form a precipitate|2|H⁺ + OH⁻ → H₂O.
+Zinc reacting with dilute hydrochloric acid gives|ZnO and HCl|ZnCl and H|Zn(OH)₂ and Cl₂|ZnCl₂ and H₂|3|Zn + 2HCl → ZnCl₂ + H₂.
+NaOH + HCl gives|NaCl and H₂O|NaCl and H₂|NaClO and H₂|Na and HOCl|0|This is neutralisation.
+Na₂CO₃ + 2HCl gives|NaCl and H₂|2NaCl, H₂O and CO₂|2NaCl and H₂|NaOH and CO₂|1|Carbonate plus acid gives CO₂.
+In water, acids produce|OH⁻ ions|Na⁺ ions|H⁺ ions|Cl⁻ ions only|2|H⁺ ions give acids their properties.
+Bases that dissolve in water are called|acids|salts|indicators|alkalis|3|NaOH and KOH are examples.
+Which of these is a strong acid?|HCl|CH₃COOH|H₂CO₃|C₆H₈O₇|0|It ionises almost completely in water.
+Milk of magnesia, used as an antacid, contains|HCl|Mg(OH)₂|NaCl|H₂SO₄|1|It neutralises excess stomach acid.
+Tooth decay begins when the pH of the mouth falls below|7|8|5.5|3|2|Acids attack tooth enamel.
+The chlor-alkali process gives|NaCl and H₂O|Na and Cl₂|NaOH and O₂|NaOH, Cl₂ and H₂|3|Electrolysis of brine.
+Bleaching powder is made by passing chlorine over|dry slaked lime|quicklime|lime water|limestone|0|Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O.
+Heating baking soda gives|NaOH and H₂|Na₂CO₃, H₂O and CO₂|NaCl and CO₂|Na and CO₂|1|2NaHCO₃ → Na₂CO₃ + H₂O + CO₂.
+Gypsum contains this much water of crystallisation: CaSO₄·|10H₂O|½H₂O|2H₂O|5H₂O|2|CaSO₄·2H₂O.
+The formula of plaster of Paris is|CaSO₄·2H₂O|CaSO₄|CaCO₃|CaSO₄·½H₂O|3|It has half a molecule of water.
+The number of water molecules in washing soda crystals is|10|2|5|7|0|Na₂CO₃·10H₂O.
+A solution of pH 2 is|weakly acidic|strongly acidic|neutral|basic|1|Low pH means strong acid.
+A solution of pH 13 is|weakly basic|neutral|strongly basic|acidic|2|High pH means strong base.
+If the pH of a solution changes from 6 to 5, the H⁺ concentration|decreases tenfold|doubles|stays the same|increases tenfold|3|Each pH unit is a factor of 10.
+Plaster of Paris is used to|set fractured bones|make bleach|remove stains|soften water|0|It forms a hard cast with water.
+Plaster of Paris is made by heating gypsum at about|273 K|373 K|473 K|573 K|1|Heat 100 °C.
+On setting, plaster of Paris becomes|CaSO₄|CaO|CaSO₄·2H₂O|Ca(OH)₂|2|CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O.
+Bleaching powder is used for|making plaster|baking|setting bones|disinfecting drinking water|3|It releases chlorine.
+Dry HCl gas does not change the colour of dry blue litmus because|it has no H⁺ ions without water|it is a base|litmus is acidic|HCl is neutral|0|Acidic behaviour needs H⁺ ions.
+Acid rain has a pH below|7|5.6|6.5|4|1|Normal rain is slightly acidic.
+Hydrogen gas is evolved when|NaOH reacts with HCl|Na₂CO₃ reacts with HCl|zinc reacts with dilute sulphuric acid|CaO reacts with water|2|Metal + acid → salt + H₂.
+An antacid works by|adding more acid|oxidising food|producing a gas|neutralising excess stomach acid|3|It is a mild base.
+A bee sting can be soothed by rubbing a mild base such as|baking soda|vinegar|lemon juice|salt|0|Bee stings are acidic.
+Which salt has a pH of about 7 in water?|sodium carbonate|sodium chloride|ammonium chloride|sodium acetate|1|It is made from a strong acid and a strong base.

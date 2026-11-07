@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A chemical equation represents a reaction using|symbols and formulae|only words|pictures|graphs|0|Symbols and formulae show reactants and products.
+The substances that take part in a chemical reaction are called|products|reactants|catalysts|solvents|1|They are written on the left of the arrow.
+The substances formed in a chemical reaction are called|reactants|catalysts|products|solvents|2|They are written on the right of the arrow.
+In a balanced chemical equation the number of atoms of each element is|only on the left|only on the right|different on the two sides|equal on both sides|3|Atoms are neither created nor destroyed.
+Balanced chemical equations follow the|law of conservation of mass|Boyle's law|Ohm's law|Newton's third law|0|Mass of reactants equals mass of products.
+Burning magnesium in air produces|magnesium chloride|magnesium oxide|magnesium sulphate|hydrogen|1|2Mg + O₂ → 2MgO.
+A reaction in which two or more substances combine to form a single product is a|decomposition reaction|displacement reaction|combination reaction|double displacement reaction|2|A + B → AB.
+A reaction in which a single substance breaks into simpler substances is a|combination reaction|displacement reaction|neutralisation reaction|decomposition reaction|3|AB → A + B.
+A reaction in which a more reactive element replaces a less reactive one is a|displacement reaction|combination reaction|decomposition reaction|precipitation reaction|0|For example Fe + CuSO₄ → FeSO₄ + Cu.
+A reaction in which ions are exchanged between two compounds is a|combination reaction|double displacement reaction|decomposition reaction|displacement reaction|1|AB + CD → AD + CB.
+Addition of oxygen to a substance is|reduction|neutralisation|oxidation|decomposition|2|Loss of electrons is also oxidation.
+Removal of oxygen from a substance is|oxidation|combination|displacement|reduction|3|Gain of electrons is also reduction.
+A reaction that releases heat is|exothermic|endothermic|neutral|reversible|0|Burning and respiration are examples.
+A reaction that absorbs heat is|exothermic|endothermic|neutral|combustion|1|Photosynthesis is an example.
+Rusting is the corrosion of|copper|silver|iron|gold|2|Iron forms a reddish-brown coating.
+Rancidity occurs in|water|salt|sand|fats and oils|3|Oxidation gives them bad smell and taste.
+The chemical formula of quicklime is|CaO|Ca(OH)₂|CaCO₃|CaCl₂|0|Quicklime is calcium oxide.
+The balanced equation for the formation of water is|H₂ + O₂ → H₂O|2H₂ + O₂ → 2H₂O|H₂ + 2O₂ → 2H₂O|2H₂ + 2O₂ → 2H₂O|1|There must be 4 H atoms and 2 O atoms on each side.
+In the balanced equation 3Fe + 4H₂O → Fe₃O₄ + 4H₂, the coefficient of H₂O is|3|2|4|1|2|Four molecules of water react.
+CaO + H₂O gives|CaCO₃|CaCl₂|CaO₂|Ca(OH)₂|3|The reaction is exothermic.
+The chemical formula of slaked lime is|Ca(OH)₂|CaO|CaCO₃|CaSO₄|0|Slaked lime is calcium hydroxide.
+Heating limestone (CaCO₃) gives|Ca and CO₃|CaO and CO₂|CaCl₂ and CO₂|Ca(OH)₂ and CO₂|1|This is a thermal decomposition.
+On electrolysis of water the volumes of hydrogen and oxygen are in the ratio|1 : 2|1 : 1|2 : 1|3 : 1|2|2H₂O → 2H₂ + O₂.
+When zinc reacts with copper sulphate solution the products are|ZnO and CuS|ZnCu and SO₄|Zn and CuSO₄|ZnSO₄ and Cu|3|Zinc is more reactive than copper.
+Fe + CuSO₄ → FeSO₄ + Cu is a|displacement reaction|combination reaction|decomposition reaction|double displacement reaction|0|Iron displaces copper.
+In Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl the white precipitate is|NaCl|BaSO₄|Na₂SO₄|BaCl₂|1|Barium sulphate is insoluble.
+A precipitation reaction is a kind of|combination reaction|decomposition reaction|double displacement reaction|displacement reaction|2|Ions exchange partners and an insoluble solid forms.
+Heating lead nitrate gives brown fumes of|oxygen|carbon dioxide|hydrogen|nitrogen dioxide|3|2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂.
+Heating green ferrous sulphate crystals releases gases with the smell of|burning sulphur|rotten eggs|vinegar|ammonia|0|SO₂ and SO₃ are released.
+Silver chloride kept in sunlight turns|green|grey|red|blue|1|Silver is formed.
+In 2Mg + O₂ → 2MgO the substance that is oxidised is|O₂|MgO|Mg|none|2|Magnesium gains oxygen.
+In CuO + H₂ → Cu + H₂O the oxidising agent is|H₂|Cu|H₂O|CuO|3|CuO supplies oxygen and is reduced.
+In CuO + H₂ → Cu + H₂O the substance reduced is|CuO|H₂|Cu|H₂O|0|CuO loses oxygen.
+In ZnO + C → Zn + CO the reducing agent is|ZnO|C|Zn|CO|1|Carbon removes oxygen from ZnO.
+Rusting of iron needs|only dry oxygen|only water|oxygen and moisture|only nitrogen|2|Both air and water must be present.
+Rancidity in packed chips is prevented by|exposing it to air|heating it|adding water|flushing the bag with nitrogen|3|Nitrogen keeps oxygen out.
+In 2Al + 3CuCl₂ → 2AlCl₃ + 3Cu the coefficient of CuCl₂ is|3|2|1|4|0|Balance the chlorine atoms: 6 on each side.
+In 3BaCl₂ + Al₂(SO₄)₃ → 3BaSO₄ + 2AlCl₃ the coefficient of AlCl₃ is|3|2|1|6|1|Two Al atoms are needed.
+In 2Na + 2H₂O → 2NaOH + H₂ the coefficient of H₂O is|1|3|2|4|2|Balance O and H.
+In Fe₂O₃ + 3CO → 2Fe + 3CO₂ the coefficient of CO₂ is|1|2|4|3|3|Three O atoms are removed from Fe₂O₃.
+In C₃H₈ + 5O₂ → 3CO₂ + 4H₂O the coefficient of O₂ is|5|3|4|7|0|Six + four = ten O atoms.
+The thermite reaction Fe₂O₃ + 2Al → Al₂O₃ + 2Fe, used to weld railway tracks, is a|combination reaction|displacement reaction that releases heat|endothermic decomposition|neutralisation reaction|1|Aluminium displaces iron and the heat melts the iron.
+Respiration is|endothermic|photochemical|exothermic|nuclear|2|Glucose is oxidised with release of energy.
+Photosynthesis is|exothermic|neutral|a combustion|endothermic|3|Plants absorb sunlight.
+Decomposition of silver bromide in sunlight is used in|black and white photography|batteries|cooking|fuels|0|It is a photolytic decomposition.
+When an iron nail is dipped in copper sulphate solution the blue colour changes to|colourless|light green|red|yellow|1|Ferrous sulphate forms.
+Galvanisation protects iron by coating it with|copper|gold|zinc|silver|2|Zinc corrodes in preference to iron.
+Decomposition of CaCO₃ by heating is a|electrolytic decomposition|photolytic decomposition|displacement reaction|thermal decomposition|3|Energy is supplied as heat.
+In 2KClO₃ → 2KCl + 3O₂ the number of oxygen atoms on each side is|6|3|2|12|0|2 × 3 = 3 × 2 = 6.
+Rancidity can be slowed by adding|oxidants|antioxidants|water|sugar|1|Antioxidants prevent oxidation of fats.

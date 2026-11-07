@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Metals are generally|malleable and ductile|brittle|insulators|gases|0|They can be beaten and drawn.
+Ductile means that a metal can be drawn into|sheets|wires|powder|liquid|1|Gold and copper are very ductile.
+Malleable means that a metal can be beaten into|wires|powder|sheets|gas|2|Aluminium foil is an example.
+The best conductor of electricity among these is|copper|iron|lead|silver|3|Silver has the lowest resistivity.
+The metal that is liquid at room temperature is|mercury|sodium|iron|zinc|0|Mercury melts at −39 °C.
+The non-metal that is liquid at room temperature is|iodine|bromine|sulphur|carbon|1|Bromine is a red-brown liquid.
+A non-metal that conducts electricity is|sulphur|iodine|graphite|phosphorus|2|It is an allotrope of carbon.
+A non-metal that is lustrous is|sulphur|phosphorus|oxygen|iodine|3|Most non-metals are dull.
+Metals are generally|good conductors of heat|poor conductors of heat|gases|brittle|0|Heat flows through free electrons.
+The hardest natural substance is|graphite|diamond|sulphur|iodine|1|It is an allotrope of carbon.
+A metal that can be cut with a knife is|iron|copper|sodium|zinc|2|Sodium is soft.
+The most reactive metal among these is|gold|copper|zinc|potassium|3|It is at the top of the reactivity series.
+The least reactive metal among these is|gold|iron|zinc|lead|0|It does not corrode.
+Metal oxides are generally|acidic|basic|neutral|gaseous|1|They give bases with water.
+Non-metal oxides are generally|basic|always neutral|acidic|metallic|2|They give acids with water.
+An alloy is|a compound|a pure metal|a solution of acids|a homogeneous mixture of two or more metals|3|For example brass.
+Rust is chiefly|hydrated iron(III) oxide|iron sulphate|iron chloride|copper oxide|0|Fe₂O₃·xH₂O.
+A metal that reacts with cold water is|iron|sodium|copper|gold|1|It also releases hydrogen.
+Sodium is stored under|water|air|kerosene|alcohol|2|It reacts vigorously with air and water.
+Metals react with water to form a metal hydroxide and|oxygen|carbon dioxide|nitrogen|hydrogen|3|2Na + 2H₂O → 2NaOH + H₂.
+A metal that reacts with steam is|aluminium|gold|copper|silver|0|Al, Zn and Fe form oxide with steam.
+Which metal does not react with dilute hydrochloric acid?|zinc|copper|magnesium|iron|1|Copper is below hydrogen in the series.
+The correct order of reactivity is|Au > Ag > Cu > H > Pb > Fe > Zn > Al > Mg > Ca > Na > K|Fe > Zn > Al > Mg > Ca > Na > K > Cu > Ag > Au|K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Ag > Au|Cu > Fe > K > Na > Zn > Ag > Au > Al > Mg|2|This is the reactivity series.
+A more reactive metal|is displaced by a less reactive metal|does not react with salts|only reacts with acids|displaces a less reactive metal from its salt solution|3|Zn displaces Cu from CuSO₄.
+When zinc is added to copper sulphate solution, the blue colour|fades|deepens|stays the same|turns red|0|Copper is displaced.
+Ionic compounds have|low melting points|high melting points|no ions|conductivity as solids|1|The ionic bond is strong.
+Ionic compounds conduct electricity|in solid state|always|in molten state or in solution|never|2|Ions are free to move.
+An ionic bond is formed by|sharing of electrons|nuclear forces|hydrogen bonds|transfer of electrons|3|Metal gives and non-metal accepts.
+In forming sodium chloride, a sodium atom|loses 1 electron|loses 2 electrons|gains 1 electron|loses a proton|0|Na → Na⁺.
+A magnesium atom forms the ion|Mg⁺|Mg²⁺|Mg³⁺|Mg²⁻|1|It loses 2 electrons.
+A chlorine atom forms the ion|Cl⁺|Cl²⁻|Cl⁻|Cl²⁺|2|It gains 1 electron.
+Aluminium oxide is|acidic|basic|neutral|amphoteric|3|It reacts with both acids and bases.
+An ore is a mineral from which a metal|can be profitably extracted|is burnt|is painted|is only melted|0|Ores are the sources of metals.
+Gangue is|the pure metal|the impurities in an ore|a flux|a reducing agent|1|Earthy impurities such as sand.
+Roasting is heating an ore in|the absence of air|water|excess of air|hydrogen|2|Sulphide ores are converted to oxides.
+Calcination is heating an ore in|excess air|water|hydrogen|limited or no air|3|Carbonate ores give oxides.
+Mercury is obtained from cinnabar (HgS) by|heating in air|electrolysis|reduction with carbon|reduction with aluminium|0|HgS is roasted to mercury.
+Highly reactive metals such as sodium and aluminium are extracted by|heating alone|electrolytic reduction|roasting|calcination|1|Carbon cannot reduce their oxides.
+Metals of middle reactivity such as zinc and iron are obtained from their oxides by|electrolysis|heating alone|reduction with carbon|displacement by copper|2|Carbon is a cheap reducing agent.
+The thermite reaction is used for|making wine|bleaching cloth|purifying water|welding railway tracks|3|It releases a lot of heat.
+In the electrolytic refining of copper the anode is|impure copper|pure copper|an inert metal|graphite|0|Pure copper is deposited on the cathode.
+The anode mud in electrolytic refining of copper contains|copper|silver and gold|zinc|iron|1|These do not dissolve.
+Galvanisation is|coating iron with copper|alloying iron with carbon|coating iron with zinc|painting iron|2|It prevents rusting.
+Brass is an alloy of copper and|tin|nickel|lead|zinc|3|Copper + zinc.
+Bronze is an alloy of copper and|tin|zinc|carbon|lead|0|Copper + tin.
+Solder is an alloy of|copper and tin|lead and tin|zinc and copper|iron and nickel|1|It has a low melting point.
+An amalgam is an alloy containing|lead|tin|mercury|zinc|2|Dental amalgams contain mercury.
+Stainless steel is made of iron, nickel and|copper|zinc|tin|chromium|3|Chromium resists corrosion.
+Aqua regia is a mixture of concentrated HCl and concentrated HNO₃ in the ratio|3 : 1|1 : 3|1 : 1|2 : 1|0|It can dissolve gold and platinum.
+Hydrogen is not evolved when most metals react with nitric acid because HNO₃ is a strong|reducing agent|oxidising agent|base|catalyst|1|It oxidises the hydrogen to water.
