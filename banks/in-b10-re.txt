@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The production of new individuals from existing ones is called|reproduction|respiration|excretion|nutrition|0|It maintains the species.
+Reproduction involving a single parent is|sexual reproduction|asexual reproduction|fertilisation|pollination|1|The offspring are genetically similar.
+Amoeba reproduces by|budding|spore formation|binary fission|fragmentation|2|The cell divides into two.
+Plasmodium reproduces by|budding|regeneration|spore formation|multiple fission|3|One cell divides into many daughter cells.
+Hydra reproduces by|budding|binary fission|spore formation|fragmentation|0|A bud grows out and detaches.
+Planaria can|only divide by fission|regrow its body from small pieces|reproduce only sexually|not regenerate|1|This is regeneration.
+Rhizopus reproduces by|budding|binary fission|spores|regeneration|2|Spores form in sporangia.
+Bread mould is|Amoeba|Hydra|Planaria|Rhizopus|3|It forms black spore-bearing structures.
+Yeast reproduces by|budding|binary fission|spores only|regeneration|0|Small buds grow out of the cell.
+Growing new plants from roots, stems or leaves is called|sexual reproduction|vegetative propagation|binary fission|spore formation|1|Parts of the plant give new plants.
+The male reproductive part of a flower is the|pistil|carpel|stamen|ovary|2|It produces pollen.
+The female reproductive part of a flower is the|stamen|anther|filament|pistil|3|It has stigma, style and ovary.
+Pollen grains are produced in the|anther|stigma|ovary|style|0|At the tip of the stamen.
+The transfer of pollen from anther to stigma is called|fertilisation|pollination|germination|fission|1|It may be by wind, water or insects.
+The fusion of a male and a female gamete is called|pollination|fission|fertilisation|budding|2|It forms the zygote.
+The male gamete in humans is the|ovum|zygote|embryo|sperm|3|It is produced in the testes.
+The female gamete in humans is the|ovum (egg)|sperm|zygote|embryo|0|It is produced in the ovary.
+After fertilisation, the ovary of a flower develops into the|seed|fruit|flower|leaf|1|Seeds are inside.
+After fertilisation, the ovule develops into the|fruit|stamen|seed|petal|2|It contains the embryo.
+The fertilised egg is called the|gamete|ovum|sperm|zygote|3|It divides to form an embryo.
+A seed germinates to give|a seedling|a zygote|a flower|a fruit|0|The embryo grows into a young plant.
+Bryophyllum can be propagated by its|stems|leaves|roots|seeds|1|New plants grow from the notches.
+A potato reproduces vegetatively by|roots|leaves|tubers (stems)|spores|2|The eyes of a potato give new plants.
+The sweet potato is propagated by|stems|leaves|seeds|roots|3|It is a tuberous root.
+Tissue culture is used to|grow whole plants from a small piece of tissue|cut stems|kill pests|make seeds only|0|It gives many identical plants.
+Self-pollination is the transfer of pollen within|different species|the same flower or plant|different plants|animals|1|Both parents are the same plant.
+Cross-pollination is the transfer of pollen between|the same flower|different species|flowers of different plants of the same species|stem and root|2|It brings variation.
+Pollination can be brought about by|only wind|only birds|nothing|wind, water and insects|3|They are agents of pollination.
+Sperms are produced in the|testes|ovary|uterus|prostate|0|Testes are in the scrotum.
+The testes lie in the|abdomen|scrotum|pelvis|thorax|1|Sperm production needs a lower temperature.
+The ovaries produce|sperm|testosterone|ova and female hormones|zygote|2|Oestrogen and progesterone.
+Fertilisation in humans takes place in the|uterus|vagina|ovary|fallopian tube (oviduct)|3|The egg meets the sperm there.
+The embryo is implanted in the|uterus|ovary|oviduct|vagina|0|It develops there.
+The organ that connects the embryo to the mother is the|uterus|placenta|ovary|cervix|1|It supplies oxygen and food.
+Menstruation occurs about every|7 days|90 days|28 days|365 days|2|If the egg is not fertilised, the lining is shed.
+The start of puberty in girls is marked by|growth of beard|breaking of voice|none of these|the start of menstruation|3|It is the menarche.
+In binary fission of Amoeba, division starts with the|nucleus|cell wall|cytoplasm|cell membrane|0|Then the cytoplasm divides.
+An advantage of vegetative propagation is that|it gives more variation|plants bear flowers and fruits earlier|it is slower|it needs seeds|1|The new plants grow faster.
+An advantage of spore formation is that|pollinators are needed|it increases variation|spores can survive in harsh conditions|two parents are needed|2|Spores have thick coats.
+Sexual reproduction leads to|exact copies|no new forms|only clones|variation|3|Gametes combine DNA from two parents.
+Slight errors in DNA copying lead to|variations|clones|no change|death only|0|They help the species survive change.
+The pollen tube carries the male gametes to the|stigma|ovule|anther|petal|1|It grows through the style.
+The zygote in humans divides to form the|ovum|sperm|embryo|placenta|2|It then grows into a foetus.
+At puberty, girls produce more|insulin|thyroxine|adrenaline|oestrogen|3|It brings changes in the female body.
+A barrier method of contraception is the|condom|oral pill|vasectomy|tubectomy|0|It prevents sperm from meeting the egg.
+Oral contraceptive pills work by preventing|sperm production|the release of eggs|menstruation only|growth of the placenta|1|They change hormonal balance.
+A surgical method of contraception for males is|tubectomy|condom|vasectomy|oral pills|2|The sperm duct is blocked.
+A surgical method of contraception for females is|vasectomy|condom|copper-T only|tubectomy|3|The fallopian tube is blocked.
+Which of these is a sexually transmitted disease?|gonorrhoea|malaria|cholera|dengue|0|Others are syphilis and HIV-AIDS.
+Sex-selective abortion of female foetuses is|a method of contraception|a crime that lowers the sex ratio|a treatment|a vaccine|1|It is prohibited by law.

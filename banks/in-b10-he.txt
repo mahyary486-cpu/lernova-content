@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The transfer of traits from parents to offspring is called|heredity|evolution|adaptation|mutation|0|Genes carry the traits.
+Differences among individuals of a species are called|heredity|variation|adaptation|cloning|1|They arise in sexual reproduction.
+The father of genetics is|Charles Darwin|Lamarck|Gregor Mendel|Watson|2|He worked on pea plants.
+Mendel did his experiments on|rose|mango|wheat|garden pea|3|Pea plants have contrasting traits.
+In pea plants flower colour is violet or|white|red|yellow|pink|0|This was one of Mendel's traits.
+A trait that appears in the F₁ generation is|recessive|dominant|latent|lost|1|It masks the recessive trait.
+A trait that does not appear in F₁ is|dominant|new|recessive|lost|2|It reappears in F₂.
+F₁ stands for|first parent|second parental|fusion generation|first filial generation|3|The offspring of the parental cross.
+F₂ stands for|second filial generation|second parent|first generation|third generation|0|It comes from self-pollinating F₁.
+Genes are located on|ribosomes|chromosomes|cell walls|mitochondria|1|Chromosomes are made of DNA.
+The number of pairs of chromosomes in humans is|46|22|23|24|2|There are 46 chromosomes.
+The total number of chromosomes in a human body cell is|23|44|48|46|3|23 from each parent.
+The sex chromosomes of a human female are|XX|XY|YY|XO|0|Both are the same.
+The sex chromosomes of a human male are|XX|XY|YY|XO|1|One X and one Y.
+The gametes (eggs) of a human female carry|a Y chromosome|XX|an X chromosome|XY|2|All eggs carry X.
+The chemical that carries genetic information is|protein|lipid|starch|DNA|3|Located in the nucleus.
+In pea plants, tall is T and dwarf is represented by|t|T|Tt|TT|0|It is the recessive allele.
+A cross between TT and tt gives F₁ with genotype|TT|Tt|tt|T|1|All plants are heterozygous.
+All F₁ plants of a cross TT × tt are|dwarf|half tall|tall|medium|2|Tall is dominant.
+Self-pollination of F₁ (Tt) gives an F₂ phenotypic ratio of|1 tall : 1 dwarf|1 tall : 3 dwarf|9 : 3|3 tall : 1 dwarf|3|Mendel's monohybrid ratio.
+The genotypic ratio in F₂ of a monohybrid cross is|1 TT : 2 Tt : 1 tt|3 : 1|9 : 3 : 3 : 1|1 : 1|0|Three different genotypes.
+The phenotypic ratio in F₂ of a dihybrid cross is|3 : 1|9 : 3 : 3 : 1|1 : 2 : 1|1 : 1|1|Four different phenotypes.
+RRYY (round yellow) × rryy (wrinkled green) gives F₁ that are|all wrinkled green|round green|all round yellow|wrinkled yellow|2|Round and yellow are dominant.
+In the F₂ of RrYy × RrYy the fraction of round yellow seeds is|3/16|1/16|1/4|9/16|3|9 of 16.
+In the F₂ of RrYy × RrYy the fraction of wrinkled green seeds is|1/16|3/16|9/16|1/4|0|Only rryy.
+The gametes formed by RrYy are|Rr and Yy|RY, Ry, rY and ry|RR and rr|RY only|1|Independent assortment.
+An allele is|a chromosome|a cell|an alternative form of a gene|a protein|2|Tall and dwarf are alleles.
+A homozygous individual has|two different alleles|one allele|three alleles|two identical alleles for a gene|3|For example TT or tt.
+A heterozygous individual has|two different alleles for a gene|two identical alleles|no allele|one gene only|0|For example Tt.
+Genotype is|its physical appearance|the genetic makeup of an organism|its chromosome count|its habitat|1|For example Tt.
+Phenotype is|its genetic constitution|its DNA|the observable characteristic of an organism|its gene|2|For example tall.
+The sex of a child is decided by|the egg of the mother|the environment|both parents equally|the sperm of the father (X or Y)|3|Eggs always carry X.
+A child who receives X from the mother and Y from the father is a|boy|girl|twin|none|0|The XY combination.
+A child with chromosomes XX is a|boy|girl|either|none|1|Both X chromosomes.
+The probability of having a boy is|25%|75%|50%|100%|2|Half of the sperms carry Y.
+Acquired traits|are inherited|are always genetic|change DNA|are not inherited by the next generation|3|They do not change the DNA of germ cells.
+A cross Tt × tt gives tall and dwarf plants in the ratio|1 : 1|3 : 1|all tall|all dwarf|0|Half Tt and half tt.
+A cross TT × Tt gives offspring with genotypes|only Tt|1 TT : 1 Tt|only tt|only TT|1|All offspring are tall.
+In an F₂ generation of tall × dwarf pure parents the fraction of dwarf plants is|3/4|1/2|1/4|none|2|Only tt plants are dwarf.
+A tall F₂ plant is crossed with a dwarf plant and all offspring are tall. The F₂ plant was|Tt|tt|sterile|TT|3|A heterozygous plant would give some dwarf.
+In the F₂ of a monohybrid cross the recessive trait reappears in|one quarter of the plants|three quarters of the plants|all of the plants|none of the plants|0|The tt genotype.
+In his dihybrid cross Mendel studied the traits|height only|seed shape and seed colour|leaf shape only|flower colour only|1|Round/wrinkled and yellow/green.
+In the F₂ of RRYY × rryy the parental combinations are|round green and wrinkled yellow|only round|round yellow and wrinkled green|only yellow|2|They are the same as the original parents.
+The new combinations (round green, wrinkled yellow) in F₂ show that|only dominance works|blending takes place|mutation occurs|traits are inherited independently|3|Independent assortment.
+A section of DNA that codes for a protein is a|gene|chromosome|cell|nucleus|0|It controls a trait.
+A boy has the sex chromosome pair|XX|XY|YY|XO|1|One from each parent.
+The number of chromosomes in a human gamete is|46|22|23|44|2|Half the number.
+The number of chromosomes in a human zygote is|23|92|69|46|3|Restored on fertilisation.
+Variation arises in reproduction due to|errors in DNA copying and sexual recombination|only the environment|only food|none of these|0|They give genetic differences.
+Variation is useful to a species because it|causes extinction|helps survival in a changing environment|produces identical offspring|slows growth|1|Some individuals may survive.

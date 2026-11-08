@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The bouncing back of light from a surface is|reflection|refraction|dispersion|diffraction|0|Light returns to the same medium.
+The law that angle of incidence = angle of reflection is the|Snell's law|law of reflection|Ohm's law|Boyle's law|1|Both angles are measured from the normal.
+A plane mirror forms an image that is|real and inverted|enlarged and real|virtual and erect|absent|2|It is behind the mirror.
+The image in a plane mirror is|larger|smaller|inverted|the same size as the object|3|And as far behind as the object is in front.
+A concave mirror is a|converging mirror|diverging mirror|plane mirror|flat mirror|0|It converges parallel rays.
+A convex mirror is a|converging mirror|diverging mirror|plane mirror|flat mirror|1|It diverges parallel rays.
+The centre of the sphere of which a mirror is a part is the|pole|focus|centre of curvature|aperture|2|Denoted by C.
+The pole of a spherical mirror is|its focus|its centre of curvature|its principal axis|the centre of its reflecting surface|3|Denoted by P.
+The distance between the pole and the principal focus is the|focal length|radius of curvature|aperture|object distance|0|Denoted by f.
+The focal length f and the radius of curvature R are related by|f = 2R|f = R/2|f = R|f = R²|1|Focus is midway between P and C.
+The bending of light as it passes from one medium to another is|reflection|dispersion|refraction|diffraction|2|Speed of light changes.
+A convex lens is|diverging|plane|opaque|converging|3|It converges parallel rays.
+A concave lens is|diverging|converging|plane|opaque|0|It spreads parallel rays.
+The SI unit of power of a lens is|metre|dioptre|watt|newton|1|1 D = 1 m⁻¹.
+The power of a lens is|f|f²|1/f with f in metres|2f|2|P = 1/f.
+The speed of light in vacuum is|3 × 10⁶ m/s|3 × 10⁵ m/s|300 m/s|3 × 10⁸ m/s|3|The maximum speed.
+The refractive index of a medium is|c / v|v / c|c × v|c + v|0|c is the speed in vacuum.
+A concave mirror has radius of curvature 20 cm. Its focal length is|40 cm|10 cm|20 cm|5 cm|1|f = R/2.
+The mirror used in car headlights is|convex|plane|concave|cylindrical|2|It gives a parallel beam.
+The mirror used as a rear-view mirror in vehicles is|concave|plane|cylindrical|convex|3|It gives a wider field of view.
+Dentists use a|concave mirror|convex mirror|plane mirror|cylindrical mirror|0|It forms an enlarged, erect image.
+The mirror formula is|v + u = f|1/v + 1/u = 1/f|1/v − 1/u = f|uv = f|1|With the new Cartesian sign convention.
+The magnification produced by a spherical mirror is|m = v/u|m = u/v|m = −v/u|m = −u/v|2|The sign tells whether the image is erect or inverted.
+In the sign convention, distances measured in the direction of the incident light are|negative|zero|infinite|positive|3|Opposite is negative.
+For an object at infinity, a concave mirror forms an image at|the focus|the centre of curvature|the pole|behind the mirror|0|Real, inverted and highly diminished.
+For an object beyond C, a concave mirror forms the image|beyond C|between F and C|between P and F|behind the mirror|1|Real, inverted and diminished.
+An object between P and F of a concave mirror gives an image that is|real and inverted|diminished|virtual, erect and enlarged|at infinity|2|Behind the mirror.
+A convex mirror always forms an image that is|real|inverted|enlarged|virtual, erect and diminished|3|Behind the mirror.
+Snell's law states that for two given media|sin i / sin r is constant|i = r|sin i + sin r = 1|tan i = tan r|0|The constant is the refractive index.
+When light passes from a rarer to a denser medium it bends|away from the normal|towards the normal|not at all|backwards|1|The speed decreases.
+When light passes from a denser to a rarer medium it bends|towards the normal|not at all|away from the normal|backwards|2|The speed increases.
+The refractive index of a medium in which light travels at 2 × 10⁸ m/s is|0.67|3|2|1.5|3|n = 3 × 10⁸ / 2 × 10⁸.
+A medium with a higher refractive index is|optically denser|optically rarer|the same|a vacuum|0|Light travels more slowly in it.
+The lens formula is|1/v + 1/u = 1/f|1/v − 1/u = 1/f|v − u = f|uv = f|1|With the Cartesian sign convention.
+The magnification produced by a lens is|m = −v/u|m = u/v|m = v/u|m = uv|2|For lenses m = v/u.
+The power of a convex lens of focal length 50 cm is|+0.5 D|+50 D|−2 D|+2 D|3|P = 1/0.5.
+A concave mirror has f = 15 cm and an object is 30 cm away. The image is|30 cm in front of the mirror|15 cm in front|45 cm in front|60 cm behind|0|u = −30, f = −15 gives v = −30.
+For the same concave mirror (f = 15 cm, u = 30 cm), the magnification is|+1|−1|−2|+2|1|m = −v/u = −(−30)/(−30).
+A convex mirror has f = +20 cm and an object is 20 cm in front. The image is|10 cm in front|20 cm behind|10 cm behind the mirror|40 cm behind|2|1/v = 1/20 + 1/20.
+A convex lens of focal length 10 cm has an object 20 cm away. The image is|10 cm on the same side|40 cm on the other side|at infinity|20 cm on the other side of the lens|3|1/v = 1/10 − 1/20.
+When the object is at 2F of a convex lens, the magnification is|−1|+1|−2|0.5|0|v = 2f and u = −2f.
+The power of a concave lens of focal length −25 cm is|+4 D|−4 D|−0.25 D|−25 D|1|P = 1/(−0.25).
+Two thin lenses in contact have powers +2 D and +3 D. The net power is|+1 D|+6 D|+5 D|1.5 D|2|Powers add.
+Light enters glass (n = 1.5) from air at 30°. The value of sin r is|1/2|3/4|2/3|1/3|3|sin r = sin 30° / 1.5.
+The speed of light in glass of refractive index 1.5 is|2 × 10⁸ m/s|4.5 × 10⁸ m/s|3 × 10⁸ m/s|1.5 × 10⁸ m/s|0|v = c/n.
+A convex lens forms a real image when the object is|between F and the optical centre|beyond the focus|at the optical centre|never|1|The image is inverted.
+A convex lens is used as a magnifying glass with the object|beyond 2F|at 2F|between F and the optical centre|at infinity|2|The image is virtual, erect and enlarged.
+A concave lens always forms an image that is|real|inverted|enlarged|virtual, erect and diminished|3|On the same side as the object.
+A concave mirror with the object at C forms an image|at C, real, inverted and the same size|at F|at infinity|virtual|0|v = u = R.
+A ray passing through the optical centre of a lens|bends|goes through undeviated|is reflected|is absorbed|1|The lens is thin there.
