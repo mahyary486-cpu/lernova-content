@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The organ of vision is the|eye|ear|nose|skin|0|It forms images of objects.
+The transparent front part of the eye is the|retina|cornea|iris|pupil|1|Most refraction takes place here.
+Light enters the eye through the|iris|retina|pupil|optic nerve|2|The pupil is the opening in the iris.
+The part of the eye that controls the size of the pupil is the|cornea|retina|lens|iris|3|It is the coloured part.
+The image in the eye is formed on the|retina|cornea|lens|iris|0|It is a light-sensitive screen.
+The lens of the eye is|concave|convex|plane|cylindrical|1|It is a converging lens.
+Signals from the retina travel to the brain through the|spinal cord|vagus nerve|optic nerve|sciatic nerve|2|The brain interprets the image.
+The light-sensitive cells in the retina are|neurons|iris cells|lens cells|rods and cones|3|Rods see dim light; cones see colour.
+The ability of the eye to focus on near and far objects is called|accommodation|dispersion|reflection|scattering|0|The ciliary muscles change the lens curvature.
+The near point of a normal eye is about|10 cm|25 cm|50 cm|1 m|1|The least distance of distinct vision.
+The far point of a normal eye is|at 100 m|at 2 m|at infinity|at 1 km|2|It can see distant objects clearly.
+A person who cannot see distant objects clearly has|hypermetropia|presbyopia|cataract|myopia|3|Short-sightedness.
+A person who cannot see near objects clearly has|hypermetropia|myopia|cataract|colour blindness|0|Long-sightedness.
+Myopia is corrected using a|convex lens|concave lens|plane mirror|bifocal lens|1|It diverges the rays.
+Hypermetropia is corrected using a|concave lens|plane mirror|convex lens|cylindrical lens|2|It converges the rays.
+The splitting of white light into its colours is called|reflection|refraction only|diffraction|dispersion|3|A prism disperses light.
+Among the colours of the spectrum, the one that bends least is|red|violet|green|blue|0|It has the longest wavelength.
+The number of colours in the spectrum of white light is|5|7|6|8|1|VIBGYOR.
+The colour of the spectrum with the greatest wavelength is|violet|green|red|blue|2|It bends least.
+A prism disperses white light because|the colours reflect|it absorbs light|it is opaque|different colours bend by different angles|3|Their speeds in glass differ.
+A rainbow is formed by|dispersion of sunlight by water droplets|reflection only|scattering by dust|refraction in glass|0|Refraction, dispersion and internal reflection.
+A rainbow is seen when the Sun is|in front of the observer|behind the observer|directly overhead|hidden by clouds|1|Droplets must be in front.
+Presbyopia is|difficulty in seeing far objects|colour blindness|difficulty in seeing near objects with age|night blindness|2|The ciliary muscles weaken.
+A cataract is|damage to the retina|damage to the cornea only|closing of the pupil|clouding of the eye lens|3|It is treated by surgery.
+Myopia is caused by|an elongated eyeball or excessive curvature of the lens|a shortened eyeball|damage to the optic nerve|absence of the pupil|0|The image forms in front of the retina.
+The far point of a myopic eye is|at infinity|nearer than infinity|beyond infinity|at 25 cm|1|It cannot see distant objects.
+The near point of a hypermetropic eye is|nearer than 25 cm|at 25 cm|farther than 25 cm|at infinity|2|The image forms behind the retina.
+Bifocal lenses combine|two convex lenses|two concave lenses|plane and convex lenses|concave and convex lenses|3|They correct both far and near vision.
+The twinkling of stars is due to|atmospheric refraction|reflection|dispersion|diffraction|0|Air density varies.
+Stars twinkle because|they blink|the apparent position keeps changing as the atmosphere's refractive index varies|they rotate|they are near|1|Starlight bends as it passes through layers of air.
+Planets do not twinkle because they are|very far|cold|extended sources of light|non-reflecting|2|The variations average out.
+Because of atmospheric refraction the Sun appears to rise|1 hour earlier|10 minutes earlier|at the same time|about 2 minutes earlier|3|The Sun is seen before it crosses the horizon.
+The sky appears blue due to|scattering of blue light by air molecules|reflection|absorption of red light|dispersion in clouds|0|Short wavelengths scatter more.
+The sky appears dark to astronauts because|too much scattering|there is no atmosphere to scatter light|clouds|pollution|1|There are no air molecules.
+The Sun appears red at sunrise and sunset because|red light is scattered most|the Sun is cooler then|blue light is scattered away over the long path|it is reflected|2|Mostly red reaches the eye.
+The scattering of light by colloidal particles is the|reflection|refraction|diffraction|Tyndall effect|3|It makes light beams visible in mist.
+Danger signals are red because red light is|scattered the least|scattered the most|the brightest|absorbed completely|0|It can be seen from far away.
+A myopic eye has a far point at 50 cm. The corrective lens power is|+2 D|−2 D|−0.5 D|+0.5 D|1|f = −50 cm, P = 1/(−0.5).
+A hypermetropic eye has a near point at 100 cm. The corrective power for 25 cm reading is|−3 D|+1 D|+3 D|−1 D|2|1/f = 1/25 − 1/100.
+A myopic person needs a lens of focal length −2 m. Its power is|+0.5 D|−2 D|+2 D|−0.5 D|3|P = 1/f.
+The refractive index of glass is greater for|violet light|red light|equal for all colours|green light only|0|Violet bends the most.
+The speed of light in glass is least for|red light|violet light|green light|yellow light|1|Violet is slowed most.
+The emergent ray from a rectangular glass slab is|bent towards the base|along the same line|parallel to the incident ray but displaced|reflected back|2|Lateral displacement.
+In a glass prism light bends towards its|apex|normal only|edge|base|3|The base is the thicker part.
+Newton's second prism recombined the spectrum to give|white light|red light|blue light|no light|0|It showed that the prism does not add colours.
+In a primary rainbow the violet colour is on the|outer side|inner side|top|none|1|Red is on the outer side.
+Shorter wavelengths are scattered|less by fine particles|equally|more by fine particles|not at all|2|Rayleigh scattering.
+Clouds appear white because large particles scatter|only blue|only red|no light|all colours almost equally|3|Large water droplets scatter every wavelength.
+Cones in the retina are responsible for|colour vision|night vision|accommodation|focusing|0|Rods work in dim light.
+Accommodation is brought about by the|iris|ciliary muscles changing the lens curvature|retina|cornea|1|The focal length changes.

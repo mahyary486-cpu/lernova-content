@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The SI unit of electric current is|ampere|volt|ohm|watt|0|One coulomb per second.
+The SI unit of potential difference is|ampere|volt|ohm|joule|1|One joule per coulomb.
+The SI unit of resistance is|volt|ampere|ohm|coulomb|2|One volt per ampere.
+An instrument used to measure current is the|voltmeter|rheostat|thermometer|ammeter|3|It is connected in series.
+A voltmeter is connected in|parallel|series|either|no way|0|It measures potential difference across a component.
+An ammeter is connected in|parallel|series|either|no way|1|The current passes through it.
+Ohm's law is|V = I/R|V = R/I|V = IR|V = I + R|2|At constant temperature.
+The flow of electric charge is called|voltage|resistance|power|current|3|I = Q/t.
+The SI unit of electric charge is|coulomb|ampere|volt|ohm|0|1 C = 1 A × 1 s.
+The magnitude of the charge on an electron is|1.6 × 10⁻³¹ C|1.6 × 10⁻¹⁹ C|9.1 × 10⁻³¹ C|1 C|1|The elementary charge.
+Conventional current flows from|the negative to the positive terminal|nowhere|the positive to the negative terminal|randomly|2|Opposite to the electron flow.
+Electrons flow from|the positive to the negative terminal|nowhere|randomly|the negative to the positive terminal|3|Electrons carry negative charge.
+The resistance of a conductor depends on|its length, area, material and temperature|only its length|only its colour|only the voltage|0|R = ρL/A.
+The SI unit of resistivity is|ohm|ohm metre|ohm/metre|volt|1|ρ = RA/L.
+A good conductor of electricity is|rubber|glass|copper|plastic|2|It has free electrons.
+A rheostat is used to|measure current|measure voltage|store charge|change the resistance in a circuit|3|A variable resistor.
+A fuse wire|melts when too much current flows|only conducts|stores charge|measures current|0|It protects appliances.
+The charge flowing in 2 s at a current of 5 A is|2.5 C|10 C|7 C|3 C|1|Q = It.
+The current when 12 C of charge flows in 4 s is|8 A|48 A|3 A|0.33 A|2|I = Q/t.
+A 12 V battery is connected across a 4 Ω resistor. The current is|48 A|0.33 A|8 A|3 A|3|I = V/R.
+A current of 2 A flows through a 5 Ω resistor. The potential difference is|10 V|2.5 V|7 V|0.4 V|0|V = IR.
+The resistance of a conductor carrying 3 A with 6 V across it is|18 Ω|2 Ω|0.5 Ω|9 Ω|1|R = V/I.
+The resistance of a wire is given by|R = ρA/L|R = L/ρA|R = ρL/A|R = ρLA|2|ρ is the resistivity.
+If the length of a wire is doubled, its resistance|halves|stays the same|quadruples|doubles|3|R is proportional to L.
+If the cross-sectional area of a wire is doubled, its resistance|halves|doubles|stays the same|quadruples|0|R is inversely proportional to A.
+For resistors in series, the equivalent resistance is|1/R₁ + 1/R₂ + 1/R₃|R₁ + R₂ + R₃|R₁R₂R₃|R₁ − R₂|1|The resistances add.
+For resistors in parallel, 1/R equals|R₁ + R₂ + R₃|R₁R₂R₃|1/R₁ + 1/R₂ + 1/R₃|R₁ − R₂|2|The reciprocals add.
+In a series circuit the current through each resistor is|different|zero|doubled|the same|3|There is only one path.
+In a parallel circuit the potential difference across each resistor is|the same|different|zero|doubled|0|Each is connected across the same two points.
+Resistors of 2 Ω, 3 Ω and 5 Ω in series have an equivalent resistance of|30 Ω|10 Ω|1 Ω|0.97 Ω|1|2 + 3 + 5.
+Two 4 Ω resistors in parallel have an equivalent resistance of|8 Ω|4 Ω|2 Ω|1 Ω|2|1/R = 1/4 + 1/4.
+The heat produced in a resistor is|H = IRt|H = I²R/t|H = VRt|H = I²Rt|3|Joule's law of heating.
+The electric power is|P = VI|P = V/I|P = I/V|P = V + I|0|Power = voltage × current.
+The SI unit of power is|joule|watt|volt|ohm|1|1 W = 1 J/s.
+The commercial unit of electrical energy is the|joule|watt|kilowatt-hour|kilowatt|2|1 kWh is one 'unit'.
+1 kilowatt-hour equals|3.6 × 10³ J|1000 J|60 J|3.6 × 10⁶ J|3|1000 W × 3600 s.
+Resistors of 6 Ω and 3 Ω in parallel have an equivalent resistance of|2 Ω|9 Ω|4.5 Ω|18 Ω|0|6 × 3/(6 + 3).
+Resistors of 3 Ω and 6 Ω in series are connected across 9 V. The current is|2 A|1 A|3 A|0.5 A|1|I = 9/9.
+A 100 W bulb runs for 5 hours. The energy used is|5 kWh|20 kWh|0.5 kWh|500 kWh|2|0.1 kW × 5 h.
+The power of a device that draws 5 A at 220 V is|44 W|225 W|215 W|1100 W|3|P = VI.
+The resistance of a 60 W, 220 V bulb is about|807 Ω|3.7 Ω|13 200 Ω|0.27 Ω|0|R = V²/P.
+A 2 kW heater works for 2 hours. At ₹5 per unit the cost is|₹10|₹20|₹5|₹40|1|4 kWh × ₹5.
+A 10 Ω wire is stretched to twice its length. The new resistance is|20 Ω|10 Ω|40 Ω|5 Ω|2|The length doubles and the area halves.
+Nichrome is used in heating elements because it has|low resistivity|low cost only|brightness|high resistivity and a high melting point|3|It does not oxidise easily.
+The filament of a bulb is made of tungsten because it has|a high melting point|a low melting point|good insulation|low resistivity|0|It can glow without melting.
+Domestic appliances are connected in|series|parallel|mixed series|none of these|1|Each gets the full voltage.
+Two resistors of 2 Ω and 3 Ω in series carry 1 A. The potential difference across the 3 Ω resistor is|2 V|5 V|3 V|1 V|2|V = IR.
+A 6 Ω and a 3 Ω resistor in parallel across 6 V draw a total current of|1 A|2 A|9 A|3 A|3|1 A + 2 A.
+An electric fuse is connected in|series with the appliance|parallel with the appliance|either|across the load|0|It must carry the full current.
+Alloys used in heating elements have|lower resistivity|higher resistivity than pure metals|no resistivity|the same resistivity|1|This produces more heat.

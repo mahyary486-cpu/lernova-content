@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The interacting living and non-living components of an area form an|ecosystem|population|species|habitat|0|For example a pond.
+Green plants are|consumers|producers|decomposers|herbivores|1|They make food by photosynthesis.
+Herbivores are|secondary consumers|producers|primary consumers|decomposers|2|They eat plants.
+Organisms that break down dead matter are|producers|consumers|carnivores|decomposers|3|Bacteria and fungi.
+A series of organisms each eating the one before it is a|food chain|food web|pyramid|cycle|0|For example grass → deer → tiger.
+A network of interconnected food chains is a|food chain|food web|pyramid|ecosystem|1|Most animals have several food sources.
+Each step of a food chain is called a|niche|habitat|trophic level|biome|2|Producers are the first.
+The source of energy for almost all ecosystems is the|wind|water|soil|Sun|3|Plants capture solar energy.
+A man-made ecosystem is a|crop field|forest|ocean|grassland|0|Humans maintain it.
+A natural ecosystem is a|garden|forest|aquarium|crop field|1|It is not maintained by humans.
+A biodegradable waste is|plastic|glass|vegetable peels|DDT|2|Microbes break it down.
+A non-biodegradable waste is|paper|cow dung|food waste|plastic|3|It persists for years.
+The ozone layer protects us from|ultraviolet radiation|infrared radiation|visible light|sound|0|UV is harmful.
+The chemical formula of ozone is|O₂|O₃|O|O₄|1|A molecule of three oxygen atoms.
+The ozone layer is in the|troposphere|mesosphere|stratosphere|ground layer|2|About 20–30 km above the surface.
+Chemicals that deplete the ozone layer are|carbon dioxide|oxygen|nitrogen|chlorofluorocarbons (CFCs)|3|Used in refrigerators and aerosols.
+Decomposers include|bacteria and fungi|cow|grass|frog|0|They recycle nutrients.
+The percentage of energy passed to the next trophic level is about|90%|10%|50%|1%|1|The 10 per cent law.
+Energy in an ecosystem flows|in both directions|in cycles|in one direction only|not at all|2|From the Sun to producers to consumers.
+In the chain grass → grasshopper → frog → snake → eagle the top consumer is the|snake|frog|grass|eagle|3|It is not eaten by others.
+In the chain grass → grasshopper → frog → snake → eagle the primary consumer is the|grasshopper|frog|snake|eagle|0|It eats the producer.
+The tertiary consumer is at the|third trophic level|fourth trophic level|second trophic level|first trophic level|1|Producers are the first level.
+The number of trophic levels in a food chain is usually limited to|10|2|about 4 or 5|20|2|Energy runs out.
+If producers have 10 000 J of energy, the secondary consumers get about|1000 J|10 J|9000 J|100 J|3|10% of 10% of 10 000.
+Biomagnification is|the increasing concentration of harmful chemicals at higher trophic levels|the conversion of biofuel|dispersal of seeds|decay of organisms|0|For example DDT.
+Harmful chemicals accumulate most in|producers|top carnivores|herbivores|decomposers|1|They eat contaminated prey.
+The pyramid of energy is always|inverted|sometimes inverted|upright|flat|2|Energy decreases at each level.
+The agreement to reduce CFC production was made in|1950|2010|1920|1987 (Montreal Protocol)|3|UNEP led it.
+Ozone depletion increases the risk of|skin cancer and cataract|malaria|asthma only|rickets|0|More UV reaches the Earth.
+Ozone is formed when UV splits O₂ into oxygen atoms that|escape|combine with O₂|make water|make CO₂|1|O + O₂ → O₃.
+Biodegradable means|not broken down|only burnt|broken down by natural processes|a metal|2|Microorganisms act on them.
+Non-biodegradable wastes remain in the environment for|a few hours|a few days|no time|many years|3|Plastics, for example.
+A good way to manage plastic waste is to|recycle and reuse it|burn it in the open|throw it in water|bury it everywhere|0|This reduces pollution.
+The three R's stand for|read, write and run|reduce, reuse and recycle|rest, relax and repeat|remove, replace and ruin|1|They help to manage waste.
+Using cloth bags instead of plastic bags helps to|increase pollution|make waste harder to manage|reduce non-biodegradable waste|raise plastic use|2|Cloth bags can be reused.
+Compost is made from|plastic|glass|metal|biodegradable waste|3|It is a natural manure.
+The trophic level that has the most energy is the|producers|herbivores|carnivores|top carnivores|0|Energy decreases at each step.
+Food chains are short (3 to 4 steps) because|few species exist|energy is lost at each step|space is limited|it is too cold|1|Only 10% passes on.
+In the aquatic chain phytoplankton → zooplankton → small fish → large fish the producer is|zooplankton|small fish|phytoplankton|large fish|2|It photosynthesises.
+A pyramid of numbers in a tree ecosystem can be inverted because|there are many trees|there are few insects|energy increases|one large tree supports many insects|3|The number of insects is larger.
+DDT enters the human body mainly through|the food chain|the air only|touch only|none of these|0|It builds up in plants and animals.
+UV radiation is harmful because it|heats the air|damages DNA and can cause mutations|makes plants grow|provides vitamins|1|It can cause skin cancer.
+The ozone hole was first discovered over|the Arctic|India|Antarctica|Africa|2|It was seen in the 1980s.
+Plastics are harmful because they|enrich the soil|feed animals|dissolve in water|are non-biodegradable and block drains|3|They also harm animals.
+The pyramid of biomass in an aquatic ecosystem is often|inverted|upright|flat|absent|0|Phytoplankton have small biomass.
+Segregating waste into biodegradable and non-biodegradable helps in|producing more waste|easier disposal and recycling|increasing pollution|nothing|1|Each type is treated differently.
+E-waste is|food waste|paper waste|discarded electronic items|agricultural waste|2|It contains toxic materials.
+The energy lost at each trophic level is mainly as|light|sound|electricity|heat|3|Used up in respiration.
+The stability of an ecosystem depends on|the balance among producers, consumers and decomposers|only producers|only animals|only plants|0|All components are linked.
+Human activities that reduce the ozone layer include|planting trees|using refrigerants and aerosols containing CFCs|using solar energy|walking|1|CFCs release chlorine.

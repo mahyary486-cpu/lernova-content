@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The region around a magnet in which its force can be felt is the|magnetic field|electric field|gravitational field|nuclear field|0|It acts on other magnets.
+The SI unit of magnetic field strength is|henry|tesla|volt|ohm|1|Named after Nikola Tesla.
+Outside a magnet, field lines emerge from the|south pole|centre|north pole|none|2|They go from N to S.
+Outside a magnet, field lines enter the|north pole|centre|none|south pole|3|They are closed curves.
+Closer magnetic field lines mean|a stronger field|a weaker field|no field|a zero field|0|The field is stronger near poles.
+Oersted discovered that|a magnet produces current|an electric current produces a magnetic field|gravity attracts|atoms are radioactive|1|A compass needle deflects near a wire.
+A compass needle is a|piece of iron|battery|small magnet|coil|2|It aligns with the Earth's field.
+Magnetic field lines are|straight lines|non-existent|spirals only|closed curves|3|They have no beginning or end.
+Two magnetic field lines|never intersect each other|always intersect|are parallel only|start at the centre|0|A field has one direction at a point.
+A coil of many circular turns of insulated copper wire is a|rheostat|solenoid|galvanometer|motor|1|It behaves like a bar magnet.
+The core of an electromagnet is made of|steel|copper|soft iron|aluminium|2|It magnetises and demagnetises easily.
+An electric motor converts|mechanical into electrical|heat into light|light into heat|electrical energy into mechanical energy|3|A current-carrying coil rotates.
+An electric generator converts|mechanical energy into electrical energy|electrical into mechanical|light into heat|heat into sound|0|It works by induction.
+Producing current by a changing magnetic field is|electrolysis|electromagnetic induction|diffraction|refraction|1|Discovered by Faraday.
+Electromagnetic induction was discovered by|Oersted|Newton|Michael Faraday|Ohm|2|In 1831.
+Alternating current|never changes direction|flows once|is random|reverses its direction periodically|3|It has frequency.
+The frequency of AC supply in India is|50 Hz|60 Hz|100 Hz|25 Hz|0|The direction changes 100 times per second.
+The direction of the magnetic field around a straight current-carrying wire is given by the|Fleming's left-hand rule|right-hand thumb rule|Ohm's law|Snell's law|1|Thumb along the current.
+The field lines around a straight current-carrying wire are|straight lines|parabolas|concentric circles|radial lines|2|They lie in planes perpendicular to the wire.
+The magnetic field inside a solenoid is|zero|weak|random|uniform and strong|3|The lines are parallel straight lines.
+The magnetic field outside a solenoid resembles that of a|bar magnet|straight wire|single circle|coin|0|One end acts as N, the other as S.
+The magnetic field of a solenoid increases with|only its length|number of turns and current|only its colour|none of these|1|More turns and current give a stronger field.
+The direction of the force on a current-carrying conductor in a magnetic field is given by|the right-hand thumb rule|Ohm's law|Fleming's left-hand rule|Snell's law|2|Force, field and current are perpendicular.
+In Fleming's left-hand rule the thumb shows the direction of|the current|the field|the voltage|the force (motion)|3|Thumb for thrust.
+In Fleming's left-hand rule the forefinger shows the direction of|the magnetic field|the force|the current|the motion|0|Forefinger for field.
+In Fleming's left-hand rule the middle finger shows the direction of|the field|the current|the force|the motion|1|Middle finger for current.
+The force on a current-carrying conductor is greatest when the current is|parallel to the field|zero|perpendicular to the field|at 45° only|2|F = BIL sin θ.
+The force on a conductor is zero when the current is|perpendicular to the field|at 45°|in any direction|parallel to the field|3|sin 0° = 0.
+The split ring in an electric motor is called the|commutator|brush|armature|coil|0|It is a pair of half rings.
+The commutator of a motor|stores charge|reverses the direction of current in the coil|measures current|cools the coil|1|So the coil keeps rotating.
+Fleming's right-hand rule gives the direction of|the force|the field|the induced current|the power|2|Used in generators.
+The working of an electric generator is based on|Oersted's experiment|Ohm's law|Joule's law|electromagnetic induction|3|A rotating coil in a magnetic field.
+An AC generator has|slip rings|split rings|no rings|a commutator|0|They keep the output alternating.
+AC of 50 Hz changes direction|50 times per second|100 times per second|25 times per second|200 times per second|1|Twice in each cycle.
+In household wiring the insulation of the earth wire is generally|red|black|green|blue|2|Red is live, black is neutral.
+The earth wire protects users from|overheating of bulbs|noise|low voltage|electric shock|3|It provides a path for leakage current.
+A fuse rated 5 A will|melt if the current exceeds 5 A|always carry 5 A|supply 5 V|have 5 Ω resistance|0|It protects the circuit.
+A short circuit occurs when|the earth wire is disconnected|the live and neutral wires touch|a bulb fuses|the voltage is low|1|The current becomes very large.
+Overloading is caused by|low resistance of the earth wire|a fuse|too many appliances connected to one socket|earth connection|2|The current exceeds the safe limit.
+The potential difference of domestic supply in India is|110 V|12 V|1000 V|220 V|3|At 50 Hz.
+A source of direct current is a|battery|power station|AC generator|wall socket|0|DC flows in one direction.
+An advantage of AC over DC is that it|can be stored easily|can be transmitted over long distances with less loss|is cheaper to store|is safer|1|Voltage can be stepped up.
+A current-carrying coil in a magnetic field experiences|no force|only heating|a torque|only light|2|This is the working principle of a motor.
+A galvanometer is used to|measure power|measure resistance|measure voltage only|detect small currents|3|It shows direction and size.
+The direction of the force on a current-carrying conductor reverses if|the current direction is reversed|the resistance increases|the wire is longer|the wire is painted|0|Force depends on current direction.
+If a magnet is moved faster into a coil, the induced current is|smaller|larger|zero|unchanged|1|Faster change gives a larger emf.
+The density of field lines is greater near the|centre of the magnet|distant space|poles|equator only|2|The field is strongest there.
+At the centre of a circular current-carrying loop the magnetic field is|in the plane of the loop|zero|radial|perpendicular to the plane of the loop|3|Right-hand rule.
+Increasing the number of turns of the coil in a generator|increases the induced voltage|decreases it|makes it zero|has no effect|0|emf is proportional to turns.
+In domestic circuits the earth wire is connected to the|live wire|metallic body of the appliance|neutral wire|switch|1|It prevents the body from becoming live.
