@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The functional unit of the nervous system is the|neuron|nephron|alveolus|villus|0|A neuron is a nerve cell.
+The part of a neuron that receives signals is the|axon|dendrite|myelin|nucleus|1|Dendrites carry impulses to the cell body.
+The part of a neuron that carries impulses away from the cell body is the|dendrite|nucleus|axon|synapse|2|It ends at the synapse.
+The junction between two neurons is the|axon|dendrite|nucleus|synapse|3|Chemical signals cross the gap.
+A quick, automatic response to a stimulus is a|reflex action|voluntary action|tropism|growth|0|For example pulling away from a hot object.
+The pathway of a reflex action is the|nerve net|reflex arc|synapse|brain loop|1|It usually does not involve the brain.
+The control centre of the body is the|heart|liver|brain|kidney|2|It coordinates all activities.
+The brain is protected by|the ribs|the muscles|the skin|the skull and cerebrospinal fluid|3|The fluid acts as a shock absorber.
+The spinal cord is protected by|the vertebral column|the skull|the ribs|the skin|0|Backbone.
+The movement of a plant part towards light is|geotropism|phototropism|hydrotropism|chemotropism|1|Shoots show positive phototropism.
+The downward growth of roots is|phototropism|hydrotropism|geotropism|thigmotropism|2|Roots grow towards gravity.
+The plant hormone that promotes cell elongation is|cytokinin|abscisic acid|ethylene|auxin|3|It is made at the shoot tip.
+The plant hormone that promotes cell division is|cytokinin|auxin|abscisic acid|ethylene|0|It is abundant in fruits and seeds.
+The plant hormone that inhibits growth is|auxin|abscisic acid|gibberellin|cytokinin|1|It causes wilting.
+The master gland of the body is the|thyroid|adrenal|pituitary|pancreas|2|It controls other glands.
+The hormone that regulates blood sugar is|thyroxine|adrenaline|growth hormone|insulin|3|It is made in the pancreas.
+Adrenaline is released by the|adrenal gland|thyroid|pituitary|pancreas|0|It prepares the body for emergencies.
+The correct sequence in a reflex arc is|receptor → motor neuron → brain → sensory neuron → effector|receptor → sensory neuron → spinal cord → motor neuron → effector|effector → sensory neuron → receptor → spinal cord|receptor → effector → spinal cord → sensory neuron|1|The signal passes through the spinal cord.
+Balance and posture are controlled by the|cerebrum|medulla|cerebellum|hypothalamus|2|Part of the hindbrain.
+Thinking and memory are controlled by the|cerebellum|medulla|pons|cerebrum|3|The largest part of the forebrain.
+Heartbeat and breathing are controlled by the|medulla|cerebrum|cerebellum|pituitary|0|The medulla controls involuntary actions.
+Blood pressure and salivation are regulated by the|cerebrum|medulla|cerebellum|pituitary|1|Another involuntary function.
+Thyroxine regulates|blood sugar|only bone growth|the metabolism of carbohydrates, proteins and fats|reproduction|2|It needs iodine.
+Iodine deficiency causes|diabetes|dwarfism|gigantism|goitre|3|Iodised salt prevents it.
+Insulin deficiency causes|diabetes|goitre|dwarfism|gigantism|0|Blood sugar rises.
+A deficiency of growth hormone in childhood causes|goitre|dwarfism|diabetes|gigantism|1|Secreted by the pituitary.
+The 'fight or flight' hormone is|insulin|thyroxine|adrenaline|auxin|2|It raises heart rate and blood sugar.
+Insulin is produced by the|liver|thyroid|adrenal gland|pancreas|3|By the beta cells.
+Testosterone is secreted by the|testes|ovaries|pancreas|thyroid|0|It controls male features.
+Oestrogen is secreted by the|testes|ovaries|pancreas|adrenal gland|1|It controls female features.
+Folding of leaves on touch is shown by|banyan|neem|the touch-me-not plant (Mimosa pudica)|mango|2|Changes in water pressure in cells.
+A tendril coiling around a support shows|phototropism|geotropism|hydrotropism|thigmotropism|3|Response to touch.
+Auxin helps the cells of a shoot to|elongate|divide only|die|stop growing|0|It makes the shaded side grow longer.
+Hormones in animals are carried by|nerves|blood|air|bones|1|They act on target organs.
+A chemical messenger secreted by a gland is a|neuron|vitamin|hormone|fibre|2|It controls growth and metabolism.
+The receptors in the ear detect|light|smell|taste|sound and balance|3|Hearing and equilibrium.
+A signal passes across a synapse by|chemicals|electric wires|air|light|0|Neurotransmitters carry it.
+Phototropism occurs because auxin moves to the|lit side|shaded side of the shoot|root only|leaf only|1|It makes that side elongate more.
+When blood sugar rises, the pancreas secretes|adrenaline|thyroxine|insulin|growth hormone|2|This is a feedback mechanism.
+In an emergency adrenaline increases the|digestion|sleep|appetite|heart rate|3|It prepares for action.
+A reflex action is useful because it|gives a quick response to danger|needs conscious thought|stores memory|controls speech|0|It saves time.
+Voluntary actions are controlled by the|spinal cord|forebrain|medulla|cerebellum|1|The cerebrum.
+An example of a reflex action is|writing|walking|pulling the hand away from a hot object|reading|2|It is involuntary and quick.
+The plant hormone that helps fruits to ripen is|auxin|cytokinin|gibberellin|ethylene|3|It is a gas.
+Gibberellin helps in|stem growth|fruit ripening|leaf fall|seed dormancy|0|It makes stems longer.
+Abscisic acid causes|stem growth|wilting and leaf fall|cell division|flowering|1|It inhibits growth.
+Chemical coordination in plants occurs without|cells|water|nerves|light|2|Plants use hormones.
+The pituitary gland is controlled by the|thyroid|pancreas|adrenal gland|hypothalamus|3|A part of the brain.
+The spinal cord carries impulses between the brain and the body and controls|reflex actions|vision|hearing|digestion|0|The reflex arc passes through it.
+Cerebrospinal fluid protects the brain by|supplying oxygen only|acting as a shock absorber|digesting wastes|making hormones|1|It cushions the brain.

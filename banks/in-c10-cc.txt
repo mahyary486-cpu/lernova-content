@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The atomic number of carbon is|6|4|12|8|0|Carbon has 6 protons.
+The valency of carbon is|2|4|6|8|1|It has 4 valence electrons.
+Carbon forms its bonds mainly by|transferring electrons|losing electrons|sharing electrons|gaining protons|2|It is difficult to gain or lose four electrons.
+A bond formed by the sharing of electrons is|an ionic bond|a metallic bond|a hydrogen bond|a covalent bond|3|Carbon compounds are mostly covalent.
+The ability of carbon to form long chains is called|catenation|isomerism|polymerisation|oxidation|0|It leads to a huge number of compounds.
+The simplest hydrocarbon is|ethane|methane|ethene|ethyne|1|Its formula is CH₄.
+The molecular formula of methane is|C₂H₆|C₂H₄|CH₄|C₂H₂|2|One carbon and four hydrogens.
+The molecular formula of ethane is|CH₄|C₂H₄|C₃H₈|C₂H₆|3|Two carbon atoms and six hydrogens.
+The molecular formula of ethene is|C₂H₄|C₂H₆|C₂H₂|CH₄|0|It has a C=C double bond.
+The molecular formula of ethyne is|C₂H₄|C₂H₂|C₂H₆|CH₄|1|It has a C≡C triple bond.
+The functional group of alcohols is|–COOH|–CHO|–OH|–Cl|2|Hydroxyl group.
+The functional group of carboxylic acids is|–OH|–CHO|–Cl|–COOH|3|Carboxyl group.
+Hydrocarbons with only single bonds are|saturated|unsaturated|aromatic|ionic|0|Alkanes.
+Hydrocarbons with double or triple bonds are|saturated|unsaturated|ionic|inert|1|Alkenes and alkynes.
+The formula of ethanol is|CH₃OH|CH₃COOH|C₂H₅OH|C₂H₆|2|It is commonly called alcohol.
+The formula of ethanoic acid is|C₂H₅OH|HCOOH|CH₄|CH₃COOH|3|It is also called acetic acid.
+Vinegar is a dilute solution of|ethanoic acid|ethanol|methanoic acid|methane|0|5–8 % ethanoic acid in water.
+The number of covalent bonds in a molecule of methane is|2|4|1|8|1|One C–H bond for each hydrogen.
+The number of electrons shared in a double bond is|2|6|4|1|2|Two pairs.
+A triple bond shares|4 electrons|2 electrons|8 electrons|6 electrons|3|Three pairs.
+Diamond and graphite are|allotropes of carbon|isotopes of carbon|isomers|compounds|0|Different structures of the same element.
+The general formula of alkanes is|CₙH₂ₙ|CₙH₂ₙ₊₂|CₙH₂ₙ₋₂|CₙHₙ|1|For n = 1 it gives CH₄.
+The general formula of alkenes is|CₙH₂ₙ₊₂|CₙH₂ₙ₋₂|CₙH₂ₙ|CₙHₙ|2|For n = 2 it gives C₂H₄.
+The general formula of alkynes is|CₙH₂ₙ|CₙH₂ₙ₊₂|CₙHₙ|CₙH₂ₙ₋₂|3|For n = 2 it gives C₂H₂.
+Successive members of a homologous series differ by|CH₂|CH₃|C₂H₄|H|0|The mass difference is 14 u.
+The molecular formula of propane is|C₃H₆|C₃H₈|C₃H₄|C₂H₆|1|CₙH₂ₙ₊₂ with n = 3.
+The molecular formula of butane is|C₄H₈|C₄H₆|C₄H₁₀|C₃H₈|2|CₙH₂ₙ₊₂ with n = 4.
+The compound CH₃CH₂CH₂OH is called|propanal|propanone|propane|propanol|3|Three carbons and an –OH group.
+Compounds with the same molecular formula but different structures are|isomers|isotopes|allotropes|polymers|0|Butane has two isomers.
+The number of structural isomers of butane is|1|2|3|4|1|Straight-chain butane and isobutane.
+Complete combustion of a hydrocarbon gives|carbon monoxide and hydrogen|only carbon dioxide|carbon dioxide, water and heat|carbon and hydrogen|2|For example CH₄ + 2O₂ → CO₂ + 2H₂O.
+Saturated hydrocarbons usually burn with a|sooty yellow flame|green flame|no flame|clean blue flame|3|Combustion is nearly complete.
+Unsaturated hydrocarbons burn with a|sooty yellow flame|clean blue flame|purple flame|no flame|0|They have a higher carbon content.
+Addition reactions are typical of|saturated hydrocarbons|unsaturated hydrocarbons|salts|metals|1|The multiple bond opens up.
+Vegetable oil is hydrogenated using a catalyst of|iron|zinc|nickel|silver|2|It turns unsaturated oils into saturated fats.
+Substitution reactions are typical of|alkenes|alkynes|metals|saturated hydrocarbons|3|One hydrogen is replaced by another atom.
+Ethanol reacts with sodium to give|sodium ethoxide and hydrogen|sodium hydroxide and ethane|sodium ethanoate|sodium ethoxide and oxygen|0|2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂.
+Heating ethanol with concentrated H₂SO₄ at 443 K gives|ethane|ethene|ethyne|methane|1|The acid acts as a dehydrating agent.
+Ethanoic acid reacts with ethanol in the presence of an acid catalyst to give|an aldehyde|an alkane|an ester|an ether|2|Ethyl ethanoate.
+Esterification is the reaction of|two alcohols|an acid with a base|an alkene with hydrogen|an alcohol with a carboxylic acid|3|Esters smell sweet.
+Saponification gives|soap and glycerol|an ester and water|an alcohol and acid|only detergent|0|Alkaline hydrolysis of an ester (fat).
+A soap molecule has|a hydrophobic head and a hydrophilic tail|a hydrophilic head and a hydrophobic tail|no tail|two heads|1|The tail dissolves in oil.
+In a micelle the hydrophobic tails point|outwards into water|upwards|inwards, towards the oil|nowhere|2|The ionic heads face the water.
+Soap in hard water forms|a clear solution|more foam|a gas|scum|3|Calcium and magnesium salts of fatty acids are insoluble.
+Detergents work well in hard water because they|do not form scum|are acids|are oils|have no tail|0|Their calcium salts are soluble.
+Ethanol is oxidised to ethanoic acid by|dilute HCl|alkaline potassium permanganate|water|common salt|1|It is a strong oxidising agent.
+Ethanoic acid reacts with sodium hydrogencarbonate to give|only hydrogen|ethanol|carbon dioxide, water and sodium ethanoate|an ester|2|Effervescence is seen.
+Pure ethanoic acid freezes at about 290 K and is called|vinegar|ethanol|an ester|glacial acetic acid|3|It freezes in winter in cold places.
+The electron dot structure of ethene has|a double bond between the carbon atoms|a triple bond between the carbon atoms|only single bonds|ionic bonds|0|Each carbon shares two pairs.
+Carbon cannot easily form ionic compounds because|it is a metal|it is difficult to gain or lose four electrons|it has two valence electrons|it is a gas|1|It shares electrons instead.
