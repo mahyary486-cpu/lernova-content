@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+π radians equals|180°|90°|360°|45°|0|Half a turn.
+One radian is approximately|180°|57.3°|90°|1°|1|180/π.
+90° in radians is|π|π/4|π/2|2π|2|90 × π/180.
+60° in radians is|π/6|π/2|2π/3|π/3|3|60 × π/180.
+45° in radians is|π/4|π/2|π/3|π/6|0|45 × π/180.
+π/6 radians in degrees is|60°|30°|45°|90°|1|π/6 × 180/π.
+sin²x + cos²x =|0|2|1|sin 2x|2|The fundamental identity.
+tan x =|cos x / sin x|1 / sin x|1 / cos x|sin x / cos x|3|Defined where cos x ≠ 0.
+sec x =|1 / cos x|1 / sin x|1 / tan x|cos x|0|The reciprocal of cosine.
+The period of sin x is|π|2π|π/2|4π|1|It repeats every 2π.
+The period of tan x is|2π|π/2|π|4π|2|It repeats every π.
+The range of sin x is|R|[0, 1]|(−1, 1)|[−1, 1]|3|Bounded between −1 and 1.
+sin 30° =|1/2|√3/2|1|0|0|Standard value.
+cos 60° =|√3/2|1/2|0|1|1|Standard value.
+tan 45° =|0|√3|1|1/√3|2|Standard value.
+In the first quadrant all trigonometric ratios are|negative|only sin positive|only cos positive|positive|3|All positive.
+cos(−x) =|cos x|−cos x|sin x|−sin x|0|Cosine is an even function.
+The length of an arc is l =|r/θ|rθ (θ in radians)|θ/r|r²θ|1|Arc length.
+The arc length for r = 5 and θ = 2 radians is|7|2.5|10|25|2|5 × 2.
+120° in radians is|π/3|3π/2|π/6|2π/3|3|120 × π/180.
+5π/6 radians in degrees is|150°|120°|135°|210°|0|5 × 30°.
+sin(π/2 − x) =|sin x|cos x|−cos x|−sin x|1|Complementary angle.
+sin(π − x) =|−sin x|cos x|sin x|−cos x|2|Second quadrant: sine is positive.
+cos(π + x) =|cos x|sin x|−sin x|−cos x|3|Third quadrant: cosine is negative.
+tan(π + x) =|tan x|−tan x|cot x|−cot x|0|Period π.
+sin(x + y) =|sin x cos y − cos x sin y|sin x cos y + cos x sin y|cos x cos y − sin x sin y|sin x sin y + cos x cos y|1|Addition formula.
+cos(x + y) =|cos x cos y + sin x sin y|sin x cos y + cos x sin y|cos x cos y − sin x sin y|sin x cos y − cos x sin y|2|Addition formula.
+cos(x − y) =|cos x cos y − sin x sin y|sin x cos y|sin x sin y|cos x cos y + sin x sin y|3|Subtraction formula.
+sin 2x =|2 sin x cos x|sin²x − cos²x|2 sin x|2 cos x|0|Double angle.
+cos 2x =|2 cos x|cos²x − sin²x|2 sin x cos x|sin²x − cos²x|1|Double angle.
+cos 2x also equals|1 + 2 sin²x|2 sin²x − 1|1 − 2 sin²x|2 − cos²x|2|Using sin² + cos² = 1.
+tan 2x =|2 tan x / (1 + tan²x)|tan x / (1 − tan²x)|2 tan x|2 tan x / (1 − tan²x)|3|Double angle.
+sin 75° =|(√6 + √2)/4|(√6 − √2)/4|√3/2|1/2|0|sin(45° + 30°).
+cos 15° =|(√6 − √2)/4|(√6 + √2)/4|1/2|√3/2|1|cos(45° − 30°).
+The general solution of sin x = 0 is|x = 2nπ|x = (2n + 1)π/2|x = nπ|x = nπ/2|2|n is an integer.
+The general solution of cos x = 0 is|x = nπ|x = 2nπ|x = nπ/2|x = (2n + 1)π/2|3|n is an integer.
+tan 75° =|2 + √3|2 − √3|√3 − 1|√3 + 1|0|tan(45° + 30°).
+sin 15° =|(√6 + √2)/4|(√6 − √2)/4|1/4|√3/4|1|sin(45° − 30°).
+If sin x = 3/5 with x in the first quadrant, then cos 2x =|−7/25|24/25|7/25|16/25|2|1 − 2 × 9/25.
+If tan x = 3/4 with x acute, then sin 2x =|7/25|12/25|3/5|24/25|3|2 × (3/5)(4/5).
+sin 3x =|3 sin x − 4 sin³x|4 sin³x − 3 sin x|3 sin x − sin³x|sin x|0|Triple angle.
+cos 3x =|3 cos x − 4 cos³x|4 cos³x − 3 cos x|3 cos x − cos³x|cos x|1|Triple angle.
+sin x + sin y =|2 cos((x + y)/2) sin((x − y)/2)|2 sin((x − y)/2) cos((x + y)/2)|2 sin((x + y)/2) cos((x − y)/2)|sin(x + y)|2|Sum to product.
+cos x + cos y =|2 sin((x + y)/2) sin((x − y)/2)|2 cos((x + y)/2) sin((x − y)/2)|cos(x + y)|2 cos((x + y)/2) cos((x − y)/2)|3|Sum to product.
+The general solution of sin x = sin y is|x = nπ + (−1)ⁿ y|x = 2nπ ± y|x = nπ ± y|x = nπ + y|0|n is an integer.
+The general solution of cos x = cos y is|x = nπ + (−1)ⁿ y|x = 2nπ ± y|x = nπ + y|x = nπ ± y|1|n is an integer.
+The general solution of tan x = tan y is|x = 2nπ ± y|x = nπ + (−1)ⁿ y|x = nπ + y|x = nπ − y|2|n is an integer.
+The solutions of sin x = 1/2 in [0, 2π] are|π/3 and 2π/3|π/4 and 3π/4|π/6 and 7π/6|π/6 and 5π/6|3|Sine is positive in quadrants I and II.
+The solutions of cos x = 1/2 in [0, 2π] are|π/3 and 5π/3|π/6 and 11π/6|2π/3 and 4π/3|π/3 and 2π/3|0|Cosine is positive in quadrants I and IV.
+The solutions of tan x = 1 in [0, 2π] are|π/4 and 3π/4|π/4 and 5π/4|π/4 and 7π/4|3π/4 and 7π/4|1|Tangent is positive in quadrants I and III.

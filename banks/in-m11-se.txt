@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A well-defined collection of objects is called a|set|sequence|series|function|0|Objects are its elements.
+A set with no elements is the|singleton set|empty set|universal set|finite set only|1|It is denoted by ∅.
+The symbol for the empty set is|U|N|∅|Z|2|Also written { }.
+The set of natural numbers is denoted by|Z|Q|R|N|3|N = {1, 2, 3, …}.
+The set of integers is denoted by|Z|N|Q|R|0|Z = {…, −1, 0, 1, …}.
+The set of rational numbers is denoted by|N|Q|Z|R|1|Numbers of the form p/q.
+A set with exactly one element is a|empty set|universal set|singleton set|infinite set|2|For example {5}.
+The number of elements in {1, 2, 3} is|2|4|1|3|3|Its cardinality is 3.
+A ⊂ B means|A is a subset of B|A is an element of B|A equals B|A union B|0|Every element of A is in B.
+x ∈ A means|x is a subset of A|x is an element of A|x is not in A|x is empty|1|∈ means 'belongs to'.
+The union of A and B is written|A ∩ B|A − B|A ∪ B|A′|2|It has all elements of A or B.
+The intersection of A and B is written|A ∪ B|A − B|A′|A ∩ B|3|It has the common elements.
+The complement of A is denoted by|A′|A ∩ B|A ∪ B|∅|0|Elements of U not in A.
+The union of {1, 2} and {2, 3} is|{2}|{1, 2, 3}|{1, 3}|{1, 2}|1|A repeated element is written once.
+The intersection of {1, 2} and {2, 3} is|{1, 2, 3}|{1, 3}|{2}|∅|2|Only 2 is common.
+Two sets with no common element are called|equal|equivalent|universal|disjoint|3|Their intersection is ∅.
+The set of vowels in the English alphabet has|5 elements|4 elements|6 elements|21 elements|0|a, e, i, o, u.
+A set with n elements has how many subsets?|n²|2ⁿ|2n|n!|1|Each element is in or out.
+The number of subsets of {a, b, c} is|6|3|8|9|2|2³.
+The number of proper subsets of a set with 3 elements is|8|6|3|7|3|2³ − 1.
+The power set of {1, 2} has|4 elements|2 elements|3 elements|8 elements|0|∅, {1}, {2}, {1, 2}.
+The power set of the empty set is|∅|{∅}|{0}|U|1|It has one element, ∅.
+n(A ∪ B) =|n(A) + n(B)|n(A) − n(B)|n(A) + n(B) − n(A ∩ B)|n(A) n(B)|2|The intersection is counted twice.
+If n(A) = 20, n(B) = 15 and n(A ∩ B) = 5, then n(A ∪ B) =|35|40|25|30|3|20 + 15 − 5.
+A − B is the set of|elements in A but not in B|elements in B but not in A|elements in both|elements in either|0|Difference of sets.
+If A = {1, 2, 3} and B = {3, 4}, then A − B =|{4}|{1, 2}|{3}|{1, 2, 3, 4}|1|Remove 3 from A.
+By De Morgan's law, (A ∪ B)′ =|A′ ∪ B′|A ∩ B|A′ ∩ B′|A ∪ B′|2|Complement of a union.
+By De Morgan's law, (A ∩ B)′ =|A′ ∩ B′|A ∪ B|A − B|A′ ∪ B′|3|Complement of an intersection.
+A ∪ A′ =|U|∅|A|A′|0|Together they make the universal set.
+A ∩ A′ =|U|∅|A|A′|1|They have no common elements.
+(A′)′ =|A′|U|A|∅|2|Complement of the complement.
+The interval (a, b) is|closed|half-open|infinite|open|3|The endpoints are not included.
+The interval [a, b] contains|both endpoints|neither endpoint|only a|only b|0|It is closed.
+{x : x is an integer, 1 < x < 5} =|{1, 2, 3, 4, 5}|{2, 3, 4}|{1, 5}|{2, 3, 4, 5}|1|Endpoints excluded.
+If A ⊂ B and B ⊂ A, then|A ∩ B = ∅|A ∪ B = U|A = B|A′ = B|2|The two sets have the same elements.
+The set Z − N (with N = {1, 2, 3, …}) is|negative integers only|positive integers|rational numbers|{…, −2, −1, 0}|3|Zero and the negative integers.
+In a group of 50 people, 30 like tea, 25 like coffee and 10 like both. The number who like neither is|5|10|15|0|0|30 + 25 − 10 = 45.
+In a class of 35, 24 play cricket, 20 play football and 12 play both. The number playing neither is|5|3|1|0|1|24 + 20 − 12 = 32.
+If n(A) = 3, n(B) = 4 and A ∩ B = ∅, then n(A ∪ B) =|12|1|7|3|2|3 + 4.
+The number of elements in the power set of the power set of {1} is|2|8|16|4|3|P({1}) has 2 elements, so its power set has 4.
+If A ⊂ B, then A ∪ B =|B|A|∅|U|0|B already contains A.
+If A ⊂ B, then A ∩ B =|B|A|∅|U|1|All of A lies in B.
+If A = {x : x² − 5x + 6 = 0}, then A =|{−2, −3}|{1, 6}|{2, 3}|{5, 6}|2|(x − 2)(x − 3) = 0.
+If A = {1, 2, 3, 4} and B = {2, 4, 6, 8}, then A ∩ B =|{2, 4, 6, 8}|{1, 3}|{6, 8}|{2, 4}|3|Common elements.
+The set {x : x ∈ R, x² < 0} is|the empty set|a singleton set|an infinite set|{0}|0|No real square is negative.
+Which pair of sets is equal?|{1, 2} and {1, 2, 3}|{1, 2, 3} and {3, 2, 1}|{1} and {{1}}|∅ and {0}|1|Order does not matter.
+If A = {1, 2, 3} and B = {2, 3, 4}, then (A − B) ∪ (B − A) =|{2, 3}|{1, 2, 3, 4}|{1, 4}|{1, 2}|2|The symmetric difference.
+For three sets, n(A ∪ B ∪ C) = n(A) + n(B) + n(C) − n(A∩B) − n(B∩C) − n(A∩C) +|n(A ∪ B ∪ C)|0|−n(A ∩ B ∩ C)|n(A ∩ B ∩ C)|3|The triple intersection was removed too often.
+In a survey of 100, 60 like Maths, 50 like Science and 20 like both. The number who like only Maths is|40|60|30|20|0|60 − 20.
+Which of these is a null set?|{0}|{x : x² + 1 = 0, x ∈ R}|{∅}|{x : x ≥ 0}|1|No real number satisfies it.

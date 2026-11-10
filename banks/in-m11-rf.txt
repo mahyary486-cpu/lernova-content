@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Two ordered pairs (a, b) and (c, d) are equal if|a = c and b = d|a = d and b = c|a + b = c + d|a = b|0|Order matters.
+A × B is the set of all|unordered pairs|ordered pairs (a, b) with a ∈ A and b ∈ B|elements of A only|subsets of A|1|The Cartesian product.
+If n(A) = 3 and n(B) = 2, then n(A × B) =|5|9|6|8|2|3 × 2.
+A × B = B × A when|always|never|A ∩ B = ∅|A = B|3|Otherwise the ordered pairs differ.
+A relation from A to B is a|subset of A × B|subset of A|subset of B|function only|0|Pairs chosen from A × B.
+The domain of a relation is the set of|second elements|first elements of the ordered pairs|all elements|none of these|1|The 'inputs'.
+The range of a relation is the set of|first elements|all elements|second elements of the ordered pairs|none of these|2|The 'outputs'.
+In a relation from A to B, the codomain is|the domain|the range|A × B|the set B|3|The range lies inside it.
+A function from A to B assigns to each element of A|exactly one element of B|many elements of B|no element of B|two elements of B|0|No ambiguity.
+If f(x) = x + 1, then f(2) =|2|3|1|4|1|2 + 1.
+For a constant function f(x) = c, the range is|R|N|{c}|Z|2|Every input gives c.
+The domain of the identity function f(x) = x is|{0}|N|Z|R|3|It is defined for every real number.
+The modulus function ∣x∣ equals|x if x ≥ 0 and −x if x < 0|x always|−x always|x²|0|Absolute value.
+∣−5∣ =|−5|5|0|25|1|Distance from 0.
+The greatest integer function [x] at x = 2.7 equals|3|2.7|2|1|2|The greatest integer not exceeding x.
+The signum function at 0 is|1|−1|undefined|0|3|sgn(0) = 0.
+The range of ∣x∣ is|[0, ∞)|R|(−∞, 0]|(0, ∞)|0|Absolute values are non-negative.
+If A = {1, 2} and B = {a, b, c}, then n(A × B) =|5|6|8|9|1|2 × 3.
+If A = {1, 2} and B = {3}, then A × B =|{(3, 1), (3, 2)}|{(1, 2), (3, 3)}|{(1, 3), (2, 3)}|{(1, 3)}|2|First coordinates from A.
+If n(A) = n(B) = 2, the number of relations from A to B is|4|8|2|16|3|Subsets of a 4-element set: 2⁴.
+The domain of f(x) = 1/x is|R − {0}|R|R − {1}|(0, ∞)|0|x cannot be 0.
+The domain of f(x) = √x is|R|[0, ∞)|(−∞, 0]|(0, ∞)|1|The radicand must be non-negative.
+The domain of f(x) = √(x − 2) is|(2, ∞)|(−∞, 2]|[2, ∞)|R|2|x − 2 ≥ 0.
+The domain of f(x) = 1/(x − 3) is|R|R − {0}|(3, ∞)|R − {3}|3|x ≠ 3.
+The range of f(x) = x² is|[0, ∞)|R|(−∞, 0]|(0, ∞)|0|Squares are non-negative.
+If f(x) = 2x + 3, then f(−1) =|5|1|−5|−1|1|−2 + 3.
+If f(x) = x² − 2, then f(3) =|11|4|7|−7|2|9 − 2.
+If f(x) = x² and g(x) = x + 1, then (f + g)(2) =|5|6|4|7|3|4 + 3.
+If f(x) = x and g(x) = x², then (fg)(x) =|x³|x²|x|x + x²|0|The product.
+If f(x) = x² and g(x) = x, then (f/g)(x) =|x²|x, for x ≠ 0|1/x|x³|1|The quotient.
+The range of [x] on R is|R|N|Z|Q|2|It takes only integer values.
+The range of sgn(x) is|R|{0, 1}|{−1, 1}|{−1, 0, 1}|3|Negative, zero, positive.
+For R = {(1, 2), (2, 3)}, the domain is|{1, 2}|{2, 3}|{1, 2, 3}|∅|0|The first elements.
+For R = {(1, 2), (2, 3)}, the range is|{1, 2}|{2, 3}|{1, 2, 3}|∅|1|The second elements.
+The graph of f(x) = ∣x∣ is|a parabola|a straight line|V-shaped|a circle|2|Vertex at the origin.
+The graph of f(x) = x is|a parabola|a horizontal line|V-shaped|a straight line through the origin at 45°|3|Slope 1.
+If n(A) = 2 and n(B) = 3, the number of functions from A to B is|9|6|8|5|0|3² choices.
+The domain of f(x) = √(4 − x²) is|(−2, 2)|[−2, 2]|R|[0, 2]|1|4 − x² ≥ 0.
+The domain of f(x) = 1/√(x − 1) is|[1, ∞)|R|(1, ∞)|(−∞, 1)|2|x − 1 > 0.
+The range of f(x) = 1/(1 + x²) is|[0, 1]|R|(0, ∞)|(0, 1]|3|Maximum 1 at x = 0.
+If f(x) = 3x − 2, then f(f(1)) =|1|2|−1|3|0|f(1) = 1, so f(1) again.
+If f(x) = ∣x − 2∣, then f(0) =|−2|2|0|1|1|∣−2∣ = 2.
+[−1.5] =|−1|1|−2|−1.5|2|The greatest integer not exceeding −1.5.
+If f(x) = x² + 1, then f(x + 1) − f(x) =|2x|1|x²|2x + 1|3|(x + 1)² − x².
+If f(x) = (x − 1)/(x + 1), then f(0) =|−1|1|0|undefined|0|−1/1.
+A function is a relation in which|no two have the same second element|no two ordered pairs have the same first element|all pairs are equal|every element is repeated|1|Each input has one output.
+The range of f(x) = x² + 1 on R is|[0, ∞)|R|[1, ∞)|(1, ∞)|2|Minimum 1 at x = 0.
+The domain of f(x) = √(x² − 1) is|[−1, 1]|R|(−1, 1)|(−∞, −1] ∪ [1, ∞)|3|x² ≥ 1.
+For f(x) = ∣x∣/x (x ≠ 0), the range is|{−1, 1}|{1}|{−1}|R|0|The sign of x.
+Which of these relations is NOT a function?|{(1, 2), (2, 3)}|{(1, 2), (1, 3)}|{(1, 1), (2, 2)}|{(1, 2), (2, 2)}|1|1 has two images.

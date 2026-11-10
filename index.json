@@ -8648,5 +8648,5 @@
     }
    ]
   }
- ]
+ ,{"grade": 11, "subject": "Mathematics", "country": "IN", "chapters": [{"id": "in-m11-se", "title": "Sets", "lessons": [{"id": "in-m11-se-01", "title": "Sets and their representations"}, {"id": "in-m11-se-02", "title": "Subsets, power set and intervals"}, {"id": "in-m11-se-03", "title": "Operations on sets and Venn diagrams"}, {"id": "in-m11-se-04", "title": "Complement and the counting formula"}]}, {"id": "in-m11-rf", "title": "Relations and Functions", "lessons": [{"id": "in-m11-rf-01", "title": "Cartesian product of sets"}, {"id": "in-m11-rf-02", "title": "Relations"}, {"id": "in-m11-rf-03", "title": "Functions"}, {"id": "in-m11-rf-04", "title": "Some real functions and their graphs"}]}, {"id": "in-m11-tf", "title": "Trigonometric Functions", "lessons": [{"id": "in-m11-tf-01", "title": "Angles, degree and radian measure"}, {"id": "in-m11-tf-02", "title": "Trigonometric functions and their signs"}, {"id": "in-m11-tf-03", "title": "Sum, difference and multiple angle formulas"}, {"id": "in-m11-tf-04", "title": "Trigonometric equations"}]}]}]
 }
