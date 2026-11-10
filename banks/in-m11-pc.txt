@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+By the multiplication principle, if event A can happen in m ways and B in n ways, both can happen in|m × n ways|m + n ways|m ways|n ways|0|Apply the rule for events in sequence.
+By the addition principle, if A can happen in m ways and B in n ways (not together), either one can happen in|m × n ways|m + n ways|mn ways|m ways|1|For exclusive events.
+n! =|n + (n − 1)|n²|n(n − 1)(n − 2) … 1|2n|2|The factorial.
+0! =|0|undefined|−1|1|3|By definition.
+5! =|120|60|24|720|0|5 × 4 × 3 × 2 × 1.
+4! =|12|24|16|8|1|4 × 3 × 2 × 1.
+ⁿPᵣ =|n!/r!|n!/(r!(n − r)!)|n!/(n − r)!|n!|2|The number of arrangements.
+ⁿCᵣ =|n!/(n − r)!|n!/r!|r!/(n − r)!|n!/(r!(n − r)!)|3|The number of selections.
+ⁿCᵣ equals|ⁿCₙ₋ᵣ|ⁿPᵣ|ⁿCᵣ₊₁|ⁿ⁻¹Cᵣ|0|Choosing r is the same as leaving out n − r.
+ⁿP₀ =|0|1|n|n!|1|There is one empty arrangement.
+ⁿC₀ =|0|n|1|n!|2|There is one empty selection.
+ⁿP₁ =|1|n!|0|n|3|n choices for one place.
+ⁿCₙ =|1|n|0|n!|0|Select all objects.
+ⁿPₙ =|n|n!|1|0|1|All arrangements of n objects.
+A permutation counts|selections|subsets|arrangements|sums|2|Order matters.
+A combination counts|arrangements|orders|sums|selections|3|Order does not matter.
+The number of ways to arrange 3 distinct books in a row is|6|3|9|27|0|3!.
+⁵P₂ =|10|20|25|7|1|5 × 4.
+⁵C₂ =|20|25|10|7|2|20/2.
+⁶C₃ =|120|18|6|20|3|6!/(3!3!).
+⁸C₈ =|1|8|0|64|0|Select all.
+The number of 3-digit numbers formed from digits 1 to 5 without repetition is|125|60|20|15|1|5 × 4 × 3.
+The number of 3-digit numbers formed from digits 1 to 5 with repetition allowed is|60|15|125|5|2|5³.
+The number of arrangements of the letters of MATH is|12|16|8|24|3|4!.
+The number of arrangements of the letters of LEVEL is|30|60|120|20|0|5!/(2!2!).
+The number of arrangements of the letters of APPLE is|120|60|30|24|1|5!/2!.
+The number of ways to choose a committee of 2 from 5 people is|20|5|10|25|2|⁵C₂.
+The number of ways to select 3 objects from 7 is|210|21|343|35|3|⁷C₃.
+The number of diagonals of a hexagon is|9|6|15|12|0|⁶C₂ − 6.
+The number of handshakes among 10 people is|90|45|100|20|1|¹⁰C₂.
+ⁿCᵣ + ⁿCᵣ₋₁ =|ⁿCᵣ₊₁|ⁿ⁺¹Cᵣ₋₁|ⁿ⁺¹Cᵣ|2ⁿ|2|Pascal's rule.
+The total number of subsets of a 4-element set, counted by selections, is|8|4|24|16|3|The sum of ⁴Cᵣ is 2⁴.
+The number of ways to seat 4 people in a row is|24|16|12|4|0|4!.
+The number of arrangements of 5 distinct objects taken 3 at a time is|10|60|125|15|1|⁵P₃.
+The number of ways to choose 2 men from 4 and 1 woman from 3 is|12|7|18|9|2|⁴C₂ × ³C₁.
+The number of ways to form a 2-member team from 6 players is|30|12|36|15|3|⁶C₂.
+If ⁿP₂ = 56, then n =|8|7|9|6|0|n(n − 1) = 56.
+If ⁿC₂ = 45, then n =|9|10|11|8|1|n(n − 1) = 90.
+The number of arrangements of the letters of MISSISSIPPI is|39916800|2310|34650|11!/4!|2|11!/(4!4!2!).
+The number of arrangements of the letters of ARRANGE is|5040|2520|630|1260|3|7!/(2!2!).
+The number of 4-letter arrangements from the 5 distinct letters of DELHI is|120|625|24|60|0|⁵P₄.
+The number of even 3-digit numbers formed from 1, 2, 3, 4, 5 without repetition is|36|24|12|60|1|2 choices for the unit digit, then 4 × 3.
+From 5 men and 4 women, a committee of 3 with exactly 2 women can be formed in|60|20|30|10|2|⁴C₂ × ⁵C₁.
+From 6 men and 4 women, a committee of 4 with at least 1 woman can be formed in|210|15|225|195|3|¹⁰C₄ − ⁶C₄.
+The number of triangles formed from 8 points, no three collinear, is|56|24|336|28|0|⁸C₃.
+The number of ways to seat 5 boys and 3 girls in a row with the girls together is|40320|4320|720|5040|1|6! × 3!.
+The number of 5-digit numbers from 1, 2, 3, 4, 5 without repetition that are divisible by 5 is|120|60|24|5|2|The last digit is 5, the rest 4!.
+If ⁿC₈ = ⁿC₂, then n =|8|6|16|10|3|8 + 2 = n.
+ⁿPᵣ = ⁿCᵣ ×|r!|n!|(n − r)!|1|0|Arrange the r chosen objects.
+The number of arrangements of the letters of SCHOOL is|720|360|180|120|1|6!/2!.

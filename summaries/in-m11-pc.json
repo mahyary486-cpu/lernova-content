@@ -1,0 +1,6 @@
+{
+ "Fundamental principle of counting": "Multiply for 'and', add for 'or'.",
+ "Permutations": "ⁿPᵣ = n!/(n − r)!",
+ "Combinations": "ⁿCᵣ = n!/(r!(n − r)!)",
+ "Applications of counting": "Use 'total minus unwanted' and 'together as a block'."
+}
