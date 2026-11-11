@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual é a unidade de frequência no Sistema Internacional?|metro (m)|segundo (s)|hertz (Hz)|watt (W)|2|A frequência é medida em hertz.
+Uma onda tem frequência de 10 Hz e comprimento de onda de 3 m. Qual é sua velocidade?|13 m/s|0,3 m/s|3 m/s|30 m/s|3|v = λ · f.
+Uma onda de rádio (v = 3 · 10⁸ m/s) tem frequência de 10⁸ Hz. Qual é o comprimento de onda?|3 m|0,3 m|30 m|3 · 10¹⁶ m|0|λ = v/f.
+A relação entre frequência e período é:|f = T|f = 1/T|f = T/2|f = 2T|1|São grandezas inversas.
+Uma onda tem v = 340 m/s e f = 170 Hz. Qual é o comprimento de onda?|0,5 m|340 m|2 m|57 800 m|2|λ = v/f.
+Um sonar emite um pulso e recebe o eco 2 s depois, na água (v = 1 500 m/s). Qual é a profundidade?|3 000 m|750 m|300 m|1 500 m|3|O pulso vai e volta.
+A equação fundamental da ondulatória é:|v = λ · f|v = λ/f|v = f/λ|v = λ + f|0|Velocidade = comprimento de onda · frequência.
+O som se propaga no ar a cerca de 340 m/s. Em quanto tempo se ouve um trovão a 1 700 m?|0,2 s|5 s|50 s|2 s|1|t = d/v.
+Um observador ouve o eco 0,4 s depois de gritar (v = 340 m/s). Qual é a distância até a parede?|136 m|34 m|68 m|13,6 m|2|O som vai e volta.
+O som é uma onda:|eletromagnética e transversal|eletromagnética e longitudinal|mecânica e transversal|mecânica e longitudinal|3|O som precisa de meio material.
+Qual é a faixa de frequências audíveis para o ser humano?|20 Hz a 20 000 Hz|2 Hz a 200 Hz|200 Hz a 2 000 Hz|20 000 Hz a 200 000 Hz|0|Abaixo é infrassom e acima é ultrassom.
+A luz do Sol leva cerca de 8 min para chegar à Terra (c = 3 · 10⁸ m/s). Qual é a distância aproximada?|2,4 · 10⁹ m|1,44 · 10¹¹ m|1,44 · 10⁸ m|2,4 · 10¹¹ m|1|d = c · t.
+O som se propaga no vácuo?|Sim, como a luz|Sim, mais rápido que no ar|Não, pois precisa de meio material|Sim, mas só em baixas frequências|2|Ondas mecânicas não existem no vácuo.
+Ao passar do ar para a água, o som:|diminui de velocidade|mantém a mesma velocidade|deixa de se propagar|aumenta de velocidade|3|O som é mais rápido em meios mais rígidos.
+Uma onda tem λ = 4 m e v = 20 m/s. Qual é o período?|0,2 s|5 s|80 s|0,05 s|0|f = v/λ e T = 1/f.
+A luz é uma onda:|mecânica|eletromagnética|sonora|mecânica longitudinal|1|A luz se propaga no vácuo.
+Quando uma onda muda de meio, sua frequência:|dobra|cai à metade|não muda|aumenta sempre|2|A frequência depende da fonte.
+Com v constante, ao dobrar a frequência de uma onda, o comprimento de onda:|dobra|quadruplica|não muda|cai pela metade|3|λ = v/f.
+A altura de um som (grave ou agudo) depende da:|frequência|amplitude|velocidade no vácuo|cor do som|0|Som agudo tem frequência alta.
+Para ouvir o eco de um som no ar (cerca de 0,1 s de atraso), a distância mínima até a parede é de cerca de:|1,7 m|17 m|340 m|170 m|1|O som vai e volta em 0,1 s.
+Um som de 440 Hz é emitido no ar (v = 340 m/s). Qual é o comprimento de onda aproximado?|1,29 m|7,7 m|0,77 m|0,077 m|2|λ = v/f.
+O eco é um fenômeno de:|refração do som|difração do som|interferência do som|reflexão do som|3|O som volta ao bater em um obstáculo.
+O timbre permite distinguir:|dois instrumentos tocando a mesma nota|um som alto de um baixo|uma onda longitudinal de uma transversal|o som da luz|0|Timbre depende da forma da onda.
+A diferença entre ondas transversais e longitudinais está:|apenas na frequência|na direção de vibração em relação à propagação|apenas na velocidade|na cor|1|Perpendicular ou paralela.
+A distância entre duas cristas consecutivas de uma onda é o(a):|amplitude|período|comprimento de onda|frequência|2|Essa distância é λ.
+O efeito Doppler explica por que:|o gelo flutua na água|o arco-íris se forma|o eco existe|a sirene de uma ambulância muda de tom ao passar|3|A frequência percebida muda com o movimento relativo.
+O nível de intensidade sonora é medido em:|decibel (dB)|hertz (Hz)|newton (N)|metro (m)|0|O nível sonoro usa decibel.
+Uma onda de período 0,5 s tem frequência de:|0,5 Hz|2 Hz|5 Hz|1 Hz|1|f = 1/T.
+A amplitude de uma onda em uma corda é 0,2 m. Qual é o desnível entre uma crista e um vale?|0,2 m|0,1 m|0,4 m|0,8 m|2|Crista +0,2 e vale −0,2.
+Quando a fonte sonora se aproxima do observador, a frequência percebida:|diminui|não muda|vai a zero|aumenta|3|É o efeito Doppler.

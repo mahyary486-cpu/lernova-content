@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Quem criou a nomenclatura binomial?|Lineu (Carl Linnaeus)|Darwin|Mendel|Pasteur|0|Lineu padronizou os nomes científicos.
+Qual é a ordem correta das categorias taxonômicas, da maior para a menor?|espécie, gênero, família, ordem, classe, filo, reino|reino, filo, classe, ordem, família, gênero, espécie|reino, classe, filo, ordem, gênero, família, espécie|filo, reino, ordem, classe, família, espécie, gênero|1|Do mais amplo ao mais específico.
+Qual alternativa descreve melhor um vírus?|Célula procariótica com parede celular|Organismo eucarionte unicelular|Parasita intracelular obrigatório, formado por material genético e capsídeo|Fungo microscópico|2|Vírus não têm metabolismo próprio.
+O nome científico de uma espécie é formado por:|família e ordem|reino e filo|classe e espécie|gênero e epíteto específico|3|Dois nomes: gênero e epíteto.
+Quantos domínios existem no sistema de três domínios?|3|2|5|6|0|Bacteria, Archaea e Eukarya.
+Por que os antibióticos não curam a gripe?|Porque a gripe é causada por fungos|Porque a gripe é causada por vírus, que não têm metabolismo próprio|Porque antibióticos só atuam em protozoários|Porque a gripe não é infecção|1|Antibióticos agem em estruturas bacterianas.
+Qual é o nível taxonômico mais básico?|gênero|família|espécie|reino|2|A espécie é a unidade básica.
+Quais são os três domínios da vida?|Animalia, Plantae e Fungi|procariontes, vírus e fungos|Monera, Protista e Plantae|Bacteria, Archaea e Eukarya|3|Dois procariontes e um eucarionte.
+A reprodução das bactérias por divisão simples chama-se:|fissão binária|meiose|fecundação|esporulação de fungos|0|A célula se divide em duas.
+Qual é o nome científico da espécie humana?|Pan troglodytes|Homo sapiens|Canis lupus|Felis catus|1|Homo é o gênero e sapiens, o epíteto.
+No nome Canis lupus, a palavra "Canis" indica:|a espécie|a família|o gênero|o reino|2|A primeira palavra é o gênero.
+A conjugação bacteriana serve para:|formar esporos de fungos|produzir energia|fazer fotossíntese|transferir material genético entre bactérias|3|Há troca de DNA.
+Os vírus são considerados seres:|acelulares|unicelulares procariontes|pluricelulares|eucariontes|0|Não têm célula.
+Os antibióticos são eficazes contra:|vírus|bactérias|todos os microrganismos|apenas fungos|1|Vírus não têm metabolismo próprio.
+Em qual grupo estão os cogumelos?|reino Plantae|reino Animalia|reino Fungi|domínio Bacteria|2|Cogumelos são fungos.
+As bactérias são organismos:|eucariontes pluricelulares|acelulares|vegetais|procariontes|3|Não têm núcleo definido.
+A dengue é transmitida pelo mosquito:|Aedes aegypti|Anopheles|carrapato|pernilongo da água parada apenas|0|O Aedes transmite dengue.
+No nome Felis catus, a palavra "catus" é:|o gênero|o epíteto específico|a família|a ordem|1|A segunda palavra é o epíteto.
+Qual destes é um exemplo de fungo?|ameba|bactéria do iogurte|levedura (fermento)|vírus da gripe|2|Leveduras são fungos unicelulares.
+Qual destas doenças é causada por bactéria?|dengue|gripe|malária|tuberculose|3|A tuberculose é bacteriana.
+Duas espécies do mesmo gênero pertencem necessariamente ao(à) mesmo(a):|família|espécie|população|comunidade|0|Categorias maiores incluem as menores.
+O agente causador da malária é um:|vírus|protozoário|fungo|verme|1|É o Plasmodium.
+Qual destas doenças é causada por protozoário?|sarampo|tétano|doença de Chagas|gripe|2|O agente é o Trypanosoma cruzi.
+Qual característica é exclusiva dos eucariontes?|ribossomos|DNA|membrana plasmática|núcleo delimitado por membrana|3|Procariontes não têm núcleo definido.
+Os fungos são seres:|heterótrofos|autótrofos fotossintetizantes|sempre procariontes|sem células|0|Não fazem fotossíntese.
+As leveduras são usadas na produção de:|iogurte|pão e cerveja|soro antiofídico|plástico|1|Fazem fermentação.
+A transmissão da malária envolve:|o mosquito Aedes e um vírus|água contaminada e uma bactéria|o mosquito Anopheles e o protozoário Plasmodium|o ar e um fungo|2|Mosquito e protozoário.
+A gripe é causada por:|bactéria|fungo|protozoário|vírus|3|O influenza é um vírus.
+As vacinas atuam:|estimulando o sistema imune a produzir defesas|matando o microrganismo diretamente|eliminando qualquer infecção já instalada|substituindo o sistema imune|0|Preparam o organismo.
+Um organismo pluricelular, heterótrofo por absorção, com parede de quitina, é:|uma planta|um fungo|um animal|uma bactéria|1|Parede de quitina é típica de fungos.

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Uma reação que libera calor é:|endotérmica|isotérmica|exotérmica|atérmica|2|Exo = para fora.
+Em C(s) + O₂ → CO₂, ΔH = −394 kJ/mol. Ao queimar 1 mol de C:|394 kJ são absorvidos|39,4 kJ são liberados|nenhuma energia é trocada|394 kJ são liberados|3|ΔH negativo, libera.
+H₂ + ½ O₂ → H₂O(l), ΔH = −286 kJ/mol. Quanto calor é liberado ao formar 36 g de água (M = 18 g/mol)?|572 kJ|286 kJ|143 kJ|1 144 kJ|0|36 g correspondem a 2 mol.
+Uma reação que absorve calor é:|exotérmica|endotérmica|explosiva|nula|1|Endo = para dentro.
+Quantos kJ são liberados na queima de 2 mol de C (ΔH = −394 kJ/mol)?|394 kJ|197 kJ|788 kJ|1 576 kJ|2|2 · 394.
+Dados C + O₂ → CO₂ (ΔH = −394 kJ) e CO + ½ O₂ → CO₂ (ΔH = −283 kJ), qual é o ΔH de C + ½ O₂ → CO?|−677 kJ|+111 kJ|−283 kJ|−111 kJ|3|Subtraia a segunda da primeira.
+Em uma reação exotérmica, o sinal de ΔH é:|negativo|positivo|zero|indefinido|0|Libera calor, ΔH < 0.
+Em um diagrama de energia, a energia de ativação é:|a diferença entre a energia dos produtos e dos reagentes|a energia mínima necessária para a reação começar|o calor liberado pela reação|a energia dos produtos|1|É a barreira inicial.
+Em uma reação endotérmica, a energia dos produtos em relação à dos reagentes é:|menor|igual|maior|nula|2|A reação absorve energia.
+A combustão da gasolina é:|endotérmica|um processo físico|uma reação sem troca de energia|exotérmica|3|Queimar libera calor.
+Um catalisador atua:|diminuindo a energia de ativação|aumentando o ΔH|diminuindo a temperatura|retirando os reagentes|0|Ele oferece um caminho mais fácil.
+A velocidade de uma reação é 0,2 mol/L·s. Quanto de reagente é consumido em 10 s?|0,02 mol/L|2 mol/L|20 mol/L|0,2 mol/L|1|Quantidade = velocidade · tempo.
+A fotossíntese é um processo:|exotérmico|sem troca de energia|endotérmico|explosivo|2|A planta absorve luz.
+Ao dobrar a concentração de um reagente, a velocidade da reação geralmente:|diminui|fica nula|não depende da concentração|aumenta|3|Mais colisões por segundo.
+Um catalisador altera:|a energia de ativação e a velocidade, sem mudar o ΔH|o ΔH e o rendimento|a massa dos reagentes|a posição final do equilíbrio sempre|0|Ele só acelera.
+A cinética química estuda:|a cor das substâncias|a velocidade das reações|a massa dos átomos|o formato dos cristais|1|Velocidade e fatores que a alteram.
+Por que os alimentos estragam mais devagar na geladeira?|O frio destrói todas as bactérias|A geladeira retira o oxigênio do ar|A temperatura baixa diminui a velocidade das reações|O frio é um catalisador|2|Menos temperatura, reações mais lentas.
+Regra aproximada: a cada 10 °C a mais, a velocidade dobra. De 20 °C para 50 °C, a velocidade fica:|3 vezes maior|6 vezes maior|4 vezes maior|8 vezes maior|3|Há 3 aumentos de 10 °C.
+Um catalisador:|aumenta a velocidade da reação sem ser consumido|diminui a energia dos produtos|é consumido totalmente|altera o ΔH da reação|0|Ele não é consumido.
+Se ΔH = +50 kJ, a reação:|libera 50 kJ|absorve 50 kJ|é instantânea|não troca calor|1|ΔH positivo, endotérmica.
+Se v = k·[A]² e a concentração de A triplica, a velocidade:|fica 3 vezes maior|fica 6 vezes maior|fica 9 vezes maior|dobra|2|(3)² = 9.
+Aumentar a temperatura geralmente:|diminui a velocidade da reação|para a reação|não altera a velocidade|aumenta a velocidade da reação|3|Mais agitação, mais colisões eficazes.
+A Lei de Hess diz que a variação de entalpia:|depende apenas dos estados inicial e final|depende do caminho da reação|é sempre negativa|depende só da velocidade|0|ΔH é função de estado.
+Por que a palha de aço queima mais rápido que um prego de mesma massa?|Tem menor temperatura|Tem maior superfície de contato com o oxigênio|Tem menos oxigênio|Tem maior energia de ativação|1|Superfície de contato.
+Triturar um comprimido antes de dissolvê-lo:|diminui a velocidade|não muda nada|aumenta a superfície de contato e acelera a dissolução|altera o ΔH|2|Mais superfície, mais velocidade.
+Dadas A → B (ΔH = −10 kJ) e B → C (ΔH = −15 kJ), qual é o ΔH de A → C?|−5 kJ|+25 kJ|−150 kJ|−25 kJ|3|Some as etapas.
+Para o CH₄, ΔH = −890 kJ/mol. Ao queimar 8 g de CH₄ (M = 16 g/mol), qual é o calor liberado?|445 kJ|890 kJ|222,5 kJ|1 780 kJ|0|8 g são 0,5 mol.
+Qual é uma unidade comum de entalpia em termoquímica?|g/L|kJ/mol|mol/L|m/s|1|Energia por mol.
+A lenha em pedaços pequenos queima mais rápido porque:|tem menos massa total|muda o ΔH|tem maior superfície de contato|não precisa de oxigênio|2|Mais superfície exposta ao oxigênio.
+Em um diagrama de energia de reação exotérmica:|os produtos estão em nível maior que os reagentes|produtos e reagentes estão no mesmo nível|a energia de ativação é nula|os produtos estão em nível de energia menor que os reagentes|3|O calor liberado é a diferença.

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Na PA (2, 5, 8, 11, ...), qual é a razão?|2|5|3|11|2|5 − 2 = 3.
+Qual é o 10º termo da PA com a₁ = 3 e r = 4?|43|36|40|39|3|a₁₀ = 3 + 9 · 4.
+Qual é a soma dos 20 primeiros termos da PA (3, 7, 11, ...)?|820|780|800|840|0|a₂₀ = 3 + 19 · 4 = 79.
+Na PG (2, 4, 8, 16, ...), qual é a razão?|4|2|6|8|1|4 ÷ 2 = 2.
+Qual é a soma 1 + 3 + 5 + ... + 19 (os 10 primeiros ímpares)?|90|110|100|120|2|S = (1 + 19) · 10/2.
+Em uma PA, a₃ = 11 e a₇ = 27. Qual é o valor de a₁?|5|7|4|3|3|De a₃ a a₇ há 4 passos.
+Qual é o 5º termo da PA com a₁ = 1 e r = 2?|9|10|11|7|0|a₅ = 1 + 4 · 2.
+Quantos termos tem a PA (5, 8, 11, ..., 53)?|16|17|18|15|1|53 = 5 + (n − 1) · 3.
+Qual é a soma da PG infinita (8, 4, 2, 1, ...)?|15|12|16|32|2|S = a₁/(1 − q).
+Qual é o 4º termo da PG com a₁ = 3 e q = 2?|12|48|18|24|3|a₄ = 3 · 2³.
+Qual é o 6º termo da PG com a₁ = 2 e q = 3?|486|162|1 458|972|0|a₆ = 2 · 3⁵.
+Qual é o 8º termo da PG (1/2, 1, 2, ...)?|128|64|32|256|1|a₈ = 1/2 · 2⁷.
+A fórmula do termo geral de uma PA é:|aₙ = a₁ · rⁿ⁻¹|aₙ = a₁ + n · r|aₙ = a₁ + (n − 1) · r|aₙ = (a₁ + aₙ) · n/2|2|Soma-se a razão (n − 1) vezes.
+Qual é a razão da PG (4, 12, 36, ...)?|8|9|1/3|3|3|12 ÷ 4 = 3.
+Três números em PA têm soma 18 e produto 162. Qual é o termo central?|6|3|9|12|0|O termo central é a média: 18 ÷ 3.
+A fórmula do termo geral de uma PG é:|aₙ = a₁ + (n − 1) · q|aₙ = a₁ · qⁿ⁻¹|aₙ = a₁ · q · n|aₙ = a₁ + qⁿ|1|Multiplica-se pela razão (n − 1) vezes.
+Se (x, 10, 16) está em PA, qual é o valor de x?|3|6|4|5|2|10 é a média de x e 16.
+Um capital de R$ 1.000,00 rende 10% ao mês em juros compostos. Qual é o montante após 3 meses?|R$ 1.300,00|R$ 1.030,00|R$ 1.100,00|R$ 1.331,00|3|1 000 · 1,1³.
+Qual destas sequências é uma PA?|(4, 7, 10, 13)|(1, 4, 9, 16)|(3, 6, 12, 24)|(1, 2, 4, 8)|0|A diferença é constante (3).
+Se (2, x, 18) está em PG de termos positivos, qual é o valor de x?|8|6|9|10|1|x² = 2 · 18.
+Quantos múltiplos de 7 há entre 1 e 100?|13|15|14|16|2|7, 14, ..., 98 é uma PA.
+Qual destas sequências é uma PG?|(4, 7, 10, 13)|(1, 4, 9, 16)|(2, 4, 6, 8)|(3, 6, 12, 24)|3|O quociente é constante (2).
+Qual é a soma dos 4 primeiros termos da PG (1, 2, 4, 8, ...)?|15|16|14|31|0|1 + 2 + 4 + 8.
+Se a soma dos n primeiros termos de uma PA é Sₙ = n², qual é a razão?|1|2|3|4|1|a₁ = 1 e a₂ = 4 − 1 = 3.
+A PA (10, 8, 6, 4, ...) é:|crescente|constante|decrescente|uma PG|2|A razão é −2.
+Em uma PA, a₅ = 20 e a₁ = 8. Qual é a razão?|4|2|5|3|3|a₅ = a₁ + 4r.
+Uma bola é solta de 16 m e, a cada quique, sobe metade da altura anterior. Qual é a altura depois do 3º quique?|2 m|4 m|1 m|8 m|0|16, 8, 4, 2.
+Qual é o próximo termo da PG (1, 3, 9, 27, ...)?|54|81|36|30|1|27 · 3 = 81.
+Uma população de 500 bactérias triplica a cada hora. Quantas há após 3 horas?|4 500|1 500|13 500|9 000|2|500 · 3³.
+Para qual valor de x os números (x, x + 2, x + 6) estão em PG?|1|3|4|2|3|(x + 2)² = x(x + 6).

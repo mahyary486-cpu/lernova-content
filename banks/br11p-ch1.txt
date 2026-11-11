@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual é a temperatura de fusão da água ao nível do mar?|0 °C|100 °C|32 °C|273 °C|0|O gelo derrete a 0 °C.
+Converta 25 °C para kelvin.|248 K|298 K|25 K|352 K|1|K = °C + 273.
+Em que temperatura as escalas Celsius e Fahrenheit marcam o mesmo valor?|0|32|−40|−32|2|C = 1,8C + 32.
+Qual é a temperatura de ebulição da água ao nível do mar?|0 °C|50 °C|373 °C|100 °C|3|A água ferve a 100 °C.
+Converta 50 °C para °F (°F = 1,8 · °C + 32).|122 °F|82 °F|90 °F|112 °F|0|1,8 · 50 + 32.
+Uma barra de 10 m, com α = 1,2 · 10⁻⁵ °C⁻¹, é aquecida em 50 °C. Qual é a dilatação?|0,6 mm|6 mm|60 mm|12 mm|1|ΔL = L₀ · α · ΔT.
+Qual é a unidade de temperatura no Sistema Internacional?|grau Celsius (°C)|grau Fahrenheit (°F)|kelvin (K)|joule (J)|2|A unidade do SI é o kelvin.
+Converta 212 °F para °C.|180 °C|0 °C|32 °C|100 °C|3|212 °F é o ponto de ebulição da água.
+Quanto calor é necessário para derreter 100 g de gelo a 0 °C e aquecer a água até 20 °C? (L = 80 cal/g; c = 1 cal/g·°C)|10 000 cal|8 000 cal|2 000 cal|12 000 cal|0|Calor latente mais calor sensível.
+A quantos kelvins corresponde 0 °C?|0 K|273 K|100 K|373 K|1|K = °C + 273.
+Quanto calor é necessário para elevar 200 g de água de 20 °C a 70 °C? (c = 1 cal/g·°C)|4 000 cal|14 000 cal|10 000 cal|200 cal|2|Q = m · c · ΔT.
+Um bloco de 300 g de metal (c = 0,2) a 100 °C é colocado em 600 g de água (c = 1) a 20 °C. Qual é a temperatura final aproximada?|≈ 60 °C|≈ 50 °C|≈ 80 °C|≈ 27 °C|3|Q cedido = Q recebido.
+O calor é:|a energia térmica em trânsito|a temperatura de um corpo|um fluido invisível|uma força|0|Calor é energia que passa de um corpo a outro.
+Um corpo de 500 g com c = 0,2 cal/g·°C aquece 40 °C. Quanto calor ele recebe?|20 000 cal|4 000 cal|100 cal|2 000 cal|1|Q = 500 · 0,2 · 40.
+Um aquecedor de 1 000 W aquece 2 kg de água de 20 °C a 30 °C (c = 4 000 J/kg·°C). Quanto tempo leva?|8 s|800 s|80 s|40 s|2|Energia = potência · tempo.
+A propagação do calor em sólidos ocorre principalmente por:|convecção|radiação|evaporação|condução|3|Nos sólidos, as partículas passam a energia por contato.
+O calor latente de fusão do gelo é 80 cal/g. Quanto calor é necessário para fundir 50 g de gelo a 0 °C?|4 000 cal|80 cal|400 cal|130 cal|0|Q = m · L.
+Qual afirmação sobre calor e temperatura está correta?|Temperatura é a quantidade de calor de um corpo.|Calor é energia em trânsito devido à diferença de temperatura.|Calor flui do corpo mais frio para o mais quente.|Corpos em equilíbrio térmico têm calores iguais.|1|Calor é energia em trânsito.
+O calor do Sol chega à Terra por:|condução|convecção|radiação|ebulição|2|Só a radiação se propaga no vácuo.
+A transferência de calor por correntes em um fluido, como o ar quente que sobe, chama-se:|condução|radiação|sublimação|convecção|3|Movimento do fluido transporta calor.
+O zero absoluto na escala kelvin corresponde a:|−273 °C|0 °C|−100 °C|−373 °C|0|0 K = −273 °C.
+Qual instrumento mede a temperatura?|barômetro|termômetro|dinamômetro|amperímetro|1|O termômetro mede temperatura.
+O vácuo entre as paredes de uma garrafa térmica impede a transferência de calor por:|radiação apenas|nenhuma delas|condução e convecção|evaporação|2|Sem matéria, não há condução nem convecção.
+Um gás ideal a 27 °C é aquecido até 327 °C a volume constante. A pressão:|quadruplica|cai pela metade|fica igual|dobra|3|Use temperaturas em kelvin.
+Quando dois corpos em contato atingem a mesma temperatura, há:|equilíbrio térmico|fusão|dilatação|condensação|0|Não há mais troca líquida de calor.
+Uma barra metálica aquecida aumenta de comprimento porque:|os átomos aumentam de tamanho|a agitação das partículas aumenta e elas ocupam mais espaço|a massa da barra aumenta|novos átomos são criados|1|É a dilatação térmica.
+Por que o gelo flutua na água líquida?|Porque o gelo tem mais massa|Porque o gelo é mais quente|Porque o gelo é menos denso que a água líquida|Porque o gelo não tem peso|2|Ao congelar, a água aumenta de volume.
+A passagem da água do estado líquido para o gasoso chama-se:|fusão|solidificação|sublimação|vaporização|3|Líquido → gás é vaporização.
+Misturam-se 100 g de água a 80 °C com 100 g de água a 20 °C, sem perdas. Qual é a temperatura final?|50 °C|40 °C|60 °C|100 °C|0|Massas iguais: temperatura média.
+Uma pedra de 2 kg cai de 50 m e toda a energia potencial se converte em calor ao parar (g = 10 m/s²). Quanto calor é gerado?|100 J|1 000 J|10 000 J|2 000 J|1|Ep = m · g · h.

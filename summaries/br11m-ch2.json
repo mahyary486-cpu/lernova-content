@@ -1,0 +1,4 @@
+{
+  "Progressão aritmética (PA)": "Em uma PA, cada termo é o anterior mais uma razão constante r. O termo geral é aₙ = a₁ + (n − 1)·r e a soma dos n primeiros termos é Sₙ = (a₁ + aₙ)·n/2. Três termos a, b, c estão em PA quando b é a média aritmética de a e c.",
+  "Progressão geométrica (PG)": "Em uma PG, cada termo é o anterior multiplicado por uma razão constante q. O termo geral é aₙ = a₁·qⁿ⁻¹. A soma dos n primeiros termos é Sₙ = a₁(qⁿ − 1)/(q − 1) e, quando |q| < 1, a soma infinita é a₁/(1 − q). Três termos a, b, c em PG satisfazem b² = a·c."
+}

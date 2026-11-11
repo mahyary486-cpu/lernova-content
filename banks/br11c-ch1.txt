@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Em uma solução, o soluto é:|a substância dissolvida|o meio que dissolve|o recipiente|o gás presente|0|Soluto é o que é dissolvido.
+Que massa de NaOH (M = 40 g/mol) há em 500 mL de solução 0,2 mol/L?|40 g|4 g|8 g|0,4 g|1|n = M · V e m = n · M.
+Diluindo 100 mL de solução 2 mol/L até 400 mL, qual é a nova molaridade?|8 mol/L|1 mol/L|0,5 mol/L|2 mol/L|2|M₁V₁ = M₂V₂.
+Qual é o solvente mais comum nas soluções do dia a dia?|o sal|o álcool puro|o ar|a água|3|A água é o solvente universal.
+Qual é a molaridade de uma solução com 4 mol de soluto em 2 L?|2 mol/L|8 mol/L|0,5 mol/L|4 mol/L|0|M = n/V.
+Que volume de água se deve adicionar a 50 mL de solução 4 mol/L para obter solução 1 mol/L?|200 mL|150 mL|50 mL|100 mL|1|Calcule o volume final e subtraia.
+A concentração comum é calculada por:|C = V/m|C = m · V|C = m/V|C = m + V|2|Massa de soluto dividida pelo volume.
+Qual é a molaridade de 36,5 g de HCl (M = 36,5 g/mol) em 500 mL de solução?|1 mol/L|0,5 mol/L|73 mol/L|2 mol/L|3|Calcule n e depois M.
+Misturam-se 200 mL de NaCl 1 mol/L com 300 mL de NaCl 2 mol/L. Qual é a molaridade final?|1,6 mol/L|1,5 mol/L|3 mol/L|1,2 mol/L|0|Some os mols e divida pelo volume total.
+Quantidade de matéria (mol) dividida pelo volume (L) é a:|concentração comum (g/L)|molaridade (mol/L)|densidade|massa molar|1|M = n/V.
+Uma solução tem 20 g de soluto e 80 g de solvente. Qual é o título em massa?|0,25|0,8|0,2|4|2|τ = m soluto / m solução.
+500 mL de solução contêm 11,7 g de NaCl (M = 58,5 g/mol). Qual é a molaridade?|0,2 mol/L|2,0 mol/L|23,4 mol/L|0,4 mol/L|3|n = m/M.
+10 g de sal em 2 L de solução. Qual é a concentração comum?|5 g/L|20 g/L|0,2 g/L|12 g/L|0|C = m/V.
+Um título de 0,2 corresponde a qual porcentagem em massa?|2%|20%|0,2%|80%|1|Multiplique por 100.
+Quantos mL de H₂SO₄ 18 mol/L são necessários para preparar 900 mL de solução 2 mol/L?|10 mL|1 000 mL|100 mL|50 mL|2|O número de mols não muda.
+Quantos mols há em 58,5 g de NaCl (M = 58,5 g/mol)?|58,5 mol|0,1 mol|2 mol|1 mol|3|n = m/M.
+Uma solução tem 40 g/L. Qual é a massa de soluto em 250 mL?|10 g|160 g|1 g|40 g|0|m = C · V.
+Quantos mols de íons Na⁺ há em 1 L de Na₂SO₄ 0,1 mol/L?|0,1 mol|0,2 mol|0,3 mol|2 mol|1|Cada Na₂SO₄ libera 2 Na⁺.
+Uma solução saturada é aquela que:|não tem soluto|tem pouquíssimo soluto|tem a máxima quantidade de soluto dissolvido naquela temperatura|só existe a 0 °C|2|Não dissolve mais soluto.
+Quantos gramas de glicose (M = 180 g/mol) há em 2 L de solução 0,5 mol/L?|90 g|360 g|18 g|180 g|3|n = M · V.
+Misturam-se 100 g de solução com 10% de soluto e 100 g de solução com 30%. Qual é o título final?|20%|40%|15%|25%|0|Some as massas de soluto.
+Uma solução de 1 mol/L tem quantos mols de soluto em 1 L?|0,1 mol|1 mol|10 mol|1 g|1|M = n/V.
+Uma concentração de 5 ppm significa:|5 g por litro|5% em massa|5 partes de soluto em 1 milhão de partes da solução|5 mol por litro|2|ppm é partes por milhão.
+A solubilidade de um sal é 36 g/100 g de água a 20 °C. Quanto sal se dissolve em 500 g de água?|36 g|72 g|360 g|180 g|3|Proporção direta.
+Qual é a unidade da concentração comum?|g/L|mol|L/g|g|0|Massa por volume.
+Uma solução tem densidade de 1,2 g/mL. Qual é a massa de 500 mL dela?|417 g|600 g|1,2 g|60 g|1|m = d · V.
+Para preparar 250 mL de NaOH 0,5 mol/L (M = 40 g/mol), qual massa de NaOH é necessária?|20 g|10 g|5 g|1,25 g|2|n = M · V e m = n · M.
+Dissolver açúcar em água forma uma mistura:|heterogênea|bifásica|sempre sólida|homogênea|3|Uma só fase.
+Uma solução de NaCl em água conduz eletricidade por causa:|dos íons livres|dos elétrons do solvente|das moléculas de água|do açúcar|0|Íons carregam a corrente.
+Qual é a concentração em g/L de uma solução 0,1 mol/L de NaCl (M = 58,5 g/mol)?|58,5 g/L|5,85 g/L|0,585 g/L|585 g/L|1|C = M · massa molar.

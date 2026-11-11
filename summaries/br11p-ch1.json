@@ -1,0 +1,4 @@
+{
+  "Temperatura e escalas termométricas": "A temperatura mede o grau de agitação das partículas. As escalas são Celsius (fusão da água 0 °C, ebulição 100 °C), Fahrenheit (32 °F e 212 °F) e Kelvin (0 °C = 273 K). As conversões são K = °C + 273 e °F = 1,8 · °C + 32. O zero absoluto é 0 K = −273 °C. Os sólidos dilatam ao aquecer: ΔL = L₀ · α · ΔT.",
+  "Calor, calorimetria e mudanças de estado": "Calor é a energia térmica em trânsito entre corpos de temperaturas diferentes. Calor sensível: Q = m · c · ΔT. Calor latente (mudança de estado): Q = m · L. O calor se propaga por condução, convecção e radiação. Em um sistema isolado, a soma dos calores trocados é zero e define a temperatura final do equilíbrio."
+}

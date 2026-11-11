@@ -8784,7 +8784,139 @@
               "title": "Applications of counting"
             }
           ]
-        },{"id": "in-m11-bt", "title": "Binomial Theorem", "lessons": [{"id": "in-m11-bt-01", "title": "Binomial theorem for a positive integral index"}, {"id": "in-m11-bt-02", "title": "General term and middle term"}, {"id": "in-m11-bt-03", "title": "Pascal's triangle and properties"}, {"id": "in-m11-bt-04", "title": "Applications of the binomial theorem"}]},{"id": "in-m11-ss", "title": "Sequences and Series", "lessons": [{"id": "in-m11-ss-01", "title": "Sequences, series and arithmetic progression"}, {"id": "in-m11-ss-02", "title": "Geometric progression"}, {"id": "in-m11-ss-03", "title": "Arithmetic and geometric means"}, {"id": "in-m11-ss-04", "title": "Special series"}]},{"id": "in-m11-sl", "title": "Straight Lines", "lessons": [{"id": "in-m11-sl-01", "title": "Slope of a line"}, {"id": "in-m11-sl-02", "title": "Equations of a line"}, {"id": "in-m11-sl-03", "title": "General equation and distance from a line"}, {"id": "in-m11-sl-04", "title": "Parallel and perpendicular lines"}]},{"id": "in-m11-cs", "title": "Conic Sections", "lessons": [{"id": "in-m11-cs-01", "title": "Circle"}, {"id": "in-m11-cs-02", "title": "Parabola"}, {"id": "in-m11-cs-03", "title": "Ellipse"}, {"id": "in-m11-cs-04", "title": "Hyperbola"}]},{"id": "in-m11-td", "title": "Introduction to Three-dimensional Geometry", "lessons": [{"id": "in-m11-td-01", "title": "Coordinate axes and planes"}, {"id": "in-m11-td-02", "title": "Coordinates of a point"}, {"id": "in-m11-td-03", "title": "Distance between two points"}, {"id": "in-m11-td-04", "title": "Section formula"}]},{"id": "in-m11-ld", "title": "Limits and Derivatives", "lessons": [{"id": "in-m11-ld-01", "title": "Limits and algebra of limits"}, {"id": "in-m11-ld-02", "title": "Standard limits"}, {"id": "in-m11-ld-03", "title": "Derivative from first principles"}, {"id": "in-m11-ld-04", "title": "Rules of differentiation"}]}
+        },
+        {
+          "id": "in-m11-bt",
+          "title": "Binomial Theorem",
+          "lessons": [
+            {
+              "id": "in-m11-bt-01",
+              "title": "Binomial theorem for a positive integral index"
+            },
+            {
+              "id": "in-m11-bt-02",
+              "title": "General term and middle term"
+            },
+            {
+              "id": "in-m11-bt-03",
+              "title": "Pascal's triangle and properties"
+            },
+            {
+              "id": "in-m11-bt-04",
+              "title": "Applications of the binomial theorem"
+            }
+          ]
+        },
+        {
+          "id": "in-m11-ss",
+          "title": "Sequences and Series",
+          "lessons": [
+            {
+              "id": "in-m11-ss-01",
+              "title": "Sequences, series and arithmetic progression"
+            },
+            {
+              "id": "in-m11-ss-02",
+              "title": "Geometric progression"
+            },
+            {
+              "id": "in-m11-ss-03",
+              "title": "Arithmetic and geometric means"
+            },
+            {
+              "id": "in-m11-ss-04",
+              "title": "Special series"
+            }
+          ]
+        },
+        {
+          "id": "in-m11-sl",
+          "title": "Straight Lines",
+          "lessons": [
+            {
+              "id": "in-m11-sl-01",
+              "title": "Slope of a line"
+            },
+            {
+              "id": "in-m11-sl-02",
+              "title": "Equations of a line"
+            },
+            {
+              "id": "in-m11-sl-03",
+              "title": "General equation and distance from a line"
+            },
+            {
+              "id": "in-m11-sl-04",
+              "title": "Parallel and perpendicular lines"
+            }
+          ]
+        },
+        {
+          "id": "in-m11-cs",
+          "title": "Conic Sections",
+          "lessons": [
+            {
+              "id": "in-m11-cs-01",
+              "title": "Circle"
+            },
+            {
+              "id": "in-m11-cs-02",
+              "title": "Parabola"
+            },
+            {
+              "id": "in-m11-cs-03",
+              "title": "Ellipse"
+            },
+            {
+              "id": "in-m11-cs-04",
+              "title": "Hyperbola"
+            }
+          ]
+        },
+        {
+          "id": "in-m11-td",
+          "title": "Introduction to Three-dimensional Geometry",
+          "lessons": [
+            {
+              "id": "in-m11-td-01",
+              "title": "Coordinate axes and planes"
+            },
+            {
+              "id": "in-m11-td-02",
+              "title": "Coordinates of a point"
+            },
+            {
+              "id": "in-m11-td-03",
+              "title": "Distance between two points"
+            },
+            {
+              "id": "in-m11-td-04",
+              "title": "Section formula"
+            }
+          ]
+        },
+        {
+          "id": "in-m11-ld",
+          "title": "Limits and Derivatives",
+          "lessons": [
+            {
+              "id": "in-m11-ld-01",
+              "title": "Limits and algebra of limits"
+            },
+            {
+              "id": "in-m11-ld-02",
+              "title": "Standard limits"
+            },
+            {
+              "id": "in-m11-ld-03",
+              "title": "Derivative from first principles"
+            },
+            {
+              "id": "in-m11-ld-04",
+              "title": "Rules of differentiation"
+            }
+          ]
+        }
       ]
     },
     {
@@ -8933,6 +9065,181 @@
             {
               "id": "jp9m-ch8-l3",
               "title": "標本調査の利用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "subject": "Mathematics",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br11m-ch1",
+          "title": "Trigonometria",
+          "lessons": [
+            {
+              "id": "br11m-ch1-l1",
+              "title": "Razões trigonométricas no triângulo retângulo"
+            },
+            {
+              "id": "br11m-ch1-l2",
+              "title": "Ciclo trigonométrico: radianos, seno e cosseno"
+            }
+          ]
+        },
+        {
+          "id": "br11m-ch2",
+          "title": "Progressões aritméticas e geométricas",
+          "lessons": [
+            {
+              "id": "br11m-ch2-l1",
+              "title": "Progressão aritmética (PA)"
+            },
+            {
+              "id": "br11m-ch2-l2",
+              "title": "Progressão geométrica (PG)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "subject": "Physics",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br11p-ch1",
+          "title": "Termologia",
+          "lessons": [
+            {
+              "id": "br11p-ch1-l1",
+              "title": "Temperatura e escalas termométricas"
+            },
+            {
+              "id": "br11p-ch1-l2",
+              "title": "Calor, calorimetria e mudanças de estado"
+            }
+          ]
+        },
+        {
+          "id": "br11p-ch2",
+          "title": "Ondas e acústica",
+          "lessons": [
+            {
+              "id": "br11p-ch2-l1",
+              "title": "Ondas: período, frequência e velocidade"
+            },
+            {
+              "id": "br11p-ch2-l2",
+              "title": "Som e fenômenos ondulatórios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "subject": "Chemistry",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br11c-ch1",
+          "title": "Soluções e concentração",
+          "lessons": [
+            {
+              "id": "br11c-ch1-l1",
+              "title": "Concentração comum, molaridade e título"
+            },
+            {
+              "id": "br11c-ch1-l2",
+              "title": "Diluição e mistura de soluções"
+            }
+          ]
+        },
+        {
+          "id": "br11c-ch2",
+          "title": "Termoquímica e cinética química",
+          "lessons": [
+            {
+              "id": "br11c-ch2-l1",
+              "title": "Termoquímica: reações exotérmicas e endotérmicas"
+            },
+            {
+              "id": "br11c-ch2-l2",
+              "title": "Cinética química: velocidade das reações"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "subject": "Science",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br11s-ch1",
+          "title": "Classificação dos seres vivos e microrganismos",
+          "lessons": [
+            {
+              "id": "br11s-ch1-l1",
+              "title": "Taxonomia e domínios da vida"
+            },
+            {
+              "id": "br11s-ch1-l2",
+              "title": "Vírus, bactérias, protozoários e fungos"
+            }
+          ]
+        },
+        {
+          "id": "br11s-ch2",
+          "title": "Fisiologia humana",
+          "lessons": [
+            {
+              "id": "br11s-ch2-l1",
+              "title": "Sistemas digestório e respiratório"
+            },
+            {
+              "id": "br11s-ch2-l2",
+              "title": "Sistemas circulatório e excretor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "subject": "English",
+      "country": "BR",
+      "chapters": [
+        {
+          "id": "br11e-ch1",
+          "title": "Discurso indireto (Reported Speech)",
+          "lessons": [
+            {
+              "id": "br11e-ch1-l1",
+              "title": "Reported statements"
+            },
+            {
+              "id": "br11e-ch1-l2",
+              "title": "Reported questions and commands"
+            }
+          ]
+        },
+        {
+          "id": "br11e-ch2",
+          "title": "Orações relativas e Third Conditional",
+          "lessons": [
+            {
+              "id": "br11e-ch2-l1",
+              "title": "Relative clauses"
+            },
+            {
+              "id": "br11e-ch2-l2",
+              "title": "Third conditional"
             }
           ]
         }
