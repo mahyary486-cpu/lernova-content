@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The number of coordinate axes in three dimensions is|3|2|4|6|0|The x-, y- and z-axes.
+The number of coordinate planes is|2|3|4|6|1|XY, YZ and ZX planes.
+The number of octants is|4|6|8|12|2|The three planes divide space into 8 parts.
+The origin in three dimensions is|(1, 1, 1)|(0, 0, 1)|(1, 0, 0)|(0, 0, 0)|3|Where the three axes meet.
+A point on the x-axis has coordinates|(a, 0, 0)|(0, a, 0)|(0, 0, a)|(a, a, 0)|0|y = z = 0.
+A point on the y-axis has coordinates|(a, 0, 0)|(0, b, 0)|(0, 0, b)|(a, b, 0)|1|x = z = 0.
+A point on the z-axis has coordinates|(c, 0, 0)|(0, c, 0)|(0, 0, c)|(c, c, 0)|2|x = y = 0.
+The plane containing the x- and y-axes is the|YZ-plane|ZX-plane|none of these|XY-plane|3|z = 0.
+The equation of the XY-plane is|z = 0|x = 0|y = 0|x + y = 0|0|Every point has z = 0.
+The equation of the YZ-plane is|y = 0|x = 0|z = 0|x + z = 0|1|Every point has x = 0.
+The equation of the ZX-plane is|x = 0|z = 0|y = 0|y + z = 0|2|Every point has y = 0.
+A point in the XY-plane has|x = 0|y = 0|z = 1|z = 0|3|Its height above the plane is zero.
+The coordinates (x, y, z) of a point are its|signed perpendicular distances from the three coordinate planes|distances from the axes|angles with the axes|areas|0|x from YZ, y from ZX and z from XY.
+The point (2, 3, 4) lies in the|second octant|first octant|third octant|eighth octant|1|All coordinates are positive.
+The point (−1, 2, 3) lies in the|first octant|third octant|second octant|fourth octant|2|x negative, y and z positive.
+The perpendicular distance of (3, 4, 5) from the XY-plane is|3|4|√50|5|3|The z-coordinate.
+The perpendicular distance of (3, 4, 5) from the YZ-plane is|3|4|5|√34|0|The x-coordinate.
+The distance of (3, 4, 0) from the origin is|7|5|√7|25|1|√(9 + 16).
+The distance of (1, 2, 2) from the origin is|5|9|3|√5|2|√(1 + 4 + 4).
+The distance formula in three dimensions is|(x₂ − x₁) + (y₂ − y₁) + (z₂ − z₁)|√((x₂ − x₁)² + (y₂ − y₁)²)|(x₂ − x₁)² + (y₂ − y₁)² + (z₂ − z₁)²|√((x₂ − x₁)² + (y₂ − y₁)² + (z₂ − z₁)²)|3|Extension of Pythagoras.
+The distance between (1, 2, 3) and (4, 6, 15) is|13|12|15|9|0|√(9 + 16 + 144).
+The distance between (0, 0, 0) and (2, 3, 6) is|11|7|5|49|1|√(4 + 9 + 36).
+The distance between (1, 1, 1) and (2, 2, 2) is|3|1|√3|√2|2|√(1 + 1 + 1).
+The midpoint of (2, 4, 6) and (4, 6, 8) is|(6, 10, 14)|(1, 1, 1)|(2, 3, 4)|(3, 5, 7)|3|Average of each coordinate.
+The midpoint of (−2, 0, 4) and (2, 6, −2) is|(0, 3, 1)|(0, 3, 2)|(−1, 3, 1)|(0, 6, 2)|0|Average of each coordinate.
+The reflection of (1, 2, 3) in the XY-plane is|(−1, 2, 3)|(1, 2, −3)|(1, −2, 3)|(−1, −2, −3)|1|Only z changes sign.
+The foot of the perpendicular from (1, 2, 3) to the x-axis is|(0, 2, 0)|(0, 0, 3)|(1, 0, 0)|(1, 2, 0)|2|Keep x, set y = z = 0.
+The foot of the perpendicular from (1, 2, 3) to the XY-plane is|(1, 0, 3)|(0, 2, 3)|(0, 0, 3)|(1, 2, 0)|3|Set z = 0.
+By the section formula, the x-coordinate of the point dividing P₁P₂ internally in the ratio m : n is|(mx₂ + nx₁)/(m + n)|(mx₁ + nx₂)/(m + n)|(x₁ + x₂)/2|(mx₂ − nx₁)/(m − n)|0|m goes with the second point.
+The point dividing (1, 2, 3) and (4, 5, 6) in the ratio 1 : 2 is|(3, 4, 5)|(2, 3, 4)|(2.5, 3.5, 4.5)|(1, 2, 3)|1|(4 + 2)/3 = 2, and so on.
+The centroid of the triangle with vertices (0, 0, 0), (3, 0, 0) and (0, 3, 0) is|(3, 3, 0)|(1.5, 1.5, 0)|(1, 1, 0)|(0, 0, 0)|2|Average of the coordinates.
+The distance between (1, 0, 0) and (0, 1, 0) is|1|2|√3|√2|3|√(1 + 1).
+The distance of (3, 4, 12) from the origin is|13|19|5|√19|0|√(9 + 16 + 144).
+The distance of (a, b, c) from the x-axis is|a|√(b² + c²)|√(a² + b²)|√(a² + c²)|1|Ignore the x-coordinate.
+The distance of (a, b, c) from the origin is|a + b + c|a² + b² + c²|√(a² + b² + c²)|abc|2|By the distance formula.
+The octant in which x > 0, y < 0, z > 0 is the|second|third|sixth|fourth|3|Octant IV is (+, −, +).
+The point on the y-axis equidistant from (3, 1, 2) and (5, 5, 4) is|(0, 13/2, 0)|(0, 6, 0)|(0, 7, 0)|(0, 5, 0)|0|Equating the squared distances gives 8y = 52.
+The points (0, 0, 0), (3, 0, 0) and (0, 4, 0) form|an equilateral triangle|a right-angled triangle|an isosceles triangle only|a straight line|1|Sides 3, 4, 5.
+The points (1, 2, 3), (2, 3, 4) and (3, 4, 5) are|vertices of a triangle|vertices of a square|collinear|the same point|2|AB + BC = AC.
+The XY-plane divides the segment joining (1, 2, 3) and (4, 5, −6) in the ratio|2 : 1|1 : 1|3 : 1|1 : 2|3|(−6k + 3)/(k + 1) = 0.
+The YZ-plane divides the segment joining (−2, 4, 7) and (3, −5, 8) in the ratio|2 : 3|3 : 2|1 : 2|1 : 1|0|(3k − 2)/(k + 1) = 0.
+The centroid of the triangle with vertices (1, 2, 3), (4, 5, 6) and (7, 8, 9) is|(12, 15, 18)|(4, 5, 6)|(3, 4, 5)|(2, 3, 4)|1|Average of the coordinates.
+The diagonal of a cube of side a has length|a√2|2a|a√3|3a|2|√(a² + a² + a²).
+The distance between (a, 0, 0) and (0, a, 0) is|a|2a|√a|a√2|3|√(a² + a²).
+The point equidistant from (0, 0, 0), (a, 0, 0), (0, a, 0) and (0, 0, a) is|(a/2, a/2, a/2)|(a, a, a)|(a/3, a/3, a/3)|(0, 0, 0)|0|The centre of the cube.
+The set of points at distance 5 from the origin in space is|x + y + z = 5|x² + y² + z² = 25|x² + y² = 25|xyz = 5|1|A sphere.
+The distance between (2, −1, 3) and (−2, 1, 3) is|4|6|2√5|2√3|2|√(16 + 4 + 0).
+The points A(3, 2, −4), B(5, 4, −6) and C(9, 8, −10) are collinear because|AB = BC|AC = 0|AB² + BC² = AC²|AB + BC = AC|3|2√3 + 4√3 = 6√3.
+The point (−2, −3, −4) lies in the|seventh octant|first octant|third octant|fifth octant|0|All coordinates are negative.
+The distance of (1, −2, 3) from the x-axis is|√10|√13|√5|√14|1|√(4 + 9).

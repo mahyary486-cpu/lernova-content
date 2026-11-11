@@ -1,0 +1,6 @@
+{
+ "Limits and algebra of limits": "Limits follow the algebra of limits.",
+ "Standard limits": "Know the standard limits.",
+ "Derivative from first principles": "f′(x) = lim (f(x + h) − f(x))/h.",
+ "Rules of differentiation": "Power, sum, product and quotient rules."
+}

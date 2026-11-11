@@ -1,0 +1,6 @@
+{
+ "Circle": "(x − h)² + (y − k)² = r².",
+ "Parabola": "y² = 4ax: focus (a, 0), directrix x = −a.",
+ "Ellipse": "x²/a² + y²/b² = 1; c² = a² − b².",
+ "Hyperbola": "x²/a² − y²/b² = 1; c² = a² + b²."
+}
