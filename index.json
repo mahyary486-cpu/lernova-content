@@ -9348,6 +9348,157 @@
      ]
     }
    ]
-  }
+  },
+    {
+      "grade": 12,
+      "subject": "Mathematics",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn12m-ch1",
+          "title": "复数",
+          "lessons": [
+            {
+              "id": "cn12m-ch1-l1",
+              "title": "复数的概念"
+            },
+            {
+              "id": "cn12m-ch1-l2",
+              "title": "复数的运算"
+            },
+            {
+              "id": "cn12m-ch1-l3",
+              "title": "复数的几何意义"
+            }
+          ]
+        },
+        {
+          "id": "cn12m-ch2",
+          "title": "函数与导数综合",
+          "lessons": [
+            {
+              "id": "cn12m-ch2-l1",
+              "title": "函数性质的综合应用"
+            },
+            {
+              "id": "cn12m-ch2-l2",
+              "title": "导数与不等式恒成立"
+            },
+            {
+              "id": "cn12m-ch2-l3",
+              "title": "导数与函数的零点"
+            }
+          ]
+        },
+        {
+          "id": "cn12m-ch3",
+          "title": "三角函数与解三角形综合",
+          "lessons": [
+            {
+              "id": "cn12m-ch3-l1",
+              "title": "三角恒等变换"
+            },
+            {
+              "id": "cn12m-ch3-l2",
+              "title": "函数 y = A sin(ωx + φ) 的图象与性质"
+            },
+            {
+              "id": "cn12m-ch3-l3",
+              "title": "解三角形综合"
+            }
+          ]
+        },
+        {
+          "id": "cn12m-ch4",
+          "title": "数列综合",
+          "lessons": [
+            {
+              "id": "cn12m-ch4-l1",
+              "title": "递推数列的通项公式"
+            },
+            {
+              "id": "cn12m-ch4-l2",
+              "title": "错位相减与裂项求和"
+            },
+            {
+              "id": "cn12m-ch4-l3",
+              "title": "数列的综合应用"
+            }
+          ]
+        },
+        {
+          "id": "cn12m-ch5",
+          "title": "立体几何综合",
+          "lessons": [
+            {
+              "id": "cn12m-ch5-l1",
+              "title": "线面位置关系的证明"
+            },
+            {
+              "id": "cn12m-ch5-l2",
+              "title": "空间角与距离的综合"
+            },
+            {
+              "id": "cn12m-ch5-l3",
+              "title": "几何体的外接球与体积"
+            }
+          ]
+        },
+        {
+          "id": "cn12m-ch6",
+          "title": "解析几何综合",
+          "lessons": [
+            {
+              "id": "cn12m-ch6-l1",
+              "title": "直线与圆锥曲线的位置关系"
+            },
+            {
+              "id": "cn12m-ch6-l2",
+              "title": "中点弦与定值问题"
+            },
+            {
+              "id": "cn12m-ch6-l3",
+              "title": "最值与范围问题"
+            }
+          ]
+        },
+        {
+          "id": "cn12m-ch7",
+          "title": "概率统计综合",
+          "lessons": [
+            {
+              "id": "cn12m-ch7-l1",
+              "title": "排列组合与古典概型"
+            },
+            {
+              "id": "cn12m-ch7-l2",
+              "title": "分布列、期望与方差的应用"
+            },
+            {
+              "id": "cn12m-ch7-l3",
+              "title": "统计案例综合"
+            }
+          ]
+        },
+        {
+          "id": "cn12m-ch8",
+          "title": "数学思想方法与不等式",
+          "lessons": [
+            {
+              "id": "cn12m-ch8-l1",
+              "title": "基本不等式与最值问题"
+            },
+            {
+              "id": "cn12m-ch8-l2",
+              "title": "不等式恒成立与绝对值不等式"
+            },
+            {
+              "id": "cn12m-ch8-l3",
+              "title": "数学思想方法"
+            }
+          ]
+        }
+      ]
+    }
  ]
 }
