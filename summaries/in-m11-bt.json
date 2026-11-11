@@ -1,0 +1,6 @@
+{
+ "Binomial theorem for a positive integral index": "(a + b)ⁿ has n + 1 terms with coefficients ⁿCᵣ.",
+ "General term and middle term": "Tᵣ₊₁ = ⁿCᵣ aⁿ⁻ʳ bʳ.",
+ "Pascal's triangle and properties": "Rows of Pascal's triangle are the coefficients.",
+ "Applications of the binomial theorem": "Coefficients, independent terms and approximations."
+}

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The slope of a line with inclination θ is|tan θ|sin θ|cos θ|cot θ|0|For θ ≠ 90°.
+The slope of the x-axis is|1|0|undefined|−1|1|It is horizontal.
+The slope of a vertical line is|0|1|undefined|−1|2|tan 90° is not defined.
+The slope of the line through (x₁, y₁) and (x₂, y₂) is|(x₂ − x₁)/(y₂ − y₁)|(y₁ + y₂)/(x₁ + x₂)|y₂ − y₁|(y₂ − y₁)/(x₂ − x₁)|3|Rise over run.
+The equation of the x-axis is|y = 0|x = 0|y = x|x + y = 0|0|Every point has y-coordinate 0.
+The equation of the y-axis is|y = 0|x = 0|y = x|x + y = 0|1|Every point has x-coordinate 0.
+The slope-intercept form of a line is|y − y₁ = m(x − x₁)|x/a + y/b = 1|y = mx + c|ax + by + c = 0|2|c is the y-intercept.
+The point-slope form of a line is|y = mx + c|x/a + y/b = 1|ax + by = c|y − y₁ = m(x − x₁)|3|The line passes through (x₁, y₁).
+The intercept form of a line is|x/a + y/b = 1|y = mx + c|y − y₁ = m(x − x₁)|ax + by = 0|0|a and b are the intercepts.
+Parallel lines have|slopes with product −1|equal slopes|no slope|different slopes|1|m₁ = m₂.
+The slopes of perpendicular lines have product|1|0|−1|2|2|m₁m₂ = −1.
+The slope of the line y = 3x + 2 is|2|−3|1/3|3|3|The coefficient of x.
+The equation of the line through the origin with slope 2 is|y = 2x|y = x + 2|x = 2y|y = 2|0|c = 0.
+The slope of the line x + y = 1 is|1|−1|0|undefined|1|y = −x + 1.
+The y-intercept of y = 2x + 5 is|2|−5|5|−2|2|Put x = 0.
+The x-intercept of x/3 + y/4 = 1 is|4|12|1|3|3|The denominator of x.
+A line parallel to the x-axis has the equation|y = k|x = k|y = x|x + y = k|0|All points have the same y.
+The slope of the line through (1, 2) and (3, 6) is|1/2|2|4|−2|1|4/2.
+The slope of the line through (0, 0) and (3, 3) is|0|3|1|undefined|2|3/3.
+The line through (1, 2) with slope 3 is|y + 2 = 3(x + 1)|y = 3x|y − 1 = 3(x − 2)|y − 2 = 3(x − 1)|3|Point-slope form.
+The line through (1, 2) and (3, 6) is|y = 2x|y = x + 1|y = 3x − 1|y = 2x + 1|0|Slope 2 and passes through the origin.
+The angle θ between two lines with slopes m₁ and m₂ satisfies tan θ =|(m₁ + m₂)/(1 − m₁m₂)|∣(m₂ − m₁)/(1 + m₁m₂)∣|m₁m₂|m₁ − m₂|1|The angle between two lines.
+The lines y = x and y = −x are|parallel|coincident|perpendicular|at 45° to each other|2|m₁m₂ = −1.
+The slope of the line 2x + 3y = 6 is|2/3|−3/2|3/2|−2/3|3|y = −(2/3)x + 2.
+The intercepts of 2x + 3y = 6 on the x-axis and y-axis are|3 and 2|2 and 3|6 and 6|−3 and −2|0|x/3 + y/2 = 1.
+The distance of the origin from 3x + 4y − 5 = 0 is|5|1|7|3/5|1|∣−5∣/5.
+The distance of (1, 1) from x + y − 4 = 0 is|2|2√2|√2|1|2|∣1 + 1 − 4∣/√2.
+The distance of (x₁, y₁) from Ax + By + C = 0 is|∣Ax₁ + By₁∣/(A + B)|(Ax₁ + By₁ + C)/(A + B)|√(A² + B²)|∣Ax₁ + By₁ + C∣/√(A² + B²)|3|The standard formula.
+The line through the origin parallel to 2x + y = 3 is|2x + y = 0|x + 2y = 0|2x − y = 0|y = 3|0|The same slope −2.
+The line through the origin perpendicular to y = 2x is|2x + y = 0|x + 2y = 0|x − 2y = 0|y = x|1|Slope −1/2.
+The slope of a line perpendicular to a line of slope 3 is|1/3|−3|−1/3|3|2|m₁m₂ = −1.
+The vertical line through (4, 5) is|y = 5|x + y = 9|y = x + 1|x = 4|3|All points have x = 4.
+The horizontal line through (4, 5) is|y = 5|x = 4|y = x + 1|x + y = 9|0|All points have y = 5.
+Three collinear points A, B, C have|different slopes|equal slopes for AB and BC|slope zero|undefined slopes|1|They lie on one line.
+The line through (2, 3) parallel to the x-axis is|x = 2|y = 2|y = 3|x = 3|2|Constant y.
+The angle of inclination of a line of slope 1 is|30°|60°|90°|45°|3|tan 45° = 1.
+The distance between the parallel lines 3x + 4y = 5 and 3x + 4y = 15 is|2|10|5|1|0|∣15 − 5∣/5.
+The lines x + y = 5 and x − y = 1 meet at|(2, 3)|(3, 2)|(4, 1)|(1, 4)|1|Adding gives 2x = 6.
+The line through (2, 3) perpendicular to x + 2y = 1 is|x + 2y − 8 = 0|2x + y − 7 = 0|2x − y − 1 = 0|x − 2y + 4 = 0|2|The perpendicular has slope 2.
+The acute angle between y = x and y = √3 x is|30°|45°|60°|15°|3|tan θ = 2 − √3.
+The area of the triangle formed by x/2 + y/3 = 1 with the axes is|3|6|5|1|0|½ × 2 × 3.
+The line through (1, 2) with equal intercepts is|x − y = 3|x + y = 3|x + y = 2|x = 3|1|x/a + y/a = 1 with a = 3.
+The length of the perpendicular from the origin to x/a + y/b = 1 is|√(a² + b²)|a + b|ab/√(a² + b²)|ab|2|Write the line as bx + ay − ab = 0.
+The line with slope −1 through (0, 4) has x-intercept|−4|1|0|4|3|y = −x + 4.
+If kx + 2y = 3 and 2x + y = 1 are parallel, then k =|4|1|2|−4|0|k/2 = 2/1.
+If 3x + ky = 1 and 2x + 3y = 5 are perpendicular, then k =|2|−2|3|−3|1|(−3/k)(−2/3) = −1.
+The line with y-intercept 3 and slope 2 is|y = 3x + 2|y = 2x − 3|y = 2x + 3|2y = x + 3|2|Slope-intercept form.
+The reflection of (3, 4) in the x-axis is|(−3, 4)|(−3, −4)|(4, 3)|(3, −4)|3|Change the sign of y.
+The foot of the perpendicular from the origin to x + y = 2 is|(1, 1)|(2, 0)|(0, 2)|(2, 2)|0|It lies on y = x.
+The midpoint of the intercepts of 2x + 3y = 12 on the axes, (6, 0) and (0, 4), is|(6, 4)|(3, 2)|(2, 3)|(4, 6)|1|Average the coordinates.
