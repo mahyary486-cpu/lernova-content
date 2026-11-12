@@ -1,0 +1,51 @@
+#EEEMMMMHHHEEEMMMMMHHEEEMMMMHHHEEEMMMMMHHEEEMMMMHHH
+How many points are needed to name one specific line?|1|3|2|4|2|Two different points determine exactly one line. One point lies on infinitely many lines, so one point is not enough.
+Points that lie on the same line are called:|coplanar|congruent|parallel|collinear|3|The prefix 'col' refers to a line. Points on one line are collinear; points in one plane are coplanar.
+How many points, not all on one line, determine a plane?|3|2|4|5|0|Two points only give a line, and many planes contain a line. Three points that are not on one line fix exactly one plane.
+B is between A and C. AB = 5 and BC = 9. Find AC.|4|14|9|45|1|Segment Addition Postulate: AB + BC = AC. 5 + 9 = 14.
+B is between A and C, AB = x + 2, BC = 2x - 1 and AC = 19. Find x.|5|7|6|9|2|Segment Addition: (x + 2) + (2x - 1) = 19. Combine like terms: 3x + 1 = 19, so 3x = 18. x = 6.
+Ray BD bisects angle ABC, and angle ABC = 84 degrees. Find angle ABD.|84 degrees|21 degrees|168 degrees|42 degrees|3|A bisector splits the angle into two equal parts. 84 / 2 = 42.
+Two angles are complementary and measure 2x and x + 15 degrees. Find x.|25|15|30|35|0|Complementary angles add to 90: 2x + (x + 15) = 90. 3x + 15 = 90, so 3x = 75. x = 25 (the angles are 50 and 40 degrees).
+The midpoint of the segment from (a, b) to (4, 10) is (1, 3). Find a + b.|6|-6|-2|2|1|x: (a + 4)/2 = 1, so a + 4 = 2 and a = -2. y: (b + 10)/2 = 3, so b + 10 = 6 and b = -4. a + b = -2 + (-4) = -6.
+Find the perimeter of the triangle with vertices (0, 0), (3, 4) and (3, 0).|10|14|12|7|2|Distance (0,0) to (3,4): sqrt(9 + 16) = 5. Distance (3,4) to (3,0): 4. Distance (3,0) to (0,0): 3. Perimeter = 5 + 4 + 3 = 12.
+Which point on the x-axis is equally far from (0, 3) and (4, 1)?|(2, 0)|(-1, 0)|(4, 0)|(1, 0)|3|Let the point be (x, 0). Set the squared distances equal: x^2 + 9 = (x - 4)^2 + 1. Expand: x^2 + 9 = x^2 - 8x + 17, so 9 = -8x + 17. 8x = 8, so x = 1. The point is (1, 0).
+Which statement describes a ray?|It has one endpoint and goes on forever in one direction|It has two endpoints|It goes on forever in both directions|It is a closed curve|0|A segment has two endpoints; a line goes both ways. A ray starts at one point and extends forever in one direction.
+M is the midpoint of segment AB and AM = 6. What is AB?|3|12|6|18|1|A midpoint splits a segment into two equal parts, so MB = AM = 6. AB = AM + MB = 6 + 6 = 12.
+An angle that measures exactly 90 degrees is called:|acute|obtuse|right|straight|2|Acute is less than 90, obtuse is between 90 and 180, straight is 180. Exactly 90 degrees is a right angle.
+Two angles are supplementary and measure (3x + 10) and (5x - 30) degrees. Find x.|20|30|35|25|3|Supplementary angles add to 180: (3x + 10) + (5x - 30) = 180. 8x - 20 = 180, so 8x = 200. x = 25.
+Vertical angles measure (4x + 7) and (6x - 13) degrees. Find x.|10|5|12|20|0|Vertical angles are equal: 4x + 7 = 6x - 13. Subtract 4x and add 13: 20 = 2x. x = 10.
+Find the distance between (1, 2) and (4, 6).|7|5|25|3|1|Distance formula: d = sqrt((x2 - x1)^2 + (y2 - y1)^2). The differences are 3 and 4, so d = sqrt(9 + 16). sqrt(25) = 5.
+Find the distance between (-2, 3) and (4, -5).|14|2|10|100|2|The x difference is 4 - (-2) = 6 and the y difference is -5 - 3 = -8. d = sqrt(36 + 64) = sqrt(100). d = 10.
+Find the midpoint of the segment with endpoints (2, -4) and (8, 10).|(10, 6)|(3, 7)|(6, -7)|(5, 3)|3|x: (2 + 8)/2 = 5. y: (-4 + 10)/2 = 3. The midpoint is (5, 3).
+Two angles are supplementary. One is 20 degrees more than three times the other. Find the smaller angle.|40 degrees|35 degrees|45 degrees|140 degrees|0|Let the smaller angle be x. The other is 3x + 20. x + 3x + 20 = 180, so 4x = 160. x = 40 (the other angle is 140).
+A 270 degree counterclockwise rotation about the origin uses (x, y) -> (y, -x). Where does (3, -2) go?|(2, 3)|(-2, -3)|(2, -3)|(-3, 2)|1|Here x = 3 and y = -2. The new x is y = -2. The new y is -x = -3. The image is (-2, -3).
+An angle that measures 120 degrees is called:|acute|right|obtuse|straight|2|120 is greater than 90 and less than 180. That makes it an obtuse angle.
+What is the complement of a 30 degree angle?|150 degrees|90 degrees|120 degrees|60 degrees|3|Complementary angles add up to 90 degrees. 90 - 30 = 60.
+What is the supplement of a 110 degree angle?|70 degrees|20 degrees|80 degrees|250 degrees|0|Supplementary angles add up to 180 degrees. 180 - 110 = 70.
+M(3, 1) is the midpoint of segment AB and A is (1, -1). Find B.|(2, 0)|(5, 3)|(4, 0)|(7, 3)|1|Each midpoint coordinate is the average of the endpoints, so B = 2M - A. x: 2(3) - 1 = 5. y: 2(1) - (-1) = 3. So B is (5, 3).
+Rotate (2, 5) by 90 degrees counterclockwise about the origin. What is the image?|(5, -2)|(-2, -5)|(-5, 2)|(5, 2)|2|The rule for 90 degrees counterclockwise is (x, y) -> (-y, x). (-5, 2) is the result.
+Rotate (-3, 4) by 180 degrees about the origin. What is the image?|(-3, -4)|(3, 4)|(4, 3)|(3, -4)|3|A 180 degree rotation uses (x, y) -> (-x, -y). (-(-3), -4) = (3, -4).
+What is the reflection of (4, -1) across the y-axis?|(-4, -1)|(4, 1)|(-4, 1)|(-1, 4)|0|Reflecting across the y-axis changes the sign of x and keeps y. (x, y) -> (-x, y), so (4, -1) -> (-4, -1).
+The point (2, 3) is reflected across the x-axis and then translated by (x, y) -> (x + 1, y + 4). Where does it end up?|(3, 7)|(3, 1)|(1, 7)|(-1, 1)|1|Reflect across the x-axis: (2, 3) -> (2, -3). Translate: (2 + 1, -3 + 4) = (3, 1).
+A dilation about the origin maps (2, 5) to (6, 15). By what factor is the area of any figure multiplied?|3|6|9|27|2|The scale factor is 6/2 = 3. Areas change by the square of the scale factor. 3^2 = 9.
+What is the smallest positive rotation that maps a regular octagon onto itself?|30 degrees|60 degrees|90 degrees|45 degrees|3|A regular octagon has 8 identical turns. 360 / 8 = 45.
+Vertical angles are always:|equal in measure|complementary|supplementary|right angles|0|Vertical angles are opposite each other when two lines cross. They always have the same measure.
+The translation (x, y) -> (x + 3, y - 2) is applied to the point (1, 1). Where does it go?|(4, 3)|(4, -1)|(-2, 3)|(-2, -1)|1|Add 3 to the x-coordinate: 1 + 3 = 4. Subtract 2 from the y-coordinate: 1 - 2 = -1. The image is (4, -1).
+What is the reflection of the point (3, 5) across the x-axis?|(-3, 5)|(-3, -5)|(3, -5)|(5, 3)|2|Reflecting across the x-axis keeps x and changes the sign of y. (x, y) -> (x, -y), so (3, 5) -> (3, -5).
+What is the reflection of (2, 7) across the line y = x?|(-2, -7)|(2, -7)|(-7, 2)|(7, 2)|3|Reflecting across y = x swaps the coordinates. (x, y) -> (y, x), so (2, 7) -> (7, 2).
+A translation moves A(2, 3) to A'(5, 1). Where does (-1, 4) go under the same translation?|(2, 2)|(-4, 6)|(2, 6)|(4, 2)|0|Find the shift: x changes by 5 - 2 = +3, y changes by 1 - 3 = -2. Apply it to (-1, 4): (-1 + 3, 4 - 2) = (2, 2).
+A triangle has a vertex at (0, 4). After a dilation with scale factor 2 about the origin, where is that vertex?|(0, 6)|(0, 8)|(0, 2)|(4, 8)|1|Multiply both coordinates by 2. (0 * 2, 4 * 2) = (0, 8).
+A dilation with scale factor 1/2 about the origin is applied to (8, -6). What is the image?|(16, -12)|(4, 3)|(4, -3)|(8, -3)|2|Multiply each coordinate by 1/2. (8/2, -6/2) = (4, -3).
+Which transformation is NOT a rigid motion?|A translation|A reflection|A rotation|A dilation with scale factor 2|3|Rigid motions keep distances and angle measures. A dilation by 2 doubles every distance, so the image is not congruent. Translations, reflections and rotations are rigid.
+M(-1, 4) is the midpoint of PQ and P is (-5, 6). Find Q.|(3, 2)|(-3, 5)|(-9, 8)|(3, -2)|0|Q = 2M - P. x: 2(-1) - (-5) = -2 + 5 = 3. y: 2(4) - 6 = 2. So Q = (3, 2).
+The point (a, 0) with a > 0 is 13 units from (0, 5). Find a.|8|12|10|18|1|Distance formula: a^2 + 5^2 = 13^2. a^2 + 25 = 169, so a^2 = 144. a = 12 (positive).
+What is the midpoint of the segment with endpoints (0, 0) and (6, 8)?|(6, 8)|(12, 16)|(3, 4)|(4, 3)|2|Use M = ((x1 + x2)/2, (y1 + y2)/2). x: (0 + 6)/2 = 3 and y: (0 + 8)/2 = 4.
+A dilation with scale factor 3 about the origin is applied to (2, 1). What is the image?|(5, 4)|(6, 1)|(2/3, 1/3)|(6, 3)|3|A dilation about the origin multiplies both coordinates by the scale factor. (2 * 3, 1 * 3) = (6, 3).
+A figure has line symmetry if:|a line divides it into two mirror-image halves|it has exactly three sides|it can be slid without changing|all of its angles are right angles|0|Line symmetry means a fold line matches one half exactly onto the other. That is the idea of mirror-image halves.
+What is the smallest positive rotation that maps a regular hexagon onto itself?|30 degrees|60 degrees|90 degrees|120 degrees|1|A regular hexagon has 6 identical turns around its center. 360 / 6 = 60.
+How many lines of symmetry does a rectangle that is not a square have?|1|4|2|0|2|One line passes through the midpoints of the long sides. Another passes through the midpoints of the short sides. The diagonals are not lines of symmetry, so there are 2.
+On a number line, A is at -3 and B is at 9. What is the coordinate of the midpoint?|6|12|-6|3|3|Average the coordinates: (-3 + 9)/2. 6/2 = 3.
+Ray BD is inside angle ABC. Angle ABC = 150 degrees, angle ABD = 4x and angle DBC = 2x + 30. Find x.|20|15|25|30|0|Angle Addition Postulate: 4x + (2x + 30) = 150. 6x + 30 = 150, so 6x = 120. x = 20.
+E is between D and F. DE = 2x + 3, EF = 3x - 1 and DF = 22. Find EF.|8|11|4|22|1|Segment Addition: (2x + 3) + (3x - 1) = 22. 5x + 2 = 22, so x = 4. EF = 3(4) - 1 = 11.
+Two lines cross. One angle is (3x + 12) degrees and an adjacent angle is (2x + 8) degrees. Find the larger angle.|72 degrees|32 degrees|108 degrees|98 degrees|2|Adjacent angles on a line are supplementary: (3x + 12) + (2x + 8) = 180. 5x + 20 = 180, so x = 32. 3x + 12 = 108 and 2x + 8 = 72, so the larger angle is 108 degrees.
+The point (1, 2) is reflected across y = x and then rotated 90 degrees counterclockwise about the origin. Where does it end up?|(1, -2)|(-2, -1)|(2, -1)|(-1, 2)|3|Reflect across y = x: (1, 2) -> (2, 1). Rotate 90 degrees counterclockwise: (x, y) -> (-y, x), so (2, 1) -> (-1, 2).
