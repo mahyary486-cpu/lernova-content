@@ -1,0 +1,4 @@
+{
+  "Princípio fundamental da contagem e agrupamentos": "O princípio multiplicativo diz que, se uma etapa tem m possibilidades e outra tem n, o total é m · n. Permutação de n elementos: n!. Permutação com repetição: n!/(a! · b!). Arranjo A(n,p) = n!/(n − p)! (a ordem importa). Combinação C(n,p) = n!/[p! · (n − p)!] (a ordem não importa). A permutação circular de n elementos vale (n − 1)!.",
+  "Probabilidade": "A probabilidade de um evento é P = casos favoráveis ÷ casos possíveis, com 0 ≤ P ≤ 1 (0 para o impossível e 1 para o certo). Para eventos independentes, P(A e B) = P(A) · P(B). A probabilidade do evento complementar é 1 − P. Em sorteios sem reposição, as probabilidades se ajustam a cada retirada."
+}

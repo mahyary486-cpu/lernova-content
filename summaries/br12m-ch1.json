@@ -1,0 +1,4 @@
+{
+  "Ponto e reta no plano cartesiano": "A distância entre A(x₁, y₁) e B(x₂, y₂) é d = √[(x₂ − x₁)² + (y₂ − y₁)²] e o ponto médio é ((x₁ + x₂)/2, (y₁ + y₂)/2). A reta y = ax + b tem coeficiente angular a. Retas paralelas têm o mesmo a; retas perpendiculares têm a₁ · a₂ = −1. A distância de um ponto à reta ax + by + c = 0 é |ax₀ + by₀ + c|/√(a² + b²).",
+  "Circunferência": "A circunferência de centro (a, b) e raio r tem equação (x − a)² + (y − b)² = r². Para x² + y² − 4x + 6y − 12 = 0, completa-se o quadrado e obtém-se centro (2, −3) e raio 5. Um ponto está sobre a circunferência quando sua distância ao centro é igual ao raio, no interior quando é menor e no exterior quando é maior."
+}
