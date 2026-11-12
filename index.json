@@ -9555,5 +9555,5 @@
     }
    ]
   }
- ]
+ ,{"grade": 11, "subject": "Physics", "country": "IN", "chapters": [{"id": "in-p11-um", "title": "Units and Measurements", "lessons": [{"id": "in-p11-um-01", "title": "SI units and physical quantities"}, {"id": "in-p11-um-02", "title": "Dimensions and dimensional analysis"}, {"id": "in-p11-um-03", "title": "Accuracy, precision and errors"}, {"id": "in-p11-um-04", "title": "Significant figures"}]}, {"id": "in-p11-ms", "title": "Motion in a Straight Line", "lessons": [{"id": "in-p11-ms-01", "title": "Position, displacement, speed and velocity"}, {"id": "in-p11-ms-02", "title": "Acceleration and graphs"}, {"id": "in-p11-ms-03", "title": "Equations of motion"}, {"id": "in-p11-ms-04", "title": "Free fall and relative velocity"}]}, {"id": "in-p11-mp", "title": "Motion in a Plane", "lessons": [{"id": "in-p11-mp-01", "title": "Vectors"}, {"id": "in-p11-mp-02", "title": "Projectile motion"}, {"id": "in-p11-mp-03", "title": "Uniform circular motion"}, {"id": "in-p11-mp-04", "title": "Relative velocity in a plane"}]}]}]
 }

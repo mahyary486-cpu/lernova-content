@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The SI unit of length is the|metre|kilometre|centimetre|mile|0|One of the seven base units.
+The SI unit of mass is the|gram|kilogram|quintal|tonne|1|The base unit of mass.
+The SI unit of time is the|minute|hour|second|day|2|The base unit of time.
+The SI unit of electric current is the|volt|coulomb|ohm|ampere|3|A base unit.
+The SI unit of thermodynamic temperature is the|kelvin|degree Celsius|degree Fahrenheit|joule|0|A base unit.
+The SI unit of luminous intensity is the|lumen|candela|lux|watt|1|A base unit.
+The SI unit of amount of substance is the|gram|kilogram|mole|litre|2|A base unit.
+The number of base quantities in the SI system is|5|6|9|7|3|Length, mass, time, current, temperature, amount and luminous intensity.
+The dimension of length is|[L]|[M]|[T]|[LT⁻¹]|0|Written in square brackets.
+The dimension of mass is|[L]|[M]|[T]|[ML]|1|A base dimension.
+The dimension of time is|[M]|[L]|[T]|[LT]|2|A base dimension.
+The dimensions of velocity are|[LT⁻²]|[L²T⁻¹]|[MLT⁻¹]|[LT⁻¹]|3|Length over time.
+The dimensions of acceleration are|[LT⁻²]|[LT⁻¹]|[L²T⁻²]|[MLT⁻²]|0|Velocity over time.
+The dimensions of force are|[ML²T⁻²]|[MLT⁻²]|[MLT⁻¹]|[MLT⁻³]|1|F = ma.
+The SI unit of force is the|joule|watt|newton|pascal|2|kg m s⁻².
+The SI unit of energy is the|newton|watt|pascal|joule|3|N m.
+The SI unit of power is the|watt|joule|newton|pascal|0|J s⁻¹.
+The dimensions of work or energy are|[MLT⁻²]|[ML²T⁻²]|[ML²T⁻³]|[MLT⁻¹]|1|Force times distance.
+The dimensions of power are|[ML²T⁻²]|[MLT⁻³]|[ML²T⁻³]|[MLT⁻²]|2|Energy over time.
+The dimensions of pressure are|[MLT⁻²]|[ML²T⁻²]|[ML⁻²T⁻²]|[ML⁻¹T⁻²]|3|Force over area.
+The dimensions of momentum are|[MLT⁻¹]|[MLT⁻²]|[ML²T⁻¹]|[ML⁻¹T]|0|Mass times velocity.
+The dimensions of density are|[ML³]|[ML⁻³]|[ML⁻²]|[L⁻³]|1|Mass over volume.
+The dimensions of frequency are|[T]|[LT⁻¹]|[T⁻¹]|[L⁻¹]|2|Cycles per unit time.
+The dimensions of angular velocity are|[T]|[LT⁻¹]|[LT⁻²]|[T⁻¹]|3|Angle (dimensionless) per time.
+The dimensions of the gravitational constant G are|[M⁻¹L³T⁻²]|[ML³T⁻²]|[M⁻¹L²T⁻²]|[MLT⁻²]|0|From F = Gm₁m₂/r².
+The dimensions of Planck's constant are|[ML²T⁻²]|[ML²T⁻¹]|[MLT⁻¹]|[MLT⁻²]|1|From E = hν.
+A dimensionless quantity is|velocity|force|an angle in radians|pressure|2|It is a ratio of lengths.
+The principle of homogeneity of dimensions says that|all quantities are dimensionless|only mass matters|units do not matter|every term in a physical equation has the same dimensions|3|Only like quantities can be added.
+Dimensional analysis cannot give|numerical constants in a formula|the dimensions of a quantity|units of a quantity|a check of an equation|0|For example the ½ in ½mv².
+The absolute error is|the ratio of error to value|the magnitude of the difference between the measured and the true value|the percentage error|the sum of the readings|1|∣a_mean − aᵢ∣.
+The relative error is|true value / absolute error|absolute error × true value|absolute error / true value|absolute error + true value|2|A ratio.
+The percentage error is|relative error / 100|the absolute error|the true value|relative error × 100|3|Expressed in per cent.
+The least count of an ordinary metre scale is|1 mm|1 cm|1 m|0.1 mm|0|The smallest division.
+The least count of a vernier caliper is typically|1 mm|0.1 mm|0.01 mm|1 cm|1|0.01 cm.
+The least count of a screw gauge is typically|0.1 mm|1 mm|0.01 mm|0.001 mm|2|Pitch divided by the number of circular divisions.
+The number of significant figures in 0.0450 is|2|4|5|3|3|Leading zeros are not significant.
+The number of significant figures in 2.30 × 10³ is|3|2|4|5|0|The trailing zero after the decimal counts.
+The number of significant figures in 6.0200 is|3|5|4|6|1|Zeros after a non-zero digit and decimal count.
+3.456 rounded to two decimal places is|3.45|3.5|3.46|3.4|2|The third digit 6 rounds up.
+12.11 + 1.2, with the correct number of significant digits, is|13.31|13|13.4|13.3|3|Round to the least number of decimal places.
+The sum (2.0 ± 0.1) + (3.0 ± 0.2) is|5.0 ± 0.3|5.0 ± 0.1|5.0 ± 0.2|5.0 ± 0.05|0|Absolute errors add.
+The percentage error in a length of 10 ± 0.1 cm is|0.1%|1%|10%|0.01%|1|0.1/10 × 100.
+If x has a 2% error, the percentage error in x² is|2%|1%|4%|8%|2|Errors multiply by the power.
+If x = a/b with 1% error in a and 2% error in b, the maximum percentage error in x is|2%|1%|0.5%|3%|3|Fractional errors add.
+In v = at, where v is velocity and t is time, the dimensions of a are|[LT⁻²]|[LT⁻¹]|[LT]|[T⁻¹]|0|Acceleration.
+The equation s = ut + ½at² is|dimensionally wrong|dimensionally correct|unitless|only true for u = 0|1|Each term has dimension [L].
+The quantity √(l/g) has the dimensions of|length [L]|velocity [LT⁻¹]|time [T]|a dimensionless quantity|2|The pendulum period.
+1 km/h in m/s equals|18/5|1/10|3.6|5/18|3|1000/3600.
+A light year is a unit of|distance|time|speed|energy|0|The distance light travels in a year.
+One parsec is approximately|9.46 × 10¹⁵ m|3.08 × 10¹⁶ m|1.5 × 10¹¹ m|3 × 10⁸ m|1|About 3.26 light years.

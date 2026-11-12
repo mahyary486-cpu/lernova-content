@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A vector has|both magnitude and direction|magnitude only|direction only|no magnitude|0|For example displacement.
+A scalar has|magnitude and direction|magnitude only|direction only|none of these|1|For example mass.
+Which of these is a vector?|distance|speed|displacement|mass|2|It has direction.
+Which of these is a scalar?|velocity|force|acceleration|speed|3|It has no direction.
+The magnitude of the resultant of two perpendicular vectors A and B is|√(A² + B²)|A + B|A − B|AB|0|Pythagoras.
+A unit vector has magnitude|0|1|A|10|1|It only gives direction.
+The unit vectors î, ĵ and k̂ point along|the x-axis only|the y-axis only|the x, y and z axes|the z-axis only|2|Each has magnitude 1.
+Equal vectors have|only the same magnitude|only the same direction|nothing in common|the same magnitude and direction|3|By definition.
+The negative of a vector A has|the same magnitude and the opposite direction|the same direction|zero magnitude|double magnitude|0|−A.
+The magnitude of the zero vector is|1|0|infinity|undefined|1|It has no direction.
+In the absence of air resistance, the path of a projectile is a|straight line|circle|parabola|hyperbola|2|Under uniform gravity.
+The horizontal velocity of a projectile (no air resistance) is|increasing|decreasing|zero|constant|3|No horizontal force.
+The acceleration of a projectile is|g downward|zero|g upward|horizontal|0|Only gravity acts.
+In uniform circular motion the speed is|variable|constant|zero|increasing|1|Only the direction changes.
+In uniform circular motion the velocity|is constant|is zero|changes direction continuously|is radial|2|It is tangential.
+Centripetal acceleration is directed|away from the centre|along the tangent|upward|towards the centre|3|It changes the direction of velocity.
+The unit of angular velocity is|rad/s|m/s|m/s²|rad|0|Angle per time.
+The resultant of perpendicular forces of 3 N and 4 N is|7 N|5 N|1 N|12 N|1|√(9 + 16).
+The magnitude of the vector 3î + 4ĵ is|7|1|5|12|2|√(9 + 16).
+The sum of (2î + 3ĵ) and (î − ĵ) is|3î + 4ĵ|î + 4ĵ|2î + 2ĵ|3î + 2ĵ|3|Add the components.
+(5î + 2ĵ) − (2î + ĵ) =|3î + ĵ|7î + 3ĵ|3î + 3ĵ|î + ĵ|0|Subtract the components.
+A vector of magnitude A at angle θ to the x-axis has components|A sin θ and A cos θ|A cos θ and A sin θ|A and θ|A tan θ and A|1|Along x and y.
+The time of flight of a projectile is|u sin θ / g|2u cos θ / g|2u sin θ / g|u² / g|2|Up and down.
+The maximum height of a projectile is|u² sin 2θ / g|u sin θ / g|u² cos²θ / 2g|u² sin²θ / 2g|3|From v² = u² − 2gh.
+The horizontal range of a projectile is|u² sin 2θ / g|u² sin²θ / 2g|2u sin θ / g|u cos θ / g|0|u cos θ × time of flight.
+The range of a projectile is maximum when the angle of projection is|30°|45°|60°|90°|1|sin 2θ = 1.
+The maximum range of a projectile is|u²/2g|2u²/g|u²/g|u/g|2|At 45°.
+The ranges for angles θ and 90° − θ are|different|zero|double|equal|3|sin 2θ = sin(180° − 2θ).
+A projectile at 30° with u = 20 m/s (g = 10 m/s²) has a time of flight of|2 s|4 s|1 s|3 s|0|2 × 20 × 0.5/10.
+For the same projectile, the maximum height is|10 m|5 m|20 m|2.5 m|1|400 × 0.25/20.
+For the same projectile, the range is|40 m|20 m|20√3 m|10√3 m|2|400 × (√3/2)/10.
+An object thrown horizontally from height h takes a time to fall of|2h/g|√(h/g)|h/g|√(2h/g)|3|The vertical motion is free fall.
+The angular velocity in terms of the time period is ω =|2π/T|T/2π|2πT|T|0|One revolution in T.
+The linear velocity in circular motion is v =|r/ω|rω|ω/r|r²ω|1|v = rω.
+The centripetal acceleration is a =|vr|v/r²|v²/r|r/v²|2|Directed to the centre.
+The centripetal acceleration can also be written as a =|ωr²|ω/r|r/ω|ω²r|3|Using v = rω.
+A particle moves in a circle of radius 2 m at 4 m/s. The centripetal acceleration is|8 m/s²|2 m/s²|16 m/s²|0.5 m/s²|0|16/2.
+A particle moves in a circle of radius 0.5 m with ω = 4 rad/s. The centripetal acceleration is|2 m/s²|8 m/s²|16 m/s²|4 m/s²|1|ω²r = 16 × 0.5.
+A frequency of 5 Hz corresponds to an angular velocity of|5π rad/s|5 rad/s|10π rad/s|20π rad/s|2|2πf.
+A time period of 2 s corresponds to an angular velocity of|2π rad/s|2 rad/s|π/2 rad/s|π rad/s|3|2π/T.
+Rain falls vertically at 10 m/s and a man walks at 10 m/s. He must hold his umbrella at an angle to the vertical of|45°|30°|60°|90°|0|tan θ = 10/10.
+A boat has speed 5 m/s in still water and heads across a river with stream speed 3 m/s. The resultant speed is|8 m/s|√34 m/s|2 m/s|15 m/s|1|√(25 + 9).
+The range of a projectile equals four times its maximum height when the angle of projection is|30°|60°|45°|90°|2|tan θ = 1.
+For θ = 45°, the ratio of maximum height to range is|1/2|1|1/8|1/4|3|H/R = tan θ/4.
+A ball is thrown at 60° to the horizontal with u = 20 m/s. At the top its speed is|10 m/s|20 m/s|0|17.3 m/s|0|20 cos 60°.
+At the highest point of its path a projectile's velocity is|vertical|horizontal|zero|undefined|1|The vertical component is zero.
+The angular displacement in one complete revolution is|π rad|360 rad|2π rad|1 rad|2|A full circle.
+A car going round a circular track at constant speed has|constant velocity|zero acceleration|changing speed|constant speed but changing velocity|3|The direction changes.
+The unit vector along A = 3î + 4ĵ is|(3î + 4ĵ)/5|3î + 4ĵ|(î + ĵ)/√2|5(3î + 4ĵ)|0|Divide by the magnitude.
+The angle of the vector î + ĵ with the x-axis is|30°|45°|60°|90°|1|tan θ = 1.
