@@ -10112,6 +10112,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 11,
+      "subject": "Mathematics",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn11m-ch1",
+          "title": "空间向量与立体几何",
+          "lessons": [
+            {
+              "id": "cn11m-ch1-l1",
+              "title": "空间向量及其运算"
+            },
+            {
+              "id": "cn11m-ch1-l2",
+              "title": "空间中直线与平面的向量表示"
+            },
+            {
+              "id": "cn11m-ch1-l3",
+              "title": "建立空间直角坐标系解立体几何"
+            }
+          ]
+        },
+        {
+          "id": "cn11m-ch2",
+          "title": "直线和圆的方程",
+          "lessons": [
+            {
+              "id": "cn11m-ch2-l1",
+              "title": "直线的方程"
+            },
+            {
+              "id": "cn11m-ch2-l2",
+              "title": "距离公式"
+            },
+            {
+              "id": "cn11m-ch2-l3",
+              "title": "圆的方程与直线和圆的位置关系"
+            }
+          ]
+        },
+        {
+          "id": "cn11m-ch3",
+          "title": "圆锥曲线的方程",
+          "lessons": [
+            {
+              "id": "cn11m-ch3-l1",
+              "title": "椭圆"
+            },
+            {
+              "id": "cn11m-ch3-l2",
+              "title": "双曲线"
+            },
+            {
+              "id": "cn11m-ch3-l3",
+              "title": "抛物线"
+            }
+          ]
+        },
+        {
+          "id": "cn11m-ch4",
+          "title": "数列",
+          "lessons": [
+            {
+              "id": "cn11m-ch4-l1",
+              "title": "等差数列"
+            },
+            {
+              "id": "cn11m-ch4-l2",
+              "title": "等比数列"
+            },
+            {
+              "id": "cn11m-ch4-l3",
+              "title": "数列求和与递推"
+            }
+          ]
+        },
+        {
+          "id": "cn11m-ch5",
+          "title": "导数及其应用",
+          "lessons": [
+            {
+              "id": "cn11m-ch5-l1",
+              "title": "导数的概念与运算"
+            },
+            {
+              "id": "cn11m-ch5-l2",
+              "title": "导数与函数的单调性、极值"
+            },
+            {
+              "id": "cn11m-ch5-l3",
+              "title": "导数的应用"
+            }
+          ]
+        },
+        {
+          "id": "cn11m-ch6",
+          "title": "计数原理",
+          "lessons": [
+            {
+              "id": "cn11m-ch6-l1",
+              "title": "分类加法与分步乘法计数原理"
+            },
+            {
+              "id": "cn11m-ch6-l2",
+              "title": "排列与组合"
+            },
+            {
+              "id": "cn11m-ch6-l3",
+              "title": "二项式定理"
+            }
+          ]
+        },
+        {
+          "id": "cn11m-ch7",
+          "title": "随机变量及其分布",
+          "lessons": [
+            {
+              "id": "cn11m-ch7-l1",
+              "title": "条件概率与全概率公式"
+            },
+            {
+              "id": "cn11m-ch7-l2",
+              "title": "离散型随机变量及其分布列"
+            },
+            {
+              "id": "cn11m-ch7-l3",
+              "title": "二项分布与正态分布"
+            }
+          ]
+        },
+        {
+          "id": "cn11m-ch8",
+          "title": "成对数据的统计分析",
+          "lessons": [
+            {
+              "id": "cn11m-ch8-l1",
+              "title": "变量的相关关系与线性回归"
+            },
+            {
+              "id": "cn11m-ch8-l2",
+              "title": "残差分析与决定系数"
+            },
+            {
+              "id": "cn11m-ch8-l3",
+              "title": "列联表与独立性检验"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
