@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Comment s’appelle la couche rigide externe de la Terre ?|Le noyau|La lithosphère|Le manteau inférieur|L’atmosphère|1|Elle est découpée en plaques.
+À quelle vitesse les plaques se déplacent-elles (environ) ?|Quelques mètres par jour|Quelques kilomètres par heure|Quelques mètres par seconde|Quelques centimètres par an|3|Le mouvement est lent.
+Où se produisent la plupart des séismes et des volcans ?|Aux limites de plaques|Au centre des plaques|Seulement dans les déserts|Seulement dans les océans|0|Les limites de plaques sont des zones actives.
+Quel gaz est le principal gaz à effet de serre émis par les activités humaines ?|Le dioxygène|Le diazote|Le dioxyde de carbone|L’hélium|2|Il est émis par la combustion des énergies fossiles.
+Quelle énergie est renouvelable ?|Le pétrole|Le charbon|L’énergie solaire|Le gaz naturel|2|Le soleil se renouvelle à l’échelle humaine.
+Qu’est-ce que l’épicentre d’un séisme ?|Le point en surface au-dessus du foyer|Le point le plus profond|Le centre de la Terre|Le dernier point touché|0|Le foyer est en profondeur.
+Quel organisme synthétise les travaux scientifiques sur le climat ?|L’OMS|Le CNRS seulement|L’UNESCO|Le GIEC|3|Le GIEC est un groupe d’experts intergouvernemental.
+Le climat est :|la météo d’aujourd’hui|la moyenne des conditions météorologiques sur une longue période|la température d’une journée|la pluie d’une semaine|1|On compte au moins 30 ans.
+Que se passe-t-il au niveau d’une dorsale ?|Une plaque plonge sous une autre|Les plaques s’écartent et de la lithosphère se forme|Les plaques coulissent seulement|Les plaques disparaissent|1|C’est une limite de divergence.
+Qu’est-ce que la subduction ?|Deux plaques s’écartent|Une plaque s’élève|Une plaque fond au contact de l’air|Une plaque océanique plonge sous une autre plaque|3|C’est une limite de convergence.
+Quelle est la température moyenne de la Terre sans effet de serre (environ) ?|−18 °C|+15 °C|0 °C|+50 °C|0|L’effet de serre naturel apporte environ 33 °C.
+Quelle activité renforce l’effet de serre ?|La photosynthèse|La plantation d’arbres|La combustion des énergies fossiles|L’utilisation de l’énergie solaire|2|Elle libère du CO₂.
+Comment appelle-t-on l’ensemble des gaz qui retiennent la chaleur ?|Les gaz rares|Les gaz inertes|Les gaz à effet de serre|Les gaz comburants|2|Vapeur d’eau, CO₂, méthane…
+Quelle est une conséquence du réchauffement climatique ?|La hausse du niveau des mers|La baisse des températures|La disparition des océans|L’augmentation des glaciers|0|Elle est due à la fonte des glaces et à la dilatation de l’eau.
+Les ressources non renouvelables sont par exemple :|le vent et le soleil|l’eau et le bois bien gérés|la biomasse|le pétrole et le charbon|3|Elles se sont formées en millions d’années.
+Que signifie le développement durable ?|Produire plus de déchets|Répondre aux besoins du présent sans compromettre ceux des générations futures|Utiliser uniquement des ressources locales|Arrêter toute activité économique|1|C’est la définition courante.
+Quelles sont les deux principales limites de convergence ?|Dorsale et faille|Subduction et collision|Faille et volcan|Dorsale et séisme|1|Subduction (plaque plonge) et collision (chaîne de montagnes).
+Quel appareil enregistre les ondes sismiques ?|Un thermomètre|Un baromètre|Un anémomètre|Un sismographe|3|Il permet de localiser les séismes.
+De combien la concentration en CO₂ a-t-elle augmenté depuis l’ère préindustrielle (environ) ?|50 %|5 %|500 %|0 %|0|Elle est passée d’environ 280 ppm à plus de 420 ppm.
+Pourquoi la déforestation aggrave-t-elle le réchauffement ?|Les arbres produisent du CO₂ seul|Elle augmente la pluie|Les arbres absorbent du CO₂ par photosynthèse|Elle refroidit le sol|2|Moins d’arbres signifie moins de CO₂ absorbé.
+Quelle est une limite des énergies solaire et éolienne ?|Elles émettent beaucoup de CO₂|Elles s’épuisent à l’usage|Elles sont intermittentes|Elles n’existent pas la nuit|2|Elles dépendent du soleil et du vent.
+Quel est le sens de « empreinte écologique » ?|La pression exercée sur les ressources et les écosystèmes|La trace laissée par un pas|La surface d’un pays|Le nombre de forêts|0|C’est une mesure d’impact environnemental.
+Quel pourcentage de l’eau sur Terre est de l’eau douce (environ) ?|30 %|50 %|97 %|3 %|3|La majeure partie est de l’eau salée.
+Pourquoi le recyclage est-il utile ?|Il augmente la pollution|Il limite l’extraction de nouvelles ressources et les déchets|Il consomme toujours plus d’énergie|Il crée du CO₂ sans bénéfice|1|Il économise des ressources.

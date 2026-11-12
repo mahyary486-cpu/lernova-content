@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelles particules forment le noyau d’un atome ?|Les électrons et les protons|Les protons et les neutrons|Les électrons seulement|Les neutrons et les électrons|1|Ce sont les nucléons.
+Quelle est la charge d’un électron ?|Positive|Nulle|Variable|Négative|3|Les électrons portent une charge négative.
+Un atome est :|électriquement neutre|chargé positivement|chargé négativement|toujours un ion|0|Il possède autant de protons que d’électrons.
+Que représente le numéro atomique Z ?|Le nombre de neutrons|Le nombre d’électrons de valence|Le nombre de protons|La masse de l’atome|2|Z définit l’élément chimique.
+Un cation est un ion :|chargé négativement|neutre|chargé positivement|qui a gagné des électrons|2|Il a perdu un ou plusieurs électrons.
+Quelle est la formule de l’eau ?|H₂O|HO₂|H₂O₂|OH|0|Une molécule d’eau contient 2 atomes d’hydrogène et 1 atome d’oxygène.
+Quelle est la formule du dioxyde de carbone ?|CO|C₂O|O₂C₂|CO₂|3|Un atome de carbone et deux atomes d’oxygène.
+Comment appelle-t-on l’ion Cl⁻ ?|Un cation|Un anion|Un atome|Une molécule|1|C’est un ion chargé négativement.
+Un atome de carbone ¹²₆C possède :|12 protons et 6 neutrons|6 protons, 6 neutrons et 6 électrons|6 protons et 12 neutrons|12 électrons|1|Z = 6, N = A − Z = 6 et autant d’électrons que de protons.
+Un atome de sodium Na (11 électrons) perd un électron. Il devient :|Na⁻|Na²⁺|Na|Na⁺|3|Il porte une charge positive.
+Un atome de chlore gagne un électron. Il devient :|Cl⁻|Cl⁺|Cl²⁻|Cl|0|Il porte une charge négative.
+Combien d’atomes contient une molécule de méthane CH₄ ?|4|1|5|2|2|1 carbone et 4 hydrogènes.
+Quelle est la formule du chlorure de sodium solide ?|Na₂Cl|NaCl₂|NaCl|NaCl₃|2|Un ion Na⁺ pour un ion Cl⁻ : le solide est neutre.
+Quel est l’ordre de grandeur de la taille d’un atome ?|10⁻¹⁰ m|10⁻¹⁵ m|1 mm|1 m|0|Un atome mesure environ 0,1 nanomètre.
+Quelle est la formule de l’ion hydroxyde ?|H⁺|OH⁺|H₂O⁻|HO⁻|3|L’ion hydroxyde porte une charge négative.
+Une molécule d’ammoniac NH₃ contient :|3 azotes et 1 hydrogène|1 azote et 3 hydrogènes|1 azote et 1 hydrogène|4 azotes|1|C’est ce que signifie la formule NH₃.
+Un atome a 17 protons et 18 neutrons. Quel est son nombre de nucléons ?|17|35|18|1|1|A = 17 + 18 = 35.
+L’ion Mg²⁺ possède 12 protons. Combien a-t-il d’électrons ?|12|14|2|10|3|L’atome Mg a 12 électrons, il en perd 2.
+Combien de fois le noyau est-il plus petit que l’atome (environ) ?|100 000 fois|10 fois|100 fois|1 000 fois|0|10⁻¹⁰ m contre 10⁻¹⁵ m.
+Un solide ionique contient des ions Ca²⁺ et Cl⁻. Quelle est sa formule ?|CaCl|Ca₂Cl|CaCl₂|Ca₂Cl₂|2|Pour la neutralité, il faut 2 ions Cl⁻ pour 1 ion Ca²⁺.
+Combien d’atomes y a-t-il dans C₂H₆O ?|3|8|9|10|2|2 + 6 + 1 = 9 atomes.
+Pourquoi une solution de chlorure de sodium conduit-elle le courant ?|Elle contient des ions mobiles|Elle contient des électrons libres|Elle est composée de molécules neutres|Elle est très chaude|0|Les ions se déplacent et transportent la charge.
+Combien de liaisons un atome de carbone forme-t-il dans la molécule CH₄ ?|1|2|3|4|3|Le carbone est lié à 4 atomes d’hydrogène.
+« 2H₂O » représente :|une molécule de H₄O₂|deux molécules d’eau|quatre atomes d’hydrogène et un atome d’oxygène|une molécule d’eau oxygénée|1|Le coefficient 2 multiplie toute la formule.

@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Un cycliste parcourt 30 km en 2 h. Quelle est sa vitesse moyenne ?|60 km/h|15 km/h|32 km/h|28 km/h|1|v = d ÷ t = 30 ÷ 2 = 15 km/h.
+Combien vaut 36 km/h en m/s ?|129,6 m/s|36 m/s|3,6 m/s|10 m/s|3|On divise par 3,6 : 36 ÷ 3,6 = 10 m/s.
+Quelle est l’unité de vitesse du Système international ?|Le mètre par seconde (m/s)|Le kilomètre par heure (km/h)|Le mètre par heure|Le kilomètre par seconde|0|Les unités du SI sont le mètre et la seconde.
+Un mouvement rectiligne uniforme a :|une trajectoire circulaire|une vitesse qui augmente|une trajectoire droite et une vitesse constante|une trajectoire quelconque|2|C’est la définition du mouvement rectiligne uniforme.
+La trajectoire d’un objet est :|sa vitesse moyenne|sa durée de parcours|l’ensemble des positions successives qu’il occupe|son poids|2|C’est la ligne décrite par l’objet dans le référentiel.
+Pour décrire un mouvement, il faut d’abord choisir :|un référentiel|une masse|une température|un thermomètre|0|Le mouvement est toujours relatif à un référentiel.
+Combien vaut 20 m/s en km/h ?|5,6 km/h|20 km/h|200 km/h|72 km/h|3|On multiplie par 3,6 : 20 × 3,6 = 72 km/h.
+Un passager assis dans un train en marche est :|immobile par rapport au quai|immobile par rapport au train et en mouvement par rapport au quai|en mouvement par rapport au train|en mouvement par rapport à lui-même|1|Le mouvement dépend du référentiel.
+Quelle distance parcourt une voiture roulant à 40 km/h pendant 15 min ?|600 km|10 km|40 km|2,7 km|1|15 min = 0,25 h donc d = 40 × 0,25 = 10 km.
+Combien de temps faut-il pour parcourir 120 km à 80 km/h ?|1 h|2 h|40 min|1 h 30 min|3|t = d ÷ v = 120 ÷ 80 = 1,5 h.
+Sur un graphique distance-temps, une droite passant par l’origine correspond à :|un mouvement uniforme|un mouvement accéléré|un mouvement ralenti|un objet immobile|0|La distance est proportionnelle à la durée.
+Dans un mouvement accéléré, la vitesse :|diminue|reste constante|augmente|est nulle|2|C’est la définition de l’accélération au sens courant.
+Sur une chronophotographie, les positions sont de plus en plus espacées. Le mouvement est :|ralenti|uniforme|accéléré|impossible|2|L’objet parcourt une distance plus grande dans chaque intervalle de temps.
+Sur un graphique d = f(t) en ligne droite, que représente la pente de la droite ?|La vitesse|La distance|La masse|La trajectoire|0|d = v × t : la pente vaut v.
+Combien vaut 5 m/s en km/h ?|1,4 km/h|5 km/h|50 km/h|18 km/h|3|5 × 3,6 = 18 km/h.
+Un sprinteur parcourt 100 m en 12,5 s. Quelle est sa vitesse moyenne ?|12,5 m/s|8 m/s|1 250 m/s|0,125 m/s|1|v = 100 ÷ 12,5 = 8 m/s.
+Un TGV roule à 320 km/h. Quelle est sa vitesse en m/s (arrondie) ?|1 152 m/s|88,9 m/s|320 m/s|32 m/s|1|320 ÷ 3,6 ≈ 88,9 m/s.
+Un véhicule parcourt 60 km à 30 km/h puis 60 km à 60 km/h. Quelle est sa vitesse moyenne ?|45 km/h|50 km/h|90 km/h|40 km/h|3|Distance totale 120 km, durée 2 h + 1 h = 3 h, donc 40 km/h.
+Un coureur parcourt 10 km en 40 min. Quelle est sa vitesse moyenne ?|15 km/h|4 km/h|25 km/h|10 km/h|0|40 min = 2/3 h donc v = 10 ÷ (2/3) = 15 km/h.
+Quelle distance parcourt une voiture à 90 km/h pendant 20 s ?|1 800 m|25 m|500 m|4,5 km|2|90 km/h = 25 m/s et 25 × 20 = 500 m.
+Un objet vérifie d(t) = 5t (d en mètres, t en secondes). Quelle est sa vitesse ?|5 km/h|0,2 m/s|5 m/s|25 m/s|2|La distance est proportionnelle à t avec un coefficient 5.
+La trajectoire d’un satellite qui tourne autour de la Terre est :|circulaire|rectiligne|en zigzag|inexistante|0|Elle est circulaire (ou presque) dans le référentiel terrestre.
+Deux voitures roulent à 100 km/h dans la même direction et le même sens. L’une par rapport à l’autre, elles sont :|en mouvement à 200 km/h|en mouvement à 100 km/h|en mouvement à 50 km/h|immobiles|3|Leur vitesse relative est nulle.
+Un objet se déplace à 2 m/s pendant 3 minutes. Quelle distance parcourt-il ?|6 m|360 m|120 m|540 m|1|3 min = 180 s donc d = 2 × 180 = 360 m.

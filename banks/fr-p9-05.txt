@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est la vitesse de la lumière dans le vide (environ) ?|340 m/s|300 000 km/s|300 km/s|3 000 km/h|1|c ≈ 3 × 10⁸ m/s.
+Dans un milieu transparent et homogène, la lumière se propage :|en cercle|en zigzag|de façon aléatoire|en ligne droite|3|C’est la propagation rectiligne de la lumière.
+Un son a besoin pour se propager :|d’un milieu matériel|du vide|de la lumière|d’une source lumineuse|0|Il ne se propage pas dans le vide.
+Quelle est l’unité de fréquence ?|Le watt (W)|La seconde (s)|Le hertz (Hz)|Le mètre (m)|2|La fréquence s’exprime en hertz.
+Quelle est la vitesse du son dans l’air (environ) ?|300 000 km/s|34 m/s|340 m/s|3 400 m/s|2|Environ 340 m/s à 20 °C.
+Entre quelles fréquences l’oreille humaine entend-elle ?|20 Hz et 20 000 Hz|1 Hz et 100 Hz|200 Hz et 2 000 Hz|20 kHz et 200 kHz|0|C’est le domaine audible.
+Une année-lumière est une unité de :|temps|vitesse|fréquence|distance|3|C’est la distance parcourue par la lumière en un an.
+La fréquence d’un son est :|la durée d’un signal|le nombre de périodes par seconde|sa vitesse|son volume|1|Elle se mesure en hertz.
+La période d’un signal est T = 0,01 s. Quelle est sa fréquence ?|0,01 Hz|100 Hz|10 Hz|1 000 Hz|1|f = 1 ÷ T = 100 Hz.
+La période d’un signal est T = 0,002 s. Quelle est sa fréquence ?|0,002 Hz|5 Hz|2 000 Hz|500 Hz|3|f = 1 ÷ 0,002 = 500 Hz.
+On entend le tonnerre 3 s après l’éclair (340 m/s). À quelle distance est l’orage ?|1 020 m|113 m|340 m|3 km exactement|0|d = v × t = 340 × 3 = 1 020 m.
+La lumière du Soleil met environ 500 s pour atteindre la Terre. Cela correspond à :|500 min|5 s|environ 8 min 20 s|1 h|2|500 s = 8 min 20 s.
+Un son de fréquence 30 kHz est :|un infrason|un son audible grave|un ultrason|un son audible aigu|2|Au-dessus de 20 kHz, c’est un ultrason.
+Un son de fréquence 10 Hz est :|un infrason|un ultrason|un son audible aigu|un son audible médium|0|En dessous de 20 Hz, c’est un infrason.
+Un signal numérique est constitué :|d’une variation continue d’une grandeur|uniquement de sons|d’ondes lumineuses seulement|d’une suite de 0 et de 1|3|Il est codé en binaire.
+La fibre optique transmet l’information sous forme de :|ondes sonores|signaux lumineux|courant alternatif|ondes mécaniques|1|Un fil de verre guide la lumière.
+À combien de kilomètres correspond environ 1 année-lumière ?|300 000 km|9,46 × 10¹² km|9,46 × 10⁶ km|1 milliard de km|1|1 al ≈ 9,46 × 10¹² km.
+Une étoile est à 4 années-lumière. Quand la lumière que l’on reçoit a-t-elle été émise ?|Il y a 4 jours|Il y a 4 secondes|Dans 4 ans|Il y a 4 ans|3|La lumière met 4 ans pour parcourir 4 années-lumière.
+Un écho revient au bout de 0,5 s (aller-retour). À quelle distance est l’obstacle ?|85 m|170 m|340 m|680 m|0|d = 340 × 0,5 ÷ 2 = 85 m.
+Quelle est la période d’un son de fréquence 440 Hz ?|440 s|0,44 s|environ 2,27 ms|4,4 ms|2|T = 1 ÷ 440 ≈ 0,00227 s.
+Dans quel milieu le son se propage-t-il le plus vite ?|Dans l’air, plus vite que dans l’eau|Dans le vide|Dans l’eau, plus vite que dans l’air|Il a la même vitesse partout|2|Environ 1 500 m/s dans l’eau contre 340 m/s dans l’air.
+Pourquoi n’entend-on pas les explosions dans l’espace ?|Le son ne se propage pas dans le vide|Le son est trop aigu|La lumière arrive plus vite|Le vide est trop froid|0|Il faut un milieu matériel.
+Sirius est à 8,6 années-lumière. La lumière que nous en recevons a été émise :|il y a 8,6 jours|dans 8,6 ans|il y a 8,6 millions d’années|il y a 8,6 ans|3|Le temps de parcours est de 8,6 ans.
+Les ondes radio se propagent :|à la vitesse du son|à la vitesse de la lumière|à 3 m/s|uniquement dans l’eau|1|Ce sont des ondes électromagnétiques.

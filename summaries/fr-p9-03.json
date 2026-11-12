@@ -1,0 +1,5 @@
+{
+ "Formes d’énergie, sources et conversions": "L’énergie existe sous plusieurs formes (cinétique, potentielle, thermique, électrique, chimique, nucléaire, lumineuse) et se mesure en joules (J). Elle se convertit d’une forme en une autre ; une chaîne énergétique décrit ces conversions. Les sources renouvelables (soleil, vent, eau) se renouvellent à l’échelle humaine, contrairement aux sources fossiles.",
+ "Énergie cinétique et énergie potentielle": "L’énergie cinétique d’un objet de masse m et de vitesse v est Ec = ½ m v² (Ec en joules, m en kg, v en m/s). L’énergie potentielle de pesanteur d’un objet de masse m à la hauteur h est Epp = m g h. L’énergie mécanique est Em = Ec + Epp.",
+ "Conservation de l’énergie, puissance et rendement": "L’énergie se conserve : l’énergie reçue par un système est égale à la somme des énergies utile et perdue. La puissance est l’énergie convertie par unité de temps : P = E ÷ t (en watts, avec E en joules et t en secondes). Le rendement est le rapport de l’énergie utile à l’énergie reçue : η = Eutile ÷ Ereçue."
+}

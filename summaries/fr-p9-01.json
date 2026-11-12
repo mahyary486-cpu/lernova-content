@@ -1,0 +1,5 @@
+{
+ "Vitesse moyenne et conversions d’unités": "La vitesse moyenne d’un objet est le quotient de la distance parcourue par la durée du parcours : v = d ÷ t. Son unité du Système international est le mètre par seconde (m/s) ; on utilise aussi le kilomètre par heure (km/h). Pour passer de m/s à km/h, on multiplie par 3,6.",
+ "Mouvement, trajectoire et référentiel": "Le mouvement d’un objet se décrit par rapport à un référentiel (un objet de référence). La trajectoire est l’ensemble des positions successives de l’objet : rectiligne, circulaire ou quelconque. Un mouvement est uniforme si la vitesse est constante, accéléré si elle augmente, ralenti si elle diminue.",
+ "Représenter et interpréter un mouvement": "On étudie un mouvement par chronophotographie (positions à intervalles de temps égaux) ou par un graphique de la distance en fonction du temps. Si les positions sont régulièrement espacées, le mouvement est uniforme ; si l’écart augmente, il est accéléré. Sur le graphique d = f(t), une droite passant par l’origine traduit un mouvement uniforme dont la vitesse est la pente."
+}

@@ -3190,6 +3190,261 @@
       ]
     },
     {
+      "grade": 9,
+      "country": "FR",
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "fr-p9-01",
+          "title": "Mouvement et vitesse",
+          "lessons": [
+            {
+              "id": "fr-p9-01-01",
+              "title": "Vitesse moyenne et conversions d’unités"
+            },
+            {
+              "id": "fr-p9-01-02",
+              "title": "Mouvement, trajectoire et référentiel"
+            },
+            {
+              "id": "fr-p9-01-03",
+              "title": "Représenter et interpréter un mouvement"
+            }
+          ]
+        },
+        {
+          "id": "fr-p9-02",
+          "title": "Forces, poids et principe d’inertie",
+          "lessons": [
+            {
+              "id": "fr-p9-02-01",
+              "title": "Interactions et forces"
+            },
+            {
+              "id": "fr-p9-02-02",
+              "title": "Poids, masse et gravitation"
+            },
+            {
+              "id": "fr-p9-02-03",
+              "title": "Principe d’inertie"
+            }
+          ]
+        },
+        {
+          "id": "fr-p9-03",
+          "title": "Énergie, conversions et puissance",
+          "lessons": [
+            {
+              "id": "fr-p9-03-01",
+              "title": "Formes d’énergie, sources et conversions"
+            },
+            {
+              "id": "fr-p9-03-02",
+              "title": "Énergie cinétique et énergie potentielle"
+            },
+            {
+              "id": "fr-p9-03-03",
+              "title": "Conservation de l’énergie, puissance et rendement"
+            }
+          ]
+        },
+        {
+          "id": "fr-p9-04",
+          "title": "Électricité : tension, intensité, loi d’Ohm et puissance",
+          "lessons": [
+            {
+              "id": "fr-p9-04-01",
+              "title": "Intensité, tension et lois des circuits"
+            },
+            {
+              "id": "fr-p9-04-02",
+              "title": "Loi d’Ohm et résistance"
+            },
+            {
+              "id": "fr-p9-04-03",
+              "title": "Puissance et énergie électriques"
+            }
+          ]
+        },
+        {
+          "id": "fr-p9-05",
+          "title": "Signaux lumineux et sonores",
+          "lessons": [
+            {
+              "id": "fr-p9-05-01",
+              "title": "Lumière : propagation, vitesse et année-lumière"
+            },
+            {
+              "id": "fr-p9-05-02",
+              "title": "Son : fréquence, période et vitesse"
+            },
+            {
+              "id": "fr-p9-05-03",
+              "title": "Signaux et information"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "country": "FR",
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "fr-c9-01",
+          "title": "Atomes, ions et molécules",
+          "lessons": [
+            {
+              "id": "fr-c9-01-01",
+              "title": "Structure de l’atome"
+            },
+            {
+              "id": "fr-c9-01-02",
+              "title": "Ions monoatomiques et polyatomiques"
+            },
+            {
+              "id": "fr-c9-01-03",
+              "title": "Molécules et formules chimiques"
+            }
+          ]
+        },
+        {
+          "id": "fr-c9-02",
+          "title": "Transformations chimiques et équations de réaction",
+          "lessons": [
+            {
+              "id": "fr-c9-02-01",
+              "title": "Réaction chimique : réactifs, produits et conservation"
+            },
+            {
+              "id": "fr-c9-02-02",
+              "title": "Écrire et ajuster une équation de réaction"
+            },
+            {
+              "id": "fr-c9-02-03",
+              "title": "Combustions et réactions avec les métaux"
+            }
+          ]
+        },
+        {
+          "id": "fr-c9-03",
+          "title": "Solutions aqueuses : pH, ions et concentration",
+          "lessons": [
+            {
+              "id": "fr-c9-03-01",
+              "title": "Acides, bases et pH"
+            },
+            {
+              "id": "fr-c9-03-02",
+              "title": "Tests d’identification des ions"
+            },
+            {
+              "id": "fr-c9-03-03",
+              "title": "Dissolution et concentration massique"
+            }
+          ]
+        },
+        {
+          "id": "fr-c9-04",
+          "title": "Corps purs, mélanges et masse volumique",
+          "lessons": [
+            {
+              "id": "fr-c9-04-01",
+              "title": "Corps purs, mélanges et changements d’état"
+            },
+            {
+              "id": "fr-c9-04-02",
+              "title": "Masse volumique et densité"
+            },
+            {
+              "id": "fr-c9-04-03",
+              "title": "Séparation des constituants d’un mélange"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "country": "FR",
+      "subject": "Biology",
+      "chapters": [
+        {
+          "id": "fr-b9-01",
+          "title": "Génétique : ADN, chromosomes et hérédité",
+          "lessons": [
+            {
+              "id": "fr-b9-01-01",
+              "title": "ADN, gènes et chromosomes"
+            },
+            {
+              "id": "fr-b9-01-02",
+              "title": "Division cellulaire, fécondation et transmission des caractères"
+            },
+            {
+              "id": "fr-b9-01-03",
+              "title": "Mutations, variabilité et maladies génétiques"
+            }
+          ]
+        },
+        {
+          "id": "fr-b9-02",
+          "title": "Évolution et biodiversité",
+          "lessons": [
+            {
+              "id": "fr-b9-02-01",
+              "title": "Biodiversité et classification du vivant"
+            },
+            {
+              "id": "fr-b9-02-02",
+              "title": "Sélection naturelle et évolution"
+            },
+            {
+              "id": "fr-b9-02-03",
+              "title": "Espèces, extinctions et activités humaines"
+            }
+          ]
+        },
+        {
+          "id": "fr-b9-03",
+          "title": "Corps humain, santé et immunité",
+          "lessons": [
+            {
+              "id": "fr-b9-03-01",
+              "title": "Microbes et défenses immunitaires"
+            },
+            {
+              "id": "fr-b9-03-02",
+              "title": "Vaccination et antibiotiques"
+            },
+            {
+              "id": "fr-b9-03-03",
+              "title": "Reproduction humaine, contraception et prévention des IST"
+            }
+          ]
+        },
+        {
+          "id": "fr-b9-04",
+          "title": "Planète Terre : tectonique, climat et environnement",
+          "lessons": [
+            {
+              "id": "fr-b9-04-01",
+              "title": "Tectonique des plaques, séismes et volcans"
+            },
+            {
+              "id": "fr-b9-04-02",
+              "title": "Climat, effet de serre et réchauffement climatique"
+            },
+            {
+              "id": "fr-b9-04-03",
+              "title": "Ressources, énergie et développement durable"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "grade": 10,
       "subject": "Mathematics",
       "country": "RU",

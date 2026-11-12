@@ -1,0 +1,5 @@
+{
+ "Intensité, tension et lois des circuits": "L’intensité du courant (en ampères, A) se mesure avec un ampèremètre branché en série ; la tension (en volts, V) se mesure avec un voltmètre branché en dérivation. Dans un circuit en série, l’intensité est la même partout et les tensions s’additionnent. Dans un circuit en dérivation, les intensités s’additionnent (loi des nœuds) et la tension est la même aux bornes des branches.",
+ "Loi d’Ohm et résistance": "Pour un conducteur ohmique de résistance R (en ohms, Ω), la tension U à ses bornes est proportionnelle à l’intensité I qui le traverse : U = R × I. Sa caractéristique U = f(I) est une droite passant par l’origine. Deux résistances en série équivalent à une résistance R = R₁ + R₂.",
+ "Puissance et énergie électriques": "La puissance électrique reçue par un appareil est P = U × I (P en watts, U en volts, I en ampères). L’énergie électrique consommée est E = P × t (en joules si t est en secondes, en kilowattheures si P est en kilowatts et t en heures). Les dispositifs de sécurité (fusible, disjoncteur) protègent les installations."
+}

@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Une solution de pH égal à 7 est :|acide|neutre|basique|saturée|1|pH = 7 correspond à une solution neutre.
+Une solution de pH égal à 3 est :|neutre|basique|distillée|acide|3|pH < 7 : solution acide.
+Une solution de pH égal à 12 est :|basique|acide|neutre|saturée|0|pH > 7 : solution basique.
+Quel ion est en excès dans une solution acide ?|HO⁻|Na⁺|H⁺|Cl⁻|2|Une solution acide contient un excès d’ions hydrogène.
+Quel ion est en excès dans une solution basique ?|H⁺|Cu²⁺|HO⁻|Cl⁻|2|Une solution basique contient un excès d’ions hydroxyde.
+Quelle est l’unité de la concentration massique ?|g/L|mol|N|L/g|0|Masse de soluté par litre de solution.
+Comment appelle-t-on le liquide dans lequel on dissout un solide ?|Le soluté|Le précipité|Le distillat|Le solvant|3|L’eau est le solvant de nombreuses solutions.
+Quel appareil mesure précisément le pH ?|Une balance|Un pH-mètre|Un voltmètre|Un thermomètre|1|Le pH-mètre est plus précis que le papier pH.
+On dissout 5 g de sel dans 250 mL de solution. Quelle est la concentration massique ?|0,02 g/L|20 g/L|1,25 g/L|50 g/L|1|c = 5 ÷ 0,25 = 20 g/L.
+Quelle masse de soluté faut-il pour préparer 500 mL de solution à 10 g/L ?|20 g|50 g|0,02 g|5 g|3|m = c × V = 10 × 0,5 = 5 g.
+Quel précipité obtient-on avec des ions Cu²⁺ et de la soude ?|Un précipité bleu|Un précipité vert|Un précipité blanc|Un précipité rouille|0|C’est le test des ions cuivre II.
+Quel précipité obtient-on avec des ions Fe³⁺ et de la soude ?|Un précipité bleu|Un précipité vert|Un précipité rouille|Un précipité blanc|2|C’est le test des ions fer III.
+Quel réactif permet d’identifier les ions chlorure Cl⁻ ?|La soude|L’eau de chaux|Le nitrate d’argent|Le sulfate de cuivre|2|Il forme un précipité blanc qui noircit à la lumière.
+On dilue une solution acide. Son pH :|augmente et se rapproche de 7|diminue|devient supérieur à 7|ne change pas|0|La dilution diminue la concentration en ions H⁺.
+Le bleu de bromothymol est jaune dans une solution :|basique|neutre|saturée|acide|3|Il est jaune en milieu acide, vert en milieu neutre, bleu en milieu basique.
+On prélève 200 mL d’une solution à 20 g/L. Quelle masse de soluté prélève-t-on ?|0,1 g|4 g|40 g|400 g|1|m = 20 × 0,2 = 4 g.
+On dilue 10 fois une solution acide de pH = 2. Quel est le pH approximatif obtenu ?|1|3|2|12|1|Une dilution 10 fois fait augmenter le pH d’une unité pour un acide fort.
+On veut passer d’une solution à 20 g/L à une solution à 5 g/L. Quel est le facteur de dilution ?|15|0,25|100|4|3|20 ÷ 5 = 4.
+On prépare 250 mL d’une solution à 40 g/L. Quelle masse de soluté faut-il peser ?|10 g|160 g|0,16 g|6,25 g|0|m = 40 × 0,25 = 10 g.
+Au cours d’une dilution, que se conserve ?|La concentration|Le volume de la solution|La masse de soluté|Le pH|2|On ajoute seulement de l’eau.
+Quel matériel utilise-t-on pour préparer précisément un volume de solution ?|Un bécher|Une éprouvette graduée de 1 L seulement|Une fiole jaugée|Un tube à essai|2|La fiole jaugée donne un volume précis au trait de jauge.
+Une solution contient des ions Fe²⁺. Que donne l’ajout de soude ?|Un précipité vert|Un précipité bleu|Un précipité blanc|Aucun précipité|0|C’est le test des ions fer II.
+Pourquoi l’eau de Javel de pH ≈ 12 est-elle corrosive ?|Parce qu’elle est neutre|Parce qu’elle est très acide|Parce qu’elle est très diluée|Parce qu’elle est fortement basique|3|Les solutions fortement basiques ou acides sont corrosives.
+Une solution de pH égal à 9 est :|acide|basique|neutre|impossible|1|pH > 7 : solution basique.

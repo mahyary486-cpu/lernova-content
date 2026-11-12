@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Où se trouve l’ADN dans une cellule humaine ?|Dans le cytoplasme uniquement|Dans le noyau|Dans la membrane|Dans la paroi|1|Le noyau contient l’information génétique.
+Combien de chromosomes possède une cellule humaine ?|23|44|48|46|3|Cela représente 23 paires.
+Qu’est-ce qu’un gène ?|Une portion d’ADN qui détermine un caractère|Une cellule entière|Un organe|Un chromosome entier|0|Un gène est porté par un chromosome.
+Combien de chromosomes contient un gamète humain ?|46|44|23|92|2|La méiose réduit de moitié le nombre de chromosomes.
+Quelle est la formule chromosomique sexuelle d’un garçon ?|XX|XXY|XY|YY|2|Les garçons ont un chromosome X et un chromosome Y.
+Quelle est la division qui produit deux cellules identiques ?|La mitose|La méiose|La fécondation|La mutation|0|Elle assure croissance et renouvellement.
+Qu’est-ce qu’un caryotype ?|Une mesure de la taille d’une cellule|Une analyse de sang|Un type de cellule|L’ensemble des chromosomes classés par paires|3|On le réalise à partir d’une cellule en division.
+Qu’est-ce qu’une mutation ?|Une division cellulaire|Une modification de l’ADN|Un type de gamète|Un organe|1|Elle peut être spontanée ou provoquée.
+Que produit la fécondation ?|Deux gamètes|Un œuf à 46 chromosomes|Un gamète à 23 chromosomes|Une cellule à 92 chromosomes|1|23 chromosomes du père plus 23 de la mère.
+Quel est le rôle de la méiose ?|Renouveler les cellules de la peau|Réparer l’ADN|Faire grandir un embryon|Produire des gamètes à 23 chromosomes|3|Elle a lieu dans les organes reproducteurs.
+Un enfant hérite d’un allèle de chaque gène :|de chacun de ses deux parents|de sa mère uniquement|de son père uniquement|d’aucun parent|0|Chaque parent apporte la moitié de ses chromosomes.
+Qu’est-ce qu’un allèle ?|Un chromosome|Une cellule|Une version d’un gène|Un type de mutation|2|Un même gène existe sous plusieurs versions.
+Combien de chromosomes possède une personne atteinte de trisomie 21 ?|46|45|47|23|2|Elle a un chromosome 21 supplémentaire.
+Une mutation est transmise à la descendance si elle touche :|une cellule reproductrice|une cellule de la peau|une cellule du foie|n’importe quelle cellule|0|Seuls les gamètes transmettent l’information.
+Quel est le rôle de la mitose ?|La fabrication des gamètes|La détermination du sexe|La digestion|La croissance et le renouvellement des cellules|3|Elle produit des cellules identiques.
+Un œuf est XX. Le futur bébé sera :|un garçon|une fille|un jumeau|impossible à déterminer|1|XX correspond au sexe féminin.
+Pourquoi deux enfants d’un même couple ne sont-ils pas identiques ?|Ils n’ont pas les mêmes parents|Le brassage génétique de la méiose et de la fécondation crée des combinaisons différentes|Leurs cellules n’ont pas d’ADN|Ils n’ont pas de gènes|1|Chaque gamète est différent.
+Quel facteur peut provoquer des mutations ?|Le sommeil|L’eau|Le sucre|Les rayons UV|3|Les UV, le tabac et certains produits chimiques sont mutagènes.
+Un cancer résulte :|de divisions cellulaires anormales liées à des mutations|d’une carence en vitamines|d’une infection virale uniquement|d’un manque de sommeil|0|Des mutations dérèglent le contrôle de la division.
+Pourquoi les vrais jumeaux ont-ils le même ADN ?|Ils sont nés le même jour|Ils ont les mêmes parents seulement|Ils proviennent d’un même œuf qui s’est divisé|Leur ADN est modifié à la naissance|2|Un seul œuf donne deux embryons.
+Quel est le nombre de chromosomes d’une cellule de peau humaine ?|23|92|46|44|2|Toutes les cellules (sauf les gamètes) ont 46 chromosomes.
+Quelle information donne un caryotype ?|Le sexe et d’éventuelles anomalies chromosomiques|La taille de la personne|Le groupe sanguin uniquement|L’âge|0|On peut repérer par exemple la trisomie 21.
+La mucoviscidose est :|une maladie infectieuse|due à un manque de vitamines|une maladie du sommeil|une maladie génétique héréditaire|3|Elle est liée à des allèles anormaux d’un gène.
+Que se passe-t-il au cours de la fécondation ?|Deux ovules fusionnent|Le noyau du spermatozoïde et celui de l’ovule s’unissent|Une cellule se divise en deux gamètes|Un spermatozoïde perd ses chromosomes|1|Les 23 chromosomes se réunissent en 46.

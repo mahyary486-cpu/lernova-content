@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité de la force dans le Système international ?|Le kilogramme (kg)|Le newton (N)|Le joule (J)|Le watt (W)|1|La force s’exprime en newtons.
+Quel appareil permet de mesurer une force ?|Une balance|Un thermomètre|Un chronomètre|Un dynamomètre|3|Le dynamomètre mesure des forces en newtons.
+Le poids d’un objet est :|la force d’attraction exercée par un astre sur cet objet|la quantité de matière de l’objet|le volume de l’objet|l’énergie de l’objet|0|Sur Terre, c’est la force d’attraction de la Terre.
+Quel est le poids d’un objet de masse 2 kg sur Terre (g = 9,8 N/kg) ?|2 N|4,9 N|19,6 N|196 N|2|P = m × g = 2 × 9,8 = 19,6 N.
+La masse d’un objet se mesure avec :|un dynamomètre et s’exprime en N|un chronomètre|une balance et s’exprime en kg|un thermomètre|2|La masse est exprimée en kilogrammes.
+Comment représente-t-on une force ?|Par un vecteur (une flèche)|Par un point|Par un cercle|Par une courbe|0|Un vecteur indique le point d’application, la direction, le sens et la valeur.
+Quelle est la direction du poids ?|Horizontale|Oblique à 45°|Variable|Verticale|3|Le poids est dirigé suivant la verticale vers le bas.
+Sur la Lune, la masse d’un objet :|est divisée par 6|reste la même que sur Terre|est multipliée par 6|est nulle|1|La masse ne dépend pas du lieu.
+Quel est le poids d’un objet de masse 10 kg sur la Lune (g = 1,6 N/kg) ?|98 N|16 N|6,25 N|160 N|1|P = 10 × 1,6 = 16 N.
+Un objet a un poids de 98 N sur Terre (g = 9,8 N/kg). Quelle est sa masse ?|98 kg|0,1 kg|107,8 kg|10 kg|3|m = P ÷ g = 98 ÷ 9,8 = 10 kg.
+Lesquelles de ces caractéristiques définissent une force ?|Point d’application, direction, sens et valeur|Masse, volume et température|Vitesse, durée et distance|Couleur, forme et taille|0|Ces quatre caractéristiques sont nécessaires pour représenter une force.
+Si les forces exercées sur un objet se compensent, l’objet est :|en mouvement accéléré|en mouvement circulaire|immobile ou en mouvement rectiligne uniforme|toujours immobile|2|C’est le principe d’inertie.
+Un livre est posé sur une table. Quelles forces s’exercent sur lui ?|Uniquement son poids|Uniquement l’action de la table|Son poids et l’action de la table, qui se compensent|Aucune force|2|Le livre est immobile : les forces se compensent.
+Comment évolue l’attraction gravitationnelle entre deux objets quand la distance augmente ?|Elle diminue|Elle augmente|Elle reste constante|Elle s’annule immédiatement|0|La force diminue quand la distance augmente.
+Quelle est la valeur de l’intensité de la pesanteur sur Terre ?|1,6 N/kg|98 N/kg|0,98 N/kg|9,8 N/kg|3|g ≈ 9,8 N/kg à la surface de la Terre.
+Une action de contact est par exemple :|l’attraction d’un aimant|la main qui pousse une porte|l’attraction de la Terre sur la Lune|l’attraction d’une planète|1|Les deux objets sont en contact.
+Un parachutiste descend à vitesse constante. Que peut-on dire des forces ?|Seul son poids s’exerce|Le poids et la force de frottement de l’air se compensent|Son poids est nul|Le frottement est plus grand que le poids|1|Vitesse constante et trajectoire rectiligne impliquent des forces qui se compensent.
+Un astronaute de masse 80 kg est sur la Lune (g = 1,6 N/kg). Quel est son poids ?|80 N|784 N|50 N|128 N|3|P = 80 × 1,6 = 128 N. Sa masse reste 80 kg.
+Un objet a un poids de 686 N sur Terre (g = 9,8 N/kg). Quelle est sa masse ?|70 kg|686 kg|6 723 kg|7 kg|0|m = 686 ÷ 9,8 = 70 kg.
+Un objet subit des forces qui ne se compensent pas. Que se passe-t-il ?|Il reste immobile|Il garde un mouvement rectiligne uniforme|Sa vitesse ou la direction de son mouvement est modifiée|Sa masse change|2|C’est la contraposée du principe d’inertie.
+Quel est le poids d’un livre de masse 0,5 kg sur Terre (g = 9,8 N/kg) ?|49 N|0,05 N|4,9 N|9,8 N|2|P = 0,5 × 9,8 = 4,9 N.
+Si la distance entre deux astres est doublée, la force d’attraction gravitationnelle est :|divisée par 4|divisée par 2|doublée|multipliée par 4|0|La force est inversement proportionnelle au carré de la distance.
+La Terre attire la Lune avec une force. La Lune attire la Terre avec une force :|plus petite|nulle|de même sens|de même valeur et de sens opposé|3|Ce sont des actions réciproques.
+Une voiture roule en ligne droite à vitesse constante. Que peut-on dire des forces qui s’exercent sur elle ?|Elles sont nulles|Elles se compensent|Seule la force motrice agit|Le poids est plus grand que l’action du sol|1|Le mouvement est rectiligne uniforme : les forces se compensent.

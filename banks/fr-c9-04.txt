@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Un corps pur est constitué :|de plusieurs espèces chimiques|d’une seule espèce chimique|uniquement d’eau|toujours de molécules|1|Un mélange contient plusieurs espèces.
+Un mélange d’eau et d’huile est :|homogène|un corps pur|un gaz|hétérogène|3|On distingue deux constituants.
+À quelle température l’eau pure bout-elle à pression normale ?|100 °C|0 °C|37 °C|212 °C|0|L’ébullition de l’eau a lieu à 100 °C.
+À quelle température la glace fond-elle à pression normale ?|−10 °C|100 °C|0 °C|37 °C|2|La fusion de la glace a lieu à 0 °C.
+Quelle est la masse volumique de l’eau ?|10 g/cm³|0,1 g/cm³|1 g/cm³|100 g/cm³|2|ρ(eau) = 1,0 g/cm³ = 1 000 kg/m³.
+Quelle est la formule de la masse volumique ?|ρ = m ÷ V|ρ = m × V|ρ = V ÷ m|ρ = m + V|0|La masse volumique est le quotient de la masse par le volume.
+Quel pourcentage de l’air est constitué de dioxygène (environ) ?|78 %|1 %|50 %|21 %|3|L’air contient environ 21 % de dioxygène.
+Quelle méthode permet de séparer du sable et de l’eau ?|La distillation|La filtration|La chromatographie|L’évaporation|1|Le filtre retient le sable.
+200 g d’un liquide occupent 250 cm³. Quelle est sa masse volumique ?|1,25 g/cm³|0,8 g/cm³|50 g/cm³|0,2 g/cm³|1|ρ = 200 ÷ 250 = 0,8 g/cm³.
+Quelle est la masse d’un cube d’aluminium de 10 cm³ (ρ = 2,7 g/cm³) ?|3,7 g|2,7 g|270 g|27 g|3|m = ρ × V = 2,7 × 10 = 27 g.
+L’huile (0,9 g/cm³) et l’eau (1,0 g/cm³) sont mélangées. Que se passe-t-il ?|L’huile flotte sur l’eau|L’huile coule|Elles se mélangent complètement|L’eau flotte sur l’huile|0|Le liquide le moins dense est au-dessus.
+Quelle méthode sépare un mélange d’eau et d’huile ?|La filtration|La chromatographie|La décantation|L’évaporation|2|On utilise une ampoule à décanter.
+Quelle méthode permet de récupérer le sel d’une eau salée ?|La décantation|La filtration|L’évaporation|La chromatographie seulement|2|On fait partir l’eau et le sel reste.
+Que reste-t-il constant pendant la fusion d’un corps pur ?|La température|La couleur|Le volume|La masse volumique|0|Le palier de température caractérise le changement d’état d’un corps pur.
+Un objet de 50 g a un volume de 20 cm³. Quelle est sa masse volumique ?|1 000 g/cm³|0,4 g/cm³|30 g/cm³|2,5 g/cm³|3|ρ = 50 ÷ 20 = 2,5 g/cm³.
+Quel mélange est homogène ?|L’eau et le sable|L’eau sucrée|L’eau et l’huile|Le granit|1|On ne distingue pas les constituants.
+Quelle est la masse volumique de l’eau en kg/m³ ?|1 kg/m³|1 000 kg/m³|10 kg/m³|100 000 kg/m³|1|1 g/cm³ = 1 000 kg/m³.
+Un objet de densité 2,7 :|flotte dans l’eau|a la même masse que l’eau|est un gaz|coule dans l’eau|3|Sa masse volumique est supérieure à celle de l’eau.
+Quel appareil permet de séparer un mélange de liquides par leurs températures d’ébullition ?|Un montage de distillation|Une balance|Un pH-mètre|Un ampèremètre|0|Le constituant le plus volatil est recueilli en premier.
+Pourquoi un bateau en acier flotte-t-il ?|L’acier est moins dense que l’eau|Il est très léger|Sa masse volumique moyenne est inférieure à celle de l’eau|Il contient du vide pur|2|La coque contient beaucoup d’air.
+La température d’un mélange pendant son ébullition :|reste constante pour tout mélange|est toujours égale à 100 °C|varie|est toujours nulle|2|Seul un corps pur garde une température constante pendant l’ébullition.
+Quelle méthode sépare les colorants d’un feutre ?|La chromatographie|La filtration|La décantation|L’évaporation|0|Elle sépare les espèces colorées.
+On fait bouillir de l’eau salée et on condense la vapeur. Que recueille-t-on ?|De l’eau salée|Du sel pur|Un mélange eau-sel identique|De l’eau distillée|3|Le sel ne se vaporise pas.
+Un liquide a une masse volumique de 1,2 g/cm³. Que se passe-t-il pour un morceau de bois de 0,6 g/cm³ ?|Il coule|Il flotte|Il se dissout|Il ne change pas de position|1|Le bois est moins dense que le liquide.

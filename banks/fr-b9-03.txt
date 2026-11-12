@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quel organe est une barrière naturelle contre les microbes ?|Le cœur|La peau|Le foie|Le cerveau|1|La peau empêche beaucoup de microbes d’entrer.
+Comment s’appellent les cellules qui englobent et détruisent les microbes ?|Les neurones|Les ovules|Les globules rouges|Les phagocytes|3|C’est la phagocytose.
+Que produisent les lymphocytes B ?|Des anticorps|Des hormones|De l’insuline|De l’oxygène|0|Les anticorps se fixent sur l’antigène.
+Qu’est-ce qu’un antigène ?|Un anticorps|Une hormone|Une molécule étrangère reconnue par le système immunitaire|Un globule rouge|2|Il se trouve par exemple à la surface d’un microbe.
+Contre quels microbes les antibiotiques sont-ils efficaces ?|Les virus|Les champignons uniquement|Les bactéries|Tous les microbes|2|Ils ne soignent pas les infections virales.
+À quoi sert un vaccin ?|À préparer l’organisme à se défendre contre un microbe|À guérir toutes les maladies|À remplacer les antibiotiques|À augmenter la taille|0|Il crée une mémoire immunitaire.
+Quelle protection permet à la fois d’éviter une grossesse et de se protéger des IST ?|La pilule|L’implant|Le stérilet|Le préservatif|3|C’est le seul moyen qui protège aussi des IST.
+Où a lieu la fécondation chez la femme ?|Dans l’estomac|Dans la trompe de l’utérus|Dans le vagin|Dans les poumons|1|L’ovule et le spermatozoïde s’y rencontrent.
+Qu’est-ce que la mémoire immunitaire ?|La capacité à retenir des informations|La capacité de répondre plus vite à un antigène déjà rencontré|Un organe de stockage|Un type de vaccin|1|Des lymphocytes mémoire persistent.
+Que contient un vaccin ?|Des antibiotiques|Un microbe vivant virulent|Des hormones|Un antigène sous une forme qui ne provoque pas la maladie|3|Il stimule la défense sans provoquer la maladie.
+Quel est le rôle de l’inflammation ?|Attirer des cellules immunitaires vers la zone infectée|Faire grandir la peau|Produire de l’énergie|Digérer les aliments|0|Elle se manifeste par rougeur, chaleur et gonflement.
+Pourquoi faut-il respecter la durée d’un traitement antibiotique ?|Pour fabriquer des vitamines|Pour augmenter les défenses|Pour éviter la sélection de bactéries résistantes|Pour tuer les virus|2|Un mauvais usage favorise les bactéries résistantes.
+Qu’est-ce que l’immunité collective ?|L’immunité d’un seul individu|Une maladie rare|La protection indirecte d’une population quand une grande partie est vaccinée|Un type d’antibiotique|2|La circulation du microbe diminue.
+Quel jour du cycle de 28 jours l’ovulation a-t-elle lieu (environ) ?|Le 14ᵉ jour|Le 1ᵉʳ jour|Le 28ᵉ jour|Le 7ᵉ jour|0|L’ovulation est vers le milieu du cycle.
+Qu’est-ce que le placenta ?|Un hormone|Un liquide de protection uniquement|Un type d’ovule|L’organe d’échanges entre la mère et l’embryon|3|Il assure nutrition et oxygénation.
+Quelle IST peut être évitée par la vaccination ?|Le VIH|L’hépatite B|Le rhume|La grippe|1|Il existe un vaccin contre l’hépatite B.
+Pourquoi les antibiotiques ne soignent-ils pas la grippe ?|La grippe est une maladie héréditaire|La grippe est une infection virale|Les antibiotiques sont trop faibles|La grippe est due à une bactérie|1|Les antibiotiques agissent seulement sur les bactéries.
+Quel est l’effet d’un rappel de vaccin ?|Supprimer les anticorps|Détruire les lymphocytes|Provoquer la maladie|Renforcer la mémoire immunitaire|3|Il stimule à nouveau les lymphocytes mémoire.
+Quelle est la différence entre un vaccin et un sérum ?|Le vaccin stimule la production d’anticorps ; le sérum apporte des anticorps déjà prêts|Les deux sont identiques|Le sérum crée une mémoire durable|Le vaccin apporte directement des anticorps|0|Le sérum agit vite mais temporairement.
+Comment une bactérie devient-elle résistante à un antibiotique ?|Par un apprentissage volontaire|Par l’alimentation|Par mutation, puis sélection des bactéries résistantes|Par la lumière|2|Les résistantes survivent et se multiplient.
+Quel rôle jouent les lymphocytes T ?|Produire des anticorps|Transporter l’oxygène|Détruire les cellules infectées|Fabriquer des hormones|2|Les lymphocytes B produisent des anticorps.
+Pourquoi la pilule ne protège-t-elle pas du VIH ?|Elle empêche l’ovulation mais ne fait pas barrière aux virus|Elle détruit le VIH mais pas les spermatozoïdes|Elle contient un vaccin contre le VIH|Elle n’a aucun effet|0|Seul le préservatif est une barrière.
+Quel événement a lieu pendant la nidation ?|Le spermatozoïde est produit|L’ovule est libéré|Les règles commencent|L’œuf s’implante dans l’utérus|3|L’embryon se fixe sur la muqueuse utérine.
+Quel est le rôle des hormones à la puberté ?|Digérer les aliments|Rendre les organes reproducteurs fonctionnels|Protéger contre les microbes|Fabriquer les os|1|Elles déclenchent les transformations de la puberté.

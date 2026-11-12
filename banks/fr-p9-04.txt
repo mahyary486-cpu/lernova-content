@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité de l’intensité du courant ?|Le volt (V)|L’ampère (A)|L’ohm (Ω)|Le watt (W)|1|L’intensité se mesure en ampères.
+Quelle est l’unité de la tension électrique ?|L’ampère (A)|Le joule (J)|L’ohm (Ω)|Le volt (V)|3|La tension se mesure en volts.
+Comment branche-t-on un ampèremètre ?|En série|En dérivation|Aux bornes du générateur seulement|Sans circuit|0|Il doit être traversé par le courant.
+Comment branche-t-on un voltmètre ?|En série|Entre deux piles seulement|En dérivation, aux bornes du dipôle|Avant l’interrupteur seulement|2|Il mesure la tension aux bornes d’un dipôle.
+Quelle est la loi d’Ohm ?|U = R ÷ I|R = U × I|U = R × I|I = U × R|2|La tension est proportionnelle à l’intensité.
+Quelle est l’unité de la résistance électrique ?|L’ohm (Ω)|Le volt (V)|L’ampère (A)|Le watt (W)|0|La résistance s’exprime en ohms.
+Quelle formule donne la puissance électrique ?|P = U ÷ I|P = R × U|P = U + I|P = U × I|3|La puissance est le produit de la tension par l’intensité.
+Dans un circuit en série, l’intensité est :|plus grande près du générateur|la même en tout point|nulle dans les lampes|divisée par deux à chaque dipôle|1|Le courant ne s’accumule nulle part.
+Un conducteur de 100 Ω est traversé par 0,2 A. Quelle est la tension à ses bornes ?|500 V|20 V|0,002 V|100,2 V|1|U = R × I = 100 × 0,2 = 20 V.
+Sous 12 V, un conducteur est traversé par 0,5 A. Quelle est sa résistance ?|6 Ω|12,5 Ω|0,04 Ω|24 Ω|3|R = U ÷ I = 12 ÷ 0,5 = 24 Ω.
+Deux résistances de 10 Ω et 20 Ω sont en série. Quelle est la résistance équivalente ?|30 Ω|200 Ω|15 Ω|6,7 Ω|0|R = R₁ + R₂ = 30 Ω.
+Deux lampes en série ont des tensions de 6 V et 3 V. Quelle est la tension totale ?|3 V|18 V|9 V|2 V|2|Loi d’additivité : U = U₁ + U₂.
+En dérivation, deux branches sont traversées par 0,3 A et 0,2 A. Quelle est l’intensité dans la branche principale ?|0,1 A|0,06 A|0,5 A|0,3 A|2|Loi des nœuds : I = I₁ + I₂.
+Un appareil est alimenté sous 230 V avec une intensité de 2 A. Quelle est sa puissance ?|460 W|115 W|232 W|4,6 W|0|P = U × I = 230 × 2 = 460 W.
+Un appareil de 1 000 W fonctionne 2 h. Quelle énergie consomme-t-il ?|500 Wh|2 000 kWh|1 000 kWh|2 kWh|3|E = P × t = 1 kW × 2 h = 2 kWh.
+À quoi sert un fusible ?|À augmenter la tension|À couper le circuit en cas de surintensité|À mesurer l’intensité|À produire de l’électricité|1|Il fond quand l’intensité dépasse sa valeur limite.
+Un radiateur de 2 000 W fonctionne 3 h. Le kWh coûte 0,15 €. Quel est le coût ?|0,30 €|0,90 €|6 €|0,45 €|1|E = 2 kW × 3 h = 6 kWh et 6 × 0,15 = 0,90 €.
+Une lampe est alimentée sous 230 V et traversée par 0,087 A. Quelle est sa puissance (environ) ?|2 643 W|0,0004 W|230 W|20 W|3|P = 230 × 0,087 ≈ 20 W.
+Un conducteur de 50 Ω est soumis à 10 V. Quelle est l’intensité qui le traverse ?|0,2 A|500 A|5 A|0,02 A|0|I = U ÷ R = 10 ÷ 50 = 0,2 A.
+Deux dipôles sont branchés en dérivation sur un générateur de 6 V. Quelle est la tension aux bornes de chacun ?|3 V|12 V|6 V|0 V|2|Loi d’unicité des tensions en dérivation.
+La caractéristique U = f(I) d’un conducteur ohmique est :|une courbe qui monte puis redescend|un cercle|une droite passant par l’origine|une droite horizontale|2|U est proportionnelle à I.
+Un conducteur ohmique de 100 Ω est traversé par 0,1 A. Quelle puissance reçoit-il ?|1 W|10 W|0,1 W|100 W|0|U = 100 × 0,1 = 10 V puis P = 10 × 0,1 = 1 W.
+Pourquoi un court-circuit est-il dangereux ?|La tension devient nulle et rien ne se passe|La résistance devient très grande|Le circuit consomme moins d’énergie|L’intensité devient très grande et peut provoquer un échauffement|3|La résistance est très faible donc l’intensité est très élevée.
+Un four de 2,3 kW est alimenté sous 230 V. Quelle est l’intensité qui le traverse ?|0,1 A|10 A|529 A|2 070 A|1|I = P ÷ U = 2 300 ÷ 230 = 10 A.

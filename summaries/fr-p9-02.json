@@ -1,0 +1,5 @@
+{
+ "Interactions et forces": "Une force modélise l’action d’un objet sur un autre : action de contact ou action à distance. Elle est caractérisée par un point d’application, une direction, un sens et une valeur en newtons (N), mesurée avec un dynamomètre, et représentée par un vecteur. Deux objets en interaction exercent l’un sur l’autre des forces de même valeur, de même direction et de sens opposés.",
+ "Poids, masse et gravitation": "Le poids P d’un objet est la force d’attraction gravitationnelle qu’exerce un astre sur lui : P = m × g, avec P en newtons, m en kilogrammes et g l’intensité de pesanteur en N/kg (9,8 N/kg sur Terre, 1,6 N/kg sur la Lune). La masse est invariante, le poids dépend de l’astre. L’attraction gravitationnelle augmente avec les masses et diminue quand la distance augmente.",
+ "Principe d’inertie": "Principe d’inertie : si les forces qui s’exercent sur un objet se compensent, il est immobile ou en mouvement rectiligne uniforme. Réciproquement, si un objet est immobile ou en mouvement rectiligne uniforme, les forces qu’il subit se compensent. Si elles ne se compensent pas, la vitesse ou la trajectoire de l’objet est modifiée."
+}

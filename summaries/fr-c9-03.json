@@ -1,0 +1,5 @@
+{
+ "Acides, bases et pH": "Le pH mesure l’acidité d’une solution aqueuse sur une échelle de 0 à 14 à 25 °C. Une solution est acide si pH < 7 (excès d’ions H⁺), neutre si pH = 7 et basique si pH > 7 (excès d’ions HO⁻). On mesure le pH avec un papier pH ou un pH-mètre.",
+ "Tests d’identification des ions": "On identifie certains ions en solution par des tests caractéristiques. L’hydroxyde de sodium (soude) donne un précipité coloré avec les ions métalliques : bleu pour Cu²⁺, vert pour Fe²⁺, rouille pour Fe³⁺, blanc pour Zn²⁺. Le nitrate d’argent donne un précipité blanc qui noircit à la lumière avec les ions chlorure Cl⁻.",
+ "Dissolution et concentration massique": "Dissoudre un solide (soluté) dans un liquide (solvant) donne une solution. La concentration massique est c = m ÷ V, où m est la masse de soluté (en g) et V le volume de solution (en L) ; c s’exprime en g/L. Pour une dilution, la masse de soluté se conserve : c₁ × V₁ = c₂ × V₂."
+}

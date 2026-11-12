@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité de l’énergie dans le Système international ?|Le watt (W)|Le joule (J)|Le newton (N)|Le volt (V)|1|L’énergie s’exprime en joules.
+Quelle forme d’énergie est stockée dans une pile ?|L’énergie cinétique|L’énergie nucléaire|L’énergie sonore|L’énergie chimique|3|La pile convertit de l’énergie chimique en énergie électrique.
+Un panneau solaire convertit :|l’énergie lumineuse en énergie électrique|l’énergie électrique en énergie lumineuse|l’énergie chimique en énergie thermique|l’énergie cinétique en énergie lumineuse|0|C’est la conversion d’un panneau photovoltaïque.
+Un objet en mouvement possède de l’énergie :|potentielle uniquement|nucléaire|cinétique|chimique uniquement|2|L’énergie cinétique est liée à la vitesse.
+Quelle est l’unité de la puissance ?|Le joule (J)|Le newton (N)|Le watt (W)|L’ampère (A)|2|P = E ÷ t, en watts.
+Laquelle de ces sources d’énergie est renouvelable ?|Le vent|Le charbon|Le pétrole|Le gaz naturel|0|Le vent se renouvelle à l’échelle humaine.
+Une ampoule convertit l’énergie électrique en :|énergie chimique|énergie nucléaire|énergie cinétique uniquement|énergie lumineuse et énergie thermique|3|Une partie de l’énergie est perdue sous forme de chaleur.
+Un appareil de 100 W fonctionne pendant 10 s. Quelle énergie reçoit-il ?|10 J|1 000 J|100 J|10 000 J|1|E = P × t = 100 × 10 = 1 000 J.
+Quelle est l’énergie cinétique d’un objet de 2 kg à 3 m/s ?|6 J|9 J|18 J|3 J|1|Ec = ½ × 2 × 3² = 9 J.
+Si la vitesse d’un objet double, son énergie cinétique est :|multipliée par 2|inchangée|divisée par 2|multipliée par 4|3|Ec dépend de v².
+Quelle est l’énergie potentielle d’un objet de 2 kg à 5 m de hauteur (g = 10 N/kg) ?|100 J|10 J|20 J|50 J|0|Epp = 2 × 10 × 5 = 100 J.
+L’énergie mécanique est égale à :|Ec − Epp|Ec × Epp|Ec + Epp|Ec ÷ Epp|2|Em est la somme des énergies cinétique et potentielle.
+Un appareil reçoit 80 J et fournit 60 J d’énergie utile. Quel est son rendement ?|25 %|133 %|75 %|60 %|2|η = 60 ÷ 80 = 0,75.
+Combien de joules représentent 2 kWh ?|7,2 × 10⁶ J|3 600 J|2 000 J|7 200 J|0|1 kWh = 3,6 × 10⁶ J.
+Que dit le principe de conservation de l’énergie ?|L’énergie se perd toujours|L’énergie se crée dans les machines|L’énergie est toujours cinétique|L’énergie ne se crée pas et ne se détruit pas, elle se convertit|3|L’énergie est conservée lors des conversions.
+Qu’est-ce qu’une chaîne énergétique ?|La liste des appareils d’une maison|La description des conversions d’énergie d’une forme à une autre|Une chaîne de montagnes|Un circuit électrique|1|Elle montre réservoirs et conversions.
+Quelle est l’énergie cinétique d’une voiture de 1 000 kg roulant à 20 m/s ?|20 000 J|200 000 J|400 000 J|10 000 J|1|Ec = ½ × 1 000 × 20² = 200 000 J.
+Une balle de 0,1 kg est lâchée d’une hauteur de 10 m (g = 10 N/kg, sans frottement). Quelle est son énergie cinétique en arrivant au sol ?|1 J|100 J|0 J|10 J|3|Epp = 0,1 × 10 × 10 = 10 J, entièrement convertie en Ec.
+Une balle de 0,1 kg a une énergie cinétique de 5 J. Quelle est sa vitesse ?|10 m/s|5 m/s|100 m/s|50 m/s|0|v² = 2 × 5 ÷ 0,1 = 100, donc v = 10 m/s.
+Un moteur de puissance 2 kW fonctionne 30 minutes. Quelle énergie consomme-t-il ?|60 000 J|2 000 J|3,6 × 10⁶ J|1 800 J|2|E = 2 000 × 1 800 = 3,6 × 10⁶ J.
+Un système de rendement 25 % reçoit 400 J. Quelle est l’énergie utile ?|25 J|300 J|100 J|1 600 J|2|E utile = 0,25 × 400 = 100 J.
+À vitesse égale, si la masse double, l’énergie cinétique :|double|est multipliée par 4|est divisée par 2|ne change pas|0|Ec est proportionnelle à m.
+Dans une centrale nucléaire, quelle est la suite des conversions d’énergie ?|Chimique, lumineuse puis sonore|Électrique, thermique puis nucléaire|Cinétique, chimique puis nucléaire|Nucléaire, thermique, mécanique puis électrique|3|La chaleur produit de la vapeur qui fait tourner une turbine reliée à un alternateur.
+Quelle est l’énergie dissipée sous forme de chaleur par un appareil qui reçoit 500 J et fournit 300 J utiles ?|800 J|200 J|150 J|300 J|1|E perdue = E reçue − E utile.

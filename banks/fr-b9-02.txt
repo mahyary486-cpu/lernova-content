@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Qu’est-ce que la biodiversité ?|Le nombre d’habitants d’un pays|La diversité des écosystèmes, des espèces et des gènes|La diversité des roches|La taille des animaux|1|C’est la diversité du vivant à plusieurs niveaux.
+Qu’est-ce qu’une espèce ?|Un ensemble d’individus qui vivent au même endroit|Un groupe d’animaux de même couleur|Un groupe d’animaux de même taille|Un ensemble d’individus pouvant se reproduire entre eux et avoir des descendants fertiles|3|C’est la définition biologique de l’espèce.
+Comment s’appelle le schéma qui représente les relations de parenté ?|Un arbre phylogénétique|Un caryotype|Une chaîne alimentaire|Un diagramme de flux|0|Il montre des ancêtres communs.
+Qu’est-ce que la sélection naturelle ?|Le choix des parents par les animaux|Un tri des espèces par l’homme|La survie et la reproduction plus fréquente des individus les mieux adaptés|La disparition de toutes les espèces|2|Les individus adaptés laissent plus de descendants.
+Les mammifères possèdent :|des plumes|des branchies|des mamelles et des poils|des écailles|2|Ce sont des caractères propres aux mammifères.
+Quelle activité humaine menace la biodiversité ?|La déforestation|La plantation d’arbres|La création de réserves naturelles|Le recyclage|0|La déforestation détruit des habitats.
+Comment appelle-t-on la disparition définitive d’une espèce ?|Une mutation|Une migration|Une fécondation|Une extinction|3|Le dernier individu a disparu.
+D’où vient la variabilité génétique d’une population ?|De la nourriture|Des mutations et du brassage génétique|Du climat uniquement|Des maladies|1|Les mutations créent de nouveaux allèles.
+Deux espèces qui partagent un ancêtre commun récent sont :|plus éloignées|plus proches parentes|sans lien|de même espèce|1|Plus l’ancêtre commun est récent, plus la parenté est étroite.
+La phalène du bouleau est un exemple de :|mutation volontaire|croisement artificiel|extinction|sélection naturelle|3|Les papillons sombres étaient moins visibles en milieu pollué.
+Comment explique-t-on l’apparition de bactéries résistantes aux antibiotiques ?|Les bactéries résistantes survivent et se reproduisent davantage|Les antibiotiques créent la résistance volontairement|Les bactéries décident de résister|Les antibiotiques sont trop faibles|0|La sélection naturelle favorise les résistantes.
+Un caractère dérivé permet :|de classer par taille|de dater les roches|de définir un groupe de parenté|de classer par couleur|2|Il est apparu chez un ancêtre commun du groupe.
+Quelle est l’une des causes de la disparition des habitats ?|La pluie|Les volcans uniquement|L’urbanisation et l’agriculture intensive|L’augmentation des abeilles|2|Les activités humaines transforment les milieux.
+Quel est un service rendu par la biodiversité ?|La pollinisation|La destruction des sols|La production de plastique|La construction de barrages|0|Elle assure la reproduction de nombreuses plantes.
+Que montre un arbre phylogénétique ?|Le poids des espèces|L’alimentation des espèces|La taille de leur habitat|Les liens de parenté entre espèces|3|Il représente les ancêtres communs.
+Qu’est-ce qu’une espèce invasive ?|Une espèce rare|Une espèce introduite qui prolifère aux dépens des espèces locales|Une espèce domestique|Une espèce protégée|1|Elle perturbe l’écosystème.
+Pourquoi des ressemblances entre deux espèces ne prouvent-elles pas toujours leur parenté ?|Elles viennent toujours d’un ancêtre commun|Elles peuvent venir de conditions de vie communes (convergence)|Elles viennent de la mutation volontaire|Elles ne peuvent pas exister|1|Des espèces éloignées peuvent évoluer vers des formes semblables.
+Dans une population, les allèles avantageux voient leur fréquence :|diminuer au fil des générations|rester constante toujours|disparaître immédiatement|augmenter au fil des générations|3|Ceux qui les portent se reproduisent davantage.
+Quelle est la source de nouveaux allèles ?|Les mutations|La sélection naturelle seule|L’alimentation|L’environnement sans ADN|0|La sélection trie les variations créées par les mutations.
+Pourquoi l’usage répété d’un insecticide peut-il devenir inefficace ?|L’insecticide se périme|Les insectes deviennent plus gros|Les insectes résistants survivent et se reproduisent|Les insectes apprennent à l’éviter|2|La sélection favorise les individus résistants.
+Quelle espèce est la plus proche de l’homme parmi ces choix ?|Le chien|Le lézard|Le chimpanzé|Le poisson|2|Ils partagent un ancêtre commun très récent.
+Pourquoi protéger la biodiversité est-il important ?|Les espèces sont liées et rendent des services aux écosystèmes et aux humains|Parce que toutes les espèces sont semblables|Parce que seules les espèces rares comptent|Parce que cela coûte moins cher|0|La perte d’une espèce peut déséquilibrer un écosystème.
+Combien y a-t-il eu de grandes crises d’extinction massive dans l’histoire de la Terre ?|Une|Deux|Dix|Cinq|3|Les scientifiques en comptent cinq.
+Quelle mesure protège la biodiversité ?|Le drainage des zones humides|La création de réserves naturelles|L’utilisation massive de pesticides|L’urbanisation des côtes|1|Elles préservent les habitats.

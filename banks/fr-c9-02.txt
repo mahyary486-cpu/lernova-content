@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Dans une transformation chimique, les espèces qui disparaissent sont :|les produits|les réactifs|les catalyseurs|les mélanges|1|Les réactifs sont consommés.
+Dans une transformation chimique, les espèces qui apparaissent sont :|les réactifs|les solvants|les atomes d’origine|les produits|3|Les produits sont formés.
+Que se conserve lors d’une transformation chimique ?|Les atomes et la masse totale|Les molécules|Les espèces chimiques|Le volume des solides|0|Les atomes se réarrangent, ils ne disparaissent pas.
+Qui a énoncé « Rien ne se perd, rien ne se crée, tout se transforme » ?|Newton|Einstein|Lavoisier|Mendeleïev|2|Antoine Lavoisier a formulé la conservation de la masse.
+Quels sont les trois éléments du triangle du feu ?|Eau, air et terre|Combustible, eau et vent|Combustible, comburant et énergie d’activation|Carbone, hydrogène et oxygène|2|Il faut ces trois éléments pour qu’une combustion ait lieu.
+Quel gaz trouble l’eau de chaux ?|Le dioxyde de carbone|Le dioxygène|Le dihydrogène|Le diazote|0|C’est le test caractéristique du CO₂.
+Quel est le comburant d’une combustion dans l’air ?|Le diazote|Le dioxyde de carbone|L’eau|Le dioxygène|3|Le dioxygène réagit avec le combustible.
+Une équation de réaction s’écrit :|produits → réactifs|réactifs → produits|réactifs + produits|réactifs = masse|1|Les réactifs sont à gauche, les produits à droite.
+Quelle équation est ajustée ?|H₂ + O₂ → H₂O|2 H₂ + O₂ → 2 H₂O|H₂ + 2 O₂ → 2 H₂O|2 H₂ + 2 O₂ → 2 H₂O|1|Il y a 4 H et 2 O de chaque côté.
+Quelle équation est ajustée pour la combustion du méthane ?|CH₄ + O₂ → CO₂ + H₂O|CH₄ + 3 O₂ → CO₂ + 2 H₂O|2 CH₄ + O₂ → 2 CO₂ + H₂O|CH₄ + 2 O₂ → CO₂ + 2 H₂O|3|1 C, 4 H, 4 O de chaque côté.
+12 g de carbone réagissent avec 32 g de dioxygène. Quelle masse de dioxyde de carbone se forme (réaction totale) ?|44 g|20 g|384 g|12 g|0|La masse totale se conserve : 12 + 32 = 44 g.
+Pour ajuster une équation, on modifie :|les indices dans les formules|les symboles des éléments|les nombres stœchiométriques devant les formules|les produits|2|On ne change jamais les indices.
+Quel gaz toxique se forme lors d’une combustion incomplète ?|Le dioxyde de carbone|Le dihydrogène|Le monoxyde de carbone|Le diazote|2|Il est inodore et dangereux.
+Quel gaz se forme quand le zinc réagit avec un acide ?|Le dihydrogène|Le dioxygène|Le dioxyde de carbone|Le chlore|0|Zn + 2 H⁺ → Zn²⁺ + H₂.
+Comment éteint-on un feu avec une couverture anti-feu ?|En retirant le combustible|En le refroidissant|En ajoutant du comburant|En privant le feu de dioxygène|3|On supprime un des éléments du triangle du feu.
+Quel indice montre qu’une transformation chimique a eu lieu ?|Un changement de forme d’un objet|Un dégagement gazeux, un changement de couleur ou la formation d’un solide|Un déplacement|Un changement de volume d’une casserole|1|Ces observations traduisent l’apparition de nouvelles espèces.
+Quelle est l’équation ajustée de l’oxydation du fer ?|Fe + O₂ → Fe₂O₃|4 Fe + 3 O₂ → 2 Fe₂O₃|2 Fe + 3 O₂ → Fe₂O₃|Fe + 3 O₂ → 2 Fe₂O₃|1|4 Fe et 6 O de chaque côté.
+Zn + 2 H⁺ → Zn²⁺ + H₂. La charge électrique est-elle conservée ?|Non, +2 à gauche et 0 à droite|Non, 0 à gauche et +2 à droite|Oui, 0 de chaque côté|Oui, +2 de chaque côté|3|2 ions H⁺ valent +2 ; Zn²⁺ vaut +2.
+Dans une réaction, un réactif a complètement disparu. Que peut-on dire ?|C’est le réactif limitant et la réaction s’arrête|La réaction continue|Il y a eu une erreur de pesée|La masse totale a diminué|0|Quand un réactif est épuisé, la réaction s’arrête.
+Quel est le test caractéristique du dihydrogène ?|Il trouble l’eau de chaux|Il rallume une bûchette incandescente|Il explose avec un petit bruit « pop » à l’approche d’une flamme|Il fait bleuir le sulfate de cuivre anhydre|2|C’est le test du dihydrogène.
+Un récipient ouvert contenant du carbonate et un acide perd de la masse. Pourquoi ?|La masse totale n’est pas conservée|Les atomes disparaissent|Le dioxyde de carbone formé s’échappe|Le récipient est trop léger|2|Le gaz quitte le récipient : la masse totale se conserve, mais pas celle du récipient ouvert.
+Dans CH₄ + 2 O₂ → CO₂ + 2 H₂O, combien d’atomes d’oxygène y a-t-il à droite ?|4|2|3|6|0|CO₂ contient 2 atomes d’oxygène et 2 H₂O en contiennent 2.
+Pourquoi faut-il aérer une pièce chauffée par une chaudière à gaz ?|Pour refroidir la pièce|Pour augmenter la température|Pour produire du dioxygène|Pour éviter la formation de monoxyde de carbone|3|Le manque d’air provoque une combustion incomplète.
+À gauche d’une équation, il y a 4 atomes d’hydrogène. Combien y en a-t-il à droite ?|2|4|8|0|1|Les atomes se conservent.
