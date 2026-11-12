@@ -73,11 +73,11 @@
    "year": "2026-2027"
   },
   "US": {
-   "bytes": 1177139,
+   "bytes": 1378620,
    "currentYear": "2026-2027",
-   "files": 320,
+   "files": 331,
    "name": "United States",
-   "rev": "1e55e7417f",
+   "rev": "d3d67e2ee1",
    "year": "2026-2027"
   }
  }
