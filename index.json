@@ -9020,7 +9020,7 @@
        "title": "Rules of differentiation"
       }
      ]
-    }
+    },{"id": "in-m11-st", "title": "Statistics", "lessons": [{"id": "in-m11-st-01", "title": "Range and mean deviation"}, {"id": "in-m11-st-02", "title": "Variance and standard deviation"}, {"id": "in-m11-st-03", "title": "Variance and standard deviation for grouped data"}, {"id": "in-m11-st-04", "title": "Coefficient of variation"}]},{"id": "in-m11-pr", "title": "Probability", "lessons": [{"id": "in-m11-pr-01", "title": "Random experiments, sample space and events"}, {"id": "in-m11-pr-02", "title": "Types of events"}, {"id": "in-m11-pr-03", "title": "Axiomatic approach to probability"}, {"id": "in-m11-pr-04", "title": "Addition rule and complement"}]}
    ]
   },
   {

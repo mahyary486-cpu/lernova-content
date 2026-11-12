@@ -1,0 +1,6 @@
+{
+ "Random experiments, sample space and events": "S is the set of all outcomes; an event is a subset.",
+ "Types of events": "Mutually exclusive: A ∩ B = ∅.",
+ "Axiomatic approach to probability": "P(E) = n(E)/n(S), 0 ≤ P(E) ≤ 1.",
+ "Addition rule and complement": "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)."
+}

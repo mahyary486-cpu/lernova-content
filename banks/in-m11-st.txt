@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Measures of dispersion show|how spread out the data is|the average of the data|the middle value|the most frequent value|0|They measure variability.
+The range of a data set is|maximum + minimum|maximum − minimum|mean − median|maximum × minimum|1|The simplest measure of dispersion.
+The range of 2, 5, 9, 15 is|17|7|13|10|2|15 − 2.
+The mean deviation is the mean of|the squares of the deviations|the deviations with signs|the data values|the absolute deviations from a central value|3|Mean or median is used as the central value.
+The variance is the mean of|the squares of the deviations from the mean|the deviations from the mean|the data values|the absolute deviations|0|σ² = (1/n) Σ(xᵢ − x̄)².
+The standard deviation is the|variance squared|square root of the variance|mean of the data|median of the data|1|σ = √σ².
+The symbol σ² denotes the|standard deviation|mean|variance|range|2|The square of σ.
+The symbol σ denotes the|variance|mean|range|standard deviation|3|The square root of the variance.
+The variance of identical observations is|0|1|the common value|undefined|0|All deviations are zero.
+The standard deviation is never|positive|negative|zero|an integer|1|It is a square root.
+The sum of the deviations of observations from their mean is|1|n|0|the mean|2|Positive and negative deviations cancel.
+The unit of the standard deviation is|the square of the unit|unitless|a different unit|the same as the unit of the data|3|It is in the original units.
+The unit of the variance is|the square of the unit of the data|the same as the data|unitless|the cube of the unit|0|The deviations are squared.
+The coefficient of variation is|σ × mean|(σ / mean) × 100|mean / σ|σ²|1|Expressed as a percentage.
+A lower coefficient of variation means the data is|less consistent|larger|more consistent|negative|2|There is less relative variation.
+The mean of 2, 4, 6 is|3|6|12|4|3|12/3.
+The mean deviation about the mean of 1 and 3 is|1|2|0|3|0|The mean is 2 and the deviations are 1 and 1.
+The mean deviation about the mean of 2, 4, 6, 8 is|1|2|4|3|1|The deviations are 3, 1, 1, 3.
+The mean deviation about the median of 3, 5, 7 is|2|1|4/3|0|2|The deviations are 2, 0, 2.
+The variance of 1, 2, 3 is|1|2|0|2/3|3|(1 + 0 + 1)/3.
+The standard deviation of 2, 4, 4, 4, 5, 5, 7, 9 is|2|4|3|5|0|The mean is 5 and the variance is 4.
+The variance of 5, 5, 5 is|5|0|1|25|1|There is no spread.
+The variance formula is σ² =|(1/n) Σ(xᵢ − x̄)|Σ(xᵢ − x̄)²|(1/n) Σ(xᵢ − x̄)²|(1/n) Σxᵢ|2|Mean of the squared deviations.
+An equivalent formula is σ² =|(1/n) Σxᵢ² + x̄²|Σxᵢ² − x̄|x̄²|(1/n) Σxᵢ² − x̄²|3|Mean of squares minus square of mean.
+If the standard deviation is 3, the variance is|9|6|3|1/3|0|3².
+If the variance is 16, the standard deviation is|8|4|256|1/4|1|√16.
+Adding 5 to every observation changes the standard deviation by|+5|a factor of 5|no change|−5|2|The spread is unchanged.
+Multiplying every observation by 2 makes the standard deviation|the same|half|2 more|double|3|The spread scales.
+When every observation is multiplied by 3, the variance becomes|9 times|3 times|the same|27 times|0|Variance scales with the square.
+The range of 10, 20, 30, 40, 50 is|50|40|30|10|1|50 − 10.
+The variance of 2, 4, 6, 8 is|4|2|5|10|2|The mean is 5 and (9 + 1 + 1 + 9)/4 = 5.
+The standard deviation of 2, 4, 6, 8 is|5|2|4|√5|3|√5.
+For grouped data the mean is|Σfᵢxᵢ / Σfᵢ|Σxᵢ / n|Σfᵢ|Σfᵢxᵢ|0|xᵢ is the class mark.
+For grouped data the variance is|(1/N) Σfᵢxᵢ|(1/N) Σfᵢ(xᵢ − x̄)²|Σfᵢ(xᵢ − x̄)|(1/N) Σ(xᵢ − x̄)|1|N = Σfᵢ.
+By the step-deviation method, σ² =|(h/N) Σfᵢyᵢ|NΣfᵢyᵢ|(h²/N²)[NΣfᵢyᵢ² − (Σfᵢyᵢ)²]|h²/N|2|yᵢ = (xᵢ − A)/h.
+The coefficient of variation of data with mean 50 and standard deviation 5 is|5%|1%|50%|10%|3|(5/50) × 100.
+For mean 20 and standard deviation 4, the coefficient of variation is|20%|4%|80%|5%|0|(4/20) × 100.
+Series A has mean 50 and SD 5; series B has mean 40 and SD 6. The more consistent series is|B|A|both are the same|cannot be said|1|CV of A is 10% and of B is 15%.
+If the coefficient of variation of A is 10% and of B is 15%, the more variable series is|A|both|B|neither|2|A higher CV means more variability.
+The variance of 6, 8, 10, 12, 14 is|10|4|2|8|3|The mean is 10 and (16 + 4 + 0 + 4 + 16)/5 = 8.
+The standard deviation of 6, 8, 10, 12, 14 is|2√2|8|4|√10|0|√8.
+The mean deviation about the mean of 6, 8, 10, 12, 14 is|2|2.4|3|4|1|(4 + 2 + 0 + 2 + 4)/5.
+For x = 2, 3, 4 with frequencies 1, 2, 1 the variance is|1|2|1/2|0|2|The mean is 3 and Σf(x − x̄)² = 2, N = 4.
+If n = 5, Σx = 20 and Σx² = 100, the variance is|20|16|5|4|3|100/5 − 4².
+If n = 10, the mean is 6 and the variance is 4, then Σx² =|400|40|360|44|0|n(σ² + x̄²).
+If the mean is 4 and the standard deviation is 0, then all observations|are 0|are equal to 4|vary|are less than 4|1|There is no deviation.
+The mean deviation is least when measured about the|mean|mode|median|range|2|A property of the median.
+If every observation is increased by 10, the variance|increases by 10|increases by 100|doubles|stays the same|3|Spread is unchanged.
+Which measure is most affected by an extreme value?|the range|the median|the mode|the number of observations|0|It depends only on the two extreme values.
+The standard deviation of 10 observations each equal to 7 is|7|0|1|49|1|All values are the same.
