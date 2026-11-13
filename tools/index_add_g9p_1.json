@@ -1,0 +1,86 @@
+[
+ {
+  "grade": 9,
+  "subject": "Physics",
+  "chapters": [
+   {
+    "id": "g9p-ch1",
+    "title": "Science Skills and Measurement",
+    "lessons": [
+     {
+      "id": "g9p-ch1-l1",
+      "title": "The Scientific Method and Lab Safety"
+     },
+     {
+      "id": "g9p-ch1-l2",
+      "title": "SI Units and Measurement"
+     },
+     {
+      "id": "g9p-ch1-l3",
+      "title": "Scientific Notation and Significant Figures"
+     },
+     {
+      "id": "g9p-ch1-l4",
+      "title": "Unit Conversions"
+     },
+     {
+      "id": "g9p-ch1-l5",
+      "title": "Graphs and Data Analysis"
+     }
+    ]
+   },
+   {
+    "id": "g9p-ch2",
+    "title": "Motion",
+    "lessons": [
+     {
+      "id": "g9p-ch2-l1",
+      "title": "Reference Points and Speed"
+     },
+     {
+      "id": "g9p-ch2-l2",
+      "title": "Velocity"
+     },
+     {
+      "id": "g9p-ch2-l3",
+      "title": "Acceleration"
+     },
+     {
+      "id": "g9p-ch2-l4",
+      "title": "Distance-Time and Speed-Time Graphs"
+     },
+     {
+      "id": "g9p-ch2-l5",
+      "title": "Free Fall and Gravity"
+     }
+    ]
+   },
+   {
+    "id": "g9p-ch3",
+    "title": "Forces and Newton's Laws",
+    "lessons": [
+     {
+      "id": "g9p-ch3-l1",
+      "title": "What Is a Force?"
+     },
+     {
+      "id": "g9p-ch3-l2",
+      "title": "Newton's First Law: Inertia"
+     },
+     {
+      "id": "g9p-ch3-l3",
+      "title": "Newton's Second Law: F = ma"
+     },
+     {
+      "id": "g9p-ch3-l4",
+      "title": "Newton's Third Law"
+     },
+     {
+      "id": "g9p-ch3-l5",
+      "title": "Gravity, Weight and Friction"
+     }
+    ]
+   }
+  ]
+ }
+]
