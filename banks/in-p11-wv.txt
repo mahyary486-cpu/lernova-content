@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+A wave transfers|energy|matter|both matter and energy|neither|0|The medium's particles only oscillate.
+In a transverse wave the particles of the medium move|parallel to it|perpendicular to the direction of propagation|only in circles|not at all|1|For example waves on a string.
+In a longitudinal wave the particles of the medium move|perpendicular to it|in circles|parallel to the direction of propagation|not at all|2|For example sound.
+Sound waves in air are|transverse|electromagnetic|stationary|longitudinal|3|Compressions and rarefactions.
+Light waves are|transverse|longitudinal|mechanical|sound waves|0|Electromagnetic waves.
+The speed of a wave is v =|f/λ|f λ|λ/f|f + λ|1|Frequency times wavelength.
+The wavelength is|the time period|the amplitude|the distance between two successive crests|the frequency|2|One complete wave.
+The SI unit of wavelength is the|hertz|second|radian|metre|3|A length.
+The principle of superposition states that the net displacement is|the vector sum of the individual displacements|their difference|their product|always zero|0|For overlapping waves.
+A standing wave has|only nodes|nodes and antinodes|only antinodes|no fixed points|1|It does not travel.
+Nodes are points where the displacement is|maximum|constant but non-zero|always zero|infinite|2|They are fixed.
+Antinodes are points where the displacement is|zero|unchanging|infinite|maximum|3|Largest amplitude.
+Beats are produced by the superposition of two waves of|slightly different frequencies|the same frequency|very different frequencies|equal amplitude only|0|They give loud and soft sound alternately.
+The beat frequency is|their sum|the difference of the two frequencies|their product|their ratio|1|f₁ − f₂.
+The Doppler effect is the change in the|wavelength only|speed of the wave|apparent frequency due to relative motion|amplitude of the wave|2|Between the source and the observer.
+The speed of sound in air at 20 °C is about|3 × 10⁸ m/s|34 m/s|3400 m/s|343 m/s|3|Increases with temperature.
+Sound cannot travel through|a vacuum|water|air|steel|0|It needs a material medium.
+A wave has f = 50 Hz and λ = 4 m. Its speed is|12.5 m/s|200 m/s|54 m/s|46 m/s|1|fλ.
+A sound wave has v = 340 m/s and f = 170 Hz. Its wavelength is|0.5 m|57 800 m|2 m|1.7 m|2|v/f.
+The distance between two consecutive nodes of a standing wave is|λ|λ/4|2λ|λ/2|3|Half a wavelength.
+In y = A sin(kx − ωt) the wave number is k =|2π/λ|λ/2π|ω/λ|2πλ|0|Radians per metre.
+The speed of a wave in terms of ω and k is|ωk|ω/k|k/ω|ω + k|1|v = fλ = ω/k.
+The speed of a transverse wave on a string is v =|√(μ/T)|T/μ|√(T/μ)|Tμ|2|T is the tension and μ the mass per unit length.
+If the tension in a string is quadrupled, the wave speed|quadruples|halves|stays the same|doubles|3|v ∝ √T.
+The speed of sound in a gas is v =|√(γP/ρ)|√(P/ρ)|γP/ρ|√(ρ/γP)|0|Laplace's correction.
+The speed of sound in air increases with|pressure at constant temperature|temperature|amplitude|frequency|1|v ∝ √T.
+The speed of sound is generally greatest in|liquids|gases|solids|a vacuum|2|Higher elasticity.
+The fundamental frequency of a string of length L fixed at both ends is|v/L|2v/L|v/4L|v/2L|3|λ = 2L.
+The harmonics of a string fixed at both ends are fₙ =|n v/2L|(2n + 1)v/4L|n v/L|v/nL|0|n = 1, 2, 3, …
+The fundamental frequency of a pipe closed at one end is|v/2L|v/4L|v/L|2v/L|1|λ = 4L.
+A closed organ pipe produces|all harmonics|only even harmonics|only odd harmonics|no harmonics|2|f, 3f, 5f, …
+An open organ pipe produces|only odd harmonics|only even harmonics|no harmonics|all harmonics|3|f, 2f, 3f, …
+The fundamental frequency of an open pipe of length L is|v/2L|v/4L|v/L|2v/L|0|λ = 2L.
+Two tuning forks of 256 Hz and 260 Hz produce a beat frequency of|516 Hz|4 Hz|2 Hz|1 Hz|1|The difference.
+When a source approaches a stationary observer, the apparent frequency|decreases|stays the same|increases|becomes zero|2|The wavelengths are compressed.
+When a source moves away from a stationary observer, the apparent frequency|increases|stays the same|becomes zero|decreases|3|The wavelengths are stretched.
+A string 0.5 m long is fixed at both ends and carries waves of speed 100 m/s. The fundamental frequency is|100 Hz|50 Hz|200 Hz|25 Hz|0|v/2L.
+The second harmonic of that string is|100 Hz|200 Hz|300 Hz|400 Hz|1|2 × 100.
+A closed pipe 0.25 m long (v = 340 m/s) has a fundamental frequency of|680 Hz|170 Hz|340 Hz|85 Hz|2|v/4L.
+An open pipe 0.5 m long (v = 340 m/s) has a fundamental frequency of|170 Hz|680 Hz|85 Hz|340 Hz|3|v/2L.
+For an observer moving towards a stationary source, the apparent frequency is f′ =|f (v + v_o)/v|f (v − v_o)/v|f v/(v − v_o)|f v/(v + v_o)|0|The relative speed increases.
+A 340 Hz source approaches a stationary observer at 34 m/s (v = 340 m/s). The apparent frequency is about|340 Hz|378 Hz|306 Hz|374 Hz|1|340 × 340/306.
+An observer moves at 34 m/s towards a stationary 500 Hz source (v = 340 m/s). The apparent frequency is|450 Hz|500 Hz|550 Hz|600 Hz|2|500 × 374/340.
+Two waves y₁ = A sin ωt and y₂ = A sin(ωt + π) combine to give a resultant amplitude of|2A|A|A/2|zero|3|Destructive interference.
+Two identical waves in phase give a resultant amplitude of|2A|A|0|A/2|0|Constructive interference.
+The intensity of a wave is proportional to the|amplitude|square of the amplitude|frequency|wavelength|1|I ∝ A².
+Two coherent waves of amplitude A in phase give an intensity that is|2 times|the same|4 times that of one wave|zero|2|(2A)² = 4A².
+Two tuning forks of 240 Hz and 244 Hz give beats separated by a time of|4 s|2 s|0.5 s|0.25 s|3|1/(4 Hz).
+A string of mass 0.01 kg and length 1 m is under a tension of 100 N. The wave speed is|100 m/s|10 m/s|1000 m/s|50 m/s|0|√(100/0.01).
+In the fundamental mode of a string fixed at both ends, the number of nodes (including the ends) is|1|2|3|0|1|One antinode between.

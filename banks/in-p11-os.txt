@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Motion that repeats itself at regular intervals of time is|periodic motion|random motion|linear motion|projectile motion|0|For example the motion of a pendulum.
+The time period T is|the number of oscillations per second|the time taken for one complete oscillation|the maximum displacement|the speed of the particle|1|Measured in seconds.
+The frequency f is related to the time period by f =|T|T²|1/T|2T|2|Oscillations per second.
+The SI unit of frequency is the|second|metre|radian|hertz|3|1 Hz = 1 oscillation per second.
+The angular frequency is ω =|2πf|f|f/2π|2π/f|0|Or 2π/T.
+The SI unit of angular frequency is|m/s|rad/s|s|rad|1|Angle per time.
+In simple harmonic motion the restoring force is proportional to the|velocity|square of the acceleration|displacement from the mean position|time|2|F = −kx.
+In SHM the acceleration is directed towards|away from the mean position|perpendicular to the motion|no fixed point|the mean position|3|It is a restoring acceleration.
+The displacement in SHM can be written as x =|A sin(ωt + φ)|A t|A/(ωt)|A²|0|A sinusoidal function of time.
+The amplitude is|the time period|the maximum displacement from the mean position|the frequency|the speed|1|Denoted by A.
+At the mean position of an SHM, the velocity is|zero|minimum|maximum|constant|2|v = ωA.
+At the extreme position of an SHM, the velocity is|maximum|ωA|infinite|zero|3|The particle momentarily stops.
+At the mean position of an SHM, the acceleration is|zero|maximum|ω²A|infinite|0|The displacement is zero.
+At the extreme position of an SHM, the acceleration is|zero|maximum|minimum|constant|1|a = ω²A.
+The time period of a simple pendulum is T =|2π√(g/l)|π√(l/g)|2π√(l/g)|2π l/g|2|For small oscillations.
+The time period of a spring–mass system is T =|2π√(k/m)|π√(m/k)|2π m/k|2π√(m/k)|3|k is the spring constant.
+Resonance occurs when the driving frequency equals the|natural frequency of the system|zero frequency|double the natural frequency|half the natural frequency|0|The amplitude becomes maximum.
+A body oscillating at 5 Hz has a time period of|5 s|0.2 s|10 s|0.5 s|1|1/5.
+A time period of 2 s corresponds to an angular frequency of|2π rad/s|2 rad/s|π rad/s|π/2 rad/s|2|2π/T.
+For x = 5 sin(2πt) the amplitude is|2π|1|10|5|3|The coefficient of the sine.
+For x = 5 sin(2πt) the frequency is|1 Hz|2π Hz|5 Hz|0.5 Hz|0|ω = 2πf, so f = 1.
+The velocity in SHM at displacement x is v =|ωAx|ω√(A² − x²)|ωx|A/ω|1|Zero at x = A.
+The maximum velocity in SHM is|ω²A|A/ω|ωA|Aω²|2|At the mean position.
+The maximum acceleration in SHM is|ωA|A/ω|A|ω²A|3|At the extreme positions.
+The acceleration in SHM is a =|−ω²x|ω²x|−ωx|ωx²|0|Proportional to displacement and opposite to it.
+A particle in SHM has amplitude 0.1 m and ω = 10 rad/s. Its maximum velocity is|10 m/s|1 m/s|0.1 m/s|100 m/s|1|ωA.
+For the same particle, the maximum acceleration is|1 m/s²|100 m/s²|10 m/s²|0.1 m/s²|2|ω²A.
+The total energy of a particle in SHM is E =|½ k x²|k A|k A²|½ k A²|3|It is constant.
+The kinetic energy in SHM at displacement x is|½ k (A² − x²)|½ k x²|½ k A²|k A x|0|Total minus potential.
+The potential energy in SHM at displacement x is|½ k (A² − x²)|½ k x²|k x|½ k A|1|Elastic-like energy.
+At the mean position the energy of an SHM is|entirely potential|zero|entirely kinetic|half kinetic and half potential|2|The displacement is zero.
+At the extreme position the energy of an SHM is|entirely kinetic|zero|half kinetic and half potential|entirely potential|3|The speed is zero.
+A simple pendulum of length 1 m with g = π² m/s² has a time period of|2 s|1 s|π s|4 s|0|2π√(1/π²).
+If the length of a pendulum is quadrupled, its time period|quadruples|doubles|halves|stays the same|1|T ∝ √l.
+A spring (k = 4π² N/m) carries a 1 kg mass. The time period is|2 s|π s|1 s|0.5 s|2|2π√(1/4π²).
+The time period of a simple pendulum does not depend on|its length|the value of g|both l and g|the mass of the bob|3|For small oscillations.
+Two springs, each of constant k, connected in series have an effective constant of|k/2|2k|k|k/4|0|1/k_eff = 1/k + 1/k.
+Two springs, each of constant k, connected in parallel have an effective constant of|k/2|2k|k|4k|1|The constants add.
+A spring of constant k is cut into two equal halves. The constant of each half is|k/2|k|2k|4k|2|A shorter spring is stiffer.
+A pendulum clock is taken to the Moon where g is 1/6 as large. The period becomes|6 times as long|1/6 as long|the same|√6 times as long|3|T ∝ 1/√g.
+An SHM with x = A at t = 0 has the equation|x = A cos ωt|x = A sin ωt|x = A|x = A t|0|Cosine starts at A.
+In SHM, the phase difference between displacement and velocity is|π|π/2|0|2π|1|Velocity leads displacement.
+In SHM, the phase difference between displacement and acceleration is|π/2|0|π|2π|2|They are in opposite directions.
+The velocity of a particle in SHM at x = A/2 is|ωA/2|ωA|√2 ωA|(√3/2) ωA|3|ω√(A² − A²/4).
+In SHM the kinetic and potential energies are equal at a displacement of|A/√2|A/2|A|0|0|½ k x² = ¼ k A².
+In damped oscillations the amplitude|increases|decreases with time|stays the same|becomes zero at once|1|Energy is lost to friction.
+The natural frequency of a system is its frequency of|forced oscillations|zero frequency|free oscillations|resonance only|2|When there is no driving force.
+A 0.5 kg mass is attached to a spring with k = 200 N/m. The angular frequency is|10 rad/s|200 rad/s|400 rad/s|20 rad/s|3|√(k/m).
+For that spring–mass system the frequency is about|3.2 Hz|20 Hz|2 Hz|0.3 Hz|0|ω/2π = 20/6.28.
+The time period of a seconds pendulum is|1 s|2 s|0.5 s|4 s|1|One tick per second.

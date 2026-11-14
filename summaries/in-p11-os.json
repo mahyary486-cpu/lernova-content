@@ -1,0 +1,6 @@
+{
+ "Periodic motion and simple harmonic motion": "SHM: F = −kx; x = A sin(ωt + φ).",
+ "Velocity and acceleration in SHM": "v = ω√(A² − x²); a = −ω²x.",
+ "Energy in SHM and the spring–mass system": "E = ½kA²; T = 2π√(m/k).",
+ "Simple pendulum, damping and resonance": "T = 2π√(l/g); resonance at the natural frequency."
+}
