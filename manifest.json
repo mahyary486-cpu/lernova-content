@@ -65,11 +65,11 @@
    "year": "2026"
   },
   "RU": {
-   "bytes": 270200,
+   "bytes": 289881,
    "currentYear": "2026-2027",
-   "files": 162,
+   "files": 174,
    "name": "Russia",
-   "rev": "7ecb907db8",
+   "rev": "e760cf20ea",
    "year": "2026-2027"
   },
   "US": {
