@@ -9957,6 +9957,28 @@
        "title": "Operations with algebraic fractions"
       }
      ]
+    },
+    {
+     "id": "ir10m-ch4",
+     "title": "Equations and Inequalities",
+     "lessons": [
+      {
+       "id": "ir10m-ch4-l1",
+       "title": "Solving quadratic equations"
+      },
+      {
+       "id": "ir10m-ch4-l2",
+       "title": "The quadratic formula and the discriminant"
+      },
+      {
+       "id": "ir10m-ch4-l3",
+       "title": "Rational and radical equations"
+      },
+      {
+       "id": "ir10m-ch4-l4",
+       "title": "Linear and quadratic inequalities"
+      }
+     ]
     }
    ]
   },
@@ -10365,6 +10387,56 @@
       {
        "id": "cn11m-ch8-l3",
        "title": "列联表与独立性检验"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "grade": 10,
+   "subject": "Physics",
+   "country": "IR",
+   "chapters": [
+    {
+     "id": "ir10p-ch1",
+     "title": "Physics and Measurement",
+     "lessons": [
+      {
+       "id": "ir10p-ch1-l1",
+       "title": "Physics and modeling"
+      },
+      {
+       "id": "ir10p-ch1-l2",
+       "title": "Measurement and units"
+      },
+      {
+       "id": "ir10p-ch1-l3",
+       "title": "Precision and scientific notation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "grade": 10,
+   "subject": "Chemistry",
+   "country": "IR",
+   "chapters": [
+    {
+     "id": "ir10c-ch1",
+     "title": "The Cosmos: Birthplace of the Elements",
+     "lessons": [
+      {
+       "id": "ir10c-ch1-l1",
+       "title": "Origin of the elements"
+      },
+      {
+       "id": "ir10c-ch1-l2",
+       "title": "Atomic structure, isotopes and atomic mass"
+      },
+      {
+       "id": "ir10c-ch1-l3",
+       "title": "Electron arrangement and the periodic table"
       }
      ]
     }
