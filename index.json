@@ -11069,6 +11069,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 10,
+      "subject": "Chemistry",
+      "country": "RU",
+      "chapters": [
+        {
+          "id": "ru10-chem-hydrocarbons",
+          "title": "Углеводороды",
+          "lessons": [
+            {
+              "id": "ru10-chem-hydrocarbons-1",
+              "title": "Теория строения органических соединений"
+            },
+            {
+              "id": "ru10-chem-hydrocarbons-2",
+              "title": "Алканы"
+            },
+            {
+              "id": "ru10-chem-hydrocarbons-3",
+              "title": "Алкены и алкины"
+            },
+            {
+              "id": "ru10-chem-hydrocarbons-4",
+              "title": "Арены"
+            }
+          ]
+        },
+        {
+          "id": "ru10-chem-oxygen",
+          "title": "Кислородсодержащие органические соединения",
+          "lessons": [
+            {
+              "id": "ru10-chem-oxygen-1",
+              "title": "Спирты и фенол"
+            },
+            {
+              "id": "ru10-chem-oxygen-2",
+              "title": "Альдегиды и кетоны"
+            },
+            {
+              "id": "ru10-chem-oxygen-3",
+              "title": "Карбоновые кислоты"
+            },
+            {
+              "id": "ru10-chem-oxygen-4",
+              "title": "Сложные эфиры и жиры"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
