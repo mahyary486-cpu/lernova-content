@@ -10974,6 +10974,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 10,
+      "subject": "Physics",
+      "country": "RU",
+      "chapters": [
+        {
+          "id": "ru10-phy-kinematics",
+          "title": "Кинематика",
+          "lessons": [
+            {
+              "id": "ru10-phy-kinematics-1",
+              "title": "Механическое движение и системы отсчёта"
+            },
+            {
+              "id": "ru10-phy-kinematics-2",
+              "title": "Равномерное и равноускоренное движение"
+            },
+            {
+              "id": "ru10-phy-kinematics-3",
+              "title": "Движение по окружности"
+            },
+            {
+              "id": "ru10-phy-kinematics-4",
+              "title": "Свободное падение и бросок тела"
+            }
+          ]
+        },
+        {
+          "id": "ru10-phy-dynamics",
+          "title": "Динамика и законы сохранения",
+          "lessons": [
+            {
+              "id": "ru10-phy-dynamics-1",
+              "title": "Законы Ньютона"
+            },
+            {
+              "id": "ru10-phy-dynamics-2",
+              "title": "Силы в механике"
+            },
+            {
+              "id": "ru10-phy-dynamics-3",
+              "title": "Импульс и закон сохранения импульса"
+            },
+            {
+              "id": "ru10-phy-dynamics-4",
+              "title": "Работа, энергия, мощность"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
