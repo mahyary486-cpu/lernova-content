@@ -10823,6 +10823,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 11,
+      "subject": "Chemistry",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn11c-ch1",
+          "title": "化学反应的热效应",
+          "lessons": [
+            {
+              "id": "cn11c-ch1-l1",
+              "title": "反应热与焓变"
+            },
+            {
+              "id": "cn11c-ch1-l2",
+              "title": "热化学方程式与燃烧热"
+            },
+            {
+              "id": "cn11c-ch1-l3",
+              "title": "盖斯定律"
+            }
+          ]
+        },
+        {
+          "id": "cn11c-ch2",
+          "title": "化学反应速率与化学平衡",
+          "lessons": [
+            {
+              "id": "cn11c-ch2-l1",
+              "title": "化学反应速率"
+            },
+            {
+              "id": "cn11c-ch2-l2",
+              "title": "化学平衡"
+            },
+            {
+              "id": "cn11c-ch2-l3",
+              "title": "化学平衡的移动"
+            }
+          ]
+        },
+        {
+          "id": "cn11c-ch3",
+          "title": "水溶液中的离子反应与平衡",
+          "lessons": [
+            {
+              "id": "cn11c-ch3-l1",
+              "title": "弱电解质的电离"
+            },
+            {
+              "id": "cn11c-ch3-l2",
+              "title": "水的电离与溶液的酸碱性"
+            },
+            {
+              "id": "cn11c-ch3-l3",
+              "title": "盐类的水解与沉淀溶解平衡"
+            }
+          ]
+        },
+        {
+          "id": "cn11c-ch4",
+          "title": "化学反应与电能",
+          "lessons": [
+            {
+              "id": "cn11c-ch4-l1",
+              "title": "原电池原理与化学电源"
+            },
+            {
+              "id": "cn11c-ch4-l2",
+              "title": "电解池"
+            },
+            {
+              "id": "cn11c-ch4-l3",
+              "title": "金属的腐蚀与防护"
+            }
+          ]
+        },
+        {
+          "id": "cn11c-ch5",
+          "title": "原子结构与元素性质",
+          "lessons": [
+            {
+              "id": "cn11c-ch5-l1",
+              "title": "原子结构"
+            },
+            {
+              "id": "cn11c-ch5-l2",
+              "title": "原子结构与元素周期表"
+            },
+            {
+              "id": "cn11c-ch5-l3",
+              "title": "元素性质的周期性变化规律"
+            }
+          ]
+        },
+        {
+          "id": "cn11c-ch6",
+          "title": "分子结构与性质",
+          "lessons": [
+            {
+              "id": "cn11c-ch6-l1",
+              "title": "共价键与分子的空间结构"
+            },
+            {
+              "id": "cn11c-ch6-l2",
+              "title": "分子的性质"
+            },
+            {
+              "id": "cn11c-ch6-l3",
+              "title": "配合物与超分子"
+            }
+          ]
+        },
+        {
+          "id": "cn11c-ch7",
+          "title": "晶体结构与性质",
+          "lessons": [
+            {
+              "id": "cn11c-ch7-l1",
+              "title": "晶体的常识"
+            },
+            {
+              "id": "cn11c-ch7-l2",
+              "title": "几种典型晶体"
+            },
+            {
+              "id": "cn11c-ch7-l3",
+              "title": "晶胞的计算"
+            }
+          ]
+        },
+        {
+          "id": "cn11c-ch8",
+          "title": "烃与烃的衍生物",
+          "lessons": [
+            {
+              "id": "cn11c-ch8-l1",
+              "title": "烃"
+            },
+            {
+              "id": "cn11c-ch8-l2",
+              "title": "卤代烃、醇和酚"
+            },
+            {
+              "id": "cn11c-ch8-l3",
+              "title": "醛、酮、羧酸及其衍生物"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
