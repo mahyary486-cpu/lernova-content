@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Duas cargas elétricas de mesmo sinal:|se repelem|se atraem|se anulam|não interagem|0|Cargas iguais se repelem.
+Duas cargas de 1 μC estão a 0,3 m uma da outra (k = 9 · 10⁹ N·m²/C²). Qual é a força entre elas?|0,01 N|0,1 N|1 N|0,3 N|1|F = k · Q₁ · Q₂/d².
+Duas cargas iguais, separadas por 1 m, se repelem com força de 0,9 N (k = 9 · 10⁹ N·m²/C²). Qual é o valor de cada carga?|1 · 10⁻⁴ C|3 · 10⁻⁵ C|1 · 10⁻⁵ C|1 · 10⁻⁶ C|2|F = k · Q²/d².
+Duas cargas elétricas de sinais opostos:|se repelem|se anulam|não interagem|se atraem|3|Cargas opostas se atraem.
+Se a distância entre duas cargas dobra, a força elétrica entre elas:|fica 1/4 do valor|fica 1/2 do valor|dobra|quadruplica|0|F é inversamente proporcional a d².
+Triplicando uma das cargas e dobrando a distância entre duas cargas, a força fica multiplicada por:|3/2|3/4|6|3|1|F ∝ Q₁/d².
+Qual é a unidade de carga elétrica no SI?|ampère (A)|volt (V)|coulomb (C)|newton (N)|2|A carga se mede em coulombs.
+Qual é o campo elétrico criado por uma carga de 2 μC a 3 m dela (k = 9 · 10⁹ N·m²/C²)?|6 000 N/C|18 000 N/C|2 N/C|2 000 N/C|3|E = k · Q/d².
+No ponto médio entre duas cargas positivas iguais, o campo elétrico resultante é:|nulo|dobrado|igual ao de uma carga|infinito|0|Os campos têm sentidos opostos.
+Qual é a unidade do campo elétrico?|C/N|N/C|V · C|J/s|1|E = F/q.
+Qual é a força sobre uma carga de 2 μC colocada em um campo de 500 N/C?|2,5 · 10⁸ N|1 · 10³ N|1 · 10⁻³ N|250 N|2|F = q · E.
+Um elétron (e = 1,6 · 10⁻¹⁹ C; m = 9,1 · 10⁻³¹ kg) é colocado em um campo de 100 N/C. Qual é sua aceleração?|≈ 1,6 · 10⁻¹⁷ m/s²|≈ 9,1 · 10⁻²⁹ m/s²|≈ 1,8 · 10⁻¹³ m/s²|≈ 1,8 · 10¹³ m/s²|3|a = e · E/m.
+O valor da carga elementar é:|1,6 · 10⁻¹⁹ C|9 · 10⁹ C|1,6 · 10¹⁹ C|3 · 10⁸ C|0|É a carga do próton e (em módulo) do elétron.
+Um corpo tem carga de −3,2 · 10⁻¹⁹ C. Quantos elétrons em excesso ele possui (e = 1,6 · 10⁻¹⁹ C)?|20|2|0,2|5|1|n = Q/e.
+Duas cargas de 2 μC e 3 μC estão a 0,6 m (k = 9 · 10⁹ N·m²/C²). Qual é a energia potencial elétrica do sistema?|0,9 J|0,009 J|0,09 J|90 J|2|U = k · Q · q/d.
+Um corpo neutro que perde elétrons fica:|negativamente carregado|neutro|sem massa|positivamente carregado|3|Perder elétrons deixa excesso de prótons.
+Qual é o potencial elétrico a 3 m de uma carga de 4 μC (k = 9 · 10⁹ N·m²/C²)?|12 000 V|36 000 V|1 333 V|12 V|0|V = k · Q/d.
+Uma carga de 1 μC com massa de 1 g é abandonada em um campo uniforme de 2 000 N/C. Qual é sua aceleração?|2 000 m/s²|2 m/s²|0,002 m/s²|20 m/s²|1|a = q · E/m.
+Os materiais isolantes:|permitem o movimento livre de cargas|só existem na natureza como gases|não permitem o movimento livre de cargas|são sempre metais|2|Isolantes não têm elétrons livres.
+Em um campo elétrico uniforme de 1 000 V/m, qual é a diferença de potencial entre dois pontos a 0,02 m de distância?|50 000 V|0,02 V|2 V|20 V|3|U = E · d.
+Um ponto está a 1 m de duas cargas de +1 μC cada. Qual é o potencial elétrico nele (k = 9 · 10⁹ N·m²/C²)?|18 000 V|9 000 V|0 V|36 000 V|0|O potencial é escalar: some os dois.
+Qual é a unidade de potencial elétrico?|joule (J)|volt (V)|coulomb (C)|ohm (Ω)|1|V = trabalho por carga.
+Na eletrização por atrito, os dois corpos ficam com cargas:|de mesmo sinal|nulas|de sinais opostos|de mesma massa|2|Elétrons passam de um corpo para o outro.
+Duas esferas idênticas com cargas de +6 μC e −2 μC são colocadas em contato e depois separadas. Qual é a carga final de cada uma?|+4 μC|+6 μC|−2 μC|+2 μC|3|A carga total se divide igualmente.
+As linhas de campo elétrico de uma carga positiva:|saem da carga|entram na carga|são circulares|não existem|0|Por convenção, saem da carga positiva.
+Qual é o trabalho da força elétrica ao mover uma carga de 2 C entre pontos com diferença de potencial de 5 V?|2,5 J|10 J|7 J|0,4 J|1|τ = q · ΔV.
+Um corpo com excesso de 5 · 10¹² elétrons tem carga elétrica de (e = 1,6 · 10⁻¹⁹ C):|+8 · 10⁻⁷ C|−8 · 10⁷ C|−8 · 10⁻⁷ C|−3,2 · 10⁻³¹ C|2|Q = n · e, negativa.
+O princípio da conservação da carga afirma que, em um sistema isolado:|a carga sempre aumenta|a carga sempre diminui|a carga se transforma em massa|a soma das cargas é constante|3|Cargas não são criadas nem destruídas.
+Em uma gaiola de Faraday (condutor oco em equilíbrio):|o campo elétrico no interior é nulo|o campo interno é máximo|não há cargas no condutor|a carga fica no centro|0|As cargas ficam na superfície externa.
+Uma carga de 2 μC é levada entre dois pontos com diferença de potencial de 500 V. Qual é o trabalho da força elétrica?|1 · 10⁻⁹ J|1 · 10⁻³ J|250 J|1 · 10³ J|1|τ = q · ΔV.

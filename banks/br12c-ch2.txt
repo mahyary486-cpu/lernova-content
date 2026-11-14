@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+No equilíbrio químico, as velocidades das reações direta e inversa são:|nulas|sempre diferentes|iguais|infinitas|2|No equilíbrio dinâmico, as velocidades se igualam.
+Qual é a expressão de Kc para N₂ + 3 H₂ ⇌ 2 NH₃?|([N₂] · [H₂]³) / [NH₃]²|[NH₃] / ([N₂] · [H₂])|[NH₃]² · [N₂] · [H₂]³|[NH₃]² / ([N₂] · [H₂]³)|3|Produtos no numerador, reagentes no denominador, com expoentes iguais aos coeficientes.
+No equilíbrio N₂O₄ ⇌ 2 NO₂, [N₂O₄] = 0,5 mol/L e [NO₂] = 1 mol/L. Qual é o valor de Kc?|2|0,5|1|4|0|Kc = [NO₂]²/[N₂O₄].
+Uma reação reversível é aquela que:|só ocorre em um sentido|ocorre nos dois sentidos|não envolve energia|só ocorre em sólidos|1|Reagentes e produtos se interconvertem.
+Aumentando a concentração de um reagente, o equilíbrio:|desloca para os reagentes|não se altera|desloca para os produtos|deixa de existir|2|Le Chatelier: consome o excesso.
+Em A ⇌ B, Kc = 4 e [A] = 0,5 mol/L no equilíbrio. Qual é a concentração de B?|0,125 mol/L|4 mol/L|8 mol/L|2 mol/L|3|Kc = [B]/[A].
+Um catalisador, em uma reação em equilíbrio:|não desloca o equilíbrio|desloca para os produtos|desloca para os reagentes|destrói o equilíbrio|0|Ele acelera os dois sentidos igualmente.
+Aumentando a temperatura de um equilíbrio endotérmico, o equilíbrio:|desloca para os reagentes|desloca para os produtos|não desloca|desloca para o catalisador|1|O calor é absorvido no sentido direto.
+Quantos mols de elétrons são liberados pela oxidação de 0,5 mol de Zn (Zn → Zn²⁺ + 2 e⁻)?|0,5 mol|2 mol|1 mol|0,25 mol|2|Cada Zn libera 2 e⁻.
+A oxidação é o processo de:|ganho de elétrons|perda de prótons|ganho de nêutrons|perda de elétrons|3|Oxidar é perder elétrons.
+Aumentando a pressão em N₂ + 3 H₂ ⇌ 2 NH₃, o equilíbrio:|desloca para a formação de NH₃|desloca para a formação de N₂ e H₂|não desloca|desloca para o catalisador|0|O lado do NH₃ tem 2 mol de gás contra 4 mol.
+Uma corrente de 2 A circula por 965 s (1 mol de e⁻ = 96 500 C). Quantos mols de elétrons passam?|0,2 mol|0,02 mol|2 mol|0,002 mol|1|Q = i · t.
+A redução é o processo de:|perda de elétrons|perda de prótons|ganho de elétrons|ganho de nêutrons|2|Reduzir é ganhar elétrons.
+Um valor de Kc muito maior que 1 indica que, no equilíbrio:|predominam os reagentes|as concentrações são iguais|não há reação|predominam os produtos|3|Kc grande = muito produto.
+Na reação Cu²⁺ + 2 e⁻ → Cu, qual massa de cobre (63,5 g/mol) se deposita com 0,02 mol de elétrons?|0,635 g|1,27 g|0,0635 g|6,35 g|0|1 mol de Cu usa 2 mol de e⁻.
+Em uma pilha, a redução ocorre no:|ânodo|cátodo|fio|ponte de oxigênio|1|Cátodo = redução.
+Na pilha de Daniell:|o Cu se oxida e o Zn²⁺ se reduz|ambos se oxidam|o Zn se oxida e o Cu²⁺ se reduz|nenhum reage|2|O zinco é o ânodo.
+Em uma eletrólise, a redução ocorre:|no ânodo (polo positivo)|na ponte salina|no fio|no cátodo (polo negativo)|3|Cátodo = redução.
+Em uma pilha, a oxidação ocorre no:|ânodo|cátodo|vidro|fio de cobre|0|Ânodo = oxidação.
+Dados E°(Cu²⁺/Cu) = +0,34 V e E°(Zn²⁺/Zn) = −0,76 V, qual é a ddp da pilha de Daniell?|0,42 V|1,10 V|−1,10 V|0,76 V|1|ddp = E°(cátodo) − E°(ânodo).
+Adicionando um gás inerte a volume constante a um equilíbrio gasoso, o equilíbrio:|desloca para os produtos|desloca para os reagentes|não se altera|deixa de existir|2|As pressões parciais não mudam.
+Uma pilha converte:|energia elétrica em energia química|calor em luz|energia nuclear em calor|energia química em energia elétrica|3|Reação espontânea que gera corrente.
+Qual é a equação global da eletrólise da água?|2 H₂O → 2 H₂ + O₂|H₂O → H₂ + O₂|H₂O → H₂O₂|2 H₂ + O₂ → 2 H₂O|0|Os gases se formam nos eletrodos.
+A reação 2 NO₂ ⇌ N₂O₄ é exotérmica no sentido direto. Ao aquecer o sistema, o equilíbrio:|desloca para N₂O₄|desloca para NO₂ (reagente)|não desloca|deixa de existir|1|O aquecimento favorece o sentido endotérmico.
+A eletrólise converte:|energia química em energia elétrica|calor em som|energia elétrica em energia química|luz em calor|2|A corrente provoca reações não espontâneas.
+Em uma pilha, os elétrons fluem:|do cátodo para o ânodo, pelo fio externo|pela ponte salina|somente na solução|do ânodo para o cátodo, pelo fio externo|3|Os elétrons saem de onde há oxidação.
+Em uma pilha, o cátodo é de prata (E° = +0,80 V) e o ânodo é de cobre (E° = +0,34 V). Qual é a ddp?|0,46 V|1,14 V|0,34 V|0,80 V|0|ddp = E°(cátodo) − E°(ânodo).
+Na pilha de Daniell, qual metal forma o ânodo?|cobre|zinco|prata|ferro|1|No ânodo ocorre a oxidação; o zinco se oxida.
+A corrosão do ferro é:|uma redução|uma neutralização|um processo de oxidação|uma fusão|2|O ferro perde elétrons.
+Qual metal pode ser usado como "metal de sacrifício" para proteger o ferro da corrosão?|cobre|ouro|prata|zinco|3|O zinco se oxida no lugar do ferro.

@@ -1,0 +1,4 @@
+{
+  "Carga elétrica e Lei de Coulomb": "A carga elétrica é quantizada: Q = n · e, com e = 1,6 · 10⁻¹⁹ C. Cargas de mesmo sinal se repelem e de sinais opostos se atraem. A Lei de Coulomb dá F = k · |Q₁ · Q₂|/d², com k = 9 · 10⁹ N·m²/C². A carga total de um sistema isolado se conserva. Eletriza-se por atrito, contato e indução.",
+  "Campo elétrico e potencial elétrico": "O campo elétrico é E = F/q e, para uma carga puntiforme, E = k · Q/d² (unidade N/C). As linhas de campo saem das cargas positivas e chegam às negativas. O potencial é V = k · Q/d (volt) e é escalar. O trabalho da força elétrica é τ = q · ΔV e, em campo uniforme, U = E · d. No interior de um condutor em equilíbrio o campo é nulo."
+}

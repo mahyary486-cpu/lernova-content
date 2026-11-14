@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Qual é a unidade de campo magnético no SI?|weber (Wb)|henry (H)|tesla (T)|farad (F)|2|O campo magnético se mede em tesla.
+Uma carga de 2 μC se move a 1 000 m/s perpendicularmente a um campo de 0,5 T. Qual é a força magnética?|1 N|2 · 10⁻³ N|4 · 10⁻³ N|1 · 10⁻³ N|3|F = q · v · B.
+Uma partícula carregada entra em um campo magnético uniforme com velocidade perpendicular ao campo. Qual é o tipo de movimento?|movimento circular uniforme|movimento retilíneo uniforme|queda livre|movimento parabólico|0|A força é perpendicular à velocidade.
+Dois polos iguais de ímãs diferentes:|se atraem|se repelem|se anulam|não interagem|1|Polos iguais se repelem.
+Um fio de 2 m com corrente de 5 A é perpendicular a um campo de 0,1 T. Qual é a força sobre ele?|10 N|0,1 N|1 N|0,5 N|2|F = B · i · L.
+Mantendo o campo magnético constante, o que acontece com o raio da trajetória circular de uma partícula se a velocidade dobra?|cai à metade|quadruplica|não muda|dobra|3|R = m · v/(q · B).
+O polo norte e o polo sul de dois ímãs:|se atraem|se repelem|se anulam|não interagem|0|Polos opostos se atraem.
+Um transformador ideal tem 100 espiras no primário e 500 no secundário. Com 120 V no primário, qual é a tensão no secundário?|24 V|600 V|120 V|60 000 V|1|V₂/V₁ = N₂/N₁.
+Um transformador ideal reduz a tensão de 220 V para 22 V. Se a corrente no primário é 1 A, qual é a corrente no secundário?|0,1 A|1 A|10 A|100 A|2|P₁ = P₂.
+Ao quebrar um ímã ao meio, obtêm-se:|um polo norte e um polo sul isolados|dois pedaços sem magnetismo|um ímã e um pedaço de ferro|dois ímãs, cada um com polos norte e sul|3|Não existem monopolos magnéticos.
+O fluxo magnético em uma espira varia 0,4 Wb em 0,2 s. Qual é a força eletromotriz induzida média?|2 V|0,08 V|0,6 V|8 V|0|ε = ΔΦ/Δt.
+Luz de frequência 10¹⁵ Hz incide em um metal de função trabalho 4,0 · 10⁻¹⁹ J (h = 6,6 · 10⁻³⁴ J·s). Qual é a energia cinética máxima dos elétrons emitidos?|1,06 · 10⁻¹⁸ J|2,6 · 10⁻¹⁹ J|4,0 · 10⁻¹⁹ J|6,6 · 10⁻¹⁹ J|1|E_c = h · f − φ.
+Uma corrente elétrica em um fio produz:|apenas calor|somente campo elétrico|campo magnético|campo gravitacional|2|É a descoberta de Oersted.
+A Lei de Lenz afirma que a corrente induzida:|reforça a variação do fluxo|é sempre nula|só existe em isolantes|se opõe à variação do fluxo que a produz|3|O sinal negativo da Lei de Faraday traduz a oposição.
+Se a frequência da luz incidente é menor que a frequência de corte do metal, então:|não há emissão de elétrons|há emissão de elétrons lentos|há emissão se a intensidade for grande|o metal derrete|0|O fóton não tem energia suficiente.
+O transformador funciona com:|corrente contínua|corrente alternada|qualquer pilha|campo gravitacional|1|Ele depende de variação do fluxo magnético.
+Qual é a energia de um fóton de frequência 5 · 10¹⁴ Hz (h = 6,6 · 10⁻³⁴ J·s)?|1,3 · 10⁻⁴⁸ J|3,3 · 10⁻¹⁵ J|3,3 · 10⁻¹⁹ J|6,6 · 10⁻³⁴ J|2|E = h · f.
+Aumentando a intensidade da luz (mantendo a frequência acima da de corte), no efeito fotoelétrico:|aumenta a energia de cada elétron|diminui a frequência de corte|nada muda|aumenta o número de elétrons emitidos|3|Mais fótons por segundo.
+Qual radiação tem o maior poder de penetração?|gama|alfa|beta|luz visível|0|A radiação gama atravessa vários materiais.
+Uma amostra de 80 g de um elemento com meia-vida de 10 dias, após 30 dias, terá quanto do elemento?|40 g|10 g|20 g|5 g|1|30 dias = 3 meias-vidas.
+Um elemento tem meia-vida de 5 anos. Que fração da amostra resta após 15 anos?|1/4|1/3|1/8|1/16|2|15 anos = 3 meias-vidas.
+O efeito fotoelétrico é:|a produção de luz por eletricidade|a absorção do som|a fusão de metais|a emissão de elétrons por um metal ao ser iluminado|3|A luz arranca elétrons do metal.
+A radiação alfa é formada por:|núcleos de hélio (2 prótons e 2 nêutrons)|elétrons|fótons de alta energia|nêutrons livres|0|A partícula alfa é um núcleo de hélio.
+Uma amostra de 400 g tem meia-vida de 2 h. Quanto resta após 6 h?|100 g|50 g|200 g|25 g|1|6 h = 3 meias-vidas.
+Qual é, aproximadamente, a velocidade da luz no vácuo?|3 · 10⁶ m/s|340 m/s|3 · 10⁸ m/s|3 · 10⁵ m/s|2|c ≈ 300 000 km/s.
+Qual é a energia equivalente a 1 kg de massa (c = 3 · 10⁸ m/s)?|3 · 10⁸ J|9 · 10⁸ J|3 · 10¹⁶ J|9 · 10¹⁶ J|3|E = m · c².
+Pela Relatividade restrita, para um observador parado, um relógio em movimento próximo à velocidade da luz:|anda mais devagar|anda mais rápido|anda no mesmo ritmo|para sempre|0|É a dilatação do tempo.
+A meia-vida de um elemento radioativo é o tempo em que:|a quantidade dobra|a quantidade cai à metade|a radiação se torna visível|o elemento vira chumbo|1|É o tempo para reduzir a amostra a 50%.
+Um dos postulados da Relatividade restrita é que:|a velocidade da luz depende da velocidade da fonte|o tempo é absoluto|a velocidade da luz no vácuo é a mesma para todos os observadores inerciais|a massa é sempre nula|2|O postulado de Einstein torna c uma constante universal.
+Na fissão nuclear:|dois núcleos leves se unem|um elétron é emitido por um metal|um núcleo absorve luz|um núcleo pesado se divide em núcleos menores, liberando energia|3|Exemplo: fissão do urânio.

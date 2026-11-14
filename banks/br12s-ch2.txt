@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Quais são os grupos sanguíneos do sistema ABO?|A, B e C|AA, BB e OO|A, B, AB e O|apenas A e B|2|São quatro tipos: A, B, AB e O.
+Um pai Iᴬi e uma mãe Iᴮi podem ter filhos de quais tipos sanguíneos?|apenas A e B|apenas AB|apenas O|A, B, AB e O|3|Os quatro tipos são possíveis.
+Uma mãe Rh negativo (rr) e um pai Rh positivo heterozigoto (Rr) têm um filho. Qual é a probabilidade de ele ser Rh negativo?|1/2|1/4|0|1|0|rr × Rr → metade rr.
+Qual é o genótipo de uma pessoa do tipo O?|IᴬIᴬ|ii|IᴮIᴮ|IᴬIᴮ|1|O tipo O é homozigoto recessivo.
+Qual é o genótipo de uma pessoa do tipo AB?|Iᴬi|Iᴮi|IᴬIᴮ|ii|2|O tipo AB tem os dois alelos codominantes.
+Um pai do tipo A (Iᴬi) e uma mãe do tipo B (Iᴮi) têm um filho. Qual é a probabilidade de ele ser do tipo O?|1/2|1/8|0|1/4|3|Só ii é tipo O.
+Uma pessoa Rh positivo tem:|o antígeno Rh nas hemácias|ausência total de hemácias|o tipo sanguíneo O|anticorpos Rh sempre|0|Rh+ significa que possui o antígeno Rh.
+No tipo sanguíneo AB, a relação entre Iᴬ e Iᴮ é de:|dominância completa|codominância|recessividade|epistasia|1|Os dois alelos se expressam ao mesmo tempo.
+Um homem do tipo A (Iᴬi) e uma mulher do tipo AB podem ter filhos de quais tipos?|somente O|A e O|A, AB e B|somente AB|2|Nenhum filho pode ser O.
+Qual tipo sanguíneo é considerado doador universal?|AB positivo|A positivo|B negativo|O negativo|3|Não tem antígenos A, B nem Rh.
+Um homem daltônico (XᵈY) tem filhos com uma mulher XᴰXᴰ. Os filhos meninos serão:|todos normais|todos daltônicos|50% daltônicos|todos portadores|0|Os meninos recebem o Y do pai e o X da mãe.
+Uma mulher portadora de hemofilia (XᴴXʰ) e um homem normal têm filhos. Qual é a probabilidade de uma criança (de qualquer sexo) ser hemofílica?|1/2|1/4|1/8|3/4|1|Só o menino XʰY é afetado.
+Qual tipo sanguíneo é considerado receptor universal?|O negativo|A negativo|AB positivo|B positivo|2|Não tem anticorpos contra A, B ou Rh.
+Uma mulher portadora de daltonismo (XᴰXᵈ) tem filhos com um homem normal. Qual é a probabilidade de um filho ser um menino daltônico?|1/2|1/8|3/4|1/4|3|Meninos afetados correspondem a 1/4 do total.
+O CRISPR é uma técnica usada para:|editar genes cortando o DNA em uma sequência-alvo|multiplicar células-tronco|separar fragmentos de DNA|produzir anticorpos|0|É uma ferramenta de edição genética.
+Qual característica é determinada por um gene ligado ao cromossomo X?|grupo sanguíneo ABO|daltonismo|fator Rh|cor da ervilha|1|O daltonismo é recessivo ligado ao X.
+A eletroforese em gel separa fragmentos de DNA de acordo com:|a cor|o sabor|o tamanho|a idade do organismo|2|Fragmentos menores migram mais rápido.
+A PCR usa:|ligases e luz solar|ribossomos e água|somente enzimas de restrição|DNA polimerase termoestável e ciclos de temperatura|3|A polimerase resiste ao aquecimento do ciclo.
+O DNA recombinante é um DNA:|com fragmentos de organismos diferentes|sem nucleotídeos|formado só por RNA|de um único organismo|0|É obtido unindo trechos de origens diferentes.
+As enzimas de restrição:|sintetizam proteínas|cortam o DNA em sequências específicas|copiam o RNA|digerem açúcares|1|São ferramentas básicas da engenharia genética.
+Um gene de uma espécie pode funcionar em outra porque o código genético é:|diferente em cada espécie|inexistente em bactérias|praticamente universal|exclusivo dos animais|2|Os mesmos códons correspondem aos mesmos aminoácidos.
+Como são chamados os organismos que recebem genes de outra espécie?|clones|híbridos naturais|mutantes espontâneos|transgênicos|3|Transgênico = com gene vindo de fora.
+A insulina humana usada em tratamentos pode ser produzida por:|bactérias que receberam o gene humano da insulina|vírus modificados|plantas de milho|fungos sem DNA|0|É um exemplo de DNA recombinante.
+A impressão digital de DNA identifica pessoas porque:|todas as pessoas têm o mesmo DNA|as regiões repetitivas do DNA variam entre indivíduos|o DNA muda a cada dia|só existe DNA no cabelo|1|Essas regiões formam um perfil individual.
+A clonagem produz:|indivíduos sempre diferentes|somente gametas|indivíduos geneticamente idênticos|somente proteínas|2|Os clones têm o mesmo material genético.
+As células-tronco são capazes de:|produzir apenas hemácias|viver sem DNA|não se dividir|se diferenciar em vários tipos celulares|3|Podem originar diferentes tecidos.
+Um casal sem a doença tem uma filha afetada. Qual é o tipo de herança mais provável?|autossômica recessiva|autossômica dominante|ligada ao X dominante|ligada ao Y|0|Pais normais podem ser portadores de um alelo recessivo.
+Qual técnica amplia (copia) trechos de DNA?|eletroforese|PCR|mitose|osmose|1|PCR = reação em cadeia da polimerase.
+Os testes de paternidade se baseiam na comparação:|da altura|da cor dos olhos|do DNA|do peso ao nascer|2|O DNA é herdado de pai e mãe.
+Um casal Aa × Aa tem um filho sem a doença (aa é afetado). Qual é a probabilidade de ele ser heterozigoto?|1/2|1/3|3/4|2/3|3|O espaço amostral passa a ser AA, Aa e Aa.

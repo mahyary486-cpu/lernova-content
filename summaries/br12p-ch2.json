@@ -1,0 +1,4 @@
+{
+  "Campo magnético e indução eletromagnética": "O campo magnético B se mede em tesla (T). Polos iguais se repelem e polos opostos se atraem; ímãs não têm polos isolados. Cargas em movimento sofrem força F = q · v · B (perpendiculares) e fios com corrente sofrem F = B · i · L. Pela Lei de Faraday, ε = ΔΦ/Δt; pela Lei de Lenz, o efeito induzido se opõe à causa. O transformador ideal obedece V₂/V₁ = N₂/N₁.",
+  "Física moderna: efeito fotoelétrico, relatividade e radioatividade": "Pela Física Quântica, a luz tem fótons de energia E = h · f (h = 6,6 · 10⁻³⁴ J·s). No efeito fotoelétrico, E_c = h · f − φ, e só há emissão se f for maior que a frequência de corte. Na Relatividade restrita, c é constante para todos os observadores inerciais e E = m · c². A radiação alfa é formada por núcleos de hélio, a beta por elétrons e a gama por ondas eletromagnéticas de alto poder de penetração; a meia-vida é o tempo para a quantidade cair à metade."
+}

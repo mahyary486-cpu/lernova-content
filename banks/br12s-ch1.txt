@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Quem propôs a teoria da seleção natural?|Charles Darwin|Gregor Mendel|Louis Pasteur|Isaac Newton|0|Darwin e Wallace propuseram a seleção natural.
+A seleção natural atua sobre:|características adquiridas em vida|variações herdáveis|a vontade do indivíduo|apenas fósseis|1|Só variações herdáveis são passadas à descendência.
+Em uma população em equilíbrio de Hardy-Weinberg, p = 0,6 e q = 0,4. Qual é a frequência de aa?|0,36|0,48|0,16|0,4|2|aa = q².
+Lamarck propôs que:|os mais aptos sobrevivem|as espécies nunca mudam|os genes são feitos de proteínas|as características adquiridas em vida são herdadas|3|É a herança dos caracteres adquiridos.
+A resistência de bactérias a antibióticos é explicada por:|seleção natural dos indivíduos resistentes|mutação induzida pelo antibiótico|vontade da bactéria|herança de caracteres adquiridos|0|O antibiótico elimina as sensíveis e sobram as resistentes.
+Na mesma população (p = 0,6 e q = 0,4), qual é a frequência de heterozigotos?|0,24|0,48|0,36|0,16|1|Aa = 2pq.
+Os fósseis são evidências de:|vida em outros planetas|geração espontânea|evolução e vida do passado|climas atuais|2|Fósseis registram seres que viveram no passado.
+Qual par é exemplo de estruturas análogas?|braço humano e asa de morcego|nadadeira de baleia e pata de gato|osso de homem e de cavalo|asa de inseto e asa de ave|3|Têm a mesma função, mas origens diferentes.
+A evolução convergente ocorre quando:|espécies não aparentadas ficam parecidas por viverem em ambientes semelhantes|duas espécies se tornam uma só|um ancestral comum gera várias espécies|as espécies param de mudar|0|Exemplo: golfinhos e tubarões.
+Estruturas homólogas são aquelas que têm:|sempre a mesma função|a mesma origem embrionária|origens diferentes|nenhuma relação|1|Têm origem comum, mesmo com funções diferentes.
+O braço humano e a nadadeira de uma baleia são estruturas:|análogas|vestigiais|homólogas|sem relação evolutiva|2|Têm a mesma origem embrionária.
+A irradiação adaptativa é o processo em que:|várias espécies viram uma só|os organismos escolhem suas mutações|as espécies sofrem radiação|um ancestral comum origina várias espécies em ambientes diferentes|3|Exemplo clássico: os tentilhões de Darwin.
+A variabilidade genética de uma população vem principalmente de:|mutações e recombinação|vontade do organismo|uso e desuso|alimentação|0|Mutações criam alelos; a recombinação os mistura.
+O isolamento geográfico de populações pode levar a:|extinção imediata|especiação|herança adquirida|mitose|1|Populações isoladas divergem até formar novas espécies.
+A coevolução é:|a evolução de uma única espécie isolada|a extinção de duas espécies|a evolução recíproca entre espécies que interagem|a mutação de um gene|2|Exemplo: flores e seus polinizadores.
+No conceito biológico, espécie é um conjunto de indivíduos que:|têm a mesma cor|vivem no mesmo lugar|se alimentam da mesma forma|se cruzam e geram descendentes férteis|3|É o critério da fertilidade da descendência.
+A deriva genética é:|a mudança aleatória nas frequências dos alelos|a seleção dos mais aptos|a mutação dirigida pelo ambiente|a herança de características adquiridas|0|É um efeito do acaso, mais forte em populações pequenas.
+A extinção em massa que eliminou os dinossauros não aviários ocorreu:|há 6 mil anos|há cerca de 66 milhões de anos|há 500 mil anos|há 2 bilhões de anos|1|Ocorreu no fim do período Cretáceo.
+Quem criou a nomenclatura binomial?|Darwin|Mendel|Lineu|Aristóteles|2|Carlos Lineu criou o sistema de nomes científicos.
+O fixismo defendia que:|as espécies evoluem por seleção|os fósseis são ilusões|as espécies surgem do nada|as espécies não mudam ao longo do tempo|3|Era a ideia anterior às teorias evolutivas.
+O equilíbrio de Hardy-Weinberg exige:|ausência de seleção natural, mutação e migração|alta taxa de mutação|população muito pequena|seleção natural forte|0|Os fatores evolutivos precisam estar ausentes.
+O nome científico de uma espécie tem duas partes:|família e ordem|gênero e espécie|reino e filo|classe e família|1|Exemplo: Homo sapiens.
+Qual é a ordem correta da hierarquia taxonômica, do mais abrangente ao mais específico?|espécie, gênero, família, ordem, classe, filo, reino|reino, classe, filo, família, ordem, espécie, gênero|reino, filo, classe, ordem, família, gênero, espécie|filo, reino, ordem, classe, gênero, família, espécie|2|Do reino à espécie.
+Quanto maior a semelhança entre o DNA de duas espécies:|mais distante é o parentesco|menor é a chance de terem ancestral comum|mais diferentes são os fósseis|mais próximo é o parentesco evolutivo|3|Mais semelhança indica ancestral comum mais recente.
+Quais são os três domínios dos seres vivos?|Bacteria, Archaea e Eukarya|Animalia, Plantae e Fungi|Procarya, Protista e Monera|Vírus, bactérias e fungos|0|Esses são os três domínios atuais.
+Em Homo sapiens, Homo é o:|epíteto da espécie|gênero|filo|reino|1|A 1ª palavra do nome científico é o gênero.
+As arqueias (Archaea) são:|eucariontes multicelulares|vírus|procariontes, muitos em ambientes extremos|fungos unicelulares|2|Formam um domínio de procariontes.
+Qual é a menor categoria taxonômica?|gênero|família|ordem|espécie|3|A hierarquia termina na espécie.
+Um cladograma representa:|as relações de parentesco evolutivo|a cadeia alimentar|a altura dos organismos|o clima|0|Mostra ancestralidade comum entre grupos.
+A seleção natural não cria características desejadas porque:|ela produz mutações específicas para o ambiente|ela atua sobre variações que já existem na população|os organismos escolhem suas mutações|as características adquiridas são herdadas|1|As mutações surgem ao acaso; a seleção escolhe entre elas.

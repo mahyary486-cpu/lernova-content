@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+The man ___ lives next door is a doctor.|who|which|whose|where|0|"Who" refers to people and is the subject here.
+The woman ___ I met yesterday is my aunt.|whose|who|where|what|1|"Who" refers to a person (it can also be omitted).
+Combine: "The man is tall. He lives here."|The man which lives here is tall.|The man whose lives here is tall.|The man who lives here is tall.|The man where lives here is tall.|2|The relative pronoun replaces "he" and refers to a person.
+The book ___ I bought is great.|who|whose|where|that|3|"That" refers to things in defining clauses.
+Which sentence is correct?|The film that I saw was great.|The film who I saw was great.|The film whose I saw was great.|The film where I saw was great.|0|Things take "that" or "which", not "who", "whose" or "where" here.
+Which sentence has a non-defining relative clause?|The sister who lives in Spain is a nurse.|My sister, who lives in Spain, is a nurse.|My sister is who lives in Spain.|I have a sister that lives in Spain.|1|Non-defining clauses go between commas.
+The girl ___ bike was stolen is crying.|who|which|whose|that|2|"Whose" shows possession.
+A defining relative clause:|gives extra information between commas|can always be removed|can never use "that"|gives essential information and has no commas|3|It identifies the noun, so it cannot be dropped.
+The person ___ I spoke is the manager. (formal)|to whom|who to|whose|where|0|In formal English the preposition goes before "whom".
+This is the place ___ I was born.|who|where|whose|which|1|"Where" refers to places.
+My brother, ___ lives in Rio, is a chef.|that|whose|who|where|2|"That" cannot be used in non-defining clauses.
+___ umbrella is this?|Who's|Who|Which|Whose|3|"Whose" asks about possession.
+A teacher is a person ___ teaches.|who|which|whose|where|0|"Who" refers to people.
+"That" cannot be used in:|defining clauses|non-defining clauses|clauses about things|clauses about people|1|Non-defining clauses require who or which.
+The reason ___ he left is unknown.|who|whose|why|which|2|"Why" follows the noun "reason".
+The pronoun "who" refers to:|things|places|time|people|3|Who is used for people.
+The house ___ roof is red is old.|whose|who|which|where|0|"Whose" shows that the roof belongs to the house.
+In which sentence can the relative pronoun be omitted?|The man who lives here is kind.|The movie that we watched was long.|The woman whose car broke down called us.|The shop, which opened today, is big.|1|Object pronouns in defining clauses can be dropped.
+The pronoun "which" refers to:|people|possession|things|time|2|Which is used for things.
+I know a restaurant ___ serves great pizza.|who|whose|where|which|3|"Which" refers to a thing and is the subject.
+Everything ___ he said was true.|that|which|who|whose|0|After "everything", "that" is the usual choice.
+The pronoun "whose" indicates:|a place|possession|a reason|a time|1|Whose shows who owns something.
+In "The man I met was kind", the relative pronoun was:|omitted, because it is the subject|"who"|omitted, because it is the object|"whose"|2|Object pronouns can be dropped in defining clauses.
+The students, ___ were tired, went home.|that|whose|where|who|3|Non-defining clauses with people use "who".
+The pronoun "where" refers to:|places|people|things|time|0|Where introduces a place.
+Rio, ___ is famous for Carnival, is in Brazil.|that|which|who|whose|1|Non-defining clauses with things use "which".
+A relative clause gives information about:|a verb|an adverb|a noun|a conjunction|2|It modifies a noun or pronoun.
+The car ___ is red is mine.|who|whose|where|which|3|"Which" refers to things.
+This is the boy ___ father is a pilot.|whose|who|which|where|0|"Whose" shows possession.
+The day ___ we met was sunny.|where|when|who|whose|1|"When" refers to time.

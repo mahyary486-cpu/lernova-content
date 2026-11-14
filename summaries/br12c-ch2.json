@@ -1,0 +1,4 @@
+{
+  "Equilíbrio químico": "Em uma reação reversível, o equilíbrio é atingido quando as velocidades direta e inversa se igualam e as concentrações ficam constantes. A constante Kc = [produtos]/[reagentes], cada um elevado ao seu coeficiente; Kc grande indica predomínio de produtos. Pelo princípio de Le Chatelier, o sistema reage a perturbações: aumentar um reagente, a temperatura (em reação endotérmica) ou a pressão (para o lado de menor volume gasoso) desloca o equilíbrio. O catalisador não desloca o equilíbrio.",
+  "Pilhas e eletrólise": "Oxidação é a perda de elétrons e redução é o ganho. Na pilha, a energia química vira elétrica: a oxidação ocorre no ânodo, a redução no cátodo, os elétrons fluem do ânodo ao cátodo pelo fio e a ponte salina mantém a neutralidade. A ddp é E°(cátodo) − E°(ânodo); na pilha de Daniell (Zn/Cu) vale 1,10 V. Na eletrólise, a energia elétrica provoca reações químicas não espontâneas."
+}

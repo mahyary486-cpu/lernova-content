@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Quantas ligações o átomo de carbono costuma fazer?|4|2|3|6|0|O carbono tem 4 elétrons de valência.
+Qual é a fórmula do propano?|C₃H₆|C₃H₈|C₃H₄|C₃H₇|1|CₙH₂ₙ₊₂ com n = 3.
+Na combustão CH₄ + 2 O₂ → CO₂ + 2 H₂O, quantos gramas de CO₂ se formam a partir de 32 g de CH₄ (CH₄ = 16 g/mol; CO₂ = 44 g/mol)?|44 g|32 g|88 g|176 g|2|32 g de CH₄ são 2 mol.
+Qual é a fórmula do metano?|C₂H₆|CH₃|C₂H₄|CH₄|3|O metano tem 1 carbono e 4 hidrogênios.
+Qual é a fórmula de um alceno com 4 carbonos (buteno)?|C₄H₈|C₄H₁₀|C₄H₆|C₄H₄|0|CₙH₂ₙ com n = 4.
+Quantos isômeros tem o butano, C₄H₁₀?|1|2|3|4|1|Cadeia normal e cadeia ramificada.
+Qual é a fórmula geral dos alcanos?|CₙH₂ₙ|CₙH₂ₙ₋₂|CₙH₂ₙ₊₂|CₙHₙ|2|Alcanos têm só ligações simples.
+Qual é a fórmula do etino, o alcino mais simples?|C₂H₄|C₂H₆|CH₂|C₂H₂|3|CₙH₂ₙ₋₂ com n = 2.
+Qual é a fórmula de um alcano com 8 carbonos (octano)?|C₈H₁₈|C₈H₁₆|C₈H₁₄|C₈H₂₀|0|CₙH₂ₙ₊₂ com n = 8.
+Qual é a fórmula do etano?|CH₄|C₂H₆|C₂H₄|C₃H₈|1|Com n = 2: C₂H₆.
+Qual é a fórmula do hexano?|C₆H₁₂|C₆H₁₀|C₆H₁₄|C₆H₆|2|Alcano com 6 carbonos.
+Na reação de esterificação, o ácido carboxílico reage com um álcool formando:|éter e hidrogênio|aldeído e água|amina e CO₂|éster e água|3|É a formação de ésteres.
+Qual prefixo indica 3 átomos de carbono na cadeia?|prop|but|et|met|0|met = 1, et = 2, prop = 3.
+O grupo –CHO caracteriza a função:|cetona|aldeído|álcool|éter|1|Aldeído tem o grupo formila.
+Na combustão completa do etanol, C₂H₅OH + ? O₂ → 2 CO₂ + 3 H₂O, qual é o coeficiente do O₂?|2|4|3|5|2|Conte os átomos de oxigênio.
+Qual prefixo indica 4 átomos de carbono na cadeia?|prop|et|pent|but|3|met = 1, et = 2, prop = 3, but = 4.
+A propanona (acetona) pertence à função:|cetona|aldeído|éster|ácido carboxílico|0|Tem C=O entre dois carbonos.
+Qual destes compostos é aromático?|hexano (C₆H₁₄)|benzeno (C₆H₆)|etanol (C₂H₆O)|metano (CH₄)|1|Anel benzênico.
+Um hidrocarboneto é um composto formado apenas por:|carbono e oxigênio|hidrogênio e oxigênio|carbono e hidrogênio|carbono e nitrogênio|2|O nome indica hidro + carbono.
+Qual é o grupo funcional característico das aminas?|–COOH|–OH|–CHO|–NH₂|3|Amina tem nitrogênio.
+O polietileno é um polímero formado a partir do monômero:|eteno|etano|metano|propano|0|Eteno (etileno) tem dupla ligação.
+Qual é o grupo funcional dos álcoois?|–COOH|–OH|–NH₂|–CHO|1|Álcool tem hidroxila ligada a carbono.
+Isômeros são compostos que têm:|fórmulas moleculares diferentes e mesma massa|a mesma fórmula estrutural|a mesma fórmula molecular e fórmulas estruturais diferentes|propriedades idênticas|2|Mesmos átomos arranjados de forma diferente.
+Qual é a massa molar do etanol, C₂H₆O (C = 12; H = 1; O = 16)?|30 g/mol|44 g/mol|62 g/mol|46 g/mol|3|2 · 12 + 6 · 1 + 16.
+Qual é o grupo funcional dos ácidos carboxílicos?|–COOH|–OH|–CHO|–NH₂|0|O grupo carboxila.
+A combustão completa do metano produz:|CO e H₂|CO₂ e H₂O|C e H₂O|CH₃OH|1|Combustão completa forma gás carbônico e água.
+Qual é a característica do grupo funcional dos éteres?|–OH ligado a carbono|–COOH|–O– ligado entre dois carbonos|–NH₂|2|Oxigênio entre cadeias carbônicas.
+O etanol pertence a qual função orgânica?|ácido carboxílico|éster|alcano|álcool|3|Tem o grupo –OH.
+O ácido do vinagre é o:|ácido acético|ácido sulfúrico|ácido clorídrico|ácido nítrico|0|É o ácido etanoico.
+Um carbono quiral possui:|dois grupos iguais|quatro grupos diferentes ligados a ele|uma dupla ligação|três hidrogênios|1|É a origem dos isômeros ópticos.
