@@ -11500,6 +11500,101 @@
               "title": "Сложные эфиры и жиры"
             }
           ]
+        },
+        {
+          "id": "ru10-chem-biomol",
+          "title": "Углеводы, амины и белки",
+          "lessons": [
+            {
+              "id": "ru10-chem-biomol-1",
+              "title": "Углеводы"
+            },
+            {
+              "id": "ru10-chem-biomol-2",
+              "title": "Амины"
+            },
+            {
+              "id": "ru10-chem-biomol-3",
+              "title": "Аминокислоты"
+            },
+            {
+              "id": "ru10-chem-biomol-4",
+              "title": "Белки"
+            }
+          ]
+        },
+        {
+          "id": "ru10-chem-polymers",
+          "title": "Полимеры и природные источники углеводородов",
+          "lessons": [
+            {
+              "id": "ru10-chem-polymers-1",
+              "title": "Полимеры: получение и свойства"
+            },
+            {
+              "id": "ru10-chem-polymers-2",
+              "title": "Каучуки, волокна и пластмассы"
+            },
+            {
+              "id": "ru10-chem-polymers-3",
+              "title": "Нефть, газ и уголь"
+            },
+            {
+              "id": "ru10-chem-polymers-4",
+              "title": "Органическая химия и окружающая среда"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "subject": "Science",
+      "country": "RU",
+      "chapters": [
+        {
+          "id": "ru10-bio-metabolism",
+          "title": "Обмен веществ и энергии в клетке",
+          "lessons": [
+            {
+              "id": "ru10-bio-metabolism-1",
+              "title": "АТФ и ферменты"
+            },
+            {
+              "id": "ru10-bio-metabolism-2",
+              "title": "Энергетический обмен"
+            },
+            {
+              "id": "ru10-bio-metabolism-3",
+              "title": "Фотосинтез"
+            },
+            {
+              "id": "ru10-bio-metabolism-4",
+              "title": "Пластический обмен и хемосинтез"
+            }
+          ]
+        },
+        {
+          "id": "ru10-bio-development",
+          "title": "Размножение и индивидуальное развитие",
+          "lessons": [
+            {
+              "id": "ru10-bio-development-1",
+              "title": "Бесполое размножение"
+            },
+            {
+              "id": "ru10-bio-development-2",
+              "title": "Половое размножение и гаметогенез"
+            },
+            {
+              "id": "ru10-bio-development-3",
+              "title": "Эмбриональное развитие"
+            },
+            {
+              "id": "ru10-bio-development-4",
+              "title": "Постэмбриональное развитие"
+            }
+          ]
         }
       ]
     }
