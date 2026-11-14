@@ -57,11 +57,11 @@
    "year": "2026-2027"
   },
   "JP": {
-   "bytes": 284589,
+   "bytes": 549107,
    "currentYear": "2026",
-   "files": 40,
+   "files": 80,
    "name": "Japan",
-   "rev": "91e63a4bce",
+   "rev": "f528b342d5",
    "year": "2026"
   },
   "RU": {
