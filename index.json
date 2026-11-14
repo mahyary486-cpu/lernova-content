@@ -5116,6 +5116,142 @@
       ]
     },
     {
+      "grade": 11,
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "g11c-ch1",
+          "title": "Chemical Reactions and Stoichiometry",
+          "lessons": [
+            {
+              "id": "g11c-ch1-l1",
+              "title": "Types of Chemical Reactions and Balancing Equations"
+            },
+            {
+              "id": "g11c-ch1-l2",
+              "title": "The Mole and Molar Mass"
+            },
+            {
+              "id": "g11c-ch1-l3",
+              "title": "Stoichiometry: Mole Ratios and Mass Calculations"
+            },
+            {
+              "id": "g11c-ch1-l4",
+              "title": "Limiting Reactant and Percent Yield"
+            },
+            {
+              "id": "g11c-ch1-l5",
+              "title": "Empirical and Molecular Formulas"
+            }
+          ]
+        },
+        {
+          "id": "g11c-ch2",
+          "title": "Gases and the Gas Laws",
+          "lessons": [
+            {
+              "id": "g11c-ch2-l1",
+              "title": "Kinetic Molecular Theory of Gases and Pressure"
+            },
+            {
+              "id": "g11c-ch2-l2",
+              "title": "Boyle's, Charles's and Gay-Lussac's Laws"
+            },
+            {
+              "id": "g11c-ch2-l3",
+              "title": "The Ideal Gas Law"
+            },
+            {
+              "id": "g11c-ch2-l4",
+              "title": "Dalton's Law, Gas Mixtures and Gas Stoichiometry"
+            },
+            {
+              "id": "g11c-ch2-l5",
+              "title": "Diffusion, Effusion and Real Gases"
+            }
+          ]
+        },
+        {
+          "id": "g11c-ch3",
+          "title": "Solutions and Colligative Properties",
+          "lessons": [
+            {
+              "id": "g11c-ch3-l1",
+              "title": "Solution Concentration Units"
+            },
+            {
+              "id": "g11c-ch3-l2",
+              "title": "Solubility and the Factors Affecting It"
+            },
+            {
+              "id": "g11c-ch3-l3",
+              "title": "Colligative Properties: Vapor Pressure and Boiling and Freezing Points"
+            },
+            {
+              "id": "g11c-ch3-l4",
+              "title": "Osmosis and Osmotic Pressure"
+            },
+            {
+              "id": "g11c-ch3-l5",
+              "title": "Electrolytes, Ionic Equations and Precipitation"
+            }
+          ]
+        },
+        {
+          "id": "g11c-ch4",
+          "title": "Thermochemistry",
+          "lessons": [
+            {
+              "id": "g11c-ch4-l1",
+              "title": "Energy, Heat and Enthalpy"
+            },
+            {
+              "id": "g11c-ch4-l2",
+              "title": "Calorimetry and Specific Heat"
+            },
+            {
+              "id": "g11c-ch4-l3",
+              "title": "Hess's Law and Standard Enthalpies of Formation"
+            },
+            {
+              "id": "g11c-ch4-l4",
+              "title": "Bond Energies and Energy Changes"
+            },
+            {
+              "id": "g11c-ch4-l5",
+              "title": "Entropy, Gibbs Free Energy and Spontaneity"
+            }
+          ]
+        },
+        {
+          "id": "g11c-ch5",
+          "title": "Reaction Rates and Chemical Equilibrium",
+          "lessons": [
+            {
+              "id": "g11c-ch5-l1",
+              "title": "Rates of Reaction and Collision Theory"
+            },
+            {
+              "id": "g11c-ch5-l2",
+              "title": "Rate Laws and Reaction Order"
+            },
+            {
+              "id": "g11c-ch5-l3",
+              "title": "Activation Energy and the Arrhenius Equation"
+            },
+            {
+              "id": "g11c-ch5-l4",
+              "title": "Chemical Equilibrium and the Equilibrium Constant"
+            },
+            {
+              "id": "g11c-ch5-l5",
+              "title": "Le Chatelier's Principle and Equilibrium Calculations"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "grade": 12,
       "subject": "Math",
       "course": "Pre-Calculus",
