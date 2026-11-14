@@ -11736,6 +11736,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 12,
+      "subject": "Physics",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn12p-ch1",
+          "title": "受力分析与牛顿运动定律综合",
+          "lessons": [
+            {
+              "id": "cn12p-ch1-l1",
+              "title": "受力分析与物体的平衡综合"
+            },
+            {
+              "id": "cn12p-ch1-l2",
+              "title": "牛顿定律的连接体与板块问题"
+            },
+            {
+              "id": "cn12p-ch1-l3",
+              "title": "传送带模型"
+            }
+          ]
+        },
+        {
+          "id": "cn12p-ch2",
+          "title": "曲线运动与万有引力综合",
+          "lessons": [
+            {
+              "id": "cn12p-ch2-l1",
+              "title": "平抛与圆周运动的综合"
+            },
+            {
+              "id": "cn12p-ch2-l2",
+              "title": "竖直面内的圆周运动"
+            },
+            {
+              "id": "cn12p-ch2-l3",
+              "title": "天体运动综合问题"
+            }
+          ]
+        },
+        {
+          "id": "cn12p-ch3",
+          "title": "功能关系与能量守恒",
+          "lessons": [
+            {
+              "id": "cn12p-ch3-l1",
+              "title": "动能定理的综合应用"
+            },
+            {
+              "id": "cn12p-ch3-l2",
+              "title": "机械能守恒的综合应用"
+            },
+            {
+              "id": "cn12p-ch3-l3",
+              "title": "功能关系与摩擦生热"
+            }
+          ]
+        },
+        {
+          "id": "cn12p-ch4",
+          "title": "动量与能量综合",
+          "lessons": [
+            {
+              "id": "cn12p-ch4-l1",
+              "title": "碰撞与爆炸模型"
+            },
+            {
+              "id": "cn12p-ch4-l2",
+              "title": "子弹打木块与板块模型"
+            },
+            {
+              "id": "cn12p-ch4-l3",
+              "title": "动量与能量的综合题"
+            }
+          ]
+        },
+        {
+          "id": "cn12p-ch5",
+          "title": "静电场",
+          "lessons": [
+            {
+              "id": "cn12p-ch5-l1",
+              "title": "库仑定律与电场强度"
+            },
+            {
+              "id": "cn12p-ch5-l2",
+              "title": "电势、电势能与电势差"
+            },
+            {
+              "id": "cn12p-ch5-l3",
+              "title": "电容器与带电粒子在电场中的运动"
+            }
+          ]
+        },
+        {
+          "id": "cn12p-ch6",
+          "title": "恒定电流",
+          "lessons": [
+            {
+              "id": "cn12p-ch6-l1",
+              "title": "欧姆定律、电阻定律与电功率"
+            },
+            {
+              "id": "cn12p-ch6-l2",
+              "title": "闭合电路欧姆定律"
+            },
+            {
+              "id": "cn12p-ch6-l3",
+              "title": "电学实验"
+            }
+          ]
+        },
+        {
+          "id": "cn12p-ch7",
+          "title": "复合场与电磁感应综合",
+          "lessons": [
+            {
+              "id": "cn12p-ch7-l1",
+              "title": "带电粒子在复合场中的运动"
+            },
+            {
+              "id": "cn12p-ch7-l2",
+              "title": "电磁感应中的力电综合"
+            },
+            {
+              "id": "cn12p-ch7-l3",
+              "title": "电磁感应中的能量与图象"
+            }
+          ]
+        },
+        {
+          "id": "cn12p-ch8",
+          "title": "原子与原子核",
+          "lessons": [
+            {
+              "id": "cn12p-ch8-l1",
+              "title": "光电效应与波粒二象性"
+            },
+            {
+              "id": "cn12p-ch8-l2",
+              "title": "氢原子能级与玻尔模型"
+            },
+            {
+              "id": "cn12p-ch8-l3",
+              "title": "原子核与核能"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
