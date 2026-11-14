@@ -5058,6 +5058,64 @@
       "chapters": []
     },
     {
+      "grade": 11,
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "g11p-ch1",
+          "title": "Circular Motion and Gravitation",
+          "lessons": [
+            {
+              "id": "g11p-ch1-l1",
+              "title": "Uniform Circular Motion"
+            },
+            {
+              "id": "g11p-ch1-l2",
+              "title": "Centripetal Force and Acceleration"
+            },
+            {
+              "id": "g11p-ch1-l3",
+              "title": "Newton's Law of Universal Gravitation"
+            },
+            {
+              "id": "g11p-ch1-l4",
+              "title": "Gravitational Fields and Weight"
+            },
+            {
+              "id": "g11p-ch1-l5",
+              "title": "Orbits and Kepler's Laws"
+            }
+          ]
+        },
+        {
+          "id": "g11p-ch2",
+          "title": "Fluids",
+          "lessons": [
+            {
+              "id": "g11p-ch2-l1",
+              "title": "Density and Pressure"
+            },
+            {
+              "id": "g11p-ch2-l2",
+              "title": "Pressure in Fluids"
+            },
+            {
+              "id": "g11p-ch2-l3",
+              "title": "Pascal's Principle"
+            },
+            {
+              "id": "g11p-ch2-l4",
+              "title": "Buoyancy and Archimedes' Principle"
+            },
+            {
+              "id": "g11p-ch2-l5",
+              "title": "Fluid Flow and Bernoulli's Principle"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "grade": 12,
       "subject": "Math",
       "course": "Pre-Calculus",
@@ -5318,6 +5376,84 @@
             {
               "id": "g9c-ch2-l5",
               "title": "Periodic Families and Trends"
+            }
+          ]
+        },
+        {
+          "id": "g9c-ch3",
+          "title": "States of Matter and Changes of State",
+          "lessons": [
+            {
+              "id": "g9c-ch3-l1",
+              "title": "Solids, Liquids and Gases"
+            },
+            {
+              "id": "g9c-ch3-l2",
+              "title": "Kinetic Molecular Theory"
+            },
+            {
+              "id": "g9c-ch3-l3",
+              "title": "Changes of State"
+            },
+            {
+              "id": "g9c-ch3-l4",
+              "title": "Heating and Cooling Curves"
+            },
+            {
+              "id": "g9c-ch3-l5",
+              "title": "Thermal Energy, Temperature and Heat"
+            }
+          ]
+        },
+        {
+          "id": "g9c-ch4",
+          "title": "Mixtures, Solutions and Separation",
+          "lessons": [
+            {
+              "id": "g9c-ch4-l1",
+              "title": "Types of Mixtures"
+            },
+            {
+              "id": "g9c-ch4-l2",
+              "title": "Solutions: Solute and Solvent"
+            },
+            {
+              "id": "g9c-ch4-l3",
+              "title": "Solubility"
+            },
+            {
+              "id": "g9c-ch4-l4",
+              "title": "Concentration"
+            },
+            {
+              "id": "g9c-ch4-l5",
+              "title": "Separating Mixtures"
+            }
+          ]
+        },
+        {
+          "id": "g9c-ch5",
+          "title": "Acids, Bases and pH",
+          "lessons": [
+            {
+              "id": "g9c-ch5-l1",
+              "title": "Properties of Acids and Bases"
+            },
+            {
+              "id": "g9c-ch5-l2",
+              "title": "The pH Scale"
+            },
+            {
+              "id": "g9c-ch5-l3",
+              "title": "Indicators"
+            },
+            {
+              "id": "g9c-ch5-l4",
+              "title": "Neutralization and Salts"
+            },
+            {
+              "id": "g9c-ch5-l5",
+              "title": "Acids and Bases in Everyday Life"
             }
           ]
         }
@@ -10294,7 +10430,117 @@
               "title": "Surface tension and capillarity"
             }
           ]
-        },{"id": "in-p11-th", "title": "Thermal Properties of Matter", "lessons": [{"id": "in-p11-th-01", "title": "Temperature, heat and thermometry"}, {"id": "in-p11-th-02", "title": "Thermal expansion"}, {"id": "in-p11-th-03", "title": "Specific heat, calorimetry and change of state"}, {"id": "in-p11-th-04", "title": "Heat transfer"}]},{"id": "in-p11-tm", "title": "Thermodynamics", "lessons": [{"id": "in-p11-tm-01", "title": "Thermal equilibrium and the zeroth law"}, {"id": "in-p11-tm-02", "title": "First law of thermodynamics"}, {"id": "in-p11-tm-03", "title": "Thermodynamic processes"}, {"id": "in-p11-tm-04", "title": "Second law, heat engines and Carnot engine"}]},{"id": "in-p11-kt", "title": "Kinetic Theory", "lessons": [{"id": "in-p11-kt-01", "title": "Ideal gas equation and gas laws"}, {"id": "in-p11-kt-02", "title": "Kinetic theory of gases and pressure"}, {"id": "in-p11-kt-03", "title": "Kinetic interpretation of temperature"}, {"id": "in-p11-kt-04", "title": "Degrees of freedom, equipartition and mean free path"}]},{"id": "in-p11-os", "title": "Oscillations", "lessons": [{"id": "in-p11-os-01", "title": "Periodic motion and simple harmonic motion"}, {"id": "in-p11-os-02", "title": "Velocity and acceleration in SHM"}, {"id": "in-p11-os-03", "title": "Energy in SHM and the spring–mass system"}, {"id": "in-p11-os-04", "title": "Simple pendulum, damping and resonance"}]},{"id": "in-p11-wv", "title": "Waves", "lessons": [{"id": "in-p11-wv-01", "title": "Transverse and longitudinal waves"}, {"id": "in-p11-wv-02", "title": "Speed of waves"}, {"id": "in-p11-wv-03", "title": "Superposition and standing waves"}, {"id": "in-p11-wv-04", "title": "Beats and the Doppler effect"}]}
+        },
+        {
+          "id": "in-p11-th",
+          "title": "Thermal Properties of Matter",
+          "lessons": [
+            {
+              "id": "in-p11-th-01",
+              "title": "Temperature, heat and thermometry"
+            },
+            {
+              "id": "in-p11-th-02",
+              "title": "Thermal expansion"
+            },
+            {
+              "id": "in-p11-th-03",
+              "title": "Specific heat, calorimetry and change of state"
+            },
+            {
+              "id": "in-p11-th-04",
+              "title": "Heat transfer"
+            }
+          ]
+        },
+        {
+          "id": "in-p11-tm",
+          "title": "Thermodynamics",
+          "lessons": [
+            {
+              "id": "in-p11-tm-01",
+              "title": "Thermal equilibrium and the zeroth law"
+            },
+            {
+              "id": "in-p11-tm-02",
+              "title": "First law of thermodynamics"
+            },
+            {
+              "id": "in-p11-tm-03",
+              "title": "Thermodynamic processes"
+            },
+            {
+              "id": "in-p11-tm-04",
+              "title": "Second law, heat engines and Carnot engine"
+            }
+          ]
+        },
+        {
+          "id": "in-p11-kt",
+          "title": "Kinetic Theory",
+          "lessons": [
+            {
+              "id": "in-p11-kt-01",
+              "title": "Ideal gas equation and gas laws"
+            },
+            {
+              "id": "in-p11-kt-02",
+              "title": "Kinetic theory of gases and pressure"
+            },
+            {
+              "id": "in-p11-kt-03",
+              "title": "Kinetic interpretation of temperature"
+            },
+            {
+              "id": "in-p11-kt-04",
+              "title": "Degrees of freedom, equipartition and mean free path"
+            }
+          ]
+        },
+        {
+          "id": "in-p11-os",
+          "title": "Oscillations",
+          "lessons": [
+            {
+              "id": "in-p11-os-01",
+              "title": "Periodic motion and simple harmonic motion"
+            },
+            {
+              "id": "in-p11-os-02",
+              "title": "Velocity and acceleration in SHM"
+            },
+            {
+              "id": "in-p11-os-03",
+              "title": "Energy in SHM and the spring–mass system"
+            },
+            {
+              "id": "in-p11-os-04",
+              "title": "Simple pendulum, damping and resonance"
+            }
+          ]
+        },
+        {
+          "id": "in-p11-wv",
+          "title": "Waves",
+          "lessons": [
+            {
+              "id": "in-p11-wv-01",
+              "title": "Transverse and longitudinal waves"
+            },
+            {
+              "id": "in-p11-wv-02",
+              "title": "Speed of waves"
+            },
+            {
+              "id": "in-p11-wv-03",
+              "title": "Superposition and standing waves"
+            },
+            {
+              "id": "in-p11-wv-04",
+              "title": "Beats and the Doppler effect"
+            }
+          ]
+        }
       ]
     },
     {
