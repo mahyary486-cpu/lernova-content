@@ -11595,6 +11595,50 @@
               "title": "Постэмбриональное развитие"
             }
           ]
+        },
+        {
+          "id": "ru10-bio-genetics",
+          "title": "Хромосомная теория, генетика человека и селекция",
+          "lessons": [
+            {
+              "id": "ru10-bio-genetics-1",
+              "title": "Хромосомная теория наследственности"
+            },
+            {
+              "id": "ru10-bio-genetics-2",
+              "title": "Генетика человека"
+            },
+            {
+              "id": "ru10-bio-genetics-3",
+              "title": "Селекция"
+            },
+            {
+              "id": "ru10-bio-genetics-4",
+              "title": "Биотехнология и генная инженерия"
+            }
+          ]
+        },
+        {
+          "id": "ru10-bio-microbes",
+          "title": "Вирусы, бактерии и грибы",
+          "lessons": [
+            {
+              "id": "ru10-bio-microbes-1",
+              "title": "Вирусы"
+            },
+            {
+              "id": "ru10-bio-microbes-2",
+              "title": "Бактерии"
+            },
+            {
+              "id": "ru10-bio-microbes-3",
+              "title": "Грибы"
+            },
+            {
+              "id": "ru10-bio-microbes-4",
+              "title": "Иммунитет и профилактика болезней"
+            }
+          ]
         }
       ]
     }
