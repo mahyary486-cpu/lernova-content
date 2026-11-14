@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Elasticity is the property of a body to|regain its original shape after the deforming force is removed|break easily|melt|stretch forever|0|Steel is more elastic than rubber.
+Stress is defined as|force times area|force per unit area|area per unit force|force per unit length|1|Restoring force per unit area.
+The SI unit of stress is|N|m|N/m² (pascal)|N m|2|Same as pressure.
+Strain is|force / area|stress × area|mass / volume|change in dimension / original dimension|3|A ratio.
+Strain has|no unit|N/m²|m|kg|0|It is dimensionless.
+Hooke's law says that within the elastic limit, stress is proportional to|area|strain|length|mass|1|Stress = modulus × strain.
+Young's modulus Y is|shear stress / shear strain|pressure / volume strain|longitudinal stress / longitudinal strain|force / area|2|For stretching or compression.
+The bulk modulus relates|shear stress and shear strain|stress and length|none of these|pressure and volumetric strain|3|B = −P/(ΔV/V).
+The shear modulus relates|shear stress and shear strain|pressure and volume strain|tensile stress and length|none of these|0|Also called the modulus of rigidity.
+The SI unit of Young's modulus is|N|N/m²|m|dimensionless|1|Same as stress.
+The stress at which a material breaks is the|yield stress|proportional limit|breaking stress|zero stress|2|Also called ultimate tensile strength.
+The elastic limit is the|breaking point|zero stress|plastic region|maximum stress up to which the body regains its shape|3|Beyond it the deformation is permanent.
+Plasticity is the property of|permanent deformation|full recovery|no strain|no stress|0|Beyond the elastic limit.
+Which is more elastic, steel or rubber?|rubber|steel|both are equal|neither|1|Steel has a higher Young's modulus.
+The types of stress are|only tensile|only shear|tensile, compressive and shear|none of these|2|Depending on the direction of the force.
+Poisson's ratio is|longitudinal strain / lateral strain|stress / strain|force / area|lateral strain / longitudinal strain|3|A dimensionless ratio.
+The reciprocal of the bulk modulus is the|compressibility|rigidity|elasticity|stress|0|k = 1/B.
+A force of 100 N acts on an area of 0.5 m². The stress is|50 N/m²|200 N/m²|100 N/m²|0.005 N/m²|1|F/A.
+A 2 m wire stretches by 1 mm. The strain is|2 × 10⁻³|0.5|5 × 10⁻⁴|5|2|0.001/2.
+A wire has stress 2 × 10⁸ N/m² and strain 10⁻³. Its Young's modulus is|2 × 10⁵ N/m²|2 × 10⁻⁵ N/m²|10¹¹ N/m²|2 × 10¹¹ N/m²|3|Stress/strain.
+The extension of a wire under a force F is e =|FL/(AY)|FA/(LY)|AY/(FL)|FY/(AL)|0|From Y = (F/A)/(e/L).
+The force constant of a wire is k =|L/AY|AY/L|Y/AL|AL/Y|1|F = ke.
+The elastic potential energy per unit volume is|stress × strain|stress / strain|½ × stress × strain|strain / stress|2|Area under the stress–strain graph.
+If the length of a wire is doubled (same material and area), the extension for the same force|halves|stays the same|becomes 4 times|doubles|3|e ∝ L.
+If the radius of a wire is doubled, the extension for the same force becomes|1/4|1/2|2 times|4 times|0|e ∝ 1/r².
+Which of these has the greatest Young's modulus?|rubber|steel|lead|wood|1|About 2 × 10¹¹ N/m².
+For a perfectly rigid body, the Young's modulus is|zero|one|infinite|small|2|It never deforms.
+The shear modulus is defined as|tensile stress / tensile strain|pressure / volume strain|none of these|shear stress / shear strain|3|G = (F/A)/θ.
+The bulk modulus is defined as|−P / (ΔV/V)|P V|ΔV / P|V / P|0|Pressure over volume strain.
+A liquid does not have|a bulk modulus|a shear modulus|a density|a pressure|1|It cannot resist shear.
+The modulus defined for fluids is the|Young's modulus|shear modulus|bulk modulus|Poisson's ratio|2|They resist volume change.
+The hysteresis loop of rubber means that|no energy is lost|rubber is perfectly elastic|strain is zero|energy is lost as heat in each cycle|3|The area of the loop.
+The stress–strain curve is a straight line up to the|proportional limit|breaking point|plastic region|zero point|0|Hooke's law holds.
+A ductile material|is brittle|can be drawn into wires and has a large plastic region|breaks easily|is rubber-like only|1|Copper is ductile.
+A brittle material|is ductile|is very elastic|breaks with little plastic deformation|never breaks|2|Glass is brittle.
+The work done in stretching a wire by e under force F is|F e|F/e|F + e|½ F e|3|Area under the force–extension graph.
+A wire 1 m long, area 10⁻⁶ m², Y = 2 × 10¹¹ N/m², is loaded with 100 N. The extension is|5 × 10⁻⁴ m|2 × 10⁻³ m|5 × 10⁻² m|0.5 m|0|FL/(AY).
+The energy stored in that wire is|0.05 J|0.025 J|0.25 J|2.5 J|1|½ × 100 × 5 × 10⁻⁴.
+Two wires of the same material have lengths in the ratio 1 : 2 and radii in the ratio 1 : 2. For the same force the ratio of extensions is|1 : 2|1 : 1|2 : 1|4 : 1|2|e ∝ L/r².
+A 10 kg load hangs on a wire of cross-section 10⁻⁶ m² (g = 10 m/s²). The stress is|10⁷ N/m²|10⁹ N/m²|10⁵ N/m²|10⁸ N/m²|3|100/10⁻⁶.
+A longitudinal strain of 0.1% in a 2 m wire gives an extension of|2 mm|1 mm|0.2 mm|20 mm|0|0.001 × 2 m.
+Water has bulk modulus 2 × 10⁹ Pa. A pressure rise of 2 × 10⁷ Pa gives a fractional volume decrease of|10⁻³|10⁻²|10⁻⁴|10⁻¹|1|ΔP/B.
+The elastic energy density for stress 10⁶ N/m² and strain 10⁻⁵ is|10 J/m³|0.5 J/m³|5 J/m³|50 J/m³|2|½ × stress × strain.
+A shear force of 10 N acts on a face of area 1 m². The shear stress is|1 N/m²|100 N/m²|0.1 N/m²|10 N/m²|3|F/A.
+Within the elastic limit, if the load is doubled the extension|doubles|halves|stays the same|becomes 4 times|0|Hooke's law.
+A wire is stretched to twice its length. The strain is|2|1|0.5|0|1|ΔL/L = 1.
+A steel wire and a copper wire of the same dimensions carry the same load. The greater extension is in|steel|both equally|copper|neither|2|Copper has the lower Young's modulus.
+Young's modulus is a property of|the shape|the length|the load|the material|3|It does not depend on the dimensions.
+The slope of the linear part of the stress–strain curve equals|Young's modulus|the bulk modulus|Poisson's ratio|the breaking stress|0|Stress/strain.
+The area under the stress–strain curve represents|force|energy per unit volume|strain|stress|1|Work done per unit volume.

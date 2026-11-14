@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Newton's law of gravitation gives the force between two masses as F =|G m₁m₂ / r²|G m₁m₂ / r|G m₁ / (m₂ r²)|m₁m₂ / r²|0|Inverse-square law.
+The SI unit of the gravitational constant G is|N kg m⁻²|N m² kg⁻²|N m kg⁻¹|kg m⁻³|1|From F = Gm₁m₂/r².
+The value of G is approximately|6.67 × 10⁻⁷|6.67 × 10⁻³¹|6.67 × 10⁻¹¹ in SI units|9.8|2|A very small constant.
+Kepler's first law says planets move in|circles about the Sun|parabolas|straight lines|ellipses with the Sun at one focus|3|The law of orbits.
+Kepler's second law states that the line joining a planet to the Sun sweeps|equal areas in equal times|equal angles in equal times|the same orbit each year|T² ∝ a³|0|The law of areas.
+Kepler's third law states that|T ∝ a|T² ∝ a³|T ∝ a²|T³ ∝ a²|1|The law of periods.
+The gravitational force between two masses is always|repulsive|zero|attractive|sometimes repulsive|2|Gravity only attracts.
+The acceleration due to gravity at the Earth's surface is about|98 m/s²|0.98 m/s²|9.8 m/s|9.8 m/s²|3|Directed towards the centre.
+The acceleration due to gravity at the centre of the Earth is|zero|9.8 m/s²|infinite|19.6 m/s²|0|The attractions cancel.
+The weight of a body at the centre of the Earth is|mg|zero|2mg|mg/2|1|g is zero there.
+The acceleration due to gravity with increasing height above the surface|increases|stays constant|decreases|becomes zero immediately|2|g′ = g R²/(R + h)².
+The value of g is|less at the poles|the same everywhere|zero at the poles|greater at the poles than at the equator|3|The Earth is flattened and rotating.
+The gravitational potential energy of two masses is|negative|positive|zero|infinite|0|U = −GMm/r.
+The escape speed from the Earth's surface is about|7.9 km/s|11.2 km/s|9.8 km/s|3 × 10⁸ m/s|1|v = √(2gR).
+The orbital speed of a satellite close to the Earth is about|11.2 km/s|9.8 km/s|7.9 km/s|1 km/s|2|v = √(gR).
+A geostationary satellite has a time period of|12 hours|1.5 hours|1 year|24 hours|3|Same as the Earth's rotation.
+A geostationary satellite orbits in the plane of the|equator|poles|ecliptic|a meridian|0|It stays above one point.
+If the distance between two masses is doubled, the gravitational force becomes|1/2|1/4|2 times|4 times|1|F ∝ 1/r².
+If both masses are doubled, the gravitational force becomes|2 times|the same|4 times|1/4|2|F ∝ m₁m₂.
+The acceleration due to gravity at the Earth's surface is g =|GM/R|G M R²|G/(MR²)|GM/R²|3|M and R are the Earth's mass and radius.
+The formula g′ = g(1 − 2h/R) is valid for|h much smaller than R|h much larger than R|h = R|all heights|0|A binomial approximation.
+At a depth equal to R/2 inside the Earth, the value of g is|g|g/2|2g|g/4|1|g′ = g(1 − d/R).
+The value of g on the Moon is about|1/2 of that on Earth|2 times that on Earth|1/6 of that on Earth|the same as on Earth|2|1.6 m/s².
+The weight of a 60 kg man on the Moon (g = 1.6 m/s²) is|600 N|60 N|9.6 N|96 N|3|mg.
+The escape speed in terms of g and R is|√(2gR)|√(gR)|2gR|√(gR/2)|0|From (½)mv² = GMm/R.
+The orbital speed near the surface in terms of g and R is|√(2gR)|√(gR)|gR|√(g/R)|1|mg = mv²/R.
+The escape speed v_e and orbital speed v₀ are related by|v_e = v₀|v_e = 2v₀|v_e = √2 v₀|v_e = v₀/√2|2|√(2gR) = √2 √(gR).
+The time period of a satellite orbiting close to the Earth is about|24 hours|12 hours|1 minute|84 minutes|3|T = 2π√(R/g).
+The gravitational potential energy of mass m at distance r from mass M is|−GMm/r|GMm/r|−GMm/r²|GMm/r²|0|Zero at infinity.
+The gravitational potential at distance r from a mass M is|GM/r|−GM/r|−GM/r²|GM/r²|1|Potential energy per unit mass.
+Kepler's third law T² = (4π²/GM) a³ holds also for|only elliptical orbits|only hyperbolic orbits|circular orbits|no orbit|2|a is the radius for a circle.
+If the radius of a satellite's orbit increases, its time period|decreases|stays the same|becomes zero|increases|3|T² ∝ r³.
+If the radius of a satellite's orbit increases, its orbital speed|decreases|increases|stays the same|becomes zero|0|v = √(GM/r).
+Weightlessness in a satellite is because|g is zero there|the satellite and the body are both in free fall|there is no gravity|the Earth's pull is cancelled by the Sun|1|They fall together.
+Gravitational mass and inertial mass are|unrelated|opposite|equal (equivalent)|measured in different units|2|The equivalence principle.
+The mass of the Earth can be found from|the mass of the Moon only|temperature|density of air|g and R|3|M = gR²/G.
+A planet's orbit has 4 times the radius of the Earth's. Its period is|8 years|4 years|16 years|2 years|0|T² ∝ a³ gives 4^(3/2).
+The value of g at a height R above the Earth's surface is|g/2|g/4|g/9|g|1|Distance 2R from the centre.
+The value of g at a depth R/4 inside the Earth is|g/4|g/2|3g/4|g|2|g(1 − 1/4).
+A planet has mass 2M_E and radius R_E. The value of g on it is|g|4g|g/2|2g|3|g ∝ M/R².
+A planet has mass M_E and radius 2R_E. The value of g on it is|g/4|g/2|2g|4g|0|g ∝ 1/R².
+A planet has mass M_E and radius R_E/4. Its escape speed is|11.2 km/s|2 × 11.2 km/s|4 × 11.2 km/s|0.5 × 11.2 km/s|1|v ∝ √(M/R).
+The binding energy of a satellite in a circular orbit of radius r is|GMm/r|−GMm/r|GMm/2r|GMm/4r|2|The magnitude of the total energy.
+The total energy of a satellite in a circular orbit is|GMm/2r|−GMm/r|0|−GMm/2r|3|K + U = GMm/2r − GMm/r.
+The kinetic energy of a satellite in a circular orbit is|GMm/2r|−GMm/2r|GMm/r|−GMm/r|0|½mv² with v² = GM/r.
+Constant areal velocity implies that the planet's angular momentum is|zero|constant|increasing|decreasing|1|Kepler's second law.
+A planet at perihelion moves|slowest|at constant speed|fastest|not at all|2|It is closest to the Sun.
+The height of a geostationary satellite is about|3600 km|360 km|360 000 km|36 000 km|3|About 6.6 Earth radii from the centre.
+For two satellites with orbit radii r and 4r, the ratio of their periods T₁/T₂ is|1/8|1/4|1/2|1/16|0|(1/4)^(3/2).
+If the Earth shrinks to half its radius with the same mass, g becomes|2 times|4 times|half|the same|1|g ∝ 1/R².

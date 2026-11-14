@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Pressure is|force per unit area|force times area|area/force|mass/volume|0|P = F/A.
+The SI unit of pressure is the|newton|pascal|joule|watt|1|1 Pa = 1 N/m².
+The pressure at depth h in a liquid of density ρ is P = P₀ +|ρg/h|ρh/g|ρgh|gh/ρ|2|Gauge pressure ρgh.
+Pascal's law states that a pressure applied to an enclosed fluid is|lost|doubled|zero|transmitted equally in all directions|3|A basis for hydraulic machines.
+Atmospheric pressure at sea level is about|1.01 × 10⁵ Pa|10 Pa|10⁸ Pa|10¹⁰ Pa|0|Equal to 76 cm of mercury.
+A hydraulic lift works on|Bernoulli's principle|Pascal's law|Archimedes' principle|Stokes' law|1|Pressure is transmitted through the fluid.
+Archimedes' principle says the buoyant force equals|the weight of the body|the volume of the body|the weight of the fluid displaced|the density of the fluid|2|Upthrust.
+The equation of continuity states that A₁v₁ =|A₂/v₂|v₂/A₂|A₂ + v₂|A₂v₂|3|For an incompressible fluid.
+Bernoulli's principle is based on conservation of|energy|mass only|momentum only|charge|0|Per unit volume of an ideal fluid.
+Viscosity is|a surface effect|the internal friction of a fluid|density|pressure|1|It resists relative motion between layers.
+The SI unit of viscosity is|N|m²/s|Pa s|kg/m³|2|N s m⁻².
+The SI unit of surface tension is|N|N m|J|N/m|3|Force per unit length.
+Capillary rise takes place in|narrow tubes|wide tubes|solids|gases|0|Due to surface tension.
+In streamline flow, the velocity of the fluid at a given point|keeps changing|remains constant|is zero|is random|1|Each particle follows the same path.
+Turbulent flow is|smooth|laminar|irregular and swirling|steady|2|Occurs at high Reynolds numbers.
+The Reynolds number determines|the pressure|the density|only the viscosity|the type of flow (laminar or turbulent)|3|Re = ρvd/η.
+The terminal velocity is|the constant velocity reached by a body falling through a fluid|zero|an increasing velocity|none of these|0|Drag balances weight less buoyancy.
+The pressure at 10 m depth in water (ρ = 1000 kg/m³, g = 10 m/s²), excluding the atmosphere, is|10⁴ Pa|10⁵ Pa|10⁶ Pa|10³ Pa|1|ρgh.
+A force on an area of 2 m² at a pressure of 500 Pa is|250 N|500 N|1000 N|2.5 N|2|F = PA.
+In a hydraulic press the small piston has area 1 cm² and the large piston 100 cm². A force of 10 N on the small one gives on the large one|100 N|10 N|10⁴ N|1000 N|3|F₂ = F₁ A₂/A₁.
+The buoyant force on an object displacing 2 L of water (g = 10 m/s²) is|20 N|2 N|200 N|0.2 N|0|ρ V g.
+A body floats in a liquid if its density is|more than that of the liquid|less than that of the liquid|zero|very large|1|The buoyant force is enough.
+Water flows at 2 m/s through a 4 cm² pipe. In a 2 cm² section the speed is|1 m/s|2 m/s|4 m/s|8 m/s|2|A₁v₁ = A₂v₂.
+Bernoulli's equation is|P + ρv = constant|P/ρ = v|Pv = constant|P + ½ρv² + ρgh = constant|3|For streamline flow of an ideal fluid.
+Where the speed of a fluid is high, the pressure is|low|high|the same|zero|0|Bernoulli's principle.
+A venturimeter is used to measure|temperature|the flow speed of a fluid|density|height|1|It uses the pressure difference.
+The lift on an aeroplane wing is due to|engines only|buoyancy|the pressure difference above and below the wing|friction|2|Faster air above, lower pressure.
+The viscous force between layers is F =|ηv|A/v|ρgh|η A (dv/dx)|3|Newton's law of viscosity.
+Stokes' law gives the viscous drag on a sphere as F =|6π η r v|4π η r v|6π r v|η r v|0|For small spheres at low speed.
+The terminal velocity of a sphere falling in a fluid is proportional to|r|r²|1/r|r³|1|v_t = 2r²(ρ − σ)g/9η.
+With rising temperature, the viscosity of a liquid|increases|stays the same|decreases|becomes zero|2|The molecules move more easily.
+With rising temperature, the viscosity of a gas|decreases|stays the same|becomes zero|increases|3|More collisions between layers.
+The surface tension is S =|F/l|F l|l/F|F/A|0|Force per unit length.
+The excess pressure inside a soap bubble of radius r is|2S/r|4S/r|S/r|8S/r|1|Two surfaces.
+The excess pressure inside a liquid drop of radius r is|4S/r|S/r|2S/r|S/2r|2|One surface.
+The capillary rise is h =|S/(ρ g r)|2S/(ρ r)|S cos θ|2S cos θ/(ρ g r)|3|Jurin's law.
+The total pressure 10 m below the surface of water (atmospheric pressure 10⁵ Pa, ρgh = 10⁵ Pa) is|2 × 10⁵ Pa|10⁵ Pa|3 × 10⁵ Pa|10⁶ Pa|0|P₀ + ρgh.
+The speed of water from a hole at depth h in a tank is|√(gh)|√(2gh)|2gh|gh/2|1|Torricelli's theorem.
+The speed of water from a hole 5 m below the surface (g = 10 m/s²) is|5 m/s|50 m/s|10 m/s|100 m/s|2|√(2 × 10 × 5).
+A pipe narrows from 10 cm² to 5 cm². If the speed in the wide part is 1 m/s, the speed in the narrow part is|0.5 m/s|1 m/s|5 m/s|2 m/s|3|A₁v₁ = A₂v₂.
+The excess pressure in a soap bubble of radius 1 cm with S = 0.03 N/m is|12 Pa|6 Pa|3 Pa|24 Pa|0|4S/r = 0.12/0.01.
+Water (S = 0.07 N/m, θ = 0) rises in a capillary of radius 0.5 mm to about (g = 10 m/s², ρ = 1000 kg/m³)|1.4 cm|2.8 cm|5.6 cm|28 cm|1|2S/(ρgr).
+If the radius of a capillary tube is halved, the capillary rise|halves|stays the same|doubles|becomes 4 times|2|h ∝ 1/r.
+A drop of radius R splits into 8 equal drops. The radius of each is|R/8|R/4|2R|R/2|3|Volume is conserved: 8 r³ = R³.
+If the radius of a falling sphere is doubled, its terminal velocity becomes|4 times|2 times|8 times|the same|0|v_t ∝ r².
+Raindrops fall with constant speed because the viscous drag|is zero|balances the weight so the net force is zero|exceeds the weight forever|is constant|1|Terminal velocity.
+Laminar flow in a pipe typically has a Reynolds number|above 3000|exactly 0|below about 1000|infinite|2|Turbulence starts at higher values.
+A mercury barometer height of 76 cm corresponds to a pressure of about|10⁵ N|760 Pa|10 Pa|1.01 × 10⁵ Pa|3|One atmosphere.
+A wooden block floats with 3/4 of its volume submerged in water (1000 kg/m³). Its density is|750 kg/m³|250 kg/m³|1000 kg/m³|1333 kg/m³|0|Fraction submerged × density of water.
+A steel ship floats because|steel is light|its average density is less than that of water|water is heavy|air pressure holds it|1|It displaces a lot of water.
