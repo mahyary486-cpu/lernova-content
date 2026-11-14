@@ -5210,6 +5210,116 @@
               "title": "Gravity, Weight and Friction"
             }
           ]
+        },
+        {
+          "id": "g9p-ch4",
+          "title": "Work, Energy and Power",
+          "lessons": [
+            {
+              "id": "g9p-ch4-l1",
+              "title": "Work"
+            },
+            {
+              "id": "g9p-ch4-l2",
+              "title": "Power"
+            },
+            {
+              "id": "g9p-ch4-l3",
+              "title": "Kinetic and Potential Energy"
+            },
+            {
+              "id": "g9p-ch4-l4",
+              "title": "Conservation of Energy"
+            },
+            {
+              "id": "g9p-ch4-l5",
+              "title": "Simple Machines and Efficiency"
+            }
+          ]
+        },
+        {
+          "id": "g9p-ch5",
+          "title": "Waves, Sound and Light",
+          "lessons": [
+            {
+              "id": "g9p-ch5-l1",
+              "title": "Wave Properties"
+            },
+            {
+              "id": "g9p-ch5-l2",
+              "title": "Sound Waves"
+            },
+            {
+              "id": "g9p-ch5-l3",
+              "title": "Reflection and Refraction"
+            },
+            {
+              "id": "g9p-ch5-l4",
+              "title": "The Electromagnetic Spectrum"
+            },
+            {
+              "id": "g9p-ch5-l5",
+              "title": "Light, Color and Lenses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "g9c-ch1",
+          "title": "Matter and Its Properties",
+          "lessons": [
+            {
+              "id": "g9c-ch1-l1",
+              "title": "Classifying Matter"
+            },
+            {
+              "id": "g9c-ch1-l2",
+              "title": "Physical Properties"
+            },
+            {
+              "id": "g9c-ch1-l3",
+              "title": "Chemical Properties"
+            },
+            {
+              "id": "g9c-ch1-l4",
+              "title": "Physical and Chemical Changes"
+            },
+            {
+              "id": "g9c-ch1-l5",
+              "title": "Density"
+            }
+          ]
+        },
+        {
+          "id": "g9c-ch2",
+          "title": "Atomic Structure and the Periodic Table",
+          "lessons": [
+            {
+              "id": "g9c-ch2-l1",
+              "title": "Parts of the Atom"
+            },
+            {
+              "id": "g9c-ch2-l2",
+              "title": "Atomic Number, Mass Number and Isotopes"
+            },
+            {
+              "id": "g9c-ch2-l3",
+              "title": "Electron Arrangement"
+            },
+            {
+              "id": "g9c-ch2-l4",
+              "title": "The Periodic Table"
+            },
+            {
+              "id": "g9c-ch2-l5",
+              "title": "Periodic Families and Trends"
+            }
+          ]
         }
       ]
     },
