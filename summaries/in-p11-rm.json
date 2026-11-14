@@ -1,0 +1,6 @@
+{
+ "Centre of mass": "x_cm = Σ m x / Σ m.",
+ "Torque and angular momentum": "τ = r × F; L is conserved without torque.",
+ "Moment of inertia": "I = Σ m r²; τ = Iα.",
+ "Equilibrium and rolling motion": "Rolling: v = Rω; KE = ½mv² + ½Iω²."
+}

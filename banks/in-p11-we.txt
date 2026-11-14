@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The work done by a force is W =|F d cos θ|F d sin θ|F/d|F + d|0|θ is the angle between F and d.
+The SI unit of work is the|newton|joule|watt|pascal|1|1 J = 1 N m.
+The work done is zero when the force and displacement are|parallel|in the same direction|perpendicular|both zero only|2|cos 90° = 0.
+The kinetic energy of a body is|mv²|mv|mgh|½mv²|3|Energy of motion.
+The gravitational potential energy near the Earth is|mgh|½mv²|mv|mg/h|0|Energy of position.
+The SI unit of power is the|joule|watt|newton|pascal|1|1 W = 1 J/s.
+Power is|work × time|force / time|work / time|energy × time|2|Rate of doing work.
+One horsepower is approximately|100 W|1000 W|7.46 W|746 W|3|A common unit of power.
+1 kilowatt-hour equals|3.6 × 10⁶ J|3.6 × 10³ J|1000 J|60 J|0|1000 W × 3600 s.
+The work–energy theorem says the net work done equals the change in|potential energy|kinetic energy|momentum|force|1|W = ΔK.
+The work done by a conservative force is|dependent on the path|always zero|independent of the path|always positive|2|For example gravity.
+Which of these is a conservative force?|friction|air drag|viscous force|gravity|3|It has a potential energy.
+Total mechanical energy is conserved when|only conservative forces do work|friction acts|any force acts|never|0|K + U is constant.
+The elastic potential energy of a spring stretched by x is|kx|½kx²|½kx|kx²|1|k is the spring constant.
+The work done by gravity on a falling body is|negative|zero|positive|infinite|2|Force and displacement are in the same direction.
+A collision in which the total kinetic energy is conserved is|inelastic|perfectly inelastic|none of these|elastic|3|For example collisions of gas molecules.
+In every collision, which of these is conserved?|total momentum|speed|kinetic energy|velocity of each body|0|If there is no external force.
+The work done by a 10 N force moving a body 5 m in its own direction is|2 J|50 J|15 J|0.5 J|1|F d.
+The work done by a 10 N force through 5 m at 60° to the displacement is|50 J|43.3 J|25 J|0|2|50 cos 60°.
+The kinetic energy of a 2 kg body at 3 m/s is|6 J|18 J|12 J|9 J|3|½ × 2 × 9.
+The potential energy of a 2 kg body at 5 m (g = 10 m/s²) is|100 J|10 J|50 J|20 J|0|mgh.
+Doing 100 J of work in 5 s gives a power of|500 W|20 W|0.05 W|105 W|1|W/t.
+The power delivered by a force F to a body moving at velocity v is P = F ×|d|t|v|m|2|P = Fv.
+The work done in stretching a spring (k = 200 N/m) by 0.1 m is|2 J|20 J|0.1 J|1 J|3|½ × 200 × 0.01.
+If the extension of a spring is doubled, its potential energy becomes|4 times|2 times|half|the same|0|U ∝ x².
+When the speed of a body doubles, its kinetic energy becomes|2 times|4 times|8 times|half|1|K ∝ v².
+In terms of the momentum p, the kinetic energy is|pm|p/2m|p²/2m|p²m|2|K = ½mv² = p²/2m.
+A body falls from 20 m (g = 10 m/s²). Its speed at the ground is|10 m/s|40 m/s|200 m/s|20 m/s|3|√(2gh).
+A body thrown up at 10 m/s (g = 10 m/s²) rises to a height of|5 m|10 m|20 m|2.5 m|0|v²/2g.
+In a head-on elastic collision of two equal masses, the velocities are|both zero|exchanged|both the same|doubled|1|One body stops and the other moves on.
+In a perfectly inelastic collision the bodies|bounce apart|break up|stick together|move apart with the same speed|2|They move with a common velocity.
+The coefficient of restitution for an elastic collision is|0|0.5|2|1|3|Relative speed is preserved.
+The coefficient of restitution for a perfectly inelastic collision is|0|1|0.5|2|0|No relative speed after collision.
+A machine does 3600 J of work in 1 minute. Its power is|3600 W|60 W|216000 W|1 W|1|3600/60.
+The work done in lifting a 5 kg body through 2 m (g = 10 m/s²) is|10 J|50 J|100 J|20 J|2|mgh.
+The work done by a centripetal force on a body in circular motion is|positive|negative|infinite|zero|3|The force is perpendicular to the displacement.
+A 1000 kg car speeds up from 10 m/s to 20 m/s. The work done is|150 kJ|100 kJ|200 kJ|50 kJ|0|½ × 1000 × (400 − 100).
+A 2 kg mass falls through 5 m (g = 10 m/s²). It gains kinetic energy|10 J|100 J|50 J|20 J|1|mgh.
+A body dropped from height h has speed after falling h/2 of|√(2gh)|√(gh/2)|√(gh)|2√(gh)|2|v² = 2g × h/2.
+A 1 kg body at 2 m/s hits an identical 1 kg body at rest and they stick. The final speed is|2 m/s|0.5 m/s|4 m/s|1 m/s|3|Momentum conservation.
+The kinetic energy lost in that collision is|1 J|2 J|0|4 J|0|2 J − 1 J.
+A ball dropped from 10 m rebounds to 5 m. The coefficient of restitution is|1/2|1/√2|1|0.2|1|e = √(h₂/h₁).
+A 200 W pump with 80% efficiency has an output of|250 W|120 W|160 W|200 W|2|0.8 × 200.
+A spring (k = 100 N/m) is compressed by 0.2 m and releases a 1 kg block. The block's speed is|√2 m/s|1 m/s|4 m/s|2 m/s|3|½ × 100 × 0.04 = ½ × 1 × v².
+The work done by kinetic friction is usually|negative|positive|zero|infinite|0|It opposes the displacement.
+The work done by a conservative force over a closed path is|positive|zero|negative|infinite|1|The path does not matter.
+A force of 10 N acts on a body moving at 3 m/s in the same direction. The power delivered is|13 W|7 W|30 W|3.3 W|2|P = Fv.
+A 60 kg man climbs 10 m in 20 s (g = 10 m/s²). His power is|600 W|30 W|3000 W|300 W|3|6000/20.
+If U = 5x², the force at x = 1 is|−10 N|10 N|5 N|−5 N|0|F = −dU/dx.
+At a point of stable equilibrium the force is|maximum|zero|infinite|constant and non-zero|1|dU/dx = 0.

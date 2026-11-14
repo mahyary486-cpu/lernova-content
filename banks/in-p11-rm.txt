@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The centre of mass of a uniform rod is at its|midpoint|end|one-third point|none of these|0|By symmetry.
+The centre of mass of a uniform solid sphere is at its|surface|centre|pole|outside the sphere|1|By symmetry.
+The SI unit of torque is|N|J/s|N m|kg|2|Force times distance.
+Torque is given by|r + F|F/r|rF²|r × F|3|A vector product.
+The torque of a force is zero when the force|passes through the axis of rotation|is perpendicular to r|is large|is small|0|The arm length is zero.
+The moment of inertia of a system of particles is I =|Σ m r|Σ m r²|Σ m/r|Σ m² r|1|r is the distance from the axis.
+The SI unit of moment of inertia is|kg m|kg/m²|kg m²|kg|2|Mass times distance squared.
+The angular momentum of a particle is L =|r + p|p/r|rp²|r × p|3|A vector product.
+The SI unit of angular momentum is|kg m²/s|kg m/s|N m|J|0|I times ω.
+Torque equals the rate of change of|linear momentum|angular momentum|energy|force|1|τ = dL/dt.
+In τ = Iα, α is the|angle|angular velocity|angular acceleration|torque|2|The rotational form of Newton's second law.
+The rotational kinetic energy is|Iω|½mv²|Iω²|½Iω²|3|Analogous to ½mv².
+Angular momentum is conserved when the external torque is|zero|large|constant|non-zero|0|The system is isolated.
+A rigid body is in equilibrium when|only the force is zero|the net force and the net torque are zero|only the torque is zero|it is moving|1|Translational and rotational equilibrium.
+A ballet dancer spins faster when she|stretches her arms out|raises her arms|pulls her arms in|lowers her arms|2|I decreases and ω increases.
+In terms of the radius of gyration k, I =|M k|M/k²|k²/M|M k²|3|Defines k.
+The SI unit of angular acceleration is|rad/s²|rad/s|m/s²|rad|0|Rate of change of ω.
+A 1 kg mass at 0 and a 3 kg mass at 4 m have their centre of mass at|2 m|3 m|1 m|4 m|1|12/4.
+The torque of a 10 N force acting perpendicular at 0.5 m is|20 N m|10 N m|5 N m|0.05 N m|2|F r.
+The torque of a 10 N force at 2 m, acting at 30° to the arm, is|20 N m|17.3 N m|5 N m|10 N m|3|10 × 2 × sin 30°.
+The moment of inertia of a 2 kg point mass at 3 m from the axis is|18 kg m²|6 kg m²|12 kg m²|9 kg m²|0|2 × 9.
+The moment of inertia of a ring of mass M and radius R about its axis is|MR²/2|MR²|MR²/4|2MR²/5|1|All mass is at distance R.
+The moment of inertia of a disc about its axis is|MR²|2MR²/5|MR²/2|MR²/4|2|A standard result.
+The moment of inertia of a solid sphere about a diameter is|2MR²/3|MR²/2|MR²|2MR²/5|3|A standard result.
+The moment of inertia of a hollow sphere about a diameter is|2MR²/3|2MR²/5|MR²|MR²/2|0|A standard result.
+The moment of inertia of a thin rod about its centre, perpendicular to its length, is|ML²/3|ML²/12|ML²/2|ML²|1|A standard result.
+The moment of inertia of a thin rod about one end is|ML²/12|ML²/2|ML²/3|ML²|2|From the parallel axis theorem.
+The parallel axis theorem states I =|I_cm − Md²|I_cm × Md²|Md²|I_cm + Md²|3|d is the distance between the axes.
+The perpendicular axis theorem applies to|planar bodies|all solids|rods only|spheres only|0|Bodies lying in a plane.
+For a planar body, the perpendicular axis theorem gives I_z =|I_x − I_y|I_x + I_y|I_x I_y|I_x / I_y|1|The axes x and y lie in the plane.
+If the moment of inertia of a rotating system halves with no external torque, its angular velocity|halves|stays the same|doubles|quadruples|2|L = Iω is conserved.
+The rotational kinetic energy of I = 2 kg m² at ω = 3 rad/s is|18 J|6 J|12 J|9 J|3|½ × 2 × 9.
+The power in rotation is P =|τω|τ/ω|Iω|Iα|0|Analogous to Fv.
+For rolling without slipping, v =|R/ω|Rω|ω/R|R²ω|1|The contact point is at rest.
+The total kinetic energy of a rolling body is|½mv²|½Iω²|½mv² + ½Iω²|mv²|2|Translation plus rotation.
+A seesaw is balanced when m₁d₁ =|m₂/d₂|m₁m₂|d₁d₂|m₂d₂|3|Torques are equal.
+A torque of 10 N m acts on I = 5 kg m². The angular acceleration is|2 rad/s²|50 rad/s²|0.5 rad/s²|15 rad/s²|0|α = τ/I.
+A flywheel with I = 2 kg m² reaches ω = 10 rad/s from rest in 5 s. The torque is|20 N m|4 N m|10 N m|1 N m|1|α = 2 rad/s², τ = Iα.
+The moment of inertia of a disc of mass 2 kg and radius 0.5 m is|0.5 kg m²|1 kg m²|0.25 kg m²|0.125 kg m²|2|½ × 2 × 0.25.
+The moment of inertia of a ring of mass 2 kg and radius 0.5 m is|0.25 kg m²|1 kg m²|2 kg m²|0.5 kg m²|3|2 × 0.25.
+The moment of inertia of a 3 kg, 2 m rod about one end is|4 kg m²|1 kg m²|2 kg m²|12 kg m²|0|3 × 4/3.
+A skater has I = 4 kg m² and ω = 2 rad/s, then pulls in her arms so that I = 2 kg m². The new ω is|2 rad/s|4 rad/s|8 rad/s|1 rad/s|1|L is conserved.
+For a rolling solid sphere, the fraction of the total kinetic energy that is rotational is|5/7|1/2|2/7|2/5|2|(2/5)/(7/5).
+For a rolling disc, the ratio of rotational to translational kinetic energy is|1|2|1/4|1/2|3|½Iω² / ½mv² with I = ½mR².
+A solid sphere rolls down an incline of angle θ. Its acceleration is|(5/7) g sin θ|(2/7) g sin θ|g sin θ|(1/2) g sin θ|0|g sin θ/(1 + k²/R²).
+For equal M and R, the greatest moment of inertia about the central axis is that of the|disc|ring|solid sphere|all are equal|1|All the mass is at distance R.
+Particles of 1 kg at 0 and 2 kg at 3 m have their centre of mass at|1 m|1.5 m|2 m|3 m|2|6/3.
+A 1 kg particle moves at 3 m/s perpendicular to a line 2 m from the axis. Its angular momentum is|3 kg m²/s|2 kg m²/s|12 kg m²/s|6 kg m²/s|3|m v r.
+Two equal and opposite forces F separated by a distance d form a couple with torque|F d|2F d|F/d|zero|0|Independent of the axis.
+The net force on a couple is|2F|zero|F|F d|1|The forces cancel.

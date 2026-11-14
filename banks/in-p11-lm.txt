@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Newton's first law is also called the law of|inertia|gravitation|momentum|energy|0|A body keeps its state of rest or uniform motion.
+The inertia of a body depends on its|velocity|mass|colour|shape|1|More mass means more inertia.
+The SI unit of force is the|joule|watt|newton|pascal|2|1 N = 1 kg m/s².
+Newton's second law states that F =|m/a|a/m|mv²|ma|3|For constant mass.
+Linear momentum is p =|mv|m/v|v/m|mv²|0|Mass times velocity.
+The SI unit of momentum is|kg m/s²|kg m/s|N|J|1|Same as N s.
+Impulse equals the|force times distance|mass times acceleration|change in momentum|kinetic energy|2|J = FΔt = Δp.
+The unit of impulse is|N m|N/s|J|N s|3|Force times time.
+Newton's third law states that action and reaction are|equal and opposite|equal and in the same direction|unequal|unrelated|0|Forces always come in pairs.
+Action and reaction forces act on|the same body|different bodies|neither body|only the air|1|So they do not cancel.
+A body at rest remains at rest unless it is acted on by|its own weight only|a small force|a net external force|heat|2|First law.
+Friction opposes|gravity|mass|inertia only|relative motion between surfaces|3|It acts along the surfaces.
+Static friction acts when the body is|at rest relative to the surface|moving fast|falling|in orbit|0|It adjusts up to a maximum.
+Kinetic friction acts when the body is|at rest|sliding over the surface|not touching|falling in vacuum|1|Opposes the sliding.
+The coefficient of friction is|measured in newtons|measured in kilograms|dimensionless|measured in m/s|2|μ = f/N.
+Rolling friction is generally|more than sliding friction|equal to sliding friction|infinite|less than sliding friction|3|Wheels reduce friction.
+The weight of a body of mass m is|mg|m/g|g/m|m²g|0|A force.
+The force on a 5 kg mass with acceleration 2 m/s² is|2.5 N|10 N|7 N|3 N|1|F = ma.
+A force of 10 N acts on a 2 kg mass. The acceleration is|20 m/s²|0.2 m/s²|5 m/s²|8 m/s²|2|a = F/m.
+The momentum of a 2 kg body moving at 3 m/s is|5 kg m/s|1.5 kg m/s|9 kg m/s|6 kg m/s|3|mv.
+A force changes the momentum of a body by 20 kg m/s in 4 s. The force is|5 N|80 N|16 N|0.2 N|0|Δp/Δt.
+The impulse of a 10 N force acting for 2 s is|5 N s|20 N s|12 N s|0.2 N s|1|F Δt.
+The weight of a 10 kg mass (g = 10 m/s²) is|10 N|1 N|100 N|1000 N|2|mg.
+A 5 kg block on a frictionless table is pulled by 10 N. Its acceleration is|0.5 m/s²|50 m/s²|15 m/s²|2 m/s²|3|10/5.
+The maximum static friction is|μₛN|μₖN|mg|ma|0|Limiting friction.
+Limiting friction with μₛ = 0.5 and N = 20 N is|40 N|10 N|2.5 N|20 N|1|μN.
+Kinetic friction is usually|more than static friction|always equal to it|less than limiting static friction|infinite|2|It is easier to keep a body sliding.
+The angle of friction λ satisfies tan λ =|1/μ|sin μ|cos μ|μ|3|The angle of the resultant of N and f.
+The angle of repose equals|the angle of friction|90°|0°|45° always|0|The angle at which a body starts to slide.
+A block on a smooth incline of angle θ has weight component along the plane|mg cos θ|mg sin θ|mg tan θ|mg|1|Down the slope.
+The normal reaction on a block on an incline of angle θ is|mg sin θ|mg|mg cos θ|mg tan θ|2|Perpendicular to the plane.
+The acceleration of a body sliding down a smooth incline is|g cos θ|g tan θ|g|g sin θ|3|From mg sin θ = ma.
+Linear momentum is conserved when|the net external force is zero|the force is large|always|friction acts|0|For an isolated system.
+The recoil of a gun is explained by|conservation of energy|conservation of momentum|friction|gravity|1|Equal and opposite momenta.
+Rocket propulsion is based on|friction|buoyancy|Newton's third law and conservation of momentum|magnetism|2|Exhaust gases push the rocket.
+The centripetal force on a mass m moving at speed v in a circle of radius r is|mvr|mr/v²|m²v/r|mv²/r|3|Towards the centre.
+A 2 kg block (μ = 0.2) is pulled horizontally by 10 N (g = 10 m/s²). The acceleration is|3 m/s²|5 m/s²|2 m/s²|4 m/s²|0|(10 − 4)/2.
+A 1 kg ball moving at 10 m/s is stopped in 0.1 s. The average force is|10 N|100 N|1 N|1000 N|1|Δp/Δt.
+A 0.15 kg ball at 20 m/s is hit back at 20 m/s in the opposite direction. The change in momentum is|3 kg m/s|0|6 kg m/s|1.5 kg m/s|2|0.15 × 40.
+A 0.02 kg bullet is fired at 300 m/s from a 2 kg gun. The recoil speed is|30 m/s|0.3 m/s|6 m/s|3 m/s|3|0.02 × 300/2.
+In a lift accelerating upwards with a, the apparent weight of mass m is|m(g + a)|m(g − a)|mg|ma|0|N − mg = ma.
+In a lift accelerating downwards with a, the apparent weight is|m(g + a)|m(g − a)|mg|ma|1|mg − N = ma.
+In a freely falling lift the apparent weight is|mg|2mg|zero|m|2|a = g.
+Banking of roads reduces the dependence on|speed|mass|gravity|friction|3|A component of N supplies the centripetal force.
+The maximum safe speed on a level circular road is|√(μ r g)|μ r g|√(r g/μ)|μ g/r|0|Friction supplies the centripetal force.
+A 4 kg body is acted on by perpendicular forces of 8 N and 6 N. Its acceleration is|3.5 m/s²|2.5 m/s²|14 m/s²|0.4 m/s²|1|Resultant 10 N.
+Masses 2 kg and 3 kg hang over a pulley (g = 10 m/s²). The acceleration is|10 m/s²|5 m/s²|2 m/s²|1 m/s²|2|(3 − 2) × 10/5.
+In the same arrangement, the tension in the string is|20 N|30 N|12 N|24 N|3|2 × (10 + 2).
+A 5 kg block slides down a smooth 30° incline (g = 10 m/s²). The acceleration is|5 m/s²|10 m/s²|8.66 m/s²|2.5 m/s²|0|g sin 30°.
+Impulse equals the area under the|velocity–time graph|force–time graph|position–time graph|acceleration–time graph|1|∫F dt.
