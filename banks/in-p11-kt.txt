@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The ideal gas equation is|PV = nRT|P = nRTV|PV = RT/n|P/V = nRT|0|n is the number of moles.
+Boyle's law says that at constant temperature PV is|zero|constant|proportional to T|proportional to n|1|For a fixed mass of gas.
+Charles's law says that at constant pressure V is proportional to|1/T|T²|T|P|2|T in kelvin.
+Gay-Lussac's law says that at constant volume P is proportional to|1/T|V|n|T|3|T in kelvin.
+The value of the universal gas constant R is|8.31 J mol⁻¹ K⁻¹|1.38 × 10⁻²³ J K⁻¹|6.02 × 10²³|1 J mol⁻¹ K⁻¹|0|R = N_A k.
+The Boltzmann constant is|8.31 J/K|1.38 × 10⁻²³ J/K|6.02 × 10²³|1 J/K|1|R divided by Avogadro's number.
+Avogadro's number is|1.38 × 10⁻²³|8.31|6.02 × 10²³|10⁸|2|Particles in one mole.
+The universal gas constant is related to the Boltzmann constant by R =|N_A / k|k / N_A|N_A + k|N_A k|3|N_A is Avogadro's number.
+The molecules of an ideal gas are assumed to be|point particles with no intermolecular forces|strongly attracting|very large|stationary|0|Except during collisions.
+Collisions between molecules of an ideal gas are|inelastic|perfectly elastic|absent|sticky|1|Kinetic energy is conserved.
+The pressure of a gas arises from|gravity|the weight of the gas|the collisions of molecules with the walls|temperature only|2|Momentum transfer.
+The average kinetic energy of a gas molecule depends on|pressure|volume|the nature of the container|temperature only|3|(3/2)kT.
+Absolute zero is|0 K|0 °C|273 K|100 K|0|−273.15 °C.
+A monatomic gas molecule has how many degrees of freedom?|5|3|6|2|1|Translational only.
+A diatomic molecule (rigid, at room temperature) has how many degrees of freedom?|3|6|5|7|2|3 translational and 2 rotational.
+The mean free path is|the speed of a molecule|the time between collisions|the pressure of the gas|the average distance a molecule travels between collisions|3|Denoted by λ.
+Real gases behave most like ideal gases at|low pressure and high temperature|high pressure|low temperature|high pressure and low temperature|0|The molecules are far apart.
+The pressure of an ideal gas in terms of density is P =|ρ v_rms|(1/3) ρ v²_rms|(1/2) ρ v|ρ v²|1|From kinetic theory.
+The average kinetic energy per molecule is|kT|(1/2) kT|(3/2) kT|3kT|2|Independent of the type of gas.
+The average kinetic energy per mole is|RT|(1/2) RT|3RT|(3/2) RT|3|N_A × (3/2)kT.
+The rms speed of gas molecules is|√(3RT/M)|√(RT/M)|√(2RT/M)|3RT/M|0|M is the molar mass.
+The rms speed is proportional to|T|√T|1/√T|T²|1|At fixed M.
+If the absolute temperature is quadrupled, the rms speed|quadruples|halves|doubles|stays the same|2|v ∝ √T.
+At the same temperature a lighter gas has|a smaller rms speed|the same rms speed|zero speed|a greater rms speed|3|v ∝ 1/√M.
+The law of equipartition gives an energy per degree of freedom of|½ kT|kT|(3/2) kT|2kT|0|For each quadratic term.
+The internal energy of 1 mole of a monatomic ideal gas is|RT|(3/2) RT|(5/2) RT|3RT|1|Three degrees of freedom.
+The internal energy of 1 mole of a rigid diatomic gas is|(3/2) RT|(7/2) RT|(5/2) RT|RT|2|Five degrees of freedom.
+Dalton's law says the total pressure of a gas mixture is|the product of the partial pressures|their difference|their ratio|the sum of the partial pressures|3|For non-reacting gases.
+At constant temperature, if the volume is halved, the pressure|doubles|halves|stays the same|becomes 4 times|0|Boyle's law.
+At constant volume, if the absolute temperature doubles, the pressure|halves|doubles|stays the same|becomes 4 times|1|P ∝ T.
+At constant pressure, if the absolute temperature doubles, the volume|halves|stays the same|doubles|becomes 4 times|2|V ∝ T.
+The number of moles in 22.4 L of an ideal gas at STP is|2|0.5|22.4|1|3|Molar volume.
+One mole of any ideal gas at STP occupies|22.4 L|1 L|10 L|44.8 L|0|At 0 °C and 1 atm.
+The mean free path is λ =|√2 π n d²|1 / (√2 π n d²)|π n d²|1 / (π n d)|1|n is the number density and d the molecular diameter.
+When the pressure of a gas increases at constant temperature, the mean free path|increases|stays the same|decreases|becomes zero|2|The molecules are closer together.
+If the pressure doubles at constant temperature, the mean free path|doubles|stays the same|becomes 4 times|halves|3|λ ∝ 1/n.
+The ratio of the rms speed of a gas at 27 °C to that at 327 °C is|1 : √2|1 : 2|2 : 1|1 : 4|0|√(300/600).
+The number of moles in 8 g of oxygen (M = 32 g/mol) is|0.5|0.25|4|2|1|8/32.
+The volume of 2 mol of an ideal gas at 300 K and 8.31 × 10⁴ Pa is|0.6 m³|6 m³|0.06 m³|0.006 m³|2|nRT/P.
+One mole of an ideal gas at 300 K occupies 0.0249 m³. The pressure is about|10⁶ Pa|10⁴ Pa|10³ Pa|10⁵ Pa|3|P = RT/V.
+The average kinetic energy of a molecule at 300 K is about|6.2 × 10⁻²¹ J|6.2 × 10⁻¹⁹ J|6.2 × 10⁻²³ J|6.2 × 10⁻³ J|0|(3/2) × 1.38 × 10⁻²³ × 300.
+Two different gases are at the same temperature. The ratio of the mean kinetic energies of their molecules is|1 : 2|1 : 1|2 : 1|dependent on the molecular masses|1|KE = (3/2)kT.
+The ratio of the rms speeds of hydrogen to oxygen at the same temperature is|2 : 1|16 : 1|4 : 1|1 : 4|2|√(32/2) = 4.
+If the pressure of a gas is doubled and the volume halved at constant n, the temperature|doubles|halves|becomes 4 times|stays the same|3|PV/nR is unchanged.
+For a rigid diatomic gas (f = 5), γ = 1 + 2/f =|7/5|5/3|4/3|9/7|0|Cₚ/Cᵥ.
+For a monatomic gas Cᵥ = 3R/2 and γ =|7/5|5/3|4/3|3/2|1|1 + 2/3.
+The most probable speed of gas molecules is|√(3kT/m)|√(8kT/πm)|√(2kT/m)|√(kT/m)|2|From the Maxwell distribution.
+Among the most probable, average and rms speeds, the greatest is the|most probable speed|average speed|all are equal|rms speed|3|v_p < v_avg < v_rms.
+According to Graham's law the rate of diffusion is proportional to|1/√M|M|√M|1/M|0|Lighter gases diffuse faster.
+Brownian motion provides evidence for|gravitation|the random motion of molecules|electric charge|magnetism|1|Pollen grains in water.

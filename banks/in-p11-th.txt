@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The SI unit of temperature is the|kelvin|degree Celsius|degree Fahrenheit|joule|0|A base unit.
+The SI unit of heat is the|calorie|joule|kelvin|watt|1|Heat is a form of energy.
+0 °C in kelvin is|0 K|100 K|273.15 K|373.15 K|2|K = °C + 273.15.
+The boiling point of water on the Celsius scale is|0 °C|273 °C|373 °C|100 °C|3|At standard pressure.
+The freezing point of water on the Fahrenheit scale is|32 °F|0 °F|100 °F|212 °F|0|The ice point.
+The boiling point of water on the Fahrenheit scale is|100 °F|212 °F|32 °F|373 °F|1|The steam point.
+The relation between the Celsius and Kelvin scales is|K = °C − 273.15|K = 1.8 °C|K = °C + 273.15|K = °C / 273|2|The size of a degree is the same.
+One calorie is approximately|1 J|418 J|0.24 J|4.18 J|3|The mechanical equivalent of heat.
+Heat flows from|a hotter body to a colder body|a colder body to a hotter body|equal bodies|nowhere|0|Second law.
+Thermal expansion is the increase in the|mass on heating|size of a body on heating|density on heating|charge on heating|1|Dimensions increase.
+The specific heat capacity of water is about|420 J/kg K|42 J/kg K|4200 J/kg K|4.2 J/kg K|2|Unusually high.
+The unit of specific heat capacity is|J/K|J/kg|J|J/kg K|3|Heat per unit mass per kelvin.
+Latent heat is the heat absorbed or released during|a change of state at constant temperature|a rise in temperature|expansion|a change in pressure|0|Fusion and vaporisation.
+The three modes of heat transfer are|only conduction|conduction, convection and radiation|only radiation|evaporation and condensation|1|All three occur in nature.
+Heat transfer in solids is mainly by|convection|radiation|conduction|evaporation|2|Through vibrating atoms and free electrons.
+Heat from the Sun reaches the Earth by|conduction|convection|evaporation|radiation|3|No medium is needed.
+Heat transfer by the actual movement of a fluid is|convection|conduction|radiation|evaporation|0|Sea breeze is an example.
+25 °C in kelvin is|248 K|298 K|25 K|273 K|1|25 + 273.
+100 °C in degrees Fahrenheit is|100|32|212|180|2|F = 9C/5 + 32.
+68 °F in degrees Celsius is|68|36|40|20|3|(68 − 32) × 5/9.
+The heat required to change the temperature of a body is Q =|m s ΔT|m s / ΔT|m ΔT / s|s ΔT / m|0|s is the specific heat.
+The heat needed to raise the temperature of 2 kg of water by 10 °C (s = 4200 J/kg K) is|8400 J|84 000 J|42 000 J|840 J|1|2 × 4200 × 10.
+The heat capacity of a body is|m / s|s / m|m s|ΔT / Q|2|Heat per kelvin.
+The latent heat of fusion of ice is about|2.26 × 10⁶ J/kg|4200 J/kg|3.34 × 10³ J/kg|3.34 × 10⁵ J/kg|3|334 kJ/kg.
+The latent heat of vaporisation of water is about|2.26 × 10⁶ J/kg|3.34 × 10⁵ J/kg|4200 J/kg|2.26 × 10⁴ J/kg|0|2260 kJ/kg.
+The heat needed to melt 2 kg of ice at 0 °C (L = 3.3 × 10⁵ J/kg) is|3.3 × 10⁵ J|6.6 × 10⁵ J|1.65 × 10⁵ J|6.6 × 10⁶ J|1|mL.
+For linear expansion, ΔL =|α ΔT / L|L ΔT / α|α L ΔT|α ΔT|2|α is the coefficient of linear expansion.
+The coefficient of volume expansion is approximately|2α|α|α/3|3α|3|For isotropic solids.
+The coefficient of area expansion is approximately|2α|3α|α|α/2|0|For isotropic solids.
+Water shows anomalous expansion between|4 °C and 100 °C|0 °C and 4 °C|100 °C and 200 °C|−10 °C and 0 °C|1|It contracts on heating in this range.
+Water is densest at|0 °C|100 °C|4 °C|−4 °C|2|So lakes freeze from the top.
+The unit of thermal conductivity is|W m⁻¹|J K⁻¹|W K|W m⁻¹ K⁻¹|3|Heat per time per length per kelvin.
+The rate of heat conduction through a slab is H =|K A ΔT / L|K L ΔT / A|A ΔT / K L|K A L / ΔT|0|K is the thermal conductivity.
+By Stefan's law the energy radiated by a black body is proportional to|T²|T⁴|T³|T|1|E = σT⁴.
+Wien's displacement law states that λ_m × T is|zero|proportional to T²|a constant|proportional to 1/T|2|The peak wavelength shifts to shorter values as T rises.
+A black body is a perfect|reflector|insulator|conductor|absorber and emitter of radiation|3|It absorbs all radiation falling on it.
+A rod of length 1 m is heated through 100 °C. With α = 1.2 × 10⁻⁵ K⁻¹ its length increases by|1.2 × 10⁻³ m|1.2 × 10⁻⁵ m|1.2 × 10⁻² m|0.12 m|0|α L ΔT.
+1 kg of water at 20 °C is mixed with 1 kg of water at 80 °C. The final temperature is|100 °C|50 °C|60 °C|40 °C|1|Equal masses average.
+1 kg of ice at 0 °C is added to 1 kg of water at 80 °C. The final temperature is about|40 °C|80 °C|0 °C|20 °C|2|The water gives 3.36 × 10⁵ J, just enough to melt the ice.
+A 1000 W heater raises the temperature of 1 kg of water by 10 °C (s = 4200 J/kg K) in|10 s|420 s|4.2 s|42 s|3|42 000 J / 1000 W.
+The Celsius and Fahrenheit readings are equal at|−40|0|32|100|0|C = F gives −40.
+A temperature difference of 10 K equals a difference of|283 °C|10 °C|−263 °C|18 °C|1|The scales have equal degree sizes.
+If the absolute temperature of a black body doubles, the power it radiates becomes|4 times|8 times|16 times|2 times|2|P ∝ T⁴.
+A slab with K = 200 W m⁻¹ K⁻¹, A = 0.5 m², L = 1 m and ΔT = 10 K conducts heat at|100 W|2000 W|10 W|1000 W|3|K A ΔT / L.
+If the length of a conducting rod is doubled (all else equal), the rate of heat flow|halves|doubles|stays the same|becomes 4 times|0|H ∝ 1/L.
+When a rod is prevented from expanding on heating, the thermal stress is|Y / (α ΔT)|Y α ΔT|α ΔT / Y|Y ΔT|1|Strain α ΔT times Young's modulus.
+Newton's law of cooling says the rate of cooling is proportional to|T⁴|T²|the temperature difference from the surroundings|T|2|For small differences.
+Ice floats on water because ice is|denser than water|heavier|colder|less dense than water|3|It occupies more volume.
+Steam at 100 °C burns more than water at 100 °C because of its|latent heat|specific heat|conductivity|density|0|It releases 2.26 × 10⁶ J/kg on condensing.
+Land cools faster than the sea at night because land has a|higher specific heat|lower specific heat|higher density only|lower temperature|1|It needs less heat loss for the same fall.

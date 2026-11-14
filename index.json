@@ -10294,7 +10294,7 @@
               "title": "Surface tension and capillarity"
             }
           ]
-        }
+        },{"id": "in-p11-th", "title": "Thermal Properties of Matter", "lessons": [{"id": "in-p11-th-01", "title": "Temperature, heat and thermometry"}, {"id": "in-p11-th-02", "title": "Thermal expansion"}, {"id": "in-p11-th-03", "title": "Specific heat, calorimetry and change of state"}, {"id": "in-p11-th-04", "title": "Heat transfer"}]},{"id": "in-p11-tm", "title": "Thermodynamics", "lessons": [{"id": "in-p11-tm-01", "title": "Thermal equilibrium and the zeroth law"}, {"id": "in-p11-tm-02", "title": "First law of thermodynamics"}, {"id": "in-p11-tm-03", "title": "Thermodynamic processes"}, {"id": "in-p11-tm-04", "title": "Second law, heat engines and Carnot engine"}]},{"id": "in-p11-kt", "title": "Kinetic Theory", "lessons": [{"id": "in-p11-kt-01", "title": "Ideal gas equation and gas laws"}, {"id": "in-p11-kt-02", "title": "Kinetic theory of gases and pressure"}, {"id": "in-p11-kt-03", "title": "Kinetic interpretation of temperature"}, {"id": "in-p11-kt-04", "title": "Degrees of freedom, equipartition and mean free path"}]}
       ]
     },
     {

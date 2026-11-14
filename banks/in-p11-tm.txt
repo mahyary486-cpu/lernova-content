@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The zeroth law of thermodynamics concerns|thermal equilibrium|conservation of energy|entropy|work|0|It defines temperature.
+The first law of thermodynamics is a statement of conservation of|mass|energy|momentum|charge|1|Heat, work and internal energy.
+The first law of thermodynamics can be written ΔQ =|ΔU − W|W − ΔU|ΔU + W|ΔU W|2|W is the work done by the gas.
+An isothermal process occurs at constant|pressure|volume|heat|temperature|3|ΔT = 0.
+An isobaric process occurs at constant|pressure|temperature|volume|heat|0|ΔP = 0.
+An isochoric process occurs at constant|pressure|volume|temperature|heat|1|ΔV = 0.
+An adiabatic process has no|work|change in volume|exchange of heat with the surroundings|change in pressure|2|ΔQ = 0.
+The work done in an isochoric process is|PΔV|non-zero|infinite|zero|3|No change in volume.
+The internal energy of an ideal gas depends only on its|temperature|volume|pressure|shape of the container|0|U = (f/2) nRT.
+The second law of thermodynamics concerns|conservation of mass|the direction of heat flow and heat engines|temperature only|pressure only|1|No heat engine is 100% efficient.
+The efficiency of a heat engine is η =|Q₁ / W|Q₂ / Q₁|W / Q₁|W Q₁|2|Work output over heat absorbed.
+A heat engine converts|work into heat only|electricity into light|light into sound|heat into work|3|Part of the heat is rejected.
+A refrigerator transfers heat from|a cold body to a hot body using work|a hot body to a cold body|nowhere|a body to itself|0|It needs external work.
+A Carnot engine is|an irreversible engine|an ideal reversible engine|a real engine|a perpetual motion machine|1|Operating between two temperatures.
+The entropy of an isolated system|always decreases|is always zero|never decreases|is always constant|2|Second law.
+A reversible process is one that|cannot be reversed|is spontaneous|is fast|can be reversed exactly|3|A quasi-static process.
+The work done by a gas during expansion is|positive|negative|zero|infinite|0|The gas pushes on the surroundings.
+500 J of heat is given to a gas which does 200 J of work. The change in internal energy is|700 J|300 J|−300 J|100 J|1|ΔU = Q − W.
+The work done in an isobaric expansion with P = 10⁵ Pa and ΔV = 2 × 10⁻³ m³ is|2000 J|20 J|200 J|2 J|2|PΔV.
+In an isothermal process the change in internal energy of an ideal gas is|positive|negative|infinite|zero|3|ΔT = 0.
+In an adiabatic process the heat exchanged Q is|zero|ΔU|W|ΔT|0|By definition.
+In an adiabatic process, ΔU =|W|−W|Q|0|1|Since Q = 0.
+PV = nRT is the|first law|Boyle's law only|ideal gas equation|Charles's law only|2|R = 8.31 J/mol K.
+For an ideal gas Cₚ − Cᵥ =|R/2|2R|R²|R|3|Mayer's relation.
+The ratio γ equals|Cₚ / Cᵥ|Cᵥ / Cₚ|Cₚ − Cᵥ|Cₚ Cᵥ|0|It is always greater than 1.
+γ for a monatomic ideal gas is|7/5|5/3|4/3|1|1|Cᵥ = 3R/2 and Cₚ = 5R/2.
+γ for a diatomic ideal gas is|5/3|4/3|7/5|1|2|Cᵥ = 5R/2 and Cₚ = 7R/2.
+The adiabatic equation for an ideal gas is|PV = constant|P/V = constant|PVᵞ⁻¹ = 0|PVᵞ = constant|3|For a reversible adiabatic.
+The efficiency of a Carnot engine between T₁ (source) and T₂ (sink) is η =|1 − T₂/T₁|1 − T₁/T₂|T₂/T₁|T₁/T₂|0|Temperatures in kelvin.
+A Carnot engine works between 500 K and 300 K. Its efficiency is|60%|40%|20%|80%|1|1 − 300/500.
+The coefficient of performance of a refrigerator is|W / Q₂|Q₁ / W|Q₂ / W|Q₂ / Q₁|2|Heat removed per unit work.
+The Kelvin–Planck statement says that|heat flows from hot to cold|energy is conserved|entropy is constant|no heat engine can be 100% efficient|3|Some heat must be rejected.
+The Clausius statement says that|heat cannot flow from a cold to a hot body by itself|energy is conserved|no engine is 100% efficient|work is constant|0|A refrigerator needs work.
+The work done by a gas equals the area under the|T–V graph|P–V graph|P–T graph|V–t graph|1|W = ∫P dV.
+In an isothermal expansion of an ideal gas the work done is|negative|zero|positive|infinite|2|W = nRT ln(V₂/V₁).
+A heat engine takes 400 J from the source and rejects 300 J to the sink. The work done is|700 J|300 J|400 J|100 J|3|Q₁ − Q₂.
+The efficiency of that engine is|25%|75%|100%|40%|0|100/400.
+A Carnot engine works between 600 K and 300 K. Its efficiency is|25%|50%|75%|100%|1|1 − 300/600.
+A refrigerator works between 300 K and 250 K. Its ideal coefficient of performance is|0.2|6|5|1|2|T₂/(T₁ − T₂).
+In an isochoric process the heat absorbed by n moles is Q =|n Cₚ ΔT|n R ΔT|zero|n Cᵥ ΔT|3|No work is done.
+Cᵥ for a monatomic ideal gas is|3R/2|5R/2|R|7R/2|0|Three degrees of freedom.
+Cₚ for a monatomic ideal gas is|3R/2|5R/2|R|7R/2|1|Cᵥ + R.
+Cᵥ for a diatomic ideal gas (rigid rotor) is|3R/2|7R/2|5R/2|R|2|Five degrees of freedom.
+One mole of an ideal gas expands isothermally at 300 K from V to 2V. The work done is about|300 J|600 J|8.3 J|1.7 × 10³ J|3|RT ln 2.
+In an adiabatic expansion the gas does 100 J of work. The change in its internal energy is|−100 J|+100 J|0|200 J|0|ΔU = −W.
+Over a complete cycle the change in internal energy of the gas is|equal to W|zero|equal to Q|positive|1|U is a state function.
+The net work done in a cycle equals|zero|the change in internal energy|the net heat absorbed|PV|2|ΔU = 0, so W = Q.
+No engine working between two temperatures can have an efficiency greater than|100%|50%|90%|that of a Carnot engine between the same temperatures|3|Carnot's theorem.
+The efficiency of a Carnot engine increases when|the source temperature is raised|the sink temperature is raised|both temperatures are raised equally|neither is changed|0|η = 1 − T₂/T₁.
+For a reversible isothermal process the change in entropy is ΔS =|QT|Q/T|T/Q|Q − T|1|At constant temperature.
