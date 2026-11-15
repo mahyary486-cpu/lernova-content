@@ -1,0 +1,138 @@
+[
+ {
+  "grade": 12,
+  "subject": "Physics",
+  "chapters": [
+   {
+    "id": "g12p-ch1",
+    "title": "Electric Charge, Fields and Potential",
+    "lessons": [
+     {
+      "id": "g12p-ch1-l1",
+      "title": "Electric Charge and Coulomb's Law"
+     },
+     {
+      "id": "g12p-ch1-l2",
+      "title": "Electric Fields"
+     },
+     {
+      "id": "g12p-ch1-l3",
+      "title": "Electric Potential and Potential Energy"
+     },
+     {
+      "id": "g12p-ch1-l4",
+      "title": "Gauss's Law and Conductors"
+     },
+     {
+      "id": "g12p-ch1-l5",
+      "title": "Capacitors in Electric Fields"
+     }
+    ]
+   },
+   {
+    "id": "g12p-ch2",
+    "title": "Electric Circuits and Capacitors",
+    "lessons": [
+     {
+      "id": "g12p-ch2-l1",
+      "title": "Current, Resistance and Ohm's Law"
+     },
+     {
+      "id": "g12p-ch2-l2",
+      "title": "Series and Parallel Circuits"
+     },
+     {
+      "id": "g12p-ch2-l3",
+      "title": "Electric Power, Energy and EMF"
+     },
+     {
+      "id": "g12p-ch2-l4",
+      "title": "Kirchhoff's Rules and Complex Circuits"
+     },
+     {
+      "id": "g12p-ch2-l5",
+      "title": "RC Circuits and Capacitors in Circuits"
+     }
+    ]
+   },
+   {
+    "id": "g12p-ch3",
+    "title": "Magnetism and Electromagnetic Induction",
+    "lessons": [
+     {
+      "id": "g12p-ch3-l1",
+      "title": "Magnetic Fields and Forces on Moving Charges"
+     },
+     {
+      "id": "g12p-ch3-l2",
+      "title": "Magnetic Force on Currents and Magnetic Fields of Currents"
+     },
+     {
+      "id": "g12p-ch3-l3",
+      "title": "Electromagnetic Induction and Faraday's Law"
+     },
+     {
+      "id": "g12p-ch3-l4",
+      "title": "Inductance, Transformers and AC"
+     },
+     {
+      "id": "g12p-ch3-l5",
+      "title": "Magnetic Materials, Motors and Applications"
+     }
+    ]
+   },
+   {
+    "id": "g12p-ch4",
+    "title": "Geometric and Wave Optics",
+    "lessons": [
+     {
+      "id": "g12p-ch4-l1",
+      "title": "Reflection and Plane and Curved Mirrors"
+     },
+     {
+      "id": "g12p-ch4-l2",
+      "title": "Refraction, Lenses and Optical Instruments"
+     },
+     {
+      "id": "g12p-ch4-l3",
+      "title": "Interference and Young's Double Slit"
+     },
+     {
+      "id": "g12p-ch4-l4",
+      "title": "Diffraction, Polarization and Resolution"
+     },
+     {
+      "id": "g12p-ch4-l5",
+      "title": "Dispersion, Color and the Electromagnetic Spectrum"
+     }
+    ]
+   },
+   {
+    "id": "g12p-ch5",
+    "title": "Modern Physics",
+    "lessons": [
+     {
+      "id": "g12p-ch5-l1",
+      "title": "Special Relativity"
+     },
+     {
+      "id": "g12p-ch5-l2",
+      "title": "Photons and the Photoelectric Effect"
+     },
+     {
+      "id": "g12p-ch5-l3",
+      "title": "Matter Waves and the Bohr Atom"
+     },
+     {
+      "id": "g12p-ch5-l4",
+      "title": "Nuclear Physics and Radioactivity"
+     },
+     {
+      "id": "g12p-ch5-l5",
+      "title": "Fission, Fusion and the Standard Model"
+     }
+    ]
+   }
+  ]
+ }
+]
