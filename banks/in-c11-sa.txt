@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The electron was discovered by|J. J. Thomson|Rutherford|Bohr|Chadwick|0|From cathode-ray experiments.
+The nucleus was discovered by|Thomson|Rutherford|Bohr|Dalton|1|Gold-foil experiment.
+The neutron was discovered by|Rutherford|Thomson|Chadwick|Goldstein|2|In 1932.
+The charge on an electron is|+1.6 × 10⁻¹⁹ C|0|1 C|−1.6 × 10⁻¹⁹ C|3|The elementary charge.
+The atomic number is the number of|protons|neutrons|nucleons|electrons in a cation|0|Z.
+The mass number is the number of|protons only|protons plus neutrons|electrons|neutrons only|1|A.
+Isotopes have the same|mass number|number of neutrons|atomic number|number of nucleons|2|Different neutron numbers.
+Isobars have the same|atomic number|number of neutrons|chemical properties|mass number|3|For example ⁴⁰Ar and ⁴⁰Ca.
+In Bohr's model electrons revolve in|fixed orbits (stationary states)|any orbit|the nucleus|straight lines|0|Each has a definite energy.
+The energy of the electron in the nth orbit of hydrogen is Eₙ =|13.6 n² eV|−13.6/n² eV|−13.6 n² eV|−13.6/n eV|1|The ground state is −13.6 eV.
+The principal quantum number n describes the|subshell shape|orbital orientation|shell (size and energy)|spin|2|n = 1, 2, 3, …
+The azimuthal quantum number l describes the|energy only|spin|none of these|shape of the subshell|3|l = 0 to n − 1.
+The magnetic quantum number m_l describes the|orientation of the orbital|shape|size|spin|0|m_l = −l to +l.
+The spin quantum number can have the values|0 and 1|+½ and −½|+1 and −1|½ only|1|Two spin orientations.
+The shape of an s orbital is|dumbbell|double dumbbell|spherical|ring|2|l = 0.
+The shape of a p orbital is|spherical|double dumbbell|ring|dumbbell|3|l = 1.
+The number of orbitals in a p subshell is|3|1|5|7|0|2l + 1.
+The maximum number of electrons in the nth shell is|n²|2n²|2n|n|1|From the counting of orbitals.
+The maximum number of electrons in an s subshell is|6|10|2|14|2|One orbital.
+The maximum number of electrons in a p subshell is|2|10|14|6|3|Three orbitals.
+The maximum number of electrons in a d subshell is|10|6|14|2|0|Five orbitals.
+The maximum number of electrons in an f subshell is|10|14|6|2|1|Seven orbitals.
+The number of orbitals in a d subshell is|3|7|5|1|2|2l + 1 with l = 2.
+The number of orbitals in an f subshell is|5|3|9|7|3|2l + 1 with l = 3.
+For n = 3, the possible values of l are|0, 1, 2|0, 1, 2, 3|1, 2, 3|0, 1|0|0 to n − 1.
+For l = 2, the values of m_l are|0, 1, 2|−2, −1, 0, +1, +2|−1, 0, +1|−3 to +3|1|−l to +l.
+Heisenberg's uncertainty principle says that|energy is quantised|electrons have spin|position and momentum cannot both be known exactly at once|waves interfere|2|Δx · Δp ≥ h/4π.
+The de Broglie wavelength of a particle is λ =|mv/h|hmv|hv/m|h/mv|3|Matter waves.
+The Pauli exclusion principle says that|no two electrons in an atom can have the same four quantum numbers|orbitals fill in order of energy|electrons pair only after each orbital has one|nothing about electrons|0|An orbital holds at most two electrons.
+Hund's rule says that|lowest energy orbitals fill first|electrons pair up only after each degenerate orbital has one electron|two electrons have the same spin in an orbital|no electron can pair|1|Maximum multiplicity.
+The Aufbau principle says that|highest energy orbitals fill first|all electrons pair up|orbitals are filled in order of increasing energy|electrons avoid orbitals|2|1s, 2s, 2p, 3s, …
+The electronic configuration of carbon (Z = 6) is|1s² 2s² 2p⁴|1s² 2s⁴|1s² 2p⁴|1s² 2s² 2p²|3|Six electrons.
+The electronic configuration of oxygen (Z = 8) is|1s² 2s² 2p⁴|1s² 2s² 2p²|1s² 2s⁴|1s² 2s² 2p³|0|Eight electrons.
+The electronic configuration of sodium (Z = 11) is|1s² 2s² 2p⁶ 3s²|1s² 2s² 2p⁶ 3s¹|1s² 2s² 2p⁷|1s² 2s² 2p⁶ 3p¹|1|One valence electron.
+The number of unpaired electrons in nitrogen (Z = 7) is|2|1|3|0|2|2p³.
+The number of unpaired electrons in oxygen (Z = 8) is|1|3|4|2|3|2p⁴.
+In the order of filling, the 4s orbital is|filled before 3d|filled after 3d|filled together with 3d|never filled|0|It has lower energy initially.
+The electronic configuration of chromium (Z = 24) is|[Ar] 3d⁴ 4s²|[Ar] 3d⁵ 4s¹|[Ar] 3d⁶|[Ar] 4s² 4p⁴|1|Half-filled d subshell is stable.
+The electronic configuration of copper (Z = 29) is|[Ar] 3d⁹ 4s²|[Ar] 3d¹¹|[Ar] 3d¹⁰ 4s¹|[Ar] 4s² 4p⁹|2|Fully filled d subshell is stable.
+The electronic configuration of Fe²⁺ (Fe has Z = 26) is|[Ar] 3d⁴ 4s²|[Ar] 3d⁵|[Ar] 3d⁶ 4s²|[Ar] 3d⁶|3|The 4s electrons are removed first.
+The number of orbitals in the n = 3 shell is|9|3|5|18|0|n².
+The maximum number of electrons in the n = 3 shell is|9|18|8|32|1|2n².
+The frequency of light of wavelength 600 nm (c = 3 × 10⁸ m/s) is|2 × 10⁻¹⁵ Hz|5 × 10⁶ Hz|5 × 10¹⁴ Hz|1.8 × 10¹⁷ Hz|2|ν = c/λ.
+The energy of a photon is E = hν; the SI unit of energy is the|watt|newton|pascal|joule|3|h = 6.626 × 10⁻³⁴ J s.
+The radius of the nth Bohr orbit is proportional to|n²|n|1/n|n³|0|rₙ = 52.9 n² pm.
+The Lyman series corresponds to transitions ending at|n = 2|n = 1|n = 3|n = 4|1|In the ultraviolet region.
+The Balmer series corresponds to transitions ending at|n = 1|n = 3|n = 2|n = 4|2|In the visible region.
+The longest wavelength line in the Balmer series is the transition|n = 2 to n = 1|n = 4 to n = 2|n = ∞ to n = 2|n = 3 to n = 2|3|The smallest energy difference.
+The number of electrons in the 3d subshell of zinc (Z = 30) is|10|6|8|2|0|[Ar] 3d¹⁰ 4s².
+A species isoelectronic with neon is|Na|Na⁺|Cl⁻|K⁺|1|Na⁺ has 10 electrons.

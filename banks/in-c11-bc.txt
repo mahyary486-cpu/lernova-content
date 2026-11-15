@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The law of conservation of mass was stated by|Lavoisier|Dalton|Proust|Avogadro|0|Mass is neither created nor destroyed.
+The law of definite proportions was given by|Lavoisier|Proust|Dalton|Gay-Lussac|1|A compound always has the same mass ratio of elements.
+The law of multiple proportions was given by|Proust|Lavoisier|Dalton|Avogadro|2|Elements can combine in different whole-number mass ratios.
+Gay-Lussac's law of gaseous volumes says that gases|always have equal mass|have equal volume always|do not react|combine in simple whole-number ratios of volumes|3|At constant temperature and pressure.
+Avogadro's law says that equal volumes of gases at the same temperature and pressure contain|equal numbers of molecules|equal masses|equal numbers of atoms|equal densities|0|Hence molar volume.
+The SI unit of the amount of substance is the|gram|mole|litre|kilogram|1|One of the seven base units.
+Avogadro's number is|6.022 × 10²⁰|3 × 10⁸|6.022 × 10²³|1.6 × 10⁻¹⁹|2|Particles in one mole.
+The atomic mass unit u is 1/12 of the mass of an atom of|hydrogen-1|oxygen-16|nitrogen-14|carbon-12|3|The reference standard.
+The unit of molar mass is|g/mol|g|mol|kg|0|Mass per mole.
+The molar volume of an ideal gas at 0 °C and 1 atm is|1 L|22.4 L|10 L|44.8 L|1|For one mole.
+The mass percent of an element in a compound is|mass of compound / mass of element|mass of element × mass of compound|(mass of element / mass of compound) × 100|moles of element × 100|2|A percentage by mass.
+The empirical formula gives|the actual number of atoms|the molar mass|the structure|the simplest whole-number ratio of atoms|3|For example CH₂O.
+The molecular formula gives|the actual number of atoms of each element in a molecule|the simplest ratio only|the mass only|the bonds only|0|A multiple of the empirical formula.
+Molarity is the number of moles of solute per|kilogram of solvent|litre of solution|litre of solvent|mole of solution|1|Unit: mol/L.
+Molality is the number of moles of solute per|litre of solution|kilogram of solution|kilogram of solvent|mole of solvent|2|Unit: mol/kg.
+The mole fraction of a component is|mass / volume|moles per litre|moles per kilogram|moles of the component / total moles|3|It has no unit.
+The limiting reagent is the reactant that|is consumed first|is in excess|acts as a catalyst|is a product|0|It decides the amount of product.
+The molar mass of H₂O is|16 g/mol|18 g/mol|2 g/mol|34 g/mol|1|2 × 1 + 16.
+The molar mass of CO₂ is|28 g/mol|32 g/mol|44 g/mol|12 g/mol|2|12 + 2 × 16.
+The molar mass of NaCl (Na = 23, Cl = 35.5) is|58 g/mol|23 g/mol|35.5 g/mol|58.5 g/mol|3|23 + 35.5.
+The number of moles in 36 g of water is|2|1|3|0.5|0|36/18.
+One mole of molecules contains|6.022 × 10²⁰ molecules|6.022 × 10²³ molecules|1 molecule|22.4 molecules|1|By definition.
+The mass of 0.5 mol of CO₂ is|44 g|11 g|22 g|88 g|2|0.5 × 44.
+The number of atoms in 1 mol of water molecules is|6.022 × 10²³|1.2 × 10²⁴|9 × 10²³|1.8 × 10²⁴|3|3 × 6.022 × 10²³.
+The volume of 2 mol of an ideal gas at 0 °C and 1 atm is|44.8 L|22.4 L|11.2 L|67.2 L|0|2 × 22.4.
+The mass percent of hydrogen in water is about|88.9%|11.1%|5.6%|50%|1|2/18 × 100.
+The mass percent of oxygen in water is about|11.1%|50%|88.9%|16%|2|16/18 × 100.
+A compound has 40% C, 6.7% H and 53.3% O. Its empirical formula is|CHO|C₂H₄O|CH₄O|CH₂O|3|Ratio of moles 1 : 2 : 1.
+The empirical formula of C₆H₁₂O₆ is|CH₂O|C₆H₁₂O₆|CHO|C₂H₄O₂|0|Divide by 6.
+A compound has empirical formula CH₂O and molar mass 180 g/mol. Its molecular formula is a multiple n of CH₂O with n =|3|6|2|12|1|180/30.
+The molarity of a solution of 4 g NaOH (M = 40 g/mol) in 1 L is|1 M|4 M|0.1 M|0.4 M|2|4/40 = 0.1 mol.
+The molarity of a solution containing 0.5 mol in 250 mL is|0.5 M|0.125 M|1 M|2 M|3|0.5/0.25.
+The molality of a solution with 1 mol of solute in 500 g of solvent is|2 m|1 m|0.5 m|0.2 m|0|1/0.5 kg.
+The mass of NaOH in 500 mL of 0.2 M solution (M = 40 g/mol) is|8 g|4 g|2 g|40 g|1|0.1 mol × 40.
+The dilution formula is|M₁M₂ = V₁V₂|M₁/V₁ = M₂/V₂|M₁V₁ = M₂V₂|M₁ + V₁ = M₂ + V₂|2|The moles of solute stay constant.
+The number of significant figures in 0.00250 is|5|2|6|3|3|Leading zeros are not significant.
+In 2H₂ + O₂ → 2H₂O, 4 mol of H₂ gives how many moles of water?|4|2|8|1|0|The ratio is 1 : 1.
+The mass of water formed from 4 g of H₂ with excess O₂ is|18 g|36 g|9 g|72 g|1|2 mol H₂ gives 2 mol H₂O.
+In N₂ + 3H₂ → 2NH₃, the mass of NH₃ from 28 g of N₂ is|17 g|68 g|34 g|14 g|2|1 mol N₂ gives 2 mol NH₃.
+When 2 mol H₂ reacts with 2 mol O₂ to form water, the limiting reagent is|O₂|neither|both|H₂|3|2 mol H₂ needs only 1 mol O₂.
+In the same reaction, the amount of water formed is|2 mol|1 mol|4 mol|0.5 mol|0|Fixed by the limiting reagent.
+The volume of CO₂ at 0 °C and 1 atm formed on burning 12 g of carbon completely is|11.2 L|22.4 L|44.8 L|2.24 L|1|1 mol C gives 1 mol CO₂.
+The mass of CaO obtained from 100 g of CaCO₃ is|44 g|100 g|56 g|28 g|2|1 mol CaCO₃ gives 1 mol CaO.
+The molarity of a solution with 5.85 g NaCl (M = 58.5 g/mol) in 500 mL is|0.1 M|0.5 M|1 M|0.2 M|3|0.1 mol/0.5 L.
+A 36.5% HCl solution by mass has density 1.2 g/mL. Its molarity is|12 M|1.2 M|36.5 M|10 M|0|1.2 × 1000 × 0.365/36.5.
+The mole fraction of ethanol in a mixture of 1 mol ethanol and 3 mol water is|0.75|0.25|0.33|1|1|1/4.
+The number of atoms in 12 g of carbon-12 is|12|6.022 × 10²²|6.022 × 10²³|1.2 × 10²⁴|2|One mole.
+The number of moles of oxygen atoms in 1 mol of Al₂(SO₄)₃ is|4|3|8|12|3|3 × 4.
+The mass of one molecule of water is about|3 × 10⁻²³ g|18 g|6 × 10²³ g|1.8 × 10⁻²⁴ g|0|18/6.022 × 10²³.
+The percentage yield is|(theoretical / actual) × 100|(actual yield / theoretical yield) × 100|actual × theoretical|moles of product|1|It compares real and ideal yields.

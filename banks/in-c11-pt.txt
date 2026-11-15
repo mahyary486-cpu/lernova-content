@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The modern periodic law states that the properties of elements are periodic functions of their|atomic number|atomic mass|neutron number|density|0|Moseley's discovery.
+Mendeleev arranged the elements in order of increasing|atomic number|atomic mass|electronegativity|density|1|His periodic law.
+The number of periods in the modern periodic table is|8|18|7|9|2|Periods 1 to 7.
+The number of groups in the modern periodic table is|8|7|16|18|3|Groups 1 to 18.
+The elements of group 1 are called|alkali metals|alkaline earth metals|halogens|noble gases|0|Li, Na, K, Rb, Cs, Fr.
+The elements of group 2 are called|alkali metals|alkaline earth metals|halogens|noble gases|1|Be, Mg, Ca, Sr, Ba, Ra.
+The elements of group 17 are called|alkali metals|chalcogens|halogens|noble gases|2|F, Cl, Br, I, At.
+The elements of group 18 are called|halogens|alkali metals|metalloids|noble gases|3|He, Ne, Ar, Kr, Xe, Rn.
+The s-block consists of groups|1 and 2|13 to 18|3 to 12|none of these|0|Outermost electron in an s orbital.
+The p-block consists of groups|1 and 2|13 to 18|3 to 12|none of these|1|Outermost electron in a p orbital.
+The d-block elements are the|alkali metals|noble gases|transition elements|lanthanoids only|2|Groups 3 to 12.
+The f-block includes the|alkali metals|halogens|noble gases|lanthanoids and actinoids|3|Inner transition elements.
+The most electronegative element is|fluorine|oxygen|chlorine|caesium|0|4.0 on the Pauling scale.
+The element with the largest atomic size in period 2 is|fluorine|lithium|neon|carbon|1|The leftmost element.
+Across a period the atomic radius generally|increases|stays the same|decreases|becomes zero|2|Nuclear charge increases.
+Down a group the atomic radius|decreases|stays the same|becomes zero|increases|3|More shells.
+Ionisation enthalpy is the energy needed to|remove an electron from a gaseous atom|add an electron|break a bond|form a molecule|0|X → X⁺ + e⁻.
+Across a period the ionisation enthalpy generally|decreases|increases|stays the same|becomes zero|1|Smaller atoms hold electrons more tightly.
+Down a group the ionisation enthalpy|increases|stays the same|decreases|becomes zero|2|Larger atoms.
+A cation is|larger than its parent atom|the same size|unrelated|smaller than its parent atom|3|It has lost electrons.
+An anion is|larger than its parent atom|smaller than its parent atom|the same size|unrelated|0|It has gained electrons.
+Among the isoelectronic ions Na⁺ and Mg²⁺, the smaller is|Na⁺|Mg²⁺|both are equal|neither|1|Greater nuclear charge.
+The element with the higher first ionisation enthalpy, N or O, is|O|both are equal|N|neither|2|Half-filled 2p³ is stable.
+Across a period the electronegativity|decreases|stays the same|becomes zero|increases|3|Smaller atoms attract electrons more.
+Down a group the electronegativity|decreases|increases|stays the same|becomes zero|0|Larger atoms.
+The noble gases have an electron gain enthalpy that is|large and negative|positive (very unfavourable)|the same as the halogens|zero for all|1|Their shells are full.
+The halogens have an electron gain enthalpy that is|positive|zero|large and negative|small and positive|2|They readily gain one electron.
+The most negative electron gain enthalpy among the halogens belongs to|fluorine|iodine|bromine|chlorine|3|Fluorine is smaller with electron repulsion.
+The element with atomic number 11 belongs to group|1|2|11|17|0|Sodium.
+The element with atomic number 17 belongs to period|2|3|4|7|1|Chlorine.
+The element with atomic number 20 belongs to|group 1 and period 4|group 2 and period 3|group 2 and period 4|group 3 and period 4|2|Calcium.
+The valence of group 1 elements is|2|7|8|1|3|One valence electron.
+The valence of group 17 elements is|1|7|8|2|0|They need one electron.
+A diagonal relationship exists between|Li and Na|Li and Mg|Na and K|F and Cl|1|Similar charge-to-size ratios.
+An amphoteric oxide is|Na₂O|CO₂|Al₂O₃|SO₃|2|It reacts with acids and bases.
+Across a period the acidic character of oxides|decreases|stays the same|becomes zero|increases|3|From basic to acidic.
+The element with the configuration [Ne] 3s² 3p⁵ is|chlorine|sulphur|argon|fluorine|0|Z = 17.
+The group number of the element with the configuration [Ne] 3s² 3p⁵ is|7|17|5|15|1|10 + 7.
+The element with the configuration [Ar] 3d⁵ 4s² belongs to the|s-block|p-block|d-block|f-block|2|Manganese.
+Between Be and B, the higher first ionisation enthalpy belongs to|B|both are equal|neither|Be|3|Be has a filled 2s subshell.
+Between Cl and Cl⁻, the larger is|Cl⁻|Cl|both are equal|neither|0|Extra electron repulsion.
+Among isoelectronic species Na⁺ and F⁻, the larger is|Na⁺|F⁻|both are equal|neither|1|Lower nuclear charge.
+The element with the most negative electron gain enthalpy is|fluorine|iodine|chlorine|neon|2|Among all elements.
+The highest first ionisation enthalpy in period 3 belongs to|sodium|aluminium|sulphur|argon|3|A noble gas.
+The lanthanoid contraction is due to|poor shielding by 4f electrons|strong shielding|nuclear decay|none of these|0|Atomic radii decrease slowly.
+The element with the configuration 1s² 2s² 2p⁶ 3s² is in group|12|2|8|10|1|Magnesium.
+The number of elements in period 2 is|2|18|8|32|2|Li to Ne.
+The number of elements in period 4 is|8|32|2|18|3|K to Kr.
+The element with atomic number 118 is a|noble gas|halogen|alkali metal|transition metal|0|Oganesson.
+Across a period the metallic character|increases|decreases|stays the same|becomes zero|1|Electropositivity decreases.
