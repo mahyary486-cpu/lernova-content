@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Les êtres vivants sont constitués :|d’atomes seulement|de roches|de cellules|d’eau seulement|2|La cellule est l’unité structurale du vivant.
+Quelle unité convient pour mesurer la taille d’une cellule ?|Le kilomètre|Le micromètre|Le mètre|Le kilogramme|1|Une cellule mesure de l’ordre de 10 à 100 µm.
+Où se trouve l’ADN dans une cellule eucaryote ?|Dans le noyau|Dans la membrane|Dans la paroi|Dans la vacuole|0|Le noyau contient les chromosomes.
+Une bactérie est une cellule :|eucaryote|sans ADN|végétale|procaryote|3|Les bactéries n’ont pas de noyau.
+Combien de chromosomes possède une cellule humaine non sexuelle ?|23|92|46|48|2|L’être humain a 23 paires de chromosomes.
+Quelle est la forme de la molécule d’ADN ?|Une sphère|Une double hélice|Une pyramide|Une croix|1|L’ADN est formé de deux brins enroulés.
+Quel élément est présent dans les cellules végétales et pas dans les cellules animales ?|La paroi (et les chloroplastes)|Le noyau|La membrane plasmique|Le cytoplasme|0|La paroi et les chloroplastes sont propres aux cellules végétales.
+La mitose produit :|quatre cellules différentes|une cellule de moitié|des gamètes|deux cellules filles identiques|3|La mitose conserve l’information génétique.
+Quelles sont les quatre bases de l’ADN ?|A, U, C, G|A, B, C, D|A, T, C, G|T, U, V, W|2|Adénine, thymine, cytosine, guanine.
+Quel est l’appariement correct des bases ?|A avec C et T avec G|A avec T et C avec G|A avec G et C avec T|T avec T|1|Les bases sont complémentaires deux à deux.
+La réplication de l’ADN a lieu :|pendant l’interphase|pendant la métaphase seulement|pendant l’anaphase|à la fin de la télophase|0|L’ADN est copié avant la division.
+Un gène est :|un chromosome entier|une cellule|une protéine|une portion d’ADN portant une information|3|Un gène est une portion d’ADN qui détermine un caractère.
+Comment appelle-t-on les différentes versions d’un même gène ?|Des isotopes|Des clones|Des allèles|Des espèces|2|Les allèles sont des variantes d’un gène.
+Quel est l’ordre des phases de la mitose ?|Métaphase, prophase, télophase, anaphase|Prophase, métaphase, anaphase, télophase|Anaphase, prophase, télophase, métaphase|Télophase, anaphase, métaphase, prophase|1|C’est l’ordre chronologique.
+Une mutation est :|une modification de la séquence de l’ADN|une division cellulaire|une maladie contagieuse|une cellule morte|0|La séquence des nucléotides est modifiée.
+Un caryotype permet de :|compter les bactéries|mesurer la température|compter les protéines|observer et classer les chromosomes|3|Il montre les chromosomes d’une cellule en division.
+Après la réplication, chaque chromosome est constitué de :|une seule chromatide|quatre chromatides|deux chromatides identiques|zéro chromatide|2|L’ADN a été copié.
+Que se passe-t-il pendant l’anaphase ?|Les chromosomes se condensent|Les chromatides se séparent et migrent vers les pôles|Le noyau réapparaît|Les chromosomes s’alignent au milieu|1|Les chromatides sont tirées vers les deux pôles.
+Dans la réplication semi-conservative, chaque molécule fille comporte :|un brin ancien et un brin nouveau|deux brins nouveaux|deux brins anciens|aucun brin|0|Un brin sert de modèle à la fabrication de l’autre.
+Si un brin d’ADN a pour séquence ATTGC, le brin complémentaire est :|UAACG|GCCTA|ATTGC|TAACG|3|A–T, T–A, T–A, G–C, C–G.
+Une mutation survenue dans une cellule de la peau est transmise :|à la descendance par les gamètes|à tout l’organisme|aux cellules filles de cette cellule seulement|à personne|2|Une mutation somatique ne concerne que la lignée cellulaire.
+Quels facteurs peuvent provoquer des mutations ?|La lumière visible faible|Les rayons UV, les rayons X, certaines substances du tabac|L’eau|La vitamine C|1|Ce sont des agents mutagènes.
+Combien de chromosomes possède un spermatozoïde humain ?|23|46|92|2|0|Un gamète reçoit un chromosome de chaque paire.
+Pourquoi la mitose conserve-t-elle l’information génétique ?|Les chromosomes sont détruits|Chaque cellule fille reçoit la moitié des chromosomes|L’ADN est remplacé par une autre molécule|Chaque cellule fille reçoit une copie identique de chaque chromosome|3|La réplication précède la répartition équitable des chromatides.

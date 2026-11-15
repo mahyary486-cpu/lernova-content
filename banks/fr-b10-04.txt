@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Un écosystème comprend :|un biotope et une biocénose|uniquement des animaux|uniquement des plantes|uniquement des roches|0|Il associe le milieu et les êtres vivants.
+Que désigne la biocénose ?|Le milieu physique|Le sol seulement|Le climat|L’ensemble des êtres vivants d’un écosystème|3|La biocénose est la composante vivante.
+Quels sont les producteurs primaires ?|Les herbivores|Les carnivores|Les végétaux chlorophylliens|Les décomposeurs|2|Ils fabriquent de la matière organique par photosynthèse.
+Quels êtres vivants sont des décomposeurs ?|Les loups|Les bactéries et les champignons|Les plantes|Les abeilles|1|Ils recyclent la matière organique morte.
+Qu’est-ce qu’un service écosystémique ?|Un bénéfice que les êtres humains retirent des écosystèmes|Une opération de maintenance|Une boutique|Un paiement|0|Nourriture, eau propre, loisirs, régulation du climat…
+Le microbiote intestinal est :|une maladie|un organe|un vaccin|l’ensemble des micro-organismes vivant dans l’intestin|3|Il comprend des bactéries, des virus et des champignons.
+Qu’est-ce qu’un allèle ?|Un organe|Une cellule|Une version d’un gène|Un atome|2|Les allèles sont des variantes d’un même gène.
+Une maladie génétique est liée à :|un virus|une modification (mutation) de l’ADN|le froid|l’alimentation seule|1|Un allèle muté en est la cause.
+Dans la chaîne herbe → lapin → renard, le lapin est :|un consommateur primaire|un producteur|un décomposeur|un consommateur tertiaire|0|Il se nourrit de producteurs.
+Quelle fraction de l’énergie passe d’un niveau trophique au suivant ?|Environ 100 %|Environ 50 %|0 %|Environ 10 %|3|Le reste est dissipé.
+Lequel est un service d’approvisionnement ?|La pollinisation|L’épuration de l’eau|La production de nourriture et de bois|La beauté du paysage|2|L’approvisionnement concerne les ressources prélevées.
+La mucoviscidose est :|une maladie bactérienne|une maladie génétique liée au gène CFTR|une carence en vitamine|une allergie|1|Elle est due à des allèles mutés de ce gène.
+Le nombre de bactéries du microbiote intestinal est :|du même ordre de grandeur que le nombre de cellules du corps|mille fois plus faible|infini|nul|0|Environ 10¹³ bactéries.
+Quel est un rôle du microbiote intestinal ?|Détruire les organes|Produire du dioxygène|Transformer l’ADN|Aider à la digestion et protéger contre des pathogènes|3|Il participe à la digestion et à l’immunité.
+Les antibiotiques peuvent :|augmenter toujours sa diversité|n’avoir aucun effet|perturber le microbiote|soigner les infections virales|2|Ils détruisent aussi des bactéries utiles.
+Quelles sont des menaces majeures pour les écosystèmes ?|Rotation de la Terre|Destruction des habitats, pollution, changement climatique|Marées|La nuit|1|Ce sont des activités humaines.
+Si l’on supprime les prédateurs d’une proie, souvent :|la proie prolifère et l’écosystème se déséquilibre|rien ne change|la proie disparaît toujours|les producteurs doublent|0|Les relations trophiques maintiennent l’équilibre.
+Une maladie multifactorielle dépend :|d’un seul gène|uniquement du climat|uniquement du hasard|de gènes et de l’environnement|3|Plusieurs facteurs interviennent.
+Pour une maladie génétique récessive comme la mucoviscidose, une personne malade possède :|un seul allèle muté|aucun allèle muté|deux allèles mutés|un chromosome en plus|2|La maladie ne s’exprime qu’avec deux allèles mutés.
+Une alimentation riche en fibres favorise :|la disparition du microbiote|une plus grande diversité du microbiote|les mutations|aucun effet|1|Les fibres nourrissent des bactéries utiles.
+Si 10 000 kJ sont disponibles chez les producteurs, quelle énergie atteint les consommateurs primaires (environ 10 %) ?|1 000 kJ|100 kJ|9 000 kJ|10 kJ|0|10 % de 10 000 kJ = 1 000 kJ.
+Qu’est-ce qu’une dysbiose ?|Une mutation|Une prolifération de cellules|Une division cellulaire|Un déséquilibre du microbiote|3|C’est une perte de diversité ou d’équilibre.
+Pourquoi faut-il protéger la biodiversité ?|Elle ne sert à rien|Elle réduit les ressources|Elle fournit des services écosystémiques et assure la stabilité des écosystèmes|Elle pollue|2|Sa diminution fragilise les écosystèmes.
+Quel est le rôle des décomposeurs ?|Fabriquer de la matière organique par photosynthèse|Libérer des nutriments minéraux en recyclant la matière morte|Manger les herbivores|Produire de l’ADN|1|Les nutriments redeviennent disponibles pour les producteurs.

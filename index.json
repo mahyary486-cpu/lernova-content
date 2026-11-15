@@ -3622,6 +3622,85 @@
     },
     {
       "grade": 10,
+      "country": "FR",
+      "subject": "Biology",
+      "chapters": [
+        {
+          "id": "fr-b10-01",
+          "title": "Une planète habitée : la Terre dans l’Univers",
+          "lessons": [
+            {
+              "id": "fr-b10-01-01",
+              "title": "La Terre dans le système solaire"
+            },
+            {
+              "id": "fr-b10-01-02",
+              "title": "Structure interne de la Terre"
+            },
+            {
+              "id": "fr-b10-01-03",
+              "title": "Histoire de la vie et de l’atmosphère"
+            }
+          ]
+        },
+        {
+          "id": "fr-b10-02",
+          "title": "La cellule, unité du vivant",
+          "lessons": [
+            {
+              "id": "fr-b10-02-01",
+              "title": "Organisation de la cellule"
+            },
+            {
+              "id": "fr-b10-02-02",
+              "title": "L’ADN, support de l’information génétique"
+            },
+            {
+              "id": "fr-b10-02-03",
+              "title": "Réplication de l’ADN, mitose et mutations"
+            }
+          ]
+        },
+        {
+          "id": "fr-b10-03",
+          "title": "Biodiversité et évolution",
+          "lessons": [
+            {
+              "id": "fr-b10-03-01",
+              "title": "Les trois niveaux de la biodiversité"
+            },
+            {
+              "id": "fr-b10-03-02",
+              "title": "Mécanismes de l’évolution"
+            },
+            {
+              "id": "fr-b10-03-03",
+              "title": "Parenté et classification du vivant"
+            }
+          ]
+        },
+        {
+          "id": "fr-b10-04",
+          "title": "Écosystèmes, santé et environnement",
+          "lessons": [
+            {
+              "id": "fr-b10-04-01",
+              "title": "Écosystèmes et services environnementaux"
+            },
+            {
+              "id": "fr-b10-04-02",
+              "title": "Variation génétique et santé"
+            },
+            {
+              "id": "fr-b10-04-03",
+              "title": "Microbiote et santé"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
       "subject": "Mathematics",
       "country": "RU",
       "chapters": [

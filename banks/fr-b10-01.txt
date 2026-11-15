@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’étoile du système solaire ?|La Lune|Le Soleil|Mars|Vénus|1|Le Soleil est l’étoile autour de laquelle gravitent les planètes.
+Quel est l’âge approximatif de la Terre ?|4,57 milliards d’années|4,57 millions d’années|457 milliards d’années|4 570 ans|0|La Terre s’est formée il y a environ 4,57 milliards d’années.
+Quelles sont les trois grandes enveloppes internes de la Terre ?|L’atmosphère, l’océan et la croûte|Le noyau, la graine et l’océan|La biosphère, l’hydrosphère et la lithosphère|La croûte, le manteau et le noyau|3|C’est la structure interne principale de la Terre.
+De quoi le noyau terrestre est-il principalement formé ?|De calcium|De silicium|De fer et de nickel|D’hélium|2|Le noyau est métallique.
+Quelle planète est la seule connue pour abriter la vie ?|Mars|La Terre|Vénus|Mercure|1|La Terre est la seule planète où l’on a observé la vie.
+Quel est le gaz majoritaire de l’atmosphère actuelle ?|Le diazote|Le dioxygène|Le dioxyde de carbone|L’argon|0|L’air contient environ 78 % de diazote.
+L’eau liquide existe en surface de la Terre notamment parce que :|la Terre est très éloignée du Soleil|la Terre n’a pas d’atmosphère|la Terre est plus petite que la Lune|la température est modérée grâce à la distance au Soleil|3|La distance au Soleil et l’atmosphère permettent une température modérée.
+Comment appelle-t-on la couche rocheuse superficielle de la Terre ?|Le noyau|Le manteau|La croûte|La graine|2|La croûte est l’enveloppe externe solide.
+Quelles ondes sismiques ne traversent pas les liquides ?|Les ondes P|Les ondes S|Les deux|Aucune|1|Les ondes S ne se propagent que dans les solides.
+La graine (noyau interne) est :|solide|liquide|gazeuse|absente|0|Malgré la température, la pression très élevée la maintient solide.
+Les plus anciennes traces de vie (stromatolithes) datent d’environ :|3,5 millions d’années|350 millions d’années|35 000 ans|3,5 milliards d’années|3|Des stromatolithes datent d’environ 3,5 milliards d’années.
+Le dioxygène atmosphérique provient surtout :|des éruptions volcaniques|de la fonte des glaciers|de la photosynthèse|des météorites|2|Les organismes photosynthétiques ont libéré du dioxygène.
+Quelle discontinuité sépare la croûte du manteau ?|La discontinuité de Gutenberg|La discontinuité de Mohorovičić (Moho)|La discontinuité de Lehmann|La discontinuité de Wegener|1|Le Moho marque la limite croûte-manteau.
+Pourquoi la vitesse des ondes sismiques change-t-elle en profondeur ?|La nature ou l’état des roches change|La température de l’air change|La Lune est pleine|Le Soleil se couche|0|Les ondes sont sensibles aux propriétés des matériaux traversés.
+Le Soleil est surtout formé :|de fer et de nickel|de silicium et d’oxygène|de diazote et de dioxygène|d’hydrogène et d’hélium|3|Le Soleil est une boule de gaz très chaude.
+Quelles sont les planètes telluriques ?|Jupiter, Saturne, Uranus et Neptune|La Terre, la Lune, le Soleil et Mars|Mercure, Vénus, la Terre et Mars|Mars, Jupiter, Vénus et la Terre|2|Ce sont les quatre planètes rocheuses proches du Soleil.
+Comment connaît-on l’intérieur de la Terre ?|Grâce à des forages jusqu’au noyau|Grâce à la propagation des ondes sismiques|Grâce à des photos satellites de l’intérieur|Grâce à la lumière du Soleil|1|Les forages ne dépassent pas une douzaine de kilomètres.
+Quel est le rayon approximatif de la Terre ?|6 371 km|637 km|63 710 km|637 100 km|0|Le rayon moyen de la Terre est d’environ 6 371 km.
+L’apparition de la photosynthèse a provoqué :|la disparition de l’eau|l’arrêt de la vie|la formation du Soleil|l’accumulation de dioxygène dans l’atmosphère|3|Le dioxygène s’est accumulé à partir de 2,4 milliards d’années environ.
+La couche d’ozone protège principalement des :|ondes sismiques|séismes|rayons ultraviolets|marées|2|L’ozone absorbe une grande partie des ultraviolets.
+Les ondes S disparaissent vers 2 900 km de profondeur. On en déduit que :|le manteau est liquide|le noyau externe est liquide|la croûte est liquide|la Terre est creuse|1|Les ondes S ne traversent pas les liquides.
+Dans quel ensemble la Terre se situe-t-elle ?|Le système solaire|Le système de Jupiter|La galaxie d’Andromède|La ceinture d’astéroïdes|0|La Terre est l’une des planètes du système solaire.
+Pourquoi l’eau liquide n’est-elle pas stable à la surface de Mars aujourd’hui ?|Mars est trop proche du Soleil|Mars n’a pas de croûte|Mars n’a pas de gravité|L’atmosphère est très ténue et les températures sont basses|3|Mars est plus éloignée du Soleil et a perdu une grande partie de son atmosphère.
+Quelle est l’épaisseur approximative de la croûte terrestre ?|2 900 km|6 371 km|5 à 70 km|0,5 km|2|La croûte est mince : de 5 km sous les océans à 70 km sous les chaînes de montagnes.

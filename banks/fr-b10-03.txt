@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quels sont les trois niveaux de la biodiversité ?|Planètes, étoiles, galaxies|Cellules, tissus, organes|Atomes, molécules, ions|Écosystèmes, espèces, diversité génétique|3|La biodiversité s’étudie à ces trois échelles.
+Qu’est-ce qu’une espèce ?|Des individus qui vivent au même endroit|Des individus qui mangent la même nourriture|Des individus capables de se reproduire entre eux et d’avoir une descendance fertile|Des individus de même taille|2|C’est la définition biologique de l’espèce.
+L’évolution est :|un changement d’un individu au cours de sa vie|une modification des populations au cours des générations|un changement de saison|une migration saisonnière|1|L’évolution concerne les populations.
+Quelle est la source de nouveaux allèles ?|Les mutations|Les saisons|L’altitude|La température de l’air|0|Les mutations modifient l’ADN.
+Qui a proposé la théorie de la sélection naturelle ?|Louis Pasteur|Gregor Mendel|Isaac Newton|Charles Darwin|3|Darwin a publié L’Origine des espèces en 1859.
+Un caractère hérité d’un ancêtre commun est :|un caractère analogue|un fossile|un caractère homologue|une migration|2|Les caractères homologues ont la même origine évolutive.
+Qu’est-ce qu’une extinction ?|La naissance d’une espèce|La disparition d’une espèce|Un croisement|Une migration|1|Une espèce éteinte n’a plus aucun individu vivant.
+Quel facteur humain contribue le plus à l’érosion de la biodiversité ?|La destruction des habitats|Le cycle de l’eau|La marée|La rotation de la Terre|0|La destruction et la fragmentation des habitats sont la principale cause.
+La sélection naturelle favorise :|les plus gros individus|tous les individus|des individus tirés au hasard|les individus dont les caractères augmentent la survie et la reproduction|3|Les individus les mieux adaptés laissent plus de descendants.
+La dérive génétique est :|une migration volontaire|une mutation provoquée|une variation aléatoire de la fréquence des allèles|une sélection par l’être humain|2|C’est un phénomène lié au hasard.
+Quel est un exemple de sélection naturelle ?|La croissance d’un arbre|La résistance des bactéries aux antibiotiques|Un déménagement|Une greffe|1|Les bactéries résistantes survivent et se multiplient.
+Un arbre phylogénétique représente :|les relations de parenté entre espèces|la taille des animaux|le régime alimentaire|les pays d’origine|0|Il montre l’histoire évolutive.
+Dans un arbre, deux espèces proches ont :|un ancêtre commun plus ancien|aucun ancêtre commun|le même nombre de chromosomes|un ancêtre commun plus récent|3|La proximité traduit un ancêtre commun récent.
+Pourquoi le morphe sombre du phalène devient-il plus fréquent dans les régions polluées ?|Il vole plus vite|Il mute volontairement|Il est mieux camouflé sur les troncs noircis et moins mangé par les oiseaux|Il mange davantage|2|Il survit mieux, donc se reproduit davantage.
+Que sont les grandes crises biologiques ?|Des périodes sans changement|Des périodes d’extinction massive d’espèces|Des naissances massives|Seulement des glaciations|1|Elles éliminent une grande partie de la biodiversité.
+Combien de grandes crises d’extinction ont été identifiées dans l’histoire de la Terre ?|5|2|10|15|0|On en distingue cinq, et une sixième serait en cours.
+Pourquoi les bactéries résistantes deviennent-elles majoritaires en présence d’antibiotique ?|Les antibiotiques créent volontairement la résistance|Toutes les bactéries sont résistantes dès le départ|Les bactéries migrent|Elles survivent et se reproduisent davantage|3|C’est de la sélection naturelle.
+Quelle espèce est la plus proche de l’être humain parmi celles-ci ?|Le gorille|L’orang-outan|Le chimpanzé|La souris|2|L’ancêtre commun avec le chimpanzé est le plus récent.
+La dérive génétique est plus marquée :|dans les grandes populations|dans les petites populations|dans aucune population|chez l’être humain seulement|1|Le hasard a un effet plus fort quand peu d’individus se reproduisent.
+Une mutation avantageuse se répand dans la population si :|elle augmente la survie ou la reproduction des porteurs|elle est visible|elle est rare|elle est située dans le noyau|0|C’est la sélection naturelle.
+Que désigne la diversité génétique ?|Le nombre d’espèces|Le nombre de planètes|Le nombre d’individus|La diversité des allèles dans une population|3|Elle concerne les variations de l’ADN.
+Une espèce invasive peut :|augmenter toujours la biodiversité|n’avoir aucun effet|réduire la biodiversité locale|faire disparaître les mutations|2|Elle concurrence ou élimine des espèces locales.
+Quel caractère est homologue entre le bras humain et l’aile de chauve-souris ?|Les plumes|La structure osseuse du membre antérieur|La fonction de vol|La couleur|1|Les os ont la même organisation héritée d’un ancêtre commun.
+Les mutations sont :|aléatoires|dirigées vers l’adaptation|provoquées par le besoin|toujours avantageuses|0|Elles se produisent au hasard.
