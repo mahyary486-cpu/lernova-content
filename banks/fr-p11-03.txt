@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité du travail d’une force ?|Le watt|Le newton|Le pascal|Le joule|3|Un joule est le travail d’une force de 1 N sur 1 m.
+Quelle est l’expression de l’énergie cinétique ?|Ec = m × v|Ec = m × g × z|Ec = ½ × m × v²|Ec = ½ × m × v|2|Elle dépend du carré de la vitesse.
+Quelle est l’expression de l’énergie potentielle de pesanteur ?|Epp = ½ × m × v²|Epp = m × g × z|Epp = m × v|Epp = F × d|1|z est l’altitude.
+Quelle est l’expression de l’énergie mécanique ?|Em = Ec + Epp|Em = Ec − Epp|Em = Ec × Epp|Em = Ec ÷ Epp|0|L’énergie mécanique est la somme des énergies cinétique et potentielle.
+Un travail moteur est :|négatif|nul|infini|positif|3|La force favorise le déplacement.
+Quel est le travail d’une force perpendiculaire au déplacement ?|Positif|Négatif|Nul|Maximal|2|cos 90° = 0.
+Dans Ec = ½ × m × v², dans quelle unité exprime-t-on m ?|Le gramme|Le kilogramme|Le newton|Le mètre|1|Il faut utiliser les unités du SI.
+Quel est le travail d’une force de 50 N sur 10 m, dans le sens du déplacement ?|500 J|5 J|60 J|0,2 J|0|W = F × AB × cos 0° = 500 J.
+Une force de 50 N fait un angle de 60° avec un déplacement de 10 m. Son travail vaut :|500 J|433 J|5 000 J|250 J|3|W = 50 × 10 × cos 60° = 250 J.
+Quel est le travail du poids d’une masse de 2,0 kg qui descend de 3,0 m (g = 9,8 N/kg) ?|6,5 J|−58,8 J|58,8 J|19,6 J|2|W = m × g × (zA − zB) = 2,0 × 9,8 × 3,0.
+Quelle est l’énergie cinétique d’une voiture de 1 000 kg roulant à 20 m/s ?|2,0 × 10⁴ J|2,0 × 10⁵ J|2,0 × 10⁶ J|4,0 × 10⁵ J|1|Ec = ½ × 1 000 × 20².
+Quand la vitesse d’un objet double, son énergie cinétique :|est multipliée par 4|est multipliée par 2|reste inchangée|est divisée par 2|0|Ec est proportionnelle à v².
+Quelle est l’expression du théorème de l’énergie cinétique ?|ΔEc = ΣF|ΔEc = −ΣW(F)|ΔEc = m × g × h|ΔEc = ΣW(F)|3|La variation d’énergie cinétique est égale à la somme des travaux.
+Le travail du poids dépend-il du chemin suivi ?|Oui|Seulement s’il y a des frottements|Non, seulement de la différence d’altitude|Seulement en montée|2|Le poids est une force conservative.
+En présence de frottements, l’énergie mécanique :|augmente|diminue|reste toujours constante|devient infinie|1|Une partie est dissipée sous forme thermique.
+Quelle est l’énergie potentielle d’un objet de 3,0 kg à 5,0 m d’altitude (g = 9,8 N/kg) ?|147 J|15 J|0,61 J|1,5 J|0|Epp = 3,0 × 9,8 × 5,0.
+Un objet tombe de 5,0 m sans frottement. Sa vitesse à l’arrivée est :|98 m/s|4,9 m/s|25 m/s|9,9 m/s|3|v = √(2 × 9,8 × 5,0) = √98.
+Une force de freinage de 5 000 N arrête un véhicule d’énergie cinétique 2,0 × 10⁵ J. La distance d’arrêt est :|400 m|10 m|40 m|0,025 m|2|d = Ec ÷ F = 2,0 × 10⁵ ÷ 5 000.
+Quelle est l’énergie cinétique d’une voiture de 1 000 kg à 90 km/h ?|2,3 × 10⁶ J|3,1 × 10⁵ J|1,1 × 10⁵ J|2,5 × 10⁴ J|1|90 km/h = 25 m/s : Ec = ½ × 1 000 × 625.
+Un ballon de 0,50 kg est lâché de 2,0 m (sans frottement). Son énergie cinétique à l’arrivée vaut :|9,8 J|4,9 J|19,6 J|0,98 J|0|Ec = m × g × h = 0,50 × 9,8 × 2,0.
+Le travail d’une force de 20 N opposée à un déplacement de 5,0 m vaut :|100 J|0 J|−4,0 J|−100 J|3|cos 180° = −1, donc W = −20 × 5,0.
+Un objet est lancé verticalement à 10 m/s sans frottement. Sa hauteur maximale est :|10 m|1,0 m|5,1 m|20 m|2|h = v₀² ÷ (2 × g) = 100 ÷ 19,6.
+Quand un objet monte, sans frottement :|Ec et Epp augmentent|Ec diminue et Epp augmente|Ec augmente et Epp diminue|Ec et Epp restent constantes|1|Em reste constante : une énergie se transforme en l’autre.
+Un skieur descend à vitesse constante sur une pente. On en déduit que :|la somme des travaux est nulle et l’énergie mécanique diminue|l’énergie mécanique est conservée|le poids ne travaille pas|les frottements sont nuls|0|Ec est constante (ΔEc = 0) mais Epp diminue, donc Em diminue.

@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est une unité du champ électrique ?|Le tesla (T)|Le newton (N)|Le volt par mètre (V/m)|Le coulomb (C)|2|E = F ÷ q s’exprime en N/C, équivalent au V/m.
+Deux charges de même signe :|s’attirent|se repoussent|n’interagissent pas|fusionnent|1|Charges de même signe : répulsion.
+Quelle est l’unité du champ magnétique ?|Le tesla (T)|Le volt (V)|Le newton (N)|Le joule (J)|0|Le champ magnétique se mesure en teslas.
+Quel instrument mesure un champ magnétique ?|Un ampèremètre|Un voltmètre|Un dynamomètre|Un teslamètre|3|Il utilise une sonde à effet Hall.
+À l’extérieur d’un aimant, les lignes de champ magnétique vont :|du pôle sud vers le pôle nord|de manière aléatoire|du pôle nord vers le pôle sud|vers l’infini sans direction|2|Elles sont orientées du nord vers le sud à l’extérieur.
+Entre les armatures d’un condensateur plan, le champ électrique est :|nul|uniforme|variable|circulaire|1|Les lignes de champ sont parallèles et équidistantes.
+Un champ de gravitation est créé par :|une masse|une charge uniquement|un courant uniquement|un aimant uniquement|0|Toute masse crée un champ de gravitation.
+Quelle est la valeur approchée de la constante de Coulomb k ?|6,67 × 10⁻¹¹ N·m²·kg⁻²|3,0 × 10⁸ m/s|1,6 × 10⁻¹⁹ C|9,0 × 10⁹ N·m²·C⁻²|3|k ≈ 9,0 × 10⁹ N·m²·C⁻².
+Quelle est l’expression de la loi de Coulomb ?|F = k × q₁ × q₂ × r²|F = k ÷ (q₁ × q₂ × r)|F = k × ∣q₁ × q₂∣ ÷ r²|F = k × (q₁ + q₂) ÷ r|2|La force est proportionnelle aux charges et inversement proportionnelle à r².
+Une charge de 2,0 × 10⁻⁶ C subit une force de 4,0 × 10⁻³ N. Quelle est la valeur du champ électrique ?|8,0 × 10⁻⁹ V/m|2,0 × 10³ V/m|5,0 × 10⁻⁴ V/m|2,0 × 10⁻³ V/m|1|E = F ÷ q = 4,0 × 10⁻³ ÷ 2,0 × 10⁻⁶.
+Un condensateur plan est soumis à 200 V, ses armatures étant distantes de 2,0 cm. Le champ vaut :|1,0 × 10⁴ V/m|4,0 V/m|1,0 × 10² V/m|4,0 × 10³ V/m|0|E = U ÷ d = 200 ÷ 0,020.
+Deux charges de 1,0 µC chacune sont distantes de 10 cm. La force entre elles vaut :|9,0 × 10³ N|9,0 × 10⁻³ N|90 N|0,90 N|3|F = 9,0 × 10⁹ × 10⁻¹² ÷ 0,010.
+Si l’on double la distance entre deux charges, la force électrique est :|divisée par 2|doublée|divisée par 4|quadruplée|2|F varie en 1 ÷ r².
+Sur une carte de champ magnétique, des lignes resserrées indiquent :|un champ plus faible|un champ plus intense|une absence de champ|un pôle sud|1|La densité des lignes représente l’intensité.
+Quel est l’ordre de grandeur du champ magnétique terrestre ?|5 × 10⁻⁵ T|5 T|5 × 10⁻⁹ T|500 T|0|Il vaut environ 50 µT.
+Quelle est l’expression du champ de gravitation créé par un astre de masse m en un point à la distance d ?|g = G × m × d²|g = m ÷ (G × d)|g = G × d ÷ m²|g = G × m ÷ d²|3|Le champ varie en 1 ÷ d².
+Quelle est approximativement la valeur de g à 400 km d’altitude (Station spatiale) ?|9,8 m/s²|0 m/s²|8,7 m/s²|4,9 m/s²|2|g(h) = G × M ÷ (R + h)².
+Pourquoi les astronautes de la Station spatiale sont-ils en impesanteur ?|g est nul à 400 km|Ils sont en chute libre autour de la Terre, g n’est pas nul|Il n’y a pas de Terre à cette altitude|Le champ de gravitation y est inversé|1|À 400 km, g vaut encore environ 8,7 m/s².
+Un solénoïde de 500 spires, de longueur 0,25 m, est parcouru par 2,0 A. Le champ intérieur vaut environ :|5,0 × 10⁻³ T|5,0 × 10⁻⁷ T|2,5 × 10⁻² T|1,3 × 10⁻⁴ T|0|B = 4π × 10⁻⁷ × 500 × 2,0 ÷ 0,25 ≈ 5,0 × 10⁻³ T.
+Comparée à la force gravitationnelle, la force électrique entre un électron et un proton est :|beaucoup plus petite|égale|nulle|beaucoup plus grande|3|Le rapport est de l’ordre de 10³⁹.
+Dans un condensateur plan, le champ électrique est dirigé :|de l’armature négative vers l’armature positive|parallèlement aux armatures|de l’armature positive vers l’armature négative|nul partout|2|Le champ va de l’armature + vers l’armature −.
+Deux champs de même direction et de sens opposés valent 3,0 mT et 2,0 mT. Le champ résultant vaut :|5,0 mT|1,0 mT, dans le sens du plus intense|0|6,0 mT|1|On soustrait les normes.
+Si l’on double la tension d’un condensateur plan, d restant inchangée, le champ électrique :|double|est divisé par 2|reste inchangé|quadruple|0|E = U ÷ d est proportionnel à U.
+Quelle force subit une charge q placée dans un champ électrique E ?|F = q ÷ E|F = E ÷ q|F = q + E|F = q × E|3|C’est la définition du champ électrique.

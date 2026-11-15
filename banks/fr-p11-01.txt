@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité de l’accélération ?|Le mètre par seconde (m/s)|Le mètre par seconde carrée (m/s²)|Le newton (N)|Le kilogramme (kg)|1|a = Δv ÷ Δt, donc des m/s par seconde.
+Quelle est l’expression de la deuxième loi de Newton ?|ΣF = m × a|ΣF = m ÷ a|ΣF = a ÷ m|ΣF = m + a|0|La somme des forces est égale au produit de la masse par l’accélération.
+Le vecteur accélération a la direction et le sens de :|du vecteur position|de la trajectoire|de la masse|la variation du vecteur vitesse|3|a ≈ Δv ÷ Δt est colinéaire à Δv.
+Dans un mouvement rectiligne uniforme, l’accélération est :|constante non nulle|variable|nulle|infinie|2|La vitesse est constante.
+Quelle est l’accélération d’un objet en chute libre près de la Terre ?|0|g ≈ 9,8 m/s²|2g|g ÷ 2|1|Il n’est soumis qu’à son poids.
+Un newton est égal à :|1 kg·m/s²|1 kg·m²/s²|1 kg/s|1 m/s²|0|La force produit une accélération de 1 m/s² sur 1 kg.
+Un système soumis à ΣF = 0 a :|une accélération égale à g|une vitesse qui augmente|une masse nulle|une accélération nulle|3|C’est le principe d’inertie.
+La relation ΣF = m × a s’applique dans un référentiel :|accéléré|en rotation rapide|galiléen|lié à une voiture qui freine|2|Elle est valable dans un référentiel galiléen.
+La vitesse passe de 4 m/s à 10 m/s en 2 s. L’accélération moyenne vaut :|7 m/s²|3 m/s²|12 m/s²|0,33 m/s²|1|a = (10 − 4) ÷ 2 = 3 m/s².
+Une voiture de 1 000 kg a une accélération de 2,0 m/s². La somme des forces vaut :|2 000 N|500 N|1 000 N|0,002 N|0|ΣF = m × a = 1 000 × 2,0.
+Une somme de forces de 600 N s’exerce sur un système de 150 kg. L’accélération vaut :|90 000 m/s²|0,25 m/s²|750 m/s²|4,0 m/s²|3|a = ΣF ÷ m = 600 ÷ 150.
+Dans un mouvement circulaire uniforme, le vecteur accélération est dirigé :|vers l’extérieur du cercle|tangentiellement à la trajectoire|vers le centre du cercle|n’a pas de direction|2|La direction de la vitesse change vers le centre.
+Un point en mouvement circulaire uniforme a v = 10 m/s sur un cercle de rayon 20 m. Son accélération vaut :|0,5 m/s²|5,0 m/s²|200 m/s²|2,0 m/s²|1|a = v² ÷ R = 100 ÷ 20 = 5,0 m/s².
+En chute libre sans frottement, l’accélération dépend-elle de la masse ?|Non, a = g pour toutes les masses|Oui, plus la masse est grande, plus a est grande|Oui, plus la masse est grande, plus a est petite|Seulement sur la Lune|0|m × a = m × g donne a = g.
+La somme des forces et l’accélération sont :|de sens opposés|perpendiculaires|indépendantes|de même direction et de même sens|3|ΣF = m × a avec m > 0.
+Quelle est l’équation de la vitesse d’un mouvement rectiligne uniformément accéléré ?|v(t) = a × t² + v₀|v(t) = v₀ ÷ t|v(t) = a × t + v₀|v(t) = a ÷ t|2|La vitesse varie linéairement avec le temps.
+Un objet lâché sans vitesse initiale chute pendant 2,0 s (g = 9,8 m/s²). Sa vitesse vaut :|4,9 m/s|19,6 m/s|9,8 m/s|39,2 m/s|1|v = g × t = 9,8 × 2,0.
+Quelle distance parcourt-il pendant ces 2,0 s ?|19,6 m|39,2 m|9,8 m|4,9 m|0|d = ½ × g × t² = ½ × 9,8 × 4,0.
+Une voiture à 20 m/s freine avec a = −5,0 m/s². Elle s’arrête au bout de :|100 s|0,25 s|15 s|4,0 s|3|t = v₀ ÷ ∣a∣ = 20 ÷ 5,0.
+Quelle est sa distance d’arrêt avec ces données ?|80 m|20 m|40 m|100 m|2|d = v₀² ÷ (2 × ∣a∣) = 400 ÷ 10.
+Une force résultante de 12 N donne a = 3,0 m/s². La masse vaut :|36 kg|4,0 kg|0,25 kg|9,0 kg|1|m = ΣF ÷ a = 12 ÷ 3,0.
+Un système est en mouvement rectiligne uniforme. On peut affirmer que :|ΣF = 0|ΣF est non nulle et dirigée dans le sens du mouvement|ΣF est dirigée vers l’arrière|a est constante non nulle|0|Vitesse constante signifie a = 0 donc ΣF = 0.
+Quelle est l’accélération d’un objet en chute libre sur la Lune (g = 1,6 m/s²) ?|9,8 m/s²|0 m/s²|6,1 m/s²|1,6 m/s²|3|En chute libre, a est égale à l’intensité de la pesanteur locale.
+Un objet lancé verticalement vers le haut est au sommet de sa trajectoire. Sa vitesse est nulle et son accélération vaut :|0|g, dirigée vers le haut|g, dirigée vers le bas|infinie|2|Seul le poids agit, donc a = g tout au long du mouvement.

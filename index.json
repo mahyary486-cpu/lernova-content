@@ -3700,6 +3700,103 @@
       ]
     },
     {
+      "grade": 11,
+      "country": "FR",
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "fr-p11-01",
+          "title": "Mouvement et deuxième loi de Newton",
+          "lessons": [
+            {
+              "id": "fr-p11-01-01",
+              "title": "Vecteurs position, vitesse et accélération"
+            },
+            {
+              "id": "fr-p11-01-02",
+              "title": "Deuxième loi de Newton"
+            },
+            {
+              "id": "fr-p11-01-03",
+              "title": "Applications : mouvements rectilignes et chute libre"
+            }
+          ]
+        },
+        {
+          "id": "fr-p11-02",
+          "title": "Interactions fondamentales et champs",
+          "lessons": [
+            {
+              "id": "fr-p11-02-01",
+              "title": "Interaction gravitationnelle et champ de gravitation"
+            },
+            {
+              "id": "fr-p11-02-02",
+              "title": "Interaction électrique : loi de Coulomb et champ électrique"
+            },
+            {
+              "id": "fr-p11-02-03",
+              "title": "Champ magnétique et lignes de champ"
+            }
+          ]
+        },
+        {
+          "id": "fr-p11-03",
+          "title": "Travail et énergie mécanique",
+          "lessons": [
+            {
+              "id": "fr-p11-03-01",
+              "title": "Travail d’une force"
+            },
+            {
+              "id": "fr-p11-03-02",
+              "title": "Énergie cinétique et théorème de l’énergie cinétique"
+            },
+            {
+              "id": "fr-p11-03-03",
+              "title": "Énergie potentielle de pesanteur et énergie mécanique"
+            }
+          ]
+        },
+        {
+          "id": "fr-p11-04",
+          "title": "Énergie électrique et transferts thermiques",
+          "lessons": [
+            {
+              "id": "fr-p11-04-01",
+              "title": "Puissance, énergie électrique et effet Joule"
+            },
+            {
+              "id": "fr-p11-04-02",
+              "title": "Générateurs, récepteurs et point de fonctionnement"
+            },
+            {
+              "id": "fr-p11-04-03",
+              "title": "Transferts thermiques et bilan d’énergie"
+            }
+          ]
+        },
+        {
+          "id": "fr-p11-05",
+          "title": "Ondes et signaux",
+          "lessons": [
+            {
+              "id": "fr-p11-05-01",
+              "title": "Ondes mécaniques progressives"
+            },
+            {
+              "id": "fr-p11-05-02",
+              "title": "Diffraction et interférences"
+            },
+            {
+              "id": "fr-p11-05-03",
+              "title": "Modèle corpusculaire de la lumière"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "grade": 10,
       "subject": "Mathematics",
       "country": "RU",

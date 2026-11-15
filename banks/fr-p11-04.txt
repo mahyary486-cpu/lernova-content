@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité de puissance ?|Le watt|Le joule|Le volt|L’ampère|0|La puissance est une énergie par unité de temps.
+Quelle est l’expression de la puissance électrique reçue par un dipôle ?|P = U ÷ I|P = I ÷ U|P = U + I|P = U × I|3|La puissance est le produit de la tension par l’intensité.
+Quelle est l’unité d’énergie du Système international ?|Le watt|Le volt|Le joule|L’ampère|2|L’énergie s’exprime en joules.
+Combien de joules vaut 1 kWh ?|3 600 J|3,6 × 10⁶ J|1 000 J|3,6 × 10³ J|1|1 kWh = 1 000 W × 3 600 s.
+Qu’est-ce que l’effet Joule ?|La transformation d’énergie électrique en énergie thermique dans un conducteur|La production d’électricité par un aimant|Le stockage d’énergie dans une batterie|La conversion de la lumière en courant|0|Les porteurs de charge heurtent les ions du conducteur.
+Le rendement d’un convertisseur est toujours :|supérieur à 1|égal à 2|négatif|inférieur ou égal à 1|3|Une partie de l’énergie est toujours dissipée.
+Quel mode de transfert thermique se fait de proche en proche dans un solide ?|La convection|Le rayonnement|La conduction|L’évaporation|2|La conduction ne s’accompagne pas de déplacement de matière.
+Comment l’énergie du Soleil arrive-t-elle sur Terre ?|Par conduction|Par rayonnement|Par convection|Par aucun transfert|1|Le rayonnement se propage dans le vide.
+Un radiateur de 2,0 kW fonctionne pendant 3,0 h. L’énergie consommée est :|6,0 kWh|0,67 kWh|6,0 Wh|5,0 kWh|0|E = P × Δt = 2,0 × 3,0.
+Quelle est la puissance dissipée dans une résistance de 50 Ω parcourue par 2,0 A ?|100 W|25 W|2 500 W|200 W|3|P = R × I² = 50 × 4,0.
+Un moteur reçoit 1 000 W et fournit 800 W de puissance utile. Son rendement est :|1,25|0,20|0,80|800|2|η = 800 ÷ 1 000.
+Un générateur de f.é.m. 4,5 V et de résistance interne 1,5 Ω débite 0,50 A. Sa tension de sortie vaut :|4,5 V|3,75 V|5,25 V|0,75 V|1|U = E − r × I = 4,5 − 0,75.
+Qu’est-ce que le point de fonctionnement d’un circuit ?|L’intersection des caractéristiques du générateur et du dipôle|L’origine du repère|Le maximum de la tension|Le minimum de l’intensité|0|Il donne les valeurs réelles de U et de I.
+Quelle énergie faut-il pour chauffer de 50 K une masse de 2,0 kg d’eau (c = 4 180 J·kg⁻¹·K⁻¹) ?|4,18 × 10³ J|8,4 × 10³ J|2,1 × 10⁵ J|4,18 × 10⁵ J|3|Q = m × c × ΔT = 2,0 × 4 180 × 50.
+Quelle est l’unité de la capacité thermique massique ?|J·K|W·K|J·kg⁻¹·K⁻¹|kg·J|2|Q = m × c × ΔT donne c en J par kg et par kelvin.
+Quelle est l’expression du flux thermique ?|Φ = Q × Δt|Φ = Q ÷ Δt|Φ = Δt ÷ Q|Φ = Q + Δt|1|Le flux est l’énergie transférée par unité de temps.
+Un générateur de f.é.m. 12 V et de résistance interne 1,0 Ω est branché sur une résistance de 5,0 Ω. L’intensité vaut :|2,0 A|2,4 A|12 A|0,50 A|0|I = E ÷ (R + r) = 12 ÷ 6,0.
+Quelle puissance est dissipée dans la résistance interne (r = 1,0 Ω) pour I = 2,0 A ?|2,0 W|1,0 W|8,0 W|4,0 W|3|P = r × I² = 1,0 × 4,0.
+Une lampe de 10 W fonctionne pendant 5,0 h. L’énergie consommée est :|50 kWh|0,50 kWh|0,050 kWh|5,0 kWh|2|E = 0,010 kW × 5,0 h.
+Quelle est la résistance thermique d’une paroi pour ΔT = 20 K et Φ = 100 W ?|5,0 K/W|0,20 K/W|2 000 K/W|120 K/W|1|Rth = ΔT ÷ Φ.
+Deux parois accolées ont des résistances thermiques de 0,20 K/W et 0,30 K/W. La résistance totale est :|0,50 K/W|0,12 K/W|0,06 K/W|0,10 K/W|0|En série, les résistances thermiques s’additionnent.
+Quelle est l’expression du premier principe pour un système au repos ?|ΔU = W − Q|ΔU = Q ÷ W|ΔU = W × Q|ΔU = W + Q|3|La variation d’énergie interne est la somme du travail et du transfert thermique reçus.
+Pourquoi un fil conducteur s’échauffe-t-il lorsqu’il est traversé par un courant ?|À cause de l’aimantation|À cause de sa couleur|À cause de l’effet Joule : les porteurs de charge subissent des chocs|À cause de la diffraction|2|L’énergie électrique est transformée en énergie thermique.
+Quelle énergie faut-il pour chauffer 1,0 kg d’eau de 20 °C à 30 °C ?|4,2 × 10³ J|4,2 × 10⁴ J|4,2 × 10⁶ J|4,2 J|1|Q = 1,0 × 4 180 × 10.

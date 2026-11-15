@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Une onde mécanique progressive transporte :|de la matière|de l’énergie sans transport de matière|des charges électriques|des atomes|1|Elle propage une perturbation.
+Quelle est l’unité de la longueur d’onde ?|Le mètre|Le hertz|La seconde|Le watt|0|La longueur d’onde est une distance.
+Quelle relation lie la longueur d’onde λ, la célérité v et la période T ?|λ = v ÷ T|λ = T ÷ v|λ = v + T|λ = v × T|3|λ est la distance parcourue pendant une période.
+Dans une onde transversale, la perturbation est :|parallèle à la propagation|nulle|perpendiculaire à la direction de propagation|circulaire uniquement|2|Exemple : une onde le long d’une corde.
+Une onde sonore est une onde :|transversale|longitudinale|électromagnétique|nucléaire|1|La compression de l’air est parallèle à la propagation.
+Pour qu’il y ait diffraction, la taille de l’ouverture doit être :|de l’ordre de la longueur d’onde|très grande devant la longueur d’onde|nulle|toujours égale à 1 m|0|La diffraction est marquée quand a ≈ λ.
+Quelle est l’énergie d’un photon de fréquence ν ?|E = m × c|E = h ÷ ν|E = ν ÷ h|E = h × ν|3|C’est la relation de Planck-Einstein.
+Les interférences résultent :|d’une seule onde|d’une absorption|de la superposition de deux ondes|d’une réflexion sur l’air|2|Deux ondes cohérentes se combinent.
+Un son de fréquence 440 Hz se propage à 340 m/s. Sa longueur d’onde vaut :|1,3 m|0,77 m|150 000 m|0,0013 m|1|λ = v ÷ f = 340 ÷ 440.
+Deux capteurs sont distants de 1,7 m dans l’air (v = 340 m/s). Le retard est :|5,0 ms|0,20 s|580 s|50 ms|0|τ = d ÷ v = 1,7 ÷ 340.
+Quelle condition donne des interférences constructives ?|δ = (k + ½) × λ|δ = λ ÷ 2 pour tout k|δ = 0 uniquement|δ = k × λ|3|k est un entier.
+Quelle condition donne des interférences destructives ?|δ = k × λ|δ = k ÷ λ|δ = (k + ½) × λ|δ = λ²|2|Les ondes sont en opposition de phase.
+Une source sonore s’approche d’un observateur. La fréquence perçue est :|plus basse|plus élevée que celle émise|inchangée|nulle|1|C’est l’effet Doppler.
+Quelle est l’énergie d’un photon de longueur d’onde 500 nm ?|3,98 × 10⁻¹⁹ J|2,48 × 10⁻¹⁹ J|3,98 × 10⁻³⁴ J|6,63 × 10⁻²⁸ J|0|E = h × c ÷ λ = 6,63 × 10⁻³⁴ × 3,00 × 10⁸ ÷ 5,00 × 10⁻⁷.
+À combien de joules correspond 1 eV ?|1,60 × 10⁻¹⁹ W|1 J|3,6 × 10⁶ J|1,60 × 10⁻¹⁹ J|3|C’est l’énergie gagnée par un électron sous 1 V.
+Quand un atome passe d’un niveau d’énergie élevé à un niveau plus bas :|il absorbe un photon|il perd un électron seulement|il émet un photon|il disparaît|2|Il libère l’énergie ΔE sous forme de photon.
+Un laser de longueur d’onde 633 nm éclaire une fente de 0,10 mm. L’écart angulaire vaut environ :|6,3 × 10⁻⁷ rad|6,3 × 10⁻³ rad|0,10 rad|63 rad|1|θ = λ ÷ a = 633 × 10⁻⁹ ÷ 1,0 × 10⁻⁴.
+Quel est l’interfrange pour λ = 600 nm, D = 2,0 m et b = 0,40 mm ?|3,0 mm|0,30 mm|30 mm|0,12 mm|0|i = λ × D ÷ b = 6,0 × 10⁻⁷ × 2,0 ÷ 4,0 × 10⁻⁴.
+Quelle est la longueur d’onde du photon émis par une transition de 1,89 eV ?|122 nm|500 nm|1 240 nm|656 nm|3|λ = 1 240 ÷ 1,89 ≈ 656 nm (λ en nm, E en eV).
+Un photon de 2,0 eV éclaire un métal de travail d’extraction 2,3 eV. Que se passe-t-il ?|Un électron est émis avec 0,3 eV|Un électron est émis avec 4,3 eV|Aucun électron n’est émis|Un électron est émis si l’intensité est forte|2|L’énergie du photon est inférieure à W₀.
+Quelle condition permet l’effet photoélectrique ?|h × ν < W₀|h × ν ≥ W₀|h ≥ ν|ν = 0|1|Le photon doit avoir une énergie au moins égale à W₀.
+Une onde à la surface de l’eau a pour longueur d’onde 4,0 cm et pour période 0,50 s. Sa célérité vaut :|0,080 m/s|8,0 m/s|0,020 m/s|1,25 m/s|0|v = λ ÷ T = 0,040 ÷ 0,50.
+Quand la longueur d’onde d’un photon augmente, son énergie :|augmente|reste inchangée|devient nulle|diminue|3|E = h × c ÷ λ est inversement proportionnelle à λ.
+Lorsque la largeur de la fente diminue, la diffraction est :|moins marquée|inchangée|plus marquée|supprimée|2|θ = λ ÷ a augmente quand a diminue.
