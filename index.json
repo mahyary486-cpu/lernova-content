@@ -12242,6 +12242,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 11,
+      "subject": "Physics",
+      "country": "RU",
+      "chapters": [
+        {
+          "id": "ru11-phy-magnetism",
+          "title": "Магнитное поле и электромагнитная индукция",
+          "lessons": [
+            {
+              "id": "ru11-phy-magnetism-1",
+              "title": "Сила Ампера"
+            },
+            {
+              "id": "ru11-phy-magnetism-2",
+              "title": "Сила Лоренца"
+            },
+            {
+              "id": "ru11-phy-magnetism-3",
+              "title": "Электромагнитная индукция"
+            },
+            {
+              "id": "ru11-phy-magnetism-4",
+              "title": "Самоиндукция и энергия магнитного поля"
+            }
+          ]
+        },
+        {
+          "id": "ru11-phy-oscillations",
+          "title": "Колебания и электромагнитные волны",
+          "lessons": [
+            {
+              "id": "ru11-phy-oscillations-1",
+              "title": "Механические колебания"
+            },
+            {
+              "id": "ru11-phy-oscillations-2",
+              "title": "Электромагнитные колебания"
+            },
+            {
+              "id": "ru11-phy-oscillations-3",
+              "title": "Переменный ток и трансформатор"
+            },
+            {
+              "id": "ru11-phy-oscillations-4",
+              "title": "Электромагнитные волны"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
