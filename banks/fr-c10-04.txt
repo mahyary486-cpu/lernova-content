@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Comment appelle-t-on les espèces chimiques qui disparaissent au cours d’une transformation chimique ?|Les réactifs|Les produits|Les solvants|Les isotopes|0|Les réactifs sont consommés.
+Quel est le rôle d’une équation de réaction ?|Mesurer une température|Calculer une masse volumique|Identifier un solvant|Modéliser une transformation chimique|3|Elle décrit le passage des réactifs aux produits.
+Dans une équation chimique, on ajuste :|les indices des formules|les noms des espèces|les nombres stœchiométriques|les états physiques|2|On ne modifie jamais les indices : cela changerait les espèces.
+Une combustion nécessite un combustible et :|de l’azote|du dioxygène|de l’eau|du sel|1|Le comburant est le dioxygène.
+Quels sont les produits de la combustion complète du méthane ?|Dioxyde de carbone et eau|Monoxyde de carbone et dihydrogène|Dioxygène et eau|Carbone et dioxygène|0|CH₄ + 2 O₂ → CO₂ + 2 H₂O.
+Une transformation exothermique :|absorbe de l’énergie thermique|n’échange aucune énergie|est toujours rapide|libère de l’énergie thermique|3|Exothermique : le milieu s’échauffe.
+La dissolution du sucre dans l’eau est :|une transformation chimique|une combustion|une transformation physique|une synthèse|2|Les espèces ne changent pas : c’est une transformation physique.
+Quel gaz toxique est produit lors d’une combustion incomplète ?|Le dioxyde de carbone|Le monoxyde de carbone|Le dioxygène|Le diazote|1|Il se forme quand le dioxygène est en défaut.
+Quelle est l’équation ajustée de la formation de l’eau ?|2 H₂ + O₂ → 2 H₂O|H₂ + O₂ → H₂O|H₂ + 2 O₂ → 2 H₂O|2 H₂ + 2 O₂ → 2 H₂O|0|Il faut 4 H et 2 O de chaque côté.
+Quelle est l’équation ajustée de la combustion du propane ?|C₃H₈ + O₂ → 3 CO₂ + 4 H₂O|C₃H₈ + 3 O₂ → 3 CO₂ + 4 H₂O|2 C₃H₈ + 5 O₂ → 6 CO₂ + 8 H₂O|C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O|3|C : 3 = 3 ; H : 8 = 8 ; O : 10 = 6 + 4.
+Dans la réaction CH₄ + 2 O₂ → CO₂ + 2 H₂O, 1,0 mol de CH₄ consomme :|1,0 mol de O₂|4,0 mol de O₂|2,0 mol de O₂|0,5 mol de O₂|2|Le nombre stœchiométrique de O₂ est 2.
+Le réactif limitant est :|le réactif en plus grande quantité|le réactif entièrement consommé en premier|le produit|le solvant|1|Il impose la fin de la transformation.
+Pour 2 H₂ + O₂ → 2 H₂O, on a n₀(H₂) = 3,0 mol et n₀(O₂) = 2,0 mol. L’avancement maximal est :|1,5 mol|2,0 mol|3,0 mol|5,0 mol|0|H₂ : 3,0 ÷ 2 = 1,5 ; O₂ : 2,0 ÷ 1 = 2,0 ; on prend le plus petit : 1,5 mol.
+Dans la situation précédente, quelle est la quantité d’eau formée ?|1,5 mol|2,0 mol|6,0 mol|3,0 mol|3|n(H₂O) = 2 × xmax = 3,0 mol.
+Quelle énergie faut-il pour vaporiser 100 g d’eau (L = 2,26 × 10⁶ J/kg) ?|2,26 × 10⁸ J|22,6 J|2,26 × 10⁵ J|2,26 × 10⁴ J|2|Q = m × L = 0,100 × 2,26 × 10⁶ = 2,26 × 10⁵ J.
+Pendant la fusion de la glace pure, la température du mélange :|augmente|reste égale à 0 °C|diminue|vaut 100 °C|1|Un corps pur change d’état à température constante.
+Quel est le rôle d’un chauffage à reflux ?|Chauffer sans perdre de matière grâce à la condensation des vapeurs|Refroidir le mélange|Filtrer un solide|Mesurer le pH|0|Le réfrigérant condense les vapeurs qui retombent dans le ballon.
+Un pack de froid instantané se refroidit : la transformation est :|exothermique|athermique|impossible|endothermique|3|Le milieu cède de l’énergie à la transformation : endothermique.
+On brûle complètement 2,0 mol de CH₄. Quelle quantité de CO₂ se forme ?|1,0 mol|4,0 mol|2,0 mol|0,50 mol|2|Une mole de CH₄ donne une mole de CO₂.
+Quelle énergie faut-il pour fondre 200 g de glace (L = 3,34 × 10⁵ J/kg) ?|1,67 × 10⁶ J|6,68 × 10⁴ J|6,68 × 10⁷ J|66,8 J|1|Q = 0,200 × 3,34 × 10⁵ = 6,68 × 10⁴ J.
+On mélange 1,0 mol de CH₄ et 1,0 mol de O₂ pour une combustion. Quel est le réactif limitant ?|Le dioxygène|Le méthane|Aucun|Le dioxyde de carbone|0|CH₄ : 1,0 ÷ 1 = 1,0 ; O₂ : 1,0 ÷ 2 = 0,50 ; le plus petit est O₂ : xmax = 0,50 mol.
+Pour 2 C₄H₁₀ + 13 O₂ → 8 CO₂ + 10 H₂O, combien de moles de O₂ faut-il pour brûler 2,0 mol de butane ?|6,5 mol|26 mol|2,0 mol|13 mol|3|2 mol de C₄H₁₀ réagissent avec 13 mol de O₂.
+Quel changement d’état demande le plus d’énergie pour 1 kg d’eau ?|La fusion|La solidification|La vaporisation|Elles sont égales|2|Lvap (2,26 × 10⁶ J/kg) est supérieure à Lfus (3,34 × 10⁵ J/kg).
+Dans l’équation 2 Al + 3 Cl₂ → 2 AlCl₃, le nombre d’atomes de chlore à gauche est :|3|6|2|9|1|3 × 2 = 6 atomes de chlore, comme à droite (2 × 3).

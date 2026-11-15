@@ -3543,6 +3543,85 @@
     },
     {
       "grade": 10,
+      "country": "FR",
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "fr-c10-01",
+          "title": "Corps purs, mélanges et identification",
+          "lessons": [
+            {
+              "id": "fr-c10-01-01",
+              "title": "Espèces chimiques, corps purs et mélanges"
+            },
+            {
+              "id": "fr-c10-01-02",
+              "title": "Identifier une espèce chimique"
+            },
+            {
+              "id": "fr-c10-01-03",
+              "title": "Solutions et concentration en masse"
+            }
+          ]
+        },
+        {
+          "id": "fr-c10-02",
+          "title": "Atome, éléments chimiques et ions",
+          "lessons": [
+            {
+              "id": "fr-c10-02-01",
+              "title": "Constitution de l’atome"
+            },
+            {
+              "id": "fr-c10-02-02",
+              "title": "Cortège électronique et tableau périodique"
+            },
+            {
+              "id": "fr-c10-02-03",
+              "title": "Ions et molécules"
+            }
+          ]
+        },
+        {
+          "id": "fr-c10-03",
+          "title": "Quantité de matière et concentration",
+          "lessons": [
+            {
+              "id": "fr-c10-03-01",
+              "title": "La mole et la masse molaire"
+            },
+            {
+              "id": "fr-c10-03-02",
+              "title": "Concentration en quantité de matière"
+            },
+            {
+              "id": "fr-c10-03-03",
+              "title": "Dilution et dosage par étalonnage"
+            }
+          ]
+        },
+        {
+          "id": "fr-c10-04",
+          "title": "Transformations chimiques et transferts d’énergie",
+          "lessons": [
+            {
+              "id": "fr-c10-04-01",
+              "title": "Transformation chimique et équation de réaction"
+            },
+            {
+              "id": "fr-c10-04-02",
+              "title": "Bilan de matière : avancement et réactif limitant"
+            },
+            {
+              "id": "fr-c10-04-03",
+              "title": "Combustions, synthèses et transferts thermiques"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
       "subject": "Mathematics",
       "country": "RU",
       "chapters": [

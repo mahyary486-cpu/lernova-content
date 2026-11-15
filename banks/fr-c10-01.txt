@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Une espèce chimique est constituée :|d’atomes tous différents|d’entités chimiques identiques|uniquement de molécules|uniquement d’ions|1|Une espèce chimique est un ensemble d’entités identiques : atomes, molécules ou ions.
+Un corps pur est constitué :|d’une seule espèce chimique|de plusieurs espèces chimiques|toujours d’une seule molécule|d’eau uniquement|0|Un corps pur ne contient qu’une espèce chimique.
+Un mélange homogène est un mélange dans lequel on distingue :|plusieurs phases|deux phases solides|aucune espèce|une seule phase|3|Dans un mélange homogène on ne voit qu’une phase.
+Quel gaz est le plus abondant dans l’air ?|Le dioxygène|Le dioxyde de carbone|Le diazote|L’argon|2|L’air contient environ 78 % de diazote.
+À quelle température l’eau pure bout-elle sous 1 013 hPa ?|0 °C|100 °C|50 °C|78 °C|1|La température d’ébullition de l’eau est 100 °C sous 1 013 hPa.
+Quelle est la formule de l’eau ?|H₂O|HO₂|H₂O₂|OH|0|Une molécule d’eau est formée de deux atomes d’hydrogène et d’un atome d’oxygène.
+Quelle est la masse volumique de l’eau ?|0,79 g/mL|13,6 g/mL|0,10 g/mL|1,00 g/mL|3|ρeau = 1,00 g/mL.
+Quel est le rôle de l’éluant dans une CCM ?|Colorer la plaque|Sécher la plaque|Entraîner les espèces le long de la plaque|Chauffer l’échantillon|2|L’éluant monte par capillarité et entraîne les espèces à des vitesses différentes.
+L’eau salée limpide est :|un corps pur|un mélange homogène|un mélange hétérogène|une espèce chimique|1|Elle contient de l’eau et du sel dissous, en une seule phase.
+Quelle relation donne la masse volumique ρ d’un échantillon de masse m et de volume V ?|ρ = m ÷ V|ρ = V ÷ m|ρ = m × V|ρ = m − V|0|La masse volumique est le rapport de la masse au volume.
+50,0 mL d’un liquide ont une masse de 39,5 g. Sa masse volumique est :|1,27 g/mL|1 975 g/mL|0,0127 g/mL|0,790 g/mL|3|ρ = 39,5 ÷ 50,0 = 0,790 g/mL.
+Pendant l’ébullition d’un corps pur, la température :|augmente régulièrement|diminue|reste constante|varie au hasard|2|Un corps pur change d’état à température constante.
+Une huile flotte sur l’eau. On en déduit que :|sa densité est supérieure à 1|sa densité est inférieure à 1|elle est soluble dans l’eau|sa masse est nulle|1|Elle est moins dense que l’eau et non miscible.
+On dissout 5,0 g de sucre pour obtenir 250 mL de solution. La concentration en masse est :|20 g/L|1,25 g/L|0,020 g/L|50 g/L|0|t = m ÷ V = 5,0 ÷ 0,250 = 20 g/L.
+Dans une solution aqueuse de sucre, le solvant est :|le sucre|la solution|l’air|l’eau|3|Le solvant est le liquide dans lequel on dissout ; ici l’eau.
+Le rapport frontal Rf est toujours :|supérieur à 1|négatif|compris entre 0 et 1|égal à 100|2|Une espèce ne peut pas dépasser le front de l’éluant.
+Dans une CCM, une tache d’un échantillon est à 3,0 cm de la ligne de dépôt ; l’éluant a parcouru 6,0 cm. Le rapport frontal vaut :|2,0|0,50|18|3,0|1|Rf = 3,0 ÷ 6,0 = 0,50.
+Un liquide a une densité de 0,79. Sa masse volumique est :|0,79 g/mL|0,79 kg/L|790 g/mL|7,9 g/mL|0|d = ρ ÷ ρeau, donc ρ = 0,79 × 1,00 = 0,79 g/mL.
+Quelle masse de soluté faut-il pour préparer 500 mL d’une solution à 12 g/L ?|24 g|0,024 g|60 g|6,0 g|3|m = t × V = 12 × 0,500 = 6,0 g.
+La masse de 2,50 L d’un liquide de masse volumique 0,79 g/mL est :|3,2 g|0,32 kg|1 975 g|197,5 g|2|V = 2 500 mL ; m = 0,79 × 2 500 = 1 975 g.
+Pourquoi la ligne de dépôt doit-elle être au-dessus du niveau de l’éluant ?|Pour accélérer la migration|Pour que les espèces ne se dissolvent pas dans l’éluant de la cuve|Pour mesurer la température|Pour colorer l’éluant|1|Si les dépôts étaient immergés, les espèces se dissoudraient dans l’éluant.
+Un échantillon est à la fois limpide, incolore et bout à 82 °C avec une température qui augmente pendant l’ébullition. C’est :|un mélange|un corps pur|de l’eau pure|de l’éthanol pur|0|Pour un corps pur, la température reste constante pendant l’ébullition.
+Pour préparer une solution, le volume final est celui :|du solvant versé initialement|du soluté|du bécher de pesée|de la fiole jaugée remplie jusqu’au trait de jauge|3|On complète jusqu’au trait de jauge pour obtenir le volume de solution voulu.
+Une solution de volume 0,250 L contient 3,0 g de soluté. Quel volume de cette solution contient 0,90 g de soluté ?|30 mL|0,75 mL|75 mL|750 mL|2|t = 3,0 ÷ 0,250 = 12 g/L ; V = 0,90 ÷ 12 = 0,075 L = 75 mL.

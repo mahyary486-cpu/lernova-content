@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelles particules constituent le noyau d’un atome ?|Les électrons et les protons|Les électrons seulement|Les protons et les neutrons|Les neutrons et les électrons|2|Le noyau contient des nucléons : protons et neutrons.
+Quelle est la charge d’un proton ?|−e|+e|0|+2e|1|Le proton porte la charge élémentaire positive.
+Un atome est :|électriquement neutre|toujours positif|toujours négatif|sans électrons|0|Il possède autant d’électrons que de protons.
+Que représente le numéro atomique Z ?|Le nombre de neutrons|Le nombre de nucléons|Le nombre de couches|Le nombre de protons|3|Z est le nombre de protons du noyau.
+Combien d’électrons peut contenir au maximum la couche K ?|8|18|2|1|2|La couche K contient au plus 2 électrons.
+Comment appelle-t-on les électrons de la couche externe ?|Électrons du noyau|Électrons de valence|Électrons libres|Nucléons|1|Ce sont les électrons de valence.
+Un ion positif est appelé :|un cation|un anion|un isotope|un nucléon|0|Un cation a perdu un ou plusieurs électrons.
+Quelle est la formule du dioxyde de carbone ?|C₂O|CO|C₂O₂|CO₂|3|Une molécule de dioxyde de carbone contient un atome de carbone et deux atomes d’oxygène.
+Un atome a Z = 11 et A = 23. Combien a-t-il de neutrons ?|11|23|12|34|2|N = A − Z = 23 − 11 = 12.
+Quelle est la structure électronique du carbone (Z = 6) ?|(K)²(L)⁶|(K)²(L)⁴|(K)⁴(L)²|(K)²(L)²(M)²|1|Les 6 électrons se répartissent : 2 sur K, 4 sur L.
+Quel est le nombre d’électrons de valence du chlore (Z = 17) ?|7|17|8|1|0|(K)²(L)⁸(M)⁷ : 7 électrons sur la dernière couche.
+Quel ion forme l’atome de sodium (Z = 11) ?|Na⁻|Na²⁺|Na²⁻|Na⁺|3|Il perd un électron pour atteindre la configuration du néon.
+Les isotopes d’un élément ont :|le même nombre de neutrons|des numéros atomiques différents|le même nombre de protons, mais des nombres de neutrons différents|le même nombre de nucléons|2|Les isotopes ont le même Z mais des A différents.
+Combien de liaisons covalentes forme un atome d’oxygène ?|1|2|3|4|1|L’oxygène a 6 électrons de valence ; il lui en manque 2 pour atteindre l’octet.
+Les atomes d’une même colonne du tableau périodique ont :|le même nombre d’électrons de valence|le même numéro atomique|la même masse|le même nombre de couches|0|Les éléments d’une même colonne forment une famille.
+Combien d’électrons possède l’ion Cl⁻ (Z = 17) ?|17|16|7|18|3|Il a gagné 1 électron : 17 + 1 = 18.
+L’ion Mg²⁺ provient d’un atome de magnésium (Z = 12). Combien d’électrons possède-t-il ?|12|14|10|2|2|Il a perdu 2 électrons : 12 − 2 = 10.
+Quel est l’ordre de grandeur du rapport entre le rayon de l’atome et celui du noyau ?|10|10⁵|10²|10⁻⁵|1|Atome ≈ 10⁻¹⁰ m, noyau ≈ 10⁻¹⁵ m : rapport 10⁵.
+La masse d’un atome est pratiquement égale à :|la masse de son noyau|la masse de ses électrons|zéro|la masse d’un neutron seulement|0|Les électrons sont environ 1 836 fois moins massifs qu’un proton.
+Dans le schéma de Lewis de H₂O, l’atome d’oxygène porte :|4 doublets liants|2 doublets non liants seulement|1 doublet liant et 3 doublets non liants|2 doublets liants et 2 doublets non liants|3|L’oxygène forme 2 liaisons et possède 2 doublets non liants (8 électrons au total).
+L’atome de carbone 14 a Z = 6 et A = 14. Il possède :|6 protons, 14 neutrons, 6 électrons|8 protons, 6 neutrons, 8 électrons|6 protons, 8 neutrons, 6 électrons|14 protons, 8 neutrons, 6 électrons|2|N = 14 − 6 = 8.
+Quelle est la formule de l’oxyde de magnésium formé d’ions Mg²⁺ et O²⁻ ?|Mg₂O|MgO|MgO₂|Mg₂O₂|1|Les charges se compensent : une charge +2 pour une charge −2.
+Le chlorure de calcium contient des ions Ca²⁺ et Cl⁻. Sa formule est :|CaCl₂|Ca₂Cl|CaCl|Ca₂Cl₂|0|Il faut deux Cl⁻ pour compenser la charge 2+ d’un Ca²⁺.
+Quelle propriété commune ont les gaz nobles ?|Un seul électron de valence|Des noyaux sans neutrons|Un numéro atomique toujours égal à 2|Une couche externe complète, donc une grande stabilité|3|Leur couche externe est saturée (duet ou octet), ce qui explique leur inertie chimique.

@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité de la quantité de matière ?|Le gramme (g)|Le litre (L)|Le kilogramme (kg)|La mole (mol)|3|La quantité de matière s’exprime en moles.
+Combien d’entités contient une mole ?|6,02 × 10⁻²³|1 000|6,02 × 10²³|10²³ exactement|2|C’est la valeur de la constante d’Avogadro.
+Quelle relation lie n, N et NA ?|n = N × NA|n = N ÷ NA|n = NA ÷ N|n = N − NA|1|La quantité de matière est le nombre d’entités divisé par NA.
+Quelle est l’unité de la masse molaire ?|g/mol|mol/L|g/L|mol|0|La masse molaire s’exprime en grammes par mole.
+Quelle relation lie la masse m, la masse molaire M et la quantité de matière n ?|n = m × M|n = M ÷ m|n = m − M|n = m ÷ M|3|n est le rapport de la masse à la masse molaire.
+Quelle est l’unité de la concentration en quantité de matière ?|g/L|L/mol|mol/L|g/mol|2|La concentration molaire s’exprime en moles par litre.
+Quelle est la définition de la concentration molaire C ?|C = V ÷ n|C = n ÷ V|C = n × V|C = m ÷ V|1|C est la quantité de matière de soluté par litre de solution.
+Quel instrument permet de prélever avec précision un volume de solution ?|La pipette jaugée|Le bécher|L’éprouvette graduée de 1 L|Le flacon laveur|0|La pipette jaugée mesure précisément un volume donné.
+Quelle est la masse molaire de l’eau (H = 1,0 ; O = 16,0 g/mol) ?|17,0 g/mol|34,0 g/mol|9,0 g/mol|18,0 g/mol|3|M = 2 × 1,0 + 16,0 = 18,0 g/mol.
+Quelle est la quantité de matière dans 36 g d’eau ?|0,50 mol|648 mol|2,0 mol|18 mol|2|n = 36 ÷ 18,0 = 2,0 mol.
+Quelle est la masse molaire du dioxyde de carbone (C = 12,0 ; O = 16,0 g/mol) ?|28,0 g/mol|44,0 g/mol|60,0 g/mol|32,0 g/mol|1|M = 12,0 + 2 × 16,0 = 44,0 g/mol.
+Combien de moles représentent 1,204 × 10²⁴ molécules ?|2,00 mol|0,50 mol|20,0 mol|7,25 × 10⁴⁷ mol|0|n = 1,204 × 10²⁴ ÷ 6,02 × 10²³ = 2,00 mol.
+On dissout 0,100 mol de NaCl pour obtenir 500 mL de solution. La concentration molaire est :|0,0500 mol/L|50,0 mol/L|5,00 mol/L|0,200 mol/L|3|C = 0,100 ÷ 0,500 = 0,200 mol/L.
+Quelle est la masse de 0,50 mol de glucose (M = 180 g/mol) ?|360 g|0,0028 g|90 g|180 g|2|m = n × M = 0,50 × 180 = 90 g.
+Quelle relation lie la concentration en masse t, la concentration molaire C et la masse molaire M ?|t = C ÷ M|t = C × M|t = M ÷ C|t = C + M|1|t = m ÷ V et m = n × M, donc t = C × M.
+On dilue 5 fois une solution à 0,50 mol/L. La concentration de la solution fille est :|0,10 mol/L|2,5 mol/L|0,25 mol/L|5,0 mol/L|0|Cf = Cm ÷ F = 0,50 ÷ 5 = 0,10 mol/L.
+Pour préparer 100 mL de solution diluée 5 fois, quel volume de solution mère faut-il prélever ?|500 mL|5 mL|100 mL|20 mL|3|Vm = Vf ÷ F = 100 ÷ 5 = 20 mL.
+Quelle masse de NaCl (M = 58,5 g/mol) faut-il peser pour préparer 250 mL de solution à 0,10 mol/L ?|14,6 g|0,0146 g|1,46 g|5,85 g|2|n = 0,10 × 0,250 = 0,025 mol ; m = 0,025 × 58,5 ≈ 1,46 g.
+Pour diluer, la quantité de matière de soluté :|double|se conserve|diminue de moitié|devient nulle|1|Seul le volume de solvant change : n est identique avant et après.
+Une solution de glucose à 18 g/L (M = 180 g/mol) a pour concentration molaire :|0,10 mol/L|3 240 mol/L|10 mol/L|0,010 mol/L|0|C = t ÷ M = 18 ÷ 180 = 0,10 mol/L.
+Quel volume de solution à 0,40 mol/L faut-il prélever pour préparer 200 mL d’une solution à 0,050 mol/L ?|8 mL|1,6 mL|160 mL|25 mL|3|Cm × Vm = Cf × Vf donne Vm = 0,050 × 200 ÷ 0,40 = 25 mL.
+Combien d’atomes d’oxygène contient 0,50 mol de molécules d’eau ?|6,02 × 10²³|1,20 × 10²⁴|3,01 × 10²³|1,0|2|Il y a 1 atome d’oxygène par molécule : 0,50 × 6,02 × 10²³ = 3,01 × 10²³.
+Pour un dosage par échelle de teintes, la teinte de la solution à doser est comprise entre celles de 0,20 et 0,30 g/L. On peut dire que sa concentration est :|égale à 0,50 g/L|comprise entre 0,20 et 0,30 g/L|inférieure à 0,10 g/L|exactement 0,25 g/L|1|On l’encadre entre deux étalons voisins.
+On prélève 10,0 mL d’une solution de NaCl à 0,20 mol/L. Quelle quantité de matière de NaCl a-t-on prélevé ?|2,0 × 10⁻³ mol|2,0 mol|0,020 mol|20 mol|0|n = C × V = 0,20 × 0,0100 = 2,0 × 10⁻³ mol.
