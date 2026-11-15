@@ -5570,6 +5570,142 @@
       ]
     },
     {
+      "grade": 12,
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "g12c-ch1",
+          "title": "Acids, Bases and Buffers",
+          "lessons": [
+            {
+              "id": "g12c-ch1-l1",
+              "title": "Acid-Base Theories and Conjugate Pairs"
+            },
+            {
+              "id": "g12c-ch1-l2",
+              "title": "Strength of Acids and Bases: Ka, Kb and Kw"
+            },
+            {
+              "id": "g12c-ch1-l3",
+              "title": "pH Calculations for Strong and Weak Acids and Bases"
+            },
+            {
+              "id": "g12c-ch1-l4",
+              "title": "Buffers and the Henderson-Hasselbalch Equation"
+            },
+            {
+              "id": "g12c-ch1-l5",
+              "title": "Titrations, Indicators and Solubility Equilibria"
+            }
+          ]
+        },
+        {
+          "id": "g12c-ch2",
+          "title": "Oxidation-Reduction and Electrochemistry",
+          "lessons": [
+            {
+              "id": "g12c-ch2-l1",
+              "title": "Oxidation Numbers and Redox Reactions"
+            },
+            {
+              "id": "g12c-ch2-l2",
+              "title": "Balancing Redox Equations"
+            },
+            {
+              "id": "g12c-ch2-l3",
+              "title": "Galvanic Cells and Standard Electrode Potentials"
+            },
+            {
+              "id": "g12c-ch2-l4",
+              "title": "Electrolysis and Faraday's Laws"
+            },
+            {
+              "id": "g12c-ch2-l5",
+              "title": "The Nernst Equation, Batteries and Corrosion"
+            }
+          ]
+        },
+        {
+          "id": "g12c-ch3",
+          "title": "Organic Chemistry Basics",
+          "lessons": [
+            {
+              "id": "g12c-ch3-l1",
+              "title": "Hydrocarbons: Alkanes and Their Names"
+            },
+            {
+              "id": "g12c-ch3-l2",
+              "title": "Alkenes, Alkynes and Aromatic Compounds"
+            },
+            {
+              "id": "g12c-ch3-l3",
+              "title": "Functional Groups and Their Compounds"
+            },
+            {
+              "id": "g12c-ch3-l4",
+              "title": "Isomerism and Organic Reactions"
+            },
+            {
+              "id": "g12c-ch3-l5",
+              "title": "Organic Synthesis and Analysis Methods"
+            }
+          ]
+        },
+        {
+          "id": "g12c-ch4",
+          "title": "Polymers and Biochemistry",
+          "lessons": [
+            {
+              "id": "g12c-ch4-l1",
+              "title": "Addition Polymers"
+            },
+            {
+              "id": "g12c-ch4-l2",
+              "title": "Condensation Polymers"
+            },
+            {
+              "id": "g12c-ch4-l3",
+              "title": "Carbohydrates and Lipids"
+            },
+            {
+              "id": "g12c-ch4-l4",
+              "title": "Proteins and Amino Acids"
+            },
+            {
+              "id": "g12c-ch4-l5",
+              "title": "Nucleic Acids and Metabolism"
+            }
+          ]
+        },
+        {
+          "id": "g12c-ch5",
+          "title": "Nuclear and Environmental Chemistry",
+          "lessons": [
+            {
+              "id": "g12c-ch5-l1",
+              "title": "Nuclear Reactions and Radioactive Decay"
+            },
+            {
+              "id": "g12c-ch5-l2",
+              "title": "Half-Life, Dating and Radiation Safety"
+            },
+            {
+              "id": "g12c-ch5-l3",
+              "title": "Fission, Fusion and Nuclear Energy"
+            },
+            {
+              "id": "g12c-ch5-l4",
+              "title": "Atmospheric Chemistry: Pollution, Greenhouse Effect and Ozone"
+            },
+            {
+              "id": "g12c-ch5-l5",
+              "title": "Water Chemistry, Green Chemistry and Sustainability"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "grade": 9,
       "subject": "Algebra 1",
       "chapters": [
@@ -12700,6 +12836,211 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 11,
+      "subject": "Chemistry",
+      "country": "IN",
+      "chapters": [
+        {
+          "id": "in-c11-bc",
+          "title": "Some Basic Concepts of Chemistry",
+          "lessons": [
+            {
+              "id": "in-c11-bc-01",
+              "title": "Laws of chemical combination"
+            },
+            {
+              "id": "in-c11-bc-02",
+              "title": "Mole concept and molar mass"
+            },
+            {
+              "id": "in-c11-bc-03",
+              "title": "Composition and formulae"
+            },
+            {
+              "id": "in-c11-bc-04",
+              "title": "Stoichiometry and concentration"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-sa",
+          "title": "Structure of Atom",
+          "lessons": [
+            {
+              "id": "in-c11-sa-01",
+              "title": "Subatomic particles and early atomic models"
+            },
+            {
+              "id": "in-c11-sa-02",
+              "title": "Bohr's model and the hydrogen spectrum"
+            },
+            {
+              "id": "in-c11-sa-03",
+              "title": "Quantum mechanical model and quantum numbers"
+            },
+            {
+              "id": "in-c11-sa-04",
+              "title": "Electronic configuration"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-pt",
+          "title": "Classification of Elements and Periodicity in Properties",
+          "lessons": [
+            {
+              "id": "in-c11-pt-01",
+              "title": "The periodic table"
+            },
+            {
+              "id": "in-c11-pt-02",
+              "title": "Periods, groups and blocks"
+            },
+            {
+              "id": "in-c11-pt-03",
+              "title": "Atomic radius and ionisation enthalpy"
+            },
+            {
+              "id": "in-c11-pt-04",
+              "title": "Electron gain enthalpy, electronegativity and valence"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-cb",
+          "title": "Chemical Bonding and Molecular Structure",
+          "lessons": [
+            {
+              "id": "in-c11-cb-01",
+              "title": "Ionic and covalent bonding"
+            },
+            {
+              "id": "in-c11-cb-02",
+              "title": "VSEPR theory and shapes"
+            },
+            {
+              "id": "in-c11-cb-03",
+              "title": "Hybridisation and valence bond theory"
+            },
+            {
+              "id": "in-c11-cb-04",
+              "title": "Molecular orbital theory and hydrogen bonding"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-th",
+          "title": "Thermodynamics",
+          "lessons": [
+            {
+              "id": "in-c11-th-01",
+              "title": "System, state functions and the first law"
+            },
+            {
+              "id": "in-c11-th-02",
+              "title": "Enthalpy and Hess's law"
+            },
+            {
+              "id": "in-c11-th-03",
+              "title": "Types of enthalpy change"
+            },
+            {
+              "id": "in-c11-th-04",
+              "title": "Entropy and Gibbs energy"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-eq",
+          "title": "Equilibrium",
+          "lessons": [
+            {
+              "id": "in-c11-eq-01",
+              "title": "Chemical equilibrium and the equilibrium constant"
+            },
+            {
+              "id": "in-c11-eq-02",
+              "title": "Le Chatelier's principle"
+            },
+            {
+              "id": "in-c11-eq-03",
+              "title": "Ionic equilibrium: acids, bases and pH"
+            },
+            {
+              "id": "in-c11-eq-04",
+              "title": "Buffers and solubility equilibria"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-rx",
+          "title": "Redox Reactions",
+          "lessons": [
+            {
+              "id": "in-c11-rx-01",
+              "title": "Oxidation and reduction"
+            },
+            {
+              "id": "in-c11-rx-02",
+              "title": "Oxidation number"
+            },
+            {
+              "id": "in-c11-rx-03",
+              "title": "Types of redox reactions and balancing"
+            },
+            {
+              "id": "in-c11-rx-04",
+              "title": "Redox and electrochemistry"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-og",
+          "title": "Organic Chemistry: Some Basic Principles and Techniques",
+          "lessons": [
+            {
+              "id": "in-c11-og-01",
+              "title": "Classification and nomenclature"
+            },
+            {
+              "id": "in-c11-og-02",
+              "title": "Isomerism"
+            },
+            {
+              "id": "in-c11-og-03",
+              "title": "Electronic displacements and reaction intermediates"
+            },
+            {
+              "id": "in-c11-og-04",
+              "title": "Purification and analysis"
+            }
+          ]
+        },
+        {
+          "id": "in-c11-hy",
+          "title": "Hydrocarbons",
+          "lessons": [
+            {
+              "id": "in-c11-hy-01",
+              "title": "Alkanes"
+            },
+            {
+              "id": "in-c11-hy-02",
+              "title": "Alkenes"
+            },
+            {
+              "id": "in-c11-hy-03",
+              "title": "Alkynes"
+            },
+            {
+              "id": "in-c11-hy-04",
+              "title": "Aromatic hydrocarbons"
+            }
+          ]
+        }
+      ]
     }
-  ,{"grade": 11, "subject": "Chemistry", "country": "IN", "chapters": [{"id": "in-c11-bc", "title": "Some Basic Concepts of Chemistry", "lessons": [{"id": "in-c11-bc-01", "title": "Laws of chemical combination"}, {"id": "in-c11-bc-02", "title": "Mole concept and molar mass"}, {"id": "in-c11-bc-03", "title": "Composition and formulae"}, {"id": "in-c11-bc-04", "title": "Stoichiometry and concentration"}]}, {"id": "in-c11-sa", "title": "Structure of Atom", "lessons": [{"id": "in-c11-sa-01", "title": "Subatomic particles and early atomic models"}, {"id": "in-c11-sa-02", "title": "Bohr's model and the hydrogen spectrum"}, {"id": "in-c11-sa-03", "title": "Quantum mechanical model and quantum numbers"}, {"id": "in-c11-sa-04", "title": "Electronic configuration"}]}, {"id": "in-c11-pt", "title": "Classification of Elements and Periodicity in Properties", "lessons": [{"id": "in-c11-pt-01", "title": "The periodic table"}, {"id": "in-c11-pt-02", "title": "Periods, groups and blocks"}, {"id": "in-c11-pt-03", "title": "Atomic radius and ionisation enthalpy"}, {"id": "in-c11-pt-04", "title": "Electron gain enthalpy, electronegativity and valence"}]},{"id": "in-c11-cb", "title": "Chemical Bonding and Molecular Structure", "lessons": [{"id": "in-c11-cb-01", "title": "Ionic and covalent bonding"}, {"id": "in-c11-cb-02", "title": "VSEPR theory and shapes"}, {"id": "in-c11-cb-03", "title": "Hybridisation and valence bond theory"}, {"id": "in-c11-cb-04", "title": "Molecular orbital theory and hydrogen bonding"}]},{"id": "in-c11-th", "title": "Thermodynamics", "lessons": [{"id": "in-c11-th-01", "title": "System, state functions and the first law"}, {"id": "in-c11-th-02", "title": "Enthalpy and Hess's law"}, {"id": "in-c11-th-03", "title": "Types of enthalpy change"}, {"id": "in-c11-th-04", "title": "Entropy and Gibbs energy"}]},{"id": "in-c11-eq", "title": "Equilibrium", "lessons": [{"id": "in-c11-eq-01", "title": "Chemical equilibrium and the equilibrium constant"}, {"id": "in-c11-eq-02", "title": "Le Chatelier's principle"}, {"id": "in-c11-eq-03", "title": "Ionic equilibrium: acids, bases and pH"}, {"id": "in-c11-eq-04", "title": "Buffers and solubility equilibria"}]},{"id": "in-c11-rx", "title": "Redox Reactions", "lessons": [{"id": "in-c11-rx-01", "title": "Oxidation and reduction"}, {"id": "in-c11-rx-02", "title": "Oxidation number"}, {"id": "in-c11-rx-03", "title": "Types of redox reactions and balancing"}, {"id": "in-c11-rx-04", "title": "Redox and electrochemistry"}]},{"id": "in-c11-og", "title": "Organic Chemistry: Some Basic Principles and Techniques", "lessons": [{"id": "in-c11-og-01", "title": "Classification and nomenclature"}, {"id": "in-c11-og-02", "title": "Isomerism"}, {"id": "in-c11-og-03", "title": "Electronic displacements and reaction intermediates"}, {"id": "in-c11-og-04", "title": "Purification and analysis"}]},{"id": "in-c11-hy", "title": "Hydrocarbons", "lessons": [{"id": "in-c11-hy-01", "title": "Alkanes"}, {"id": "in-c11-hy-02", "title": "Alkenes"}, {"id": "in-c11-hy-03", "title": "Alkynes"}, {"id": "in-c11-hy-04", "title": "Aromatic hydrocarbons"}]}]}]
+  ]
 }

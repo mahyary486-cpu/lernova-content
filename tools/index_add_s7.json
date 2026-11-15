@@ -1,0 +1,138 @@
+[
+ {
+  "grade": 12,
+  "subject": "Chemistry",
+  "chapters": [
+   {
+    "id": "g12c-ch1",
+    "title": "Acids, Bases and Buffers",
+    "lessons": [
+     {
+      "id": "g12c-ch1-l1",
+      "title": "Acid-Base Theories and Conjugate Pairs"
+     },
+     {
+      "id": "g12c-ch1-l2",
+      "title": "Strength of Acids and Bases: Ka, Kb and Kw"
+     },
+     {
+      "id": "g12c-ch1-l3",
+      "title": "pH Calculations for Strong and Weak Acids and Bases"
+     },
+     {
+      "id": "g12c-ch1-l4",
+      "title": "Buffers and the Henderson-Hasselbalch Equation"
+     },
+     {
+      "id": "g12c-ch1-l5",
+      "title": "Titrations, Indicators and Solubility Equilibria"
+     }
+    ]
+   },
+   {
+    "id": "g12c-ch2",
+    "title": "Oxidation-Reduction and Electrochemistry",
+    "lessons": [
+     {
+      "id": "g12c-ch2-l1",
+      "title": "Oxidation Numbers and Redox Reactions"
+     },
+     {
+      "id": "g12c-ch2-l2",
+      "title": "Balancing Redox Equations"
+     },
+     {
+      "id": "g12c-ch2-l3",
+      "title": "Galvanic Cells and Standard Electrode Potentials"
+     },
+     {
+      "id": "g12c-ch2-l4",
+      "title": "Electrolysis and Faraday's Laws"
+     },
+     {
+      "id": "g12c-ch2-l5",
+      "title": "The Nernst Equation, Batteries and Corrosion"
+     }
+    ]
+   },
+   {
+    "id": "g12c-ch3",
+    "title": "Organic Chemistry Basics",
+    "lessons": [
+     {
+      "id": "g12c-ch3-l1",
+      "title": "Hydrocarbons: Alkanes and Their Names"
+     },
+     {
+      "id": "g12c-ch3-l2",
+      "title": "Alkenes, Alkynes and Aromatic Compounds"
+     },
+     {
+      "id": "g12c-ch3-l3",
+      "title": "Functional Groups and Their Compounds"
+     },
+     {
+      "id": "g12c-ch3-l4",
+      "title": "Isomerism and Organic Reactions"
+     },
+     {
+      "id": "g12c-ch3-l5",
+      "title": "Organic Synthesis and Analysis Methods"
+     }
+    ]
+   },
+   {
+    "id": "g12c-ch4",
+    "title": "Polymers and Biochemistry",
+    "lessons": [
+     {
+      "id": "g12c-ch4-l1",
+      "title": "Addition Polymers"
+     },
+     {
+      "id": "g12c-ch4-l2",
+      "title": "Condensation Polymers"
+     },
+     {
+      "id": "g12c-ch4-l3",
+      "title": "Carbohydrates and Lipids"
+     },
+     {
+      "id": "g12c-ch4-l4",
+      "title": "Proteins and Amino Acids"
+     },
+     {
+      "id": "g12c-ch4-l5",
+      "title": "Nucleic Acids and Metabolism"
+     }
+    ]
+   },
+   {
+    "id": "g12c-ch5",
+    "title": "Nuclear and Environmental Chemistry",
+    "lessons": [
+     {
+      "id": "g12c-ch5-l1",
+      "title": "Nuclear Reactions and Radioactive Decay"
+     },
+     {
+      "id": "g12c-ch5-l2",
+      "title": "Half-Life, Dating and Radiation Safety"
+     },
+     {
+      "id": "g12c-ch5-l3",
+      "title": "Fission, Fusion and Nuclear Energy"
+     },
+     {
+      "id": "g12c-ch5-l4",
+      "title": "Atmospheric Chemistry: Pollution, Greenhouse Effect and Ozone"
+     },
+     {
+      "id": "g12c-ch5-l5",
+      "title": "Water Chemistry, Green Chemistry and Sustainability"
+     }
+    ]
+   }
+  ]
+ }
+]
