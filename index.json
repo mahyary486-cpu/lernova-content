@@ -3446,6 +3446,103 @@
     },
     {
       "grade": 10,
+      "country": "FR",
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "fr-p10-01",
+          "title": "Décrire un mouvement",
+          "lessons": [
+            {
+              "id": "fr-p10-01-01",
+              "title": "Système, référentiel et trajectoire"
+            },
+            {
+              "id": "fr-p10-01-02",
+              "title": "Vecteur vitesse moyen et vitesse instantanée"
+            },
+            {
+              "id": "fr-p10-01-03",
+              "title": "Variation du vecteur vitesse et types de mouvement"
+            }
+          ]
+        },
+        {
+          "id": "fr-p10-02",
+          "title": "Modéliser une action : forces et principe d’inertie",
+          "lessons": [
+            {
+              "id": "fr-p10-02-01",
+              "title": "Interactions et notion de force"
+            },
+            {
+              "id": "fr-p10-02-02",
+              "title": "Poids et interaction gravitationnelle"
+            },
+            {
+              "id": "fr-p10-02-03",
+              "title": "Principe d’inertie"
+            }
+          ]
+        },
+        {
+          "id": "fr-p10-03",
+          "title": "Signaux sonores",
+          "lessons": [
+            {
+              "id": "fr-p10-03-01",
+              "title": "Production et propagation du son"
+            },
+            {
+              "id": "fr-p10-03-02",
+              "title": "Fréquence, période et caractéristiques d’un son"
+            },
+            {
+              "id": "fr-p10-03-03",
+              "title": "Signaux enregistrés : oscillogramme et mesures"
+            }
+          ]
+        },
+        {
+          "id": "fr-p10-04",
+          "title": "Signaux lumineux",
+          "lessons": [
+            {
+              "id": "fr-p10-04-01",
+              "title": "Propagation de la lumière"
+            },
+            {
+              "id": "fr-p10-04-02",
+              "title": "Réflexion et réfraction"
+            },
+            {
+              "id": "fr-p10-04-03",
+              "title": "Spectres lumineux et lentilles convergentes"
+            }
+          ]
+        },
+        {
+          "id": "fr-p10-05",
+          "title": "Signaux électriques",
+          "lessons": [
+            {
+              "id": "fr-p10-05-01",
+              "title": "Intensité, tension et mesures"
+            },
+            {
+              "id": "fr-p10-05-02",
+              "title": "Lois des nœuds, des mailles et d’Ohm"
+            },
+            {
+              "id": "fr-p10-05-03",
+              "title": "Caractéristique d’un dipôle et capteurs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 10,
       "subject": "Mathematics",
       "country": "RU",
       "chapters": [

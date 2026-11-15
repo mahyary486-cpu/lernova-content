@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Dans quelle unité mesure-t-on une force ?|Le kilogramme (kg)|Le joule (J)|Le newton (N)|Le watt (W)|2|L’unité de force du SI est le newton.
+Quel appareil permet de mesurer une force ?|Le chronomètre|Le dynamomètre|Le thermomètre|Le voltmètre|1|Le dynamomètre mesure la valeur d’une force.
+Une force est représentée par :|un vecteur|un nombre seul|une courbe|un point seul|0|Une force a un point d’application, une direction, un sens et une valeur : c’est un vecteur.
+Laquelle de ces actions s’exerce à distance ?|La réaction du sol|La tension d’un fil|Les frottements du sol|Le poids|3|Le poids est l’attraction de la Terre, sans contact.
+Quelle est la relation entre poids et masse ?|P = m ÷ g|P = g ÷ m|P = m × g|P = m + g|2|Le poids est le produit de la masse par l’intensité de la pesanteur.
+Dans quelle unité s’exprime la masse ?|Le newton|Le kilogramme|Le mètre par seconde|Le joule|1|La masse se mesure en kilogrammes.
+Quelle est la valeur approchée de g sur Terre ?|9,8 N/kg|1,6 N/kg|98 N/kg|0,98 N/kg|0|À la surface de la Terre, g ≈ 9,8 N/kg.
+Si un objet est immobile, les forces qui s’exercent sur lui :|s’additionnent pour donner une force non nulle|n’existent pas|sont toutes dirigées vers le haut|se compensent|3|Immobile signifie que la somme vectorielle des forces est nulle.
+Quel est le poids d’un objet de 5,0 kg sur Terre (g = 9,8 N/kg) ?|0,51 N|5,0 N|49 N|4,9 N|2|P = m × g = 5,0 × 9,8 = 49 N.
+Quel est le poids d’un astronaute de 80 kg sur la Lune (g = 1,6 N/kg) ?|784 N|128 N|50 N|12,8 N|1|P = 80 × 1,6 = 128 N.
+Quelle formule donne la valeur de la force gravitationnelle entre deux corps A et B ?|F = G × mA × mB ÷ d²|F = G × (mA + mB) ÷ d|F = mA × mB ÷ (G × d)|F = G × d² ÷ (mA × mB)|0|La force est proportionnelle aux masses et inversement proportionnelle au carré de la distance.
+Si la distance entre deux corps est doublée, la force gravitationnelle est :|divisée par 2|multipliée par 2|multipliée par 4|divisée par 4|3|F varie en 1 ÷ d² : 2² = 4.
+Un livre de poids 3,0 N repose sur une table. La réaction de la table vaut :|3,0 N, vers le bas|0 N|3,0 N, vers le haut|6,0 N|2|Le livre est immobile : la réaction compense le poids.
+Les forces exercées par A sur B et par B sur A ont :|le même sens et des valeurs différentes|la même direction, des sens opposés et la même valeur|des directions différentes|des valeurs différentes et le même sens|1|C’est le principe des actions réciproques.
+Un système en mouvement rectiligne uniforme est soumis à des forces qui :|se compensent|ne se compensent pas|sont toutes nulles|sont dirigées dans le sens du mouvement uniquement|0|D’après le principe d’inertie, la somme des forces est nulle.
+Quelle grandeur est invariable quel que soit l’astre ?|Le poids|L’intensité de la pesanteur|La force de gravitation|La masse|3|La masse est la quantité de matière ; le poids dépend de g.
+Un objet de masse 2,0 kg pèse 3,2 N sur un astre. Quelle est l’intensité de la pesanteur à sa surface ?|6,4 N/kg|0,63 N/kg|1,6 N/kg|9,8 N/kg|2|g = P ÷ m = 3,2 ÷ 2,0 = 1,6 N/kg.
+Deux sphères de 1,0 × 10³ kg dont les centres sont à 1,0 m s’attirent avec une force de :|6,67 × 10⁻¹¹ N|6,67 × 10⁻⁵ N|6,67 × 10⁻² N|6,67 × 10 N|1|F = 6,67 × 10⁻¹¹ × 10³ × 10³ ÷ 1² = 6,67 × 10⁻⁵ N.
+Une voiture roule en ligne droite à vitesse constante. Les frottements valent 800 N. La force motrice vaut :|800 N, dans le sens du mouvement|0 N|800 N, dans le sens opposé au mouvement|1 600 N|0|Vitesse constante : les forces se compensent, donc la force motrice égale les frottements et s’y oppose.
+Si les forces qui s’exercent sur un système ne se compensent pas, alors :|le système est nécessairement immobile|le mouvement est rectiligne uniforme|le système n’a pas de poids|le vecteur vitesse varie|3|Le principe d’inertie impose que le vecteur vitesse varie.
+Un parachutiste atteint une vitesse limite constante en descendant verticalement. On peut affirmer que :|le poids est nul|les frottements sont nuls|les frottements compensent le poids|les frottements sont supérieurs au poids|2|Vitesse constante : les forces se compensent.
+Quelle est l’intensité de la pesanteur à la surface d’un astre de masse M et de rayon R ?|g = G × M × R²|g = G × M ÷ R²|g = G × R ÷ M²|g = G ÷ (M × R)|1|En égalant m × g à G × m × M ÷ R², on obtient g = G × M ÷ R².
+La Terre attire la Lune avec une force F. La Lune attire la Terre avec une force :|de même valeur F et de sens opposé|beaucoup plus petite|beaucoup plus grande|nulle|0|Les forces réciproques ont la même valeur et des sens opposés.
+Un objet pèse 600 N sur Terre (g = 9,8 N/kg). Sa masse est environ :|5 880 kg|600 kg|0,016 kg|61 kg|3|m = P ÷ g = 600 ÷ 9,8 ≈ 61 kg.

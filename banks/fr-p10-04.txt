@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Dans un milieu homogène et transparent, la lumière se propage :|en ligne droite|en cercle|en zigzag|en spirale|0|Dans un milieu homogène et transparent, la propagation est rectiligne.
+Quelle est la vitesse de la lumière dans le vide ?|340 m/s|3,00 × 10⁶ m/s|3,00 × 10³ km/h|3,00 × 10⁸ m/s|3|c = 3,00 × 10⁸ m/s.
+La lumière visible a des longueurs d’onde d’environ :|4 nm à 8 nm|400 µm à 800 µm|400 nm à 800 nm|4 m à 8 m|2|Le visible va du violet (400 nm) au rouge (800 nm).
+L’indice de réfraction d’un milieu transparent est toujours :|inférieur à 1|supérieur ou égal à 1|égal à 0|négatif|1|n = c ÷ v et v ne dépasse pas c, donc n ≥ 1.
+Quelle source donne un spectre continu ?|Une lampe à incandescence|Une lampe à vapeur de sodium|Un laser|Un tube à gaz à basse pression|0|Un solide chaud émet un spectre continu.
+Une lentille convergente fait converger un faisceau parallèle à son axe optique en :|son centre optique|l’infini|un point quelconque|son foyer image|3|Les rayons parallèles à l’axe passent par le foyer image F′.
+Les angles d’incidence et de réflexion sont mesurés par rapport :|à la surface|à l’axe optique|à la normale à la surface|à l’horizontale|2|Les angles se mesurent par rapport à la normale au point d’incidence.
+Dans la loi de la réflexion, l’angle de réflexion est :|le double de l’angle d’incidence|égal à l’angle d’incidence|nul|supérieur de 90°|1|Loi de la réflexion : θ′₁ = θ₁.
+Combien de temps met la lumière du Soleil à nous parvenir (d = 1,5 × 10¹¹ m) ?|500 s|50 s|5,0 × 10⁻³ s|4,5 × 10¹⁹ s|0|t = d ÷ c = 1,5 × 10¹¹ ÷ 3,00 × 10⁸ = 500 s.
+Quelle relation donne l’indice n d’un milieu où la lumière a la vitesse v ?|n = v ÷ c|n = c × v|n = c − v|n = c ÷ v|3|L’indice est le rapport de la vitesse dans le vide à celle dans le milieu.
+Comment se dévie un rayon qui passe de l’air (n = 1,00) à l’eau (n = 1,33) ?|Il s’éloigne de la normale|Il n’est pas dévié|Il se rapproche de la normale|Il revient en arrière|2|n₂ > n₁ donc sin θ₂ < sin θ₁ : le rayon se rapproche de la normale.
+Un spectre de raies d’émission est produit par :|un solide incandescent|un gaz excité à basse pression|une lampe à filament|une bougie|1|Un gaz excité émet seulement quelques radiations précises.
+Quelle est l’expression de la loi de Snell-Descartes pour la réfraction ?|n₁ sin θ₁ = n₂ sin θ₂|n₁ θ₁ = n₂ θ₂|n₁ cos θ₁ = n₂ cos θ₂|θ₁ = θ₂|0|C’est la loi de la réfraction avec les sinus des angles.
+Que relie la loi de Wien ?|L’indice et la vitesse|La fréquence et la période|La focale et l’indice|La température d’un corps chaud et la longueur d’onde du maximum d’émission|3|λmax × T = 2,898 × 10⁻³ m·K.
+Un rayon arrive sur un miroir plan avec un angle d’incidence de 35°. L’angle de réflexion vaut :|55°|70°|35°|145°|2|L’angle de réflexion est égal à l’angle d’incidence.
+Un rayon qui passe par le centre optique d’une lentille mince est :|dévié vers le foyer|non dévié|réfléchi|absorbé|1|C’est l’un des trois rayons particuliers.
+Un rayon passe de l’air (n = 1,00) dans l’eau (n = 1,33) avec θ₁ = 40°. L’angle de réfraction vaut environ :|29°|53°|40°|19°|0|sin θ₂ = sin 40° ÷ 1,33 = 0,643 ÷ 1,33 ≈ 0,483, soit θ₂ ≈ 29°.
+Quelle est la température approximative d’une étoile dont λmax = 580 nm ?|500 K|50 000 K|5,0 K|5 000 K|3|T = 2,898 × 10⁻³ ÷ 5,8 × 10⁻⁷ ≈ 5 000 K.
+Une lentille de distance focale f′ = 10 cm a pour vergence :|0,10 δ|1,0 δ|10 δ|100 δ|2|C = 1 ÷ f′ = 1 ÷ 0,10 m = 10 δ.
+Un objet est à 30 cm d’une lentille convergente de distance focale 10 cm. L’image se forme à :|30 cm derrière la lentille|15 cm derrière la lentille|10 cm devant la lentille|7,5 cm derrière la lentille|1|1 ÷ OA′ = 1 ÷ 10 − 1 ÷ 30 = 2 ÷ 30, donc OA′ = 15 cm.
+Pour le passage verre (n = 1,5) vers air (n = 1,00), l’angle limite de réflexion totale est d’environ :|42°|48°|90°|60°|0|sin θlim = 1 ÷ 1,5 ≈ 0,667, soit θlim ≈ 42°.
+Une année-lumière est :|une durée|une vitesse|une fréquence|une distance|3|C’est la distance parcourue par la lumière en un an.
+Une étoile est à 4,0 années-lumière. La lumière qu’elle émet met pour nous parvenir :|4,0 s|4,0 mois|4,0 ans|1,3 an|2|Par définition, la lumière parcourt 4,0 années-lumière en 4,0 ans.
+Dans une fibre optique, la lumière reste confinée grâce à :|la réfraction vers l’extérieur|la réflexion totale|l’absorption du rayon|la diffusion de la lumière blanche|1|Les réflexions totales successives guident la lumière dans le cœur de la fibre.

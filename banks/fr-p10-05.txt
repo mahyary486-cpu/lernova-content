@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’unité de l’intensité du courant ?|Le volt (V)|L’ampère (A)|L’ohm (Ω)|Le watt (W)|1|L’intensité s’exprime en ampères.
+L’ampèremètre se branche :|en série|en dérivation|aux bornes du générateur seulement|n’importe comment|0|Il mesure l’intensité du courant qui le traverse.
+Un voltmètre se branche :|en série|dans le générateur|sans appareil|en dérivation|3|Il se place aux bornes du dipôle dont on mesure la tension.
+Quelle est l’unité de la résistance ?|Le coulomb (C)|L’ampère (A)|L’ohm (Ω)|Le volt (V)|2|La résistance s’exprime en ohms.
+Quelle est la loi d’Ohm pour un conducteur ohmique ?|U = R ÷ I|U = R × I|U = I ÷ R|U = R + I|1|La tension est proportionnelle à l’intensité.
+Dans un circuit en série, l’intensité du courant est :|la même en tout point|nulle|différente dans chaque dipôle|toujours la plus grande au centre|0|Il n’y a pas de nœud : le courant est le même partout.
+Dans un métal, les porteurs de charge sont :|les protons|les neutrons|les molécules|les électrons|3|Dans un métal, ce sont les électrons qui se déplacent.
+La caractéristique d’un conducteur ohmique est :|une parabole|une droite horizontale|une droite passant par l’origine|une courbe décroissante|2|U = R × I est une fonction linéaire de I.
+Une résistance de 100 Ω est traversée par un courant de 30 mA. Quelle est la tension à ses bornes ?|3 000 V|3,0 V|0,30 V|0,33 V|1|U = R × I = 100 × 0,030 = 3,0 V.
+Un conducteur ohmique est soumis à 6,0 V et traversé par 0,020 A. Sa résistance est :|300 Ω|0,0033 Ω|120 Ω|0,12 Ω|0|R = U ÷ I = 6,0 ÷ 0,020 = 300 Ω.
+En dérivation, deux branches sont traversées par I₁ = 0,20 A et I₂ = 0,30 A. L’intensité dans la branche principale est :|0,10 A|0,060 A|0,25 A|0,50 A|3|Loi des nœuds : I = I₁ + I₂ = 0,50 A.
+Deux conducteurs ohmiques de 220 Ω et 330 Ω sont en série. Leur résistance équivalente vaut :|132 Ω|110 Ω|550 Ω|1,5 Ω|2|En série, on additionne les résistances.
+Deux dipôles en série ont pour tensions U₁ = 4,0 V et U₂ = 8,0 V. La tension aux bornes de l’ensemble est :|4,0 V|12 V|2,0 V|32 V|1|En série, U = U₁ + U₂ = 12 V.
+Une charge de 12 C traverse un fil en 4,0 s. L’intensité est :|3,0 A|48 A|0,33 A|8,0 A|0|I = Q ÷ Δt = 12 ÷ 4,0 = 3,0 A.
+La résistance d’une CTN diminue quand :|la température diminue|la tension diminue|l’intensité diminue|la température augmente|3|Une CTN est un capteur de température à coefficient négatif.
+Une photorésistance (LDR) est un capteur sensible à :|le son|la masse|l’éclairement|la vitesse|2|Sa résistance varie avec la lumière reçue.
+Une lampe est branchée en dérivation avec un moteur. La tension aux bornes de la lampe est 6,0 V. Celle aux bornes du moteur est :|3,0 V|6,0 V|12 V|0 V|1|Des dipôles en dérivation ont la même tension.
+À un nœud, 1,2 A arrive et deux branches repartent. L’une est traversée par 0,45 A. L’intensité dans l’autre est :|0,75 A|1,65 A|0,54 A|0,45 A|0|1,2 − 0,45 = 0,75 A.
+Deux résistances de 220 Ω et 330 Ω en série sous 12 V sont traversées par une intensité de :|2,2 A|0,22 A|55 mA|22 mA|3|I = 12 ÷ 550 ≈ 0,022 A = 22 mA.
+Sur la caractéristique U = f(I) d’un conducteur ohmique, la pente représente :|l’inverse de la tension|l’intensité maximale|la résistance R|la charge Q|2|U = R × I : le coefficient directeur est R.
+Sous une tension constante de 9,0 V, si la résistance double, l’intensité est :|multipliée par 2|divisée par 2|inchangée|multipliée par 4|1|I = U ÷ R : si R double, I est divisée par 2.
+Un ampèremètre branché en dérivation aux bornes d’une résistance risque :|de provoquer un court-circuit et d’être détruit|de mesurer la tension|de ne rien changer|de mesurer la résistance|0|Sa résistance est presque nulle : il se comporte comme un fil.
+L’étalonnage d’un capteur consiste à :|changer la couleur du capteur|augmenter la tension d’alimentation|supprimer la résistance du circuit|relier la valeur électrique mesurée à la grandeur physique étudiée|3|On obtient une courbe qui permet de convertir la mesure en grandeur physique.
+Une résistance R = 470 Ω est alimentée sous 4,7 V. L’intensité vaut :|1,0 A|0,10 mA|10 mA|99 mA|2|I = U ÷ R = 4,7 ÷ 470 = 0,010 A = 10 mA.
