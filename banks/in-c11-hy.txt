@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The general formula of alkanes is|CₙH₂ₙ₊₂|CₙH₂ₙ|CₙH₂ₙ₋₂|CₙHₙ|0|Saturated hydrocarbons.
+The general formula of alkenes is|CₙH₂ₙ₊₂|CₙH₂ₙ|CₙH₂ₙ₋₂|CₙHₙ|1|One double bond.
+The general formula of alkynes is|CₙH₂ₙ|CₙH₂ₙ₊₂|CₙH₂ₙ₋₂|CₙHₙ|2|One triple bond.
+Alkanes are also called|olefins|acetylenes|arenes|paraffins|3|Little affinity.
+Alkenes are also called|olefins|paraffins|acetylenes|arenes|0|Oil-forming.
+The simplest alkene is|methene|ethene|propene|butene|1|C₂H₄.
+The simplest alkyne is|propyne|methyne|ethyne|butyne|2|C₂H₂.
+The molecular formula of benzene is|C₆H₁₂|C₆H₁₄|C₅H₆|C₆H₆|3|An aromatic hydrocarbon.
+Benzene is classified as|aromatic|aliphatic|alicyclic|saturated|0|It follows Hückel's rule.
+The shape of the benzene ring is|tetrahedral|a planar hexagon|linear|octahedral|1|All carbons are sp² hybridised.
+All C–C bonds in benzene have a length of about|154 pm|134 pm|139 pm|120 pm|2|Between single and double.
+Complete combustion of an alkane gives|CO only|C only|H₂ only|CO₂ and H₂O|3|With release of heat.
+Alkenes mainly undergo|addition reactions|substitution|no reactions|dissolution only|0|The pi bond opens.
+Benzene mainly undergoes|addition|electrophilic substitution|nucleophilic substitution|none of these|1|It keeps its aromatic ring.
+Unsaturation can be tested using|litmus paper|the iodoform test|bromine water (it is decolourised)|none of these|2|The orange colour disappears.
+The hybridisation of carbon in methane is|sp²|sp|sp³d|sp³|3|Four sigma bonds.
+The carbon–carbon bond in ethyne is|a triple bond|a double bond|a single bond|an ionic bond|0|One sigma and two pi.
+The IUPAC name of CH₃CH=CH₂ is|propane|propene|propyne|butene|1|Three carbons and a double bond.
+The IUPAC name of CH≡CH is|ethene|ethane|ethyne|methyne|2|Common name acetylene.
+The IUPAC name of CH₃C≡CH is|propene|propane|butyne|propyne|3|Three carbons and a triple bond.
+In the Wurtz reaction, an alkyl halide reacts with sodium to give|a higher alkane|an alkene|an alkyne|an alcohol|0|In dry ether.
+Methyl bromide with sodium in dry ether (Wurtz reaction) gives|methane|ethane|propane|ethene|1|2CH₃Br + 2Na → C₂H₆ + 2NaBr.
+Markovnikov's rule says that in addition to an unsymmetrical alkene, hydrogen adds to the carbon that has|fewer hydrogen atoms|no hydrogen|more hydrogen atoms|equal numbers of hydrogens|2|The more stable carbocation forms.
+HBr adds to propene (no peroxide) to give|1-bromopropane|propane|3-bromopropane|2-bromopropane|3|Markovnikov addition.
+In the presence of peroxide, HBr adds to propene giving|the anti-Markovnikov product|the Markovnikov product|no product|propane|0|The peroxide (Kharasch) effect.
+The hydration of ethene gives|ethane|ethanol|ethanal|ethanoic acid|1|In acid.
+The hydrogenation of ethene gives|ethyne|methane|ethane|propene|2|With Ni catalyst.
+Cold dilute alkaline KMnO₄ (Baeyer's reagent) converts ethene into|ethane|ethanol|CO₂|ethane-1,2-diol|3|A test for unsaturation.
+Ozonolysis of ethene gives|methanal|ethanal|CO₂|ethanol|0|Two molecules of HCHO.
+Acidic hydrogen is present in|alkenes|terminal alkynes|alkanes|benzene|1|R–C≡C–H.
+Ethyne reacts with ammoniacal silver nitrate to give|no change|a red precipitate|a white precipitate|a black precipitate|2|Silver acetylide.
+Hydration of ethyne with H₂O/HgSO₄ gives|ethanol|ethene|ethane|ethanal|3|Via the enol.
+Passing ethyne through a red-hot iron tube gives|benzene|toluene|cyclohexane|ethane|0|Cyclic trimerisation.
+Benzene is nitrated using|dilute HCl|a mixture of concentrated HNO₃ and concentrated H₂SO₄|NaOH|water|1|The nitronium ion NO₂⁺ forms.
+The catalyst used in Friedel–Crafts alkylation of benzene is|FeCl₃ only|NaOH|anhydrous AlCl₃|water|2|A Lewis acid.
+Benzene with chlorine in bright sunlight gives|chlorobenzene|toluene|nothing|benzene hexachloride|3|An addition reaction.
+The number of sigma bonds in benzene is|12|6|9|3|0|Six C–C and six C–H.
+The number of delocalised pi electrons in benzene is|3|6|12|4|1|Three pi bonds.
+According to Hückel's rule, a planar cyclic aromatic compound has|4n π electrons|2n π electrons|(4n + 2) π electrons|no π electrons|2|n = 0, 1, 2, …
+Which of these is aromatic?|cyclohexane|cyclooctatetraene|ethane|benzene|3|Planar, cyclic and 6 π electrons.
+Cis–trans isomerism is shown by|but-2-ene|propene|ethene|propane|0|Each double-bond carbon has two different groups.
+Geometrical isomers have different|molecular formulae|physical properties|numbers of atoms|none of these|1|For example boiling and melting points.
+The most stable conformation of ethane is|eclipsed|skew only|staggered|all are equally stable|2|Minimum repulsion.
+Torsional strain in ethane is highest in the|staggered conformation|gauche conformation|none|eclipsed conformation|3|Bonds are closest.
+The octane number of a fuel measures its|resistance to knocking|energy content|density|viscosity|0|Isooctane is 100.
+The first step in the free-radical halogenation of an alkane is|breaking of the alkane|homolysis of the halogen molecule|ionisation|none of these|1|Initiation.
+The order of reactivity of halogens in halogenation of alkanes is|I₂ > Br₂ > Cl₂ > F₂|all are equal|F₂ > Cl₂ > Br₂ > I₂|none of these|2|Fluorine is the most reactive.
+The mass of CO₂ obtained from the complete combustion of 1 mol of methane is|16 g|18 g|28 g|44 g|3|CH₄ + 2O₂ → CO₂ + 2H₂O.
+The volume of oxygen at 0 °C and 1 atm needed to burn 1 mol of methane is|44.8 L|22.4 L|67.2 L|11.2 L|0|2 mol of O₂.
+Ethyne burns in air with|a clear blue flame|a sooty flame|no flame|a green flame|1|High carbon content.

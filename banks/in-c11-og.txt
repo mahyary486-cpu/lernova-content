@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Carbon is tetravalent because it has|4 valence electrons|2 valence electrons|6 valence electrons|8 valence electrons|0|1s² 2s² 2p².
+Catenation is|bonding with hydrogen|the bonding of atoms of the same element to form chains|ionisation|none of these|1|Carbon shows it strongly.
+The functional group of an alcohol is|–COOH|–CHO|–OH|–NH₂|2|Hydroxyl.
+The functional group of an aldehyde is|C=O (inside a chain)|–COOH|–OH|–CHO|3|Formyl.
+The functional group of a ketone is|the carbonyl group C=O between two carbons|–CHO|–COOH|–OH|0|For example propanone.
+The functional group of a carboxylic acid is|–CHO|–COOH|–OH|–NH₂|1|Carboxyl.
+The functional group of an amine is|–OH|–COOH|–NH₂|–CN|2|Amino.
+Successive members of a homologous series differ by|–CH₃|–C₂H₄|–H|–CH₂–|3|A mass difference of 14 u.
+The IUPAC name of CH₄ is|methane|ethane|propane|butane|0|One carbon.
+The IUPAC name of C₂H₆ is|methane|ethane|propane|ethene|1|Two carbons.
+The IUPAC prefix for three carbon atoms is|eth|but|prop|meth|2|Meth, eth, prop, but.
+The IUPAC prefix for four carbon atoms is|prop|pent|eth|but|3|As in butane.
+Isomers have the same|molecular formula|structure|physical properties|chemical properties|0|But different structures.
+A free radical is formed by|heterolytic fission|homolytic fission|ionic dissociation|none of these|1|Each atom takes one electron.
+A carbocation has|a negative charge on carbon|no charge|a positive charge on carbon|an unpaired electron only|2|R₃C⁺.
+A carbanion has|a positive charge on carbon|no charge|an unpaired electron only|a negative charge on carbon|3|R₃C⁻.
+A nucleophile is|an electron-rich species|an electron-deficient species|a neutral molecule only|a radical|0|It attacks centres of low electron density.
+The IUPAC name of CH₃CH₂CH₃ is|ethane|propane|butane|propene|1|Three carbons.
+The IUPAC name of CH₃CH₂OH is|methanol|ethanal|ethanol|ethane|2|Alkane name plus -ol.
+The IUPAC name of CH₃CHO is|ethanol|ethanoic acid|methanal|ethanal|3|Alkane name plus -al.
+The IUPAC name of CH₃COOH is|ethanoic acid|ethanal|ethanol|methanoic acid|0|Alkane name plus -oic acid.
+The IUPAC name of CH₃COCH₃ is|propanal|propanone|propanol|propanoic acid|1|A ketone.
+The IUPAC name of CH₃–CH(CH₃)–CH₃ is|butane|propane|2-methylpropane|2-methylbutane|2|A branched chain.
+The number of structural isomers of C₄H₁₀ is|1|3|4|2|3|Butane and 2-methylpropane.
+The number of structural isomers of C₅H₁₂ is|3|2|4|5|0|Pentane, 2-methylbutane and 2,2-dimethylpropane.
+Chain isomers differ in|the position of the functional group|the carbon skeleton|the functional group|the molecular formula|1|For example butane and isobutane.
+Position isomers differ in|the carbon chain|the functional group|the position of the functional group|the molecular formula|2|For example propan-1-ol and propan-2-ol.
+An example of functional isomers is|propane and propene|butane and isobutane|ethene and ethane|ethanol and dimethyl ether|3|Both are C₂H₆O.
+Geometrical isomerism arises from|restricted rotation about a double bond|a chain difference|a position difference|a ring only|0|Cis and trans forms.
+Optical isomerism requires|a double bond|a chiral carbon|a ring|a triple bond|1|Four different groups on one carbon.
+The inductive effect is|a temporary polarisation|an effect through pi bonds only|a permanent polarisation transmitted through sigma bonds|an effect of a catalyst|2|It falls off with distance.
+The resonance effect involves|only sigma electrons|ionic bonding|the nucleus|the delocalisation of pi electrons or lone pairs|3|Several contributing structures.
+Hyperconjugation involves|the delocalisation of sigma electrons of C–H bonds|pi electrons only|lone pairs only|ionic bonds|0|The 'no-bond resonance'.
+Of the carbocations, the most stable is|secondary|tertiary|primary|methyl|1|3° > 2° > 1° > methyl.
+An electrophile is|an electron-rich species|a neutral molecule only|an electron-deficient species|a solvent|2|It seeks electrons.
+Which of these is an electrophile?|OH⁻|NH₃|CN⁻|H⁺|3|It is electron-deficient.
+The order of stability of alkyl free radicals is|3° > 2° > 1° > methyl|methyl > 1° > 2° > 3°|all are equal|1° > 3°|0|Like carbocations.
+Distillation separates liquids with|similar boiling points|different boiling points|none of these|solids only|1|A simple purification method.
+Steam distillation is used for substances that are|miscible with water|solid at room temperature|immiscible with water and volatile in steam|gases|2|For example aniline.
+Differential extraction uses|heat only|a filter|a magnet|a solvent in which the compound is more soluble|3|An organic compound is moved from water to an organic solvent.
+Chromatography separates compounds based on|differential adsorption or partition|boiling point|density|mass|0|Between stationary and mobile phases.
+Lassaigne's test is used to detect|carbon and hydrogen|nitrogen, sulphur and halogens|oxygen only|metals|1|Using sodium fusion extract.
+A Prussian blue colour in Lassaigne's test indicates|sulphur|a halogen|nitrogen|phosphorus|2|Fe₄[Fe(CN)₆]₃.
+A violet colour with sodium nitroprusside in Lassaigne's test indicates|nitrogen|a halogen|phosphorus|sulphur|3|Na₄[Fe(CN)₅NOS].
+In the estimation of carbon and hydrogen, the compounds measured are|CO₂ and H₂O|CO and H₂|C and H|CH₄|0|Liebig's method.
+Dumas' method is used to estimate|carbon|nitrogen|sulphur|halogens|1|As N₂ gas.
+Kjeldahl's method is used to estimate|carbon|hydrogen|nitrogen|sulphur|2|As ammonia.
+Kjeldahl's method is not applicable to|amines|amides|proteins|nitro and azo compounds|3|Nitrogen is not converted fully.
+Resonance structures differ in|the position of electrons only|the position of atoms|the number of atoms|the molecular formula|0|The atoms stay in place.
+Heterolytic fission of a covalent bond gives|free radicals|ions|neutral molecules|atoms|1|The bonding pair goes to one atom.
