@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Chemical equilibrium is|dynamic in nature|static|irreversible|absent in reversible reactions|0|Both reactions continue.
+At equilibrium the rates of the forward and backward reactions are|zero|equal|unequal|infinite|1|The concentrations stay constant.
+The law of mass action was proposed by|Le Chatelier|Arrhenius|Guldberg and Waage|Brønsted|2|In 1864.
+For aA + bB ⇌ cC + dD the equilibrium constant is Kc =|[A]ᵃ[B]ᵇ / [C]ᶜ[D]ᵈ|[C][D] / [A][B]|[A][B][C][D]|[C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ|3|Products over reactants.
+The equilibrium constant depends on|temperature|concentration|a catalyst|only the pressure|0|For a given reaction.
+A catalyst|shifts it forward|has no effect on the position of equilibrium|shifts it backward|changes K|1|It speeds up both reactions equally.
+Le Chatelier's principle says the system shifts to|favour the change|stop reacting|oppose the change applied|none of these|2|A change of concentration, pressure or temperature.
+pH is defined as|log[H⁺]|−ln[H⁺]|1/[H⁺]|−log[H⁺]|3|With concentration in mol/L.
+The pH of pure water at 25 °C is|7|0|14|1|0|[H⁺] = 10⁻⁷ M.
+The ionic product of water Kw at 25 °C is|10⁻⁷|10⁻¹⁴|10⁻¹|10¹⁴|1|[H⁺][OH⁻].
+pH + pOH =|7|0|14|1|2|At 25 °C.
+A strong acid is|partially ionised|not ionised|insoluble|completely ionised in water|3|For example HCl.
+An Arrhenius acid gives|H⁺ ions in water|OH⁻ ions|electrons|none of these|0|An Arrhenius base gives OH⁻.
+A Brønsted–Lowry acid is a|proton acceptor|proton donor|electron donor|neutral species|1|And a base is a proton acceptor.
+A Lewis acid is|an electron pair donor|a proton donor|an electron pair acceptor|a neutral species|2|For example BF₃.
+The conjugate base of HCl is|H₃O⁺|OH⁻|Cl|Cl⁻|3|What remains after losing H⁺.
+A buffer solution resists changes in|pH|temperature|volume|mass|0|On adding small amounts of acid or base.
+For N₂ + 3H₂ ⇌ 2NH₃ the equilibrium constant is Kc =|[NH₃] / ([N₂][H₂])|[NH₃]² / ([N₂][H₂]³)|[N₂][H₂]³ / [NH₃]²|[NH₃]²[N₂][H₂]³|1|Powers equal the coefficients.
+For N₂ + 3H₂ ⇌ 2NH₃ the change in the number of moles of gas Δn is|2|0|−2|−1|2|2 − 4.
+For H₂ + I₂ ⇌ 2HI, Kp|is greater than Kc|is less than Kc|is zero|equals Kc|3|Δn = 0.
+If the reaction quotient Q > K, the reaction proceeds|in the backward direction|in the forward direction|not at all|to equilibrium instantly|0|Too many products.
+If Q < K, the reaction proceeds|in the backward direction|in the forward direction|not at all|to completion|1|Too many reactants.
+Increasing the pressure on N₂ + 3H₂ ⇌ 2NH₃ shifts the equilibrium|to the left|not at all|to the right (forward)|to stop the reaction|2|Fewer moles of gas on the right.
+Raising the temperature of an exothermic equilibrium shifts it|forward|not at all|to completion|backward|3|Heat acts as a product.
+Adding a reactant shifts the equilibrium|forward|backward|not at all|to stop|0|To use up the added reactant.
+The pH of 0.01 M HCl is|1|2|12|0.01|1|−log 10⁻².
+The pH of 0.001 M HCl is|1|11|3|0.001|2|−log 10⁻³.
+The pH of 0.01 M NaOH is|2|10|1|12|3|pOH = 2.
+The hydrogen ion concentration of a solution of pH 4 is|10⁻⁴ M|4 M|10⁴ M|0.4 M|0|[H⁺] = 10⁻ᵖᴴ.
+The acid dissociation constant of HA is Ka =|[HA] / ([H⁺][A⁻])|[H⁺][A⁻] / [HA]|[H⁺][HA] / [A⁻]|[H⁺]/[HA]|1|Products over reactant.
+A stronger acid has|a smaller Ka|Ka = 0|a larger Ka|no Ka|2|It ionises more.
+pKa =|log Ka|1/Ka|Ka|−log Ka|3|A smaller pKa means a stronger acid.
+For a weak acid of concentration C, the degree of dissociation is about α =|√(Ka / C)|Ka C|C / Ka|Ka²|0|Ostwald dilution law.
+The common ion effect decreases the|pH of any solution|ionisation of a weak electrolyte|temperature|volume|1|The common ion shifts equilibrium.
+The solubility product of AgCl is Ksp =|[AgCl]|[Ag⁺]/[Cl⁻]|[Ag⁺][Cl⁻]|[Ag][Cl]²|2|For a sparingly soluble salt.
+A buffer is made of a weak acid and|a strong acid|a strong base|water|its salt with a strong base|3|For example acetic acid and sodium acetate.
+The Henderson–Hasselbalch equation is pH =|pKa + log([salt]/[acid])|pKa − log([salt]/[acid])|log Ka|14 − pKa|0|For an acidic buffer.
+A buffer with pKa = 4.75 and equal salt and acid concentrations has pH|7|4.75|9.25|2.37|1|log 1 = 0.
+The pH of 0.1 M acetic acid (Ka = 1.8 × 10⁻⁵) is about|1|4.7|2.9|7|2|[H⁺] = √(KaC).
+The unit of Kc for 2NO₂ ⇌ N₂O₄ is|mol/L|dimensionless|(mol/L)²|(mol/L)⁻¹|3|Δn = −1.
+For A ⇌ B with Kc = 4 and [A] = 1 M at equilibrium, [B] is|4 M|0.25 M|1 M|5 M|0|[B] = Kc[A].
+The equilibrium constant for the reverse reaction is|Kc|1/Kc|Kc²|−Kc|1|Reactants and products swap.
+If a reaction is multiplied by 2, the new equilibrium constant is|2K|K/2|K²|K|2|The expression is squared.
+The solubility of AgCl with Ksp = 10⁻¹⁰ is|10⁻¹⁰ M|10⁻²⁰ M|10⁵ M|10⁻⁵ M|3|s = √Ksp.
+For a salt A₂B, Ksp =|4s³|s³|2s²|27s⁴|0|[A⁺] = 2s and [B²⁻] = s.
+A solution of NaCl has a pH of|less than 7|7|more than 7|0|1|Salt of a strong acid and strong base.
+A solution of CH₃COONa is|acidic|neutral|basic|amphoteric|2|The acetate ion hydrolyses.
+A solution of NH₄Cl is|basic|neutral|amphoteric|acidic|3|The ammonium ion hydrolyses.
+Precipitation occurs when the ionic product|exceeds Ksp|is zero|is less than Ksp|equals 1|0|The solution is supersaturated.
+An amphoteric species is|Cl⁻|H₂O|Na⁺|CH₄|1|It can both donate and accept a proton.

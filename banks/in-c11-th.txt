@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+In thermodynamics, a system is|the part of the universe under study|the surroundings|everything outside|none of these|0|Separated by a boundary.
+An open system can exchange with its surroundings|only energy|both matter and energy|nothing|only matter|1|For example an open beaker.
+A closed system can exchange with its surroundings|matter and energy|nothing|only energy|only matter|2|A sealed flask.
+An isolated system exchanges|energy|matter|both|neither matter nor energy|3|For example a thermos flask.
+A state function depends only on|the initial and final states|the path taken|the time taken|none of these|0|For example H, U, S, G.
+Which of these is a state function?|work|enthalpy|heat|none of these|1|Work and heat depend on the path.
+The symbol for internal energy is|H|S|U|G|2|Sum of all energies of the system.
+The first law of thermodynamics is ΔU =|q − w|q w|q / w|q + w|3|w is work done on the system.
+Enthalpy is defined as H =|U + PV|U − PV|PV|U / PV|0|A state function.
+At constant pressure, ΔH equals|the work done|the heat exchanged q_p|the internal energy|zero|1|A calorimetric quantity.
+An exothermic reaction has|ΔH > 0|ΔH = 0|ΔH < 0|ΔS < 0|2|Heat is released.
+An endothermic reaction has|ΔH < 0|ΔH = 0|ΔG = 0|ΔH > 0|3|Heat is absorbed.
+The standard state pressure is|1 bar|0 bar|10 bar|100 bar|0|Standard conditions.
+Hess's law says that the enthalpy change of a reaction is|dependent on the path|independent of the path|always zero|always positive|1|A consequence of H being a state function.
+The symbol for entropy is|H|G|S|U|2|A measure of disorder.
+The Gibbs energy is G =|H + TS|U − TS|H / TS|H − TS|3|A state function.
+A spontaneous process has|ΔG < 0|ΔG > 0|ΔG = 0|ΔG = ∞|0|At constant T and P.
+The relation between ΔH and ΔU is ΔH = ΔU +|n RT|Δn_g RT|R T|P|1|Δn_g is the change in gas moles.
+For a reaction with no change in the number of gas moles, ΔH|is greater than ΔU|is less than ΔU|equals ΔU|is zero|2|Δn_g = 0.
+The standard enthalpy of formation of an element in its standard state is|1 kJ|positive|negative|zero|3|By convention.
+The enthalpy of combustion is|always negative|always positive|zero|variable in sign|0|Burning releases heat.
+The bond dissociation enthalpy is always|negative|positive (endothermic)|zero|variable|1|Energy is needed to break a bond.
+The enthalpy of a reaction from bond enthalpies is|(bonds formed) − (bonds broken)|only the bonds broken|(bonds broken) − (bonds formed)|zero|2|Using reactants and products.
+Entropy is a measure of the|energy of a system|enthalpy|pressure|randomness or disorder of a system|3|S.
+ΔS is positive when|the disorder increases|the disorder decreases|the disorder is constant|nothing changes|0|For example melting.
+The entropy of a gas compared with a liquid is|less|greater|equal|zero|1|More disorder.
+The entropy change on the melting of ice is|negative|zero|positive|infinite|2|Disorder increases.
+The entropy change on the freezing of water is|positive|zero|none|negative|3|Disorder decreases.
+A reaction is spontaneous at all temperatures when|ΔH < 0 and ΔS > 0|ΔH > 0 and ΔS < 0|ΔH > 0 and ΔS > 0|ΔH < 0 and ΔS < 0|0|ΔG is always negative.
+A reaction is non-spontaneous at all temperatures when|ΔH < 0 and ΔS > 0|ΔH > 0 and ΔS < 0|ΔH = 0|ΔS = 0|1|ΔG is always positive.
+At equilibrium the Gibbs energy change ΔG is|positive|negative|zero|infinite|2|Forward and backward balance.
+If K > 1, the standard Gibbs energy change ΔG° is|positive|zero|undefined|negative|3|ΔG° = −RT ln K.
+The unit of specific heat capacity is|J g⁻¹ K⁻¹|J|K|g|0|Heat per gram per kelvin.
+A calorimeter is used to measure|pressure|heat changes|volume|mass|1|For reactions and heat capacities.
+The work done by a gas expanding against constant external pressure is w =|PΔV|ΔV/P|−PΔV|P/ΔV|2|Negative: work is done by the system.
+In the isothermal reversible expansion of an ideal gas, ΔU is|q|w|positive|zero|3|Temperature is constant.
+A system absorbs 200 J of heat and does 50 J of work. The change in internal energy is|150 J|250 J|−150 J|50 J|0|q + w = 200 − 50.
+A system absorbs 100 J of heat and 40 J of work is done on it. The change in internal energy is|60 J|140 J|−140 J|100 J|1|q + w.
+If C(s) + O₂(g) → CO₂(g) has ΔH = −393 kJ/mol, burning 24 g of carbon releases|393 kJ|196 kJ|786 kJ|1179 kJ|2|2 mol of carbon.
+Given C + O₂ → CO₂ (ΔH = −393 kJ) and CO + ½O₂ → CO₂ (ΔH = −283 kJ), the ΔH for C + ½O₂ → CO is|−676 kJ|+110 kJ|−283 kJ|−110 kJ|3|By Hess's law.
+With bond enthalpies H–H 436, Cl–Cl 243 and H–Cl 431 kJ/mol, ΔH for H₂ + Cl₂ → 2HCl is|−183 kJ|+183 kJ|−862 kJ|+679 kJ|0|679 − 862.
+For ΔH = 40 kJ and ΔS = 100 J/K at 300 K, ΔG is|−10 kJ|+10 kJ|+30 kJ|−70 kJ|1|40 − 30.
+For that reaction, spontaneity begins above a temperature of|300 K|4 K|400 K|1000 K|2|T > ΔH/ΔS.
+The entropy of a perfect crystal at 0 K is|positive|negative|1 J/K|zero|3|The third law.
+For K = 10 at 298 K, ΔG° = −2.303 RT log K is about|−5.7 kJ/mol|+5.7 kJ/mol|−57 kJ/mol|−0.57 kJ/mol|0|2.303 × 8.314 × 298.
+The entropy change when 600 J of heat is absorbed reversibly at 300 K is|0.5 J/K|2 J/K|180 000 J/K|20 J/K|1|q_rev/T.
+A heat of 500 J raises the temperature of a body by 10 K. Its heat capacity is|5000 J/K|0.02 J/K|50 J/K|510 J/K|2|q/ΔT.
+A reaction with ΔH < 0 and ΔS < 0 is spontaneous at|high temperature|all temperatures|no temperature|low temperature|3|ΔG = ΔH − TΔS is negative only if T is small.
+The lattice enthalpy of an ionic solid is found using the Born–Haber cycle, which is based on|Hess's law|Boyle's law|Charles's law|Dalton's law|0|A path of steps.
+The enthalpy of neutralisation of a strong acid with a strong base is about|−57 J/mol|−57 kJ/mol|+57 kJ/mol|−5.7 kJ/mol|1|H⁺ + OH⁻ → H₂O.

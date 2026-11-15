@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+An ionic bond is formed by the|transfer of electrons|sharing of electrons|overlap of nuclei|none of these|0|From a metal to a non-metal.
+A covalent bond is formed by the|transfer of electrons|sharing of electrons|attraction of nuclei only|none of these|1|Between non-metal atoms.
+According to the octet rule, atoms tend to have|2 electrons|18 electrons|8 electrons in the valence shell|6 electrons|2|A stable noble-gas arrangement.
+The bond between the two nitrogen atoms in N₂ is|a single bond|a double bond|an ionic bond|a triple bond|3|Three shared pairs.
+The bond between the two oxygen atoms in O₂ is|a double bond|a single bond|a triple bond|an ionic bond|0|Two shared pairs.
+The shape of CH₄ is|planar|tetrahedral|linear|octahedral|1|Four bond pairs.
+The shape of H₂O is|linear|tetrahedral|bent (V-shaped)|trigonal planar|2|Two bond pairs and two lone pairs.
+The shape of CO₂ is|bent|tetrahedral|trigonal planar|linear|3|Two double bonds, no lone pair.
+The shape of NH₃ is|trigonal pyramidal|planar|tetrahedral|linear|0|Three bond pairs and one lone pair.
+The bond angle in CH₄ is|120°|109.5°|180°|90°|1|Regular tetrahedron.
+The bond angle in BF₃ is|109.5°|180°|120°|90°|2|Trigonal planar.
+The bond angle in BeCl₂ is|120°|109.5°|90°|180°|3|Linear.
+The hybridisation of carbon in CH₄ is|sp³|sp²|sp|sp³d|0|Four sigma bonds.
+The hybridisation of carbon in ethene is|sp³|sp²|sp|sp³d|1|Planar, 120°.
+The hybridisation of carbon in ethyne is|sp²|sp³|sp|sp³d|2|Linear.
+Hydrogen bonding is strongest in|CH₄|HCl|H₂S|H₂O|3|O is very electronegative.
+The dipole moment is a|vector quantity|scalar quantity|form of energy|type of force|0|It has magnitude and direction.
+The lattice enthalpy is the energy required to|form a covalent bond|separate one mole of a solid ionic compound into its gaseous ions|break a covalent bond|vaporise a liquid|1|A measure of ionic bond strength.
+A higher lattice enthalpy means that the ionic compound is|less stable|more volatile|more stable|less dense|2|The bonding is stronger.
+The bond order of N₂ is|2|1|0|3|3|From molecular orbital theory.
+The bond order of O₂ is|2|3|1|0|0|(10 − 6)/2.
+The bond order of H₂ is|2|1|0|3|1|Two bonding electrons.
+The bond order of He₂ is|1|2|0|0.5|2|The molecule does not exist.
+O₂ is|diamagnetic|ferromagnetic|non-magnetic|paramagnetic|3|Two unpaired electrons in π* orbitals.
+N₂ is|diamagnetic|paramagnetic|ferromagnetic|none of these|0|All electrons paired.
+A higher bond order means a|longer bond|shorter and stronger bond|weaker bond|no bond|1|For the same atoms.
+In VSEPR theory, lone pairs repel|less than bond pairs|equally to bond pairs|more than bond pairs|not at all|2|Lone pairs occupy more space.
+The shape of SF₆ is|tetrahedral|trigonal bipyramidal|square planar|octahedral|3|Six bond pairs.
+The shape of PCl₅ is|trigonal bipyramidal|octahedral|tetrahedral|square pyramidal|0|Five bond pairs.
+The hybridisation of phosphorus in PCl₅ is|sp³|sp³d|sp³d²|sp²|1|Five orbitals.
+The hybridisation of sulphur in SF₆ is|sp³d|sp³|sp³d²|sp²|2|Six orbitals.
+The number of sigma bonds in ethene is|4|3|6|5|3|Four C–H and one C–C.
+The number of pi bonds in ethyne is|2|1|3|0|0|A triple bond has one sigma and two pi bonds.
+A sigma bond is formed by|sideways overlap of orbitals|head-on overlap of orbitals|transfer of electrons|none of these|1|Along the internuclear axis.
+A pi bond is formed by|head-on overlap|transfer of electrons|sideways overlap of p orbitals|none of these|2|Above and below the axis.
+A polar covalent bond arises from a difference in|mass|atomic size only|number of neutrons|electronegativity|3|Unequal sharing of electrons.
+The bond angle in H₂O is about|104.5°|109.5°|107°|120°|0|Lone pairs squeeze the angle.
+The bond angle in NH₃ is about|109.5°|107°|104.5°|120°|1|One lone pair.
+The hybridisation of nitrogen in NH₃ is|sp²|sp|sp³|sp³d|2|Three bond pairs and one lone pair.
+The hybridisation of carbon in graphite is|sp³|sp|sp³d|sp²|3|Layers of hexagons.
+The hybridisation of carbon in diamond is|sp³|sp²|sp|dsp²|0|A tetrahedral network.
+The shape of XeF₄ is|tetrahedral|square planar|octahedral|see-saw|1|Six electron pairs, two lone pairs.
+The shape of ClF₃ is|trigonal planar|trigonal pyramidal|T-shaped|linear|2|Five electron pairs with two lone pairs.
+The dipole moment of CO₂ is|non-zero|very large|negative|zero|3|The bond dipoles cancel.
+The dipole moment of H₂O is|non-zero|zero|infinite|negative|0|A bent molecule.
+Which of these molecules is non-polar?|H₂O|CCl₄|NH₃|HCl|1|A symmetrical tetrahedron.
+Ice floats on water because of|ionic bonding|metallic bonding|hydrogen bonding giving an open lattice|covalent bonding only|2|Ice is less dense.
+Intramolecular hydrogen bonding occurs in|p-nitrophenol|methane|sodium chloride|o-nitrophenol|3|The groups are adjacent.
+The number of unpaired electrons in O₂ according to MO theory is|2|0|1|4|0|In the π* orbitals.
+The bond order of O₂⁺ is|2|2.5|1.5|3|1|One antibonding electron removed.
