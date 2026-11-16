@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Algae are|chlorophyll-bearing, simple, thalloid, autotrophic organisms|vascular plants|seeded plants|flowering plants|0|Mostly aquatic.
+Chlorophyceae are the|brown algae|green algae|red algae|blue-green algae|1|Chlorophylls a and b.
+Phaeophyceae are the|green algae|red algae|brown algae|yellow algae|2|Contain fucoxanthin.
+Rhodophyceae are the|green algae|brown algae|blue algae|red algae|3|Contain r-phycoerythrin.
+An example of green algae is|Chlamydomonas|Fucus|Polysiphonia|Nostoc|0|Also Spirogyra and Volvox.
+An example of brown algae is|Spirogyra|Laminaria|Volvox|Porphyra|1|Also Fucus and Dictyota.
+An example of red algae is|Ulothrix|Laminaria|Porphyra|Chara|2|Also Gracilaria.
+Bryophytes are called the|reptiles of the plant kingdom|birds of the plant kingdom|mammals of the plant kingdom|amphibians of the plant kingdom|3|They need water for fertilisation.
+Bryophytes include|liverworts and mosses|ferns|conifers|algae|0|Non-vascular land plants.
+Pteridophytes are|non-vascular plants|vascular cryptogams|seed plants|flowering plants|1|Ferns and their relatives.
+An example of a pteridophyte is|Funaria|Pinus|Dryopteris|Cycas|2|A fern.
+Gymnosperms are|flowering plants|spore plants|algae|plants with naked seeds|3|No ovary or fruit.
+An example of a gymnosperm is|Pinus|a fern|a moss|Spirogyra|0|Also Cycas.
+Angiosperms bear|cones|flowers and fruits|only spores|nothing|1|Seeds inside fruits.
+Angiosperms are divided into|algae and fungi|ferns and mosses|monocotyledons and dicotyledons|gymnosperms and cryptogams|2|By the number of cotyledons.
+Dicots have|one cotyledon|no cotyledon|three cotyledons|two cotyledons|3|For example pea.
+Monocots have|one cotyledon|two cotyledons|no cotyledon|three cotyledons|0|For example wheat.
+The reserve food material of green algae is|laminarin|starch|floridean starch|glycogen|1|Stored in pyrenoids.
+The reserve food of brown algae is|starch|glycogen|laminarin and mannitol|floridean starch|2|Complex carbohydrates.
+The reserve food of red algae is|starch|laminarin|glycogen|floridean starch|3|Similar to amylopectin.
+Green algae have the chlorophylls|a and b|a and c|a and d|c and d|0|Like higher plants.
+Brown algae have the pigments|chlorophylls a and b|chlorophylls a and c and fucoxanthin|chlorophyll a only|phycoerythrin|1|Give the brown colour.
+The red colour of red algae is due to|fucoxanthin|chlorophyll b|r-phycoerythrin|carotene only|2|A pigment.
+Algae reproduce by|only sexual methods|only vegetative methods|none of these|vegetative, asexual and sexual methods|3|Fragmentation, spores and gametes.
+Zoospores are|motile asexual spores|non-motile spores|gametes|seeds|0|They have flagella.
+The dominant phase in the life cycle of bryophytes is the|sporophyte|gametophyte|zygote|spore|1|The haploid phase.
+The dominant phase in pteridophytes is the|gametophyte|zygote|sporophyte|spore|2|The diploid phase.
+The dominant phase in gymnosperms is the|gametophyte|spore|none of these|sporophyte|3|The tree is diploid.
+Rhizoids in bryophytes are|root-like absorbing structures|true roots|leaves|flowers|0|Unicellular or multicellular.
+Sphagnum is a|liverwort|moss (peat moss)|fern|alga|1|Used as fuel and packing material.
+Marchantia is a|moss|fern|liverwort|gymnosperm|2|A thalloid bryophyte.
+Funaria is a|liverwort|fern|alga|moss|3|A bryophyte.
+The prothallus is|the gametophyte of ferns|the sporophyte|a spore|a root|0|A small free-living heart-shaped structure.
+Heterospory is shown by|Dryopteris|Selaginella|Equisetum|Funaria|1|Two kinds of spores.
+The seed habit is believed to have evolved from heterosporous pteridophytes such as|mosses|algae|Selaginella|liverworts|2|A precursor of the seed habit.
+The roots of Pinus have an association with|root nodules|nothing|only root hairs|fungi (mycorrhiza)|3|Helps absorption.
+The coralloid roots of Cycas have an association with|cyanobacteria|fungi|algae|bacteria|0|They fix nitrogen.
+Male cones of gymnosperms bear|megasporophylls|microsporophylls producing microspores|carpels|stamens only|1|Pollen grains are formed.
+Female cones of gymnosperms bear|microsporophylls|stamens|megasporophylls|anthers|2|Producing megaspores.
+Double fertilisation occurs in|gymnosperms|ferns|mosses|angiosperms|3|One fertilises the egg, the other the central cell.
+The endosperm in angiosperms is|triploid|diploid|haploid|tetraploid|0|From triple fusion.
+A typical embryo sac of an angiosperm is|4-celled|7-celled and 8-nucleate|2-celled|1-celled|1|Female gametophyte.
+A haplontic life cycle is shown by|Fucus|mosses|Volvox and Spirogyra|ferns|2|Dominant haploid phase.
+A haplo-diplontic life cycle is shown by|Fucus|angiosperms|Volvox|mosses and ferns|3|Both phases are multicellular.
+A diplontic life cycle is shown by|gymnosperms and angiosperms|Spirogyra|mosses|ferns|0|Dominant diploid phase.
+Fucus has a|haplontic life cycle|diplontic life cycle|haplo-diplontic life cycle|none of these|1|A brown alga.
+Water is needed for fertilisation in|gymnosperms|angiosperms|bryophytes and pteridophytes|none of these|2|The male gametes swim.
+Seeds are produced by|ferns|mosses|algae|gymnosperms and angiosperms|3|Phanerogams.
+Cryptogams are plants|without seeds|with seeds|with flowers|with naked seeds|0|Algae, bryophytes and pteridophytes.
+Phanerogams are plants|without seeds|that bear seeds|only algae|only fungi|1|Gymnosperms and angiosperms.

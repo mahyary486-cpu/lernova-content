@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The five-kingdom classification was proposed by|R. H. Whittaker|Linnaeus|Haeckel|Darwin|0|In 1969.
+Whittaker's five kingdoms are Monera, Protista, Fungi, Plantae and|Archaea|Animalia|Algae|Viruses|1|Based on cell structure and nutrition.
+Monera are|eukaryotes|multicellular organisms|prokaryotes|viruses|2|No membrane-bound nucleus.
+Bacteria belong to the kingdom|Protista|Fungi|Plantae|Monera|3|Prokaryotic.
+The cell wall of bacteria contains|peptidoglycan|cellulose|chitin|lignin|0|A polymer of sugars and amino acids.
+The cell wall of fungi is made of|peptidoglycan|chitin|cellulose|pectin|1|And other polysaccharides.
+The cell wall of plants is made of|chitin|peptidoglycan|cellulose|none of these|2|A polysaccharide.
+Amoeba is a|bacterium|fungus|virus|protist|3|A unicellular eukaryote.
+Paramecium moves by|cilia|flagella|pseudopodia|none of these|0|A ciliated protozoan.
+Euglena moves by|cilia|flagella|pseudopodia|none of these|1|A flagellate.
+Amoeba moves by|cilia|flagella|pseudopodia|none of these|2|A protozoan.
+Yeast is a|bacterium|virus|protist|fungus|3|A unicellular fungus.
+A mushroom belongs to the kingdom|Fungi|Monera|Protista|Plantae|0|Basidiomycetes.
+Penicillium is the source of|insulin|penicillin|alcohol|vitamin C|1|The first antibiotic.
+A virus has|a cell wall|a nucleus|a nucleic acid core and a protein coat|ribosomes|2|It is not cellular.
+Lichens are a symbiotic association between|bacteria and viruses|mosses and ferns|two bacteria|algae and fungi|3|Used as pollution indicators.
+Mycorrhiza is an association between|a fungus and the roots of a plant|a virus and a plant|algae and fungi|bacteria and an animal|0|Helps absorption of water and minerals.
+Archaebacteria live in|only soil|extreme habitats such as hot springs and salty areas|only water|only air|1|Halophiles, thermoacidophiles and methanogens.
+Methanogens produce|oxygen|alcohol|methane|carbon monoxide|2|Found in the guts of ruminants.
+Cyanobacteria are|fungi|protists|viruses|photosynthetic prokaryotes|3|Also called blue-green algae.
+The heterocysts of Nostoc fix|atmospheric nitrogen|carbon dioxide|oxygen|hydrogen|0|Specialised cells.
+Mycoplasma lacks|ribosomes|a cell wall|DNA|a cell membrane|1|The smallest living cells.
+The cell walls of diatoms are made of|cellulose|chitin|silica|pectin|2|They form diatomaceous earth.
+Dinoflagellates are responsible for|blue tides|green tides|none of these|red tides|3|Rapid multiplication gives a red colour.
+Plasmodium causes|malaria|dengue|typhoid|cholera|0|A sporozoan.
+Slime moulds are|plants|saprophytic protists|animals|bacteria|1|They move over decaying matter.
+Fungi are|autotrophic|chemosynthetic|heterotrophic|photosynthetic|2|Saprophytic or parasitic.
+The network of hyphae of a fungus is called a|thallus|fruiting body|spore|mycelium|3|The vegetative body.
+Rhizopus belongs to the class|Phycomycetes|Ascomycetes|Basidiomycetes|Deuteromycetes|0|Aseptate coenocytic mycelium.
+Penicillium belongs to the class|Phycomycetes|Ascomycetes|Basidiomycetes|Deuteromycetes|1|Sac fungi.
+Agaricus (mushroom) belongs to the class|Ascomycetes|Phycomycetes|Basidiomycetes|Deuteromycetes|2|Club fungi.
+Deuteromycetes are also called|perfect fungi|true fungi|algae|imperfect fungi|3|Only the asexual stage is known.
+Viruses were discovered by|D. J. Ivanowsky|Pasteur|Koch|Fleming|0|In 1892, from tobacco mosaic disease.
+Viroids were discovered by|Ivanowsky|T. O. Diener|Pasteur|Koch|1|In 1971.
+Viroids consist of|DNA and protein|DNA only|free RNA without a protein coat|protein only|2|Smaller than viruses.
+Prions are|viruses|bacteria|fungi|infectious proteins|3|Abnormal proteins.
+Mad cow disease is caused by|prions|viruses|bacteria|fungi|0|Bovine spongiform encephalopathy.
+A bacteriophage is a virus that infects|plants|bacteria|animals|fungi|1|It has a double-stranded DNA.
+The genetic material of the tobacco mosaic virus is|DNA|protein|RNA|lipid|2|Single-stranded.
+The genetic material of HIV is|DNA|protein|lipid|RNA|3|A retrovirus.
+Chemosynthetic bacteria obtain energy from|the oxidation of inorganic compounds|sunlight|organic matter|none of these|0|For example nitrifying bacteria.
+Bacteria commonly reproduce by|budding|binary fission|spores only|sexual reproduction|1|An asexual method.
+Conjugation in bacteria is the transfer of|protein|lipid|DNA|water|2|Between two cells.
+Gram-positive bacteria stain|pink|green|yellow|purple|3|They retain the crystal violet.
+Gram-negative bacteria stain|pink (red)|purple|green|blue|0|They lose crystal violet.
+Euglena is|only autotrophic|both autotrophic and heterotrophic depending on conditions|only heterotrophic|neither|1|It photosynthesises in light.
+Chrysophytes include|slime moulds|yeasts|diatoms and golden algae|bacteria|2|Photosynthetic protists.
+Saprophytic fungi feed on|living hosts|sunlight|inorganic matter|dead organic matter|3|They decompose it.
+Parasitic fungi cause diseases such as|rust and smut|photosynthesis|nitrogen fixation|none of these|0|In wheat and other crops.
+A symbiotic association of an alga and a fungus is called a|mycorrhiza|lichen|nodule|mycelium|1|Algae make food and fungi absorb water.

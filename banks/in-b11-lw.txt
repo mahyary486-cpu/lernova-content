@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Growth is a characteristic of|all living organisms|only plants|only animals|non-living things|0|It is an increase in mass and number of cells.
+Metabolism is|growth only|the sum of all chemical reactions in an organism|reproduction|movement|1|A defining feature of living systems.
+Reproduction is|only growth|a chemical reaction|the production of offspring similar to the parents|a response to light|2|Not shown by sterile organisms like mules.
+The ability to sense and respond to the environment is called|growth|reproduction|metabolism only|consciousness (response to stimuli)|3|Shown by all living organisms.
+Binomial nomenclature was introduced by|Carl Linnaeus|Darwin|Mendel|Whittaker|0|In the 18th century.
+A scientific name has two parts, the|family and class|genus and the species|order only|kingdom and phylum|1|For example Homo sapiens.
+The basic unit of classification is the|genus|family|species|order|2|The lowest category.
+Taxonomy is the science of|the study of cells|the study of genes|the study of ecosystems|identification, naming and classification of organisms|3|Linnaeus is the founder.
+The highest category in the taxonomic hierarchy is the|kingdom|species|genus|family|0|The most general group.
+The category above species is the|family|genus|order|class|1|Species → genus → family.
+A family is a group of related|species|orders|genera|classes|2|Genera with similar characters.
+A herbarium stores|live animals|seeds only|fossils only|dried and pressed plant specimens|3|On sheets for identification.
+A botanical garden maintains|living collections of plants|dried plants only|animals|fossils|0|For example Kew Gardens.
+A museum is used to|grow plants|preserve specimens of plants and animals|keep live animals only|cultivate crops|1|Preserved in jars or as stuffed forms.
+A zoological park keeps|only plants|only fossils|live animals|dried plants|2|In conditions like their natural habitat.
+Taxonomic keys are used for|growth|reproduction|metabolism|identification of organisms|3|Based on contrasting characters.
+Flora means|the plants of a particular area|animals of an area|fossils|rocks|0|A flora lists the plants.
+In the printed form scientific names are written in|bold|italics|capital letters|any style|1|Or underlined when handwritten.
+The genus name begins with|a small letter|a number|a capital letter|any letter|2|For example Mangifera.
+The species name begins with|a capital letter|a number|any letter|a small letter|3|For example indica.
+The correct scientific name of mango is|Mangifera indica|Mangifera Indica|mangifera indica|Indica mangifera|0|Genus capital, species small.
+The correct scientific name of man is|Homo Sapiens|Homo sapiens|homo sapiens|Sapiens homo|1|Italicised.
+Systematics includes|only naming|only cells|taxonomy and the evolutionary relationships of organisms|none of these|2|Linnaeus used the word.
+A class is a group of related|families|genera|species|orders|3|Above order.
+In plants the equivalent of the animal 'phylum' is|division|class|order|family|0|For example Bryophyta.
+In animals, the category above class is|division|phylum|order|family|1|For example Chordata.
+An order is a group of related|genera|species|families|classes|2|Above family.
+A genus is a group of related|families|orders|classes|species|3|With common characters.
+A taxon is|a taxonomic group of any rank|a species only|a genus only|an organism|0|Each category is a taxon.
+Fauna means|the plants of an area|the animals of a particular area|fossils|rocks|1|A fauna lists the animals.
+A monograph contains|only a key|a list of plants|detailed information on any one taxon|nothing|2|A taxonomic aid.
+A flora provides|information on animals|climate data|none of these|information on the plants of an area|3|A taxonomic aid.
+A manual provides|information for identification of names of species in an area|only photographs|only maps|nothing|0|A taxonomic aid.
+The paired contrasting statements in a taxonomic key are called|genera|couplets|families|orders|1|Each statement is a lead.
+The oldest and biggest botanical garden in India is at|Delhi|Mumbai|Howrah (Kolkata)|Chennai|2|The Indian Botanical Garden.
+The famous Kew Gardens are in|India|USA|France|England|3|A botanical garden.
+The category with the most characters in common is the|species|kingdom|phylum|class|0|The lowest category.
+The lowest category sharing the most similarities is the|genus|species|family|order|1|Organisms in it can interbreed.
+Two species belonging to the same genus are|Panthera leo and Felis catus|Homo sapiens and Canis familiaris|Panthera leo and Panthera tigris|none of these|2|The genus is Panthera.
+Solanum tuberosum and Solanum melongena belong to the same|species|variety|kingdom only|genus|3|Solanum.
+Potato, tomato and brinjal belong to the family|Solanaceae|Poaceae|Fabaceae|Liliaceae|0|Genera such as Solanum.
+Wheat belongs to the family|Solanaceae|Poaceae|Fabaceae|Liliaceae|1|The grass family.
+The order Primata includes|cats|dogs|monkeys, apes and humans|birds|2|A mammalian order.
+Mangifera indica and Solanum tuberosum differ at|species only|variety only|none|genus, family and higher categories|3|They are different at all levels.
+In a scientific name, the author's name is written|after the species name|before the genus name|in the middle|not at all|0|For example Mangifera indica Linn.
+The ICBN governs the naming of|animals|plants|bacteria only|viruses|1|The International Code of Botanical Nomenclature.
+The ICZN governs the naming of|plants|fungi|animals|viruses|2|The International Code of Zoological Nomenclature.
+Which of these is a taxonomic aid?|a stethoscope|a thermometer|a battery|a herbarium|3|A collection of pressed plants.
+Reproduction is not a defining feature of life because|sterile organisms such as mules are alive|plants do not reproduce|all organisms reproduce|bacteria do not reproduce|0|Some living organisms do not reproduce.
+Cellular organisation, metabolism and consciousness are|features of non-living things|defining features of living organisms|found only in plants|found only in animals|1|Growth and reproduction are not defining.
