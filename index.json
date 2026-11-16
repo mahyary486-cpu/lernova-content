@@ -3797,6 +3797,103 @@
       ]
     },
     {
+      "grade": 11,
+      "country": "FR",
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "fr-c11-01",
+          "title": "Détermination d’une quantité de matière",
+          "lessons": [
+            {
+              "id": "fr-c11-01-01",
+              "title": "Gaz parfaits et volume molaire"
+            },
+            {
+              "id": "fr-c11-01-02",
+              "title": "Spectrophotométrie et loi de Beer-Lambert"
+            },
+            {
+              "id": "fr-c11-01-03",
+              "title": "Conductimétrie et loi de Kohlrausch"
+            }
+          ]
+        },
+        {
+          "id": "fr-c11-02",
+          "title": "Suivi d’une transformation chimique et titrage",
+          "lessons": [
+            {
+              "id": "fr-c11-02-01",
+              "title": "Avancement et état final"
+            },
+            {
+              "id": "fr-c11-02-02",
+              "title": "Titrage direct et équivalence"
+            },
+            {
+              "id": "fr-c11-02-03",
+              "title": "Repérer l’équivalence : colorimétrie et conductimétrie"
+            }
+          ]
+        },
+        {
+          "id": "fr-c11-03",
+          "title": "Réactions d’oxydoréduction",
+          "lessons": [
+            {
+              "id": "fr-c11-03-01",
+              "title": "Oxydants, réducteurs et couples"
+            },
+            {
+              "id": "fr-c11-03-02",
+              "title": "Écrire l’équation d’une réaction d’oxydoréduction"
+            },
+            {
+              "id": "fr-c11-03-03",
+              "title": "Applications des réactions d’oxydoréduction"
+            }
+          ]
+        },
+        {
+          "id": "fr-c11-04",
+          "title": "Structure des entités et interactions",
+          "lessons": [
+            {
+              "id": "fr-c11-04-01",
+              "title": "Schéma de Lewis et géométrie des molécules"
+            },
+            {
+              "id": "fr-c11-04-02",
+              "title": "Électronégativité et polarité"
+            },
+            {
+              "id": "fr-c11-04-03",
+              "title": "Cohésion de la matière et solubilité"
+            }
+          ]
+        },
+        {
+          "id": "fr-c11-05",
+          "title": "Chimie organique et combustions",
+          "lessons": [
+            {
+              "id": "fr-c11-05-01",
+              "title": "Hydrocarbures et nomenclature des alcanes"
+            },
+            {
+              "id": "fr-c11-05-02",
+              "title": "Groupes caractéristiques et propriétés physiques"
+            },
+            {
+              "id": "fr-c11-05-03",
+              "title": "Combustions et énergie"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "grade": 10,
       "subject": "Mathematics",
       "country": "RU",

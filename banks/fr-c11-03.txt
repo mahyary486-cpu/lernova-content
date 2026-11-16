@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Un oxydant est une espèce qui :|cède des électrons|capte des protons|cède des protons|capte des électrons|3|Un oxydant est un accepteur d’électrons.
+Un réducteur est une espèce qui :|capte des électrons|capte des atomes|cède des électrons|forme des gaz|2|Un réducteur est un donneur d’électrons.
+Une oxydation est :|un gain d’électrons|une perte d’électrons|un gain de protons|une perte de masse|1|Un réducteur est oxydé quand il perd des électrons.
+Comment note-t-on un couple d’oxydoréduction ?|oxydant/réducteur|réducteur/oxydant|acide/base|soluté/solvant|0|On écrit Ox/Red.
+Quelle est la demi-équation du couple Cu²⁺/Cu ?|Cu²⁺ + e⁻ = Cu|Cu + 2 e⁻ = Cu²⁺|Cu²⁺ = Cu|Cu²⁺ + 2 e⁻ = Cu|3|Les charges se conservent : +2 − 2 = 0.
+Dans une réaction d’oxydoréduction, il y a transfert :|de protons|de neutrons|d’électrons|de noyaux|2|Les électrons passent du réducteur à l’oxydant.
+Une réduction est :|une perte d’électrons|un gain d’électrons|une perte de protons|une dissolution|1|Un oxydant est réduit quand il capte des électrons.
+Quel couple fait intervenir le dihydrogène ?|H⁺/H₂|Na⁺/Na|O₂/H₂|H₂/OH⁻|0|2 H⁺ + 2 e⁻ = H₂.
+Quelle est la demi-équation du couple Fe³⁺/Fe²⁺ ?|Fe³⁺ + 3 e⁻ = Fe²⁺|Fe²⁺ + e⁻ = Fe³⁺|Fe³⁺ = Fe²⁺|Fe³⁺ + e⁻ = Fe²⁺|3|Un électron suffit pour passer de +3 à +2.
+Quelle est la demi-équation du couple MnO₄⁻/Mn²⁺ en milieu acide ?|MnO₄⁻ + 4 H⁺ + 3 e⁻ = Mn²⁺ + 2 H₂O|MnO₄⁻ + 8 H⁺ + e⁻ = Mn²⁺ + 4 H₂O|MnO₄⁻ + 8 H⁺ + 5 e⁻ = Mn²⁺ + 4 H₂O|MnO₄⁻ + 5 e⁻ = Mn²⁺|2|Éléments et charges sont conservés : −1 + 8 − 5 = +2.
+Dans Zn + Cu²⁺ → Zn²⁺ + Cu, le réducteur est :|Cu²⁺|Zn|Zn²⁺|Cu|1|Zn cède des électrons.
+Dans cette même réaction, l’oxydant est :|Cu²⁺|Zn|Zn²⁺|Cu|0|Cu²⁺ capte des électrons.
+Combien d’électrons sont échangés dans Cu + 2 Ag⁺ → Cu²⁺ + 2 Ag ?|1|4|0|2|3|Cu cède 2 électrons, captés par 2 Ag⁺.
+Dans cette réaction, le cuivre est :|réduit|un spectateur|oxydé|un oxydant|2|Il perd des électrons.
+Pour ajuster l’oxygène d’une demi-équation en solution aqueuse, on ajoute :|des électrons|des molécules d’eau|des ions Na⁺|des atomes d’oxygène isolés|1|On ajoute H₂O du côté qui manque d’oxygène.
+Pour ajuster l’hydrogène en milieu acide, on ajoute :|des ions H⁺|des électrons|des neutrons|des molécules de dioxygène|0|Les ions H⁺ compensent les atomes d’hydrogène.
+Combien d’électrons échange-t-on dans MnO₄⁻ + 5 Fe²⁺ + 8 H⁺ → Mn²⁺ + 5 Fe³⁺ + 4 H₂O ?|1|8|4|5|3|MnO₄⁻ capte 5 électrons, cédés par 5 Fe²⁺.
+Dans I₂ + 2 S₂O₃²⁻ → 2 I⁻ + S₄O₆²⁻, l’oxydant est :|S₂O₃²⁻|I⁻|I₂|S₄O₆²⁻|2|I₂ capte des électrons (I₂/I⁻).
+Lors de la corrosion du fer, le fer est :|réduit|oxydé par le dioxygène en présence d’eau|inerte|dissous uniquement en milieu neutre|1|Fe devient Fe²⁺ ou Fe³⁺.
+La galvanisation protège l’acier car :|le zinc, plus réducteur, s’oxyde à la place du fer|le zinc est un oxydant|le zinc est plus lourd|le zinc colore l’acier|0|Le zinc est sacrifié.
+L’eau de Javel désinfecte car :|elle est un réducteur|elle est acide|elle est un solvant|l’ion hypochlorite ClO⁻ est un oxydant|3|L’oxydant détruit les micro-organismes.
+Combien de moles d’électrons faut-il pour réduire 1 mol de Cu²⁺ en Cu ?|1 mol|3 mol|2 mol|0,5 mol|2|Cu²⁺ + 2 e⁻ = Cu.
+On plonge une lame de zinc dans une solution contenant des ions Cu²⁺. On observe :|un dépôt de zinc|un dépôt de cuivre rouge|aucun changement|une couleur bleue plus intense|1|Zn + Cu²⁺ → Zn²⁺ + Cu.
+Dans une réaction d’oxydoréduction, le nombre d’électrons cédés est :|égal au nombre d’électrons captés|supérieur au nombre d’électrons captés|inférieur au nombre d’électrons captés|nul|0|Les électrons sont conservés.

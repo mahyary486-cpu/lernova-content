@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est l’expression de la loi des gaz parfaits ?|P × V = n ÷ (R × T)|P × V = n × R × T|P ÷ V = n × R × T|P + V = n × R × T|1|C’est l’équation d’état du gaz parfait.
+Quelle est l’unité SI de la pression ?|Le pascal (Pa)|Le bar|Le newton|Le joule|0|1 Pa = 1 N/m².
+Dans P × V = n × R × T, le volume s’exprime en :|L|cm²|mL|m³|3|Il faut utiliser les unités du SI.
+La température doit être exprimée en :|degrés Celsius|degrés Fahrenheit|kelvins|joules|2|T(K) = θ(°C) + 273,15.
+Quelle est la valeur de R ?|6,02 × 10²³ mol⁻¹|8,314 J·K⁻¹·mol⁻¹|9,8 N/kg|3,00 × 10⁸ m/s|1|C’est la constante des gaz parfaits.
+L’absorbance d’une solution :|n’a pas d’unité|s’exprime en mol/L|s’exprime en grammes|s’exprime en mètres|0|A = log(I₀ ÷ I).
+Quelle est l’expression de la loi de Beer-Lambert ?|A = ε ÷ (l × C)|A = l ÷ (ε × C)|A = ε + l + C|A = ε × l × C|3|L’absorbance est proportionnelle à la concentration.
+Quelle est l’unité de la conductivité σ ?|mol/L|Pa|S/m|V/m|2|La conductivité s’exprime en siemens par mètre.
+Quel est le volume molaire d’un gaz à 20 °C sous 1 013 hPa ?|22,4 L/mol|24 L/mol|1 L/mol|0,024 L/mol|1|Vm = R × T ÷ P ≈ 24 L/mol.
+Quel volume occupent 0,50 mol de gaz à 25 °C sous 1,0 × 10⁵ Pa ?|12,4 L|0,012 L|124 L|1,24 L|0|V = n × R × T ÷ P = 0,50 × 8,314 × 298 ÷ 10⁵ = 1,24 × 10⁻² m³.
+Quelle quantité de matière contiennent 1,0 L de gaz à 293 K sous 1,013 × 10⁵ Pa ?|4,2 mol|0,42 mol|2,4 × 10⁻³ mol|4,2 × 10⁻² mol|3|n = P × V ÷ (R × T).
+La courbe d’étalonnage A = f(C) est :|une parabole|une droite horizontale|une droite passant par l’origine|une exponentielle décroissante|2|A est proportionnelle à C.
+On règle le spectrophotomètre à la longueur d’onde :|où l’absorbance est nulle|du maximum d’absorption|quelconque|infrarouge toujours|1|La mesure y est la plus sensible.
+Pour A = 0,60, ε = 3,0 × 10³ L·mol⁻¹·cm⁻¹ et l = 1,0 cm, la concentration vaut :|2,0 × 10⁻⁴ mol/L|1,8 × 10³ mol/L|5,0 × 10³ mol/L|0,60 mol/L|0|C = A ÷ (ε × l).
+Une solution colorée absorbe surtout la couleur :|identique à celle qu’elle paraît|blanche|aucune|complémentaire de celle qu’elle paraît|3|Elle paraît de la couleur complémentaire de celle qu’elle absorbe.
+Quelle est l’expression de la loi de Kohlrausch ?|σ = Σ λi ÷ [Xi]|σ = Π λi × [Xi]|σ = Σ λi × [Xi]|σ = Σ [Xi]|2|La conductivité est la somme des contributions de chaque ion.
+Quelle est la conductivité d’une solution de NaCl à 1,0 × 10⁻² mol/L (λ(Na⁺) = 5,01 mS·m²·mol⁻¹ ; λ(Cl⁻) = 7,63 mS·m²·mol⁻¹) ?|1,26 × 10⁻³ S/m|0,126 S/m|12,6 S/m|1,26 S/m|1|[X] = 10 mol/m³ : σ = 12,64 × 10⁻³ × 10.
+Combien de mol/m³ vaut 1 mol/L ?|1 000|1|0,001|10⁶|0|1 m³ = 1 000 L.
+La loi de Beer-Lambert est valable :|pour toutes les concentrations|uniquement pour les solides|jamais|pour des solutions diluées|3|À forte concentration, A cesse d’être proportionnelle à C.
+Un gaz double sa pression à T et n constants. Son volume :|double|reste inchangé|est divisé par 2|quadruple|2|P × V est constant.
+Quel est le volume molaire d’un gaz à 0 °C sous 1 013 hPa ?|24 L/mol|22,4 L/mol|0,0224 L/mol|273 L/mol|1|Vm = R × T ÷ P avec T = 273 K.
+Une solution de concentration 2,0 × 10⁻⁴ mol/L a pour absorbance 0,30. Quelle est l’absorbance pour 6,0 × 10⁻⁴ mol/L ?|0,90|0,10|1,8|0,60|0|A est proportionnelle à C : 3 fois plus.
+On dilue une solution colorée 2 fois. Son absorbance :|double|reste inchangée|devient nulle|est divisée par 2|3|A est proportionnelle à la concentration.
+Pourquoi étalonne-t-on un conductimètre ?|Pour mesurer l’absorbance|Pour chauffer la solution|Pour relier la conductivité mesurée à la concentration|Pour peser la solution|2|La courbe σ = f(C) permet de déterminer C.

@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Qu’est-ce que l’équivalence d’un titrage ?|Le titrant est en excès|Le titré est en excès|Les réactifs ont été introduits dans les proportions stœchiométriques|La solution est toujours incolore|2|À l’équivalence, les deux réactifs sont limitants.
+Qu’est-ce que le titrant ?|Le réactif placé dans le bécher|Le réactif de concentration connue placé dans la burette|Le solvant|Le produit de la réaction|1|Le titrant est la solution de référence.
+La réaction support d’un titrage doit être :|rapide, totale et unique|lente|partielle|inconnue|0|Ce sont les trois conditions d’une réaction de titrage.
+À quoi sert une burette graduée ?|À prélever précisément un volume|À peser|À chauffer|À verser progressivement le titrant|3|Elle permet de lire le volume versé.
+À quoi sert une pipette jaugée ?|À verser goutte à goutte|À peser|À prélever un volume précis de solution|À mélanger|2|Elle prélève un volume fixe avec précision.
+Pour une transformation totale, l’avancement final xf vaut :|0|xmax|xmax ÷ 2|2 × xmax|1|Le réactif limitant est entièrement consommé.
+Dans un mélange stœchiométrique :|tous les réactifs sont consommés en même temps|un seul réactif est consommé|aucun réactif n’est consommé|le produit est limitant|0|Les quantités respectent les coefficients de l’équation.
+Quelle est l’unité de l’avancement ?|Le litre|Le gramme|Le watt|La mole|3|x représente une quantité de matière.
+Pour Zn + 2 H⁺ → Zn²⁺ + H₂ avec 0,10 mol de Zn et 0,15 mol de H⁺, l’avancement maximal est :|0,10 mol|0,15 mol|0,075 mol|0,25 mol|2|H⁺ : 0,15 ÷ 2 = 0,075 ; Zn : 0,10.
+Quel est le réactif limitant dans cette situation ?|Zn|H⁺|H₂|Zn²⁺|1|H⁺ est consommé le premier.
+Quelle quantité de dihydrogène se forme ?|0,075 mol|0,15 mol|0,10 mol|0,025 mol|0|n(H₂) = x = xmax.
+Quel volume de dihydrogène (Vm = 24 L/mol) se forme ?|3,6 L|0,075 L|0,0031 L|1,8 L|3|V = n × Vm = 0,075 × 24.
+Dans le titrage MnO₄⁻ + 5 Fe²⁺ + 8 H⁺ → …, à l’équivalence :|n(Fe²⁺) = n(MnO₄⁻) versé|n(MnO₄⁻) = 5 × n(Fe²⁺)|n(Fe²⁺) = 5 × n(MnO₄⁻) versé|n(Fe²⁺) = 8 × n(MnO₄⁻)|2|Les quantités respectent les coefficients stœchiométriques.
+On titre 10,0 mL de Fe²⁺ par du permanganate à 2,0 × 10⁻² mol/L ; VE = 12,5 mL. La concentration en Fe²⁺ vaut :|0,025 mol/L|0,125 mol/L|1,25 mol/L|5,0 × 10⁻³ mol/L|1|C = 5 × 2,0 × 10⁻² × 12,5 ÷ 10,0.
+Comment repère-t-on l’équivalence dans ce titrage ?|Par l’apparition d’une couleur violette persistante|Par la disparition de la couleur violette|Par un précipité noir|Par un dégagement gazeux|0|Le permanganate en excès colore la solution.
+En conductimétrie, l’équivalence est repérée par :|un maximum de σ|une couleur|le pH|un changement de pente de la courbe σ = f(V)|3|Les deux portions de droite se croisent à VE.
+Pourquoi effectue-t-on un titrage rapide avant un titrage précis ?|Pour diluer le titrant|Pour augmenter la concentration|Pour encadrer le volume équivalent|Pour supprimer l’erreur|2|Le titrage rapide donne une idée de VE.
+Si l’on verse du titrant après l’équivalence :|le titré est en excès|le titrant est en excès|la réaction s’inverse|le volume équivalent change|1|Le titré est entièrement consommé.
+On titre 20,0 mL d’une solution de Cl⁻ par Ag⁺ à 0,10 mol/L ; VE = 8,0 mL (rapport 1:1). C(Cl⁻) vaut :|4,0 × 10⁻² mol/L|0,25 mol/L|1,6 × 10⁻³ mol/L|0,10 mol/L|0|n(Ag⁺) = 8,0 × 10⁻⁴ mol = n(Cl⁻) ; C = 8,0 × 10⁻⁴ ÷ 0,0200.
+Pour 2 A + B → produits, à l’équivalence on a :|n(A)₀ = n(B) versé|2 × n(A)₀ = n(B) versé|n(A)₀ = n(B) ÷ 2 versé|n(A)₀ = 2 × n(B) versé|3|Les quantités sont dans le rapport 2 : 1.
+L’avancement maximal est atteint quand :|le volume est maximal|les produits sont nuls|un réactif est entièrement consommé|la température est maximale|2|C’est la définition de xmax.
+Avant l’équivalence, le réactif limitant est :|le titré|le titrant|le produit|le solvant|1|Chaque goutte de titrant versée est entièrement consommée.
+Après l’équivalence, le réactif limitant est :|le titré|le titrant|le solvant|le produit|0|Le titré a été entièrement consommé.
+Pourquoi rincer la burette avec le titrant avant de la remplir ?|Pour la chauffer|Pour la colorer|Pour augmenter le volume|Pour ne pas diluer le titrant avec l’eau résiduelle|3|L’eau résiduelle modifierait la concentration.

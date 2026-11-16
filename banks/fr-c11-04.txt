@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Combien de doublets liants contient la molécule CH₄ ?|4|2|3|1|0|Le carbone forme 4 liaisons avec 4 atomes d’hydrogène.
+Quelle est la géométrie de CH₄ ?|Plane|Linéaire|Coudée|Tétraédrique|3|Quatre doublets liants s’écartent au maximum.
+Quelle est la géométrie de H₂O ?|Linéaire|Tétraédrique|Coudée|Plane triangulaire|2|L’oxygène porte 2 doublets non liants.
+Quelle est la géométrie de CO₂ ?|Coudée|Linéaire|Pyramidale|Tétraédrique|1|Les deux doubles liaisons sont opposées.
+L’électronégativité mesure la capacité d’un atome à :|attirer les électrons d’une liaison|perdre des protons|émettre des photons|absorber des neutrons|0|Plus un atome est électronégatif, plus il attire les électrons de la liaison.
+Quel est l’élément le plus électronégatif ?|Le sodium|L’hydrogène|Le carbone|Le fluor|3|Le fluor a une électronégativité de 3,98.
+Une liaison hydrogène s’établit entre :|deux atomes de carbone|deux ions|un atome H lié à O, N ou F et un atome porteur d’un doublet non liant|les protons d’un noyau|2|X–H ··· Y.
+La molécule d’eau est :|apolaire|polaire|ionique|monoatomique|1|Géométrie coudée et liaisons O–H polarisées.
+Quelle est la géométrie de NH₃ ?|Pyramidale|Plane|Linéaire|Tétraédrique régulière|0|3 doublets liants et 1 non liant.
+Combien de doublets non liants porte l’azote dans NH₃ ?|0|2|3|1|3|Il lui reste 2 électrons, soit 1 doublet.
+Combien de doublets non liants porte l’oxygène dans H₂O ?|0|1|2|4|2|L’oxygène a 6 électrons de valence : 2 sont engagés dans des liaisons.
+Pourquoi CO₂ est-elle apolaire malgré des liaisons C=O polarisées ?|Il n’y a pas de liaisons|Sa géométrie linéaire fait coïncider les centres des charges|L’oxygène est moins électronégatif que le carbone|Elle est ionique|1|Les effets des deux liaisons se compensent.
+CH₄ est apolaire car :|les liaisons C–H sont quasi apolaires et la molécule est symétrique|le carbone est plus électronégatif|elle possède des doublets non liants|c’est un ion|0|ΔEN(C–H) = 0,35 et géométrie symétrique.
+Que se passe-t-il quand NaCl se dissout dans l’eau ?|Formation de molécules NaCl|Oxydation|Fusion de l’eau|Dissociation des ions puis solvatation par l’eau|3|Les ions sont entourés de molécules d’eau.
+L’huile et l’eau sont :|miscibles|ioniques|non miscibles|identiques|2|Leurs polarités sont très différentes.
+Parmi ces interactions entre molécules, laquelle est en général la plus intense ?|L’interaction de van der Waals|La liaison hydrogène|La gravitation|La force magnétique|1|Elle est plus forte que les interactions de van der Waals.
+Pourquoi l’éthanol (78 °C) a-t-il une température d’ébullition plus élevée que le méthoxyméthane (−24 °C) ?|L’éthanol établit des liaisons hydrogène|L’éthanol est plus léger|L’éthanol est ionique|Le méthoxyméthane est plus polaire|0|Seul l’éthanol possède un groupe O–H.
+Comment explique-t-on que l’eau (100 °C) bout plus haut que H₂S (−60 °C) ?|Par la masse molaire|Par la couleur|Par la densité|Par les liaisons hydrogène de l’eau|3|Le soufre est peu électronégatif et n’en forme pas.
+Laquelle de ces molécules ne peut pas établir de liaisons hydrogène avec une molécule identique ?|H₂O|NH₃|CH₄|HF|2|CH₄ n’a pas d’atome H lié à O, N ou F.
+Pour extraire le diiode I₂ (apolaire) d’une solution aqueuse, on utilise :|de l’éthanol|un solvant apolaire non miscible à l’eau (cyclohexane)|de l’eau salée|un acide|1|I₂ est plus soluble dans le cyclohexane que dans l’eau.
+L’écart d’électronégativité de la liaison C–H est :|faible (≈ 0,35) : liaison quasi apolaire|très grand : liaison ionique|nul : liaison apolaire|supérieur à 2|0|χ(C) = 2,55 et χ(H) = 2,20.
+Quelle liaison est la plus polarisée ?|C–H|C–C|H–H|O–H|3|L’écart d’électronégativité vaut 1,24 pour O–H.
+La polarité d’une molécule dépend :|seulement du nombre d’atomes|seulement de la masse|de la polarité des liaisons et de la géométrie|du solvant|2|Les deux critères sont nécessaires.
+Quelle liaison relie les deux atomes d’azote dans N₂ ?|Une liaison simple|Une liaison triple|Une liaison double|Aucune liaison|1|Chaque azote forme 3 liaisons pour respecter l’octet.

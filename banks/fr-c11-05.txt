@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle est la formule générale des alcanes ?|CₙH₂ₙ|CₙH₂ₙ₊₂|CₙHₙ|CₙH₂ₙ₋₂|1|Un alcane est un hydrocarbure saturé.
+Quelle est la formule du butane ?|C₄H₁₀|C₄H₈|C₃H₈|C₅H₁₂|0|n = 4 donne C₄H₁₀.
+Quel est le groupe caractéristique des alcools ?|–CHO|–COOH|C=O|–OH|3|Le groupe hydroxyle.
+Quel suffixe indique un alcool ?|-al|-one|-ol|-oïque|2|Éthanol, propan-1-ol…
+Quel est le groupe caractéristique des acides carboxyliques ?|–OH|–COOH|–CHO|C=O|1|Le groupe carboxyle.
+Quelle est la formule du propane ?|C₃H₈|C₃H₆|C₂H₆|C₄H₁₀|0|n = 3 donne C₃H₈.
+Quels sont les produits de la combustion complète d’un hydrocarbure ?|Le monoxyde de carbone et l’eau|Le carbone et l’hydrogène|Le dioxygène et l’eau|Le dioxyde de carbone et l’eau|3|Tout le carbone est oxydé en CO₂.
+Une combustion incomplète produit aussi :|du diazote|de l’ozone|du monoxyde de carbone et/ou de la suie|de l’hélium|2|Le dioxygène est en défaut.
+Quel est le nom de CH₃–CH₂–CH₂–CH₃ ?|Le propane|Le butane|Le pentane|Le méthylpropane|1|La chaîne principale comporte 4 carbones.
+Quel est le nom de CH₃–CH(CH₃)–CH₃ ?|Le 2-méthylpropane|Le butane|Le propane|Le 2-éthylpropane|0|La chaîne principale a 3 carbones avec un groupe méthyle en position 2.
+Combien d’isomères de constitution possède le pentane C₅H₁₂ ?|2|4|1|3|3|Pentane, 2-méthylbutane et 2,2-diméthylpropane.
+L’éthanol et le méthoxyméthane sont :|identiques|des alcanes|des isomères de constitution (de fonction)|des acides|2|Ils ont la même formule brute C₂H₆O.
+Quel groupe caractéristique possède la propanone ?|–OH|C=O (cétone)|–COOH|–CHO|1|La propanone est une cétone.
+Quel est le nom de CH₃–CHO ?|L’éthanal|L’éthanol|L’acide éthanoïque|La propanone|0|Le groupe –CHO est celui des aldéhydes.
+Quand la chaîne carbonée d’un alcane s’allonge, sa température d’ébullition :|diminue|reste constante|devient nulle|augmente|3|Les interactions de van der Waals augmentent avec la taille.
+À formule brute identique, un alcane ramifié a une température d’ébullition :|plus élevée|identique|plus basse que celle de l’alcane linéaire|infinie|2|La ramification diminue la surface de contact entre molécules.
+Quelle est l’équation ajustée de la combustion complète de l’éthane ?|C₂H₆ + 3 O₂ → 2 CO₂ + 3 H₂O|2 C₂H₆ + 7 O₂ → 4 CO₂ + 6 H₂O|C₂H₆ + 2 O₂ → 2 CO₂ + 3 H₂O|2 C₂H₆ + 5 O₂ → 4 CO₂ + 6 H₂O|1|C : 4 = 4 ; H : 12 = 12 ; O : 14 = 8 + 6.
+Combien de moles de CO₂ se forment par combustion complète d’une mole d’octane ?|8 mol|9 mol|16 mol|1 mol|0|Chaque atome de carbone donne une molécule de CO₂.
+La combustion de 6,1 mol d’octane produit 49 mol de CO₂ (M = 44 g/mol). Quelle masse de CO₂ cela représente-t-il ?|0,22 kg|22 kg|8,0 kg|2,2 kg|3|m = 49 × 44 ≈ 2 160 g.
+Quelle énergie libère la combustion de 1,0 kg de méthane (890 kJ/mol ; M = 16 g/mol) ?|890 kJ|14 kJ|5,6 × 10⁴ kJ|5,6 × 10² kJ|2|n = 62,5 mol ; 62,5 × 890 ≈ 5,6 × 10⁴ kJ.
+Pourquoi l’éthanol (78 °C) bout-il à une température bien plus élevée que l’éthane (−89 °C) ?|Sa masse molaire est beaucoup plus faible|Il établit des liaisons hydrogène grâce à son groupe –OH|C’est un gaz|Il est apolaire|1|Les liaisons hydrogène renforcent la cohésion du liquide.
+Quel gaz à effet de serre est émis par les combustions d’hydrocarbures ?|Le dioxyde de carbone|Le dioxygène|Le diazote|L’hélium|0|C’est le produit de l’oxydation du carbone.
+Parmi ces combustibles, lequel libère le plus d’énergie par kilogramme ?|L’essence|Le bois|Tous libèrent la même énergie|L’hydrogène|3|Environ 1,2 × 10⁸ J/kg pour l’hydrogène.
+Quelle est la formule brute de l’hexane ?|C₆H₁₂|C₅H₁₂|C₆H₁₄|C₇H₁₆|2|n = 6 donne C₆H₁₄.
