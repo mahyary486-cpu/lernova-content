@@ -1,0 +1,9 @@
+#EEEMMMMH
+Na₂CO₃ 溶液中，电荷守恒式是？|c(Na⁺) + c(H⁺) = c(OH⁻) + c(HCO₃⁻) + 2c(CO₃²⁻)|c(Na⁺) = c(HCO₃⁻) + c(CO₃²⁻)|c(Na⁺) + c(H⁺) = c(OH⁻) + c(HCO₃⁻) + c(CO₃²⁻)|c(OH⁻) = c(H⁺) + c(HCO₃⁻)|0|CO₃²⁻ 带 2 个负电荷，前面要乘 2。
+CH₃COONa 溶液中，离子浓度的大小顺序是？|c(Na⁺) > c(CH₃COO⁻) > c(OH⁻) > c(H⁺)|c(CH₃COO⁻) > c(Na⁺) > c(H⁺) > c(OH⁻)|c(Na⁺) > c(OH⁻) > c(CH₃COO⁻) > c(H⁺)|c(Na⁺) = c(CH₃COO⁻)|0|CH₃COO⁻ 部分水解，溶液显碱性。
+用强碱滴定弱酸，恰好完全反应时，溶液？|显碱性|显酸性|显中性|无法确定|0|生成的弱酸强碱盐水解显碱性。
+NH₄Cl 溶液中，离子浓度的大小顺序是？|c(Cl⁻) > c(NH₄⁺) > c(H⁺) > c(OH⁻)|c(NH₄⁺) > c(Cl⁻) > c(OH⁻) > c(H⁺)|c(Cl⁻) = c(NH₄⁺)|c(H⁺) > c(NH₄⁺)|0|NH₄⁺ 部分水解，溶液显酸性。
+相同物质的量浓度的下列溶液中，c(NH₄⁺) 最大的是？|(NH₄)₂SO₄|NH₄Cl|CH₃COONH₄|NH₃·H₂O|0|(NH₄)₂SO₄ 每个单位含 2 个 NH₄⁺。
+等体积的 2×10⁻⁴ mol/L AgNO₃ 溶液与 2×10⁻⁴ mol/L NaCl 溶液混合（Ksp(AgCl) = 1.8×10⁻¹⁰），会？|有沉淀生成|无沉淀生成|恰好饱和|无法判断|0|混合后 Qc = 1×10⁻⁸ > Ksp。
+AgCl 沉淀可以转化为 AgI 沉淀，原因是？|Ksp(AgI) 小于 Ksp(AgCl)|Ksp(AgI) 大于 Ksp(AgCl)|AgI 更易溶|二者 Ksp 相等|0|沉淀向更难溶的方向转化。
+常温下 Ksp[Mg(OH)₂] = 1.8×10⁻¹¹，要使 Mg²⁺ 的浓度降至 1×10⁻⁵ mol/L，溶液的 pH 至少约为？|11.1|9.1|7|13|0|c(OH⁻) ≈ 1.34×10⁻³，pOH ≈ 2.87，pH ≈ 11.1。

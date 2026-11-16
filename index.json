@@ -13714,6 +13714,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 12,
+      "subject": "Chemistry",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn12c-ch1",
+          "title": "化学计算综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch1-l1",
+              "title": "物质的量计算综合"
+            },
+            {
+              "id": "cn12c-ch1-l2",
+              "title": "守恒法与差量法"
+            },
+            {
+              "id": "cn12c-ch1-l3",
+              "title": "多步反应与滴定计算"
+            }
+          ]
+        },
+        {
+          "id": "cn12c-ch2",
+          "title": "氧化还原与离子反应综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch2-l1",
+              "title": "氧化还原方程式的配平"
+            },
+            {
+              "id": "cn12c-ch2-l2",
+              "title": "离子反应综合与离子推断"
+            },
+            {
+              "id": "cn12c-ch2-l3",
+              "title": "电子转移的计算"
+            }
+          ]
+        },
+        {
+          "id": "cn12c-ch3",
+          "title": "元素化合物综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch3-l1",
+              "title": "金属及其化合物的转化"
+            },
+            {
+              "id": "cn12c-ch3-l2",
+              "title": "非金属及其化合物的转化"
+            },
+            {
+              "id": "cn12c-ch3-l3",
+              "title": "无机推断题"
+            }
+          ]
+        },
+        {
+          "id": "cn12c-ch4",
+          "title": "化学实验综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch4-l1",
+              "title": "气体的制备、净化与收集"
+            },
+            {
+              "id": "cn12c-ch4-l2",
+              "title": "物质的分离与提纯"
+            },
+            {
+              "id": "cn12c-ch4-l3",
+              "title": "实验方案的设计与评价"
+            }
+          ]
+        },
+        {
+          "id": "cn12c-ch5",
+          "title": "化学反应原理综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch5-l1",
+              "title": "热化学与盖斯定律综合"
+            },
+            {
+              "id": "cn12c-ch5-l2",
+              "title": "化学平衡综合"
+            },
+            {
+              "id": "cn12c-ch5-l3",
+              "title": "电化学综合"
+            }
+          ]
+        },
+        {
+          "id": "cn12c-ch6",
+          "title": "溶液中的离子平衡综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch6-l1",
+              "title": "溶液中的三大守恒"
+            },
+            {
+              "id": "cn12c-ch6-l2",
+              "title": "离子浓度大小比较"
+            },
+            {
+              "id": "cn12c-ch6-l3",
+              "title": "滴定曲线与沉淀溶解平衡计算"
+            }
+          ]
+        },
+        {
+          "id": "cn12c-ch7",
+          "title": "有机化学综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch7-l1",
+              "title": "官能团转化与有机推断"
+            },
+            {
+              "id": "cn12c-ch7-l2",
+              "title": "同分异构体的判断"
+            },
+            {
+              "id": "cn12c-ch7-l3",
+              "title": "糖类、油脂、蛋白质与合成高分子"
+            }
+          ]
+        },
+        {
+          "id": "cn12c-ch8",
+          "title": "物质结构综合",
+          "lessons": [
+            {
+              "id": "cn12c-ch8-l1",
+              "title": "原子结构与元素周期律综合"
+            },
+            {
+              "id": "cn12c-ch8-l2",
+              "title": "分子与晶体结构综合"
+            },
+            {
+              "id": "cn12c-ch8-l3",
+              "title": "晶胞计算综合"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
