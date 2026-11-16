@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Aşağıdakilerden hangisi vektörel bir büyüklüktür?|Kütle|Zaman|Kuvvet|Sıcaklık|2|Kuvvetin hem büyüklüğü hem yönü vardır; bu yüzden vektörel büyüklüktür.
+Aşağıdakilerden hangisi skaler bir büyüklüktür?|Yer değiştirme|Hız|İvme|Sürat|3|Sürat yalnızca büyüklükle belirtilir; hız, yer değiştirme ve ivme vektöreldir.
+Büyüklükleri 3 N ve 4 N olan, birbirine dik iki kuvvetin bileşkesi kaç N dur?|5|12|7|1|0|Dik kuvvetlerin bileşkesi Pisagor bağıntısıyla bulunur: √(3² + 4²) = 5 N.
+Yer değiştirmenin SI birimi aşağıdakilerden hangisidir?|newton|m/s|metre|saniye|2|Yer değiştirme bir uzunluk ölçüsüdür ve SI birimi metredir.
+Zıt yönlü 8 N ve 3 N lik kuvvetlerin bileşkesi kaç N dur?|5|3|24|11|0|Zıt yönlü kuvvetlerin bileşkesi büyükten küçük çıkarılarak bulunur: 8 − 3 = 5 N.
+Aynı noktaya etki eden 6 N ve 8 N lik kuvvetlerin bileşkesi hangi aralıkta olabilir?|2 N ile 14 N arasında|2 N ile 10 N arasında|0 ile 14 N arasında|6 N ile 8 N arasında|0|En küçük bileşke zıt yönde 8 − 6 = 2 N, en büyük bileşke aynı yönde 8 + 6 = 14 N dur.
+Hızın SI birimi aşağıdakilerden hangisidir?|m/s²|s|m|m/s|3|Hız = yer değiştirme / zaman olduğundan birimi m/s dir.
+72 km/h lik hız kaç m/s dir?|20|200|72|7,2|0|km/h değeri 3,6 ya bölünerek m/s ye çevrilir: 72/3,6 = 20.
+54 km/h hızla giden bir araç 20 saniyede kaç metre yol alır?|150|300|270|1080|1|54 km/h = 15 m/s ve yol = 15·20 = 300 m dir.
+Sabit hızlı hareketin konum–zaman grafiği nasıl bir çizgidir?|Eğik bir doğru|Yatay bir doğru|Parabol|Dikey bir doğru|0|Konum zamanla düzgün arttığı için grafik eğik doğrudur.
+Bir cisim önce 3 m doğuya, sonra 4 m kuzeye gidiyor. Yer değiştirmesi kaç m dir?|12|7|5|1|2|Yer değiştirme başlangıç ile bitiş noktası arasındaki en kısa uzaklıktır: √(3² + 4²) = 5 m.
+400 m uzunluğundaki dairesel pistte bir koşucu tam bir tur atıp başladığı noktaya dönüyor. Aşağıdakilerden hangisi doğrudur?|Alınan yol 400 m, yer değiştirme 0 dır|Alınan yol ve yer değiştirme 0 dır|Alınan yol 0, yer değiştirme 400 m dir|Alınan yol ve yer değiştirme 400 m dir|0|Yol çizilen toplam uzunluktur; yer değiştirme ise başlangıç ve bitiş noktası aynı olduğundan sıfırdır.
+Ortalama sürat nasıl hesaplanır?|Süre / toplam yol|Yer değiştirme · süre|Toplam yol · süre|Toplam yol / geçen süre|3|Ortalama sürat, alınan toplam yolun geçen toplam süreye oranıdır.
+Bir araç 60 km yolu 1 saatte, 90 km yolu 2 saatte alıyor. Aracın ortalama sürati kaç km/h dir?|50|45|60|75|0|Toplam yol 150 km, toplam süre 3 saattir; 150/3 = 50 km/h.
+Bir cisim yolun yarısını 20 m/s, diğer yarısını 30 m/s sürat ile alıyor. Ortalama sürati kaç m/s dir?|24|26|25|22|0|Her yarım yol d olsun: toplam süre d/20 + d/30 = d/12 ve ortalama sürat 2d/(d/12) = 24 m/s.
+Sabit 5 m/s hızla hareket eden bir cisim 6 saniyede kaç metre yol alır?|30|11|1|25|0|Yol = hız·zaman = 5·6 = 30 m.
+Konum–zaman grafiğinin eğimi hangi büyüklüğü verir?|Kütleyi|Hızı|Kuvveti|İvmeyi|1|Konumun zamana göre değişimi hızı verir; bu da grafiğin eğimidir.
+Bir cisim t = 0 anında x = 10 m, t = 5 s anında x = 40 m konumundan geçiyor. Hızı kaç m/s dir?|30|6|5|8|1|Hız = konum değişimi / süre = (40 − 10)/5 = 6 m/s.
+Hız–zaman grafiğinde zaman eksenine paralel bir doğru neyi gösterir?|Sabit hızlı hareketi|Hızın düzgün arttığını|Cismin durduğunu|Hızın düzgün azaldığını|0|Hız zamanla değişmiyorsa grafik yatay bir doğrudur.
+Hız–zaman grafiğinde eğrinin altında kalan alan neyi verir?|Kuvveti|Yer değiştirmeyi|Hızı|İvmeyi|1|Hız·zaman çarpımı yer değiştirmedir; bu da grafik altındaki alanla bulunur.
+Bir cismin hızı ilk 4 s boyunca 5 m/s, sonraki 2 s boyunca 10 m/s sabittir. Toplam yer değiştirmesi kaç m dir?|30|40|50|35|1|Yer değiştirme grafik altındaki alandır: 5·4 + 10·2 = 20 + 20 = 40 m.
+İvmenin SI birimi aşağıdakilerden hangisidir?|m/s²|m/s|N|kg|0|İvme hızın zamana göre değişimidir; birimi (m/s)/s = m/s² dir.
+Hızı 4 saniyede 0 dan 20 m/s ye çıkan bir aracın ivmesi kaç m/s² dir?|5|4|80|16|0|İvme = Δv / Δt = 20/4 = 5 m/s² dir.
+10 m/s hızla giden bir araç 2 m/s² sabit ivmeyle 5 saniye hızlanırsa son hızı kaç m/s olur?|10|15|20|25|2|v = v₀ + a·t = 10 + 2·5 = 20 m/s.
+Newton'un birinci hareket yasası hangi kavramla ilgilidir?|Eylemsizlik|Kütle çekimi|Isı alışverişi|Basınç|0|Cisimlerin hareket durumlarını koruma eğilimine eylemsizlik denir.
+Net kuvvet 12 N, kütle 3 kg olan bir cismin ivmesi kaç m/s² dir?|4|36|0,25|15|0|F = m·a olduğundan a = 12/3 = 4 m/s².
+Kütlesi 2 kg olan cisme yatay doğrultuda 10 N kuvvet uygulanıyor ve sürtünme kuvveti 4 N dur. Cismin ivmesi kaç m/s² dir?|5|2|3|7|2|Net kuvvet 10 − 4 = 6 N dur ve a = 6/2 = 3 m/s².
+Aşağıdakilerden hangisi doğadaki dört temel kuvvetten biri değildir?|Zayıf nükleer kuvvet|Kütle çekim kuvveti|Sürtünme kuvveti|Elektromanyetik kuvvet|2|Dört temel kuvvet: kütle çekim, elektromanyetik, zayıf nükleer ve güçlü nükleer kuvvettir.
+Ağırlığı 60 N olan bir cismin kütlesi kaç kg dır? (g = 10 m/s²)|600|60|6|0,6|2|G = m·g olduğundan m = 60/10 = 6 kg.
+Kütlesi 5 kg olan bir cisim yatay zeminde duruyor. Zeminin cisme uyguladığı tepki kuvveti kaç N dur? (g = 10 m/s²)|25|5|0|50|3|Cisim dengede olduğundan tepki kuvveti ağırlığa eşittir: 5·10 = 50 N.

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Canlıları ve yaşam olaylarını inceleyen bilim dalı aşağıdakilerden hangisidir?|Jeoloji|Biyoloji|Kimya|Astronomi|1|Canlıları ve yaşam olaylarını inceleyen bilim dalı biyolojidir.
+Aşağıdakilerden hangisi canlıların ortak özelliklerinden biri değildir?|Fotosentez yapmak|Hücresel yapıdan oluşmak|Metabolizma gerçekleştirmek|Üremek|0|Fotosentez yalnızca bazı canlılarda (bitki, alg gibi) görülür; diğerleri tüm canlılarda ortaktır.
+Bilimsel yöntemde gözlemden sonra yapılan, test edilebilir tahmine ne ad verilir?|Hipotez|Teori|Sonuç|Yasa|0|Gözlemlerden yola çıkarak kurulan ve deneyle sınanabilen geçici açıklamaya hipotez denir.
+Canlıda gerçekleşen tüm yapım ve yıkım tepkimelerinin toplamına ne ad verilir?|Metabolizma|Adaptasyon|Homeostasi|Üreme|0|Anabolizma ve katabolizmanın toplamı metabolizmadır.
+Canlıların çevresine uygun yapı ve davranışlar kazanmasına ne ad verilir?|Homeostasi|Metabolizma|Mutasyon|Adaptasyon (uyum)|3|Çevreye uygunluk sağlayan özelliklere adaptasyon denir.
+Bir canlının hava ısındıkça terleyerek vücut sıcaklığını sabit tutması canlıların hangi özelliğine örnektir?|Büyüme|Hareket|Üreme|Homeostasi|3|İç dengenin dış koşullar değişse de korunmasına homeostasi denir.
+Canlıların yapı ve görev birimi aşağıdakilerden hangisidir?|Doku|Organ|Hücre|Sistem|2|Tüm canlılar bir veya daha çok hücreden oluşur; hücre yapı ve görev birimidir.
+Aşağıdaki sıralamalardan hangisi basitten karmaşığa doğru doğrudur?|Sistem → organ → doku → hücre|Doku → hücre → organ → sistem|Organ → doku → hücre → sistem|Hücre → doku → organ → sistem|3|Hücreler doku, dokular organ, organlar sistem oluşturur.
+Aynı bölgede yaşayan farklı türlerin popülasyonlarının oluşturduğu topluluğa ne ad verilir?|Biyosfer|Komünite (topluluk)|Popülasyon|Ekosistem|1|Aynı alanda yaşayan tüm popülasyonların birlikte oluşturduğu yapıya komünite denir.
+Sınıflandırmada en küçük birim aşağıdakilerden hangisidir?|Cins|Tür|Familya|Takım|1|Sınıflandırma basamaklarının en küçüğü türdür.
+Aşağıdakilerden hangisi sınıflandırma basamaklarının büyükten küçüğe doğru doğru sıralamasıdır?|Tür → Cins → Familya → Takım → Sınıf → Şube → Âlem|Âlem → Sınıf → Şube → Takım → Familya → Cins → Tür|Şube → Âlem → Sınıf → Takım → Familya → Cins → Tür|Âlem → Şube → Sınıf → Takım → Familya → Cins → Tür|3|En geniş basamak âlem, en dar basamak türdür.
+Panthera leo ifadesinde "leo" neyi gösterir?|Cins adını|Tür adını|Âlem adını|Familya adını|1|İkili adlandırmada ilk sözcük cins, ikinci sözcük tür adıdır; "leo" tür adıdır.
+İkili adlandırma sistemini geliştiren bilim insanı kimdir?|Pasteur|Darwin|Linnaeus|Mendel|2|Canlıları cins ve tür adıyla adlandıran sistemi Linnaeus geliştirmiştir.
+Bilimsel adlandırmada genellikle hangi dil kullanılır?|Latince|Yunanca|Arapça|İngilizce|0|Uluslararası ortak anlaşma için bilimsel adlar Latince (veya Latinceleştirilmiş) sözcüklerle yazılır.
+Aynı cinse ait iki canlı için aşağıdakilerden hangisi kesinlikle doğrudur?|Birbirleriyle çiftleşip verimli döl verirler|Aynı türdendirler|Aynı familyaya da aittirler|Farklı âlemlerdendirler|2|Cins, familyanın alt basamağıdır; aynı cinsteki canlılar aynı familya, takım, sınıf, şube ve âlemde de yer alır.
+Aşağıdakilerden hangisi prokaryot bir canlıdır?|Mantar|Bakteri|Bitki|Hayvan|1|Bakterilerde zarla çevrili çekirdek yoktur; prokaryot hücre yapısındadır.
+Aşağıdakilerden hangisi mantarlar âlemine aittir?|Amip|Öglena|Maya|Paramesyum|2|Maya tek hücreli bir mantardır; amip, öglena ve paramesyum protisttir.
+Amip ve paramesyum hangi âleme aittir?|Bakteriler|Bitkiler|Protista (protistler)|Mantarlar|2|Tek hücreli ökaryot canlılar protistler âlemindedir; amip ve paramesyum bunlardandır.
+Virüslerle ilgili aşağıdakilerden hangisi doğrudur?|Bağımsız olarak çoğalırlar|Mitokondri taşırlar|Hücresel yapıları yoktur|Hücre zarı bulunur|2|Virüsler hücresel yapıda değildir; ancak canlı hücre içinde çoğalabilirler.
+Virüsler yalnızca nerede çoğalabilir?|Cansız ortamda|Saf suda|Canlı konak hücre içinde|Havada|2|Virüsler kendi başlarına çoğalamaz; konak hücrenin enzimlerini kullanır.
+Virüslerin genetik materyalini çevreleyen protein kılıfa ne ad verilir?|Kapsid|Çekirdek|Sitoplazma|Ribozom|0|Virüsün nükleik asidini saran protein kılıf kapsiddir.
+Aşağıdakilerden hangisi ototrof (kendi besinini yapan) bir canlıdır?|Kedi|Mantar|Ağaç|Aslan|2|Ağaç fotosentezle kendi besinini üretir; diğerleri hazır besin alır.
+Aşağıdakilerden hangisi omurgalı bir hayvandır?|Kelebek|Yengeç|Solucan|Balık|3|Balık omurgalıdır; kelebek, solucan ve yengeç omurgasızdır.
+Aşağıdaki hayvanlardan hangisi kuşlar sınıfındadır?|Penguen|Timsah|Yarasa|Yunus|0|Penguen kanatları olan, yumurtayla ürenen bir kuştur; yarasa ve yunus memeli, timsah sürüngendir.
+Biyoçeşitlilik nedir?|İklim çeşitliliği|Yalnızca bitki sayısı|Yalnızca hayvan sayısı|Bir bölgedeki canlı türlerinin, genetik ve ekosistem çeşitliliğinin tümü|3|Biyoçeşitlilik; tür, genetik ve ekosistem çeşitliliğini kapsar.
+Aşağıdakilerden hangisi biyoçeşitliliği azaltan bir etkidir?|Gen bankası oluşturulması|Koruma alanı ilan edilmesi|Yaşam alanlarının tahrip edilmesi|Milli park kurulması|2|Habitatın yok edilmesi türlerin barınma ve beslenme alanını yok eder.
+Türkiye'de biyoçeşitliliğin zengin olmasında hangi etken önemlidir?|Farklı iklim ve coğrafya koşullarının bulunması|Yalnızca denizlerle çevrili olması|Çok soğuk iklim|Tek tip iklim|0|Türkiye'de farklı iklim tipleri ve yer şekilleri çok sayıda yaşam alanı oluşturur.
+Yalnızca belirli bir bölgede yaşayan ve başka yerde bulunmayan türlere ne ad verilir?|Göçmen tür|Evcil tür|Endemik tür|Yabancı tür|2|Dar bir alana özgü olan türlere endemik tür denir.
+Tohum bankaları hangi koruma yöntemine örnektir?|Genetik mühendisliği|Ekosistem koruması|Yerinde (in situ) koruma|Yerinde dışı (ex situ) koruma|3|Türlerin doğal ortamları dışında saklanmasına yerinde dışı koruma denir.
+Türleri doğal yaşam alanlarında koruma yöntemine ne ad verilir?|Yerinde (in situ) koruma|Gen bankası|Hayvanat bahçesi|Yerinde dışı (ex situ) koruma|0|Milli parklar ve koruma alanları türleri kendi doğal yaşam alanında korur.

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Sıcaklık hangi aletle ölçülür?|Barometre|Termometre|Kronometre|Dinamometre|1|Sıcaklığı ölçmek için termometre kullanılır.
+Aşağıdakilerden hangisi doğrudur?|Isı termometreyle ölçülür|Isının SI birimi kelvindir|Sıcaklık bir enerji türüdür|Isı, sıcaklık farkı nedeniyle aktarılan enerjidir|3|Isı, sıcaklıkları farklı cisimler arasında aktarılan enerjidir; sıcaklık ise ortalama kinetik enerjinin ölçüsüdür.
+Aynı sıcaklıktaki iki kaptan birinde 1 kg, diğerinde 2 kg su vardır. Aşağıdakilerden hangisi doğrudur?|2 kg suyun sıcaklığı daha yüksektir|1 kg suyun sıcaklığı daha yüksektir|Sıcaklıkları eşittir, 2 kg suyun iç enerjisi daha büyüktür|İç enerjileri eşittir|2|Sıcaklık ortalama kinetik enerjiyle ilgilidir; iç enerji ise toplam enerjidir ve madde miktarıyla artar.
+Isının SI birimi aşağıdakilerden hangisidir?|Newton|Joule|Kelvin|Watt|1|Isı bir enerji türüdür ve SI birimi joule dür.
+0 °C kaç kelvindir?|373|−273|273|0|2|T(K) = T(°C) + 273 olduğundan 0 °C = 273 K dir.
+300 K kaç °C dir?|573|33|300|27|3|°C = K − 273 olduğundan 300 − 273 = 27 °C.
+Suyun normal koşullarda donma sıcaklığı kaç °C dir?|100|0|−10|37|1|Saf su deniz seviyesinde 0 °C de donar.
+Suyun normal koşullarda kaynama sıcaklığı kaç kelvindir?|373|100|473|273|0|100 °C = 100 + 273 = 373 K dir.
+Bir maddenin sıcaklığı 50 °C artarsa kelvin cinsinden artış kaç K olur?|323|223|50|273|2|Kelvin ve Celsius ölçeklerinde sıcaklık farkı aynıdır: ΔT = 50 K.
+Isı alışverişi hangi yönde gerçekleşir?|Sıcaktan soğuğa|Soğuktan sıcağa|Her iki yönde eşit|Isı alışverişi olmaz|0|Isı kendiliğinden sıcaklığı yüksek cisimden düşük cisme geçer.
+2 kg suyun sıcaklığı 10 °C artırılırsa gereken ısı kaç J dur? (c = 4200 J/kg·°C)|840 000|84 000|8 400|42 000|1|Q = m·c·ΔT = 2·4200·10 = 84 000 J.
+0,5 kg suyun sıcaklığı 20 °C den 60 °C ye çıkarılırsa gereken ısı kaç kJ dür? (c = 4200 J/kg·°C)|84|8,4|42|168|0|ΔT = 40 °C; Q = 0,5·4200·40 = 84 000 J = 84 kJ.
+Özısının SI birimi aşağıdakilerden hangisidir?|W|N|J|J/kg·K|3|Özısı, 1 kg maddenin sıcaklığını 1 K değiştirmek için gereken ısıdır; birimi J/kg·K dir.
+Özısısı büyük olan bir madde için aşağıdakilerden hangisi doğrudur?|Hiç ısınmaz|Isı alamaz|Aynı ısıyla daha az ısınır|Aynı ısıyla daha çok ısınır|2|Q = m·c·ΔT bağıntısına göre c büyükse aynı Q ve m için ΔT küçük olur.
+Kütleleri eşit A ve B maddelerinin özısıları sırasıyla 2 ve 4 birimdir. Eşit ısı verilirse sıcaklık değişimlerinin oranı ΔT_A / ΔT_B kaç olur?|1/2|1|2|4|2|ΔT = Q/(m·c) olduğundan ΔT, c ile ters orantılıdır: ΔT_A/ΔT_B = c_B/c_A = 4/2 = 2.
+Katı bir maddenin sıvı hâle geçmesine ne denir?|Yoğuşma|Donma|Erime|Buharlaşma|2|Katıdan sıvıya geçiş erimedir.
+Gazın doğrudan katı hâle geçmesine ne denir?|Yoğuşma|Süblimleşme|Kırağılaşma|Donma|2|Gazdan katıya doğrudan geçişe kırağılaşma, katıdan gaza doğrudan geçişe süblimleşme denir.
+Saf bir maddenin erimesi sırasında sıcaklığı nasıl değişir?|Sabit kalır|Önce artar sonra azalır|Artar|Azalır|0|Hâl değişimi sırasında verilen ısı, sıcaklığı değil moleküller arası bağları etkiler; sıcaklık sabit kalır.
+Güneş'ten Dünya'ya enerjinin ulaşması hangi ısı aktarım yoluyla gerçekleşir?|Konveksiyon (taşınım)|İletim|Süblimleşme|Işıma|3|Boşlukta ısı yalnızca ışıma ile aktarılabilir.
+Katılarda ısı aktarımı genellikle hangi yolla olur?|Konveksiyon (taşınım)|İletim|Işıma|Yoğuşma|1|Katılarda taneciklerin yerleri sabittir; ısı titreşim yoluyla iletilir.
+Kapta ısıtılan suyun alt kısmındaki sıcak suyun yükselip üst kısmındaki soğuk suyun aşağı inmesi hangi ısı aktarım türüne örnektir?|İletim|Süblimleşme|Işıma|Konveksiyon (taşınım)|3|Akışkanlarda ısının madde hareketiyle taşınmasına konveksiyon denir.
+Ocaktaki tencerenin metal sapının ısınması hangi yolla olur?|İletim|Işıma|Konveksiyon (taşınım)|Buharlaşma|0|Katı metal boyunca ısı iletim yoluyla yayılır.
+Termosun cam çeperleri arasındaki boşluğun havasının alınmış (vakum) olması hangi ısı aktarımlarını engeller?|Erimeyi|İletim ve konveksiyonu|Donmayı|Yalnızca ışımayı|1|Vakumda madde olmadığı için iletim ve konveksiyon olmaz; ışımayı da yansıtıcı yüzey azaltır.
+Aşağıdakilerden hangisi ısıyı en iyi iletir?|Cam|Plastik|Bakır|Tahta|2|Metaller, özellikle bakır, ısıyı iyi iletir; tahta, cam ve plastik yalıtkandır.
+Aşağıdakilerden hangisi ısı yalıtımına örnektir?|Binalara mantolama yapılması|Güneşte kalan arabanın ısınması|Tencerenin ocakta ısıtılması|Metal kaşığın sıcak çaya batırılması|0|Mantolama binadan ısı kaybını azaltır; bu bir ısı yalıtımı uygulamasıdır.
+0 °C deki 2 kg buzun tamamen erimesi için gereken ısı kaç kJ dür? (L = 334 kJ/kg)|668|1 336|167|334|0|Q = m·L = 2·334 = 668 kJ.
+0 °C deki 0,2 kg buz tamamen eritilip oluşan su 20 °C ye kadar ısıtılıyor. Toplam ısı kaç kJ dür? (L = 334 kJ/kg, c = 4,2 kJ/kg·°C)|66,8|16,8|83,6|100,4|2|Erime ısısı 0,2·334 = 66,8 kJ; ısıtma 0,2·4,2·20 = 16,8 kJ; toplam 83,6 kJ.
+İç enerji nedir?|Maddenin hacmi|Maddenin sıcaklığı|Madde taneciklerinin kinetik ve potansiyel enerjilerinin toplamı|Maddenin kütlesi|2|İç enerji, maddeyi oluşturan tanecikler arasındaki kinetik ve potansiyel enerjilerin toplamıdır.
+Bir maddenin sıcaklığı artırılırsa tanecikleri ortalama kinetik enerjisi ne olur?|Sıfır olur|Azalır|Artar|Değişmez|2|Sıcaklık, taneciklerin ortalama kinetik enerjisinin ölçüsüdür; sıcaklık artarsa ortalama kinetik enerji artar.
+Sıcaklıkları farklı iki cisim birbirine temas ettirilirse yeterince beklendiğinde ne olur?|Sıcaklıkları eşitlenir|Kütleleri eşitlenir|Isıları eşitlenir|İç enerjileri eşitlenir|0|Isıl dengeye ulaşıldığında cisimlerin sıcaklıkları eşit olur.

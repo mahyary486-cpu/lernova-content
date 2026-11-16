@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Canlıların yapısında en fazla bulunan bileşik aşağıdakilerden hangisidir?|Su|Protein|Mineral|Yağ|0|Canlı vücudunun büyük bölümü sudur.
+Canlılarda öncelikli enerji kaynağı olarak kullanılan organik besin aşağıdakilerden hangisidir?|Vitamin|Su|Karbonhidrat|Mineral|2|Hücreler enerjiyi öncelikle karbonhidratların (glikoz) yıkımından elde eder.
+100 amino asit birbirine bağlanarak tek zincirli bir protein oluşturursa kaç peptit bağı oluşur?|98|101|99|100|2|n amino asitten oluşan tek zincirde n − 1 peptit bağı vardır.
+Karbonhidratların yapı taşı aşağıdakilerden hangisidir?|Yağ asidi|Amino asit|Nükleotit|Monosakkarit (glikoz gibi)|3|Karbonhidratlar monosakkaritlerin birleşmesinden oluşur.
+Yağların yapısında hangi iki bileşen bulunur?|Gliserol ve yağ asidi|Amino asit ve glikoz|Glikoz ve fruktoz|Nükleotit ve fosfat|0|Yağ molekülü 1 gliserol ve 3 yağ asidinden oluşur.
+Sofra şekeri (sakkaroz) hangi iki monosakkaritin birleşmesinden oluşur?|Glikoz ve glikoz|Glikoz ve galaktoz|Glikoz ve fruktoz|Fruktoz ve galaktoz|2|Sakkaroz bir disakkarittir; glikoz ve fruktozdan oluşur.
+Enzimlerin kimyasal yapısı aşağıdakilerden hangisidir?|Karbonhidrat|Yağ|Protein|Mineral|2|Enzimlerin büyük çoğunluğu protein yapılıdır.
+Enzimlerin görevi aşağıdakilerden hangisidir?|Enerji depolamak|Hücreyi korumak|Tepkime hızını artırmak|Madde taşımak|2|Enzimler aktivasyon enerjisini düşürerek tepkimeleri hızlandırır.
+Sıcaklık çok yükselirse enzime ne olur?|Yapısı bozulur (denatüre olur)|Etkilenmez|Substrat sayısı artar|Aktivitesi sürekli artar|0|Aşırı sıcaklık proteinin yapısını bozar; enzim işlevini kaybeder.
+Aşağıdakilerden hangisi bir mineral değildir?|Sodyum|Glikoz|Kalsiyum|Demir|1|Glikoz bir karbonhidrattır; kalsiyum, demir ve sodyum mineraldir.
+Hemoglobinin yapısında bulunan mineral aşağıdakilerden hangisidir?|Sodyum|Kalsiyum|Demir|Potasyum|2|Hemoglobin demir içerir; oksijen taşınmasında rol oynar.
+Suyun özgül ısısının yüksek olması canlılar için ne sağlar?|Vücut sıcaklığının dengede kalmasına yardımcı olur|Enzim yapımını|Kalıtsal bilginin saklanmasını|Besin üretimini|0|Su kolay ısınıp soğumadığından canlıların sıcaklığı ani değişimlerden korunur.
+Hücreyi ilk kez gözlemleyen bilim insanı kimdir?|Robert Hooke|Darwin|Mendel|Pasteur|0|Robert Hooke, mantar dokusunu mikroskopla inceleyerek hücreyi ilk kez gözlemlemiştir.
+Hücre teorisine göre yeni hücreler nasıl oluşur?|Cansız maddeden|Kendiliğinden|Sudan|Var olan hücrelerden|3|Hücre teorisine göre her hücre önceden var olan bir hücrenin bölünmesiyle oluşur.
+Oküler merceği 10x, objektif merceği 40x olan ışık mikroskobunun toplam büyütmesi kaç katıdır?|50|30|400|4 000|2|Toplam büyütme, mercek büyütmelerinin çarpımıdır: 10·40 = 400.
+Hücrenin yönetim merkezi aşağıdakilerden hangisidir?|Koful|Lizozom|Çekirdek|Ribozom|2|Çekirdek genetik materyali taşır ve hücre faaliyetlerini yönetir.
+Hücrenin enerji santrali olarak bilinen organel aşağıdakilerden hangisidir?|Mitokondri|Ribozom|Golgi aygıtı|Kloroplast|0|Mitokondri ATP üretimini gerçekleştirir.
+Bitki hücresinde bulunan ama hayvan hücresinde bulunmayan organel aşağıdakilerden hangisidir?|Ribozom|Mitokondri|Çekirdek|Kloroplast|3|Kloroplast fotosentez yapan bitki hücrelerine özgüdür; hayvan hücresinde yoktur.
+Protein sentezinin yapıldığı organel aşağıdakilerden hangisidir?|Lizozom|Ribozom|Sentrozom|Koful|1|Proteinler ribozomlarda sentezlenir.
+Hücre içi sindirimden sorumlu organel aşağıdakilerden hangisidir?|Golgi aygıtı|Ribozom|Mitokondri|Lizozom|3|Lizozom sindirim enzimleri içerir ve hücre içi sindirim yapar.
+Maddeleri paketleyip hücre dışına salgılanmasını sağlayan organel aşağıdakilerden hangisidir?|Mitokondri|Ribozom|Lizozom|Golgi aygıtı|3|Golgi aygıtı maddeleri paketler, depolar ve salgılar.
+Bitki hücresinde selülozdan oluşan koruyucu yapı aşağıdakilerden hangisidir?|Çekirdek|Ribozom|Hücre zarı|Hücre duvarı|3|Selülozdan oluşan hücre duvarı bitki hücresine şekil ve destek sağlar.
+Hayvan hücrelerinde bulunan, bölünme sırasında iğ ipliklerinin oluşumuna katılan organel hangisidir?|Kloroplast|Sentrozom (sentriyol)|Hücre duvarı|Büyük koful|1|Sentrozom hayvan hücrelerinde hücre bölünmesinde iğ ipliklerini düzenler.
+Prokaryot hücrelerde aşağıdakilerden hangisi bulunur?|Mitokondri|Golgi aygıtı|Ribozom|Çekirdek zarı|2|Prokaryotlarda zarlı organel yoktur; ribozom bulunur.
+Maddelerin yoğun ortamdan az yoğun ortama enerji harcamadan geçişine ne ad verilir?|Difüzyon|Aktif taşıma|Endositoz|Ozmoz|0|Difüzyonda maddeler yoğunluk farkı yönünde ve enerji harcanmadan hareket eder.
+Suyun yarı geçirgen bir zardan geçişine ne ad verilir?|Fagositoz|Difüzyon|Ozmoz|Aktif taşıma|2|Suyun yarı geçirgen zardan geçişi ozmozdur.
+Hayvan hücresi saf suya konulursa ne olur?|Değişmez|Hücre duvarı sayesinde şekli korunur|Su alarak şişer ve patlayabilir|Büzülür|2|Saf su hipotonik ortamdır; hücreye su girer ve hücre şişer.
+Aktif taşıma için aşağıdakilerden hangisi gereklidir?|Yoğunluk farkı yönünde hareket|Yalnızca su|ATP (enerji)|Işık|2|Aktif taşımada maddeler yoğunluk farkına karşı taşınır; bu nedenle ATP harcanır.
+Hücre zarının temel yapısını oluşturan moleküller hangileridir?|Fosfolipit ve protein|Glikoz ve fruktoz|Selüloz ve nişasta|DNA ve RNA|0|Hücre zarı fosfolipit çift katman ve proteinlerden oluşur.
+Fosfolipit moleküllerinin hücre zarındaki dizilişi nasıldır?|Rastgele küme|Tek katman|Üç katman|Çift katman|3|Sıvı mozaik modele göre fosfolipitler çift katman oluşturur.

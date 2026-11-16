@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+f(x) = 2x + 3 ise f(4) kaçtır?|14|9|11|10|2|f(4) = 2·4 + 3 = 11 olur.
+f(x) = 3x − 1 ve f(a) = 14 ise a kaçtır?|6|4|15|5|3|3a − 1 = 14 denkleminden 3a = 15 ve a = 5 bulunur.
+Doğrusal bir f fonksiyonu için f(1) = 5 ve f(3) = 11 ise f(0) kaçtır?|1|3|2|4|2|Eğim (11 − 5)/(3 − 1) = 3 tür; f(x) = 3x + 2 olur ve f(0) = 2 dir.
+y = 2x + 1 doğrusunun y eksenini kestiği nokta aşağıdakilerden hangisidir?|(0, 2)|(0, 1)|(2, 0)|(1, 0)|1|y eksenini kesen noktada x = 0 olur ve y = 1 bulunur.
+y = −2x + 6 doğrusunun x eksenini kestiği nokta aşağıdakilerden hangisidir?|(3, 0)|(6, 0)|(0, 6)|(−3, 0)|0|x eksenini kesen noktada y = 0 olur: −2x + 6 = 0 ve x = 3.
+(1, 2) ve (3, 8) noktalarından geçen doğrunun eğimi kaçtır?|2|3|1/3|4|1|Eğim = (8 − 2)/(3 − 1) = 3 tür.
+2x − 6 = 0 denkleminin çözümü aşağıdakilerden hangisidir?|x = 6|x = −3|x = 2|x = 3|3|2x = 6 olduğundan x = 3 bulunur.
+3(x − 2) = x + 4 ise x kaçtır?|3|5|7|4|1|Parantez açılınca 3x − 6 = x + 4 olur ve 2x = 10, x = 5 bulunur.
+(x + 1)/2 − (x − 1)/3 = 2 ise x kaçtır?|6|5|7|9|2|Paydalar 6'da eşitlenince 3(x + 1) − 2(x − 1) = 12 olur ve x + 5 = 12, x = 7 bulunur.
+∣−7∣ kaçtır?|14|0|−7|7|3|Mutlak değer, sayının sıfıra olan uzaklığıdır; ∣−7∣ = 7 dir.
+∣x − 3∣ = 5 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{−2, 8}|{2, 8}|{−8, 2}|{−2, −8}|0|x − 3 = 5 veya x − 3 = −5 olur; x = 8 veya x = −2.
+∣2x − 1∣ = ∣x + 4∣ denkleminin çözümlerinin toplamı kaçtır?|4|3|6|5|0|2x − 1 = x + 4 → x = 5 ve 2x − 1 = −(x + 4) → x = −1; toplam 4.
+∣−3∣ + ∣2∣ işleminin sonucu kaçtır?|1|5|6|−1|1|∣−3∣ = 3 ve ∣2∣ = 2 olduğundan toplam 5 tir.
+x < 0 ise ∣x∣ + x ifadesi neye eşittir?|x|0|2x|−2x|1|x negatifken ∣x∣ = −x olur; −x + x = 0.
+x < −2 iken ∣x + 2∣ + ∣x − 1∣ ifadesi aşağıdakilerden hangisine eşittir?|−2x − 1|−3|−2x + 1|2x + 1|0|x < −2 için x + 2 < 0 ve x − 1 < 0 olduğundan her iki mutlak değer de işaret değiştirir.
+x + 5 < 9 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(4, ∞)|(−∞, 4)|(−∞, −4)|(−∞, 14)|1|Her iki taraftan 5 çıkarılırsa x < 4 bulunur.
+2x − 3 ≥ 7 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(5, ∞)|[2, ∞)|[5, ∞)|(−∞, 5]|2|2x ≥ 10 olduğundan x ≥ 5 tir; 5 dahildir.
+−3 < 2x + 1 ≤ 9 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−2, 4)|(−2, 4]|[−2, 4)|(−1, 4]|1|Her tarafa 1 çıkarılıp 2'ye bölünürse −2 < x ≤ 4 bulunur.
+−2x > 6 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−∞, −3)|(3, ∞)|(−∞, 3)|(−3, ∞)|0|Negatif bir sayıya bölünürken eşitsizliğin yönü değişir: x < −3.
+∣x∣ < 3 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−3, 3)|(−∞, 3)|(−∞, −3) ∪ (3, ∞)|[−3, 3]|0|Uzaklığı 3'ten küçük olan sayılar −3 ile 3 arasındadır.
+∣x − 2∣ ≤ 3 eşitsizliğini sağlayan kaç tam sayı vardır?|6|7|8|5|1|−3 ≤ x − 2 ≤ 3 olduğundan −1 ≤ x ≤ 5 tir; tam sayılar −1, 0, 1, 2, 3, 4, 5.
+Eğimi 4 olan ve y eksenini (0, −2) noktasında kesen doğrunun denklemi aşağıdakilerden hangisidir?|y = 2x − 4|y = 4x − 2|y = −2x + 4|y = 4x + 2|1|y = mx + n biçiminde m = 4 ve n = −2 dir.
+y = 2x + 1 doğrusuna paralel ve (0, 5) noktasından geçen doğrunun denklemi aşağıdakilerden hangisidir?|y = 2x + 1|y = x + 5|y = 2x + 5|y = −2x + 5|2|Paralel doğruların eğimleri eşittir; m = 2 ve n = 5 tir.
+2x + 3y = 12 doğrusunun eksenleri kestiği noktalar ile orijin arasında oluşan üçgenin alanı kaç birimkaredir?|10|6|12|24|2|Doğru eksenleri (6, 0) ve (0, 4) noktalarında keser; alan 6·4/2 = 12.
+Bir taksinin açılış ücreti 10 TL, kilometre başına ücreti 5 TL dir. 4 km için ücret kaç TL dir?|40|30|25|20|1|Ücret f(x) = 5x + 10 olduğundan f(4) = 30 TL dir.
+Bir telefon tarifesinde sabit ücret 30 TL ve dakika başına ücret 0,5 TL dir. Toplam ücret 55 TL ise konuşma kaç dakika sürmüştür?|25|110|50|60|2|30 + 0,5x = 55 denkleminden 0,5x = 25 ve x = 50 bulunur.
+Bir havuzda başlangıçta 20 litre su vardır ve bir musluktan dakikada 3 litre su akmaktadır. Havuzda 74 litre su olması için kaç dakika geçmelidir?|16|20|24|18|3|20 + 3t = 74 denkleminden 3t = 54 ve t = 18 dir.
+2x + y = 7 ve x = 2 ise y kaçtır?|5|3|4|2|1|x yerine 2 yazılırsa 4 + y = 7 olur ve y = 3 bulunur.
+x + y = 10 ve x − y = 4 ise x · y kaçtır?|18|12|28|21|3|Denklemler toplanınca 2x = 14, x = 7 ve y = 3 bulunur; çarpım 21 dir.
+2x + 3y = 13 ve x − y = −1 ise x · y kaçtır?|8|5|6|4|2|x = y − 1 yazılırsa 5y − 2 = 13 olur; y = 3, x = 2 ve x·y = 6 dır.

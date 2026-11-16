@@ -1,0 +1,4 @@
+{
+  "Isı ve sıcaklık": "Sıcaklık, taneciklerin ortalama kinetik enerjisinin ölçüsüdür; ısı ise sıcaklık farkından dolayı aktarılan enerjidir. Sıcaklığın SI birimi kelvin, ısının birimi joule dür. Isı miktarı Q = m·c·ΔT bağıntısıyla hesaplanır.",
+  "Hâl değişimi ve ısı aktarımı": "Saf maddelerde hâl değişimi sırasında sıcaklık sabit kalır; erime için Q = m·L bağıntısı kullanılır. Isı üç yolla aktarılır: iletim (katılarda), konveksiyon (akışkanlarda) ve ışıma (boşlukta da). Isı yalıtımı ısı kaybını azaltır."
+}

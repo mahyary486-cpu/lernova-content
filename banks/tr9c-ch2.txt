@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Metal ve ametal atomları arasında oluşan bağ türü aşağıdakilerden hangisidir?|İyonik bağ|Kovalent bağ|Metalik bağ|Hidrojen bağı|0|Metal elektron verir, ametal alır; zıt yüklü iyonlar arasında iyonik bağ oluşur.
+NaCl bileşiğindeki bağ türü aşağıdakilerden hangisidir?|İyonik bağ|Metalik bağ|Van der Waals etkileşimi|Kovalent bağ|0|Na metal, Cl ametaldir; aralarında iyonik bağ vardır.
+Aşağıdaki bileşiklerden hangisinde iyonik bağ vardır?|MgO|CO₂|H₂O|N₂|0|Mg metal, O ametaldir; MgO iyonik bileşiktir. CO₂, H₂O ve N₂ ametallerden oluşan kovalent bileşiklerdir.
+İki ametal atomu arasında oluşan bağ türü aşağıdakilerden hangisidir?|Kovalent bağ|Hidrojen bağı|Metalik bağ|İyonik bağ|0|Ametal atomları elektronlarını ortaklaşa kullanarak kovalent bağ oluşturur.
+H₂O molekülündeki H–O bağı aşağıdakilerden hangisidir?|Metalik bağ|İyonik bağ|Polar kovalent bağ|Apolar kovalent bağ|2|H ve O farklı elektronegatifliktedir; ortaklanan elektronlar O'ya daha yakındır, bağ polardır.
+Aşağıdaki moleküllerden hangisinde apolar kovalent bağ vardır?|H₂O|Cl₂|HCl|NaCl|1|Aynı cins atomlar arasındaki bağ apolardır: Cl–Cl.
+Metal atomları arasında oluşan bağ türü aşağıdakilerden hangisidir?|Kovalent bağ|Hidrojen bağı|İyonik bağ|Metalik bağ|3|Metal atomları arasında değerlik elektronlarının ortak havuzda paylaşıldığı metalik bağ bulunur.
+Metallerin elektriği iletmesinin nedeni aşağıdakilerden hangisidir?|Serbest hareket eden değerlik elektronları|Nötronlar|Hidrojen bağları|Protonlar|0|Metalik bağda değerlik elektronları serbesttir ve yük taşıyarak elektriği iletir.
+Metallerin tel ve levha hâline getirilebilmesi (işlenebilmesi) hangi özellikten kaynaklanır?|Hidrojen bağları|Metalik bağın yönsüz olması ve tabakaların kayabilmesi|Metallerin hafif olması|İyonik bağın kırılgan olması|1|Metalik bağda atom tabakaları elektron denizinde birbiri üzerinde kayabilir; yapı bozulmaz.
+Atomlar bağ yaparak kararlı olmak için hangi elektron düzenini hedefler?|Tek elektronlu düzen|Yarı dolu katman|Boş katman|Soygaz (dublet/oktet) düzenini|3|Atomlar son katmanlarını soygazlar gibi tamamlamaya (He için 2, diğerleri için 8) eğilimlidir.
+Azot atomunun (Z = 7) değerlik elektron sayısı kaçtır?|3|2|5|7|2|Elektron dizilimi 2, 5 olduğundan değerlik elektron sayısı 5 tir.
+NH₃ molekülünde azot atomunun ortaklanmamış elektron çifti sayısı kaçtır?|3|2|1|0|2|Azotun 5 değerlik elektronundan 3 ü H ile bağ yapar; kalan 2 elektron 1 ortaklanmamış çift oluşturur.
+Suyun molekül formülü aşağıdakilerden hangisidir?|OH|H₂O₂|HO₂|H₂O|3|Su molekülü 2 hidrojen ve 1 oksijen atomundan oluşur: H₂O.
+CO₂ molekülünde toplam kaç bağ elektron çifti vardır?|2|4|6|3|1|CO₂ de karbon her oksijenle çift bağ yapar; her çift bağ 2 elektron çiftidir, toplam 4.
+Polar bağlar içerdiği hâlde apolar olan molekül aşağıdakilerden hangisidir?|HCl|CO₂|NH₃|H₂O|1|CO₂ doğrusaldır; iki polar bağın etkileri birbirini yok eder ve molekül apolar olur.
+Aşağıdakilerden hangisi zayıf etkileşimdir?|Metalik bağ|Hidrojen bağı|Kovalent bağ|İyonik bağ|1|İyonik, kovalent ve metalik bağlar güçlü etkileşimlerdir; hidrojen bağı zayıf etkileşimdir.
+Hidrojen bağı oluşabilmesi için hidrojen hangi atomlardan birine bağlı olmalıdır?|F, O, N|Na, K, Li|C, S, P|Cl, Br, I|0|Hidrojen bağı için H, küçük ve çok elektronegatif olan F, O veya N atomlarına bağlı olmalıdır.
+Aşağıdaki maddelerden hangisinin molekülleri arasında hidrojen bağı vardır?|CH₄|N₂|CO₂|H₂O|3|H₂O da H, oksijene bağlıdır; moleküller arasında hidrojen bağı oluşur.
+Apolar moleküller arasında hangi etkileşim bulunur?|London (dağılma) kuvvetleri|Hidrojen bağı|Metalik bağ|İyonik bağ|0|Apolar moleküller arasında yalnızca zayıf London kuvvetleri etkilidir.
+Dipol–dipol etkileşimi hangi tür moleküller arasında görülür?|Soygaz atomları|Polar moleküller|Metal atomları|Apolar moleküller|1|Polar moleküllerin kalıcı kutupları vardır; zıt kutuplar birbirini çeker.
+H₂O nun kaynama noktasının H₂S den çok yüksek olmasının nedeni nedir?|Moleküller arasında hidrojen bağı bulunması|Metalik bağ içermesi|İyonik bağ içermesi|Daha büyük mol kütlesi|0|Su moleküllerinin arasında güçlü hidrojen bağları vardır; H₂S de yoktur.
+İyonik bileşiklerin sıvı hâlde elektriği iletmesinin nedeni nedir?|Protonlar|Serbest hareket eden iyonlar|Serbest elektronlar|Nötr moleküller|1|Sıvıda iyonlar hareket edebilir ve yük taşıyabilir.
+Katı NaCl elektriği iletmez. Bunun nedeni nedir?|İyonlar kristal örgüde sabittir, hareket edemez|Elektron içermemesi|Sodyumun metal olması|Nötr olması|0|Katı hâlde iyonlar örgü noktalarında titreşir; yük taşıyamaz.
+İyonik bileşiklerin erime noktalarının genellikle yüksek olmasının nedeni nedir?|İyonlar arasında güçlü elektrostatik çekim bulunması|Moleküllerinin büyük olması|Hidrojen bağları|Zayıf London kuvvetleri|0|Zıt yüklü iyonlar arasındaki güçlü çekimi yenmek için çok enerji gerekir.
+Aşağıdakilerden hangisi kovalent ağ yapılı bir katıdır?|Elmas|Buz|Bakır|NaCl|0|Elmasta tüm karbon atomları kovalent bağla sürekli ağ oluşturur.
+Aynı madde için moleküller arası çekim kuvvetinin en zayıf olduğu hâl hangisidir?|Katı|Gaz|Sıvı|Hepsinde eşittir|1|Gazlarda moleküller birbirinden uzaktır; çekim en zayıftır.
+Mol kütleleri birbirine yakın CH₄ (16), NH₃ (17) ve H₂O (18) maddelerinin kaynama noktaları arasındaki doğru sıralama hangisidir?|CH₄ > NH₃ > H₂O|H₂O > CH₄ > NH₃|H₂O > NH₃ > CH₄|NH₃ > H₂O > CH₄|2|Suda güçlü hidrojen bağları, NH₃ te daha zayıf hidrojen bağları vardır; CH₄ apolardır ve yalnızca London kuvvetleri etkilidir.
+Mg²⁺ ve Cl⁻ iyonlarından oluşan bileşiğin formülü aşağıdakilerden hangisidir?|Mg₂Cl|MgCl|MgCl₂|Mg₂Cl₂|2|Yükler toplamı sıfır olmalıdır: bir Mg²⁺ için iki Cl⁻ gerekir.
+Sodyum (Z = 11) ve oksijen (Z = 8) atomlarının oluşturduğu iyonik bileşiğin formülü hangisidir?|NaO₂|Na₂O|NaO|Na₃O|1|Na 1+ , O 2− iyonu oluşturur; yükleri dengelemek için 2 Na⁺ ve 1 O²⁻ gerekir.
+Al³⁺ ve O²⁻ iyonlarından oluşan bileşiğin formülü hangisidir?|AlO|Al₃O₂|Al₂O₂|Al₂O₃|3|Toplam yük: 2·(+3) + 3·(−2) = 0 olduğundan formül Al₂O₃ tür.

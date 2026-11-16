@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Atomun çekirdeğinde bulunan yüksüz (nötr) tanecik aşağıdakilerden hangisidir?|İyon|Proton|Elektron|Nötron|3|Nötronlar çekirdekte bulunur ve yüksüzdür.
+Proton sayısı 11, nötron sayısı 12 olan atomun kütle numarası kaçtır?|23|12|11|34|0|Kütle numarası proton ve nötron sayılarının toplamıdır: 11 + 12 = 23.
+²⁷Al³⁺ iyonunda (Al: atom numarası 13) proton, nötron ve elektron sayıları sırasıyla aşağıdakilerden hangisidir?|13, 14, 10|16, 14, 10|13, 14, 13|10, 14, 13|0|Proton 13, nötron 27 − 13 = 14; 3+ yüklü iyon elektron vermiştir: 13 − 3 = 10 elektron.
+Atom numarası neyi gösterir?|Çekirdekteki proton sayısını|Değerlik elektron sayısını|Kütle numarasını|Nötron sayısını|0|Atom numarası (Z) çekirdekteki proton sayısına eşittir.
+¹⁶O atomunun atom numarası 8 dir. Nötron sayısı kaçtır?|0|16|8|24|2|Nötron sayısı = 16 − 8 = 8 dir.
+Aşağıdaki çiftlerden hangisi izotop atomlardır?|²³₁₁Na ve ²⁴₁₂Mg|³⁵₁₇Cl ve ³⁵₁₈Ar|¹⁴₆C ve ¹⁴₇N|¹²₆C ve ¹⁴₆C|3|İzotoplar proton sayıları aynı, nötron sayıları farklı atomlardır.
+Elektronu keşfeden bilim insanı kimdir?|J. J. Thomson|Dalton|Bohr|Rutherford|0|Elektron, katot ışınları deneyleriyle J. J. Thomson tarafından keşfedilmiştir.
+Altın levha deneyiyle atomun çekirdeğini keşfeden bilim insanı kimdir?|Chadwick|Rutherford|Thomson|Bohr|1|Rutherford, alfa parçacıklarını altın levhaya göndererek atomun küçük ve yoğun bir çekirdeği olduğunu gösterdi.
+Bohr atom modeline göre elektronlar nasıl bulunur?|Pozitif bir kürenin içine gömülü|Çekirdek etrafında belirli enerji düzeylerinde|Çekirdeğin içinde|Rastgele her yerde|1|Bohr modelinde elektronlar çekirdek çevresindeki belirli yörüngelerde (enerji düzeylerinde) hareket eder.
+Protonun yükü aşağıdakilerden hangisidir?|+1|−1|+2|0|0|Proton pozitif yüklüdür; yükü +1 dir.
+Atomun kütlesinin büyük kısmı nerede toplanmıştır?|Atomun dışında|Çekirdekte|Elektron bulutunda|Yörüngelerde|1|Proton ve nötron elektrondan çok daha ağırdır; bu yüzden kütle çekirdekte toplanmıştır.
+Atom numarası 16 olan elementin elektron dizilimi aşağıdakilerden hangisidir?|2, 8, 6|2, 8, 8|2, 8, 4|2, 6, 8|0|16 elektron sırasıyla 2, 8 ve kalan 6 olarak katmanlara yerleşir.
+Periyodik tabloda dikey sütunlara ne ad verilir?|Grup|Periyot|Blok|Sıra|0|Dikey sütunlara grup, yatay satırlara periyot denir.
+Atom numarası 17 olan klor hangi grupta yer alır?|8A|1A|5A|7A (17. grup)|3|Klorun dizilimi 2, 8, 7 dir; 7 değerlik elektronu olduğundan 7A grubundadır.
+Elektron dizilimi 2, 8, 2 olan elementin periyodu ve grubu aşağıdakilerden hangisidir?|2. periyot, 3A grubu|2. periyot, 2A grubu|3. periyot, 2A grubu|3. periyot, 8A grubu|2|Üç katman olduğundan 3. periyot, son katmanda 2 elektron olduğundan 2A grubudur.
+Soygazlar periyodik tabloda hangi grupta yer alır?|2A|1A|8A (18. grup)|7A|2|Soygazlar 8A (18. grup) elementleridir.
+Alkali metaller periyodik tabloda hangi grupta bulunur?|7A|2A|1A|8A|2|Li, Na, K gibi alkali metaller 1A grubundadır.
+Aynı periyotta soldan sağa doğru gidildikçe atom yarıçapı nasıl değişir?|Azalır|Önce artar sonra azalır|Artar|Değişmez|0|Çekirdek yükü artar, katman sayısı değişmez; çekim artar ve yarıçap küçülür.
+Aşağıdakilerden hangisi bir metaldir?|Na|N|Cl|S|0|Sodyum 1A grubunda yer alan bir metaldir; Cl, S ve N ametaldir.
+Aynı grupta yukarıdan aşağıya doğru inildikçe atom yarıçapı nasıl değişir?|Değişmez|Azalır|Artar|Önce azalır sonra artar|2|Aşağı indikçe katman sayısı artar; atom yarıçapı büyür.
+Aynı periyotta soldan sağa gidildikçe iyonlaşma enerjisi genel olarak nasıl değişir?|Değişmez|Azalır|Sıfır olur|Artar|3|Yarıçap küçüldükçe elektron çekirdeğe daha sıkı bağlanır; iyonlaşma enerjisi genel olarak artar.
+Helyumun sembolü aşağıdakilerden hangisidir?|Hl|He|H|Ha|1|Helyumun sembolü He dir; H hidrojenin sembolüdür.
+Sodyumun sembolü aşağıdakilerden hangisidir?|So|Sn|S|Na|3|Sodyumun sembolü Na dır (Latince Natrium).
+Elektron dizilimi 2, 8, 8, 2 olan elementin periyodu ve grubu aşağıdakilerden hangisidir?|4. periyot, 8A grubu|4. periyot, 2A grubu|2. periyot, 4A grubu|3. periyot, 2A grubu|1|Dört katman olduğundan 4. periyot, son katmanda 2 elektron olduğundan 2A grubudur.
+Günümüzde periyodik tabloda elementler hangi özelliğe göre sıralanmıştır?|Yoğunluğa göre|Artan atom numarasına göre|Erime noktasına göre|Artan atom kütlesine göre|1|Modern periyodik tabloda elementler atom numarası artacak şekilde sıralanır.
+Aşağıdakilerden hangisi bir halojendir?|Cl|Mg|Ne|Na|0|Halojenler 7A grubu elementleridir; klor bunlardan biridir.
+Elektron dizilimi 2, 8, 1 olan bir atom elektron vererek hangi iyonu oluşturur?|Yüksüz kalır|1+ yüklü iyon (katyon)|1− yüklü iyon (anyon)|2+ yüklü iyon|1|Son katmandaki 1 elektronu veren atom 1+ yüklü katyon olur.
+Aşağıdakilerden hangisi bir ametaldir?|C|Fe|Al|Cu|0|Karbon ametaldir; Fe, Cu ve Al metaldir.
+Magnezyum (atom numarası 12) kararlı hâle gelmek için kaç elektron verir?|6|2|8|1|1|Dizilimi 2, 8, 2 olduğundan son katmandaki 2 elektronu vererek soygaz düzenine ulaşır.
+X²⁻ iyonunun elektron dizilimi 2, 8, 8 dir. X'in atom numarası kaçtır?|14|20|18|16|3|İyonda 18 elektron vardır; 2− yük için atom 2 elektron almıştır: nötr atomda 16 elektron ve 16 proton bulunur.

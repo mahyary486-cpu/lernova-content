@@ -1,0 +1,4 @@
+{
+  "Skaler ve vektörel büyüklükler": "Yalnızca büyüklüğü olan niceliklere skaler (kütle, zaman, sürat), hem büyüklüğü hem yönü olanlara vektörel (kuvvet, hız, yer değiştirme, ivme) denir. Aynı noktaya etki eden kuvvetlerin bileşkesi yönlerine göre toplama, çıkarma veya Pisagor bağıntısı ile bulunur.",
+  "Konum, yer değiştirme ve hız": "Yer değiştirme, başlangıç ve bitiş noktası arasındaki yönlü uzaklıktır; yol ise gidilen toplam uzunluktur. Hız = yer değiştirme / zaman, sürat = yol / zaman dır. İvme hızın zamanla değişimidir; net kuvvet F = m·a ile ivmeyi belirler."
+}

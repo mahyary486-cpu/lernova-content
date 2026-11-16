@@ -1,0 +1,4 @@
+{
+  "Doğrusal fonksiyonlar ve denklemler": "f(x) = mx + n biçimindeki fonksiyonlara doğrusal fonksiyon denir; m eğimi, n ise y eksenini kestiği noktayı gösterir. Birinci dereceden denklemler eşitliğin her iki tarafında aynı işlem yapılarak çözülür; iki bilinmeyenli denklem sistemleri yok etme veya yerine koyma ile çözülür.",
+  "Mutlak değer ve eşitsizlikler": "Mutlak değer, bir sayının sayı doğrusunda sıfıra olan uzaklığıdır. ∣x∣ = a denkleminde x = a veya x = −a olur. Birinci dereceden eşitsizlikler denklem gibi çözülür; negatif sayıyla çarpılıp bölünürken eşitsizliğin yönü değişir."
+}
