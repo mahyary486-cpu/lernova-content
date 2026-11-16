@@ -3894,6 +3894,85 @@
       ]
     },
     {
+      "grade": 11,
+      "country": "FR",
+      "subject": "Biology",
+      "chapters": [
+        {
+          "id": "fr-b11-01",
+          "title": "Expression du patrimoine génétique",
+          "lessons": [
+            {
+              "id": "fr-b11-01-01",
+              "title": "Transcription et traduction"
+            },
+            {
+              "id": "fr-b11-01-02",
+              "title": "Mutations, allèles et phénotypes"
+            },
+            {
+              "id": "fr-b11-01-03",
+              "title": "Méiose, fécondation et brassage génétique"
+            }
+          ]
+        },
+        {
+          "id": "fr-b11-02",
+          "title": "Le domaine continental et sa dynamique",
+          "lessons": [
+            {
+              "id": "fr-b11-02-01",
+              "title": "Caractéristiques du domaine continental"
+            },
+            {
+              "id": "fr-b11-02-02",
+              "title": "Convergence, subduction et collision"
+            },
+            {
+              "id": "fr-b11-02-03",
+              "title": "Granitisation, érosion et datation"
+            }
+          ]
+        },
+        {
+          "id": "fr-b11-03",
+          "title": "Plantes, photosynthèse et plantes domestiquées",
+          "lessons": [
+            {
+              "id": "fr-b11-03-01",
+              "title": "La photosynthèse"
+            },
+            {
+              "id": "fr-b11-03-02",
+              "title": "Organisation fonctionnelle de la plante"
+            },
+            {
+              "id": "fr-b11-03-03",
+              "title": "Plantes sauvages et plantes domestiquées"
+            }
+          ]
+        },
+        {
+          "id": "fr-b11-04",
+          "title": "Système nerveux, comportement et santé",
+          "lessons": [
+            {
+              "id": "fr-b11-04-01",
+              "title": "Neurones et message nerveux"
+            },
+            {
+              "id": "fr-b11-04-02",
+              "title": "Réflexe myotatique et motricité volontaire"
+            },
+            {
+              "id": "fr-b11-04-03",
+              "title": "Plasticité cérébrale et substances psychoactives"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "grade": 10,
       "subject": "Mathematics",
       "country": "RU",

@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+L’ARN messager est synthétisé lors de :|la traduction|la transcription|la réplication|la mitose|1|La transcription copie un gène en ARNm.
+La traduction a lieu :|dans le cytoplasme, au niveau des ribosomes|dans le noyau|dans la membrane|uniquement dans la mitochondrie|0|Les ribosomes lisent l’ARNm.
+Un codon est :|un acide aminé|une protéine|un chromosome|une suite de trois nucléotides|3|Un codon correspond à un acide aminé (ou à un signal d’arrêt).
+Dans l’ARN, la base T est remplacée par :|A|C|U (uracile)|G|2|L’ARN contient de l’uracile.
+Un gène code :|un chromosome|une protéine (ou un ARN)|un organe|une cellule|1|Il détermine la séquence d’une protéine.
+Le code génétique est :|universel|différent selon l’espèce|aléatoire|sans codon stop|0|Il est commun à presque tous les êtres vivants.
+Une mutation est :|une division cellulaire|une digestion|un virus|une modification de la séquence de l’ADN|3|La séquence de nucléotides est modifiée.
+La méiose produit :|des cellules diploïdes identiques|des protéines|des gamètes (cellules haploïdes)|des organes|2|Elle produit quatre cellules haploïdes.
+Le brin transcrit d’un gène a pour séquence TAC GGA CTT. L’ARNm obtenu est :|ATG CCT GAA|AUG CCU GAA|UAC GGA CUU|AUG GGA CUU|1|On apparie A–U, T–A, C–G, G–C.
+Combien de codons différents sont possibles ?|64|20|16|4|0|4 bases en groupes de 3 : 4³ = 64.
+Combien d’acides aminés différents entrent dans la composition des protéines ?|64|4|3|20|3|Vingt acides aminés sont codés.
+Le codon AUG est :|un codon stop|un codon sans rôle|le codon d’initiation (méthionine)|un codon de l’ADN|2|Il marque le début de la traduction.
+Que signifie « le code génétique est redondant » ?|Un codon code plusieurs acides aminés|Plusieurs codons peuvent coder le même acide aminé|Il y a 20 codons|Il n’y a aucun codon stop|1|64 codons pour 20 acides aminés.
+Une mutation silencieuse :|ne modifie pas la protéine|crée un codon stop|supprime le gène|change le nombre de chromosomes|0|Le nouveau codon code le même acide aminé.
+La drépanocytose résulte d’une substitution qui modifie :|le nombre de chromosomes|le sexe|le groupe sanguin|un acide aminé de la chaîne β de l’hémoglobine|3|La mutation change la protéine et donc le phénotype.
+Combien de chromosomes contient un gamète humain ?|46|92|23|2|2|Les gamètes sont haploïdes.
+L’insertion d’un nucléotide dans un gène :|ne change rien|décale le cadre de lecture|supprime un acide aminé seulement|crée un chromosome|1|Tous les codons en aval sont modifiés.
+La méiose I sépare :|les chromosomes homologues|les chromatides|les noyaux seulement|les gamètes|0|Les chromatides se séparent à la méiose II.
+Combien de gamètes différents peut produire un être humain par brassage interchromosomique seul ?|23²|46|2 × 23|2²³ ≈ 8,4 × 10⁶|3|Chaque paire se répartit de deux façons au hasard.
+À quel moment de la méiose a lieu le crossing-over ?|En anaphase de la mitose|En télophase|En prophase I|En interphase d’une mitose|2|Les chromosomes homologues sont appariés.
+La fécondation :|divise par 2 le nombre de chromosomes|restaure la diploïdie (2n)|supprime des allèles|produit des spermatozoïdes|1|Elle réunit les chromosomes de deux gamètes.
+Le brassage intrachromosomique résulte :|du crossing-over entre chromosomes homologues|de la distribution aléatoire des chromosomes|d’une mutation|d’une réplication|0|Les homologues échangent des portions de chromatides.
+Une mutation non-sens :|remplace un codon par un synonyme|n’a aucun effet|duplique le gène|crée un codon stop prématuré|3|La protéine produite est tronquée.
+Une cellule 2n = 46 effectue une méiose. On obtient :|2 cellules à 46 chromosomes|4 cellules à 46 chromosomes|4 cellules à 23 chromosomes|1 cellule à 23 chromosomes|2|Deux divisions successives donnent quatre cellules haploïdes.

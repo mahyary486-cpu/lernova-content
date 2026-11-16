@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Où se déroule la photosynthèse ?|Dans le noyau|Dans les mitochondries|Dans les vacuoles|Dans les chloroplastes|3|Les chloroplastes contiennent les pigments.
+Quel est le principal pigment photosynthétique ?|Le fer|L’hémoglobine|La chlorophylle|Le lugol|2|La chlorophylle absorbe la lumière.
+Quel gaz est absorbé lors de la photosynthèse ?|Le dioxygène|Le dioxyde de carbone|Le diazote|L’hélium|1|Il fournit le carbone du glucose.
+Quel gaz est rejeté lors de la photosynthèse ?|Le dioxygène|Le dioxyde de carbone|Le diazote|L’hydrogène|0|Il provient de l’eau.
+La photosynthèse nécessite :|du froid|de la glace|du sel|de la lumière|3|La lumière fournit l’énergie.
+À quoi servent les stomates ?|À absorber l’eau|À stocker l’amidon|Aux échanges gazeux de la feuille|À produire les fruits|2|Ce sont des orifices de l’épiderme.
+À quoi servent les poils absorbants ?|À capter la lumière|À absorber l’eau et les sels minéraux|À produire des fruits|À stocker l’amidon|1|Ils augmentent la surface d’échange avec le sol.
+La sève brute contient :|de l’eau et des sels minéraux|des sucres|des hormones uniquement|des protéines uniquement|0|Elle est absorbée par les racines.
+Quelle est l’équation globale de la photosynthèse ?|C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O|CO₂ + H₂O → CH₄|6 O₂ + 6 H₂O → C₆H₁₂O₆ + 6 CO₂|6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂|3|Le dioxygène est un produit.
+La chlorophylle absorbe surtout la lumière :|verte|jaune|rouge et bleue|infrarouge seulement|2|Elle réfléchit le vert.
+Pourquoi les feuilles sont-elles vertes ?|Elles absorbent le vert|Elles réfléchissent le vert|Elles n’ont pas de pigments|Elles sont gelées|1|La chlorophylle absorbe peu le vert.
+Quel réactif met en évidence l’amidon ?|L’eau iodée (coloration bleu-noir)|L’eau salée|Le phénol|L’acide chlorhydrique|0|L’amidon colore l’eau iodée.
+Où circule la sève élaborée ?|Dans le xylème|Dans l’épiderme|Dans les stomates|Dans le phloème|3|Elle transporte les sucres.
+La sève brute circule :|dans le phloème|des feuilles vers les racines|dans le xylème, des racines vers les feuilles|nulle part|2|Le xylème conduit l’eau et les sels minéraux.
+Les sucres produits par les feuilles sont transportés par :|la sève brute|la sève élaborée|le vent|l’air|1|Le phloème conduit la sève élaborée.
+Qu’est-ce qui contrôle l’ouverture des stomates ?|Les cellules de garde|Les poils absorbants|Le xylème|La cuticule seule|0|Les deux cellules de garde modifient l’ouverture.
+Quelle masse de CO₂ (M = 44 g/mol) est absorbée pour produire une mole de glucose (180 g) ?|44 g|180 g|1 056 g|264 g|3|6 mol × 44 g/mol = 264 g.
+Quand l’éclairement augmente fortement, l’intensité photosynthétique :|augmente sans limite|devient négative|atteint un palier de saturation|diminue toujours|2|D’autres facteurs deviennent limitants.
+Pourquoi la surface des feuilles est-elle grande ?|Pour stocker l’eau|Pour capter davantage de lumière et faciliter les échanges gazeux|Pour fixer la plante|Pour produire des fleurs|1|Elle augmente les surfaces d’échange.
+La sélection artificielle consiste à :|choisir comme reproducteurs les individus aux caractères recherchés|laisser faire la nature|détruire les plantes|modifier le climat|0|Le critère de choix est humain.
+Le maïs a été domestiqué à partir de :|le blé|le riz|la canne à sucre|la téosinte|3|C’est une plante sauvage du Mexique.
+Quelle est une conséquence de la monoculture ?|Augmentation de la biodiversité|Rendements toujours plus faibles|Perte de diversité génétique et sensibilité aux maladies|Plus de pollinisateurs|2|Les plantes sont génétiquement proches.
+Le blé tendre est hexaploïde, ce qui signifie qu’il :|possède 6 chromosomes|possède 6 lots de chromosomes (6n = 42)|possède 6 gènes|est stérile|1|La polyploïdie résulte d’hybridations successives.
+La transpiration foliaire provoque :|une aspiration de la sève brute vers les feuilles|un écoulement vers les racines|la chute des feuilles|l’ouverture des racines|0|L’eau évaporée est remplacée par celle du xylème.

@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Quelle roche est caractéristique de la croûte continentale ?|Le basalte|La péridotite|Le granite|Le sel|2|Le granite est la roche typique de la croûte continentale.
+Quelle roche est caractéristique de la croûte océanique ?|Le granite|Le basalte (et le gabbro)|Le grès|Le sel gemme|1|La croûte océanique est basaltique.
+Quelle est l’épaisseur moyenne de la croûte continentale ?|Environ 30 km|Environ 7 km|Environ 300 km|Environ 3 km|0|La croûte océanique est plus mince (7 km).
+La croûte océanique est, par rapport à la croûte continentale :|moins dense|plus ancienne|plus épaisse|plus dense|3|Densité d’environ 3,0 contre 2,7.
+La lithosphère comprend :|le noyau|seulement la croûte|la croûte et la partie rigide du manteau supérieur|seulement l’asthénosphère|2|Elle est découpée en plaques.
+L’asthénosphère est :|solide et très rigide|ductile, sous la lithosphère|entièrement liquide|gazeuse|1|Elle se déforme lentement.
+Une chaîne comme l’Himalaya résulte :|d’une collision continentale|d’une divergence océanique|d’une seule éruption|de l’érosion seule|0|Deux continents se rapprochent.
+Une zone de subduction est un lieu où :|deux plaques s’écartent|une montagne s’élève sans plaque|un volcan s’éteint|une lithosphère océanique plonge dans le manteau|3|La plaque dense plonge sous l’autre.
+Le granite est une roche :|volcanique|sédimentaire|plutonique à structure grenue|métallique|2|Il cristallise lentement en profondeur.
+De quels minéraux le granite est-il principalement formé ?|Calcite, sel et gypse|Quartz, feldspaths et micas|Olivine seule|Fer seul|1|Ce sont les trois minéraux du granite.
+Une roche formée par cristallisation lente d’un magma en profondeur est :|plutonique|volcanique|sédimentaire|un sol|0|Elle est grenue.
+Le magmatisme des zones de subduction est lié :|à la fusion du noyau|à l’érosion|aux marées|à la fusion partielle du manteau hydraté|3|L’eau libérée abaisse la température de fusion du manteau.
+Les foyers des séismes d’une zone de subduction se répartissent :|au hasard|à la surface seulement|le long d’un plan incliné (plan de Wadati-Benioff)|au centre de la Terre|2|Ils dessinent la plaque plongeante.
+En contexte de collision, la croûte :|s’étire|se raccourcit et s’épaissit|se renouvelle par du basalte|disparaît|1|Il se forme des failles inverses, plis et nappes.
+La demi-vie d’un isotope radioactif est :|la durée au bout de laquelle la moitié des noyaux s’est désintégrée|la durée totale de désintégration|le temps nécessaire pour 100 %|toujours égale à 1 an|0|C’est une caractéristique de chaque isotope.
+Après deux demi-vies, la proportion de noyaux pères restants est :|50 %|12,5 %|0 %|25 %|3|50 % puis 25 %.
+Il reste 12,5 % des noyaux pères d’un minéral. Combien de demi-vies se sont écoulées ?|2|4|3|8|2|100 → 50 → 25 → 12,5.
+Un minéral contient 6,25 % de son nombre initial de noyaux pères. Combien de demi-vies ?|3|4|5|2|1|100 → 50 → 25 → 12,5 → 6,25.
+À quoi servent les couples Rb-Sr et U-Pb ?|À dater des roches anciennes (radiochronologie)|À mesurer la température|À mesurer la densité|À compter les séismes|0|Ils permettent de calculer l’âge d’une roche.
+Pourquoi la croûte continentale est-elle plus ancienne que la croûte océanique ?|Elle est plus profonde|Elle est plus chaude|Elle est formée de sédiments récents|Elle est moins dense, ne subducte pas et reste en surface|3|La croûte océanique est recyclée.
+Quel est l’âge maximal des fonds océaniques ?|4 milliards d’années|10 000 ans|Environ 200 millions d’années|1 milliard d’années|2|Elle est renouvelée aux dorsales et détruite en subduction.
+Qu’est-ce que la racine crustale d’une chaîne de montagnes ?|Une faille|Un épaississement de la croûte en profondeur|Une rivière|Un volcan|1|La croûte est plus épaisse sous les montagnes.
+Les roches sédimentaires se forment par :|altération, érosion, transport et sédimentation|fusion|cristallisation d’un magma|uniquement par métamorphisme|0|Les sédiments s’accumulent en couches.
+Quelle est la loi de décroissance radioactive ?|N(t) = N₀ + λ × t|N(t) = N₀ ÷ λ|N(t) = λ ÷ N₀|N(t) = N₀ × e^(−λ × t)|3|Le nombre de noyaux diminue de façon exponentielle.

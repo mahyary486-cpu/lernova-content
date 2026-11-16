@@ -1,0 +1,25 @@
+#EEEEEEEEMMMMMMMMHHHHHHHH
+Qu’est-ce qu’un neurone ?|Une cellule du système nerveux|Un muscle|Un os|Une hormone|0|Les neurones transmettent le message nerveux.
+L’axone conduit :|la lumière|le sang|les nutriments|le message nerveux vers les terminaisons|3|C’est le prolongement conducteur du neurone.
+Les dendrites :|stockent l’ADN|produisent le sang|reçoivent des informations|conduisent le message hors du neurone|2|Ce sont des prolongements récepteurs.
+Le message nerveux est constitué de :|hormones|potentiels d’action|ADN|globules rouges|1|Ce sont de brèves variations de potentiel.
+Qu’est-ce qu’une synapse ?|La zone de communication entre deux neurones|Un muscle|Une protéine|Un os|0|Elle comprend la fente synaptique.
+Où le neurotransmetteur est-il libéré ?|Dans le sang seulement|Dans le noyau|Dans l’axone|Dans la fente synaptique|3|Il se fixe sur des récepteurs.
+Le réflexe myotatique est la réponse à :|la lumière|la chaleur|l’étirement d’un muscle|le bruit|2|Exemple : le réflexe rotulien.
+Que relie la moelle épinière ?|L’estomac aux poumons|L’encéphale aux nerfs|Les os entre eux|Les yeux aux oreilles|1|Elle conduit les messages du cerveau vers le corps.
+Comment le message nerveux est-il codé ?|En fréquence de potentiels d’action|En amplitude variable|En couleur|En pression|0|L’amplitude est constante.
+Les potentiels d’action ont :|une amplitude proportionnelle au stimulus|aucune amplitude|une valeur toujours négative|une amplitude constante (tout ou rien)|3|C’est la loi du tout ou rien.
+Quel est le potentiel de repos d’un neurone ?|+70 V|0 mV|Environ −70 mV|+700 mV|2|La face interne de la membrane est négative.
+Quels éléments composent l’arc réflexe myotatique ?|Cerveau seulement|Récepteur, neurone sensitif, moelle épinière, motoneurone, muscle|Muscle seulement|Nerf optique|1|C’est un arc monosynaptique.
+Quel est le temps de latence d’un réflexe myotatique ?|De l’ordre de 20 à 30 ms|De l’ordre de 2 s|De l’ordre de 10 min|Nul|0|Il est très court.
+Pourquoi une réaction volontaire est-elle plus lente qu’un réflexe ?|Elle n’utilise pas de nerf|Elle est unique|Elle est chimique|Elle passe par le cortex cérébral|3|Plus de synapses et de structures interviennent.
+Quel est le récepteur sensoriel du réflexe myotatique ?|La rétine|Le tympan|Le fuseau neuromusculaire|Le follicule pileux|2|Il détecte l’étirement du muscle.
+Quel est le rôle de la gaine de myéline ?|Ralentir le message|Accélérer la conduction du message nerveux|Bloquer le message|Produire des hormones|1|Elle isole l’axone.
+Un message nerveux parcourt 0,50 m en 10 ms. Sa vitesse est :|50 m/s|5,0 m/s|500 m/s|0,02 m/s|0|v = 0,50 ÷ 0,010.
+Une synapse excitatrice :|bloque le message|n’a aucun effet|détruit le neurone|favorise la naissance d’un potentiel d’action dans le neurone suivant|3|Elle dépolarise la cellule postsynaptique.
+Que désigne la plasticité cérébrale ?|La couleur du cerveau|La taille du crâne|La capacité du cerveau à modifier ses connexions synaptiques|La dureté du cerveau|2|Les synapses se créent ou se renforcent.
+Sur quoi repose la rééducation après un AVC ?|Sur la division des neurones|Sur la plasticité cérébrale|Sur le sommeil seulement|Sur les os|1|Les circuits se réorganisent en partie.
+Comment agit une substance psychoactive ?|En perturbant le fonctionnement des synapses|En colorant le cerveau|En dissolvant les neurones|En supprimant l’ADN|0|Elle modifie l’action des neurotransmetteurs.
+La cocaïne bloque la recapture de la dopamine. Quelle en est la conséquence ?|La dopamine disparaît|Le corps produit plus d’insuline|Les neurones perdent leur myéline|La dopamine s’accumule dans la fente synaptique|3|Le circuit de la récompense est perturbé.
+Un traumatisme de la moelle épinière peut :|améliorer la mémoire|améliorer la vision|supprimer la commande volontaire des muscles sous la lésion|supprimer le cerveau|2|Les commandes ne passent plus.
+Pourquoi le réflexe myotatique est-il rapide ?|Il passe par le cortex|Il y a peu de synapses (arc monosynaptique)|Il est lent par nature|Il utilise des hormones|1|Le message ne passe que par la moelle.
