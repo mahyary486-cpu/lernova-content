@@ -1,29 +1,31 @@
 # Neutralization and Salts
 
-Antacid tablets neutralize stomach acid and lime is added to acidic soil. Both are neutralization reactions.
+Antacid tablets neutralize the excess acid in the stomach, and farmers add lime to acidic soil. Both are examples of neutralization, the reaction between an acid and a base. It is one of the most important kinds of reaction in chemistry, and it is also the basis of titration, a method that lets us find the unknown concentration of a solution with great accuracy.
 
 ## Key ideas
-- **Acid + base -> salt + water.** Example: HCl + NaOH -> NaCl + H2O.
-- H+ and OH- combine to form water.
-- Equal chemical amounts of a strong acid and a strong base give a **neutral** solution (pH 7).
-- Excess acid gives an acidic solution; excess base gives a basic one.
-- **Titration** finds an unknown concentration: n(acid) = n(base) at the equivalence point (1:1).
-- Moles = concentration (mol/L) x volume (L).
+
+In a neutralization reaction, an acid reacts with a base to form a salt and water: acid + base -> salt + water. For example, hydrochloric acid and sodium hydroxide react as HCl + NaOH -> NaCl + H2O. The salt is an ionic compound made from the positive ion of the base and the negative ion of the acid. Here that is sodium chloride, ordinary table salt. The essential change is that the hydrogen ions from the acid combine with the hydroxide ions from the base to form water molecules: H+ + OH- -> H2O.
+
+The result of mixing depends on the amounts. If equal chemical amounts of a strong acid and a strong base are mixed, they cancel each other exactly, and the solution is neutral, with a pH of 7. If there is more acid than base, some hydrogen ions are left over, and the solution is acidic. If there is more base, the solution is basic. Note that equal volumes do not mean equal chemical amounts, because the concentrations also matter. The correct way to compare is by the number of moles, which is found from n = concentration (mol/L) x volume (L).
+
+Titration uses this idea to find an unknown concentration. A measured volume of the acid is placed in a flask with a few drops of an indicator, and a base of known concentration is added slowly from a burette until the indicator changes color. This is the equivalence point, where the acid and base have exactly neutralized each other. For an acid and a base that react in a 1 : 1 ratio, such as HCl and NaOH, the moles of acid equal the moles of base at this point, which allows us to calculate the unknown value. Remember to convert milliliters to liters when calculating the moles.
+
+It is also worth knowing that a neutralization does not always give a solution with a pH of exactly 7. This is true for a strong acid with a strong base, but if one of them is weak, the salt that forms can make the solution slightly acidic or basic.
 
 ## Worked examples
-**Example 1: Writing the products.** What forms when HCl reacts with NaOH?
-1. Acid + base gives salt + water.
-2. NaCl (the salt) and H2O.
 
-**Example 2: Titration.** 25 mL of 0.2 M HCl is neutralized by 0.1 M NaOH. What volume is needed?
-1. Moles of HCl = 0.2 x 0.025 = 0.005 mol.
-2. V = 0.005 / 0.1 = 0.05 L = 50 mL.
+**Example 1: Writing the products.** What forms when hydrochloric acid reacts with sodium hydroxide?
+1. An acid and a base react to give a salt and water.
+2. The salt is NaCl, sodium chloride, and the other product is water, H2O.
 
-**Example 3: Excess acid.** 50 mL of 0.1 M HCl is mixed with 25 mL of 0.1 M NaOH.
-1. Moles HCl = 0.005 and moles NaOH = 0.0025.
-2. There is excess acid, so the solution is acidic.
+**Example 2: A titration.** 25 mL of 0.20 M HCl is neutralized by 0.10 M NaOH. What volume of NaOH is needed?
+1. The moles of HCl are 0.20 x 0.025 = 0.0050 mol.
+2. The reaction is 1 : 1, so the moles of NaOH are also 0.0050 mol, and V = 0.0050 / 0.10 = 0.050 L = 50 mL.
+
+**Example 3: Excess acid.** 50 mL of 0.10 M HCl is mixed with 25 mL of 0.10 M NaOH. Is the result acidic, basic or neutral?
+1. The moles of HCl are 0.10 x 0.050 = 0.0050 mol, and the moles of NaOH are 0.10 x 0.025 = 0.0025 mol.
+2. The acid is in excess by 0.0025 mol, so the solution is acidic. The total volume is 0.075 L, so [H+] = 0.0025 / 0.075 = 0.033 M, and the pH is about 1.5.
 
 ## Common mistakes
-- Thinking neutralization always gives a salt solution with pH exactly 7.
-- Forgetting to convert mL to L.
-- Thinking equal volumes always mean equal moles.
+
+A common mistake is to think that neutralization always gives a solution with a pH of exactly 7, which is true only for strong acids and strong bases in exact amounts. Another is to forget to convert milliliters to liters in the mole calculation. Finally, students think that equal volumes always contain equal moles, but this holds only if the concentrations are equal.
