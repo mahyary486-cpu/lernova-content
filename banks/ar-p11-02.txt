@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Un conductor de 4 Ω está conectado a 12 V. ¿Qué corriente circula?|0,333 A|48 A|6 A|3 A|3|Ley de Ohm: I = V/R = 12/4 = 3 A.
+Un conductor de 55 Ω está conectado a 220 V. ¿Qué corriente circula?|12100 A|8 A|0,25 A|4 A|3|Ley de Ohm: I = V/R = 220/55 = 4 A.
+Un conductor de 12 Ω está conectado a 6 V. ¿Qué corriente circula?|2 A|0,5 A|1 A|72 A|1|Ley de Ohm: I = V/R = 6/12 = 0,5 A.
+Por una resistencia de 8 Ω circula una corriente de 5 A. ¿Cuál es la tensión entre sus extremos?|80 V|1,6 V|13 V|40 V|3|V = I·R = 5 · 8 = 40 V.
+Por una resistencia de 10 Ω circula una corriente de 2 A. ¿Cuál es la tensión entre sus extremos?|12 V|20 V|40 V|5 V|1|V = I·R = 2 · 10 = 20 V.
+Por una resistencia de 20 Ω circula una corriente de 0,5 A. ¿Cuál es la tensión entre sus extremos?|20,5 V|40 V|20 V|10 V|3|V = I·R = 0,5 · 20 = 10 V.
+¿Cuál es la unidad de resistencia eléctrica?|Joule|Volt|Ohm|Ampere|2|Se simboliza con Ω.
+¿Cuál es la unidad de intensidad de corriente?|Volt|Ohm|Watt|Ampere|3|1 A = 1 C/s.
+Por una resistencia de 4 Ω circula una corriente de 3 A. ¿Cuál es la tensión entre sus extremos?|12 V|24 V|7 V|1,333 V|0|V = I·R = 3 · 4 = 12 V.
+Un conductor de 3 Ω está conectado a 9 V. ¿Qué corriente circula?|6 A|0,333 A|27 A|3 A|3|Ley de Ohm: I = V/R = 9/3 = 3 A.
+Dos resistencias de 5 Ω y 15 Ω están en serie. ¿Cuál es la resistencia equivalente?|3,75 Ω|75 Ω|10 Ω|20 Ω|3|En serie se suman: 5 + 15 = 20 Ω.
+En un circuito en serie, la corriente es:|Distinta en cada uno|Nula|La misma en todos los elementos|Mayor en el último|2|Solo hay un camino.
+En un circuito en paralelo, la tensión es:|La misma en cada rama|Nula|Mayor en la primera|Distinta en cada rama|0|Todas las ramas están conectadas a los mismos puntos.
+Dos resistencias de 20 Ω y 30 Ω están en paralelo. ¿Cuál es la resistencia equivalente?|10 Ω|12 Ω|600 Ω|50 Ω|1|1/Re = 1/20 + 1/30 → Re = 20·30/(20+30) = 12 Ω.
+Dos resistencias de 30 Ω y 60 Ω están en paralelo. ¿Cuál es la resistencia equivalente?|90 Ω|1800 Ω|30 Ω|20 Ω|3|1/Re = 1/30 + 1/60 → Re = 30·60/(30+60) = 20 Ω.
+Dos resistencias de 100 Ω y 50 Ω están en serie. ¿Cuál es la resistencia equivalente?|5000 Ω|150 Ω|33,333 Ω|50 Ω|1|En serie se suman: 100 + 50 = 150 Ω.
+Dos resistencias de 3 Ω y 6 Ω están en paralelo. ¿Cuál es la resistencia equivalente?|2 Ω|18 Ω|9 Ω|3 Ω|0|1/Re = 1/3 + 1/6 → Re = 3·6/(3+6) = 2 Ω.
+Dos resistencias de 4 Ω y 6 Ω están en serie. ¿Cuál es la resistencia equivalente?|24 Ω|10 Ω|2,4 Ω|2 Ω|1|En serie se suman: 4 + 6 = 10 Ω.
+Dos resistencias de 10 Ω y 20 Ω están en serie. ¿Cuál es la resistencia equivalente?|30 Ω|200 Ω|10 Ω|6,667 Ω|0|En serie se suman: 10 + 20 = 30 Ω.
+Dos resistencias de 15 Ω y 10 Ω están en paralelo. ¿Cuál es la resistencia equivalente?|25 Ω|6 Ω|150 Ω|5 Ω|1|1/Re = 1/15 + 1/10 → Re = 15·10/(15+10) = 6 Ω.
+Dos resistencias de 10 Ω y 20 Ω en serie se conectan a 30 V. ¿Qué corriente circula?|1,5 A|2 A|3 A|1 A|3|Re = 30 Ω; I = V/Re = 30/30 = 1 A.
+Un artefacto de 60 W funciona 5 horas. ¿Cuántos kWh consume?|300 kWh|12 kWh|0,3 kWh|0,6 kWh|2|E = P·t = 0,06 kW · 5 h = 0,3 kWh.
+Dos resistencias de 4 Ω y 8 Ω en serie se conectan a 24 V. ¿Qué corriente circula?|6 A|4 A|3 A|2 A|3|Re = 12 Ω; I = V/Re = 24/12 = 2 A.
+Una plancha de 100 W se conecta a 220 V. ¿Qué corriente consume?|0,909 A|0,455 A|2,2 A|22000 A|1|P = V·I → I = P/V = 100/220 = 0,455 A.
+El tomacorriente doméstico de la Argentina suministra una tensión alterna de:|12 V|380 V a 100 Hz|110 V a 60 Hz|220 V a 50 Hz|3|Es la norma del país.
+Dos resistencias de 20 Ω y 30 Ω en serie se conectan a 50 V. ¿Qué corriente circula?|2,5 A|1 A|2 A|1,667 A|1|Re = 50 Ω; I = V/Re = 50/50 = 1 A.
+Una plancha de 60 W se conecta a 120 V. ¿Qué corriente consume?|0,5 A|7200 A|1 A|2 A|0|P = V·I → I = P/V = 60/120 = 0,5 A.
+Un artefacto de 1500 W funciona 2 horas. ¿Cuántos kWh consume?|3 kWh|750 kWh|3000 kWh|6 kWh|0|E = P·t = 1,5 kW · 2 h = 3 kWh.
+Un artefacto de 500 W funciona 4 horas. ¿Cuántos kWh consume?|125 kWh|2000 kWh|2 kWh|4 kWh|2|E = P·t = 0,5 kW · 4 h = 2 kWh.
+Si se agregan lamparitas en paralelo a un circuito domiciliario, la corriente total:|Aumenta|Disminuye|Se anula|No cambia|0|La resistencia equivalente disminuye.

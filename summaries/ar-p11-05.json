@@ -1,0 +1,5 @@
+{
+ "Naturaleza de la luz y reflexión": "La luz es una onda electromagnética que viaja en el vacío a c = 300 000 km/s. Se propaga en línea recta y se refleja en las superficies. La ley de la reflexión establece que el ángulo de incidencia es igual al de reflexión. Los espejos planos forman imágenes virtuales, derechas y del mismo tamaño.",
+ "Refracción de la luz": "La refracción es el cambio de dirección de la luz al pasar de un medio a otro por el cambio de su velocidad. El índice de refracción es n = c/v. La ley de Snell dice que n₁·sen θ₁ = n₂·sen θ₂. La reflexión total interna es la base de la fibra óptica.",
+ "Lentes e instrumentos ópticos": "Las lentes convergentes concentran los rayos en el foco y las divergentes los dispersan. Se cumple 1/f = 1/do + 1/di. Corrigen defectos visuales: la miopía con lentes divergentes y la hipermetropía con convergentes. Se usan en lupas, microscopios, telescopios y cámaras."
+}

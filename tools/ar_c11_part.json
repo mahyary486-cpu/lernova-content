@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 11,
+   "country": "AR",
+   "subject": "Chemistry",
+   "chapters": [
+    {
+     "id": "ar-c11-01",
+     "title": "Estructura atómica, tabla periódica y geometría molecular",
+     "lessons": [
+      {
+       "id": "ar-c11-01-01",
+       "title": "Modelos atómicos y configuración electrónica"
+      },
+      {
+       "id": "ar-c11-01-02",
+       "title": "Tabla periódica y propiedades periódicas"
+      },
+      {
+       "id": "ar-c11-01-03",
+       "title": "Geometría molecular y fuerzas intermoleculares"
+      }
+     ]
+    },
+    {
+     "id": "ar-c11-02",
+     "title": "Soluciones y propiedades coligativas",
+     "lessons": [
+      {
+       "id": "ar-c11-02-01",
+       "title": "Concentración de soluciones"
+      },
+      {
+       "id": "ar-c11-02-02",
+       "title": "Solubilidad y factores que la afectan"
+      },
+      {
+       "id": "ar-c11-02-03",
+       "title": "Propiedades coligativas"
+      }
+     ]
+    },
+    {
+     "id": "ar-c11-03",
+     "title": "Equilibrio químico",
+     "lessons": [
+      {
+       "id": "ar-c11-03-01",
+       "title": "Equilibrio químico y constante Kc"
+      },
+      {
+       "id": "ar-c11-03-02",
+       "title": "Principio de Le Châtelier"
+      },
+      {
+       "id": "ar-c11-03-03",
+       "title": "Equilibrios en la industria y el ambiente"
+      }
+     ]
+    },
+    {
+     "id": "ar-c11-04",
+     "title": "Electroquímica: reacciones redox, pilas y electrólisis",
+     "lessons": [
+      {
+       "id": "ar-c11-04-01",
+       "title": "Reacciones de óxido-reducción"
+      },
+      {
+       "id": "ar-c11-04-02",
+       "title": "Pilas y potenciales de reducción"
+      },
+      {
+       "id": "ar-c11-04-03",
+       "title": "Electrólisis y corrosión"
+      }
+     ]
+    },
+    {
+     "id": "ar-c11-05",
+     "title": "Química orgánica: funciones y reacciones",
+     "lessons": [
+      {
+       "id": "ar-c11-05-01",
+       "title": "Hidrocarburos: nomenclatura e isomería"
+      },
+      {
+       "id": "ar-c11-05-02",
+       "title": "Grupos funcionales y reacciones"
+      },
+      {
+       "id": "ar-c11-05-03",
+       "title": "Polímeros y biomoléculas orgánicas"
+      }
+     ]
+    },
+    {
+     "id": "ar-c11-06",
+     "title": "Química ambiental y sustentabilidad",
+     "lessons": [
+      {
+       "id": "ar-c11-06-01",
+       "title": "Contaminación del aire y del agua"
+      },
+      {
+       "id": "ar-c11-06-02",
+       "title": "Cambio climático y energía"
+      },
+      {
+       "id": "ar-c11-06-03",
+       "title": "Química verde y economía circular"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

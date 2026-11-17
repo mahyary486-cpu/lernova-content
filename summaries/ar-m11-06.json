@@ -1,0 +1,5 @@
+{
+ "Sucesiones aritméticas": "Una sucesión aritmética aumenta (o disminuye) una cantidad constante d, llamada razón o diferencia. Su término general es aₙ = a₁ + (n − 1)·d y la suma de sus primeros n términos es Sₙ = n(a₁ + aₙ)/2.",
+ "Sucesiones geométricas": "En una sucesión geométrica cada término se obtiene multiplicando el anterior por una razón q constante. Su término general es aₙ = a₁·qⁿ⁻¹ y la suma de n términos es Sₙ = a₁(qⁿ − 1)/(q − 1).",
+ "Series y aplicaciones": "Una serie es la suma de los términos de una sucesión. Una serie geométrica de razón |q| < 1 tiene suma infinita finita S = a₁/(1 − q). Las sucesiones modelan ahorros con depósitos crecientes, rebotes de una pelota, interés compuesto y patrones."
+}

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Un rayo incide sobre un espejo plano con un ángulo de incidencia de 15° respecto de la normal. ¿Cuál es el ángulo de reflexión?|165 °|30 °|15 °|75 °|2|Ley de la reflexión: el ángulo de reflexión es igual al de incidencia: 15°.
+Un rayo incide sobre un espejo plano con un ángulo de incidencia de 20° respecto de la normal. ¿Cuál es el ángulo de reflexión?|70 °|40 °|160 °|20 °|3|Ley de la reflexión: el ángulo de reflexión es igual al de incidencia: 20°.
+Un rayo incide sobre un espejo plano con un ángulo de incidencia de 30° respecto de la normal. ¿Cuál es el ángulo de reflexión?|150 °|31 °|60 °|30 °|3|Ley de la reflexión: el ángulo de reflexión es igual al de incidencia: 30°.
+¿Qué tipo de lente es más gruesa en el centro?|Cóncava|Convergente|Divergente|Plana|1|Concentra los rayos en el foco.
+¿A qué velocidad viaja la luz en el vacío?|1000 m/s|340 m/s|300 km/s|300 000 km/s|3|Es la máxima velocidad posible.
+¿Qué defecto se corrige con una lente divergente?|Daltonismo|Cataratas|Hipermetropía|Miopía|3|El ojo miope enfoca delante de la retina.
+¿Qué fenómeno ocurre cuando la luz rebota en una superficie?|Refracción|Reflexión|Difracción|Absorción|1|El espejo la refleja.
+Un rayo incide sobre un espejo plano con un ángulo de incidencia de 40° respecto de la normal. ¿Cuál es el ángulo de reflexión?|140 °|80 °|40 °|50 °|2|Ley de la reflexión: el ángulo de reflexión es igual al de incidencia: 40°.
+¿Qué fenómeno ocurre cuando la luz cambia de medio y se desvía?|Difracción|Interferencia|Refracción|Reflexión|2|Por ejemplo, un lápiz que parece quebrado en un vaso.
+Un medio tiene índice de refracción 2. ¿Con qué velocidad viaja la luz en él? (c = 300 000 km/s)|150001 km/s|600000 km/s|300000 km/s|150000 km/s|3|v = c/n = 300 000/2 = 150000 km/s.
+¿Cómo se forma el arco iris?|Por absorción|Por refracción y dispersión de la luz en gotas de agua|Por reflexión simple|Por interferencia de sonido|1|Cada color se desvía en distinto ángulo.
+¿Qué es la reflexión total interna?|La luz pasa al otro medio|La luz queda confinada en el medio más denso|La luz se dispersa|La luz se absorbe|1|Ocurre si el ángulo supera el crítico; base de la fibra óptica.
+¿Cuál es la potencia (en dioptrías) de una lente convergente de distancia focal 50 cm?|0,5 D|4 D|2 D|50 D|2|P = 1/f (en metros) = 1/0,5 = 2 D.
+Un medio tiene índice de refracción 1,5. ¿Con qué velocidad viaja la luz en él? (c = 300 000 km/s)|400000 km/s|100000 km/s|450000 km/s|200000 km/s|3|v = c/n = 300 000/1,5 = 200000 km/s.
+¿Cuál es el orden de los colores del espectro visible según su longitud de onda?|Rojo a violeta (de mayor a menor λ)|Todos iguales|Violeta a rojo|Verde a azul|0|El rojo tiene la mayor longitud de onda.
+Un medio tiene índice de refracción 1,2. ¿Con qué velocidad viaja la luz en él? (c = 300 000 km/s)|500000 km/s|50000 km/s|360000 km/s|250000 km/s|3|v = c/n = 300 000/1,2 = 250000 km/s.
+¿Qué defecto se corrige con una lente convergente?|Hipermetropía|Astigmatismo solamente|Miopía|Daltonismo|0|Enfoca detrás de la retina.
+Un medio tiene índice de refracción 3. ¿Con qué velocidad viaja la luz en él? (c = 300 000 km/s)|200000 km/s|900000 km/s|100000 km/s|100001 km/s|2|v = c/n = 300 000/3 = 100000 km/s.
+¿Cuál es la potencia (en dioptrías) de una lente convergente de distancia focal 4 cm?|50 D|4 D|0,04 D|25 D|3|P = 1/f (en metros) = 1/0,04 = 25 D.
+¿Cuál es la potencia (en dioptrías) de una lente convergente de distancia focal 25 cm?|8 D|0,25 D|25 D|4 D|3|P = 1/f (en metros) = 1/0,25 = 4 D.
+Una lente convergente de distancia focal 6 cm forma la imagen de un objeto ubicado a 9 cm. ¿A qué distancia de la lente se forma la imagen?|3 cm|0,667 cm|18 cm|15 cm|2|1/f = 1/do + 1/di → di = f·do/(do − f) = 6·9/3 = 18 cm.
+¿Por qué el cielo es azul?|Porque refleja el mar|Por la contaminación|Porque la atmósfera dispersa más la luz de menor longitud de onda|Porque absorbe el rojo|2|Se llama dispersión de Rayleigh.
+¿Cuál tiene mayor frecuencia: la luz roja o la violeta?|Tienen la misma|La violeta|La roja|Depende del medio|1|A menor longitud de onda, mayor frecuencia.
+Un objeto de 2 cm está a 30 cm de una lente y su imagen real se forma a 15 cm. ¿Cuál es el tamaño de la imagen?|4 cm|17 cm|2 cm|1 cm|3|Aumento = di/do = 15/30; imagen = 2 · 15/30 = 1 cm.
+Una lente convergente de distancia focal 20 cm forma la imagen de un objeto ubicado a 60 cm. ¿A qué distancia de la lente se forma la imagen?|30 cm|0,333 cm|80 cm|40 cm|0|1/f = 1/do + 1/di → di = f·do/(do − f) = 20·60/40 = 30 cm.
+Una lente convergente de distancia focal 15 cm forma la imagen de un objeto ubicado a 30 cm. ¿A qué distancia de la lente se forma la imagen?|45 cm|0,5 cm|15 cm|30 cm|3|1/f = 1/do + 1/di → di = f·do/(do − f) = 15·30/15 = 30 cm.
+Una lente convergente de distancia focal 10 cm forma la imagen de un objeto ubicado a 15 cm. ¿A qué distancia de la lente se forma la imagen?|25 cm|30 cm|0,667 cm|5 cm|1|1/f = 1/do + 1/di → di = f·do/(do − f) = 10·15/5 = 30 cm.
+¿Qué tipo de onda es la luz?|Sonora|Electromagnética y transversal|Mecánica longitudinal|Gravitatoria|1|No necesita medio material.
+¿Qué indica un índice de refracción mayor?|La luz viaja más rápido|La luz viaja más lento en el medio|No hay refracción|La luz no entra|1|n = c/v.
+Una lente convergente de distancia focal 12 cm forma la imagen de un objeto ubicado a 24 cm. ¿A qué distancia de la lente se forma la imagen?|0,5 cm|12 cm|36 cm|24 cm|3|1/f = 1/do + 1/di → di = f·do/(do − f) = 12·24/12 = 24 cm.

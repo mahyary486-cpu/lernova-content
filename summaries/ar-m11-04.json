@@ -1,0 +1,5 @@
+{
+ "Distancia, punto medio y recta": "En el plano cartesiano la distancia entre A(x₁; y₁) y B(x₂; y₂) es √((x₂ − x₁)² + (y₂ − y₁)²) y el punto medio tiene coordenadas ((x₁ + x₂)/2; (y₁ + y₂)/2). La recta se determina con dos puntos o con un punto y la pendiente.",
+ "La circunferencia": "La circunferencia de centro (h; k) y radio r tiene ecuación (x − h)² + (y − k)² = r². Una ecuación x² + y² + Dx + Ey + F = 0 se lleva a esa forma completando cuadrados. La recta tangente es perpendicular al radio en el punto de tangencia.",
+ "Parábola y elipse": "La parábola y² = 4px tiene vértice en el origen, foco (p; 0) y directriz x = −p. La elipse x²/a² + y²/b² = 1 (a > b) tiene eje mayor 2a y eje menor 2b, y sus focos están a una distancia c = √(a² − b²) del centro."
+}

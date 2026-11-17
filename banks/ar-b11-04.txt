@@ -1,0 +1,29 @@
+#EEEEEEEEEEMMMMMMMMHHHHHHHHHH
+¿Dónde se producen los óvulos?|En los ovarios|En las trompas|En el útero|En la vagina|0|Se liberan en la ovulación.
+¿Dónde ocurre la fecundación?|En el útero|En las trompas de Falopio|En el ovario|En la vagina|1|Luego el embrión se implanta en el útero.
+¿Qué hormona detectan los tests de embarazo?|Gonadotropina coriónica humana (hCG)|Adrenalina|Insulina|Tiroxina|0|La produce el embrión.
+¿Qué estructura protege y nutre al embrión?|El ovario|La vagina|La placenta|La trompa|2|Permite el intercambio de sustancias.
+¿Qué ley garantiza la educación sexual integral en las escuelas argentinas?|Ley 25.675|Ley 24.240|Ley 26.150|Ley 26.206|2|Se sancionó en 2006.
+¿Qué métodos anticonceptivos previenen también las infecciones de transmisión sexual?|La píldora|El DIU|La ligadura|El preservativo|3|Es una barrera.
+¿Cómo se llama la implantación del embrión en el útero?|Nidación|Fecundación|Gestación|Ovulación|0|Ocurre unos 6 a 7 días después.
+¿Dónde se producen los espermatozoides?|En la vesícula|En la próstata|En el epidídimo|En los testículos|3|En los túbulos seminíferos.
+¿Cuánto dura aproximadamente un embarazo?|60 semanas|10 semanas|40 semanas|20 semanas|2|Unos 9 meses.
+¿Cuántos cromosomas tiene un gameto humano?|22|23|92|46|1|Es haploide.
+¿Qué ocurre en la ovulación?|Se produce la menstruación|Se libera un óvulo del ovario|Se forma la placenta|Se produce la fecundación|1|Ocurre aproximadamente en el medio del ciclo.
+¿Qué hoja embrionaria origina músculos y huesos?|Mesodermo|Ectodermo|Endodermo|Placenta|0|También el sistema circulatorio.
+¿Cuál es el método anticonceptivo hormonal?|El diafragma|El preservativo|El DIU de cobre|La píldora|3|Impide la ovulación.
+¿Qué hoja embrionaria origina el sistema nervioso y la piel?|Ectodermo|Endodermo|Mesodermo|Trofoblasto|0|Del ectodermo derivan epidermis y sistema nervioso.
+¿Qué hoja embrionaria origina el tubo digestivo?|Endodermo|Amnios|Ectodermo|Mesodermo|0|También los pulmones.
+¿Cuál es el orden de las etapas del desarrollo embrionario?|Mórula, cigoto, gástrula|Blástula, cigoto, mórula|Gástrula, mórula, cigoto|Cigoto, mórula, blástula, gástrula|3|Después se forman los órganos.
+¿Cuál es la función del cordón umbilical?|Producir hormonas|Alimentar con leche|Conectar el feto con la placenta|Proteger el útero|2|Lleva nutrientes y retira desechos.
+¿Qué es el líquido amniótico?|Un líquido que protege al feto|La orina|La leche|La sangre|0|Amortigua golpes y mantiene la temperatura.
+¿Qué es la fertilización in vitro?|Una enfermedad|La fecundación en laboratorio y transferencia del embrión al útero|La clonación|Un método anticonceptivo|1|Es una técnica de reproducción asistida.
+¿Qué dice la ley argentina sobre el acceso a anticonceptivos?|Son un derecho garantizado en el sistema de salud|No están regulados|Están prohibidos|Solo se compran con receta|0|Hay acceso gratuito en hospitales y centros de salud.
+¿Cuál es la ventaja de la lactancia materna?|Aporta nutrientes y anticuerpos|Solo calma al bebé|Reemplaza a las vacunas|No tiene ventajas|0|Fortalece el sistema inmune del bebé.
+¿Cuál es el agente causal del VPH?|Un parásito|Un virus|Una bacteria|Un hongo|1|Se previene con vacuna y control ginecológico.
+¿Qué implica la perspectiva de género en la ESI?|Discriminar|Reconocer la igualdad de derechos y prevenir la violencia|Evitar hablar de sexualidad|Imponer roles|1|Promueve el respeto y la diversidad.
+¿Por qué el ácido fólico es importante antes y durante el embarazo?|Produce leche|Aumenta el peso|Previene defectos del tubo neural|Evita el parto|2|Se recomienda su consumo.
+¿Qué infección de transmisión sexual es causada por una bacteria?|VIH|VPH|Sífilis|Herpes|2|Se trata con antibióticos.
+¿Qué principio debe regir toda relación sexual?|La presión|La obligación|La indiferencia|El consentimiento libre e informado|3|Es un derecho y una responsabilidad.
+¿Qué es la Interrupción Voluntaria del Embarazo (Ley 27.610)?|Un control prenatal|Un método anticonceptivo|Un tratamiento de fertilidad|Un derecho de acceso a la interrupción en los plazos y condiciones de la ley|3|Está regulada en la Argentina desde 2021.
+¿Qué riesgo tiene el consumo de alcohol durante el embarazo?|Síndrome alcohólico fetal|Previene infecciones|Ningún riesgo|Mejora el desarrollo|0|Puede producir daños permanentes.

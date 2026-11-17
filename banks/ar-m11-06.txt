@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
+¿Cuál es la razón de la sucesión 3, 12, 48, 192, …?|12|7|16|4|3|Cada término se obtiene multiplicando el anterior por 4.
+En una sucesión aritmética, a₁ = 5 y d = −2. ¿Cuánto vale a₍11₎?|−17|−15|1|−13|1|aₙ = a₁ + (n − 1)·d = 5 + 10·(−2) = −15.
+¿Cuál es la razón (diferencia) de la sucesión −1, 5, 11, 17, …?|−1|6|7|−6|1|Cada término se obtiene sumando 6 al anterior.
+En una sucesión geométrica, a₁ = 1 y la razón es 2. ¿Cuánto vale a₍6₎?|12|64|11|32|3|aₙ = a₁·qⁿ⁻¹ = 1 · 2⁵ = 32.
+¿Cuál es la razón de la sucesión 1, −2, 4, −8, …?|−3|−2|4|−1|1|Cada término se obtiene multiplicando el anterior por −2.
+¿Cuál es la razón de la sucesión 2, −4, 8, −16, …?|−2|0|−4|4|0|Cada término se obtiene multiplicando el anterior por −2.
+En una sucesión geométrica, a₁ = 2 y la razón es 2. ¿Cuánto vale a₍5₎?|64|32|10|20|1|aₙ = a₁·qⁿ⁻¹ = 2 · 2⁴ = 32.
+¿Cuál es la razón de la sucesión 5, 25, 125, 625, …?|25|5|6|10|1|Cada término se obtiene multiplicando el anterior por 5.
+En una sucesión aritmética, a₁ = 10 y d = 4. ¿Cuánto vale a₍13₎?|54|62|58|53|2|aₙ = a₁ + (n − 1)·d = 10 + 12·4 = 58.
+En una sucesión aritmética, a₁ = 1 y d = 7. ¿Cuánto vale a₍9₎?|50|16|57|64|2|aₙ = a₁ + (n − 1)·d = 1 + 8·7 = 57.
+¿Cuál es la razón (diferencia) de la sucesión 1, 3, 5, 7, …?|1|2|3|−2|1|Cada término se obtiene sumando 2 al anterior.
+¿Cuál es la razón (diferencia) de la sucesión 0, 4, 8, 12, …?|5|4|0|−4|1|Cada término se obtiene sumando 4 al anterior.
+En una sucesión aritmética, a₁ = 8 y d = 3. ¿Cuánto vale a₍15₎?|50|53|47|39|0|aₙ = a₁ + (n − 1)·d = 8 + 14·3 = 50.
+En una sucesión geométrica, a₁ = 2 y la razón es 3. ¿Cuánto vale a₍3₎?|21|18|8|54|1|aₙ = a₁·qⁿ⁻¹ = 2 · 3² = 18.
+¿Cuál es la razón (diferencia) de la sucesión 9, 6, 3, 0, …?|−2|9|3|−3|3|Cada término se obtiene sumando −3 al anterior.
+En una sucesión aritmética, a₁ = −1 y d = −4. ¿Cuánto vale a₍15₎?|19|−57|−53|−61|1|aₙ = a₁ + (n − 1)·d = −1 + 14·(−4) = −57.
+En una sucesión geométrica, a₁ = 2 y la razón es 4. ¿Cuánto vale a₍4₎?|14|128|512|32|1|aₙ = a₁·qⁿ⁻¹ = 2 · 4³ = 128.
+¿Cuánto vale la suma de los infinitos términos de la serie geométrica con a₁ = 6 y razón 2/3?|9|18/5|10|18|3|Como q está entre −1 y 1: S = a₁/(1 − q) = 6/(1 − 2/3) = 18.
+Sumá los primeros 18 términos de la sucesión aritmética con a₁ = 7 y d = 1.|558|279|297|432|1|aₙ = 24 y Sₙ = n(a₁ + aₙ)/2 = 18·(7 + 24)/2 = 279.
+Sumá los primeros 3 términos de la sucesión geométrica con a₁ = 5 y razón 2.|40|45|30|35|3|Sₙ = a₁(qⁿ − 1)/(q − 1) = 5·(8 − 1)/(2 − 1) = 35.
+En una sucesión aritmética a₍3₎ = −1 y a₍9₎ = −19. ¿Cuál es la razón?|−2|5|−4|−3|3|d = (a_j − a_i)/(j − i) = (−19 − (−1))/6 = −3.
+En una sucesión aritmética a₍4₎ = 11 y a₍11₎ = 25. ¿Cuál es la razón?|5|1|2|3|2|d = (a_j − a_i)/(j − i) = (25 − 11)/7 = 2.
+¿Cuánto vale la suma de los infinitos términos de la serie geométrica con a₁ = 2 y razón 1/3?|3/2|6|3|8/3|2|Como q está entre −1 y 1: S = a₁/(1 − q) = 2/(1 − 1/3) = 3.
+¿Cuánto vale la suma de los infinitos términos de la serie geométrica con a₁ = 1 y razón 1/2?|3/2|2|2/3|3|1|Como q está entre −1 y 1: S = a₁/(1 − q) = 1/(1 − 1/2) = 2.
+Sumá los primeros 17 términos de la sucesión aritmética con a₁ = 4 y d = 4.|612|1.156|1.224|629|0|aₙ = 68 y Sₙ = n(a₁ + aₙ)/2 = 17·(4 + 68)/2 = 612.
+Sumá los primeros 18 términos de la sucesión aritmética con a₁ = 3 y d = 1.|360|207|225|414|1|aₙ = 20 y Sₙ = n(a₁ + aₙ)/2 = 18·(3 + 20)/2 = 207.
+En una sucesión aritmética a₍5₎ = −3 y a₍12₎ = −24. ¿Cuál es la razón?|−3|9|−2|−4|0|d = (a_j − a_i)/(j − i) = (−24 − (−3))/7 = −3.
+Sumá los primeros 13 términos de la sucesión aritmética con a₁ = 2 y d = 3.|260|273|520|494|0|aₙ = 38 y Sₙ = n(a₁ + aₙ)/2 = 13·(2 + 38)/2 = 260.
+Sumá los primeros 4 términos de la sucesión geométrica con a₁ = 3 y razón 3.|123|120|243|246|1|Sₙ = a₁(qⁿ − 1)/(q − 1) = 3·(81 − 1)/(3 − 1) = 120.
+¿Cuánto vale la suma de los infinitos términos de la serie geométrica con a₁ = 4 y razón 1/2?|9|8/3|6|8|3|Como q está entre −1 y 1: S = a₁/(1 − q) = 4/(1 − 1/2) = 8.
+Sumá los primeros 6 términos de la sucesión aritmética con a₁ = 6 y d = 2.|66|132|72|96|0|aₙ = 16 y Sₙ = n(a₁ + aₙ)/2 = 6·(6 + 16)/2 = 66.
+En una sucesión aritmética a₍5₎ = 17 y a₍7₎ = 27. ¿Cuál es la razón?|6|−3|4|5|3|d = (a_j − a_i)/(j − i) = (27 − 17)/2 = 5.
+Sumá los primeros 6 términos de la sucesión geométrica con a₁ = 1 y razón 2.|65|64|12|63|3|Sₙ = a₁(qⁿ − 1)/(q − 1) = 1·(64 − 1)/(2 − 1) = 63.
+Sumá los primeros 3 términos de la sucesión geométrica con a₁ = 1 y razón 3.|28|13|14|27|1|Sₙ = a₁(qⁿ − 1)/(q − 1) = 1·(27 − 1)/(3 − 1) = 13.
+Un ahorrista deposita $10000 en el primer mes y cada mes deposita $5000 más que el anterior. ¿Cuánto habrá depositado en total en 7 meses?|$185.000|$280.000|$175.000|$170.000|2|Suma aritmética: S = n(2a₁ + (n − 1)d)/2 = 7·(20000 + 30000)/2 = $175.000.
+Un ahorrista deposita $3000 en el primer mes y cada mes deposita $2000 más que el anterior. ¿Cuánto habrá depositado en total en 5 meses?|$33.000|$35.000|$55.000|$38.000|1|Suma aritmética: S = n(2a₁ + (n − 1)d)/2 = 5·(6000 + 8000)/2 = $35.000.
+En una sucesión aritmética a₁ = 8 y d = 3. ¿Qué posición ocupa el término 62?|18|20|54|19|3|62 = 8 + (n − 1)·3 → (n − 1) = 18 → n = 19.
+Un ahorrista deposita $500 en el primer mes y cada mes deposita $300 más que el anterior. ¿Cuánto habrá depositado en total en 10 meses?|$18.500|$18.200|$32.000|$19.000|0|Suma aritmética: S = n(2a₁ + (n − 1)d)/2 = 10·(1000 + 2700)/2 = $18.500.
+Hallá el término que falta para que −1, x, 11 sean términos consecutivos de una sucesión aritmética.|6|10|12|5|3|El término central es el promedio de los extremos: (−1 + 11)/2 = 5.
+En una sucesión aritmética a₁ = 9 y d = 4. ¿Qué posición ocupa el término 61?|52|14|15|13|1|61 = 9 + (n − 1)·4 → (n − 1) = 13 → n = 14.
+Una pelota cae desde 16 m y en cada rebote alcanza la mitad de la altura anterior. ¿Qué altura alcanza luego de 3 rebotes?|2 m|10 m|4 m|24 m|0|Es geométrica con razón 1/2: 16·1/2³ = 2 m.
+Una pelota cae desde 64 m y en cada rebote alcanza la mitad de la altura anterior. ¿Qué altura alcanza luego de 3 rebotes?|16 m|96 m|8 m|58 m|2|Es geométrica con razón 1/2: 64·1/2³ = 8 m.
+Una pelota cae desde 81 m y en cada rebote alcanza los 2/3 de la altura anterior. ¿Qué altura alcanza luego de 4 rebotes?|216 m|16 m|73 m|24 m|1|Es geométrica con razón 2/3: 81·2/3⁴ = 16 m.
+Hallá el término que falta para que −6, x, 8 sean términos consecutivos de una sucesión aritmética.|1|14|2|7|0|El término central es el promedio de los extremos: (−6 + 8)/2 = 1.
+En una sucesión aritmética a₁ = 10 y d = 6. ¿Qué posición ocupa el término 52?|9|7|8|42|2|52 = 10 + (n − 1)·6 → (n − 1) = 7 → n = 8.
+Una pelota cae desde 32 m y en cada rebote alcanza la mitad de la altura anterior. ¿Qué altura alcanza luego de 5 rebotes?|22 m|80 m|2 m|1 m|3|Es geométrica con razón 1/2: 32·1/2⁵ = 1 m.
+Hallá el término positivo x para que 3, x, 27 sean términos consecutivos de una sucesión geométrica.|9|24|6|15|0|x² = 3 · 27 = 81, entonces x = 9.
+En una sucesión aritmética a₁ = 9 y d = 4. ¿Qué posición ocupa el término 69?|17|15|60|16|3|69 = 9 + (n − 1)·4 → (n − 1) = 15 → n = 16.
+Hallá el término que falta para que 1, x, 11 sean términos consecutivos de una sucesión aritmética.|6|5|12|10|0|El término central es el promedio de los extremos: (1 + 11)/2 = 6.
+Un ahorrista deposita $800 en el primer mes y cada mes deposita $200 más que el anterior. ¿Cuánto habrá depositado en total en 12 meses?|$22.600|$23.600|$36.000|$22.800|3|Suma aritmética: S = n(2a₁ + (n − 1)d)/2 = 12·(1600 + 2200)/2 = $22.800.

@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 11,
+   "country": "AR",
+   "subject": "Biology",
+   "chapters": [
+    {
+     "id": "ar-b11-01",
+     "title": "Evolución biológica",
+     "lessons": [
+      {
+       "id": "ar-b11-01-01",
+       "title": "Teorías evolutivas y selección natural"
+      },
+      {
+       "id": "ar-b11-01-02",
+       "title": "Genética de poblaciones y especiación"
+      },
+      {
+       "id": "ar-b11-01-03",
+       "title": "Evidencias y evolución humana"
+      }
+     ]
+    },
+    {
+     "id": "ar-b11-02",
+     "title": "Sistema nervioso y órganos de los sentidos",
+     "lessons": [
+      {
+       "id": "ar-b11-02-01",
+       "title": "La neurona y el impulso nervioso"
+      },
+      {
+       "id": "ar-b11-02-02",
+       "title": "Sistema nervioso central y periférico"
+      },
+      {
+       "id": "ar-b11-02-03",
+       "title": "Órganos de los sentidos y salud"
+      }
+     ]
+    },
+    {
+     "id": "ar-b11-03",
+     "title": "Sistema endocrino y homeostasis",
+     "lessons": [
+      {
+       "id": "ar-b11-03-01",
+       "title": "Hormonas y glándulas"
+      },
+      {
+       "id": "ar-b11-03-02",
+       "title": "Homeostasis y retroalimentación"
+      },
+      {
+       "id": "ar-b11-03-03",
+       "title": "Salud endocrina"
+      }
+     ]
+    },
+    {
+     "id": "ar-b11-04",
+     "title": "Reproducción, desarrollo y salud sexual",
+     "lessons": [
+      {
+       "id": "ar-b11-04-01",
+       "title": "Gametogénesis y ciclo reproductivo"
+      },
+      {
+       "id": "ar-b11-04-02",
+       "title": "Fecundación, embarazo y desarrollo"
+      },
+      {
+       "id": "ar-b11-04-03",
+       "title": "Salud sexual y derechos"
+      }
+     ]
+    },
+    {
+     "id": "ar-b11-05",
+     "title": "Microbiología y salud pública",
+     "lessons": [
+      {
+       "id": "ar-b11-05-01",
+       "title": "Bacterias, virus y otros microorganismos"
+      },
+      {
+       "id": "ar-b11-05-02",
+       "title": "Epidemiología y prevención"
+      },
+      {
+       "id": "ar-b11-05-03",
+       "title": "Antibióticos, vacunas y resistencia"
+      }
+     ]
+    },
+    {
+     "id": "ar-b11-06",
+     "title": "Biodiversidad, ecorregiones y conservación en la Argentina",
+     "lessons": [
+      {
+       "id": "ar-b11-06-01",
+       "title": "Biodiversidad y ecorregiones argentinas"
+      },
+      {
+       "id": "ar-b11-06-02",
+       "title": "Amenazas a la biodiversidad"
+      },
+      {
+       "id": "ar-b11-06-03",
+       "title": "Conservación y marco legal"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

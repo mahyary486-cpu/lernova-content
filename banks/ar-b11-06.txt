@@ -1,0 +1,29 @@
+#EEEEEEEEEEMMMMMMMMHHHHHHHHHH
+¿Cuál es el bioma típico de la región pampeana?|Tundra|Pastizal|Selva|Desierto|1|Predominan gramíneas.
+¿Qué es la biodiversidad?|Un clima|Una sola especie|La variedad de genes, especies y ecosistemas|Un nutriente|2|Es un indicador de la salud ambiental.
+¿Cuál es la principal causa de pérdida de biodiversidad?|El Sol|El viento|La destrucción del hábitat|La lluvia|2|Incluye deforestación y expansión agrícola.
+¿Qué cetáceo se reproduce en la Península Valdés?|Ballena franca austral|Orca únicamente|Cachalote|Delfín rosado|0|Es Patrimonio Natural de la Humanidad.
+¿Qué ave símbolo de la Argentina construye un nido de barro?|Cóndor|Ñandú|Hornero|Cotorra|2|Es el ave nacional.
+¿Qué animal es símbolo de la selva paranaense y está en peligro crítico?|Zorro gris|Guanaco|Ñandú|Yaguareté|3|Su caza y la pérdida de hábitat lo amenazan.
+¿Qué ecorregión argentina tiene el mayor caudal de cataratas del país?|Selva paranaense|Puna|Monte|Estepa patagónica|0|Cataratas del Iguazú.
+¿Qué camélido silvestre habita la Patagonia y los Andes?|Llama doméstica|Alpaca|Camello|Guanaco|3|Se encuentra desde Jujuy hasta Tierra del Fuego.
+¿Qué área protegida tiene los glaciares Perito Moreno y Upsala?|Parque Nacional Quebrada|Parque Nacional Iguazú|Parque Nacional Lanín|Parque Nacional Los Glaciares|3|Está en Santa Cruz.
+¿Qué es un área protegida?|Una zona industrial|Un campo agrícola|Un territorio destinado a conservar la naturaleza|Una ciudad|2|Los parques nacionales son un ejemplo.
+¿Qué ecorregión se caracteriza por el bosque de quebracho?|Pampa|Monte|Selva de las yungas|Chaco|3|El quebracho colorado es típico.
+¿Qué significa «servicios ecosistémicos»?|Los servicios públicos|Los alimentos envasados|Los beneficios que los ecosistemas brindan a las personas|Las industrias|2|Por ejemplo, el agua limpia y la polinización.
+¿Qué es una especie endémica?|Una plaga|Una especie extinta|Una que vive solo en una región|Una especie introducida|2|Por ejemplo, el cardón es típico del noroeste.
+¿Qué es una especie exótica invasora?|Una protegida|Una extinta|Una introducida que se expande y daña a las nativas|Una nativa|2|Por ejemplo, el castor en Tierra del Fuego.
+¿Qué es una especie amenazada?|Una abundante|Una con riesgo de extinción|Una introducida|Una doméstica|1|Se clasifican según la UICN.
+¿Cuál es el principal servicio de los humedales?|Generar ruido|Producir petróleo|Aumentar el calor|Regular el agua y reducir inundaciones|3|Filtran contaminantes.
+¿Qué ecorregión es la más extensa de la Argentina?|Puna|Chaco seco|Estepa patagónica|Pampa|1|Ocupa gran parte del norte.
+¿Qué región tiene el clima más árido y arbustos como el jarillal?|Monte|Delta|Selva paranaense|Espinal|0|Abarca desde Salta hasta Chubut.
+¿Qué problema genera la expansión de la frontera agropecuaria en el Chaco?|Mejor suelo siempre|Aumento de la biodiversidad|Deforestación y pérdida de hábitat|Más lluvias|2|Es una de las regiones con mayor deforestación.
+¿Qué es la huella ecológica?|La superficie necesaria para sostener el consumo de una persona o sociedad|Una contaminación|Una marca en el suelo|Un fósil|0|Mide el impacto ambiental.
+¿Qué ley protege los glaciares y el ambiente periglacial?|Ley 24.240|Ley 25.675|Ley 26.206|Ley 26.639|3|Los glaciares son reservas estratégicas de agua.
+¿Qué beneficio ofrecen los corredores biológicos?|Aumentan la caza|Aíslan poblaciones|Conectan hábitats y permiten el movimiento de las especies|Cortan los bosques|2|Reducen la fragmentación.
+¿Qué es el índice de diversidad de Shannon?|La cantidad de agua|La altura|Una medida de la temperatura|Una medida de la diversidad que considera riqueza y abundancia|3|A mayor valor, mayor diversidad.
+¿Qué ley protege los bosques nativos en la Argentina?|Ley 26.150|Ley 25.916|Ley 26.331 de Bosques Nativos|Ley 27.610|2|Establece presupuestos mínimos de protección.
+¿Cuál es una acción individual que ayuda a conservar la biodiversidad?|Talar árboles|Consumir de manera responsable y no extraer especies silvestres|Comprar fauna silvestre|Quemar basura|1|También separar residuos y respetar las áreas protegidas.
+Dos comunidades tienen 10 especies cada una. En una predomina una especie. ¿Cuál es más diversa?|Ninguna|La más equitativa|Son iguales|La que tiene una especie dominante|1|La diversidad considera abundancia relativa.
+¿Qué es la fragmentación del hábitat?|La restauración|La división de un hábitat en parches aislados|La unión de hábitats|La migración|1|Reduce el tamaño de las poblaciones.
+¿Qué proyecto reintrodujo el yaguareté en los Esteros del Iberá?|Una forestación|Un programa de rewilding|Una cría de ganado|Una caza controlada|1|La Argentina impulsa la reintroducción de especies.

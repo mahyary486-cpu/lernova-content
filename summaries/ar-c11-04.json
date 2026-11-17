@@ -1,0 +1,5 @@
+{
+ "Reacciones de óxido-reducción": "En una reacción redox hay transferencia de electrones: la especie que se oxida pierde electrones (aumenta su número de oxidación) y actúa como reductor; la que se reduce gana electrones (disminuye su número de oxidación) y actúa como oxidante. Se balancean por el método del ion-electrón.",
+ "Pilas y potenciales de reducción": "Una pila convierte energía química en eléctrica mediante una reacción redox espontánea. El ánodo es donde ocurre la oxidación y el cátodo donde ocurre la reducción; el puente salino cierra el circuito. La fem es E°pila = E°cátodo − E°ánodo. Ejemplo: pila de Daniell (Zn/Cu), E° = 1,10 V.",
+ "Electrólisis y corrosión": "La electrólisis usa corriente eléctrica para provocar una reacción no espontánea. Según Faraday, m = M·I·t/(z·F), con F = 96 500 C/mol. Se usa para obtener aluminio, cloro, y para el cromado y el galvanizado. La corrosión es la oxidación espontánea de los metales."
+}

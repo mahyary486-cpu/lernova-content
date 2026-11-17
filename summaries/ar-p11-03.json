@@ -1,0 +1,5 @@
+{
+ "Imanes y campo magnético": "Los imanes tienen polos norte y sur; polos iguales se repelen y distintos se atraen. Un imán crea un campo magnético (T) representado por líneas cerradas que salen del norte y entran en el sur. Una corriente también crea campo magnético (Oersted). La Tierra se comporta como un gran imán.",
+ "Fuerza magnética": "Un conductor con corriente I y longitud L dentro de un campo B recibe una fuerza F = B·I·L·sen θ. Una carga en movimiento perpendicular al campo describe una trayectoria circular. Es el principio del motor eléctrico.",
+ "Inducción electromagnética y transformadores": "Faraday descubrió que la variación del flujo magnético induce una corriente. La ley de Lenz indica que se opone a la causa que la produce. Los generadores aprovechan la inducción; los transformadores modifican la tensión alterna: V₁/V₂ = N₁/N₂. Se usan en el transporte de energía."
+}

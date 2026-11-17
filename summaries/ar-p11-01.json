@@ -1,0 +1,5 @@
+{
+ "Carga eléctrica y ley de Coulomb": "La materia tiene carga positiva (protones) o negativa (electrones). La carga se conserva y está cuantizada. Cargas de igual signo se repelen y de signo opuesto se atraen. La ley de Coulomb dice que F = k·q₁·q₂/d², con k = 9 × 10⁹ N·m²/C².",
+ "Campo eléctrico": "Una carga modifica el espacio que la rodea creando un campo eléctrico. La intensidad del campo en un punto es E = F/q y se mide en N/C. Las líneas de campo salen de las cargas positivas y entran en las negativas; entre dos placas paralelas el campo es uniforme.",
+ "Potencial eléctrico y diferencia de potencial": "El potencial eléctrico es la energía por unidad de carga y se mide en volt. La diferencia de potencial ΔV es el trabajo por unidad de carga: ΔV = W/q. En un campo uniforme E = ΔV/d. Los rayos son descargas por diferencia de potencial entre nubes y suelo."
+}

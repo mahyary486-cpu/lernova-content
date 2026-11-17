@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Cuántos electrones como máximo admite el subnivel 3s?|6|14|10|2|3|Los subniveles s, p y d admiten 2, 6 y 10 electrones.
+¿Qué describe el modelo mecánico-cuántico?|Un átomo macizo|Átomos indivisibles|La probabilidad de encontrar el electrón en orbitales|Órbitas circulares exactas|2|Es el modelo actual.
+¿Cuántos electrones tiene un ion con Z = 29 y carga +1?|26|29|30|28|3|e⁻ = Z − carga = 29 − (+1) = 28.
+¿Cuántos electrones tiene un ion con Z = 8 y carga −2?|10|6|12|8|0|e⁻ = Z − carga = 8 − (−2) = 10.
+¿Cuántos electrones tiene un ion con Z = 17 y carga −1?|20|18|17|16|1|e⁻ = Z − carga = 17 − (−1) = 18.
+¿Cuántos electrones como máximo admite el subnivel 1s?|2|6|14|10|0|Los subniveles s, p y d admiten 2, 6 y 10 electrones.
+¿Qué descubrió Thomson?|El protón|El electrón|El neutrón|El núcleo|1|Propuso el modelo del «budín de pasas».
+¿Cuántos electrones como máximo admite el subnivel 3d?|6|2|10|14|2|Los subniveles s, p y d admiten 2, 6 y 10 electrones.
+¿Qué propuso Bohr?|Que no hay electrones|Que el átomo es indivisible|Que los electrones giran en órbitas con energías definidas|Que el núcleo no existe|2|Los electrones saltan entre niveles emitiendo luz.
+¿Quién propuso el modelo del átomo con un núcleo central pequeño?|Dalton|Bohr|Thomson|Rutherford|3|Lo dedujo del experimento de la lámina de oro.
+¿Cuántos electrones de valencia tiene el nitrógeno (Z = 7)?|4|7|5|6|2|Se obtiene de la configuración electrónica de la última capa: 5.
+¿Cuántos electrones de valencia tiene el cloro (Z = 17)?|7|17|6|8|0|Se obtiene de la configuración electrónica de la última capa: 7.
+¿Qué enuncia el principio de exclusión de Pauli?|Los electrones ocupan primero los orbitales de mayor energía|Los electrones se repelen|Un orbital admite como máximo dos electrones con espines opuestos|El núcleo es esférico|2|Dos electrones no pueden tener los cuatro números cuánticos iguales.
+¿Cuál es la configuración electrónica del sodio (Z = 11)?|1s² 2s² 2p⁶ 3s¹|1s² 2s² 2p⁶ 3p¹|1s² 2s¹|1s² 2s² 2p⁵ 3s²|0|Tiene un electrón de valencia.
+¿Cuál es la configuración del cloro (Z = 17)?|1s² 2s² 2p⁶ 3s² 3p⁶|1s² 2s² 2p⁵|1s² 2s² 2p⁶ 3s¹|1s² 2s² 2p⁶ 3s² 3p⁵|3|Tiene 7 electrones de valencia.
+¿Cuántos electrones de valencia tiene el fósforo (Z = 15)?|15|6|4|5|3|Se obtiene de la configuración electrónica de la última capa: 5.
+¿Cuántos electrones de valencia tiene el carbono (Z = 6)?|6|3|4|5|2|Se obtiene de la configuración electrónica de la última capa: 4.
+¿Qué enuncia la regla de Hund?|Las órbitas son circulares|Los electrones se aparean primero|El núcleo tiene carga|Los electrones ocupan orbitales de igual energía de a uno antes de aparearse|3|Maximiza el espín total.
+¿Qué indica el número cuántico principal n?|La orientación|La forma del orbital|El espín|El nivel de energía|3|Toma valores 1, 2, 3…
+¿Cuántos electrones tiene un ion con Z = 11 y carga +1?|12|10|8|11|1|e⁻ = Z − carga = 11 − (+1) = 10.
+¿Qué elementos pueden formar puentes de hidrógeno con el H?|F, O y N|Na, K y Li|C, S y P|He, Ne y Ar|0|Son muy electronegativos.
+¿Qué fuerza intermolecular explica el alto punto de ebullición del agua?|Enlace metálico|Fuerzas de dispersión únicamente|Puentes de hidrógeno|Enlace iónico|2|Se forman entre H y átomos como O, N o F.
+¿Por qué el CO₂ es apolar aunque sus enlaces son polares?|Por su geometría lineal los dipolos se anulan|Porque no tiene oxígeno|Porque es iónico|Porque es un gas|0|La suma vectorial es cero.
+¿Qué dice el principio de incertidumbre de Heisenberg?|Los neutrones no existen|No se puede conocer a la vez la posición y la velocidad exactas de un electrón|El núcleo es inestable|Los electrones tienen órbitas fijas|1|Justifica el uso de orbitales.
+¿Qué geometría tiene la molécula de H₂O?|Tetraédrica|Lineal|Trigonal plana|Angular|3|Tiene dos pares libres en el oxígeno.
+¿Qué geometría tiene la molécula de CH₄?|Angular|Tetraédrica|Lineal|Plana|1|Cuatro pares enlazantes alrededor del carbono.
+¿Qué geometría tiene el CO₂?|Lineal|Piramidal|Tetraédrica|Angular|0|No tiene pares libres en el carbono.
+¿Por qué el agua es una molécula polar?|Por su geometría angular y la diferencia de electronegatividad|Porque no tiene enlaces|Porque es lineal|Porque tiene iones|0|Los dipolos no se anulan.
+¿Qué principio establece la posición de los electrones en orden creciente de energía?|Principio de incertidumbre|Regla de Hund|Principio de Aufbau|Principio de Pauli|2|Se llenan primero los niveles de menor energía.
+¿Qué geometría tiene el NH₃?|Tetraédrica|Piramidal|Lineal|Plana|1|Un par libre en el nitrógeno.

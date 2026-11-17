@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué formas de propagación del calor existen?|Conducción, convección y radiación|Inducción|Reflexión y refracción|Fusión y evaporación|0|Cada una ocurre en distintos medios.
+El calor fluye espontáneamente:|En ambos sentidos igual|Solo en el vacío|Del cuerpo más caliente al más frío|Del más frío al más caliente|2|Hasta alcanzar el equilibrio térmico.
+Convertí 0 °C a grados Fahrenheit.|0 °F|30 °F|33 °F|32 °F|3|°F = °C · 9/5 + 32 = 32.
+¿Cuál es la unidad de temperatura absoluta en el Sistema Internacional?|Kelvin|Celsius|Fahrenheit|Joule|0|0 K es el cero absoluto.
+Convertí 50 °C a grados Fahrenheit.|130 °F|82 °F|122 °F|27,778 °F|2|°F = °C · 9/5 + 32 = 122.
+¿Qué forma de transmisión del calor no necesita medio material?|Conducción|Ninguna|Convección|Radiación|3|Así llega la energía del Sol.
+Convertí 100 °C a grados Fahrenheit.|55,556 °F|230 °F|212 °F|132 °F|2|°F = °C · 9/5 + 32 = 212.
+Una máquina absorbe 2000 J de la fuente caliente y realiza 800 J de trabajo. ¿Cuál es su rendimiento?|40 %|60 %|80 %|1200 %|0|η = W/Q = 800/2000 × 100 = 40 %.
+Una máquina absorbe 600 J de la fuente caliente y realiza 150 J de trabajo. ¿Cuál es su rendimiento?|75 %|50 %|25 %|450 %|2|η = W/Q = 150/600 × 100 = 25 %.
+¿Cuánto calor se necesita para cambiar de estado 100 g de agua si el calor latente es 80 cal/g?|16000 cal|8000 cal|1,25 cal|180 cal|1|Q = m·L = 100 · 80 = 8000 cal.
+¿Qué es un equilibrio térmico?|Cuando no hay calor|Cuando no hay energía|Cuando dos cuerpos alcanzan la misma temperatura|Cuando tienen igual masa|2|No hay flujo neto de calor.
+¿Cuánto calor se necesita para cambiar de estado 5 g de agua si el calor latente es 540 cal/g?|0,009 cal|2700 cal|545 cal|5400 cal|1|Q = m·L = 5 · 540 = 2700 cal.
+Un sistema recibe 500 J de calor y realiza un trabajo de 200 J. ¿Cuál es la variación de su energía interna?|300 J|303 J|700 J|500 J|0|Primer principio: ΔU = Q − W = 500 − 200 = 300 J.
+Un sistema recibe 1000 J de calor y realiza un trabajo de 400 J. ¿Cuál es la variación de su energía interna?|603 J|1000 J|600 J|1400 J|2|Primer principio: ΔU = Q − W = 1000 − 400 = 600 J.
+Una máquina absorbe 800 J de la fuente caliente y realiza 200 J de trabajo. ¿Cuál es su rendimiento?|600 %|25 %|50 %|75 %|1|η = W/Q = 200/800 × 100 = 25 %.
+¿Qué enuncia el primer principio de la termodinámica?|La entropía disminuye|El calor fluye del frío al caliente|La temperatura es constante|La energía se conserva: ΔU = Q − W|3|Es el principio de conservación de la energía.
+Una máquina absorbe 500 J de la fuente caliente y realiza 100 J de trabajo. ¿Cuál es su rendimiento?|400 %|80 %|40 %|20 %|3|η = W/Q = 100/500 × 100 = 20 %.
+Un sistema recibe 800 J de calor y realiza un trabajo de 300 J. ¿Cuál es la variación de su energía interna?|500 J|1100 J|503 J|800 J|0|Primer principio: ΔU = Q − W = 800 − 300 = 500 J.
+Un sistema recibe 600 J de calor y realiza un trabajo de 100 J. ¿Cuál es la variación de su energía interna?|600 J|700 J|503 J|500 J|3|Primer principio: ΔU = Q − W = 600 − 100 = 500 J.
+¿Cuánto calor se necesita para cambiar de estado 50 g de agua si el calor latente es 80 cal/g?|130 cal|0,625 cal|4000 cal|8000 cal|2|Q = m·L = 50 · 80 = 4000 cal.
+Una máquina térmica opera entre 1000 K y 500 K. ¿Cuál es el máximo rendimiento teórico (Carnot)?|49 %|100 %|51 %|50 %|3|η = 1 − Tf/Tc = 1 − 500/1000 = 50 %.
+Una máquina térmica opera entre 400 K y 300 K. ¿Cuál es el máximo rendimiento teórico (Carnot)?|50 %|26 %|75 %|25 %|3|η = 1 − Tf/Tc = 1 − 300/400 = 25 %.
+Una máquina térmica opera entre 900 K y 300 K. ¿Cuál es el máximo rendimiento teórico (Carnot)?|33,333 %|66,667 %|133,333 %|67,667 %|1|η = 1 − Tf/Tc = 1 − 300/900 = 66,667 %.
+Una barra de 1000 m de largo con coeficiente de dilatación 12 × 10⁻⁶ °C⁻¹ se calienta 30 °C. ¿Cuánto se alarga?|3,6 m|0,36 m|0,036 m|400 m|1|ΔL = L₀·α·ΔT = 1000 · 12×10⁻⁶ · 30 = 0,36 m.
+¿Cuál es el principio del efecto invernadero?|Se refleja toda la luz|Los gases retienen parte de la radiación infrarroja|El Sol cambia de intensidad|La Tierra produce calor propio|1|El CO₂ y el metano absorben infrarrojo.
+¿Por qué se usan frazadas de lana?|Porque son malas conductoras del calor|Porque producen calor|Porque reflejan el frío|Porque son pesadas|0|El aire atrapado actúa como aislante.
+Una barra de 10 m de largo con coeficiente de dilatación 12 × 10⁻⁶ °C⁻¹ se calienta 100 °C. ¿Cuánto se alarga?|0,001 m|0,012 m|1,2 m|0,12 m|1|ΔL = L₀·α·ΔT = 10 · 12×10⁻⁶ · 100 = 0,012 m.
+Una máquina térmica opera entre 500 K y 300 K. ¿Cuál es el máximo rendimiento teórico (Carnot)?|41 %|60 %|40 %|80 %|2|η = 1 − Tf/Tc = 1 − 300/500 = 40 %.
+¿Cómo calienta el sol la Tierra?|Por radiación|Por convección|Por conducción|Por inducción|0|No hay medio material en el espacio.
+¿Por qué ninguna máquina térmica tiene rendimiento del 100 %?|Siempre se cede calor a la fuente fría|Porque se conserva la masa|Por rozamiento solamente|Porque no hay combustible|0|Es consecuencia del segundo principio.

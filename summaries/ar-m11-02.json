@@ -1,0 +1,5 @@
+{
+ "Función exponencial": "La función exponencial f(x) = aˣ, con a > 0 y a ≠ 1, es creciente si a > 1 y decreciente si 0 < a < 1. Su gráfico pasa por (0; 1) y tiene como asíntota horizontal al eje x. Modela crecimientos y decrecimientos porcentuales.",
+ "Logaritmos y sus propiedades": "El logaritmo en base a de un número es el exponente al que hay que elevar a para obtenerlo: log_a(x) = y equivale a aʸ = x. Propiedades: log(x·y) = log x + log y, log(x/y) = log x − log y y log(xⁿ) = n·log x.",
+ "Ecuaciones exponenciales y logarítmicas": "Una ecuación exponencial se resuelve igualando bases o aplicando logaritmos a ambos miembros. Una ecuación logarítmica se resuelve usando las propiedades y verificando que los argumentos de los logaritmos sean positivos."
+}

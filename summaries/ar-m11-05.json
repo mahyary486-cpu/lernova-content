@@ -1,0 +1,5 @@
+{
+ "Principios de conteo y factorial": "El principio multiplicativo establece que si una tarea se hace en m formas y otra en n formas, ambas juntas se hacen de m·n formas. El factorial n! es el producto de los enteros de 1 a n y cuenta las formas de ordenar n elementos distintos.",
+ "Variaciones, combinaciones y números combinatorios": "Una variación V(n; k) cuenta las listas ordenadas de k elementos tomados de n: n!/(n − k)!. Una combinación C(n; k) cuenta los grupos sin orden: n!/(k!(n − k)!). La diferencia está en si el orden importa.",
+ "Probabilidad": "La probabilidad de un suceso es casos favorables sobre casos posibles cuando todos son equiprobables. Siempre está entre 0 y 1. P(no A) = 1 − P(A) y P(A o B) = P(A) + P(B) − P(A y B). Si A y B son independientes, P(A y B) = P(A)·P(B)."
+}

@@ -1,0 +1,5 @@
+{
+ "Circunferencia trigonométrica y radianes": "En la circunferencia trigonométrica (radio 1) cada ángulo determina un punto (cos θ; sen θ). Los ángulos se miden en grados o en radianes: 180° = π rad. El signo de cada razón depende del cuadrante.",
+ "Funciones seno y coseno": "Las funciones seno y coseno son periódicas, de período 2π. En f(x) = A·sen(Bx) + C la amplitud es |A|, el período es 2π/|B| y el conjunto imagen es [C − |A|; C + |A|]. El coseno es el seno desplazado π/2.",
+ "Identidades, ecuaciones y teoremas del seno y del coseno": "La identidad fundamental es sen²x + cos²x = 1. Las ecuaciones trigonométricas tienen varias soluciones por período. Para triángulos cualesquiera se usan el teorema del seno (a/sen A = b/sen B) y el del coseno (c² = a² + b² − 2ab·cos C)."
+}

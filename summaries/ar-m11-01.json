@@ -1,0 +1,5 @@
+{
+ "Concepto de función, dominio e imagen": "Una función asigna a cada elemento del dominio un único elemento de la imagen. El dominio es el conjunto de valores de x para los que la función está definida; la imagen es el conjunto de los valores que toma. Hay que excluir las divisiones por cero y las raíces de negativos.",
+ "Funciones polinómicas y racionales": "Las funciones polinómicas están definidas en todos los reales. Una función racional es un cociente de polinomios; no está definida donde el denominador se anula y allí puede tener una asíntota vertical. Las raíces son los ceros del numerador.",
+ "Composición de funciones y función inversa": "La composición (f∘g)(x) = f(g(x)) aplica primero g y después f; en general no es conmutativa. Una función inyectiva tiene inversa f⁻¹, que se obtiene despejando x y se grafica como simetría respecto de la recta y = x."
+}

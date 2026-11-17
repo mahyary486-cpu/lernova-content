@@ -1,0 +1,5 @@
+{
+ "Concentración de soluciones": "Las soluciones se expresan en % m/m, % m/V, molaridad M = n/V (mol/L) y molalidad m = n/kg de solvente. Para pasar de gramos a moles se usa la masa molar. En las diluciones se conserva la cantidad de soluto: C₁V₁ = C₂V₂.",
+ "Solubilidad y factores que la afectan": "La solubilidad es la máxima cantidad de soluto que se disuelve en una cantidad de solvente a una temperatura. En los sólidos suele aumentar con la temperatura; en los gases disminuye con ella y aumenta con la presión (ley de Henry). «Lo semejante disuelve a lo semejante».",
+ "Propiedades coligativas": "Las propiedades coligativas dependen del número de partículas de soluto y no de su naturaleza: descenso de la presión de vapor, ascenso ebulloscópico, descenso crioscópico (ΔTc = Kc·m·i) y presión osmótica. Explican el uso de sal en rutas heladas y de anticongelante en los motores."
+}

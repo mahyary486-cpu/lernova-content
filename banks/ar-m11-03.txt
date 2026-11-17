@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
+¿Cuánto vale cos 0°?|1/2|0|1|−1|2|Es un valor de la circunferencia trigonométrica en el eje: cos 0° = 1.
+Expresá 180° en radianes.|5π/3|2π/3|π|11π/6|2|Se multiplica por π/180: 180° = 180·π/180 = π.
+Expresá 2π radianes en grados.|270°|240°|120°|360°|3|Se multiplica por 180/π: 2π rad = 360°.
+¿Cuánto vale cos 300°?|−1/2|√3/2|1/2|−√3/2|2|300° está en el cuarto cuadrante y su ángulo de referencia es 60°: cos 60° = 1/2. Con el signo del cuadrante queda 1/2.
+¿Cuánto vale sen 210°?|−1/2|√3/2|1/2|−√3/2|0|210° está en el tercero cuadrante y su ángulo de referencia es 30°: sen 30° = 1/2. Con el signo del cuadrante queda −1/2.
+¿Cuánto vale sen 0°?|0|−1|1/2|1|0|Es un valor de la circunferencia trigonométrica en el eje: sen 0° = 0.
+Expresá 7π/4 radianes en grados.|315°|45°|240°|270°|0|Se multiplica por 180/π: 7π/4 rad = 315°.
+Expresá 120° en radianes.|π/6|3π/2|2π/3|7π/4|2|Se multiplica por π/180: 120° = 120·π/180 = 2π/3.
+Expresá 150° en radianes.|7π/6|5π/6|π/6|7π/4|1|Se multiplica por π/180: 150° = 150·π/180 = 5π/6.
+Expresá 11π/6 radianes en grados.|135°|330°|315°|150°|1|Se multiplica por 180/π: 11π/6 rad = 330°.
+Expresá 3π/4 radianes en grados.|60°|135°|360°|330°|1|Se multiplica por 180/π: 3π/4 rad = 135°.
+Expresá π/2 radianes en grados.|90°|45°|210°|60°|0|Se multiplica por 180/π: π/2 rad = 90°.
+¿Cuánto vale cos 150°?|√3/2|−1/2|−√3/2|1/2|2|150° está en el segundo cuadrante y su ángulo de referencia es 30°: cos 30° = √3/2. Con el signo del cuadrante queda −√3/2.
+Expresá 210° en radianes.|3π/2|5π/6|7π/6|4π/3|2|Se multiplica por π/180: 210° = 210·π/180 = 7π/6.
+¿Cuánto vale cos 180°?|1/2|−1|1|0|1|Es un valor de la circunferencia trigonométrica en el eje: cos 180° = −1.
+¿Cuánto vale sen 150°?|−1/2|−√3/2|1/2|√3/2|2|150° está en el segundo cuadrante y su ángulo de referencia es 30°: sen 30° = 1/2. Con el signo del cuadrante queda 1/2.
+Expresá 225° en radianes.|4π/3|7π/4|5π/4|π|2|Se multiplica por π/180: 225° = 225·π/180 = 5π/4.
+En un triángulo, dos lados miden 5 cm y 8 cm y el ángulo entre ellos mide 60°. ¿Cuánto mide el tercer lado?|13 cm|7 cm|3 cm|8 cm|1|Teorema del coseno: c² = 5² + 8² − 2·5·8·cos 60° = 49, entonces c = 7 cm.
+¿Cuál es el período de f(x) = 5 sen(2x)?|2π/3|π/2|π|2π|2|El período es 2π dividido por el coeficiente de x: 2π/2 = π.
+En un triángulo, el lado a = 20 cm es opuesto a un ángulo de 30° y el lado b es opuesto a un ángulo de 90°. ¿Cuánto mide b?|60 cm|20 cm|10 cm|40 cm|3|Teorema del seno: a/sen 30° = b/sen 90° → b = 20 · 1/(1/2) = 40 cm.
+¿Cuál es el período de f(x) = 1 sen(3x)?|2π/3|π/2|2π|π|0|El período es 2π dividido por el coeficiente de x: 2π/3 = 2π/3.
+En un triángulo, el lado a = 8 cm es opuesto a un ángulo de 30° y el lado b es opuesto a un ángulo de 90°. ¿Cuánto mide b?|4 cm|24 cm|16 cm|8 cm|2|Teorema del seno: a/sen 30° = b/sen 90° → b = 8 · 1/(1/2) = 16 cm.
+¿Cuál es el período de f(x) = 5 sen(3x)?|2π/3|π/2|2π|π|0|El período es 2π dividido por el coeficiente de x: 2π/3 = 2π/3.
+En un triángulo, dos lados miden 7 cm y 15 cm y el ángulo entre ellos mide 60°. ¿Cuánto mide el tercer lado?|8 cm|22 cm|14 cm|13 cm|3|Teorema del coseno: c² = 7² + 15² − 2·7·15·cos 60° = 169, entonces c = 13 cm.
+¿Cuál es la amplitud de f(x) = 5 cos(3x)?|5|3|8|15|0|La amplitud es el valor absoluto del coeficiente que multiplica a la función: 5.
+En un triángulo, dos lados miden 3 cm y 5 cm y el ángulo entre ellos mide 120°. ¿Cuánto mide el tercer lado?|8 cm|6 cm|7 cm|2 cm|2|Teorema del coseno: c² = 3² + 5² − 2·3·5·cos 120° = 49, entonces c = 7 cm.
+En un triángulo, el lado a = 12 cm es opuesto a un ángulo de 30° y el lado b es opuesto a un ángulo de 90°. ¿Cuánto mide b?|36 cm|24 cm|12 cm|6 cm|1|Teorema del seno: a/sen 30° = b/sen 90° → b = 12 · 1/(1/2) = 24 cm.
+¿Cuál es la amplitud de f(x) = 8 cos(4x)?|4|8|32|12|1|La amplitud es el valor absoluto del coeficiente que multiplica a la función: 8.
+¿Cuál es la amplitud de f(x) = 4 cos(3x)?|3|4|7|12|1|La amplitud es el valor absoluto del coeficiente que multiplica a la función: 4.
+¿Cuál es el período de f(x) = 3 sen(2x)?|2π|π/2|π|2π/3|2|El período es 2π dividido por el coeficiente de x: 2π/2 = π.
+¿Cuál es el período de f(x) = 5 sen(4x)?|π|π/2|2π/3|2π|1|El período es 2π dividido por el coeficiente de x: 2π/4 = π/2.
+En un triángulo, el lado a = 10 cm es opuesto a un ángulo de 30° y el lado b es opuesto a un ángulo de 90°. ¿Cuánto mide b?|5 cm|30 cm|10 cm|20 cm|3|Teorema del seno: a/sen 30° = b/sen 90° → b = 10 · 1/(1/2) = 20 cm.
+¿Cuál es la amplitud de f(x) = 7 cos(4x)?|4|11|7|28|2|La amplitud es el valor absoluto del coeficiente que multiplica a la función: 7.
+En un triángulo, dos lados miden 7 cm y 8 cm y el ángulo entre ellos mide 120°. ¿Cuánto mide el tercer lado?|14 cm|15 cm|1 cm|13 cm|3|Teorema del coseno: c² = 7² + 8² − 2·7·8·cos 120° = 169, entonces c = 13 cm.
+Si sen x = 8/17 y x está en el segundo cuadrante, ¿cuánto vale cos x?|−15/17|8/15|−8/17|15/17|0|cos²x = 1 − sen²x = 225/289; en el segundo cuadrante el coseno es negativo: cos x = −15/17.
+Un triángulo tiene dos lados de 4 cm y 10 cm que forman un ángulo de 30°. ¿Cuál es su área?|5 cm²|20 cm²|30 cm²|10 cm²|3|Área = (1/2)·a·b·sen γ = (1/2)·4·10·(1/2) = 10 cm².
+Si sen x = 5/13 y x está en el segundo cuadrante, ¿cuánto vale cos x?|−5/13|12/13|−12/13|5/12|2|cos²x = 1 − sen²x = 144/169; en el segundo cuadrante el coseno es negativo: cos x = −12/13.
+Resolvé 2 sen x = √2 en el intervalo [0°; 360°).|x = 45° y x = 135°|x = 30° y x = 150°|x = 45° y x = 225°|x = 45° y x = 315°|0|Se buscan los ángulos de referencia y se usan los cuadrantes donde la función tiene el signo pedido.
+Resolvé tg x = 1 en el intervalo [0°; 360°).|x = 135° y x = 315°|x = 45° y x = 225°|x = 45° y x = 315°|x = 45° y x = 135°|1|Se buscan los ángulos de referencia y se usan los cuadrantes donde la función tiene el signo pedido.
+Resolvé cos x = −√2/2 en el intervalo [0°; 360°).|x = 225° y x = 315°|x = 45° y x = 135°|x = 135° y x = 225°|x = 45° y x = 315°|2|Se buscan los ángulos de referencia y se usan los cuadrantes donde la función tiene el signo pedido.
+¿Cuál es el conjunto imagen de f(x) = 2 sen x − 1?|[−3; 1]|[−2; 2]|[−1; 1]|[−2; 0]|0|sen x varía entre −1 y 1, así que f varía entre 2·(−1) − 1 = −3 y 2·1 − 1 = 1.
+Resolvé cos x = 1/2 en el intervalo [0°; 360°).|x = 60° y x = 300°|x = 30° y x = 330°|x = 60° y x = 240°|x = 60° y x = 120°|0|Se buscan los ángulos de referencia y se usan los cuadrantes donde la función tiene el signo pedido.
+¿Cuál es la longitud de un arco de 45° en una circunferencia de radio 12 cm? (en función de π)|3π cm|3/2π cm|6π cm|540π cm|0|L = R · θ (en radianes) = 12 · π/4 = 3π cm.
+Si sen x = 3/5 y x está en el segundo cuadrante, ¿cuánto vale cos x?|−3/5|3/4|4/5|−4/5|3|cos²x = 1 − sen²x = 16/25; en el segundo cuadrante el coseno es negativo: cos x = −4/5.
+Resolvé sen x = 1/2 en el intervalo [0°; 360°).|x = 30° y x = 330°|x = 60° y x = 120°|x = 30° y x = 150°|x = 30° y x = 210°|2|Se buscan los ángulos de referencia y se usan los cuadrantes donde la función tiene el signo pedido.
+Un triángulo tiene dos lados de 6 cm y 8 cm que forman un ángulo de 30°. ¿Cuál es su área?|24 cm²|36 cm²|6 cm²|12 cm²|3|Área = (1/2)·a·b·sen γ = (1/2)·6·8·(1/2) = 12 cm².
+¿Cuál es la longitud de un arco de 60° en una circunferencia de radio 8 cm? (en función de π)|8/3π cm|4/3π cm|480π cm|16/3π cm|0|L = R · θ (en radianes) = 8 · π/3 = 8/3π cm.
+¿Cuál es la longitud de un arco de 60° en una circunferencia de radio 12 cm? (en función de π)|720π cm|2π cm|8π cm|4π cm|3|L = R · θ (en radianes) = 12 · π/3 = 4π cm.
+Resolvé sen x = −1/2 en el intervalo [0°; 360°).|x = 210° y x = 330°|x = 150° y x = 210°|x = 30° y x = 150°|x = 120° y x = 240°|0|Se buscan los ángulos de referencia y se usan los cuadrantes donde la función tiene el signo pedido.
+Un triángulo tiene dos lados de 10 cm y 12 cm que forman un ángulo de 30°. ¿Cuál es su área?|30 cm²|60 cm²|15 cm²|90 cm²|0|Área = (1/2)·a·b·sen γ = (1/2)·10·12·(1/2) = 30 cm².

@@ -14948,6 +14948,466 @@
       "country": "AR"
     },
     {
+      "grade": 11,
+      "subject": "Biology",
+      "chapters": [
+        {
+          "id": "ar-b11-01",
+          "title": "Evolución biológica",
+          "lessons": [
+            {
+              "id": "ar-b11-01-01",
+              "title": "Teorías evolutivas y selección natural"
+            },
+            {
+              "id": "ar-b11-01-02",
+              "title": "Genética de poblaciones y especiación"
+            },
+            {
+              "id": "ar-b11-01-03",
+              "title": "Evidencias y evolución humana"
+            }
+          ]
+        },
+        {
+          "id": "ar-b11-02",
+          "title": "Sistema nervioso y órganos de los sentidos",
+          "lessons": [
+            {
+              "id": "ar-b11-02-01",
+              "title": "La neurona y el impulso nervioso"
+            },
+            {
+              "id": "ar-b11-02-02",
+              "title": "Sistema nervioso central y periférico"
+            },
+            {
+              "id": "ar-b11-02-03",
+              "title": "Órganos de los sentidos y salud"
+            }
+          ]
+        },
+        {
+          "id": "ar-b11-03",
+          "title": "Sistema endocrino y homeostasis",
+          "lessons": [
+            {
+              "id": "ar-b11-03-01",
+              "title": "Hormonas y glándulas"
+            },
+            {
+              "id": "ar-b11-03-02",
+              "title": "Homeostasis y retroalimentación"
+            },
+            {
+              "id": "ar-b11-03-03",
+              "title": "Salud endocrina"
+            }
+          ]
+        },
+        {
+          "id": "ar-b11-04",
+          "title": "Reproducción, desarrollo y salud sexual",
+          "lessons": [
+            {
+              "id": "ar-b11-04-01",
+              "title": "Gametogénesis y ciclo reproductivo"
+            },
+            {
+              "id": "ar-b11-04-02",
+              "title": "Fecundación, embarazo y desarrollo"
+            },
+            {
+              "id": "ar-b11-04-03",
+              "title": "Salud sexual y derechos"
+            }
+          ]
+        },
+        {
+          "id": "ar-b11-05",
+          "title": "Microbiología y salud pública",
+          "lessons": [
+            {
+              "id": "ar-b11-05-01",
+              "title": "Bacterias, virus y otros microorganismos"
+            },
+            {
+              "id": "ar-b11-05-02",
+              "title": "Epidemiología y prevención"
+            },
+            {
+              "id": "ar-b11-05-03",
+              "title": "Antibióticos, vacunas y resistencia"
+            }
+          ]
+        },
+        {
+          "id": "ar-b11-06",
+          "title": "Biodiversidad, ecorregiones y conservación en la Argentina",
+          "lessons": [
+            {
+              "id": "ar-b11-06-01",
+              "title": "Biodiversidad y ecorregiones argentinas"
+            },
+            {
+              "id": "ar-b11-06-02",
+              "title": "Amenazas a la biodiversidad"
+            },
+            {
+              "id": "ar-b11-06-03",
+              "title": "Conservación y marco legal"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 11,
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "ar-c11-01",
+          "title": "Estructura atómica, tabla periódica y geometría molecular",
+          "lessons": [
+            {
+              "id": "ar-c11-01-01",
+              "title": "Modelos atómicos y configuración electrónica"
+            },
+            {
+              "id": "ar-c11-01-02",
+              "title": "Tabla periódica y propiedades periódicas"
+            },
+            {
+              "id": "ar-c11-01-03",
+              "title": "Geometría molecular y fuerzas intermoleculares"
+            }
+          ]
+        },
+        {
+          "id": "ar-c11-02",
+          "title": "Soluciones y propiedades coligativas",
+          "lessons": [
+            {
+              "id": "ar-c11-02-01",
+              "title": "Concentración de soluciones"
+            },
+            {
+              "id": "ar-c11-02-02",
+              "title": "Solubilidad y factores que la afectan"
+            },
+            {
+              "id": "ar-c11-02-03",
+              "title": "Propiedades coligativas"
+            }
+          ]
+        },
+        {
+          "id": "ar-c11-03",
+          "title": "Equilibrio químico",
+          "lessons": [
+            {
+              "id": "ar-c11-03-01",
+              "title": "Equilibrio químico y constante Kc"
+            },
+            {
+              "id": "ar-c11-03-02",
+              "title": "Principio de Le Châtelier"
+            },
+            {
+              "id": "ar-c11-03-03",
+              "title": "Equilibrios en la industria y el ambiente"
+            }
+          ]
+        },
+        {
+          "id": "ar-c11-04",
+          "title": "Electroquímica: reacciones redox, pilas y electrólisis",
+          "lessons": [
+            {
+              "id": "ar-c11-04-01",
+              "title": "Reacciones de óxido-reducción"
+            },
+            {
+              "id": "ar-c11-04-02",
+              "title": "Pilas y potenciales de reducción"
+            },
+            {
+              "id": "ar-c11-04-03",
+              "title": "Electrólisis y corrosión"
+            }
+          ]
+        },
+        {
+          "id": "ar-c11-05",
+          "title": "Química orgánica: funciones y reacciones",
+          "lessons": [
+            {
+              "id": "ar-c11-05-01",
+              "title": "Hidrocarburos: nomenclatura e isomería"
+            },
+            {
+              "id": "ar-c11-05-02",
+              "title": "Grupos funcionales y reacciones"
+            },
+            {
+              "id": "ar-c11-05-03",
+              "title": "Polímeros y biomoléculas orgánicas"
+            }
+          ]
+        },
+        {
+          "id": "ar-c11-06",
+          "title": "Química ambiental y sustentabilidad",
+          "lessons": [
+            {
+              "id": "ar-c11-06-01",
+              "title": "Contaminación del aire y del agua"
+            },
+            {
+              "id": "ar-c11-06-02",
+              "title": "Cambio climático y energía"
+            },
+            {
+              "id": "ar-c11-06-03",
+              "title": "Química verde y economía circular"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 11,
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "ar-m11-01",
+          "title": "Funciones: dominio, composición e inversa",
+          "lessons": [
+            {
+              "id": "ar-m11-01-01",
+              "title": "Concepto de función, dominio e imagen"
+            },
+            {
+              "id": "ar-m11-01-02",
+              "title": "Funciones polinómicas y racionales"
+            },
+            {
+              "id": "ar-m11-01-03",
+              "title": "Composición de funciones y función inversa"
+            }
+          ]
+        },
+        {
+          "id": "ar-m11-02",
+          "title": "Funciones exponencial y logarítmica",
+          "lessons": [
+            {
+              "id": "ar-m11-02-01",
+              "title": "Función exponencial"
+            },
+            {
+              "id": "ar-m11-02-02",
+              "title": "Logaritmos y sus propiedades"
+            },
+            {
+              "id": "ar-m11-02-03",
+              "title": "Ecuaciones exponenciales y logarítmicas"
+            }
+          ]
+        },
+        {
+          "id": "ar-m11-03",
+          "title": "Trigonometría: circunferencia, funciones y triángulos",
+          "lessons": [
+            {
+              "id": "ar-m11-03-01",
+              "title": "Circunferencia trigonométrica y radianes"
+            },
+            {
+              "id": "ar-m11-03-02",
+              "title": "Funciones seno y coseno"
+            },
+            {
+              "id": "ar-m11-03-03",
+              "title": "Identidades, ecuaciones y teoremas del seno y del coseno"
+            }
+          ]
+        },
+        {
+          "id": "ar-m11-04",
+          "title": "Geometría analítica: recta, circunferencia y cónicas",
+          "lessons": [
+            {
+              "id": "ar-m11-04-01",
+              "title": "Distancia, punto medio y recta"
+            },
+            {
+              "id": "ar-m11-04-02",
+              "title": "La circunferencia"
+            },
+            {
+              "id": "ar-m11-04-03",
+              "title": "Parábola y elipse"
+            }
+          ]
+        },
+        {
+          "id": "ar-m11-05",
+          "title": "Combinatoria y probabilidad",
+          "lessons": [
+            {
+              "id": "ar-m11-05-01",
+              "title": "Principios de conteo y factorial"
+            },
+            {
+              "id": "ar-m11-05-02",
+              "title": "Variaciones, combinaciones y números combinatorios"
+            },
+            {
+              "id": "ar-m11-05-03",
+              "title": "Probabilidad"
+            }
+          ]
+        },
+        {
+          "id": "ar-m11-06",
+          "title": "Sucesiones y series",
+          "lessons": [
+            {
+              "id": "ar-m11-06-01",
+              "title": "Sucesiones aritméticas"
+            },
+            {
+              "id": "ar-m11-06-02",
+              "title": "Sucesiones geométricas"
+            },
+            {
+              "id": "ar-m11-06-03",
+              "title": "Series y aplicaciones"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 11,
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "ar-p11-01",
+          "title": "Electrostática: carga, campo y potencial",
+          "lessons": [
+            {
+              "id": "ar-p11-01-01",
+              "title": "Carga eléctrica y ley de Coulomb"
+            },
+            {
+              "id": "ar-p11-01-02",
+              "title": "Campo eléctrico"
+            },
+            {
+              "id": "ar-p11-01-03",
+              "title": "Potencial eléctrico y diferencia de potencial"
+            }
+          ]
+        },
+        {
+          "id": "ar-p11-02",
+          "title": "Corriente eléctrica y circuitos",
+          "lessons": [
+            {
+              "id": "ar-p11-02-01",
+              "title": "Corriente, tensión y resistencia: ley de Ohm"
+            },
+            {
+              "id": "ar-p11-02-02",
+              "title": "Circuitos en serie y en paralelo"
+            },
+            {
+              "id": "ar-p11-02-03",
+              "title": "Potencia y energía eléctrica"
+            }
+          ]
+        },
+        {
+          "id": "ar-p11-03",
+          "title": "Magnetismo e inducción electromagnética",
+          "lessons": [
+            {
+              "id": "ar-p11-03-01",
+              "title": "Imanes y campo magnético"
+            },
+            {
+              "id": "ar-p11-03-02",
+              "title": "Fuerza magnética"
+            },
+            {
+              "id": "ar-p11-03-03",
+              "title": "Inducción electromagnética y transformadores"
+            }
+          ]
+        },
+        {
+          "id": "ar-p11-04",
+          "title": "Ondas y sonido",
+          "lessons": [
+            {
+              "id": "ar-p11-04-01",
+              "title": "Características de las ondas"
+            },
+            {
+              "id": "ar-p11-04-02",
+              "title": "El sonido"
+            },
+            {
+              "id": "ar-p11-04-03",
+              "title": "Fenómenos ondulatorios"
+            }
+          ]
+        },
+        {
+          "id": "ar-p11-05",
+          "title": "Óptica: reflexión, refracción y lentes",
+          "lessons": [
+            {
+              "id": "ar-p11-05-01",
+              "title": "Naturaleza de la luz y reflexión"
+            },
+            {
+              "id": "ar-p11-05-02",
+              "title": "Refracción de la luz"
+            },
+            {
+              "id": "ar-p11-05-03",
+              "title": "Lentes e instrumentos ópticos"
+            }
+          ]
+        },
+        {
+          "id": "ar-p11-06",
+          "title": "Termodinámica: calor, trabajo y máquinas térmicas",
+          "lessons": [
+            {
+              "id": "ar-p11-06-01",
+              "title": "Temperatura, calor y dilatación"
+            },
+            {
+              "id": "ar-p11-06-02",
+              "title": "Primer y segundo principio de la termodinámica"
+            },
+            {
+              "id": "ar-p11-06-03",
+              "title": "Máquinas térmicas y refrigeradores"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
       "grade": 10,
       "subject": "Mathematics",
       "country": "TR",

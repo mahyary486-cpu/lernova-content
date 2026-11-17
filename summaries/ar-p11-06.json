@@ -1,0 +1,5 @@
+{
+ "Temperatura, calor y dilatación": "La temperatura mide la energía cinética media de las partículas. El calor es la energía transferida por diferencia de temperatura y puede propagarse por conducción, convección y radiación. Los cuerpos se dilatan al calentarse: ΔL = L₀·α·ΔT. K = °C + 273.",
+ "Primer y segundo principio de la termodinámica": "El primer principio establece la conservación de la energía: ΔU = Q − W. El segundo principio dice que el calor no pasa espontáneamente del cuerpo frío al caliente y que la entropía de un sistema aislado no disminuye. Ninguna máquina convierte todo el calor en trabajo.",
+ "Máquinas térmicas y refrigeradores": "Una máquina térmica toma calor de una fuente caliente, realiza trabajo y cede calor a la fuente fría. Su rendimiento es η = W/Q_c y el máximo teórico (Carnot) es 1 − T_f/T_c. Los refrigeradores invierten el proceso. Los motores contaminan, por lo que se promueve la eficiencia energética."
+}

@@ -1,0 +1,29 @@
+#EEEEEEEEEEMMMMMMMMHHHHHHHHHH
+¿Qué es una hormona?|Un neurotransmisor|Un mensajero químico producido por glándulas|Una enzima digestiva|Un anticuerpo|1|Viaja por la sangre.
+¿Qué glándula produce la insulina?|El hígado|La hipófisis|El páncreas|La tiroides|2|Disminuye la glucemia.
+¿Qué glándula produce la tiroxina?|El páncreas|Las gónadas|La hipófisis|La tiroides|3|Regula el metabolismo.
+¿Qué hormona aumenta la frecuencia cardíaca en situaciones de estrés?|Tiroxina|Adrenalina|Insulina|Oxitocina|1|Se produce en las glándulas suprarrenales.
+¿Qué hormona regula el ritmo del sueño?|Melatonina|Adrenalina|Testosterona|Insulina|0|La produce la glándula pineal.
+¿Qué hormona estimula la producción de leche?|Adrenalina|Insulina|Prolactina|Tiroxina|2|Se produce en la hipófisis.
+¿Qué órgano regula el equilibrio de agua y sales y elimina desechos?|El pulmón|El corazón|El hígado|El riñón|3|Produce orina.
+¿Qué glándula se llama «maestra»?|La hipófisis|El páncreas|Las suprarrenales|La tiroides|0|Regula otras glándulas.
+¿Qué es la homeostasis?|La división celular|La respiración|El mantenimiento del equilibrio interno del organismo|El crecimiento|2|Por ejemplo, la temperatura corporal.
+¿Qué enfermedad se produce por falta de insulina o resistencia a ella?|Anemia|Bocio|Diabetes|Asma|2|Se eleva la glucemia.
+Si la glucemia aumenta, el páncreas libera:|Insulina|Tiroxina|Glucagón|Adrenalina|0|Permite el ingreso de glucosa a las células.
+¿Qué diferencia hay entre glándulas endocrinas y exocrinas?|No hay diferencia|Las exocrinas liberan a la sangre|Las endocrinas tienen conductos|Las endocrinas vierten hormonas a la sangre|3|Las exocrinas usan conductos.
+¿Qué hormona aumenta la glucemia?|Glucagón|Melatonina|Insulina|Oxitocina|0|La produce el páncreas.
+¿Cómo actúa un sistema de retroalimentación negativa?|Detiene el sistema|Revierte el cambio para volver al valor normal|No tiene efecto|Aumenta el cambio|1|Por ejemplo, la regulación de la glucemia.
+¿Qué hormona regula el crecimiento?|Hormona del crecimiento (GH)|Melatonina|Adrenalina|Insulina|0|La produce la hipófisis.
+¿Qué ocurre con la temperatura corporal si hace mucho calor?|Se produce sudor para enfriar el cuerpo|Se detiene el sudor|Se estrechan los poros|Se producen escalofríos|0|La evaporación del sudor disipa calor.
+¿Qué órgano produce la bilis?|El estómago|El hígado|El riñón|El páncreas|1|Emulsiona grasas.
+¿Qué ocurre con la temperatura corporal si hace mucho frío?|Se dilatan los vasos|Se reduce el metabolismo|Se suda|Aparecen escalofríos y se contraen los vasos|3|Se genera calor y se conserva.
+¿Cuál es un factor de riesgo de la diabetes tipo 2?|Actividad física|Obesidad y sedentarismo|Dieta equilibrada|Dormir bien|1|Se relaciona con hábitos de vida.
+¿Qué es el bocio?|Un tumor cerebral|El agrandamiento de la tiroides por falta de yodo|Una infección|Un exceso de calcio|1|Se previene con sal yodada.
+¿Por qué en la Argentina la sal es yodada?|Para prevenir el bocio|Para dar sabor|Para conservar la comida|Para aumentar la presión|0|Es una política de salud pública.
+¿Qué efecto tiene el estrés crónico?|Eleva el cortisol y puede afectar la salud|Baja la presión|No tiene efecto|Mejora el sueño|0|Afecta al sistema inmune.
+¿Por qué la diabetes tipo 1 requiere insulina?|Es una infección|El páncreas no la produce por destrucción de células beta|El hígado la rechaza|Hay exceso de insulina|1|Es de origen autoinmune.
+¿Qué hormonas regulan el ciclo menstrual?|Insulina y glucagón|Tiroxina|Adrenalina y cortisol|Estrógenos y progesterona|3|Se regulan con la hipófisis.
+¿Cuál es la función de la hormona antidiurética?|Aumentar la orina|Producir leche|Bajar la glucemia|Reducir la pérdida de agua en la orina|3|Regula el agua del cuerpo.
+¿Qué órgano filtra la sangre en las nefronas?|El riñón|El páncreas|El corazón|El hígado|0|Forma orina.
+¿Qué hormona estimula las contracciones del parto?|Adrenalina|Insulina|Prolactina|Oxitocina|3|También interviene en el vínculo afectivo.
+¿Cuál es un valor normal de glucemia en ayunas?|Entre 200 y 300 mg/dL|Entre 70 y 100 mg/dL|Menos de 20 mg/dL|Más de 500 mg/dL|1|Mayor de 126 mg/dL sugiere diabetes.

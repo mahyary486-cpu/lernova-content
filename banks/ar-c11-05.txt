@@ -1,0 +1,29 @@
+#EEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué grupo funcional tiene el ácido acético?|Amino|Hidroxilo|Éter|Carboxilo|3|Está en el vinagre.
+¿Qué grupo funcional tienen las aminas?|–NH₂|–CHO|–COOH|–OH|0|Derivan del amoníaco.
+¿Qué grupo funcional tiene el etanol?|Amino (–NH₂)|Hidroxilo (–OH)|Carbonilo (–CO–)|Carboxilo (–COOH)|1|Es un alcohol.
+¿Qué grupo funcional tiene la acetona?|Alcohol|Éster|Aldehído|Cetona|3|Tiene un carbonilo entre dos carbonos.
+¿Qué productos se obtienen en la saponificación?|Ácido y alcohol|Jabón y glicerina|Éter y sal|Alcano y agua|1|Es la hidrólisis básica de un triglicérido.
+¿Cómo se obtiene el polietileno?|Por oxidación|Por polimerización del eteno|Por fermentación|Por destilación|1|Es un polímero de adición.
+¿Qué proceso transforma los aceites en margarina?|Fermentación|Oxidación|Hidrogenación|Destilación|2|Se adiciona hidrógeno a los dobles enlaces.
+¿Qué es el benceno?|Un alcano|Un ácido|Un alcohol|Un hidrocarburo aromático C₆H₆|3|Tiene un anillo con electrones deslocalizados.
+¿Cuál es la masa molar del butano? (C = 12, H = 1)|60 g/mol|58 g/mol|56 g/mol|52 g/mol|1|C₄H₁₀: 4·12 + 10·1 = 58 g/mol.
+¿Qué producto se obtiene al oxidar un alcohol primario?|Aldehído y luego ácido carboxílico|Cetona|Alcano|Éter|0|CH₃CH₂OH → CH₃CHO → CH₃COOH.
+¿Cuál es la masa molar del nonano? (C = 12, H = 1)|128 g/mol|117 g/mol|126 g/mol|130 g/mol|0|C₉H₂₀: 9·12 + 20·1 = 128 g/mol.
+¿Cuál es la fórmula del metanol?|CH₃CHO|CH₄|CH₃COOH|CH₃OH|3|Es el alcohol más simple.
+¿Cuál es la masa molar del pentano? (C = 12, H = 1)|74 g/mol|70 g/mol|65 g/mol|72 g/mol|3|C₅H₁₂: 5·12 + 12·1 = 72 g/mol.
+¿Qué se forma al reaccionar un ácido carboxílico con un alcohol?|Un éster y agua|Un éter|Un alcano|Una amida|0|Es la esterificación.
+¿Cuál es la masa molar del octano? (C = 12, H = 1)|116 g/mol|112 g/mol|114 g/mol|104 g/mol|2|C₈H₁₈: 8·12 + 18·1 = 114 g/mol.
+¿Cuál es la fórmula del etanol?|CH₃CH₂OH|CH₃COOH|CH₃OH|CH₃CHO|0|Se usa como combustible y en bebidas.
+¿Qué es un éster?|Un hidrocarburo|Una amina|Un compuesto con grupo –COO–|Un alcohol|2|Aportan aromas frutales.
+¿Qué reacción de los alquenos consiste en agregar átomos a un doble enlace?|Combustión|Adición|Sustitución|Eliminación|1|Por ejemplo, la hidrogenación.
+¿Cuántos moles de O₂ se necesitan para la combustión completa de 1 mol de hexano?|9,5 mol|19 mol|14 mol|6 mol|0|C₆H₁₄ + 9,5 O₂ → 6 CO₂ + 7 H₂O.
+¿Cuál es el nombre IUPAC de CH₃–CH(CH₃)–CH₃?|Pentano|Butano|Propano|2-metilpropano|3|La cadena principal es de tres carbonos con un metilo.
+¿Qué biomolécula contiene enlaces peptídicos?|Proteínas|Glúcidos|Lípidos|Ácidos nucleicos|0|Son amidas entre aminoácidos.
+¿Cuántos moles de O₂ se necesitan para la combustión completa de 1 mol de etano?|7 mol|2 mol|3,5 mol|6 mol|2|C₂H₆ + 3,5 O₂ → 2 CO₂ + 3 H₂O.
+¿Cuál es el nombre de HC≡CH?|Etino|Eteno|Etanol|Etano|0|También se llama acetileno.
+¿Qué es la isomería de cadena?|Compuestos con igual fórmula y distinta ramificación|Compuestos con distinta fórmula|Átomos iguales|Mezclas|0|Por ejemplo, butano e isobutano.
+¿Cuántos moles de O₂ se necesitan para la combustión completa de 1 mol de propano?|8 mol|3 mol|10 mol|5 mol|3|C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O.
+¿Qué reacción es característica de los alcanos con halógenos?|Adición|Sustitución|Fermentación|Polimerización|1|Reemplaza H por halógeno.
+¿Cuántos moles de O₂ se necesitan para la combustión completa de 1 mol de butano?|4 mol|10 mol|6,5 mol|13 mol|2|C₄H₁₀ + 6,5 O₂ → 4 CO₂ + 5 H₂O.
+¿Cuál es el nombre de CH₃–CH=CH₂?|Propanol|Propano|Propeno|Propino|2|Tiene un doble enlace.

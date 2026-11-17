@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 11,
+   "country": "AR",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "ar-m11-01",
+     "title": "Funciones: dominio, composición e inversa",
+     "lessons": [
+      {
+       "id": "ar-m11-01-01",
+       "title": "Concepto de función, dominio e imagen"
+      },
+      {
+       "id": "ar-m11-01-02",
+       "title": "Funciones polinómicas y racionales"
+      },
+      {
+       "id": "ar-m11-01-03",
+       "title": "Composición de funciones y función inversa"
+      }
+     ]
+    },
+    {
+     "id": "ar-m11-02",
+     "title": "Funciones exponencial y logarítmica",
+     "lessons": [
+      {
+       "id": "ar-m11-02-01",
+       "title": "Función exponencial"
+      },
+      {
+       "id": "ar-m11-02-02",
+       "title": "Logaritmos y sus propiedades"
+      },
+      {
+       "id": "ar-m11-02-03",
+       "title": "Ecuaciones exponenciales y logarítmicas"
+      }
+     ]
+    },
+    {
+     "id": "ar-m11-03",
+     "title": "Trigonometría: circunferencia, funciones y triángulos",
+     "lessons": [
+      {
+       "id": "ar-m11-03-01",
+       "title": "Circunferencia trigonométrica y radianes"
+      },
+      {
+       "id": "ar-m11-03-02",
+       "title": "Funciones seno y coseno"
+      },
+      {
+       "id": "ar-m11-03-03",
+       "title": "Identidades, ecuaciones y teoremas del seno y del coseno"
+      }
+     ]
+    },
+    {
+     "id": "ar-m11-04",
+     "title": "Geometría analítica: recta, circunferencia y cónicas",
+     "lessons": [
+      {
+       "id": "ar-m11-04-01",
+       "title": "Distancia, punto medio y recta"
+      },
+      {
+       "id": "ar-m11-04-02",
+       "title": "La circunferencia"
+      },
+      {
+       "id": "ar-m11-04-03",
+       "title": "Parábola y elipse"
+      }
+     ]
+    },
+    {
+     "id": "ar-m11-05",
+     "title": "Combinatoria y probabilidad",
+     "lessons": [
+      {
+       "id": "ar-m11-05-01",
+       "title": "Principios de conteo y factorial"
+      },
+      {
+       "id": "ar-m11-05-02",
+       "title": "Variaciones, combinaciones y números combinatorios"
+      },
+      {
+       "id": "ar-m11-05-03",
+       "title": "Probabilidad"
+      }
+     ]
+    },
+    {
+     "id": "ar-m11-06",
+     "title": "Sucesiones y series",
+     "lessons": [
+      {
+       "id": "ar-m11-06-01",
+       "title": "Sucesiones aritméticas"
+      },
+      {
+       "id": "ar-m11-06-02",
+       "title": "Sucesiones geométricas"
+      },
+      {
+       "id": "ar-m11-06-03",
+       "title": "Series y aplicaciones"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

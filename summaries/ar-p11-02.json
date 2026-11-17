@@ -1,0 +1,5 @@
+{
+ "Corriente, tensión y resistencia: ley de Ohm": "La corriente eléctrica es el flujo de carga: I = Q/t (ampere). La resistencia (ohm) mide la oposición al paso de la corriente. La ley de Ohm establece V = I·R. La resistencia de un conductor depende de su material, longitud y sección.",
+ "Circuitos en serie y en paralelo": "En serie la corriente es la misma y las resistencias se suman: Re = R₁ + R₂. En paralelo la tensión es la misma y 1/Re = 1/R₁ + 1/R₂. Los artefactos de las casas se conectan en paralelo. Los fusibles y disyuntores protegen contra sobrecargas.",
+ "Potencia y energía eléctrica": "La potencia eléctrica es P = V·I y se mide en watt. La energía consumida es E = P·t; en las facturas se mide en kWh (1 kWh = 3,6 × 10⁶ J). El efecto Joule transforma energía eléctrica en calor. El consumo responsable reduce el gasto y el impacto ambiental."
+}
