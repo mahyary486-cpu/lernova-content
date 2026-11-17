@@ -1,5 +1,13 @@
 {
  "countries": {
+  "AR": {
+   "bytes": 197642,
+   "currentYear": "2026",
+   "files": 120,
+   "name": "Argentina",
+   "rev": "cab4730777",
+   "year": "2026"
+  },
   "BR": {
    "bytes": 487899,
    "currentYear": "2026",
