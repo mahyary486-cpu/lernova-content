@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The root develops from the|radicle|plumule|cotyledon|shoot|0|Of the embryo.
+A tap root system is found in|monocots|dicots|ferns|algae|1|For example mustard.
+A fibrous root system is found in|dicots|gymnosperms|monocots|algae|2|For example wheat.
+Adventitious roots arise from|the radicle|the seed|the flower|parts of the plant other than the radicle|3|For example the grass.
+The root cap protects|the root tip|the shoot tip|the leaf|the flower|0|A thimble-like structure.
+Root hairs absorb|food|water and minerals from the soil|gases only|light|1|They are unicellular elongations.
+The stem develops from the|radicle|cotyledon|plumule|root|2|Of the embryo.
+A node is the region of the stem|between two leaves|of the root|of the flower|where leaves arise|3|Internodes lie between nodes.
+An internode is the region between|two successive nodes|the root and the stem|the leaf and the flower|none of these|0|Part of the stem.
+The main function of the leaf is|absorption|photosynthesis|support|reproduction|1|It also helps in gas exchange.
+A typical leaf has a leaf base, a petiole and|a node|a stem|a lamina|a root|2|The green expanded part.
+Dicot leaves usually show|parallel venation|no venation|dotted venation|reticulate venation|3|A network of veins.
+Monocot leaves usually show|parallel venation|reticulate venation|no venation|dotted venation|0|Veins run parallel.
+An inflorescence is|a single flower|the arrangement of flowers on the floral axis|a fruit|a seed|1|For example racemose and cymose.
+A flower is the reproductive unit of|gymnosperms|ferns|angiosperms|mosses|2|Modified shoot.
+The four whorls of a flower are calyx, corolla, androecium and|petals|sepals|stamens|gynoecium|3|Arranged from outside to inside.
+The androecium is composed of|stamens|carpels|petals|sepals|0|The male reproductive organs.
+The calyx is made of|petals|sepals|stamens|carpels|1|Usually green.
+The corolla is made of|sepals|stamens|petals|carpels|2|Usually coloured.
+The gynoecium is made of|stamens|petals|sepals|carpels|3|The female reproductive part.
+A carpel consists of|a stigma, style and ovary|an anther and filament|sepals|petals|0|A pistil.
+A stamen consists of|a stigma and style|an anther and a filament|an ovary|an ovule|1|The male part.
+The ovary contains|pollen|stamens|ovules|petals|2|Which become seeds.
+Pollen grains are produced in the|ovary|stigma|style|anthers|3|By microsporogenesis.
+Prop roots are seen in|banyan|mango|wheat|rice|0|Supporting roots from branches.
+Stilt roots are seen in|banyan|maize and sugarcane|carrot|radish|1|From lower nodes.
+Pneumatophores are found in|banyan|maize|mangrove plants such as Rhizophora|carrot|2|Respiratory roots.
+Roots modified for storage are found in|banyan|maize|mango|carrot and turnip|3|Tap roots.
+A stem modified for food storage is|potato (tuber)|carrot|turnip|radish|0|Underground stem.
+Tendrils are modified|roots|stems or leaves for climbing|flowers|seeds|1|For example grapevine.
+Thorns are modified|roots|flowers|stems|fruits|2|For example Citrus and Bougainvillea.
+Phyllotaxy is the|arrangement of flowers|arrangement of roots|arrangement of seeds|arrangement of leaves on the stem|3|Alternate, opposite or whorled.
+In alternate phyllotaxy|a single leaf arises at each node|two leaves arise at a node|more than two leaves arise|no leaves arise|0|For example China rose.
+In opposite phyllotaxy|a single leaf arises|a pair of leaves arises at each node|more than two leaves arise|no leaf arises|1|For example guava.
+In whorled phyllotaxy|a single leaf arises|a pair of leaves arises|more than two leaves arise at a node|no leaf arises|2|For example Alstonia.
+A simple leaf has|a lamina divided into leaflets|no lamina|only a petiole|an undivided lamina|3|For example mango.
+In a compound leaf the lamina is|divided into leaflets|undivided|absent|fused|0|The bud is in the axil of the petiole.
+A pinnately compound leaf is seen in|silk cotton|neem|rose|mango|1|Leaflets on a common axis.
+A palmately compound leaf is seen in|neem|rose|silk cotton|mango|2|Leaflets from a common point.
+Aestivation is|the arrangement of flowers|the arrangement of stamens|the arrangement of ovules|the arrangement of sepals or petals in a floral bud|3|Valvate, twisted, imbricate, vexillary.
+In valvate aestivation the sepals or petals|just touch each other at the margins|overlap one another|are twisted|are fused|0|For example Calotropis.
+Placentation is|the arrangement of stamens|the arrangement of ovules within the ovary|the arrangement of petals|the arrangement of leaves|1|Marginal, axile, parietal, free central, basal.
+Marginal placentation is seen in|mustard|tomato|pea|sunflower|2|Ovules along the ventral suture.
+Axile placentation is seen in|pea|mustard|Argemone|China rose, tomato and lemon|3|Ovules on the central axis.
+A fruit develops from|the ovary|the ovule|the stamen|the petal|0|After fertilisation.
+A seed develops from|the ovary|the ovule|the stamen|the stigma|1|After fertilisation.
+An example of a dicot seed is|maize|wheat|gram|rice|2|Two cotyledons.
+In a maize grain the single cotyledon is called the|coleoptile|coleorhiza|plumule|scutellum|3|Next to the endosperm.
+The coleoptile covers the|plumule|radicle|cotyledon|endosperm|0|In monocot seeds.
+A member of the family Fabaceae is|wheat|pea|tomato|onion|1|A legume.

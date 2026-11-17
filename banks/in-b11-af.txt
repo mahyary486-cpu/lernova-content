@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Meristematic tissue is made of cells that|divide actively|are dead|are permanent|do not divide|0|Found at growing regions.
+Apical meristem is responsible for|an increase in girth|an increase in the length of the plant|leaf fall|flowering|1|At root and shoot tips.
+Lateral meristem is responsible for|an increase in length|leaf fall|an increase in the girth of the plant|flowering|2|Vascular and cork cambium.
+Cells of permanent tissue have|the ability to divide actively|no walls|no function|lost the ability to divide|3|They are mature.
+Parenchyma cells are|thin-walled and living|thick-walled and dead|lignified only|vessels|0|For food storage and photosynthesis.
+Collenchyma|stores food|provides mechanical support to growing parts|conducts water|is dead tissue|1|Thickened at the corners.
+Sclerenchyma cells are|living|thin-walled|dead with thick lignified walls|meristematic|2|For mechanical support.
+Xylem conducts|food|hormones only|gases|water and minerals|3|From roots to leaves.
+Phloem conducts|food (sugars) from the leaves|water only|minerals only|gases|0|To storage and growing regions.
+The epidermal tissue system forms|the vascular tissues|the outermost covering of the plant|the ground tissue|the pith|1|Usually a single layer.
+Stomata are present in the|xylem|phloem|epidermis|cortex|2|Regulate transpiration and gas exchange.
+Guard cells of dicots are|dumb-bell shaped|round|square|bean-shaped|3|Dumb-bell shaped in grasses.
+The vascular tissue system consists of|xylem and phloem|epidermis|ground tissue|stomata|0|Conducting tissues.
+The ground tissue system includes|xylem only|all tissues except the epidermis and the vascular bundles|phloem only|stomata only|1|Cortex, pericycle, pith.
+Cambium is the|permanent tissue|dead tissue|meristem between xylem and phloem|protective tissue|2|Forms secondary tissues.
+Heartwood is|living tissue|phloem|cambium|dead, non-conducting xylem, dark in colour|3|Provides mechanical support.
+Sapwood is|the peripheral functional xylem|dead wood|bark|phloem|0|Conducts water.
+The vascular bundles in a dicot stem are|closed and scattered|open and arranged in a ring|radial|absent|1|With cambium.
+The vascular bundles in a monocot stem are|open and in a ring|radial|closed and scattered|absent|2|Without cambium.
+A dicot root has xylem bundles that number|many (polyarch)|none|scattered|two to four|3|Diarch to tetrarch.
+A monocot root has xylem bundles that are|polyarch (more than six)|diarch|tetrarch|absent|0|With a large pith.
+The endodermis has|a cuticle|Casparian strips|cork|stomata|1|Deposits of suberin.
+The pericycle gives rise to|stomata|flowers|lateral roots|cork only|2|And the vascular cambium in roots.
+A dicot leaf is|isobilateral|radial|unifacial|dorsiventral|3|Different upper and lower surfaces.
+A monocot leaf is|isobilateral|dorsiventral|radial|none|0|Similar surfaces.
+Palisade parenchyma is found in the|root|dicot leaf|dicot stem pith|monocot stem|1|Just below the upper epidermis.
+Bulliform cells are found in the|dicot leaves|roots|leaves of grasses (monocots)|stems|2|They help in rolling the leaf.
+The elements of xylem are|sieve tubes|companion cells|guard cells|tracheids, vessels, fibres and parenchyma|3|Mostly dead.
+The elements of phloem are|sieve tubes, companion cells, phloem parenchyma and fibres|tracheids|vessels|guard cells|0|Mostly living.
+Companion cells are associated with|vessels|sieve tube elements|tracheids|guard cells|1|By plasmodesmata.
+Protoxylem is|the last formed xylem|secondary xylem|the first formed primary xylem|phloem|2|With narrow vessels.
+Endarch xylem, with protoxylem towards the centre, is found in|roots|leaves only|none|stems|3|Protoxylem towards the pith.
+Exarch xylem, with protoxylem towards the periphery, is found in|roots|stems|leaves|none|0|Protoxylem towards the outside.
+Secondary growth occurs in|monocots|dicots and gymnosperms|algae|fungi|1|Increase in girth.
+The vascular cambium forms|cork|epidermis|secondary xylem and secondary phloem|pith|2|Inwards and outwards.
+The cork cambium (phellogen) forms|xylem|phloem|epidermis|cork and the secondary cortex|3|Outwards and inwards.
+Annual rings are produced due to|the activity of the cambium in different seasons|leaf fall|the roots|the flowers|0|Used to estimate the age of a tree.
+Spring wood is|darker|lighter in colour with wider vessels|dead|made of phloem|1|Formed in favourable conditions.
+Autumn wood is|lighter|made of phloem|darker with narrower vessels|dead|2|Formed in the unfavourable season.
+Lenticels are|stomata of leaves|root hairs|none of these|openings in the bark for gas exchange|3|Lens-shaped.
+The bark includes|all tissues outside the vascular cambium|only cork|only xylem|the pith|0|Primary and secondary phloem and periderm.
+The periderm consists of|xylem|phellem, phellogen and phelloderm|phloem|pith|1|The protective tissue.
+Intrafascicular cambium is|between the bundles|in roots only|within the vascular bundles|in leaves|2|Part of the ring of cambium.
+Interfascicular cambium is|within the bundles|in leaves|in roots only|between the vascular bundles|3|It forms from medullary rays.
+The ground tissue of a dicot stem is differentiated into|cortex, endodermis, pericycle and pith|epidermis|vascular bundles|stomata|0|Unlike the monocot stem.
+The hypodermis of a dicot stem is|sclerenchymatous|collenchymatous|parenchymatous|absent|1|For mechanical support.
+The ground tissue of a monocot stem is|differentiated into cortex and pith|collenchyma only|undifferentiated parenchyma|absent|2|With scattered bundles.
+The hypodermis of a monocot stem is|collenchymatous|parenchymatous|absent|sclerenchymatous|3|A few layers.
+Tracheids are|dead, elongated cells with lignified walls|living cells|sieve elements|guard cells|0|They conduct water.
+Sieve plates are found in|vessels|sieve tube elements|tracheids|guard cells|1|Perforated end walls.

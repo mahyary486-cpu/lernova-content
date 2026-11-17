@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Animals are|eukaryotic, multicellular and heterotrophic|prokaryotic|autotrophic|unicellular only|0|Without cell walls.
+An animal whose body can be divided into two equal halves by only one plane shows|radial symmetry|bilateral symmetry|asymmetry|spherical symmetry|1|For example humans.
+Sponges belong to the phylum|Cnidaria|Annelida|Porifera|Mollusca|2|Pore-bearing animals.
+Sponges have|tentacles|flame cells|gills|pores (ostia) through which water enters|3|A canal system.
+Cnidarians have|cnidoblasts (stinging cells)|setae|spicules only|a notochord|0|For capture and defence.
+An example of a cnidarian is|Pheretima|Hydra|Ascaris|Fasciola|1|Also Aurelia and Adamsia.
+Comb jellies belong to the phylum|Cnidaria|Porifera|Ctenophora|Aschelminthes|2|With eight rows of ciliated comb plates.
+Flatworms belong to the phylum|Aschelminthes|Annelida|Mollusca|Platyhelminthes|3|Dorsoventrally flattened.
+Roundworms belong to the phylum|Aschelminthes|Platyhelminthes|Annelida|Cnidaria|0|Circular in cross-section.
+The earthworm belongs to the phylum|Arthropoda|Annelida|Mollusca|Aschelminthes|1|Segmented worms.
+The largest phylum of the animal kingdom is|Mollusca|Chordata|Arthropoda|Annelida|2|Over two-thirds of all species.
+A snail belongs to the phylum|Arthropoda|Annelida|Echinodermata|Mollusca|3|The second largest phylum.
+A starfish belongs to the phylum|Echinodermata|Mollusca|Annelida|Hemichordata|0|Spiny-skinned.
+Chordates are characterised by the presence of|no notochord|a notochord|a chitinous shell|jointed appendages|1|At some stage of life.
+Vertebrates have|no backbone|only a notochord in adults|a vertebral column|a shell|2|The notochord is replaced.
+Fishes belong to the class|Aves|Reptilia|Amphibia|Pisces|3|Gills and fins.
+Birds belong to the class|Aves|Reptilia|Mammalia|Amphibia|0|Feathers.
+Diploblastic animals have|three germ layers|two germ layers|one germ layer|no germ layers|1|Ectoderm and endoderm.
+Triploblastic animals have|two germ layers|one germ layer|three germ layers|no germ layers|2|Ectoderm, mesoderm and endoderm.
+Cnidarians are|triploblastic|single-layered|none of these|diploblastic|3|With mesoglea in between.
+A coelom is|a body cavity lined by mesoderm|a cavity without lining|the digestive tract|a skeleton|0|A true coelom.
+Acoelomates are animals that|have a true coelom|have no body cavity|have a pseudocoelom|have no gut|1|For example flatworms.
+Platyhelminthes are|coelomate|pseudocoelomate|acoelomate|diploblastic|2|Solid body.
+Aschelminthes are|coelomate|acoelomate|diploblastic|pseudocoelomate|3|A body cavity not lined by mesoderm.
+Annelids are|coelomate and metamerically segmented|acoelomate|pseudocoelomate|diploblastic|0|Body divided into segments.
+Flame cells are found in|Annelida|Platyhelminthes|Arthropoda|Mollusca|1|For osmoregulation and excretion.
+The tapeworm is an example of|Aschelminthes|Annelida|Platyhelminthes|Cnidaria|2|A parasitic flatworm.
+Ascaris is a|flatworm|annelid|arthropod|roundworm|3|An endoparasite.
+Arthropods are characterised by|jointed appendages|no appendages|a notochord|tube feet|0|And a chitinous exoskeleton.
+An open circulatory system is found in|Annelida|Arthropoda and Mollusca|Chordata|Cnidaria|1|Blood flows in sinuses.
+Molluscs have|a segmented body|jointed legs|a soft body covered by a mantle, usually with a shell|a notochord|2|Calcareous shell.
+A radula is present in|Arthropoda|Annelida|Echinodermata|Mollusca|3|A file-like rasping organ.
+A water vascular system is found in|Echinodermata|Mollusca|Annelida|Arthropoda|0|Used for locomotion.
+An example of a hemichordate is|starfish|Balanoglossus|Hydra|Pila|1|An acorn worm.
+Cyclostomes are|jawed fishes|amphibians|jawless vertebrates|reptiles|2|For example lampreys.
+Chondrichthyes are|bony fishes|jawless fishes|amphibians|cartilaginous fishes|3|For example sharks.
+Osteichthyes are|bony fishes|cartilaginous fishes|jawless fishes|amphibians|0|With an air bladder.
+Amphibians have|scales|moist skin without scales|feathers|hair|1|Live on land and water.
+Reptiles have|moist skin|feathers|dry cornified skin with scales|hair|2|Lay eggs on land.
+Birds have|scales|hair|gills|feathers and forelimbs modified into wings|3|Hollow bones.
+Mammals have|mammary glands and hair|feathers|scales|gills|0|Most give birth to young.
+The heart of birds has how many chambers?|2|4|3|5|1|Two atria and two ventricles.
+The heart of most reptiles has|2 chambers|5 chambers|3 chambers (crocodiles have 4)|1 chamber|2|Two atria and an incompletely divided ventricle.
+The heart of fishes has|3 chambers|4 chambers|1 chamber|2 chambers|3|One atrium and one ventricle.
+The heart of amphibians has|3 chambers|2 chambers|4 chambers|1 chamber|0|Two atria and one ventricle.
+Warm-blooded (homoiothermous) animals are|fishes|birds and mammals|reptiles|amphibians|1|They maintain a constant body temperature.
+An egg-laying mammal is|the whale|the bat|the platypus|the dog|2|Ornithorhynchus.
+A flying mammal is|the pigeon|the flying fish|the butterfly|the bat|3|Pteropus.
+Cold-blooded (poikilothermous) animals include|fishes, amphibians and reptiles|birds|mammals|none of these|0|Body temperature varies.
+The subphylum in which the notochord is present only in the larval tail is|Vertebrata|Urochordata|Cephalochordata|Mammalia|1|For example Ascidia.
