@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Bir lokantada 3 çeşit çorba ve 4 çeşit salata vardır. Bir kişi çorba veya salata seçecekse kaç seçeneği vardır?|7|3|1|12|0|"Veya" durumunda toplama kuralı kullanılır: 3 + 4 = 7.
+3 gömlek ve 4 pantolonla kaç farklı kombin yapılabilir?|24|1|12|7|2|"Ve" durumunda çarpma kuralı kullanılır: 3·4 = 12.
+0, 1, 2, 3, 4 rakamları birer kez kullanılarak üç basamaklı kaç doğal sayı yazılabilir?|64|24|60|48|3|Yüzler basamağı 0 olamaz: 4 seçenek; onlar basamağı 4 seçenek; birler basamağı 3 seçenek: 4·4·3 = 48.
+5! kaçtır?|25|24|60|120|3|5! = 5·4·3·2·1 = 120.
+P(5, 2) değeri kaçtır?|20|25|120|10|0|P(5, 2) = 5·4 = 20.
+A, B, C, D, E harfleriyle yazılacak 5 harfli (anlamlı ya da anlamsız) sözcüklerden kaç tanesinde A ile B yan yanadır?|24|72|48|120|2|AB'yi tek harf sayarsak 4 öğeyi 4! = 24 farklı sıralarız; A ile B kendi aralarında 2 farklı sıralanır: 24·2 = 48.
+C(5, 2) değeri kaçtır?|25|5|20|10|3|C(5, 2) = 5·4/2 = 10.
+C(6, 3) değeri kaçtır?|18|20|120|30|1|C(6, 3) = 6·5·4/(3·2·1) = 20.
+7 kişilik bir gruptan 3 kişilik komite seçilecektir. Belirli iki kişinin ikisi de komitede bulunacaksa kaç farklı komite oluşturulabilir?|35|10|5|20|2|İki kişi sabittir; kalan 5 kişiden 1 kişi seçilir: C(5, 1) = 5.
+0! kaçtır?|0|1|Tanımsız|10|1|Tanım gereği 0! = 1 dir.
+ELMA sözcüğünün harfleri kullanılarak 4 harfli (anlamlı ya da anlamsız) kaç farklı sözcük yazılabilir?|4|24|12|16|1|Harfler farklı olduğundan 4! = 24 sıralama vardır.
+ANKARA sözcüğünün harfleriyle 6 harfli (anlamlı ya da anlamsız) kaç farklı sözcük yazılabilir?|720|60|120|240|2|6 harften 3'ü aynı (A) olduğundan 6!/3! = 720/6 = 120 dir.
+Bir zar atıldığında 6 gelme olasılığı kaçtır?|1/6|1/2|6|1/3|0|Örnek uzay 6 elemanlı, istenen durum 1 eleman: 1/6.
+Bir madeni para iki kez atılıyor. İkisinin de yazı gelme olasılığı kaçtır?|3/4|1/4|1/2|1/3|1|Örnek uzay {YY, YT, TY, TT} dir; istenen durum 1 tanedir.
+İki zar birlikte atılıyor. Üst yüzlerdeki sayıların toplamının 7 olma olasılığı kaçtır?|1/12|1/9|1/6|7/36|2|Toplamı 7 yapan 6 durum vardır; (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). Toplam durum 36 dır: 6/36 = 1/6.
+Kesin bir olayın olasılığı kaçtır?|100|1/2|1|0|2|Mutlaka gerçekleşen olayın olasılığı 1 dir.
+Bir torbada 3 kırmızı ve 2 mavi top vardır. Rastgele çekilen bir topun kırmızı olma olasılığı kaçtır?|3/2|2/5|1/5|3/5|3|Kırmızı top sayısı 3, toplam top sayısı 5 tir.
+Bir torbada 4 kırmızı ve 6 mavi top vardır. İadesiz iki top çekiliyor. İkisinin de kırmızı olma olasılığı kaçtır?|3/10|2/15|4/25|1/5|1|P = (4/10)·(3/9) = 12/90 = 2/15.
+P(A) = 0,3 ise P(A′) kaçtır?|0,3|0|1,3|0,7|3|Bir olayın olmama olasılığı P(A′) = 1 − P(A) = 0,7 dir.
+A ve B ayrık olaylar, P(A) = 0,5 ve P(B) = 0,3 ise P(A ∪ B) kaçtır?|1|0,2|0,15|0,8|3|Ayrık olaylarda P(A ∪ B) = P(A) + P(B) = 0,8 dir.
+P(A) = 0,6, P(B) = 0,5 ve P(A ∩ B) = 0,3 ise P(A ∪ B) kaçtır?|0,8|0,9|0,3|1,1|0|P(A ∪ B) = P(A) + P(B) − P(A ∩ B) = 0,6 + 0,5 − 0,3 = 0,8.
+A ve B bağımsız olaylar, P(A) = 1/2 ve P(B) = 1/3 ise P(A ∩ B) kaçtır?|5/6|1/6|2/3|1/5|1|Bağımsız olaylarda P(A ∩ B) = P(A)·P(B) = 1/6 dır.
+P(A ∩ B) = 0,2 ve P(B) = 0,5 ise P(A ∣ B) kaçtır?|2,5|0,4|0,1|0,7|1|P(A ∣ B) = P(A ∩ B)/P(B) = 0,2/0,5 = 0,4.
+Bir zar atılıyor ve üst yüze çift sayı geldiği biliniyor. Gelen sayının 4'ten büyük olma olasılığı kaçtır?|1/3|1/2|2/3|1/6|0|Çift sayılar {2, 4, 6}; bunlardan 4'ten büyük olan yalnızca 6 dır: 1/3.
+İki madeni para atılırsa örnek uzayda kaç eleman bulunur?|4|3|8|2|0|Her para 2 durumlu olduğundan 2·2 = 4 durum vardır.
+Üç madeni para atılırsa örnek uzayda kaç eleman bulunur?|3|9|6|8|3|Her para 2 durumlu olduğundan 2·2·2 = 8 durum vardır.
+İki zar atıldığında üst yüzlerdeki sayıların toplamının 8'den büyük olduğu kaç durum vardır?|10|15|5|12|0|Toplam 9 için 4, 10 için 3, 11 için 2, 12 için 1 durum vardır: 4 + 3 + 2 + 1 = 10.
+Bir madeni para 100 kez atılıyor ve 48 kez yazı geliyor. Yazı gelmesinin deneysel olasılığı kaçtır?|0,52|0,5|48|0,48|3|Deneysel olasılık = istenen sonuç sayısı / deneme sayısı = 48/100.
+Bir torbada 2 sarı ve 3 yeşil top vardır. Topun rengi görüldükten sonra torbaya geri atılarak iki top çekiliyor. İkisinin de yeşil olma olasılığı kaçtır?|3/5|6/25|3/10|9/25|3|İadeli çekilişlerde olaylar bağımsızdır: (3/5)·(3/5) = 9/25.
+Bir sınıfın %60'ı kızdır ve kızların %50'si gözlüklüdür. Rastgele seçilen bir öğrencinin gözlüklü kız olma olasılığı kaçtır?|0,5|0,3|0,11|0,6|1|Gözlüklü kız oranı 0,6·0,5 = 0,3 tür.

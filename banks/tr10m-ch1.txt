@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+x² − 9 = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{−9, 9}|{9}|{−3, 3}|{3}|2|x² = 9 olduğundan x = 3 veya x = −3 tür.
+x² − 5x + 6 = 0 denkleminin köklerinin toplamı kaçtır?|6|5|1|−5|1|ax² + bx + c = 0 için kökler toplamı −b/a dır: −(−5)/1 = 5.
+x² − (m + 1)x + 12 = 0 denkleminin kökleri 3 ve 4 ise m kaçtır?|5|6|12|7|1|Kökler toplamı 3 + 4 = 7 = m + 1 olduğundan m = 6 dır.
+(x − 2)(x + 5) = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{2, 5}|{−2, 5}|{2, −5}|{−2, −5}|2|Çarpım sıfırsa çarpanlardan biri sıfırdır: x = 2 veya x = −5.
+x² + 4x + 4 = 0 denkleminin çözümü aşağıdakilerden hangisidir?|x = −4|x = 2|x = ±2|x = −2|3|x² + 4x + 4 = (x + 2)² olduğundan çift katlı kök x = −2 dir.
+x² − 6x + k = 0 denkleminin çift katlı kökü olması için k kaç olmalıdır?|36|3|6|9|3|Çift katlı kök için Δ = 0: 36 − 4k = 0 ve k = 9 dur.
+x² − 4x = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{0, 4}|{0, −4}|{4}|{2}|0|x(x − 4) = 0 olduğundan x = 0 veya x = 4 tür.
+x² − 2x − 3 = 0 denkleminin diskriminantı (Δ) kaçtır?|−8|4|16|8|2|Δ = b² − 4ac = 4 − 4·1·(−3) = 16.
+x² + 2x + m = 0 denkleminin gerçek kökü olmaması için m'nin değer aralığı aşağıdakilerden hangisidir?|m > −1|m < 1|m ≥ 1|m > 1|3|Gerçek kök olmaması için Δ < 0: 4 − 4m < 0 ve m > 1 dir.
+x² − 7x + 10 ifadesinin çarpanlara ayrılmış biçimi aşağıdakilerden hangisidir?|(x + 2)(x − 5)|(x − 2)(x − 5)|(x − 1)(x − 10)|(x + 2)(x + 5)|1|Çarpımı 10, toplamı −7 olan sayılar −2 ve −5 tir.
+x² − 5x − 14 = 0 denkleminin köklerinin çarpımı kaçtır?|−5|−14|5|14|1|Kökler çarpımı c/a dır: −14/1 = −14.
+Kökleri x₁ ve x₂ olan bir denklemde x₁ + x₂ = 5 ve x₁·x₂ = 6 ise x₁² + x₂² kaçtır?|13|17|25|11|0|x₁² + x₂² = (x₁ + x₂)² − 2x₁x₂ = 25 − 12 = 13.
+f(x) = x² fonksiyonunun grafiğinin tepe noktası aşağıdakilerden hangisidir?|(1, 0)|(0, 1)|(1, 1)|(0, 0)|3|f(x) = x² parabolünün tepe noktası orijindir.
+f(x) = (x − 3)² + 2 fonksiyonunun tepe noktası aşağıdakilerden hangisidir?|(3, 2)|(−3, 2)|(2, 3)|(3, −2)|0|f(x) = a(x − r)² + k biçiminde tepe noktası (r, k) dır.
+f(x) = x² − 4x + 3 fonksiyonunun tepe noktası aşağıdakilerden hangisidir?|(2, 1)|(2, −1)|(4, 3)|(−2, −1)|1|r = −b/(2a) = 2 ve f(2) = 4 − 8 + 3 = −1 olduğundan tepe noktası (2, −1) dir.
+f(x) = x² − 4 fonksiyonunun grafiğinin x eksenini kestiği noktalar aşağıdakilerden hangisidir?|(0, 2)|(−2, 0) ve (2, 0)|(4, 0)|(0, −4)|1|f(x) = 0 için x² = 4 ve x = ±2 dir.
+f(x) = x² − 2x − 3 fonksiyonunun grafiğinin y eksenini kestiği nokta aşağıdakilerden hangisidir?|(0, −3)|(−3, 0)|(3, 0)|(0, 3)|0|y eksenini kesen noktada x = 0 olur ve f(0) = −3 tür.
+f(x) = −x² + 4x + 5 fonksiyonunun en büyük değeri kaçtır?|9|4|8|5|0|Kollar aşağı olduğundan en büyük değer tepe noktasındadır: r = 2 ve f(2) = −4 + 8 + 5 = 9.
+f(x) = 2x² + 1 fonksiyonunun grafiğinin kolları nereye doğrudur?|Yukarı|Sağa|Aşağı|Sola|0|a = 2 > 0 olduğundan parabolün kolları yukarı doğrudur.
+f(x) = x² − 6x + 5 fonksiyonunun en küçük değeri kaçtır?|−5|−4|4|−9|1|r = 3 ve f(3) = 9 − 18 + 5 = −4 tür.
+f(x) = x² + kx + 9 fonksiyonunun grafiği x eksenine teğet ve k > 0 ise k kaçtır?|3|6|9|12|1|Teğetlik için Δ = 0: k² − 36 = 0 ve k > 0 olduğundan k = 6 dır.
+x² − 4 < 0 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−∞, −2) ∪ (2, ∞)|(−∞, 2)|[−2, 2]|(−2, 2)|3|Kökler −2 ve 2 dir; parabol kökler arasında negatiftir.
+x² − 5x + 6 ≥ 0 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|[2, 3]|(−∞, 2] ∪ [3, ∞)|(−∞, 2) ∪ (3, ∞)|(2, 3)|1|Kökler 2 ve 3 tür; parabol köklerin dışında ve köklerde sıfırdan büyük veya eşittir.
+x² − x − 6 < 0 eşitsizliğini sağlayan kaç tam sayı vardır?|4|6|3|5|0|Kökler −2 ve 3 tür; çözüm (−2, 3) olduğundan −1, 0, 1, 2 olmak üzere 4 tam sayı vardır.
+√(x + 1) = 3 denkleminin çözümü aşağıdakilerden hangisidir?|x = 9|x = 10|x = 2|x = 8|3|İki tarafın karesi alınır: x + 1 = 9 ve x = 8.
+√(x + 4) = x − 2 denkleminin çözümü aşağıdakilerden hangisidir?|x = 4|x = 0|x = 5|x = 0 ve x = 5|2|Karesi alınınca x² − 5x = 0 ve x = 0 veya x = 5; x = 0 denklemi sağlamaz (2 ≠ −2), x = 5 sağlar.
+f(x) = √(6 − 2x) fonksiyonunun tanım kümesi aşağıdakilerden hangisidir?|(3, ∞)|(−∞, 3)|[3, ∞)|(−∞, 3]|3|Kök içi negatif olamaz: 6 − 2x ≥ 0 ve x ≤ 3 tür.
+f(x) = 1/(x − 2) fonksiyonu x'in hangi değeri için tanımsızdır?|0|1|−2|2|3|Payda sıfır olamaz: x − 2 = 0 için x = 2 de tanımsızdır.
+(x² − 9)/(x − 3) ifadesinin (x ≠ 3 için) sadeleşmiş biçimi aşağıdakilerden hangisidir?|x²|x + 9|x + 3|x − 3|2|x² − 9 = (x − 3)(x + 3) olduğundan sadeleştirme sonucu x + 3 tür.
+(x + 1)/(x − 2) ≥ 0 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−∞, −1] ∪ (2, ∞)|[−1, 2)|(−∞, −1) ∪ [2, ∞)|[−1, 2]|0|Pay ve paydanın işaretleri incelenir; x = −1 de ifade 0 dır (dahil), x = 2 de tanımsızdır (dahil değil).

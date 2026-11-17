@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Elektrik yükünün SI birimi aşağıdakilerden hangisidir?|Ohm|Amper|Coulomb|Volt|2|Elektrik yükü coulomb (C) ile ölçülür.
+Bir iletkenin kesitinden 5 saniyede 10 C yük geçiyorsa akım şiddeti kaç A dir?|2|5|50|0,5|0|I = q/t = 10/5 = 2 A.
+Bir iletkenin kesitinden 4 saniyede 3·10¹⁹ elektron geçiyor. Akım şiddeti kaç A dir? (e = 1,6·10⁻¹⁹ C)|12|1,2|0,8|4,8|1|q = 3·10¹⁹·1,6·10⁻¹⁹ = 4,8 C ve I = 4,8/4 = 1,2 A.
+Aynı cins elektrik yüküyle yüklü iki cisim arasındaki etkileşim nasıldır?|Önce çeker sonra iter|Çekme|İtme|Etkileşim yoktur|2|Aynı cins yükler birbirini iter, zıt cins yükler çeker.
+Bir nötr cisim elektron kaybederse nasıl yüklenir?|Pozitif|Önce negatif sonra pozitif|Negatif|Nötr kalır|0|Elektron kaybeden cismin proton sayısı elektrondan fazla olur; cisim pozitif yüklenir.
+Yüksüz iletken bir küreye pozitif yüklü bir çubuk dokundurulup çekiliyor. Küre için ne söylenebilir?|Küre yüksüz kalır|Küre pozitif yüklenir|Küre negatif yüklenir|Çubuk negatif yüklenir|1|Dokunma ile elektronlar küreden çubuğa geçer; küre elektron kaybeder ve pozitif yüklenir.
+Elektrik akımının (konvansiyonel) yönü nasıl kabul edilir?|Üretecin − kutbundan + kutbuna|Alıcıdan üretece|Üretecin + kutbundan − kutbuna|Yönü yoktur|2|Konvansiyonel akım yönü, pozitif yüklerin hareket yönü olarak + kutuptan − kutba kabul edilir.
+Aşağıdakilerden hangisi iyi bir elektrik iletkenidir?|Cam|Kuru tahta|Plastik|Bakır|3|Bakır serbest elektronları nedeniyle iyi bir iletkendir; diğerleri yalıtkandır.
+Kesit alanı sabit bir iletken telin uzunluğu iki katına çıkarılırsa direnci nasıl değişir?|Yarıya iner|İki katına çıkar|Değişmez|Dört katına çıkar|1|R = ρ·ℓ/A bağıntısına göre direnç uzunlukla doğru orantılıdır.
+Elektriksel direncin SI birimi aşağıdakilerden hangisidir?|Ohm|Amper|Volt|Watt|0|Direnç ohm (Ω) ile ölçülür.
+Direnci 10 Ω olan bir alıcıdan 2 A akım geçiyorsa uçları arasındaki potansiyel farkı kaç V tur?|0,2|12|20|5|2|V = I·R = 2·10 = 20 V.
+20 V luk bir üretece iki özdeş direnç seri bağlanmıştır ve devreden 2 A akım geçmektedir. Her bir direnç kaç Ω dur?|20|2,5|5|10|2|Toplam direnç 20/2 = 10 Ω dur; özdeş iki direnç seri bağlı olduğundan her biri 5 Ω dur.
+Potansiyel farkını ölçen alet aşağıdakilerden hangisidir?|Ampermetre|Voltmetre|Termometre|Ohmmetre|1|Potansiyel farkı voltmetre ile ölçülür.
+Akım şiddetini ölçen ampermetre devreye nasıl bağlanır?|Karışık|Seri|Bağlanmaz|Paralel|1|Ampermetre, akımı ölçülecek koldan geçecek şekilde devreye seri bağlanır.
+Voltmetre, potansiyel farkı ölçülecek alıcıya nasıl bağlanır?|Önce seri sonra paralel|Paralel|Seri|Bağlanmaz|1|Voltmetre ölçülecek elemanın uçlarına paralel bağlanır.
+Seri bağlı 3 Ω ve 5 Ω luk iki direncin eş değer direnci kaç Ω dur?|15/8|15|2|8|3|Seri bağlı dirençler toplanır: 3 + 5 = 8 Ω.
+Paralel bağlı 6 Ω ve 3 Ω luk iki direncin eş değer direnci kaç Ω dur?|18|4,5|9|2|3|1/R = 1/6 + 1/3 = 3/6 olduğundan R = 2 Ω dur.
+Paralel bağlı 2 Ω ve 3 Ω luk iki direncin eş değer direnci kaç Ω dur?|5|1,2|6|0,83|1|R = (2·3)/(2 + 3) = 6/5 = 1,2 Ω.
+Seri bağlı bir devrede aşağıdakilerden hangisi her noktada aynıdır?|Potansiyel farkı|Direnç|Güç|Akım şiddeti|3|Seri devrede akım tek yoldan geçtiği için her elemanda aynıdır.
+Paralel bağlı kollarda aşağıdakilerden hangisi her kolda aynıdır?|Potansiyel farkı|Direnç|Akım şiddeti|Güç|0|Paralel kollar aynı iki noktaya bağlı olduğundan her kolun potansiyel farkı eşittir.
+9 V luk bir üretece 3 Ω ve 6 Ω luk iki direnç paralel bağlanmıştır. Üretecin verdiği toplam akım kaç A dir?|4,5|1|9|3|0|Kollardan geçen akımlar 9/3 = 3 A ve 9/6 = 1,5 A dir; toplam 4,5 A.
+Elektriksel gücün SI birimi aşağıdakilerden hangisidir?|Joule|Amper|Volt|Watt|3|Güç P = V·I ve birimi watt (W) tır.
+Direnci 5 Ω olan bir iletkenden 2 A akım geçiyor. İletkenin gücü kaç W tır?|50|20|2,5|10|1|P = I²·R = 4·5 = 20 W.
+Gücü 100 W olan bir ampul 10 saat çalıştırılırsa harcadığı enerji kaç kWh olur?|10|0,1|100|1|3|E = P·t = 0,1 kW·10 h = 1 kWh.
+Evlerdeki elektrik sayaçları enerjiyi hangi birimle ölçer?|V|kWh|A|kW|1|Elektrik sayaçları tüketilen enerjiyi kilovatsaat (kWh) cinsinden gösterir.
+220 V ile çalışan 1100 W lık bir ütünün çektiği akım kaç A dir?|20|5|0,2|4|1|P = V·I olduğundan I = 1100/220 = 5 A.
+Gücü 500 W olan bir cihaz günde 4 saat çalıştırılıyor. 1 kWh enerjinin ücreti 2 TL ise günlük maliyet kaç TL dir?|1|8|2|4|3|E = 0,5 kW·4 h = 2 kWh ve maliyet 2·2 = 4 TL dir.
+Elektrik devrelerindeki sigortanın görevi aşağıdakilerden hangisidir?|Akımı artırmak|Direnci azaltmak|Gerilimi yükseltmek|Aşırı akım geçince devreyi kesmek|3|Sigorta, aşırı akımda erir veya açar; devreyi korur.
+Aşağıdakilerden hangisi doğru bir elektrik güvenliği davranışıdır?|Onarımdan önce cihazın fişini çekmek|Çıplak kabloyu elle tutmak|Prize birçok cihazı birden takmak|Islak elle prize dokunmak|0|Cihaz bakımı veya onarımı öncesinde elektrik bağlantısı kesilmelidir.
+Topraklamanın amacı aşağıdakilerden hangisidir?|Akımı kesmek|Kaçak akımı yere ileterek kullanıcıyı korumak|Gerilimi iki katına çıkarmak|Cihazın gücünü artırmak|1|Topraklama, cihaz gövdesine kaçan akımı yere ileterek elektrik çarpmasını önler.

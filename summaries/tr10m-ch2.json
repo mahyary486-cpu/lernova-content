@@ -1,0 +1,4 @@
+{
+  "Sayma stratejileri: permütasyon ve kombinasyon": "Toplama kuralı ayrık seçimlerde (veya), çarpma kuralı ardışık seçimlerde (ve) kullanılır. n! faktöriyel, sıralamaların sayısını verir. Sıralamanın önemli olduğu seçimlerde permütasyon P(n, r), önemli olmadığı seçimlerde kombinasyon C(n, r) kullanılır.",
+  "Olasılık ve koşullu olasılık": "Olasılık, istenen durum sayısının örnek uzaydaki tüm durum sayısına oranıdır ve 0 ile 1 arasındadır. Tümleyen olay için P(A′) = 1 − P(A), birleşim için P(A ∪ B) = P(A) + P(B) − P(A ∩ B) kullanılır. Bağımsız olaylarda P(A ∩ B) = P(A)·P(B), koşullu olasılıkta P(A ∣ B) = P(A ∩ B)/P(B) dir."
+}

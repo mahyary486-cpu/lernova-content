@@ -1,0 +1,4 @@
+{
+  "Elektrik yükü ve elektrik akımı": "Elektrik yükünün birimi coulomb dur; aynı cins yükler iter, zıt cins yükler çeker. Cisimler elektron alış verişiyle yüklenir. Elektrik akım şiddeti I = q/t bağıntısıyla hesaplanır, birimi amperdir; akımın yönü + kutuptan − kutba kabul edilir.",
+  "Direnç, devreler ve elektriksel enerji": "Direnç R = ρ·ℓ/A ile hesaplanır; Ohm yasası V = I·R dir. Seri bağlamada akım aynı, gerilimler toplanır; paralel bağlamada gerilim aynı, akımlar toplanır. Elektriksel güç P = V·I = I²R ve enerji E = P·t dir; sayaçlar kWh ölçer."
+}

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+İki veya daha fazla maddenin her noktasında aynı özelliği gösterecek şekilde karışmasıyla oluşan karışım nedir?|Heterojen karışım|Bileşik|Element|Homojen karışım (çözelti)|3|Her noktasında aynı özelliği gösteren karışımlara homojen karışım (çözelti) denir.
+Tuzlu su çözeltisinde çözücü ve çözünen aşağıdakilerden hangisidir?|İkisi de tuz|Çözücü tuz, çözünen su|Çözücü su, çözünen tuz|İkisi de su|2|Miktarca çok olan ve çözen madde çözücü, çözünen madde ise çözünendir.
+"Benzer benzeri çözer" ilkesine göre aşağıdakilerden hangisi suda çözünür?|NaCl|Naftalin|Benzen|Yağ|0|Su polar bir çözücüdür; iyonik ve polar maddeler suda çözünür, apolar maddeler çözünmez.
+20 g şeker 80 g suda çözünüyor. Çözeltinin kütlece yüzde derişimi kaçtır?|%20|%16|%80|%25|0|Çözelti kütlesi 100 g olduğundan yüzde 20/100·100 = %20.
+50 g çözeltide 5 g tuz bulunuyorsa kütlece yüzde derişim kaçtır?|%10|%90|%1|%5|0|Yüzde = 5/50·100 = %10.
+Kütlece %20 lik 200 g tuzlu su çözeltisine 100 g su eklenirse yeni çözeltinin kütlece yüzde derişimi yaklaşık kaç olur?|%20|%15|%13,3|%10|2|Çözünen 40 g sabittir; yeni çözelti 300 g olur: 40/300·100 ≈ %13,3.
+Molar derişimin (molarite) birimi aşağıdakilerden hangisidir?|L/mol|mol/L|mol/kg|g/L|1|Molarite, 1 litre çözeltideki çözünen mol sayısıdır; birimi mol/L dir.
+0,5 mol NaOH ile hazırlanan 250 mL çözeltinin molar derişimi kaç M dir?|1|2|0,5|0,125|1|M = n/V = 0,5/0,25 = 2 M.
+8 g NaOH (40 g/mol) suda çözünerek 500 mL çözelti hazırlanıyor. Çözeltinin molar derişimi kaç M dir?|0,8|1,6|0,4|0,2|2|n = 8/40 = 0,2 mol ve V = 0,5 L olduğundan M = 0,2/0,5 = 0,4 M.
+Bir çözeltinin "ppm" cinsinden derişimi neyi ifade eder?|Bin birim çözeltideki çözünen birimi|Milyon birim çözeltideki çözünen birimi|Bir litredeki mol sayısı|Yüz birim çözeltideki çözünen birimi|1|ppm (milyonda bir kısım), 10⁶ kısım çözeltide bulunan çözünen kısım sayısıdır.
+1 000 g çözeltide 0,002 g çözünen madde bulunuyorsa derişim kaç ppm dir?|20|2|200|0,2|1|ppm = 0,002/1000·10⁶ = 2.
+0,1 M 500 mL çözeltide kaç mol çözünen madde vardır?|0,5|0,05|0,2|0,1|1|n = M·V = 0,1·0,5 = 0,05 mol.
+Bir çözelti seyreltilirken aşağıdakilerden hangisi değişmez?|Çözeltinin yoğunluğu|Çözünenin mol sayısı|Molar derişim|Çözelti hacmi|1|Seyreltmede su eklenir; çözünen miktarı sabit kalır, derişim azalır.
+2 M 100 mL çözelti su ile 400 mL ye seyreltilirse yeni derişim kaç M olur?|1|0,25|0,5|4|2|M₁V₁ = M₂V₂ → 2·100 = M₂·400 ve M₂ = 0,5 M.
+0,2 M 200 mL ile 0,4 M 300 mL çözelti karıştırılıyor. Karışımın derişimi kaç M olur?|0,28|0,6|0,32|0,3|2|n₁ = 0,04 mol, n₂ = 0,12 mol; toplam 0,16 mol ve hacim 0,5 L: M = 0,32.
+Belirli sıcaklıkta daha fazla çözünen madde çözemeyen çözeltiye ne denir?|Doygun çözelti|Doymamış çözelti|Aşırı doygun çözelti|Seyreltik çözelti|0|Çözebileceği maksimum miktarda maddeyi çözmüş çözeltiye doygun çözelti denir.
+Katı maddelerin sudaki çözünürlüğü sıcaklık artınca genellikle nasıl değişir?|Değişmez|Artar|Önce azalır sonra artar|Azalır|1|Çoğu katının çözünürlüğü sıcaklıkla artar.
+Gazların sudaki çözünürlüğü sıcaklık artınca nasıl değişir?|Artar|Değişmez|Azalır|Sıfır olur|2|Sıcaklık arttıkça gazların çözünürlüğü azalır.
+Çözünürlük genellikle hangi birimle ifade edilir?|mol/L|g çözünen / 100 g su|g/mL|ppm|1|Çözünürlük, 100 g suda doygun çözelti oluşturan en fazla madde miktarıdır.
+20 °C de bir tuzun çözünürlüğü 36 g/100 g su dur. 50 g suda en çok kaç g tuz çözünür?|72|9|18|36|2|100 g suda 36 g çözünüyorsa 50 g suda yarısı kadar, 18 g çözünür.
+Çözünürlüğü 40 g/100 g su olan bir tuzun 140 g doygun çözeltisinde kaç g tuz çözünmüştür?|14|40|28|100|1|100 g su + 40 g tuz = 140 g doygun çözelti olduğundan 140 g çözeltide 40 g tuz vardır.
+Gazların sudaki çözünürlüğü basınç artırılınca nasıl değişir?|Azalır|Artar|Değişmez|Sıfır olur|1|Gaz basıncı artarsa gazın sıvıdaki çözünürlüğü artar.
+Koligatif özelliklerle ilgili aşağıdakilerden hangisi doğrudur?|Çözeltinin yoğunluğuna bağlıdır|Çözücünün rengine bağlıdır|Çözünenin tanecik sayısına bağlıdır, cinsine bağlı değildir|Çözünenin cinsine bağlıdır|2|Koligatif özellikler, çözünen tanecik sayısına bağlıdır.
+Aşağıdakilerden hangisi koligatif özelliktir?|Kaynama noktası yükselmesi|Tat|Renk|Yoğunluk|0|Kaynama noktası yükselmesi, donma noktası alçalması, buhar basıncı alçalması ve ozmotik basınç koligatif özelliklerdir.
+Saf suya tuz eklenirse çözeltinin kaynama noktası saf suya göre nasıl olur?|Daha yüksek|Kaynamaz|Aynı|Daha düşük|0|Uçucu olmayan bir madde eklenirse kaynama noktası yükselir.
+Kışın buzlanmayı önlemek için yollara tuz dökülmesinin nedeni nedir?|Kaynama noktasını yükseltmesi|Donma noktasını düşürmesi|Buharlaşmayı artırması|Yoğunluğu artırması|1|Tuz suyun donma noktasını düşürür; buz daha düşük sıcaklıkta oluşur.
+Aynı sıcaklıkta 0,1 molal NaCl ve 0,1 molal şeker çözeltilerinden hangisinin donma noktası daha düşüktür?|Şeker çözeltisinin|Hiçbiri donmaz|NaCl çözeltisinin|İkisi eşittir|2|NaCl suda Na⁺ ve Cl⁻ olarak iyonlaşır; tanecik sayısı fazla olduğundan donma noktası daha çok düşer.
+Suya uçucu olmayan bir madde eklenirse çözeltinin buhar basıncı nasıl değişir?|Değişmez|Azalır|Sıfır olur|Artar|1|Çözünen taneciklerin yüzeye çıkması çözücü moleküllerinin buharlaşmasını zorlaştırır.
+Kaynama noktası yükselmesinin daha fazla olması için aynı kütledeki çözücüde hangi koşul gerekir?|Çözünenin renkli olması|Çözücünün daha az olması şart değildir|Çözünenin daha hafif olması|Çözünen tanecik sayısının daha fazla olması|3|Kaynama noktası yükselmesi çözünen tanecik sayısıyla doğru orantılıdır.
+0,1 molal şeker, NaCl ve CaCl₂ çözeltilerinin donma noktaları arasındaki doğru sıralama hangisidir? (En düşükten yükseğe)|CaCl₂ < şeker < NaCl|şeker < NaCl < CaCl₂|NaCl < CaCl₂ < şeker|CaCl₂ < NaCl < şeker|3|CaCl₂ 3, NaCl 2 iyona, şeker iyonlaşmadan 1 tanecik oluşturur; tanecik sayısı arttıkça donma noktası düşer.

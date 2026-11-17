@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+1 mol madde kaç tanecik içerir?|3·10⁸|6,02·10²³|1,6·10⁻¹⁹|6,02·10²²|1|1 mol herhangi bir maddenin 6,02·10²³ (Avogadro sayısı) tanecik içerdiği kabul edilir.
+H₂O nun mol kütlesi kaç g/mol dür? (H = 1, O = 16)|10|18|17|16|1|2·1 + 16 = 18 g/mol.
+36 g su kaç moldür? (H₂O = 18 g/mol)|2|0,5|18|1|0|n = m/M = 36/18 = 2 mol.
+H₂ + O₂ → H₂O tepkimesinin doğru denkleştirilmiş hâli aşağıdakilerden hangisidir?|2H₂ + O₂ → 2H₂O|H₂ + 2O₂ → 2H₂O|2H₂ + 2O₂ → 2H₂O|H₂ + O₂ → H₂O|0|Her iki tarafta da 4 H ve 2 O atomu olmalıdır.
+N₂ + 3H₂ → 2NH₃ tepkimesinde 2 mol N₂ tamamen harcanırsa kaç mol NH₃ oluşur?|1|2|4|6|2|1 mol N₂ 2 mol NH₃ verir; 2 mol N₂ 4 mol NH₃ verir.
+CH₄ + 2O₂ → CO₂ + 2H₂O tepkimesinde 16 g CH₄ tamamen yanarsa kaç g CO₂ oluşur? (C = 12, H = 1, O = 16)|88|16|22|44|3|16 g CH₄ 1 moldür ve 1 mol CH₄ 1 mol CO₂ verir; 1 mol CO₂ 44 g dır.
+A + B → AB türündeki tepkimeye ne ad verilir?|Analiz (ayrışma)|Yer değiştirme|Nötrleşme|Sentez (birleşme)|3|İki veya daha fazla maddenin birleşerek tek madde oluşturduğu tepkimeye sentez denir.
+AB → A + B türündeki tepkimeye ne ad verilir?|Sentez|Analiz (ayrışma)|Nötrleşme|Yanma|1|Bir bileşiğin daha basit maddelere ayrıştığı tepkimeye analiz denir.
+CaCO₃ → CaO + CO₂ tepkimesine göre 100 g CaCO₃ tamamen ayrışırsa kaç g CO₂ oluşur? (Ca = 40, C = 12, O = 16)|100|44|22|56|1|CaCO₃ = 100 g/mol olduğundan 100 g, 1 moldür; 1 mol CaCO₃ 1 mol CO₂ (44 g) verir.
+Bir maddenin oksijenle tepkimeye girerek ısı ve ışık vermesine ne ad verilir?|Erime|Çözünme|Yanma|Seyrelme|2|Maddelerin oksijenle hızlı tepkimesine yanma tepkimesi denir.
+Asit ile bazın tepkimesiyle tuz ve su oluşmasına ne ad verilir?|Çözünme|Sentez|Yanma|Nötrleşme|3|Asit + baz → tuz + su tepkimesine nötrleşme denir.
+HCl + NaOH → NaCl + H₂O tepkimesine göre 0,2 mol HCl ile tamamen tepkimeye giren NaOH kaç gramdır? (NaOH = 40 g/mol)|8|4|40|16|0|Mol oranı 1 : 1 olduğundan 0,2 mol NaOH gerekir: 0,2·40 = 8 g.
+Kimyasal tepkimelerde kütlenin korunumu yasası neyi ifade eder?|Girenlerin kütlesi her zaman fazladır|Girenlerin toplam kütlesi ürünlerin toplam kütlesine eşittir|Ürünlerin kütlesi her zaman fazladır|Kütle yok olur|1|Kapalı sistemde tepkime öncesi ve sonrası toplam kütle değişmez.
+12 g karbon ile 32 g oksijen artansız tepkimeye girerek CO₂ oluşturuyorsa oluşan CO₂ kütlesi kaç g dır?|12|32|20|44|3|Kütlenin korunumuna göre ürünün kütlesi girenlerin toplamına eşittir: 12 + 32 = 44 g.
+2H₂ + O₂ → 2H₂O tepkimesinde 2 mol H₂ ile 2 mol O₂ tepkimeye sokuluyor. Hangisi doğrudur?|Hiçbiri artmaz|2 mol H₂O oluşur ve 1 mol O₂ artar|1 mol H₂O oluşur|4 mol H₂O oluşur|1|2 mol H₂, 1 mol O₂ ile tepkimeye girer; H₂ tükenir (sınırlayıcı) ve 2 mol H₂O oluşur; 1 mol O₂ artar.
+Yeşil kimyanın temel amacı aşağıdakilerden hangisidir?|Doğal kaynakları hızla tüketmek|Yalnızca maliyeti artırmak|Çevreye zararlı madde ve atık üretimini azaltmak|Daha fazla atık üretmek|2|Yeşil kimya, kimyasal süreçlerde zararlı madde kullanımını ve atığı en aza indirmeyi amaçlar.
+Aşağıdakilerden hangisi yeşil kimya ilkelerinden biridir?|Enerji verimliliğini azaltmak|Yenilenemeyen hammaddeyi tercih etmek|Zehirli çözücü kullanmak|Atık oluşumunu önlemek|3|Yeşil kimyada atığı baştan önlemek temel ilkedir.
+Atom ekonomisi neyi ifade eder?|Atomların fiyatı|Elektron sayısı|Atomların sayısı|Girenlerdeki atomların ürüne dönüşen kısmının oranı|3|Atom ekonomisi, hedef ürüne dönüşen atomların toplam girenlere oranıdır.
+Aşağıdakilerden hangisi yenilenebilir enerji kaynağıdır?|Doğal gaz|Kömür|Güneş enerjisi|Petrol|2|Güneş, rüzgâr ve su gibi kaynaklar tükenmez ve yenilenebilirdir.
+Plastik atıkların çevreye zararını azaltmak için en etkili yöntem hangisidir?|Geri dönüştürmek|Yakmak|Toprağa gömmek|Doğaya atmak|0|Geri dönüşüm hammadde ihtiyacını ve çöp miktarını azaltır.
+Katalizör kullanmanın yeşil kimya açısından avantajı aşağıdakilerden hangisidir?|Atık miktarını artırması|Zehirli madde oluşturması|Hammadde tüketimini artırması|Tepkimeyi hızlandırarak enerji tüketimini azaltması|3|Katalizör tepkimeyi daha düşük sıcaklıkta ve daha hızlı gerçekleştirir; enerji ve atık azalır.
+Sürdürülebilirlik ne demektir?|Yalnızca çevre koruma|Yalnızca ekonomik büyüme|Kaynakları olabildiğince hızlı tüketmek|Bugünün ihtiyaçlarını gelecek kuşakların ihtiyaçlarını tehlikeye atmadan karşılamak|3|Sürdürülebilirlik, bugünün ihtiyaçlarının gelecek nesillerin ihtiyaç karşılama kapasitesine zarar vermeden karşılanmasıdır.
+Aşağıdakilerden hangisi sera etkisine yol açan başlıca gazlardandır?|Argon|Azot|Karbondioksit|Helyum|2|CO₂ ve metan gibi gazlar atmosferde ısıyı tutarak sera etkisini artırır.
+Asit yağmurlarına neden olan başlıca gazlar hangileridir?|H₂ ve CO|He ve Ne|O₂ ve N₂|SO₂ ve azot oksitler|3|Kükürt dioksit ve azot oksitler suyla tepkimeye girip asit oluşturur.
+Yeşil kimya açısından "yeşil çözücü" olarak en uygun olan hangisidir?|Su|Kloroform|Benzen|Karbon tetraklorür|0|Su zehirsiz ve ucuz bir çözücüdür; diğerleri zararlıdır.
+Atom ekonomisi %100 olan bir tepkime için aşağıdakilerden hangisi doğrudur?|Atık oluşur|Girenlerin tüm atomları ürüne geçer|Girenlerin yarısı atığa gider|Ürün oluşmaz|1|Tüm reaktant atomları istenen ürüne dönüşüyorsa atom ekonomisi %100 dür.
+44 g CO₂ kaç moldür? (CO₂ = 44 g/mol)|44|2|0,5|1|3|n = 44/44 = 1 mol.
+0,5 mol O₂ kaç gramdır? (O = 16)|16|32|64|8|0|O₂ = 32 g/mol; m = 0,5·32 = 16 g.
+Normal koşullarda (NK) 11,2 L O₂ gazı kaç moldür? (NK'da 1 mol gaz 22,4 L)|0,25|2|1|0,5|3|n = V/22,4 = 11,2/22,4 = 0,5 mol.
+3 mol H₂O molekülü kaç tanecik (molekül) içerir?|1,806·10²⁴|3,01·10²³|1,806·10²³|6,02·10²³|0|1 mol 6,02·10²³ tanecik içerir; 3 mol için 3·6,02·10²³ = 1,806·10²⁴ olur.

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Fotosentezin genel denklemi aşağıdakilerden hangisidir?|C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂|6O₂ + 6H₂O → C₆H₁₂O₆ + 6CO₂|6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂|C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O|2|Fotosentezde karbondioksit ve su, ışık enerjisiyle glikoz ve oksijene dönüşür.
+Fotosentezin ışığa bağımlı tepkimeleri kloroplastın neresinde gerçekleşir?|Stromada|Sitoplazmada|Dış zarda|Tilakoit zarlarında|3|Işığa bağımlı tepkimeler grana oluşturan tilakoit zarlarında gerçekleşir.
+Fotosentezde açığa çıkan oksijen hangi maddeden gelir?|Klorofilden|Glikozdan|Sudan|Karbondioksitten|2|Işığa bağımlı tepkimelerde su parçalanır ve oksijen açığa çıkar.
+Bitkilerin yeşil görünmesinin nedeni nedir?|Klorofilin yeşil ışığı yansıtması|Suyun yeşil olması|Hücre duvarının yeşil olması|Klorofilin yeşil ışığı soğurması|0|Klorofil kırmızı ve mavi ışığı soğurur, yeşil ışığı yansıtır.
+Fotosentezin ışıktan bağımsız tepkimeleri (Calvin döngüsü) kloroplastın neresinde gerçekleşir?|Tilakoit zarlarında|Sitoplazmada|Stromada|Mitokondride|2|Calvin döngüsü kloroplastın sıvı kısmı olan stromada gerçekleşir.
+Fotosentezi yapan hücrelerin organeli aşağıdakilerden hangisidir?|Kloroplast|Mitokondri|Lizozom|Ribozom|0|Fotosentez kloroplastta gerçekleşir.
+Aşağıdakilerden hangisi fotosentez hızını etkileyen bir faktör değildir?|Işık şiddeti|Karbondioksit miktarı|Ortamdaki azot gazı oranı|Sıcaklık|2|Fotosentez hızını ışık, CO₂ ve sıcaklık etkiler.
+Işık şiddeti artırıldığında fotosentez hızı belli bir noktadan sonra sabitlenir. Bunun nedeni nedir?|CO₂ ve sıcaklık gibi diğer faktörlerin sınırlayıcı olması|Bitkinin ölmesi|Işığın bitmesi|Klorofilin artması|0|Işık yeterli olduğunda hız diğer faktörlerle (CO₂, sıcaklık, enzim miktarı) sınırlanır.
+Bitkilerde gaz alışverişini sağlayan yapı hangisidir?|Kütikül|Odun borusu|Stoma|Kök tüyü|2|Stomalar yaprakta CO₂ girişini ve O₂ çıkışını sağlar.
+Işığın hangi renkleri fotosentez için daha etkilidir?|Sarı|Yeşil|Gri|Kırmızı ve mavi|3|Klorofil en çok kırmızı ve mavi ışığı soğurur.
+Fotosentezin ışığa bağımlı evresinin ürünleri aşağıdakilerden hangisidir?|ATP, NADPH ve O₂|Yalnızca su|Glikoz ve CO₂|Yalnızca glikoz|0|Işığa bağımlı evrede ATP ve NADPH yapılır, su parçalanarak O₂ açığa çıkar.
+Işığa bağımlı evrede üretilen ATP ve NADPH nerede kullanılır?|Krebs döngüsünde|Calvin döngüsünde glikoz yapımında|Glikolizde|Fermantasyonda|1|ATP ve NADPH, Calvin döngüsünde CO₂ nin glikoza dönüştürülmesi için gerekir.
+Bir ekosistemde yer alan canlılarla cansız çevre bileşenlerinin tümüne ne ad verilir?|Tür|Ekosistem|Popülasyon|Komünite|1|Canlı ve cansız bileşenlerin etkileşim içindeki bütünü ekosistemdir.
+Aşağıdakilerden hangisi üretici canlıdır?|Bakteri (çürükçül)|Aslan|Ot|Tavşan|2|Fotosentezle besin yapan canlılar üreticidir.
+Çürükçül bakteriler ve mantarlar besin zincirinde hangi göreve sahiptir?|Birincil tüketici|İkincil tüketici|Ayrıştırıcı|Üretici|2|Ölü organik maddeleri ayrıştırarak inorganik maddelere dönüştürürler.
+Bir canlının yaşadığı doğal ortama ne ad verilir?|Komünite|Niş|Habitat|Biyosfer|2|Canlının yaşadığı ortam habitattır; ekosistemdeki rolü ise nişidir.
+Bir canlının ekosistemdeki yeri ve rolü (beslenme, üreme, ilişkiler) bütününe ne ad verilir?|Popülasyon|Niş|Habitat|Komünite|1|Niş, canlının ekosistemdeki tüm rollerini ifade eder.
+Aynı niş için yarışan iki türün ilişkisi nasıl adlandırılır?|Parazitlik|Rekabet|Mutualizm|Kommensalizm|1|Aynı kaynağı kullanmaya çalışan türler arasında rekabet olur.
+Karbon döngüsünde atmosferdeki CO₂ canlılara hangi olayla girer?|Solunum|Çürüme|Yanma|Fotosentez|3|Bitkiler CO₂ yi fotosentezle organik maddeye çevirir.
+Atmosferdeki azot gazını (N₂) bitkilerin kullanabileceği hâle getiren canlılar hangileridir?|Alg|Azot bağlayıcı bakteriler|Hayvanlar|Mantarlar|1|Baklagil köklerindeki bazı bakteriler N₂ yi amonyağa çevirir.
+Su döngüsünde bitkilerden su buharı olarak suyun atmosfere geçmesine ne denir?|Donma|Yoğuşma|Terleme (transpirasyon)|Erime|2|Bitkiler stomalardan su buharı verir; buna terleme denir.
+İki canlıdan birinin yararlandığı, diğerinin zarar gördüğü ilişkiye ne ad verilir?|Mutualizm|Kommensalizm|Parazitlik|Rekabet|2|Parazit konağa zarar verirken kendi yararlanır.
+İki canlının da yararlandığı birlikte yaşama biçimine ne ad verilir?|Rekabet|Mutualizm|Avcılık|Parazitlik|1|İki türün de yarar sağladığı ilişkiye mutualizm denir.
+Likenler (algler ve mantarların birlikte yaşaması) hangi ilişkiye örnektir?|Mutualizm|Avcılık|Parazitlik|Rekabet|0|Alg besin üretir, mantar koruma ve su sağlar; ikisi de yararlanır.
+Aşağıdaki besin zincirlerinden hangisi doğru sıralanmıştır?|Çekirge → ot → kurbağa → yılan|Ot → çekirge → kurbağa → yılan|Kurbağa → ot → yılan → çekirge|Yılan → kurbağa → çekirge → ot|1|Zincir üreticiden başlar ve her halka bir sonrakini besler.
+Bir popülasyonun büyüklüğünü artıran etkenler hangileridir?|Doğum ve göçle gelen birey sayısı|Yalnızca ölüm|Yalnızca göçle ayrılma|Ölüm ve göçle ayrılan birey sayısı|0|Doğumlar ve içe göç popülasyonu artırır; ölümler ve dışa göç azaltır.
+Bir alanda 10 km² de 200 birey yaşıyorsa popülasyon yoğunluğu kaç birey/km² dir?|0,05|210|2 000|20|3|Yoğunluk = birey sayısı / alan = 200/10 = 20 birey/km².
+Fotosentezde karbondioksitin şekere dönüştürüldüğü ışıktan bağımsız evre hangi adla bilinir?|Krebs döngüsü|Glikoliz|Fotoliz|Calvin döngüsü|3|Calvin döngüsünde ATP ve NADPH kullanılarak CO₂ glikoza dönüştürülür.
+Birden fazla besin zincirinin birbirine bağlanmasıyla oluşan yapıya ne ad verilir?|Popülasyon|Niş|Enerji piramidi|Besin ağı|3|Ekosistemde canlılar birden çok canlıyla beslendiğinden zincirler birbirine bağlanır ve besin ağı oluşur.
+Yeryüzünde canlıların yaşadığı tüm alanların oluşturduğu bütüne ne ad verilir?|Komünite|Habitat|Ekosistem|Biyosfer|3|Biyosfer, canlıların bulunduğu tüm ekosistemleri kapsayan en geniş organizasyon düzeyidir.

@@ -1,0 +1,4 @@
+{
+  "İkinci dereceden denklemler ve kökler": "ax² + bx + c = 0 biçimindeki denklemler çarpanlara ayırma, tam kareye tamamlama veya diskriminant (Δ = b² − 4ac) ile çözülür. Δ > 0 ise iki farklı gerçek kök, Δ = 0 ise çift katlı kök, Δ < 0 ise gerçek kök yoktur. Kökler toplamı −b/a, kökler çarpımı c/a dır.",
+  "Karesel fonksiyon, eşitsizlik, karekök ve rasyonel ifadeler": "f(x) = ax² + bx + c fonksiyonunun grafiği parabol, tepe noktası (r, k) dır; r = −b/(2a). a > 0 ise kollar yukarı, a < 0 ise aşağı doğrudur. İkinci dereceden eşitsizlikler köklerin işaret tablosuyla çözülür. Karekök ve rasyonel fonksiyonlarda tanım kümesi kök içi ve payda koşullarından bulunur."
+}

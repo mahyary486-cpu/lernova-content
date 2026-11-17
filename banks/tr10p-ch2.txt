@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Dalgalar aşağıdakilerden hangisini taşır?|Kütle|Yük|Enerji|Madde|2|Dalgalar ortamdaki maddeyi taşımadan enerji aktarır.
+Aşağıdakilerden hangisi elektromanyetik dalgadır?|Işık|Yay dalgası|Ses|Su dalgası|0|Işık elektromanyetik dalgadır ve boşlukta da yayılır.
+Aşağıdakilerden hangisi doğrudur?|Işık enine, ses boyuna dalgadır|İkisi de boyunadır|İkisi de enine dalgadır|Işık boyuna, ses enine dalgadır|0|Işık enine bir dalgadır; havadaki ses dalgası ise boyuna dalgadır.
+Dalga boyunun sembolü ve SI birimi aşağıdakilerden hangisidir?|λ, metre|v, m/s|T, saniye|f, hertz|0|Dalga boyu λ ile gösterilir ve birimi metredir.
+Frekansın SI birimi aşağıdakilerden hangisidir?|Metre|Hertz|Joule|Saniye|1|Frekans saniyedeki tam dalga sayısıdır; birimi hertz (Hz) dir.
+Periyodu 0,02 s olan bir dalganın frekansı kaç Hz dir?|5|500|0,02|50|3|f = 1/T = 1/0,02 = 50 Hz.
+Frekansı 5 Hz olan bir dalganın periyodu kaç s dir?|2|0,2|0,5|5|1|T = 1/f = 1/5 = 0,2 s.
+Dalga boyu 2 m ve frekansı 10 Hz olan bir dalganın yayılma hızı kaç m/s dir?|0,2|5|20|12|2|v = λ·f = 2·10 = 20 m/s.
+Hızı 340 m/s olan bir ses dalgasının frekansı 170 Hz ise dalga boyu kaç m dir?|4|2|0,5|57 800|1|λ = v/f = 340/170 = 2 m.
+Bir dalganın denge konumundan en uzak noktasına olan uzaklığa ne ad verilir?|Dalga boyu|Genlik|Frekans|Periyot|1|Titreşim hareketinde denge konumundan en büyük uzaklığa genlik denir.
+Aşağıdakilerden hangisi enine dalgadır?|Depremin P dalgası|Sıkışma ve genişlemelerden oluşan yay dalgası|Havadaki ses dalgası|Su yüzeyi dalgaları|3|Su yüzeyi dalgalarında titreşim yayılma doğrultusuna diktir; enine dalgadır.
+Boyuna dalgalarda ortamın tanecikleri nasıl titreşir?|Dairesel|Yayılma doğrultusunda|Hiç titreşmez|Yayılma doğrultusuna dik|1|Boyuna dalgada titreşim yönü, dalganın yayılma yönüyle aynıdır.
+Ses dalgaları hakkında aşağıdakilerden hangisi doğrudur?|Boşlukta yayılmaz|Boşlukta yayılır|Yalnızca gazlarda yayılır|Elektromanyetik dalgadır|0|Ses mekanik bir dalgadır; yayılması için madde ortamı gerekir.
+Sesin 20 °C deki havada yaklaşık hızı kaç m/s dir?|300 000|340|34|3 400|1|Havada ses yaklaşık 340 m/s hızla yayılır.
+Sesin yayılma hızı için aşağıdaki sıralamalardan hangisi doğrudur?|Hepsinde eşittir|Katı > sıvı > gaz|Gaz > sıvı > katı|Sıvı > katı > gaz|1|Taneciklerin etkileşimi katılarda en güçlü olduğundan ses en hızlı katıda, en yavaş gazda yayılır.
+Işığın boşluktaki yaklaşık hızı kaç m/s dir?|3·10¹⁰|3·10⁵|340|3·10⁸|3|Işığın boşluktaki hızı yaklaşık 3·10⁸ m/s dir.
+Yansıma kanununa göre gelme açısı ile yansıma açısı arasındaki ilişki nedir?|Gelme açısı büyüktür|Yansıma açısı büyüktür|Toplamları 90° dir|Eşittir|3|Yansıma kanunu: gelme açısı yansıma açısına eşittir.
+Bir düz aynaya normale göre 30° lik açıyla gelen ışın için gelen ve yansıyan ışınlar arasındaki açı kaç derecedir?|90|30|60|120|2|Yansıma açısı da 30° dir; gelen ve yansıyan ışınlar arasındaki açı 30° + 30° = 60° dir.
+Düz aynada oluşan görüntü için aşağıdakilerden hangisi doğrudur?|Gerçek ve küçüktür|Sanal ve cisimle aynı büyüklüktedir|Gerçek ve büyüktür|Sanal ve cisimden büyüktür|1|Düz aynada görüntü sanal, düz ve cisimle aynı boydadır.
+Işık az yoğun ortamdan çok yoğun ortama geçerken kırılma nasıl olur?|Kırılmaz|Geri döner|Normalden uzaklaşır|Normale yaklaşır|3|Çok yoğun ortamda ışık yavaşlar ve normale yaklaşacak şekilde kırılır.
+Kırılma indisi 1,5 olan camda ışığın hızı kaç m/s dir? (c = 3·10⁸ m/s)|2·10⁸|1,5·10⁸|3·10⁸|4,5·10⁸|0|n = c/v olduğundan v = 3·10⁸/1,5 = 2·10⁸ m/s.
+Yankı olayı sesin hangi özelliğinden kaynaklanır?|Kırılma|Girişim|Yansıma|Soğurulma|2|Yankı, sesin bir engelden yansıyarak geri dönmesidir.
+Bir kişi bağırdıktan 2 s sonra yankıyı duyuyor. Ses hızı 340 m/s ise engelin uzaklığı kaç m dir?|340|170|680|1 360|0|Ses gidiş ve dönüş yaptığı için toplam yol 340·2 = 680 m ve engel 680/2 = 340 m uzaklıktadır.
+Bir ses kaynağının frekansı artırılırsa sesin hangi özelliği değişir?|Sesin şiddeti artar|Sesin rengi değişir|Sesin tizliği artar|Sesin havadaki hızı artar|2|Frekans arttıkça ses tizleşir; şiddeti genlikle ilgilidir.
+Sesin şiddeti hangi niceliğe bağlıdır?|Frekans|Periyot|Dalga boyu|Genlik|3|Genlik arttıkça sesin şiddeti artar.
+Ses şiddeti seviyesinin birimi aşağıdakilerden hangisidir?|Metre|Desibel|Hertz|Watt|1|Ses şiddeti seviyesi desibel (dB) ile ifade edilir.
+Bir dalga bir ortamdan başka bir ortama geçerken aşağıdakilerden hangisi değişmez?|Yayılma yönü|Hız|Dalga boyu|Frekans|3|Frekansı kaynak belirler; ortam değişse de frekans aynı kalır, hız ve dalga boyu değişir.
+Aşağıdakilerden hangisi mekanik bir dalga değildir?|Deprem dalgası|Ses dalgası|Su dalgası|Radyo dalgası|3|Radyo dalgası elektromanyetik bir dalgadır; diğerleri mekanik dalgadır.
+Dalga boyu 4 m, periyodu 2 s olan bir dalganın hızı kaç m/s dir?|2|8|6|0,5|0|v = λ/T = 4/2 = 2 m/s.
+Frekansı 20 Hz ve dalga boyu 3 m olan bir dalga 6 saniyede kaç metre yol alır?|180|120|60|360|3|v = λ·f = 3·20 = 60 m/s ve yol = 60·6 = 360 m.
