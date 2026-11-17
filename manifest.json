@@ -81,11 +81,11 @@
    "year": "2026-2027"
   },
   "TR": {
-   "bytes": 111905,
+   "bytes": 235913,
    "currentYear": "2026-2027",
-   "files": 40,
+   "files": 80,
    "name": "Turkey",
-   "rev": "1c004faff6",
+   "rev": "b60eea1bcb",
    "year": "2026-2027"
   },
   "US": {
