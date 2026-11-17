@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 10,
+   "country": "AR",
+   "subject": "Chemistry",
+   "chapters": [
+    {
+     "id": "ar-c10-01",
+     "title": "Formulación y nomenclatura de compuestos inorgánicos",
+     "lessons": [
+      {
+       "id": "ar-c10-01-01",
+       "title": "Números de oxidación y óxidos"
+      },
+      {
+       "id": "ar-c10-01-02",
+       "title": "Hidróxidos y ácidos"
+      },
+      {
+       "id": "ar-c10-01-03",
+       "title": "Sales"
+      }
+     ]
+    },
+    {
+     "id": "ar-c10-02",
+     "title": "Estequiometría, reactivo limitante y rendimiento",
+     "lessons": [
+      {
+       "id": "ar-c10-02-01",
+       "title": "Cálculos con moles y masas"
+      },
+      {
+       "id": "ar-c10-02-02",
+       "title": "Reactivo limitante y en exceso"
+      },
+      {
+       "id": "ar-c10-02-03",
+       "title": "Rendimiento y pureza"
+      }
+     ]
+    },
+    {
+     "id": "ar-c10-03",
+     "title": "Gases ideales y sus leyes",
+     "lessons": [
+      {
+       "id": "ar-c10-03-01",
+       "title": "Teoría cinética y variables de estado"
+      },
+      {
+       "id": "ar-c10-03-02",
+       "title": "Leyes de Boyle, Charles y Gay-Lussac"
+      },
+      {
+       "id": "ar-c10-03-03",
+       "title": "Ecuación de estado y volumen molar"
+      }
+     ]
+    },
+    {
+     "id": "ar-c10-04",
+     "title": "Termoquímica y velocidad de reacción",
+     "lessons": [
+      {
+       "id": "ar-c10-04-01",
+       "title": "Calor, temperatura y calorimetría"
+      },
+      {
+       "id": "ar-c10-04-02",
+       "title": "Reacciones exotérmicas y endotérmicas"
+      },
+      {
+       "id": "ar-c10-04-03",
+       "title": "Velocidad de reacción y catalizadores"
+      }
+     ]
+    },
+    {
+     "id": "ar-c10-05",
+     "title": "Ácidos, bases, pH y equilibrio químico",
+     "lessons": [
+      {
+       "id": "ar-c10-05-01",
+       "title": "Teoría de ácidos y bases y pH"
+      },
+      {
+       "id": "ar-c10-05-02",
+       "title": "Ácidos y bases fuertes y débiles, neutralización"
+      },
+      {
+       "id": "ar-c10-05-03",
+       "title": "Equilibrio químico y principio de Le Châtelier"
+      }
+     ]
+    },
+    {
+     "id": "ar-c10-06",
+     "title": "Introducción a la química orgánica",
+     "lessons": [
+      {
+       "id": "ar-c10-06-01",
+       "title": "El carbono y los hidrocarburos"
+      },
+      {
+       "id": "ar-c10-06-02",
+       "title": "Grupos funcionales y compuestos de uso cotidiano"
+      },
+      {
+       "id": "ar-c10-06-03",
+       "title": "Petróleo, combustibles y polímeros"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

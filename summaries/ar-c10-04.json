@@ -1,0 +1,5 @@
+{
+ "Calor, temperatura y calorimetría": "El calor es energía transferida entre cuerpos por una diferencia de temperatura. La cantidad de calor es Q = m·c·ΔT, donde c es el calor específico (agua: 1 cal/g·°C o 4,18 J/g·°C). En un sistema aislado el calor cedido por un cuerpo es igual al absorbido por el otro.",
+ "Reacciones exotérmicas y endotérmicas": "En las reacciones exotérmicas se libera energía (ΔH < 0): combustiones, neutralizaciones. En las endotérmicas se absorbe energía (ΔH > 0): fotosíntesis, descomposición térmica. La energía de los reactivos y productos se representa en un diagrama de entalpía.",
+ "Velocidad de reacción y catalizadores": "La velocidad de reacción depende de la temperatura, la concentración, la superficie de contacto y los catalizadores. Según la teoría de las colisiones, las partículas deben chocar con orientación y energía suficientes (energía de activación). Un catalizador disminuye la energía de activación sin consumirse."
+}

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Cuál es la fórmula molecular del nonano?|C₉H₁₈|C₉H₂₀|C₉H₂₂|C₉H₁₉|1|Los alcanos cumplen CₙH₂ₙ₊₂: con n = 9, H = 20.
+Los hidrocarburos están formados solo por:|Hidrógeno y oxígeno|Carbono y oxígeno|Carbono y nitrógeno|Carbono e hidrógeno|3|Pueden ser alcanos, alquenos y alquinos.
+¿Cuál es el nombre del compuesto CH₃–CH₂–OH?|Etano|Etanol|Metanol|Propanol|1|Es un alcohol de dos carbonos.
+¿Cuál es el elemento base de la química orgánica?|Helio|Sodio|Hierro|Carbono|3|El carbono forma cadenas y enlaces covalentes.
+¿Cuántos enlaces forma normalmente el carbono?|3|2|4|1|2|Es tetravalente.
+¿Cuál es la fórmula molecular del butano?|C₄H₉|C₄H₁₀|C₄H₈|C₄H₁₂|1|Los alcanos cumplen CₙH₂ₙ₊₂: con n = 4, H = 10.
+¿Cuál es el principal componente del gas natural?|Metano|Etanol|Butano|Propano|0|Es el alcano más simple (CH₄).
+¿Cuál es la fórmula molecular del propano?|C₃H₇|C₃H₈|C₃H₆|C₃H₁₀|1|Los alcanos cumplen CₙH₂ₙ₊₂: con n = 3, H = 8.
+¿Cuál es la fórmula molecular del heptano?|C₇H₁₆|C₇H₁₅|C₇H₁₈|C₇H₁₄|0|Los alcanos cumplen CₙH₂ₙ₊₂: con n = 7, H = 16.
+¿Cuál es la fórmula molecular del pentano?|C₅H₁₀|C₅H₁₁|C₅H₁₂|C₅H₁₄|2|Los alcanos cumplen CₙH₂ₙ₊₂: con n = 5, H = 12.
+¿Cuántos átomos de hidrógeno tiene el hexino (alquino de 6 carbonos)?|12|6|10|14|2|Los alquinos cumplen CₙH₂ₙ₋₂: 10 átomos de H.
+¿Qué grupo funcional caracteriza a los ácidos carboxílicos?|–NH₂|–OH|–COOH|–CO–|2|Por ejemplo, el ácido acético del vinagre.
+¿Cuántos átomos de hidrógeno tiene el buteno (alqueno de 4 carbonos)?|10|4|6|8|3|Los alquenos cumplen CₙH₂ₙ: 8 átomos de H.
+¿Cuántos átomos de hidrógeno tiene el propeno (alqueno de 3 carbonos)?|3|6|8|4|1|Los alquenos cumplen CₙH₂ₙ: 6 átomos de H.
+¿Cuántos átomos de hidrógeno tiene el penteno (alqueno de 5 carbonos)?|8|12|10|5|2|Los alquenos cumplen CₙH₂ₙ: 10 átomos de H.
+¿Qué son los isómeros?|Mezclas|Compuestos con la misma fórmula molecular y distinta estructura|Átomos de igual Z|Compuestos con distinta fórmula|1|Por ejemplo, butano e isobutano.
+¿Qué grupo funcional caracteriza a los alcoholes?|–OH|–CHO|–NH₂|–COOH|0|Es el grupo hidroxilo.
+¿Qué hidrocarburo tiene un triple enlace?|Alqueno|Éter|Alcano|Alquino|3|Por ejemplo, el etino (acetileno).
+¿Cuántos átomos de hidrógeno tiene el butino (alquino de 4 carbonos)?|6|8|10|4|0|Los alquinos cumplen CₙH₂ₙ₋₂: 6 átomos de H.
+¿Cuántos átomos de hidrógeno tiene el heptino (alquino de 7 carbonos)?|16|12|7|14|1|Los alquinos cumplen CₙH₂ₙ₋₂: 12 átomos de H.
+¿Qué fórmula general tienen los alcanos?|CₙHₙ|CₙH₂ₙ₋₂|CₙH₂ₙ|CₙH₂ₙ₊₂|3|Son hidrocarburos saturados.
+¿Qué nombre recibe el CH₃–COOH?|Etano|Metanol|Ácido etanoico (acético)|Etanol|2|Es el principal componente del vinagre.
+¿Por qué la combustión incompleta es peligrosa?|Produce agua|Produce monóxido de carbono, un gas tóxico|Produce un metal|Produce oxígeno|1|Ocurre en estufas mal ventiladas.
+¿Cuál es el polímero que se obtiene del eteno?|Poliéster|Caucho|Nailon|Polietileno|3|Se usa en bolsas y envases.
+El petróleo es una mezcla de:|Sales|Hidrocarburos|Metales|Óxidos|1|Se separa por destilación fraccionada.
+¿Qué es un polímero?|Un átomo|Un metal|Una macromolécula formada por muchas unidades repetidas|Una sal|2|Por ejemplo, el polietileno.
+¿Cuál es el producto de la combustión completa del metano?|CO₂ y H₂|C y H₂O|CO y H₂|CO₂ y H₂O|3|CH₄ + 2 O₂ → CO₂ + 2 H₂O.
+¿Qué hidrocarburo tiene un doble enlace entre carbonos?|Alqueno|Alcano|Alquino|Alcohol|0|Por ejemplo, el eteno.
+¿Cuántos átomos de hidrógeno tiene el hexeno (alqueno de 6 carbonos)?|6|10|14|12|3|Los alquenos cumplen CₙH₂ₙ: 12 átomos de H.
+¿Cuántos átomos de hidrógeno tiene el propino (alquino de 3 carbonos)?|6|3|8|4|3|Los alquinos cumplen CₙH₂ₙ₋₂: 4 átomos de H.

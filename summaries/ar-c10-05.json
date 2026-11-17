@@ -1,0 +1,5 @@
+{
+ "Teoría de ácidos y bases y pH": "Según Arrhenius, los ácidos liberan H⁺ y las bases liberan OH⁻ en agua. El pH mide la acidez: pH = −log[H⁺] y pOH = −log[OH⁻]; a 25 °C, pH + pOH = 14. Una variación de una unidad de pH equivale a diez veces la concentración de H⁺.",
+ "Ácidos y bases fuertes y débiles, neutralización": "Los ácidos y bases fuertes se disocian casi totalmente (HCl, NaOH); los débiles solo parcialmente (ácido acético, amoníaco). En una neutralización un ácido y una base reaccionan para dar sal y agua. Los indicadores y las soluciones amortiguadoras permiten detectar y controlar el pH.",
+ "Equilibrio químico y principio de Le Châtelier": "En un equilibrio químico las velocidades de la reacción directa e inversa son iguales y las concentraciones permanecen constantes. Si se perturba el sistema (concentración, temperatura, presión), este se desplaza para contrarrestar el cambio (principio de Le Châtelier)."
+}

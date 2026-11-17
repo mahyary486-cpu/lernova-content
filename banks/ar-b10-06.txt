@@ -1,0 +1,30 @@
+#EEEEEEEEEEMMMMMMMMMHHHHHHHHHH
+¿Qué es un bioma?|Un individuo|Un tipo de roca|Una gran región con clima y vegetación característicos|Una célula|2|Por ejemplo, la pampa.
+¿Qué es la biodiversidad?|Un nutriente|Un clima|La variedad de seres vivos, genes y ecosistemas|Una especie|2|Es un indicador de salud de los ecosistemas.
+¿Qué proceso del ciclo del carbono retira CO₂ de la atmósfera?|Fotosíntesis|Combustión|Descomposición|Respiración|0|Las plantas fijan carbono.
+¿Qué es la densidad de población?|El número de especies|El número de individuos por unidad de área o volumen|La edad media|La masa total|1|Se expresa en individuos/km².
+¿Cuál es una fuente de energía renovable?|Petróleo|Gas natural|Solar|Carbón|2|El Sol, el viento y el agua se renuevan.
+¿Qué es una población?|Todas las especies de un lugar|Un bioma|Individuos de una misma especie en un lugar y momento|Un ecosistema|2|Tiene densidad, natalidad y mortalidad.
+¿Qué organismos fijan nitrógeno en las raíces de las leguminosas?|Bacterias|Hongos|Virus|Protozoos|0|Por ejemplo, Rhizobium, en la soja.
+¿Qué gas aumenta el efecto invernadero por la quema de combustibles fósiles?|Nitrógeno|Dióxido de carbono|Oxígeno|Helio|1|También el metano.
+¿Qué tipo de bioma es la Pampa argentina?|Desierto|Tundra|Pastizal|Selva|2|Predominan las gramíneas.
+¿Qué es una comunidad biológica?|Conjunto de poblaciones de distintas especies que interactúan|Un órgano|Una sola especie|Un ambiente sin seres vivos|0|Forma parte del ecosistema.
+¿Qué es la capacidad de carga?|El número máximo de individuos que el ambiente puede sostener|El tamaño de un individuo|La cantidad de alimento|La velocidad de crecimiento|0|Depende de los recursos disponibles.
+¿Qué es una especie invasora?|Una domesticada|Una nativa|Una extinta|Una introducida que se expande y daña a las nativas|3|Por ejemplo, el jabalí europeo.
+¿Cuál es el principal reservorio de nitrógeno?|Los seres vivos|Las rocas|Los océanos|La atmósfera|3|Constituye el 78 % del aire.
+¿Qué proceso devuelve CO₂ a la atmósfera?|Fotosíntesis|Respiración y combustión|Condensación|Fijación de nitrógeno|1|También la descomposición.
+¿Cuál es el nombre de la relación entre depredador y presa?|Mutualismo|Parasitismo|Depredación|Comensalismo|2|Regula el tamaño de las poblaciones.
+El crecimiento limitado por recursos se llama:|Exponencial|Logístico|Lineal|Nulo|1|Forma una curva en S.
+¿Qué dos factores aumentan el tamaño de una población?|Mortalidad y emigración|Natalidad e inmigración|Solo la inmigración|Mortalidad y natalidad|1|Las otras dos lo disminuyen.
+¿Qué es un factor limitante?|Una enfermedad|Un nutriente abundante|Un recurso o condición que restringe el crecimiento de una población|Una especie|2|Por ejemplo, el agua o el alimento.
+El crecimiento de una población en condiciones ideales sin límites se llama:|Estable|Decreciente|Logístico|Exponencial|3|Forma una curva en J.
+¿Cuál es la consecuencia del aumento del CO₂ atmosférico?|Menos lluvia siempre|Mayor capa de ozono|Aumento de la temperatura global|Disminución de la temperatura global|2|Intensifica el efecto invernadero.
+¿Qué consecuencia tiene el derretimiento de los glaciares?|Aumento del nivel del mar|Disminución del nivel del mar|Más ozono|Menos agua en los océanos|0|Los glaciares patagónicos están retrocediendo.
+¿Qué es la huella ecológica?|Un contaminante|La superficie necesaria para sostener el consumo de una persona o sociedad|Un tipo de fósil|Una marca en el suelo|1|Mide el impacto ambiental.
+La acidificación de los océanos se debe a:|La sal|El oxígeno|El CO₂ disuelto en agua|El nitrógeno|2|Se forma ácido carbónico.
+¿Qué es el desarrollo sustentable?|Satisfacer las necesidades actuales sin comprometer las de las generaciones futuras|No usar recursos|Consumir al máximo|Proteger una sola especie|0|Integra economía, sociedad y ambiente.
+¿Qué ley argentina establece los presupuestos mínimos de protección ambiental?|Ley de Tránsito|Ley General del Ambiente 25.675|Ley de Glaciares únicamente|Ley de Educación|1|Se sancionó en 2002.
+¿Qué es la eutrofización?|El crecimiento excesivo de algas por exceso de nutrientes|La sequía|Un tipo de erosión|La falta de nutrientes|0|Disminuye el oxígeno disuelto.
+¿Cuál es el efecto de la deforestación sobre el ciclo del carbono?|Reduce la fijación de CO₂ y libera el almacenado|Disminuye el CO₂ siempre|No lo afecta|Aumenta la fotosíntesis|0|Se pierde un sumidero de carbono.
+¿Qué acuerdo internacional busca limitar el calentamiento global?|Acuerdo de París|Protocolo de Kioto solamente|Convención de Ginebra|Tratado de Tordesillas|0|Propone mantener el aumento por debajo de 2 °C.
+¿Qué medida reduce las emisiones de gases de efecto invernadero?|Deforestar|Usar energías renovables y transporte público|Quemar más combustibles|Aumentar los residuos|1|Hay medidas individuales y colectivas.

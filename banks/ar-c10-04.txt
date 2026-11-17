@@ -1,0 +1,27 @@
+#EEEEEEEEEMMMMMMMMMMHHHHHHH
+¿Cuántas calorías se necesitan para calentar 200 g de agua (c = 1 cal/g·°C) 20 °C?|220 cal|8000 cal|4000 cal|10 cal|2|Q = m·c·ΔT = 200 · 1 · 20 = 4000 cal.
+Una reacción que libera energía al entorno es:|Endotérmica|Neutra|Nuclear|Exotérmica|3|Tiene ΔH negativo.
+Una reacción que absorbe energía del entorno es:|Endotérmica|Neutra|Exotérmica|Espontánea siempre|0|Tiene ΔH positivo.
+¿Cuántas calorías se necesitan para calentar 100 g de agua (c = 1 cal/g·°C) 10 °C?|10 cal|1000 cal|2000 cal|110 cal|1|Q = m·c·ΔT = 100 · 1 · 10 = 1000 cal.
+La combustión de la nafta es:|Una disolución|Exotérmica|Endotérmica|Un cambio físico|1|Libera calor y luz.
+¿Cuántas calorías se necesitan para calentar 50 g de agua (c = 1 cal/g·°C) 30 °C?|80 cal|3000 cal|1,667 cal|1500 cal|3|Q = m·c·ΔT = 50 · 1 · 30 = 1500 cal.
+¿Cuántas calorías se necesitan para calentar 250 g de agua (c = 1 cal/g·°C) 8 °C?|31,25 cal|4000 cal|2000 cal|258 cal|2|Q = m·c·ΔT = 250 · 1 · 8 = 2000 cal.
+¿Qué es el calor?|Una sustancia|Energía en tránsito por una diferencia de temperatura|La temperatura|Un tipo de materia|1|Fluye del cuerpo más caliente al más frío.
+Una muestra de 200 g de agua absorbe 3000 cal. ¿Cuánto aumenta su temperatura? (c = 1 cal/g·°C)|30 °C|0,067 °C|15 °C|600000 °C|2|ΔT = Q/(m·c) = 3000/200 = 15 °C.
+Una reacción libera 50 kJ por mol. ¿Cuánto calor libera cuando reaccionan 4 mol?|54 kJ|200 kJ|12,5 kJ|100 kJ|1|Q = 50 · 4 = 200 kJ liberados (ΔH negativa).
+La fotosíntesis es un proceso:|Nuclear|Exotérmico|Endotérmico|De combustión|2|Absorbe energía lumínica.
+¿Qué factor NO aumenta la velocidad de una reacción?|Aumentar la temperatura|Disminuir la temperatura|Aumentar la superficie de contacto|Aumentar la concentración|1|Menor temperatura implica menos choques efectivos.
+Una reacción libera 50 kJ por mol. ¿Cuánto calor libera cuando reaccionan 2 mol?|25 kJ|52 kJ|100 kJ|101 kJ|2|Q = 50 · 2 = 100 kJ liberados (ΔH negativa).
+Una muestra de 100 g de agua absorbe 1200 cal. ¿Cuánto aumenta su temperatura? (c = 1 cal/g·°C)|12 °C|120000 °C|0,083 °C|24 °C|0|ΔT = Q/(m·c) = 1200/100 = 12 °C.
+Una muestra de 50 g de agua absorbe 500 cal. ¿Cuánto aumenta su temperatura? (c = 1 cal/g·°C)|10 °C|0,1 °C|20 °C|25000 °C|0|ΔT = Q/(m·c) = 500/50 = 10 °C.
+Una muestra de 300 g de agua absorbe 6000 cal. ¿Cuánto aumenta su temperatura? (c = 1 cal/g·°C)|20 °C|0,05 °C|1800000 °C|40 °C|0|ΔT = Q/(m·c) = 6000/300 = 20 °C.
+Una reacción libera 50 kJ por mol. ¿Cuánto calor libera cuando reaccionan 3 mol?|150 kJ|16,667 kJ|100 kJ|53 kJ|0|Q = 50 · 3 = 150 kJ liberados (ΔH negativa).
+¿Qué es la energía de activación?|La masa|La energía mínima necesaria para iniciar una reacción|La energía total|La energía liberada|1|Los reactivos deben superar esa barrera.
+¿Qué hace un catalizador?|Cambia ΔH|Aumenta la energía de los productos|Se consume|Disminuye la energía de activación|3|Aumenta la velocidad sin consumirse.
+¿Qué indica el signo negativo de ΔH?|Cambia la masa|La reacción libera calor|La reacción absorbe calor|No hay reacción|1|ΔH < 0 significa exotérmica.
+Por cada 10 °C que aumenta la temperatura, la velocidad de una reacción se duplica. Si aumenta 30 °C, ¿cuántas veces más rápida es?|6 veces|16 veces|3 veces|8 veces|3|Se duplica 3 veces: 2^3 = 8.
+En un diagrama de energía de una reacción exotérmica, los productos tienen:|Menos energía que los reactivos|La misma energía|Energía nula|Más energía|0|La diferencia es el calor liberado.
+¿Por qué los alimentos se conservan más tiempo en la heladera?|Porque se enfrían los reactivos|Porque las reacciones de descomposición son más lentas a baja temperatura|Porque cambian de masa|Porque no hay bacterias|1|Es un efecto de la temperatura sobre la velocidad.
+Por cada 10 °C que aumenta la temperatura, la velocidad de una reacción se duplica. Si aumenta 40 °C, ¿cuántas veces más rápida es?|4 veces|16 veces|8 veces|32 veces|1|Se duplica 4 veces: 2^4 = 16.
+Un comprimido efervescente se disuelve más rápido en polvo que entero porque:|Aumenta la superficie de contacto|Cambia la masa|Disminuye la temperatura|Se agrega catalizador|0|Hay más choques entre partículas.
+Por cada 10 °C que aumenta la temperatura, la velocidad de una reacción se duplica. Si aumenta 20 °C, ¿cuántas veces más rápida es?|2 veces|8 veces|4 veces|5 veces|2|Se duplica 2 veces: 2^2 = 4.

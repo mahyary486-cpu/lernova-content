@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
+¿El número √16 es racional o irracional?|No es un número real|Irracional|Racional|Entero negativo|2|Es racional: √16 = 4.
+¿El número 0,25 es racional o irracional?|Racional|No es un número real|Entero negativo|Irracional|0|Es racional: 0,25 = 1/4.
+¿El número √49 es racional o irracional?|No es un número real|Racional|Entero negativo|Irracional|1|Es racional: √49 = 7 es un número entero.
+¿Entre qué dos números enteros consecutivos está √43?|7 y 8|3 y 4|6 y 7|5 y 6|2|6² = 36 y 7² = 49, y 43 está entre ellos.
+Expresá la desigualdad x ≤ −3 como intervalo.|(−∞; −3)|(−∞; −3]|(−3; +∞)|[−3; +∞)|1|Los paréntesis excluyen el extremo y los corchetes lo incluyen: (−∞; −3].
+Expresá la desigualdad x ≥ −4 como intervalo.|(−4; +∞)|[−4; +∞)|(−∞; −4)|(−∞; −4]|1|Los paréntesis excluyen el extremo y los corchetes lo incluyen: [−4; +∞).
+Expresá la desigualdad x > 1 como intervalo.|(−∞; 1)|(1; +∞)|[1; +∞)|(−∞; 1]|1|Los paréntesis excluyen el extremo y los corchetes lo incluyen: (1; +∞).
+¿Entre qué dos números enteros consecutivos está √15?|2 y 3|1 y 2|3 y 4|4 y 5|2|3² = 9 y 4² = 16, y 15 está entre ellos.
+¿Cuánto vale el valor absoluto de −12?|−12|11|12|13|2|El valor absoluto es la distancia al 0, siempre positiva: el valor absoluto de −12 es 12.
+¿Cuánto vale el valor absoluto de 14?|15|13|−14|14|3|El valor absoluto es la distancia al 0, siempre positiva: el valor absoluto de 14 es 14.
+Expresá la desigualdad x < 2 como intervalo.|(−∞; 2]|(2; +∞)|(−∞; 2)|[2; +∞)|2|Los paréntesis excluyen el extremo y los corchetes lo incluyen: (−∞; 2).
+¿El número √5 es racional o irracional?|Entero negativo|Irracional|Racional|No es un número real|1|Es irracional: 5 no es un cuadrado perfecto.
+¿Entre qué dos números enteros consecutivos está √101?|10 y 11|9 y 10|5 y 6|11 y 12|0|10² = 100 y 11² = 121, y 101 está entre ellos.
+¿El número √2 es racional o irracional?|Entero negativo|No es un número real|Racional|Irracional|3|Es irracional: √2 tiene infinitas cifras decimales no periódicas.
+¿Cuánto vale el valor absoluto de −9?|−9|8|9|10|2|El valor absoluto es la distancia al 0, siempre positiva: el valor absoluto de −9 es 9.
+¿El número −5/7 es racional o irracional?|Entero negativo|Irracional|No es un número real|Racional|3|Es racional: es una fracción de enteros.
+Expresá la desigualdad x > 6 como intervalo.|(−∞; 6]|(−∞; 6)|[6; +∞)|(6; +∞)|3|Los paréntesis excluyen el extremo y los corchetes lo incluyen: (6; +∞).
+Resolvé la ecuación: valor absoluto de (x + 1) igual a 4.|x = 3 o x = −3|x = 4 o x = −4|x = −1 o x = 4|x = −5 o x = 3|3|x + 1 = 4 o x + 1 = −4, de donde x = −5 o x = 3.
+Dados A = (−6; 1) y B = (−3; 4), ¿cuál es A ∩ B?|(−6; 4)|(−3; 1)|(−6; −3)|(1; 4)|1|La intersección son los puntos comunes: desde el mayor de los extremos inferiores (−3) hasta el menor de los superiores (1).
+¿Qué intervalo es la solución de «el valor absoluto de (x + 1) es menor que 7»?|(−8; 6)|(−∞; −8) ∪ (6; +∞)|(−6; 8)|[−8; 6]|0|El valor absoluto de (x − a) menor que k equivale a a − k < x < a + k: (−8; 6).
+Calculá √7 · √28.|14|196|35|17|0|√7 · √28 = √196 = 14.
+Calculá √2 · √32.|8|34|64|11|0|√2 · √32 = √64 = 8.
+¿Qué intervalo es la solución de «el valor absoluto de (x − 2) es menor que 1»?|(1; 3)|[1; 3]|(−3; −1)|(−∞; 1) ∪ (3; +∞)|0|El valor absoluto de (x − a) menor que k equivale a a − k < x < a + k: (1; 3).
+¿Qué intervalo es la solución de «el valor absoluto de (x − 4) es menor que 7»?|[−3; 11]|(−3; 11)|(−11; 3)|(−∞; −3) ∪ (11; +∞)|1|El valor absoluto de (x − a) menor que k equivale a a − k < x < a + k: (−3; 11).
+Calculá √3 · √27.|12|9|30|81|1|√3 · √27 = √81 = 9.
+Resolvé la ecuación: valor absoluto de (x + 6) igual a 3.|x = −3 o x = 3|x = −6 o x = 3|x = 3 o x = −3|x = −9 o x = −3|3|x + 6 = 3 o x + 6 = −3, de donde x = −9 o x = −3.
+Dados A = (−4; 2) y B = (−1; 6), ¿cuál es A ∩ B?|(2; 6)|(−4; 6)|(−1; 2)|(−4; −1)|2|La intersección son los puntos comunes: desde el mayor de los extremos inferiores (−1) hasta el menor de los superiores (2).
+Dados A = (−5; 3) y B = (1; 8), ¿cuál es A ∩ B?|(1; 3)|(3; 8)|(−5; 1)|(−5; 8)|0|La intersección son los puntos comunes: desde el mayor de los extremos inferiores (1) hasta el menor de los superiores (3).
+Calculá √2 · √8.|16|4|10|7|1|√2 · √8 = √16 = 4.
+Resolvé la ecuación: valor absoluto de (x − 6) igual a 1.|x = 5 o x = 7|x = 1 o x = −1|x = 6 o x = 1|x = 7 o x = −7|0|x − 6 = 1 o x − 6 = −1, de donde x = 5 o x = 7.
+Resolvé la ecuación: valor absoluto de (x + 4) igual a 8.|x = 8 o x = −8|x = −4 o x = 8|x = −12 o x = 4|x = 4 o x = −4|2|x + 4 = 8 o x + 4 = −8, de donde x = −12 o x = 4.
+Dados A = (−4; 8) y B = (1; 10), ¿cuál es A ∩ B?|(−4; 10)|(8; 10)|(1; 8)|(−4; 1)|2|La intersección son los puntos comunes: desde el mayor de los extremos inferiores (1) hasta el menor de los superiores (8).
+¿Qué intervalo es la solución de «el valor absoluto de (x + 5) es menor que 7»?|(−∞; −12) ∪ (2; +∞)|[−12; 2]|(−2; 12)|(−12; 2)|3|El valor absoluto de (x − a) menor que k equivale a a − k < x < a + k: (−12; 2).
+Calculá √5 · √20.|10|25|13|100|0|√5 · √20 = √100 = 10.
+Racionalizá 4/√6 y simplificá.|4/6|2√6/3|4√6|24√6/36|1|Se multiplica numerador y denominador por √6: 4√6/6 = 2√6/3.
+Racionalizá 8/√2 y simplificá.|8/2|4√2|16√2/4|8√2|1|Se multiplica numerador y denominador por √2: 8√2/2 = 4√2.
+Calculá (4 + √2)(4 − √2).|12|14|4|18|1|Es una suma por una diferencia: 4² − (√2)² = 16 − 2 = 14.
+Racionalizá 3/√6 y simplificá.|3√6|18√6/36|3/6|√6/2|3|Se multiplica numerador y denominador por √6: 3√6/6 = √6/2.
+¿Cuál es mayor, √2 + √3 o √5?|√2 + √3|Son iguales|No se puede comparar|√5|0|Elevando al cuadrado: (√2 + √3)² = 5 + 2√6 > 5 = (√5)².
+Calculá (4 + √3)(4 − √3).|1|19|13|7|2|Es una suma por una diferencia: 4² − (√3)² = 16 − 3 = 13.
+Racionalizá 4/(√2 − 1).|4(√2 + 1)/3|4(√2 − 1)|4(√2 + 1)|4√2|2|Se multiplica por el conjugado √2 + 1: el denominador queda 2 − 1 = 1.
+Racionalizá 6/√2 y simplificá.|3√2|6/2|12√2/4|6√2|0|Se multiplica numerador y denominador por √2: 6√2/2 = 3√2.
+Racionalizá 2/(√5 − 3).|2(√5 + 3)/14|−2(√5 + 3)/4|2(√5 − 3)/4|2√5/4|1|Se multiplica por el conjugado √5 + 3: el denominador queda 5 − 9 = −4.
+Calculá (2 + √7)(2 − √7).|−3|−45|25|11|0|Es una suma por una diferencia: 2² − (√7)² = 4 − 7 = −3.
+Calculá (4 + √5)(4 − √5).|11|−9|21|1|0|Es una suma por una diferencia: 4² − (√5)² = 16 − 5 = 11.
+Racionalizá 4/(√5 − 2).|4(√5 + 2)|4(√5 − 2)|4√5|4(√5 + 2)/9|0|Se multiplica por el conjugado √5 + 2: el denominador queda 5 − 4 = 1.
+¿Cuál es la distancia entre −5 y 9 en la recta real?|13|4|14|15|2|La distancia es el valor absoluto de la diferencia: −5 − 9 = −14, y su valor absoluto es 14.
+¿Cuál es mayor, √5 + √7 o √12?|√5 + √7|Son iguales|No se puede comparar|√12|0|Elevando al cuadrado: (√5 + √7)² = 12 + 2√35 > 12 = (√12)².
+¿Cuál es la distancia entre 7 y 6 en la recta real?|14|1|2|13|1|La distancia es el valor absoluto de la diferencia: 7 − 6 = 1, y su valor absoluto es 1.
+¿Cuál es la distancia entre 5 y −8 en la recta real?|13|−3|3|14|0|La distancia es el valor absoluto de la diferencia: 5 − (−8) = 13, y su valor absoluto es 13.

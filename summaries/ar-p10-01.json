@@ -1,0 +1,5 @@
+{
+ "MRUV: aceleración y ecuaciones horarias": "En el MRUV la aceleración es constante y la velocidad cambia uniformemente. Se cumplen v = v₀ + a·t, x = x₀ + v₀·t + ½·a·t² y v² = v₀² + 2·a·Δx. En un gráfico v-t la pendiente es la aceleración y el área es el desplazamiento.",
+ "Caída libre y tiro vertical": "En caída libre (sin rozamiento) todos los cuerpos aceleran con g ≈ 10 m/s² hacia abajo. En un tiro vertical hacia arriba la velocidad disminuye hasta cero en el punto más alto y luego el cuerpo vuelve a caer; el tiempo de subida es v₀/g y la altura máxima, v₀²/(2g).",
+ "Interpretación de gráficos y problemas de encuentro": "Los gráficos permiten leer posición, velocidad y aceleración. En un problema de encuentro se plantean las ecuaciones horarias de ambos móviles y se igualan las posiciones. Se debe elegir un sistema de referencia y respetar el signo de los vectores."
+}

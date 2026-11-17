@@ -1,0 +1,5 @@
+{
+ "Trabajo y potencia": "El trabajo de una fuerza constante es W = F·d·cos θ y se mide en joules. La potencia es la rapidez con que se realiza trabajo: P = W/t, y se mide en watts. Una fuerza perpendicular al desplazamiento no realiza trabajo.",
+ "Energía cinética y potencial": "La energía cinética es Ec = ½·m·v² y la potencial gravitatoria Ep = m·g·h. El teorema trabajo-energía establece que el trabajo neto es igual a la variación de energía cinética. Con rozamiento, parte de la energía se disipa como calor.",
+ "Conservación de la energía": "En ausencia de rozamiento la energía mecánica se conserva. Una caída libre transforma energía potencial en cinética: v = √(2·g·h). Si hay rozamiento, la energía mecánica disminuye y la diferencia se transforma en calor. Es la base del uso responsable de la energía."
+}

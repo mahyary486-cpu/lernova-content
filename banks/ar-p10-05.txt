@@ -1,0 +1,30 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHH
+Una rueda da 60 vueltas en 30 s. ¿Cuál es su frecuencia?|4 Hz|2 Hz|0,5 Hz|30 Hz|1|f = n/t = 60/30 = 2 Hz.
+Un cuerpo realiza una vuelta completa en 10 s. ¿Cuál es su frecuencia?|0,1 Hz|0,2 Hz|20 Hz|10 Hz|0|f = 1/T = 1/10 = 0,1 Hz.
+¿Quién formuló la ley de gravitación universal?|Newton|Kepler|Galileo|Einstein|0|Newton publicó su ley en 1687.
+Un cuerpo realiza una vuelta completa en 4 s. ¿Cuál es su frecuencia?|0,5 Hz|0,25 Hz|4 Hz|8 Hz|1|f = 1/T = 1/4 = 0,25 Hz.
+Un cuerpo realiza una vuelta completa en 2 s. ¿Cuál es su frecuencia?|1 Hz|4 Hz|2 Hz|0,5 Hz|3|f = 1/T = 1/2 = 0,5 Hz.
+La fuerza gravitatoria entre dos cuerpos es:|Siempre de repulsión|Solo entre planetas|Siempre de atracción|Nula|2|Actúa entre todos los cuerpos con masa.
+Un cuerpo realiza una vuelta completa en 0,25 s. ¿Cuál es su frecuencia?|8 Hz|4 Hz|0,5 Hz|0,25 Hz|1|f = 1/T = 1/0,25 = 4 Hz.
+Una rueda da 300 vueltas en 60 s. ¿Cuál es su frecuencia?|10 Hz|0,2 Hz|5 Hz|240 Hz|2|f = n/t = 300/60 = 5 Hz.
+Una rueda da 90 vueltas en 30 s. ¿Cuál es su frecuencia?|0,333 Hz|6 Hz|60 Hz|3 Hz|3|f = n/t = 90/30 = 3 Hz.
+¿Qué lado de la Tierra mira siempre la Luna?|Alternadamente|El mismo lado|Ninguno|El lado opuesto|1|La Luna tiene rotación sincrónica.
+En un movimiento circular uniforme la velocidad:|Cambia de dirección pero no de módulo|Aumenta|Es nula|Es constante en módulo y dirección|0|La aceleración centrípeta apunta al centro.
+Un cuerpo recorre una circunferencia de radio 5 m en 2 s (π ≈ 3,14). ¿Cuál es su rapidez?|31,4 m/s|2,5 m/s|15,7 m/s|7,85 m/s|2|v = 2πR/T = 2 · 3,14 · 5/2 = 15,7 m/s.
+Un cuerpo describe una circunferencia de radio 10 m con rapidez constante de 20 m/s. ¿Cuál es su aceleración centrípeta?|40 m/s²|200 m/s²|80 m/s²|2 m/s²|0|a = v²/R = 20²/10 = 40 m/s².
+Un cuerpo describe una circunferencia de radio 5 m con rapidez constante de 10 m/s. ¿Cuál es su aceleración centrípeta?|50 m/s²|20 m/s²|40 m/s²|2 m/s²|1|a = v²/R = 10²/5 = 20 m/s².
+Un cuerpo recorre una circunferencia de radio 10 m en 5 s (π ≈ 3,14). ¿Cuál es su rapidez?|2 m/s|6,28 m/s|12,56 m/s|25,12 m/s|2|v = 2πR/T = 2 · 3,14 · 10/5 = 12,56 m/s.
+La fuerza centrípeta apunta:|Hacia afuera|Hacia arriba|Tangente a la trayectoria|Hacia el centro de la circunferencia|3|Es la fuerza neta en el MCU.
+Un cuerpo recorre una circunferencia de radio 30 m en 15 s (π ≈ 3,14). ¿Cuál es su rapidez?|25,12 m/s|2 m/s|6,28 m/s|12,56 m/s|3|v = 2πR/T = 2 · 3,14 · 30/15 = 12,56 m/s.
+¿Qué enuncia la tercera ley de Kepler?|T² es proporcional a R³|Los planetas giran en círculos|T es proporcional a R|La velocidad es constante|0|Relaciona el período y el radio medio de la órbita.
+Un cuerpo describe una circunferencia de radio 2 m con rapidez constante de 6 m/s. ¿Cuál es su aceleración centrípeta?|12 m/s²|36 m/s²|18 m/s²|3 m/s²|2|a = v²/R = 6²/2 = 18 m/s².
+Un cuerpo describe una circunferencia de radio 4 m con rapidez constante de 8 m/s. ¿Cuál es su aceleración centrípeta?|32 m/s²|2 m/s²|16 m/s²|17 m/s²|2|a = v²/R = 8²/4 = 16 m/s².
+Un cuerpo de 1 kg gira en una circunferencia de 5 m de radio a 10 m/s. ¿Qué fuerza centrípeta actúa?|100 N|2 N|20 N|40 N|2|Fc = m·v²/R = 1·10²/5 = 20 N.
+¿Por qué los astronautas en la Estación Espacial parecen flotar?|No hay gravedad|Pesan cero kg|Están muy lejos|Están en caída libre alrededor de la Tierra|3|La gravedad sí actúa: estación y astronautas caen juntos.
+Si la distancia entre dos masas se multiplica por 2, la fuerza gravitatoria entre ellas queda multiplicada por:|2|4|1/4|1/2|2|F = G·m₁·m₂/d²: depende de la inversa del cuadrado de la distancia: 1/4.
+La masa de un objeto en la Luna comparada con la masa en la Tierra es:|Nula|Seis veces menor|Seis veces mayor|La misma|3|Lo que cambia es el peso.
+Un cuerpo de 2 kg gira en una circunferencia de 4 m de radio a 6 m/s. ¿Qué fuerza centrípeta actúa?|18 N|36 N|72 N|3 N|0|Fc = m·v²/R = 2·6²/4 = 18 N.
+Si la distancia entre dos masas se multiplica por 3, la fuerza gravitatoria entre ellas queda multiplicada por:|1/3|9|3|1/9|3|F = G·m₁·m₂/d²: depende de la inversa del cuadrado de la distancia: 1/9.
+Un cuerpo de 10 kg gira en una circunferencia de 10 m de radio a 10 m/s. ¿Qué fuerza centrípeta actúa?|100 N|10 N|200 N|1000 N|0|Fc = m·v²/R = 10·10²/10 = 100 N.
+Si la distancia entre dos masas se multiplica por 4, la fuerza gravitatoria entre ellas queda multiplicada por:|1/4|1/16|4|16|1|F = G·m₁·m₂/d²: depende de la inversa del cuadrado de la distancia: 1/16.
+Un cuerpo de 3 kg gira en una circunferencia de 6 m de radio a 6 m/s. ¿Qué fuerza centrípeta actúa?|3 N|108 N|18 N|36 N|2|Fc = m·v²/R = 3·6²/6 = 18 N.

@@ -1,0 +1,5 @@
+{
+ "Ecuaciones cuadráticas incompletas y por factoreo": "Una ecuación cuadrática tiene la forma ax² + bx + c = 0 con a ≠ 0. Si falta b o c, o si se puede factorear, se resuelve con la raíz cuadrada o con la regla del producto nulo: si A·B = 0, entonces A = 0 o B = 0.",
+ "Fórmula resolvente": "Las soluciones de ax² + bx + c = 0 son x = (−b ± √(b² − 4ac))/(2a). Se aplica a cualquier ecuación cuadrática. Se puede verificar con la suma de raíces (−b/a) y el producto de raíces (c/a).",
+ "Discriminante y problemas": "El discriminante Δ = b² − 4ac indica cuántas soluciones reales tiene la ecuación: dos distintas si Δ > 0, una doble si Δ = 0 y ninguna real si Δ < 0. Los problemas se resuelven planteando la ecuación y descartando las soluciones que no tienen sentido."
+}

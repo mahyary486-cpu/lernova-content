@@ -1,0 +1,30 @@
+#EEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Cuál es la unidad de presión en el Sistema Internacional?|Joule|Watt|Pascal|Newton|2|1 Pa = 1 N/m².
+Un cuerpo de masa 3 kg ocupa 1 m³. ¿Cuál es su densidad?|4 kg/m³|3 kg/m³|0,333 kg/m³|6 kg/m³|1|ρ = m/V = 3/1 = 3 kg/m³.
+Una fuerza de 500 N actúa perpendicularmente sobre una superficie de 5 m². ¿Qué presión ejerce?|2500 Pa|100 Pa|0,01 Pa|200 Pa|1|p = F/A = 500/5 = 100 Pa.
+Una fuerza de 200 N actúa perpendicularmente sobre una superficie de 4 m². ¿Qué presión ejerce?|800 Pa|0,02 Pa|100 Pa|50 Pa|3|p = F/A = 200/4 = 50 Pa.
+Una fuerza de 100 N actúa perpendicularmente sobre una superficie de 2 m². ¿Qué presión ejerce?|100 Pa|0,02 Pa|50 Pa|200 Pa|2|p = F/A = 100/2 = 50 Pa.
+La presión atmosférica a nivel del mar es aproximadamente:|1 Pa|101 300 Pa|1 000 000 Pa|0 Pa|1|Equivale a una atmósfera.
+Un cuerpo de masa 2 kg ocupa 1 m³. ¿Cuál es su densidad?|3 kg/m³|0,5 kg/m³|4 kg/m³|2 kg/m³|3|ρ = m/V = 2/1 = 2 kg/m³.
+Una fuerza de 60 N actúa perpendicularmente sobre una superficie de 3 m². ¿Qué presión ejerce?|20 Pa|40 Pa|0,05 Pa|180 Pa|0|p = F/A = 60/3 = 20 Pa.
+Un cuerpo de masa 900 kg ocupa 1 m³. ¿Cuál es su densidad?|1800 kg/m³|0,001 kg/m³|900 kg/m³|901 kg/m³|2|ρ = m/V = 900/1 = 900 kg/m³.
+Un cuerpo de 3 m³ está totalmente sumergido en un líquido de densidad 800 kg/m³. ¿Cuál es el empuje? (g = 10 m/s²)|2400 N|30 N|24000 N|48000 N|2|E = ρ·g·V = 800 · 10 · 3 = 24000 N.
+¿Qué enuncia el principio de Pascal?|La presión aplicada a un fluido se transmite por igual en todas direcciones|La fuerza se transmite solo hacia abajo|La presión disminuye con la altura|La presión es cero en un fluido|0|Es la base de la prensa hidráulica.
+Un cuerpo de 2 m³ está totalmente sumergido en un líquido de densidad 1000 kg/m³. ¿Cuál es el empuje? (g = 10 m/s²)|2000 N|20 N|40000 N|20000 N|3|E = ρ·g·V = 1000 · 10 · 2 = 20000 N.
+¿Qué presión hidrostática ejerce el agua a 10 m de profundidad? (ρ = 1000 kg/m³, g = 10 m/s²)|10000 Pa|100 Pa|200000 Pa|100000 Pa|3|p = ρ·g·h = 1000 · 10 · 10 = 100000 Pa.
+¿Qué presión hidrostática ejerce el agua a 5 m de profundidad? (ρ = 1000 kg/m³, g = 10 m/s²)|50 Pa|5000 Pa|100000 Pa|50000 Pa|3|p = ρ·g·h = 1000 · 10 · 5 = 50000 Pa.
+¿Qué enuncia el principio de Arquímedes?|La presión es constante|El empuje depende de la masa del cuerpo|Todo cuerpo sumergido recibe un empuje igual al peso del líquido desalojado|Todo cuerpo pesa lo mismo en cualquier líquido|2|E = peso del fluido desplazado.
+Un cuerpo de 0,5 m³ está totalmente sumergido en un líquido de densidad 1000 kg/m³. ¿Cuál es el empuje? (g = 10 m/s²)|500 N|10000 N|5 N|5000 N|3|E = ρ·g·V = 1000 · 10 · 0,5 = 5000 N.
+¿Qué presión hidrostática ejerce el agua a 2 m de profundidad? (ρ = 1000 kg/m³, g = 10 m/s²)|20 Pa|40000 Pa|2000 Pa|20000 Pa|3|p = ρ·g·h = 1000 · 10 · 2 = 20000 Pa.
+Un cuerpo de 4 m³ está totalmente sumergido en un líquido de densidad 1250 kg/m³. ¿Cuál es el empuje? (g = 10 m/s²)|40 N|50000 N|100000 N|5000 N|1|E = ρ·g·V = 1250 · 10 · 4 = 50000 N.
+¿Qué presión hidrostática ejerce el agua a 30 m de profundidad? (ρ = 1000 kg/m³, g = 10 m/s²)|600000 Pa|30000 Pa|300 Pa|300000 Pa|3|p = ρ·g·h = 1000 · 10 · 30 = 300000 Pa.
+Un bloque de densidad 200 kg/m³ flota en agua (1000 kg/m³). ¿Qué fracción de su volumen queda sumergida?|0,5|0,2|0,8|0,4|1|En equilibrio E = P: la fracción sumergida es ρ cuerpo/ρ líquido = 200/1000 = 0,2.
+En una prensa hidráulica el pistón chico tiene 10 cm² y el grande 40 cm². Si en el chico se aplica 100 N, ¿qué fuerza se obtiene en el grande?|500 N|1000 N|400 N|25 N|2|Principio de Pascal: F₂ = F₁·A₂/A₁ = 100·40/10 = 400 N.
+En una prensa hidráulica el pistón chico tiene 5 cm² y el grande 50 cm². Si en el chico se aplica 20 N, ¿qué fuerza se obtiene en el grande?|100 N|2 N|200 N|220 N|2|Principio de Pascal: F₂ = F₁·A₂/A₁ = 20·50/5 = 200 N.
+En una prensa hidráulica el pistón chico tiene 4 cm² y el grande 20 cm². Si en el chico se aplica 30 N, ¿qué fuerza se obtiene en el grande?|6 N|180 N|120 N|150 N|3|Principio de Pascal: F₂ = F₁·A₂/A₁ = 30·20/4 = 150 N.
+En una prensa hidráulica el pistón chico tiene 2 cm² y el grande 10 cm². Si en el chico se aplica 50 N, ¿qué fuerza se obtiene en el grande?|250 N|100 N|10 N|300 N|0|Principio de Pascal: F₂ = F₁·A₂/A₁ = 50·10/2 = 250 N.
+Un cuerpo flota si su densidad es:|Infinita|Menor que la del líquido|Mayor que la del líquido|Igual a cero|1|Si es igual, queda en equilibrio sumergido.
+¿Por qué los submarinos se refuerzan más para mayor profundidad?|Porque disminuye la presión|Porque la presión aumenta con la profundidad|Porque cambia la masa|Porque cambia la gravedad|1|p = ρ·g·h.
+Un bloque de densidad 400 kg/m³ flota en agua (1000 kg/m³). ¿Qué fracción de su volumen queda sumergida?|0,6|0,8|0,4|0,5|2|En equilibrio E = P: la fracción sumergida es ρ cuerpo/ρ líquido = 400/1000 = 0,4.
+Un bloque de densidad 800 kg/m³ flota en agua (1000 kg/m³). ¿Qué fracción de su volumen queda sumergida?|0,5|0,4|0,8|0,2|2|En equilibrio E = P: la fracción sumergida es ρ cuerpo/ρ líquido = 800/1000 = 0,8.
+Un clavo penetra más fácil que un tornillo con la misma fuerza porque:|Es más oscuro|Es más largo|Tiene menor área de contacto, por lo que genera mayor presión|Tiene más masa|2|p = F/A.

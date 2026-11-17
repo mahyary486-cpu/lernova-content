@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 10,
+   "country": "AR",
+   "subject": "Physics",
+   "chapters": [
+    {
+     "id": "ar-p10-01",
+     "title": "Movimiento rectilíneo uniformemente variado y caída libre",
+     "lessons": [
+      {
+       "id": "ar-p10-01-01",
+       "title": "MRUV: aceleración y ecuaciones horarias"
+      },
+      {
+       "id": "ar-p10-01-02",
+       "title": "Caída libre y tiro vertical"
+      },
+      {
+       "id": "ar-p10-01-03",
+       "title": "Interpretación de gráficos y problemas de encuentro"
+      }
+     ]
+    },
+    {
+     "id": "ar-p10-02",
+     "title": "Dinámica: leyes de Newton y rozamiento",
+     "lessons": [
+      {
+       "id": "ar-p10-02-01",
+       "title": "Las leyes de Newton"
+      },
+      {
+       "id": "ar-p10-02-02",
+       "title": "Diagrama de cuerpo libre y rozamiento"
+      },
+      {
+       "id": "ar-p10-02-03",
+       "title": "Aplicaciones: cuerpos vinculados y plano inclinado"
+      }
+     ]
+    },
+    {
+     "id": "ar-p10-03",
+     "title": "Trabajo, energía y potencia",
+     "lessons": [
+      {
+       "id": "ar-p10-03-01",
+       "title": "Trabajo y potencia"
+      },
+      {
+       "id": "ar-p10-03-02",
+       "title": "Energía cinética y potencial"
+      },
+      {
+       "id": "ar-p10-03-03",
+       "title": "Conservación de la energía"
+      }
+     ]
+    },
+    {
+     "id": "ar-p10-04",
+     "title": "Cantidad de movimiento y choques",
+     "lessons": [
+      {
+       "id": "ar-p10-04-01",
+       "title": "Cantidad de movimiento e impulso"
+      },
+      {
+       "id": "ar-p10-04-02",
+       "title": "Conservación de la cantidad de movimiento"
+      },
+      {
+       "id": "ar-p10-04-03",
+       "title": "Choques elásticos e inelásticos"
+      }
+     ]
+    },
+    {
+     "id": "ar-p10-05",
+     "title": "Movimiento circular y gravitación",
+     "lessons": [
+      {
+       "id": "ar-p10-05-01",
+       "title": "Movimiento circular uniforme"
+      },
+      {
+       "id": "ar-p10-05-02",
+       "title": "Fuerza centrípeta y ley de gravitación"
+      },
+      {
+       "id": "ar-p10-05-03",
+       "title": "Leyes de Kepler y satélites"
+      }
+     ]
+    },
+    {
+     "id": "ar-p10-06",
+     "title": "Hidrostática: presión, Pascal y Arquímedes",
+     "lessons": [
+      {
+       "id": "ar-p10-06-01",
+       "title": "Presión y presión hidrostática"
+      },
+      {
+       "id": "ar-p10-06-02",
+       "title": "Principio de Pascal"
+      },
+      {
+       "id": "ar-p10-06-03",
+       "title": "Principio de Arquímedes y flotación"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+ "Operaciones con polinomios": "Un polinomio es una suma de términos de la forma a·xⁿ con n natural. Su grado es el mayor exponente. Se suman y restan por términos semejantes y se multiplican con la propiedad distributiva. El valor numérico P(a) se obtiene reemplazando x por a.",
+ "Regla de Ruffini y teorema del resto": "La regla de Ruffini divide un polinomio por (x − a) usando solo sus coeficientes. El resto de la división es P(a) (teorema del resto). Si P(a) = 0, entonces (x − a) es un factor de P y a es una raíz.",
+ "Factoreo de polinomios": "Factorear es escribir un polinomio como producto de polinomios de menor grado. Los casos principales son factor común, diferencia de cuadrados, trinomio cuadrado perfecto, trinomio de segundo grado con sus raíces y los factores hallados con Ruffini."
+}

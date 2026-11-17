@@ -1,0 +1,29 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHH
+La cantidad de movimiento es una magnitud:|Solo positiva|Sin unidad|Escalar|Vectorial|3|Tiene módulo, dirección y sentido.
+Una fuerza constante de 100 N actúa durante 4 s sobre un cuerpo. ¿Qué impulso recibe?|25 N·s|800 N·s|104 N·s|400 N·s|3|I = F · Δt = 100 · 4 = 400 N·s.
+¿Cuál es la cantidad de movimiento de un cuerpo de 5 kg que se mueve a 6 m/s?|0,833 kg·m/s|30 kg·m/s|11 kg·m/s|60 kg·m/s|1|p = m·v = 5 · 6 = 30 kg·m/s.
+¿Cuál es la cantidad de movimiento de un cuerpo de 1 kg que se mueve a 20 m/s?|0,05 kg·m/s|40 kg·m/s|20 kg·m/s|21 kg·m/s|2|p = m·v = 1 · 20 = 20 kg·m/s.
+Una fuerza constante de 50 N actúa durante 2 s sobre un cuerpo. ¿Qué impulso recibe?|200 N·s|52 N·s|25 N·s|100 N·s|3|I = F · Δt = 50 · 2 = 100 N·s.
+¿Cuál es la unidad de la cantidad de movimiento?|J|kg·m/s|N·m|W|1|p = m·v.
+¿Cuál es la cantidad de movimiento de un cuerpo de 1200 kg que se mueve a 20 m/s?|1220 kg·m/s|24000 kg·m/s|60 kg·m/s|48000 kg·m/s|1|p = m·v = 1200 · 20 = 24000 kg·m/s.
+¿Cuál es la cantidad de movimiento de un cuerpo de 2 kg que se mueve a 5 m/s?|7 kg·m/s|20 kg·m/s|10 kg·m/s|0,4 kg·m/s|2|p = m·v = 2 · 5 = 10 kg·m/s.
+Una fuerza constante de 30 N actúa durante 6 s sobre un cuerpo. ¿Qué impulso recibe?|360 N·s|36 N·s|180 N·s|5 N·s|2|I = F · Δt = 30 · 6 = 180 N·s.
+Dos cuerpos de masas 2 kg y 3 kg se mueven con 5 m/s y 0 m/s en el mismo sentido. ¿Cuál es la cantidad de movimiento total?|15 kg·m/s|5 kg·m/s|10 kg·m/s|11 kg·m/s|2|p total = 2·5 + 3·0 = 10 kg·m/s.
+Un cuerpo de 5 kg a 4 m/s choca contra otro de 5 kg en reposo y quedan unidos. ¿Con qué velocidad se mueven juntos?|4 m/s|2 m/s|1 m/s|3 m/s|1|Choque plástico: m₁·v₁ = (m₁ + m₂)·v → v = 5·4/10 = 2 m/s.
+Dos cuerpos de masas 6 kg y 2 kg se mueven con 2 m/s y 6 m/s en el mismo sentido. ¿Cuál es la cantidad de movimiento total?|24 kg·m/s|8 kg·m/s|12 kg·m/s|29 kg·m/s|0|p total = 6·2 + 2·6 = 24 kg·m/s.
+Un cuerpo de 2 kg a 6 m/s choca contra otro de 4 kg en reposo y quedan unidos. ¿Con qué velocidad se mueven juntos?|4 m/s|3 m/s|2 m/s|6 m/s|2|Choque plástico: m₁·v₁ = (m₁ + m₂)·v → v = 2·6/6 = 2 m/s.
+Un cuerpo de 2 kg cambia su velocidad en 10 m/s en 5 s por una fuerza constante. ¿Cuál es el módulo de la fuerza?|4 N|2 N|20 N|8 N|0|F·Δt = m·Δv → F = 2·10/5 = 4 N.
+Un cuerpo de 3 kg a 8 m/s choca contra otro de 1 kg en reposo y quedan unidos. ¿Con qué velocidad se mueven juntos?|12 m/s|6 m/s|8 m/s|4 m/s|1|Choque plástico: m₁·v₁ = (m₁ + m₂)·v → v = 3·8/4 = 6 m/s.
+Dos cuerpos de masas 1 kg y 3 kg se mueven con 8 m/s y 0 m/s en el mismo sentido. ¿Cuál es la cantidad de movimiento total?|4 kg·m/s|8 kg·m/s|9 kg·m/s|13 kg·m/s|1|p total = 1·8 + 3·0 = 8 kg·m/s.
+Un cuerpo de 1000 kg cambia su velocidad en 20 m/s en 10 s por una fuerza constante. ¿Cuál es el módulo de la fuerza?|4000 N|2 N|2000 N|20000 N|2|F·Δt = m·Δv → F = 1000·20/10 = 2000 N.
+En un sistema aislado, la cantidad de movimiento total:|Aumenta|Disminuye|Se anula siempre|Se conserva|3|Es el principio de conservación del momento lineal.
+En un choque elástico se conserva:|Nada|Solo la masa|La cantidad de movimiento y la energía cinética|Solo la energía potencial|2|En los inelásticos se conserva solo el momento lineal.
+Un cuerpo de 1 kg a 10 m/s choca contra otro de 4 kg en reposo y quedan unidos. ¿Con qué velocidad se mueven juntos?|4 m/s|10 m/s|5 m/s|2 m/s|3|Choque plástico: m₁·v₁ = (m₁ + m₂)·v → v = 1·10/5 = 2 m/s.
+Un patinador de 5 kg y otro de 5 kg están en reposo sobre hielo y se empujan. El primero sale a 4 m/s. ¿A qué velocidad sale el otro (en sentido contrario)?|4 m/s|5 m/s|8 m/s|3 m/s|0|p total = 0 → m₁·v₁ = m₂·v₂ → v₂ = 5·4/5 = 4 m/s.
+Un cohete avanza al expulsar gases hacia atrás. Esto se explica por:|La ley de Boyle|La conservación de la cantidad de movimiento|El principio de Arquímedes|La ley de Ohm|1|También equivale a la tercera ley de Newton.
+Un patinador de 3 kg y otro de 6 kg están en reposo sobre hielo y se empujan. El primero sale a 9 m/s. ¿A qué velocidad sale el otro (en sentido contrario)?|18 m/s|5,5 m/s|4,5 m/s|9 m/s|2|p total = 0 → m₁·v₁ = m₂·v₂ → v₂ = 3·9/6 = 4,5 m/s.
+El impulso aplicado a un cuerpo es igual a:|La variación de su cantidad de movimiento|Su masa|Su energía cinética|Su peso|0|I = Δp.
+Un patinador de 2 kg y otro de 4 kg están en reposo sobre hielo y se empujan. El primero sale a 6 m/s. ¿A qué velocidad sale el otro (en sentido contrario)?|6 m/s|4 m/s|3 m/s|12 m/s|2|p total = 0 → m₁·v₁ = m₂·v₂ → v₂ = 2·6/4 = 3 m/s.
+Un patinador de 1 kg y otro de 3 kg están en reposo sobre hielo y se empujan. El primero sale a 12 m/s. ¿A qué velocidad sale el otro (en sentido contrario)?|4 m/s|36 m/s|8 m/s|12 m/s|0|p total = 0 → m₁·v₁ = m₂·v₂ → v₂ = 1·12/3 = 4 m/s.
+¿Por qué el airbag disminuye el daño en un choque?|Reduce el impulso|Aumenta la velocidad|Aumenta la masa|Aumenta el tiempo de frenado y reduce la fuerza|3|I = F·Δt es el mismo; si Δt crece, F disminuye.
+Un cuerpo de 4 kg cambia su velocidad en 12 m/s en 3 s por una fuerza constante. ¿Cuál es el módulo de la fuerza?|4 N|32 N|16 N|48 N|2|F·Δt = m·Δv → F = 4·12/3 = 16 N.

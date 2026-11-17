@@ -1,0 +1,5 @@
+{
+ "Las leyes de Newton": "La primera ley (inercia) dice que sin fuerza neta un cuerpo mantiene el reposo o el MRU. La segunda ley establece F = m·a. La tercera dice que las fuerzas de acción y reacción tienen igual módulo, sentido opuesto y actúan sobre cuerpos distintos.",
+ "Diagrama de cuerpo libre y rozamiento": "El diagrama de cuerpo libre muestra todas las fuerzas sobre un cuerpo. La fuerza de rozamiento es proporcional a la normal: fr = μ·N. El rozamiento estático máximo suele ser mayor que el dinámico. La fuerza neta se calcula sumando vectorialmente.",
+ "Aplicaciones: cuerpos vinculados y plano inclinado": "Cuando varios cuerpos se mueven juntos comparten aceleración y se aplica la segunda ley al conjunto o a cada uno. En un plano inclinado el peso se descompone en una componente paralela (m·g·sen α) y una perpendicular (m·g·cos α)."
+}

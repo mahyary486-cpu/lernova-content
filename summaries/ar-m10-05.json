@@ -1,0 +1,5 @@
+{
+ "Razones trigonométricas": "En un triángulo rectángulo, para un ángulo agudo α: sen α = cateto opuesto / hipotenusa, cos α = cateto adyacente / hipotenusa y tg α = opuesto / adyacente. Valen sen²α + cos²α = 1 y tg α = sen α / cos α.",
+ "Resolución de triángulos rectángulos": "Resolver un triángulo rectángulo es hallar todos sus lados y ángulos. Con un lado y un ángulo agudo, o con dos lados, se usan las razones trigonométricas, el teorema de Pitágoras y que los ángulos agudos suman 90°.",
+ "Aplicaciones: ángulos de elevación y depresión": "El ángulo de elevación es el que forma la visual hacia un objeto elevado con la horizontal; el de depresión es el que forma la visual hacia un objeto más bajo. Se modelan con un triángulo rectángulo para calcular alturas y distancias."
+}

@@ -1,0 +1,5 @@
+{
+ "Teoría cinética y variables de estado": "Un gas ideal se modela como partículas muy pequeñas y separadas que chocan elásticamente con las paredes. Sus variables de estado son presión (atm, Pa), volumen (L, m³), temperatura absoluta (K) y cantidad de sustancia (mol). La presión se debe a los choques de las partículas.",
+ "Leyes de Boyle, Charles y Gay-Lussac": "A temperatura constante P·V es constante (Boyle). A presión constante V/T es constante (Charles). A volumen constante P/T es constante (Gay-Lussac). Se combinan en P₁V₁/T₁ = P₂V₂/T₂, siempre con la temperatura en kelvin.",
+ "Ecuación de estado y volumen molar": "La ecuación P·V = n·R·T relaciona las cuatro variables, con R = 0,082 atm·L/(mol·K). En condiciones normales (1 atm y 273 K) un mol de gas ocupa 22,4 L. Se utiliza para calcular moles, masas y densidades de gases."
+}

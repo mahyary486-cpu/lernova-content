@@ -1,0 +1,5 @@
+{
+ "Cálculos con moles y masas": "Una ecuación balanceada indica la proporción en moles de reactivos y productos. Se pasa de masa a moles con n = m/M, se aplica la relación estequiométrica y se vuelve a masa con m = n·M. El número de partículas es N = n·NA.",
+ "Reactivo limitante y en exceso": "Cuando los reactivos no están en proporción estequiométrica, uno se agota antes: es el reactivo limitante y determina la cantidad de producto. El otro es el reactivo en exceso y sobra al terminar. Se identifica comparando los moles disponibles con los necesarios.",
+ "Rendimiento y pureza": "El rendimiento porcentual compara la cantidad real obtenida con la teórica: η = real/teórico × 100. En la industria se buscan altos rendimientos para reducir costos y residuos. La pureza indica qué porcentaje de una muestra es el reactivo útil."
+}

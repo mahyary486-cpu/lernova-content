@@ -1,0 +1,5 @@
+{
+ "Números irracionales y recta real": "Los números reales son los racionales y los irracionales. Un irracional tiene infinitas cifras decimales no periódicas (√2, π). Todo número real se ubica en la recta numérica y se puede aproximar por racionales.",
+ "Intervalos y valor absoluto": "Un intervalo es un conjunto de números reales entre dos extremos; el corchete incluye el extremo y el paréntesis lo excluye. El valor absoluto |x − a| es la distancia entre x y a; |x − a| < k equivale a a − k < x < a + k.",
+ "Operaciones con radicales y racionalización": "Se pueden multiplicar radicales de igual índice √a·√b = √(ab) y extraer factores del radicando. Racionalizar es eliminar la raíz del denominador, multiplicando por √b o por el conjugado cuando hay una suma o resta."
+}

@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 10,
+   "country": "AR",
+   "subject": "Biology",
+   "chapters": [
+    {
+     "id": "ar-b10-01",
+     "title": "Biomoléculas",
+     "lessons": [
+      {
+       "id": "ar-b10-01-01",
+       "title": "Hidratos de carbono y lípidos"
+      },
+      {
+       "id": "ar-b10-01-02",
+       "title": "Proteínas y enzimas"
+      },
+      {
+       "id": "ar-b10-01-03",
+       "title": "Ácidos nucleicos y ATP"
+      }
+     ]
+    },
+    {
+     "id": "ar-b10-02",
+     "title": "Metabolismo y energía celular",
+     "lessons": [
+      {
+       "id": "ar-b10-02-01",
+       "title": "Fotosíntesis"
+      },
+      {
+       "id": "ar-b10-02-02",
+       "title": "Respiración celular y fermentación"
+      },
+      {
+       "id": "ar-b10-02-03",
+       "title": "Flujo de energía y metabolismo"
+      }
+     ]
+    },
+    {
+     "id": "ar-b10-03",
+     "title": "Ciclo celular y herencia",
+     "lessons": [
+      {
+       "id": "ar-b10-03-01",
+       "title": "Ciclo celular y mitosis"
+      },
+      {
+       "id": "ar-b10-03-02",
+       "title": "Meiosis y variabilidad"
+      },
+      {
+       "id": "ar-b10-03-03",
+       "title": "Genética mendeliana"
+      }
+     ]
+    },
+    {
+     "id": "ar-b10-04",
+     "title": "Genética molecular y biotecnología",
+     "lessons": [
+      {
+       "id": "ar-b10-04-01",
+       "title": "Replicación, transcripción y traducción"
+      },
+      {
+       "id": "ar-b10-04-02",
+       "title": "Mutaciones"
+      },
+      {
+       "id": "ar-b10-04-03",
+       "title": "Biotecnología e ingeniería genética"
+      }
+     ]
+    },
+    {
+     "id": "ar-b10-05",
+     "title": "Salud, defensas e inmunidad",
+     "lessons": [
+      {
+       "id": "ar-b10-05-01",
+       "title": "Agentes patógenos y enfermedades infecciosas"
+      },
+      {
+       "id": "ar-b10-05-02",
+       "title": "Sistema inmune"
+      },
+      {
+       "id": "ar-b10-05-03",
+       "title": "Vacunas y salud pública"
+      }
+     ]
+    },
+    {
+     "id": "ar-b10-06",
+     "title": "Poblaciones, ciclos biogeoquímicos y cambio climático",
+     "lessons": [
+      {
+       "id": "ar-b10-06-01",
+       "title": "Dinámica de poblaciones"
+      },
+      {
+       "id": "ar-b10-06-02",
+       "title": "Ciclos biogeoquímicos"
+      },
+      {
+       "id": "ar-b10-06-03",
+       "title": "Cambio climático y sustentabilidad"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

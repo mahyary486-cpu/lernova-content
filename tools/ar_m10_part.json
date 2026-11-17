@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 10,
+   "country": "AR",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "ar-m10-01",
+     "title": "Números reales, intervalos y radicales",
+     "lessons": [
+      {
+       "id": "ar-m10-01-01",
+       "title": "Números irracionales y recta real"
+      },
+      {
+       "id": "ar-m10-01-02",
+       "title": "Intervalos y valor absoluto"
+      },
+      {
+       "id": "ar-m10-01-03",
+       "title": "Operaciones con radicales y racionalización"
+      }
+     ]
+    },
+    {
+     "id": "ar-m10-02",
+     "title": "Polinomios y factoreo",
+     "lessons": [
+      {
+       "id": "ar-m10-02-01",
+       "title": "Operaciones con polinomios"
+      },
+      {
+       "id": "ar-m10-02-02",
+       "title": "Regla de Ruffini y teorema del resto"
+      },
+      {
+       "id": "ar-m10-02-03",
+       "title": "Factoreo de polinomios"
+      }
+     ]
+    },
+    {
+     "id": "ar-m10-03",
+     "title": "Ecuaciones de segundo grado",
+     "lessons": [
+      {
+       "id": "ar-m10-03-01",
+       "title": "Ecuaciones cuadráticas incompletas y por factoreo"
+      },
+      {
+       "id": "ar-m10-03-02",
+       "title": "Fórmula resolvente"
+      },
+      {
+       "id": "ar-m10-03-03",
+       "title": "Discriminante y problemas"
+      }
+     ]
+    },
+    {
+     "id": "ar-m10-04",
+     "title": "Función cuadrática",
+     "lessons": [
+      {
+       "id": "ar-m10-04-01",
+       "title": "Parábola, vértice y eje de simetría"
+      },
+      {
+       "id": "ar-m10-04-02",
+       "title": "Raíces y formas de la función cuadrática"
+      },
+      {
+       "id": "ar-m10-04-03",
+       "title": "Problemas de máximos y mínimos"
+      }
+     ]
+    },
+    {
+     "id": "ar-m10-05",
+     "title": "Trigonometría del triángulo rectángulo",
+     "lessons": [
+      {
+       "id": "ar-m10-05-01",
+       "title": "Razones trigonométricas"
+      },
+      {
+       "id": "ar-m10-05-02",
+       "title": "Resolución de triángulos rectángulos"
+      },
+      {
+       "id": "ar-m10-05-03",
+       "title": "Aplicaciones: ángulos de elevación y depresión"
+      }
+     ]
+    },
+    {
+     "id": "ar-m10-06",
+     "title": "Estadística descriptiva",
+     "lessons": [
+      {
+       "id": "ar-m10-06-01",
+       "title": "Tablas, gráficos y medidas de posición"
+      },
+      {
+       "id": "ar-m10-06-02",
+       "title": "Medidas de dispersión"
+      },
+      {
+       "id": "ar-m10-06-03",
+       "title": "Interpretación y comparación de datos"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

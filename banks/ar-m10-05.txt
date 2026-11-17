@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
+En un triángulo rectángulo el cateto opuesto a α mide 20, el adyacente 21 y la hipotenusa 29. ¿Cuánto vale el coseno de α?|20/29|21/29|21/20|20/21|1|El coseno es el cateto adyacente dividido la hipotenusa: 21/29.
+En un triángulo rectángulo, un ángulo agudo mide 50°. ¿Cuánto mide el otro ángulo agudo?|40°|140°|130°|50°|0|Los ángulos agudos son complementarios: 90° − 50° = 40°.
+En un triángulo rectángulo, un ángulo agudo mide 35°. ¿Cuánto mide el otro ángulo agudo?|55°|125°|35°|145°|0|Los ángulos agudos son complementarios: 90° − 35° = 55°.
+¿Cuánto vale cos 45°?|√3/2|√2/2|1/2|√3/3|1|Es uno de los valores notables: cos 45° = √2/2.
+¿Cuánto vale tg 45°?|√3/2|1/2|1|√2/2|2|Es uno de los valores notables: tg 45° = 1.
+¿Cuánto vale sen 60°?|1/2|√3/2|√2/2|√3/3|1|Es uno de los valores notables: sen 60° = √3/2.
+En un triángulo rectángulo, un ángulo agudo mide 20°. ¿Cuánto mide el otro ángulo agudo?|20°|160°|70°|110°|2|Los ángulos agudos son complementarios: 90° − 20° = 70°.
+¿Cuánto vale sen 45°?|√2/2|√3/2|1/2|√3/3|0|Es uno de los valores notables: sen 45° = √2/2.
+En un triángulo rectángulo el cateto opuesto a α mide 20, el adyacente 21 y la hipotenusa 29. ¿Cuánto vale el seno de α?|20/29|20/21|21/29|21/20|0|El seno es el cateto opuesto dividido la hipotenusa: 20/29.
+En un triángulo rectángulo el cateto opuesto a α mide 5, el adyacente 12 y la hipotenusa 13. ¿Cuánto vale el coseno de α?|5/12|12/5|12/13|5/13|2|El coseno es el cateto adyacente dividido la hipotenusa: 12/13.
+En un triángulo rectángulo el cateto opuesto a α mide 7, el adyacente 24 y la hipotenusa 25. ¿Cuánto vale la tangente de α?|7/24|24/25|7/25|24/7|0|La tangente es el cateto opuesto dividido el adyacente: 7/24.
+En un triángulo rectángulo el cateto opuesto a α mide 3, el adyacente 4 y la hipotenusa 5. ¿Cuánto vale la tangente de α?|3/4|4/5|4/3|3/5|0|La tangente es el cateto opuesto dividido el adyacente: 3/4.
+En un triángulo rectángulo, un ángulo agudo mide 30°. ¿Cuánto mide el otro ángulo agudo?|150°|30°|60°|120°|2|Los ángulos agudos son complementarios: 90° − 30° = 60°.
+En un triángulo rectángulo el cateto opuesto a α mide 3, el adyacente 4 y la hipotenusa 5. ¿Cuánto vale el seno de α?|3/5|4/3|3/4|4/5|0|El seno es el cateto opuesto dividido la hipotenusa: 3/5.
+¿Cuánto vale tg 30°?|1/2|√3/2|√2/2|√3/3|3|Es uno de los valores notables: tg 30° = √3/3.
+¿Cuánto vale cos 60°?|1/2|√3/2|√3/3|√2/2|0|Es uno de los valores notables: cos 60° = 1/2.
+En un triángulo rectángulo, un ángulo agudo mide 55°. ¿Cuánto mide el otro ángulo agudo?|125°|55°|35°|145°|2|Los ángulos agudos son complementarios: 90° − 55° = 35°.
+Si sen α = 3/5 y α es agudo, ¿cuánto vale cos α?|5/4|4/5|2/5|3/4|1|Se usa sen²α + cos²α = 1: cos α = √(1 − (3/5)²) = 4/5.
+Desde un punto ubicado a 40 m de la base de un edificio se ve su terraza con un ángulo de elevación de 30°. ¿Cuál es la altura del edificio? (aproximá a 1 decimal)|34,6 m|20 m|69,3 m|23,1 m|3|tg 30° = altura/40, entonces altura = 40 · tg 30° ≈ 23,1 m.
+Desde un punto ubicado a 12 m de la base de un edificio se ve su terraza con un ángulo de elevación de 30°. ¿Cuál es la altura del edificio? (aproximá a 1 decimal)|6 m|10,4 m|6,9 m|20,8 m|2|tg 30° = altura/12, entonces altura = 12 · tg 30° ≈ 6,9 m.
+La hipotenusa de un triángulo rectángulo mide 10 cm y un ángulo agudo mide 60°. ¿Cuánto mide el cateto opuesto a ese ángulo? (1 decimal)|11,5 cm|5 cm|17,3 cm|8,7 cm|3|sen 60° = opuesto/10, entonces opuesto = 10 · sen 60° ≈ 8,7 cm.
+Si sen α = 7/25 y α es agudo, ¿cuánto vale cos α?|25/24|7/24|18/25|24/25|3|Se usa sen²α + cos²α = 1: cos α = √(1 − (7/25)²) = 24/25.
+Desde un punto ubicado a 12 m de la base de un edificio se ve su terraza con un ángulo de elevación de 60°. ¿Cuál es la altura del edificio? (aproximá a 1 decimal)|10,4 m|20,8 m|6 m|6,9 m|1|tg 60° = altura/12, entonces altura = 12 · tg 60° ≈ 20,8 m.
+En un triángulo rectángulo con cateto opuesto 3 y hipotenusa 5, ¿cuánto mide aproximadamente el ángulo? (en grados, 1 decimal)|36,9°|53,1°|31°|46,9°|0|sen α = 3/5, entonces α = arcsen(3/5) ≈ 36,9°.
+En un triángulo rectángulo con cateto opuesto 5 y hipotenusa 13, ¿cuánto mide aproximadamente el ángulo? (en grados, 1 decimal)|32,6°|22,6°|67,4°|21°|1|sen α = 5/13, entonces α = arcsen(5/13) ≈ 22,6°.
+Desde un punto ubicado a 40 m de la base de un edificio se ve su terraza con un ángulo de elevación de 60°. ¿Cuál es la altura del edificio? (aproximá a 1 decimal)|34,6 m|23,1 m|20 m|69,3 m|3|tg 60° = altura/40, entonces altura = 40 · tg 60° ≈ 69,3 m.
+En un triángulo rectángulo con cateto opuesto 7 y hipotenusa 25, ¿cuánto mide aproximadamente el ángulo? (en grados, 1 decimal)|73,7°|16,3°|15,6°|26,3°|1|sen α = 7/25, entonces α = arcsen(7/25) ≈ 16,3°.
+La hipotenusa de un triángulo rectángulo mide 10 cm y un ángulo agudo mide 45°. ¿Cuánto mide el cateto opuesto a ese ángulo? (1 decimal)|10 cm|2,9 cm|7,1 cm|14,1 cm|2|sen 45° = opuesto/10, entonces opuesto = 10 · sen 45° ≈ 7,1 cm.
+La hipotenusa de un triángulo rectángulo mide 50 cm y un ángulo agudo mide 30°. ¿Cuánto mide el cateto opuesto a ese ángulo? (1 decimal)|28,9 cm|100 cm|25 cm|43,3 cm|2|sen 30° = opuesto/50, entonces opuesto = 50 · sen 30° ≈ 25 cm.
+La hipotenusa de un triángulo rectángulo mide 12 cm y un ángulo agudo mide 45°. ¿Cuánto mide el cateto opuesto a ese ángulo? (1 decimal)|8,5 cm|12 cm|3,5 cm|17 cm|0|sen 45° = opuesto/12, entonces opuesto = 12 · sen 45° ≈ 8,5 cm.
+Si sen α = 8/17 y α es agudo, ¿cuánto vale cos α?|9/17|17/15|8/15|15/17|3|Se usa sen²α + cos²α = 1: cos α = √(1 − (8/17)²) = 15/17.
+Desde un punto ubicado a 50 m de la base de un edificio se ve su terraza con un ángulo de elevación de 60°. ¿Cuál es la altura del edificio? (aproximá a 1 decimal)|25 m|28,9 m|43,3 m|86,6 m|3|tg 60° = altura/50, entonces altura = 50 · tg 60° ≈ 86,6 m.
+Si sen α = 5/13 y α es agudo, ¿cuánto vale cos α?|8/13|13/12|5/12|12/13|3|Se usa sen²α + cos²α = 1: cos α = √(1 − (5/13)²) = 12/13.
+En un triángulo rectángulo con cateto opuesto 8 y hipotenusa 17, ¿cuánto mide aproximadamente el ángulo? (en grados, 1 decimal)|38,1°|25,2°|28,1°|61,9°|2|sen α = 8/17, entonces α = arcsen(8/17) ≈ 28,1°.
+Una rampa de 5 m de largo forma un ángulo de 10° con el piso. ¿Qué altura alcanza? (2 decimales)|0,88 m|4,92 m|0,87 m|28,79 m|2|sen 10° = altura/5 → altura = 5 · sen 10° ≈ 0,87 m.
+Si tg α = 3/4 con α agudo, ¿cuánto vale sen α?|4/5|4/3|5/3|3/5|3|Con catetos 9 y 12 la hipotenusa es 15 y sen α = 9/15 = 3/5.
+Un árbol de 15 m de altura proyecta una sombra cuando el sol forma un ángulo de 30° con el suelo. ¿Cuánto mide la sombra? (1 decimal)|8,7 m|7,5 m|26 m|13 m|2|tg 30° = 15/sombra, entonces sombra = 15 / tg 30° ≈ 26 m.
+Un observador está a 40 m de una torre. Ve la punta con un ángulo de elevación de 60° y sus ojos están a nivel del suelo. ¿Cuál es la altura de la torre? (1 decimal)|34,6 m|69,3 m|23,1 m|20 m|1|tg 60° = h/40 → h = 40 · tg 60° ≈ 69,3 m.
+Una rampa de 5 m de largo forma un ángulo de 25° con el piso. ¿Qué altura alcanza? (2 decimales)|11,83 m|4,53 m|2,11 m|2,33 m|2|sen 25° = altura/5 → altura = 5 · sen 25° ≈ 2,11 m.
+Un árbol de 12 m de altura proyecta una sombra cuando el sol forma un ángulo de 60° con el suelo. ¿Cuánto mide la sombra? (1 decimal)|20,8 m|10,4 m|6,9 m|6 m|2|tg 60° = 12/sombra, entonces sombra = 12 / tg 60° ≈ 6,9 m.
+Si tg α = 7/24 con α agudo, ¿cuánto vale sen α?|7/25|24/7|25/7|24/25|0|Con catetos 7 y 24 la hipotenusa es 25 y sen α = 7/25 = 7/25.
+Una rampa de 12 m de largo forma un ángulo de 20° con el piso. ¿Qué altura alcanza? (2 decimales)|11,28 m|4,1 m|35,09 m|4,37 m|1|sen 20° = altura/12 → altura = 12 · sen 20° ≈ 4,1 m.
+Un árbol de 9 m de altura proyecta una sombra cuando el sol forma un ángulo de 30° con el suelo. ¿Cuánto mide la sombra? (1 decimal)|5,2 m|4,5 m|7,8 m|15,6 m|3|tg 30° = 9/sombra, entonces sombra = 9 / tg 30° ≈ 15,6 m.
+Si tg α = 8/15 con α agudo, ¿cuánto vale sen α?|15/8|8/17|17/8|15/17|1|Con catetos 8 y 15 la hipotenusa es 17 y sen α = 8/17 = 8/17.
+Si tg α = 20/21 con α agudo, ¿cuánto vale sen α?|21/29|21/20|20/29|29/20|2|Con catetos 20 y 21 la hipotenusa es 29 y sen α = 20/29 = 20/29.
+Un árbol de 6 m de altura proyecta una sombra cuando el sol forma un ángulo de 30° con el suelo. ¿Cuánto mide la sombra? (1 decimal)|3,5 m|10,4 m|5,2 m|3 m|1|tg 30° = 6/sombra, entonces sombra = 6 / tg 30° ≈ 10,4 m.
+Si tg α = 5/12 con α agudo, ¿cuánto vale sen α?|12/13|12/5|13/5|5/13|3|Con catetos 5 y 12 la hipotenusa es 13 y sen α = 5/13 = 5/13.
+Un observador está a 20 m de una torre. Ve la punta con un ángulo de elevación de 60° y sus ojos están a nivel del suelo. ¿Cuál es la altura de la torre? (1 decimal)|34,6 m|10 m|17,3 m|11,5 m|0|tg 60° = h/20 → h = 20 · tg 60° ≈ 34,6 m.
+Un observador está a 40 m de una torre. Ve la punta con un ángulo de elevación de 30° y sus ojos están a nivel del suelo. ¿Cuál es la altura de la torre? (1 decimal)|69,3 m|23,1 m|20 m|34,6 m|1|tg 30° = h/40 → h = 40 · tg 30° ≈ 23,1 m.
+Una rampa de 5 m de largo forma un ángulo de 20° con el piso. ¿Qué altura alcanza? (2 decimales)|1,82 m|14,62 m|1,71 m|4,7 m|2|sen 20° = altura/5 → altura = 5 · sen 20° ≈ 1,71 m.

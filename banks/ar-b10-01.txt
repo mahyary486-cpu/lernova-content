@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Cuál de estas es una función de las proteínas?|Ser la principal fuente de ADN|Formar las vitaminas|Reemplazar al agua|Catalizar reacciones como enzimas|3|Las enzimas son proteínas.
+¿Cuál es la principal función de los hidratos de carbono?|Almacenar información genética|Aportar energía|Catalizar reacciones|Formar anticuerpos|1|Aportan unas 4 kcal por gramo.
+Los lípidos se caracterizan por ser:|Muy solubles en agua|Siempre sólidos|Siempre gases|Insolubles en agua|3|Son hidrofóbicos.
+¿Qué biomolécula forma la pared celular vegetal?|Insulina|Celulosa|Glucógeno|ADN|1|Es un polisacárido estructural.
+¿Cuál es el polisacárido de reserva de las plantas?|Celulosa|Almidón|Quitina|Glucógeno|1|Se almacena en papas, arroz y trigo.
+¿Qué molécula almacena la información genética?|ADN|Glucosa|Colesterol|Hemoglobina|0|Está formado por nucleótidos.
+Las unidades que forman las proteínas son:|Aminoácidos|Monosacáridos|Ácidos grasos|Nucleótidos|0|Se unen por enlaces peptídicos.
+¿Cuál es el monosacárido más importante como fuente de energía?|Sacarosa|Celulosa|Almidón|Glucosa|3|Es el combustible de la respiración celular.
+¿Cuál es el polisacárido de reserva de los animales?|Almidón|Celulosa|Glucógeno|Sacarosa|2|Se almacena en el hígado y los músculos.
+¿Qué biomolécula es la más abundante en la célula?|ADN|Proteínas|Lípidos|Agua|3|Representa cerca del 70 % de la masa celular.
+¿Qué proteína transporta oxígeno en la sangre?|Queratina|Hemoglobina|Colágeno|Insulina|1|Contiene hierro.
+¿Qué es el sustrato de una enzima?|La temperatura|La enzima misma|La sustancia sobre la que actúa|El producto final|2|Se une al sitio activo.
+¿Qué vitamina favorece la absorción del calcio?|Vitamina B12|Vitamina C|Vitamina K|Vitamina D|3|La luz solar ayuda a sintetizarla.
+¿Cuántas kcal aporta aproximadamente 1 g de lípidos?|2|4|1|9|3|Los lípidos son más energéticos que los hidratos y las proteínas.
+¿Qué lípido forma la bicapa de las membranas celulares?|Ceras|Triglicéridos|Fosfolípidos|Esteroides|2|Tienen una cabeza hidrofílica y colas hidrofóbicas.
+¿Qué azúcar contiene el ADN?|Ribosa|Desoxirribosa|Glucosa|Fructosa|1|El ARN contiene ribosa.
+¿Qué hormona de naturaleza proteica regula la glucemia?|Testosterona|Cortisol|Insulina|Estrógeno|2|Es producida por el páncreas.
+¿Cuáles son los componentes de un nucleótido?|Ácido graso y glicerol|Aminoácido y glucosa|Azúcar, base nitrogenada y fosfato|Solo bases|2|Los ácidos nucleicos son polímeros de nucleótidos.
+¿Qué es una enzima?|Un ácido nucleico|Un lípido de reserva|Un hidrato de carbono|Una proteína que acelera una reacción química|3|Es un catalizador biológico.
+¿Cuántas capas de fosfolípidos tiene la membrana plasmática?|Tres|Dos|Cuatro|Una|1|Es una bicapa lipídica.
+¿Qué bases nitrogenadas se encuentran en el ARN?|A, T, G y C|A, U, G y C|A, T, U y C|T, U, G y C|1|El ARN tiene uracilo en lugar de timina.
+¿Por qué el colesterol en exceso es perjudicial?|Es un ácido nucleico|Puede depositarse en las arterias|Es una proteína|Es un hidrato de carbono|1|Favorece la aterosclerosis.
+Los aminoácidos esenciales son aquellos que:|No existen|Se fabrican en el hígado|No forman proteínas|Deben incorporarse con la dieta|3|El organismo no puede sintetizarlos.
+¿Por qué la celulosa no puede ser digerida por los seres humanos?|Es muy pequeña|Es una proteína|Carecemos de la enzima que rompe sus enlaces|Es un lípido|2|Funciona como fibra dietaria.
+¿Qué enlace une a los aminoácidos?|De hidrógeno|Peptídico|Iónico|Metálico|1|Se forma entre el grupo amino y el carboxilo.
+¿Qué estructura de una proteína depende de la secuencia de aminoácidos?|La primaria|La secundaria|La cuaternaria|La terciaria|0|La secuencia determina el plegamiento posterior.
+¿Cuál es la función del ATP?|Almacenar información genética|Proporcionar energía inmediata a la célula|Formar la membrana|Dar rigidez|1|Se produce en la respiración celular.
+Una enzima actúa sobre un sustrato específico porque:|Es un lípido|Tiene carga eléctrica|Su sitio activo tiene una forma complementaria|Tiene mucha masa|2|Es el modelo llave-cerradura.
+¿Qué le ocurre a una enzima si se la calienta mucho?|Se desnaturaliza y pierde su función|Se convierte en ADN|Aumenta siempre su actividad|Se transforma en lípido|0|La forma tridimensional es esencial.
+¿Qué diferencia hay entre una grasa saturada y una insaturada?|La insaturada es sólida siempre|La insaturada tiene dobles enlaces en la cadena|Ambas son idénticas|La saturada tiene dobles enlaces|1|Los aceites vegetales son ricos en insaturadas.

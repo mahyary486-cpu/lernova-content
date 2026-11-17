@@ -1,0 +1,30 @@
+#EEEEEEEEEEMMMMMMMMMHHHHHHHHHH
+¿Qué enfermedad es causada por una bacteria?|Dengue|Rubéola|Sarampión|Tuberculosis|3|Es tratable con antibióticos.
+¿Los antibióticos son efectivos contra:|Bacterias|Todos los patógenos|Virus|Alergias|0|No sirven para la gripe.
+¿Qué transmite el mosquito Aedes aegypti?|Gripe|Sarampión|Dengue|Tuberculosis|2|También chikungunya y zika.
+¿Qué es un patógeno?|Un órgano|Un agente que causa enfermedad|Un nutriente|Una vitamina|1|Pueden ser virus, bacterias, hongos o parásitos.
+¿Los virus son células?|No|Solo algunos|Son plantas|Sí|0|Necesitan una célula huésped para reproducirse.
+¿Qué enfermedad es causada por un virus?|Tuberculosis|Tétanos|Cólera|Gripe|3|Es una enfermedad viral.
+¿Cuál es la primera barrera de defensa del cuerpo?|La piel y las mucosas|Las plaquetas|Los anticuerpos|Los linfocitos T|0|Es parte de la inmunidad innata.
+¿Qué tipo de organismo es la bacteria?|Virus|Procariota|Hongo|Eucariota|1|Carece de núcleo.
+¿Cuál es la función de una vacuna?|Matar bacterias|Curar la enfermedad ya instalada|Preparar al sistema inmune para reconocer un patógeno|Aumentar la masa muscular|2|Produce memoria inmunológica.
+¿Qué células producen anticuerpos?|Neuronas|Plaquetas|Glóbulos rojos|Linfocitos B|3|Los plasmocitos derivan de los linfocitos B.
+¿Qué es la memoria inmunológica?|El recuerdo del cerebro|La capacidad de responder más rápido ante un patógeno ya conocido|Una enfermedad|Un tipo de vacuna|1|Se genera tras una infección o vacunación.
+¿Cuál es la función de los glóbulos blancos?|Coagular la sangre|Digerir|Defender al organismo|Transportar oxígeno|2|Incluyen linfocitos, macrófagos y neutrófilos.
+¿Qué hacen los macrófagos?|Fagocitan patógenos|Producen insulina|Transportan oxígeno|Fabrican anticuerpos|0|Son células de la inmunidad innata.
+¿Qué es un antígeno?|Un anticuerpo|Un órgano|Un glóbulo rojo|Una sustancia que el sistema inmune reconoce como extraña|3|Estimula la producción de anticuerpos.
+¿Qué enfermedad se previene con el calendario nacional de vacunación en la Argentina?|Gripe estacional solamente|Anemia|Sarampión|Caries|2|Hay vacunas gratuitas y obligatorias.
+¿Qué es una enfermedad autoinmune?|Una alergia a alimentos|Una carencia de vitaminas|Cuando el sistema inmune ataca tejidos propios|Una infección viral|2|Por ejemplo, la diabetes tipo 1.
+¿Qué es un anticuerpo?|Un lípido|Una proteína que se une específicamente a un antígeno|Un tipo de virus|Un azúcar|1|La produce el linfocito B.
+¿Qué hacen los linfocitos T?|Coagulan la sangre|Producen bilis|Transportan oxígeno|Coordinan la respuesta inmune y destruyen células infectadas|3|Se maduran en el timo.
+¿Qué es una alergia?|Un tipo de cáncer|Una respuesta inmune exagerada a una sustancia inofensiva|Una mutación|Una infección|1|Participa la histamina.
+¿Qué medida ayuda a prevenir el dengue?|Comer más sal|Evitar el sol|Eliminar recipientes con agua estancada|Tomar antibióticos|2|Se elimina el criadero del mosquito.
+¿Cómo se transmite el mal de Chagas?|Por el mosquito Aedes|Por la vinchuca|Por el agua potable|Por el aire|1|También puede ser congénito.
+¿Qué derecho garantiza el acceso a la salud en la Argentina?|Es solo privado|Se paga siempre|Es un derecho humano con cobertura pública|No existe|2|Hospitales y centros de salud públicos atienden gratuitamente.
+¿Qué es una enfermedad endémica?|Una enfermedad no infecciosa|Una que se extiende por todo el mundo|Una enfermedad rara|La que aparece habitualmente en una región|3|Por ejemplo, el mal de Chagas en algunas zonas.
+¿Por qué los antibióticos deben tomarse según prescripción médica?|Para evitar el dolor|Porque se acaban|Porque curan virus|Para evitar la resistencia bacteriana|3|El uso incorrecto selecciona bacterias resistentes.
+¿A qué células ataca el VIH?|Neuronas|Glóbulos rojos|Linfocitos T colaboradores|Células musculares|2|Debilita el sistema inmune.
+¿Cuál es el principal mecanismo de transmisión del VIH?|El agua|Contacto con fluidos corporales infectados|El aire|Las picaduras|1|Se previene con preservativo y diagnóstico temprano.
+¿Por qué la vacuna contra la gripe se aplica todos los años?|Es un antibiótico|El virus muta con frecuencia|No funciona|Dura un día|1|Las cepas cambian.
+La inmunidad pasiva se obtiene cuando:|Se hace deporte|Se reciben anticuerpos ya formados|Se recibe una vacuna|Se produce una infección|1|Por ejemplo, de la madre al bebé a través de la leche.
+¿Qué es la inmunidad de rebaño?|La protección indirecta cuando gran parte de la población está inmunizada|Un tipo de anticuerpo|La inmunidad de los animales|Una enfermedad|0|Disminuye la circulación del patógeno.

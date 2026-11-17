@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+El número de oxidación del oxígeno en la mayoría de sus compuestos es:|−1|−2|0|+2|1|Excepto en peróxidos (−1).
+¿Cuál es el nombre de Fe₂O₃?|Dióxido de hierro|Óxido ferroso|Óxido de hierro (III)|Óxido de hierro (II)|2|Fe tiene número de oxidación +3.
+¿Cuál es la fórmula del hidróxido de calcio?|CaOH|CaO₂H|Ca(OH)₂|Ca₂OH|2|Ca²⁺ necesita dos OH⁻.
+¿Cuál es la fórmula del óxido de sodio?|NaO|NaO₂|Na₂O|Na₂O₂|2|Na tiene valencia 1 y O valencia 2.
+¿Cuál es la fórmula del hidróxido de sodio?|Na₂OH|Na(OH)₂|NaO|NaOH|3|Na⁺ y OH⁻.
+¿Cuál es la fórmula del óxido de calcio?|CaO|Ca₂O|Ca₂O₃|CaO₂|0|Ca tiene valencia 2.
+¿Cuál es la fórmula del ácido carbónico?|HCO₃|H₂CO₃|H₂CO₂|CO₂|1|Se forma al disolver CO₂ en agua.
+¿Cuál es la fórmula del ácido nítrico?|H₂NO₃|HNO₂|NH₃|HNO₃|3|El nitrógeno tiene número de oxidación +5.
+¿Cuál es la fórmula del ácido sulfúrico?|H₂SO₄|HSO₄|H₂S|H₂SO₃|0|Es un oxoácido del azufre (+6).
+¿Cuál es la fórmula del ácido clorhídrico?|HCl|HClO₃|Cl₂|HClO|0|Es un hidrácido.
+¿Cuál es la fórmula del carbonato de sodio?|NaCO₃|Na(CO₃)₂|Na₂CO₃|Na₂CO₂|2|Na⁺ y CO₃²⁻.
+¿Cuál es el nombre de CaCO₃?|Carburo de calcio|Óxido de calcio|Carbonato de calcio|Bicarbonato de calcio|2|Es el componente principal de la piedra caliza.
+¿Cuál es el nombre de Na₂SO₄?|Sulfuro de sodio|Sulfato de sodio|Hiposulfito de sodio|Sulfito de sodio|1|Proviene del ácido sulfúrico.
+¿Cuál es la fórmula del cloruro de aluminio?|AlCl₂|Al₃Cl|AlCl₃|AlCl|2|Al³⁺ necesita tres Cl⁻.
+¿Cuál es la fórmula del sulfato de cobre (II)?|CuSO₄|Cu(SO₄)₂|Cu₂SO₄|CuSO₃|0|Cu²⁺ y SO₄²⁻.
+¿Cuál es el nombre de KNO₃?|Óxido de potasio|Nitruro de potasio|Nitrito de potasio|Nitrato de potasio|3|Proviene del ácido nítrico.
+¿Cuál es el nombre de NaCl?|Cloruro de sodio|Hipoclorito de sodio|Cloro sódico|Clorato de sodio|0|Es la sal de mesa.
+¿Cuál es la fórmula del dióxido de azufre?|S₂O|SO₂|S₂O₂|SO₃|1|Es un óxido ácido.
+¿Cuál es el nombre de NaClO?|Clorato de sodio|Cloruro de sodio|Hipoclorito de sodio|Perclorato de sodio|2|Es el principio activo de la lavandina.
+¿Cuál es el número de oxidación del manganeso en KMnO₄?|+7|+4|+2|+6|0|+1 + Mn + 4·(−2) = 0 → Mn = +7.
+¿Cuál es la fórmula del ácido fosfórico?|H₃PO₄|HPO₃|H₃PO₃|H₂PO₄|0|El fósforo actúa con +5.
+¿Cuál es el número de oxidación del nitrógeno en NH₃?|−3|+3|+5|0|0|3·(+1) + N = 0 → N = −3.
+¿Cuál es el número de oxidación del carbono en CO₂?|0|+2|−4|+4|3|C + 2·(−2) = 0 → C = +4.
+¿Cuál es el número de oxidación del cloro en NaClO₃?|+3|+5|+1|+7|1|+1 + Cl + 3·(−2) = 0 → Cl = +5.
+¿Cuál es el número de oxidación del azufre en H₂SO₄?|+6|+2|−2|+4|0|2·(+1) + S + 4·(−2) = 0 → S = +6.
+Un óxido de un no metal que reacciona con agua forma:|Una sal|Un metal|Un ácido|Una base|2|Por ejemplo, SO₃ + H₂O → H₂SO₄.
+¿Cuál es la fórmula del bicarbonato de sodio?|NaHCO₃|NaOH|Na₂CO₃|NaCO₂|0|Es una sal ácida de uso cotidiano.
+¿Qué compuesto es una sal?|HCl|Na₂O|NaCl|NaOH|2|Una sal proviene de un ácido y una base.
+¿Cuál es la fórmula del hidróxido de hierro (III)?|Fe(OH)₃|FeOH₃|Fe₃(OH)|Fe(OH)₂|0|Fe³⁺ necesita tres OH⁻.
+Un óxido de un metal que reacciona con agua forma:|Una sal ácida|Un gas|Un ácido|Un hidróxido|3|Por ejemplo, CaO + H₂O → Ca(OH)₂.

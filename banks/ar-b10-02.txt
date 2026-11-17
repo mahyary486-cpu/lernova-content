@@ -1,0 +1,30 @@
+#EEEEEEEEEEMMMMMMMMMHHHHHHHHHH
+¿Qué pigmento capta la luz en la fotosíntesis?|Melanina|Clorofila|Caroteno solamente|Hemoglobina|1|Le da el color verde a las plantas.
+¿Qué es el metabolismo?|El transporte de agua|La herencia|El conjunto de reacciones químicas de la célula|La división celular|2|Incluye anabolismo y catabolismo.
+¿Dónde ocurre la fotosíntesis?|En las mitocondrias|En el núcleo|En los cloroplastos|En los ribosomas|2|Allí está la clorofila.
+¿Qué gas se necesita para la respiración aeróbica?|Nitrógeno|Hidrógeno|Oxígeno|Dióxido de carbono|2|Es el aceptor final de electrones.
+El catabolismo es el conjunto de reacciones de:|Replicación del ADN|Fotosíntesis|Degradación de moléculas con liberación de energía|Síntesis de proteínas|2|La respiración celular es catabólica.
+¿Cómo se llaman los organismos que se alimentan de otros?|Autótrofos|Fotosintéticos|Heterótrofos|Quimiosintéticos|2|Los animales son heterótrofos.
+El anabolismo es el conjunto de reacciones de:|Degradación de moléculas|Digestión|Síntesis de moléculas complejas|Excreción|2|Consume energía.
+¿Qué gas liberan las plantas durante la fotosíntesis?|Nitrógeno|Dióxido de carbono|Oxígeno|Metano|2|Proviene de la fotólisis del agua.
+¿Dónde ocurre la respiración celular aeróbica?|En los cloroplastos|En las mitocondrias|En el aparato de Golgi|En el núcleo|1|Allí se produce la mayor parte del ATP.
+¿Cómo se llaman los organismos que fabrican su propio alimento?|Descomponedores|Heterótrofos|Parásitos|Autótrofos|3|Las plantas realizan fotosíntesis.
+¿Cómo se llaman las etapas de la fotosíntesis?|Fase luminosa y fase oscura (ciclo de Calvin)|Glucólisis y Krebs|Mitosis y meiosis|Transcripción y traducción|0|La luminosa produce ATP y NADPH.
+La ecuación global de la respiración celular es:|C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + ATP|6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂|H₂O → H₂ + O₂|CO₂ → C|0|La glucosa se oxida por completo.
+¿Qué se obtiene en la fermentación láctica?|Alcohol etílico|Oxígeno|Ácido láctico|Glucosa|2|Ocurre en los músculos con esfuerzo intenso.
+¿Qué producto de la fermentación se utiliza para hacer pan?|Dióxido de carbono|Ácido láctico|Oxígeno|Alcohol|0|Hace crecer la masa.
+¿Qué proceso ocurre cuando no hay oxígeno?|Fotosíntesis|Ósmosis|Respiración aeróbica|Fermentación|3|Produce poco ATP.
+¿Qué se obtiene en la fermentación alcohólica?|Ácido láctico|Etanol y CO₂|Agua|Oxígeno|1|La realizan las levaduras.
+¿Cuántas moléculas de ATP netas produce la glucólisis por cada glucosa?|2|36|10|0|0|También produce 2 piruvatos.
+¿Cuál es la primera etapa de la respiración celular?|Fermentación|Cadena respiratoria|Ciclo de Krebs|Glucólisis|3|Ocurre en el citoplasma.
+La ecuación global de la fotosíntesis es:|CO₂ → O₂|C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O|C₆H₁₂O₆ → 2 ATP|6 CO₂ + 6 H₂O + luz → C₆H₁₂O₆ + 6 O₂|3|Se forma glucosa a partir de CO₂ y agua.
+¿Por qué la respiración aeróbica rinde más ATP que la fermentación?|No usa glucosa|No necesita enzimas|Oxida completamente la glucosa|Ocurre en el núcleo|2|Produce unas 30 a 38 moléculas de ATP por glucosa.
+¿Cuál es el aceptor final de electrones en la cadena respiratoria?|Glucosa|Nitrógeno|Oxígeno|CO₂|2|Forma agua.
+Los calambres tras un esfuerzo intenso se asocian a:|Falta de glucosa en el ciclo|Fotosíntesis|Exceso de oxígeno|Acumulación de ácido láctico|3|Por fermentación láctica.
+¿Qué pasa con la energía en las cadenas tróficas?|Se mantiene igual|Aumenta|Se transfiere con pérdidas en cada nivel|Se recicla totalmente|2|Gran parte se disipa como calor.
+¿Qué factor limita la tasa de fotosíntesis?|El color del pote|Solo la masa de la hoja|Luz, CO₂ y temperatura|La edad de la planta|2|Son los factores ambientales principales.
+Si una planta se mantiene en oscuridad, ¿qué proceso se detiene?|La respiración|La fase luminosa de la fotosíntesis|La mitosis|La ósmosis|1|Sin luz no se produce ATP ni NADPH.
+¿Por qué la fotosíntesis y la respiración se consideran procesos complementarios?|Ocurren en el mismo orgánulo|Los productos de uno son los reactivos del otro|Ambos liberan oxígeno|Ambos consumen glucosa|1|Reciclan el carbono y el oxígeno.
+¿Qué estructura de la hoja permite el intercambio de gases?|La cutícula|El xilema|La epidermis superior|Los estomas|3|Se abren y cierran según el ambiente.
+¿Dónde ocurre el ciclo de Krebs?|En el citoplasma|En la matriz mitocondrial|En el núcleo|En los ribosomas|1|Produce CO₂ y coenzimas reducidas.
+La mayor parte del ATP de la respiración se produce en:|La digestión|La glucólisis|La cadena transportadora de electrones|La fermentación|2|Ocurre en las crestas mitocondriales.

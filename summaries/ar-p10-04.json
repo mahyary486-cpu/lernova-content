@@ -1,0 +1,5 @@
+{
+ "Cantidad de movimiento e impulso": "La cantidad de movimiento de un cuerpo es p = m·v (vector). El impulso de una fuerza es I = F·Δt y es igual a la variación de la cantidad de movimiento: I = Δp. Esta es otra forma de la segunda ley de Newton.",
+ "Conservación de la cantidad de movimiento": "Si sobre un sistema no actúan fuerzas externas netas, la cantidad de movimiento total se conserva. Se aplica a choques, explosiones y retrocesos. Se debe considerar el signo según el sentido elegido como positivo.",
+ "Choques elásticos e inelásticos": "En todo choque, con un sistema aislado, se conserva la cantidad de movimiento. En un choque elástico también se conserva la energía cinética; en uno inelástico, parte se transforma en calor y deformación. En un choque perfectamente inelástico los cuerpos quedan unidos."
+}

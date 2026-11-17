@@ -1,0 +1,5 @@
+{
+ "Tablas, gráficos y medidas de posición": "Los datos se organizan en tablas de frecuencias y se representan con gráficos. La media es el promedio, la mediana es el valor central de los datos ordenados y la moda es el dato más frecuente.",
+ "Medidas de dispersión": "La dispersión indica qué tan alejados están los datos de su centro. El rango es el máximo menos el mínimo; la varianza es el promedio de los cuadrados de los desvíos y el desvío estándar es su raíz cuadrada.",
+ "Interpretación y comparación de datos": "Para comparar conjuntos de datos se miran juntas una medida de posición y una de dispersión. Los valores atípicos afectan mucho a la media pero casi nada a la mediana. Al sumar una constante a todos los datos se corre la media; al multiplicar se escalan la media y el desvío."
+}

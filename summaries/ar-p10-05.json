@@ -1,0 +1,5 @@
+{
+ "Movimiento circular uniforme": "En el movimiento circular uniforme la trayectoria es una circunferencia y la rapidez es constante. Se describe con el período T, la frecuencia f = 1/T y la velocidad v = 2πR/T. La velocidad cambia de dirección, por lo que hay aceleración centrípeta a = v²/R.",
+ "Fuerza centrípeta y ley de gravitación": "La fuerza centrípeta es la fuerza neta dirigida al centro: Fc = m·v²/R. Según la ley de gravitación universal, dos masas se atraen con F = G·m₁·m₂/d². Esta fuerza mantiene a la Luna en órbita y a los satélites alrededor de la Tierra.",
+ "Leyes de Kepler y satélites": "Las leyes de Kepler describen el movimiento planetario: las órbitas son elipses con el Sol en un foco, el radio vector barre áreas iguales en tiempos iguales y T² es proporcional a R³. Los satélites artificiales, como los argentinos SAC y ARSAT, orbitan por la gravedad terrestre."
+}

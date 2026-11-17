@@ -1,0 +1,5 @@
+{
+ "Presión y presión hidrostática": "La presión es la fuerza perpendicular por unidad de área: p = F/A, en pascales. En un líquido en reposo la presión aumenta con la profundidad: p = ρ·g·h. La presión atmosférica a nivel del mar es de unos 101 300 Pa.",
+ "Principio de Pascal": "La presión aplicada a un fluido encerrado se transmite sin pérdida a todos sus puntos. En una prensa hidráulica, F₁/A₁ = F₂/A₂: una fuerza pequeña en un pistón chico produce una fuerza grande en uno de mayor área. Se aplica en frenos, gatos y elevadores.",
+ "Principio de Arquímedes y flotación": "Un cuerpo sumergido recibe un empuje vertical hacia arriba igual al peso del fluido que desaloja: E = ρ·g·V. Flota si su densidad es menor que la del líquido; el peso aparente es P − E. Explica la flotación de barcos y globos."
+}

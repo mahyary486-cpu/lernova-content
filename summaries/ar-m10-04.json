@@ -1,0 +1,5 @@
+{
+ "Parábola, vértice y eje de simetría": "La gráfica de f(x) = ax² + bx + c es una parábola. Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Su vértice está en xᵥ = −b/(2a) y su eje de simetría es la recta x = xᵥ. Corta al eje y en (0; c).",
+ "Raíces y formas de la función cuadrática": "Las raíces de f son los valores de x donde f(x) = 0 y se obtienen con la resolvente. La función tiene tres formas: polinómica ax² + bx + c, factorizada a(x − x₁)(x − x₂) y canónica a(x − xᵥ)² + yᵥ.",
+ "Problemas de máximos y mínimos": "El vértice de la parábola es el máximo (si a < 0) o el mínimo (si a > 0) de la función. Por eso la función cuadrática modela problemas de altura máxima, área máxima o costo mínimo."
+}

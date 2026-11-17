@@ -14420,6 +14420,466 @@
         }
       ],
       "country": "AR"
+    },
+    {
+      "grade": 10,
+      "subject": "Biology",
+      "chapters": [
+        {
+          "id": "ar-b10-01",
+          "title": "Biomoléculas",
+          "lessons": [
+            {
+              "id": "ar-b10-01-01",
+              "title": "Hidratos de carbono y lípidos"
+            },
+            {
+              "id": "ar-b10-01-02",
+              "title": "Proteínas y enzimas"
+            },
+            {
+              "id": "ar-b10-01-03",
+              "title": "Ácidos nucleicos y ATP"
+            }
+          ]
+        },
+        {
+          "id": "ar-b10-02",
+          "title": "Metabolismo y energía celular",
+          "lessons": [
+            {
+              "id": "ar-b10-02-01",
+              "title": "Fotosíntesis"
+            },
+            {
+              "id": "ar-b10-02-02",
+              "title": "Respiración celular y fermentación"
+            },
+            {
+              "id": "ar-b10-02-03",
+              "title": "Flujo de energía y metabolismo"
+            }
+          ]
+        },
+        {
+          "id": "ar-b10-03",
+          "title": "Ciclo celular y herencia",
+          "lessons": [
+            {
+              "id": "ar-b10-03-01",
+              "title": "Ciclo celular y mitosis"
+            },
+            {
+              "id": "ar-b10-03-02",
+              "title": "Meiosis y variabilidad"
+            },
+            {
+              "id": "ar-b10-03-03",
+              "title": "Genética mendeliana"
+            }
+          ]
+        },
+        {
+          "id": "ar-b10-04",
+          "title": "Genética molecular y biotecnología",
+          "lessons": [
+            {
+              "id": "ar-b10-04-01",
+              "title": "Replicación, transcripción y traducción"
+            },
+            {
+              "id": "ar-b10-04-02",
+              "title": "Mutaciones"
+            },
+            {
+              "id": "ar-b10-04-03",
+              "title": "Biotecnología e ingeniería genética"
+            }
+          ]
+        },
+        {
+          "id": "ar-b10-05",
+          "title": "Salud, defensas e inmunidad",
+          "lessons": [
+            {
+              "id": "ar-b10-05-01",
+              "title": "Agentes patógenos y enfermedades infecciosas"
+            },
+            {
+              "id": "ar-b10-05-02",
+              "title": "Sistema inmune"
+            },
+            {
+              "id": "ar-b10-05-03",
+              "title": "Vacunas y salud pública"
+            }
+          ]
+        },
+        {
+          "id": "ar-b10-06",
+          "title": "Poblaciones, ciclos biogeoquímicos y cambio climático",
+          "lessons": [
+            {
+              "id": "ar-b10-06-01",
+              "title": "Dinámica de poblaciones"
+            },
+            {
+              "id": "ar-b10-06-02",
+              "title": "Ciclos biogeoquímicos"
+            },
+            {
+              "id": "ar-b10-06-03",
+              "title": "Cambio climático y sustentabilidad"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 10,
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "ar-c10-01",
+          "title": "Formulación y nomenclatura de compuestos inorgánicos",
+          "lessons": [
+            {
+              "id": "ar-c10-01-01",
+              "title": "Números de oxidación y óxidos"
+            },
+            {
+              "id": "ar-c10-01-02",
+              "title": "Hidróxidos y ácidos"
+            },
+            {
+              "id": "ar-c10-01-03",
+              "title": "Sales"
+            }
+          ]
+        },
+        {
+          "id": "ar-c10-02",
+          "title": "Estequiometría, reactivo limitante y rendimiento",
+          "lessons": [
+            {
+              "id": "ar-c10-02-01",
+              "title": "Cálculos con moles y masas"
+            },
+            {
+              "id": "ar-c10-02-02",
+              "title": "Reactivo limitante y en exceso"
+            },
+            {
+              "id": "ar-c10-02-03",
+              "title": "Rendimiento y pureza"
+            }
+          ]
+        },
+        {
+          "id": "ar-c10-03",
+          "title": "Gases ideales y sus leyes",
+          "lessons": [
+            {
+              "id": "ar-c10-03-01",
+              "title": "Teoría cinética y variables de estado"
+            },
+            {
+              "id": "ar-c10-03-02",
+              "title": "Leyes de Boyle, Charles y Gay-Lussac"
+            },
+            {
+              "id": "ar-c10-03-03",
+              "title": "Ecuación de estado y volumen molar"
+            }
+          ]
+        },
+        {
+          "id": "ar-c10-04",
+          "title": "Termoquímica y velocidad de reacción",
+          "lessons": [
+            {
+              "id": "ar-c10-04-01",
+              "title": "Calor, temperatura y calorimetría"
+            },
+            {
+              "id": "ar-c10-04-02",
+              "title": "Reacciones exotérmicas y endotérmicas"
+            },
+            {
+              "id": "ar-c10-04-03",
+              "title": "Velocidad de reacción y catalizadores"
+            }
+          ]
+        },
+        {
+          "id": "ar-c10-05",
+          "title": "Ácidos, bases, pH y equilibrio químico",
+          "lessons": [
+            {
+              "id": "ar-c10-05-01",
+              "title": "Teoría de ácidos y bases y pH"
+            },
+            {
+              "id": "ar-c10-05-02",
+              "title": "Ácidos y bases fuertes y débiles, neutralización"
+            },
+            {
+              "id": "ar-c10-05-03",
+              "title": "Equilibrio químico y principio de Le Châtelier"
+            }
+          ]
+        },
+        {
+          "id": "ar-c10-06",
+          "title": "Introducción a la química orgánica",
+          "lessons": [
+            {
+              "id": "ar-c10-06-01",
+              "title": "El carbono y los hidrocarburos"
+            },
+            {
+              "id": "ar-c10-06-02",
+              "title": "Grupos funcionales y compuestos de uso cotidiano"
+            },
+            {
+              "id": "ar-c10-06-03",
+              "title": "Petróleo, combustibles y polímeros"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 10,
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "ar-m10-01",
+          "title": "Números reales, intervalos y radicales",
+          "lessons": [
+            {
+              "id": "ar-m10-01-01",
+              "title": "Números irracionales y recta real"
+            },
+            {
+              "id": "ar-m10-01-02",
+              "title": "Intervalos y valor absoluto"
+            },
+            {
+              "id": "ar-m10-01-03",
+              "title": "Operaciones con radicales y racionalización"
+            }
+          ]
+        },
+        {
+          "id": "ar-m10-02",
+          "title": "Polinomios y factoreo",
+          "lessons": [
+            {
+              "id": "ar-m10-02-01",
+              "title": "Operaciones con polinomios"
+            },
+            {
+              "id": "ar-m10-02-02",
+              "title": "Regla de Ruffini y teorema del resto"
+            },
+            {
+              "id": "ar-m10-02-03",
+              "title": "Factoreo de polinomios"
+            }
+          ]
+        },
+        {
+          "id": "ar-m10-03",
+          "title": "Ecuaciones de segundo grado",
+          "lessons": [
+            {
+              "id": "ar-m10-03-01",
+              "title": "Ecuaciones cuadráticas incompletas y por factoreo"
+            },
+            {
+              "id": "ar-m10-03-02",
+              "title": "Fórmula resolvente"
+            },
+            {
+              "id": "ar-m10-03-03",
+              "title": "Discriminante y problemas"
+            }
+          ]
+        },
+        {
+          "id": "ar-m10-04",
+          "title": "Función cuadrática",
+          "lessons": [
+            {
+              "id": "ar-m10-04-01",
+              "title": "Parábola, vértice y eje de simetría"
+            },
+            {
+              "id": "ar-m10-04-02",
+              "title": "Raíces y formas de la función cuadrática"
+            },
+            {
+              "id": "ar-m10-04-03",
+              "title": "Problemas de máximos y mínimos"
+            }
+          ]
+        },
+        {
+          "id": "ar-m10-05",
+          "title": "Trigonometría del triángulo rectángulo",
+          "lessons": [
+            {
+              "id": "ar-m10-05-01",
+              "title": "Razones trigonométricas"
+            },
+            {
+              "id": "ar-m10-05-02",
+              "title": "Resolución de triángulos rectángulos"
+            },
+            {
+              "id": "ar-m10-05-03",
+              "title": "Aplicaciones: ángulos de elevación y depresión"
+            }
+          ]
+        },
+        {
+          "id": "ar-m10-06",
+          "title": "Estadística descriptiva",
+          "lessons": [
+            {
+              "id": "ar-m10-06-01",
+              "title": "Tablas, gráficos y medidas de posición"
+            },
+            {
+              "id": "ar-m10-06-02",
+              "title": "Medidas de dispersión"
+            },
+            {
+              "id": "ar-m10-06-03",
+              "title": "Interpretación y comparación de datos"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 10,
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "ar-p10-01",
+          "title": "Movimiento rectilíneo uniformemente variado y caída libre",
+          "lessons": [
+            {
+              "id": "ar-p10-01-01",
+              "title": "MRUV: aceleración y ecuaciones horarias"
+            },
+            {
+              "id": "ar-p10-01-02",
+              "title": "Caída libre y tiro vertical"
+            },
+            {
+              "id": "ar-p10-01-03",
+              "title": "Interpretación de gráficos y problemas de encuentro"
+            }
+          ]
+        },
+        {
+          "id": "ar-p10-02",
+          "title": "Dinámica: leyes de Newton y rozamiento",
+          "lessons": [
+            {
+              "id": "ar-p10-02-01",
+              "title": "Las leyes de Newton"
+            },
+            {
+              "id": "ar-p10-02-02",
+              "title": "Diagrama de cuerpo libre y rozamiento"
+            },
+            {
+              "id": "ar-p10-02-03",
+              "title": "Aplicaciones: cuerpos vinculados y plano inclinado"
+            }
+          ]
+        },
+        {
+          "id": "ar-p10-03",
+          "title": "Trabajo, energía y potencia",
+          "lessons": [
+            {
+              "id": "ar-p10-03-01",
+              "title": "Trabajo y potencia"
+            },
+            {
+              "id": "ar-p10-03-02",
+              "title": "Energía cinética y potencial"
+            },
+            {
+              "id": "ar-p10-03-03",
+              "title": "Conservación de la energía"
+            }
+          ]
+        },
+        {
+          "id": "ar-p10-04",
+          "title": "Cantidad de movimiento y choques",
+          "lessons": [
+            {
+              "id": "ar-p10-04-01",
+              "title": "Cantidad de movimiento e impulso"
+            },
+            {
+              "id": "ar-p10-04-02",
+              "title": "Conservación de la cantidad de movimiento"
+            },
+            {
+              "id": "ar-p10-04-03",
+              "title": "Choques elásticos e inelásticos"
+            }
+          ]
+        },
+        {
+          "id": "ar-p10-05",
+          "title": "Movimiento circular y gravitación",
+          "lessons": [
+            {
+              "id": "ar-p10-05-01",
+              "title": "Movimiento circular uniforme"
+            },
+            {
+              "id": "ar-p10-05-02",
+              "title": "Fuerza centrípeta y ley de gravitación"
+            },
+            {
+              "id": "ar-p10-05-03",
+              "title": "Leyes de Kepler y satélites"
+            }
+          ]
+        },
+        {
+          "id": "ar-p10-06",
+          "title": "Hidrostática: presión, Pascal y Arquímedes",
+          "lessons": [
+            {
+              "id": "ar-p10-06-01",
+              "title": "Presión y presión hidrostática"
+            },
+            {
+              "id": "ar-p10-06-02",
+              "title": "Principio de Pascal"
+            },
+            {
+              "id": "ar-p10-06-03",
+              "title": "Principio de Arquímedes y flotación"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
     }
   ]
 }
