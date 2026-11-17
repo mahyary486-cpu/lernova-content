@@ -112,5 +112,11 @@
   "start": "01-29",
   "span": 1,
   "contentYear": "2026"
+ },
+ "TJ": {
+  "name": "Tajikistan",
+  "start": "09-01",
+  "span": 2,
+  "contentYear": "2026-2027"
  }
 }
