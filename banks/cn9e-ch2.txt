@@ -1,0 +1,9 @@
+#EEEMMMMH
+I ___ already ___ my homework.|has; finished|have; finish|have; finished|had; finished|2|already 常与现在完成时连用：have finished。
+— ___ you ever ___ to Shanghai? — Yes, I have.|Did; go|Have; been|Do; go|Are; going|1|ever 与现在完成时连用，表示"去过"用 have been to。
+He has lived here ___ 2015.|for|since|in|at|1|2015 是时间点，用 since。
+My uncle has ___ this car for three years.|bought|had|buy|get|1|buy 是非延续性动词，不能与 for 连用，要改为 have 的完成时 has had。
+She ___ in this school for two years.|has joined|joined|has been in|has been join|2|join 是非延续性动词，应改为 be in，与 for 连用。
+When we got to the cinema, the film ___.|began|has begun|had already begun|was beginning|2|电影在我们到达之前已经开始，用过去完成时。
+He has been ill ___ three days.|since|for|during|in|1|three days 是一段时间，用 for。
+I saw him ___.|just now|already|yet|ever|0|just now 表示过去的某个时刻，与一般过去时连用；already、yet、ever 与现在完成时连用。

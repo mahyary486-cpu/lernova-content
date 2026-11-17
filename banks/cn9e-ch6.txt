@@ -1,0 +1,9 @@
+#EEEMMMMH
+— ___ I borrow your pen? — Yes, you may.|May|Must|Need|Shall|0|请求许可，用 May I ...?。
+She ___ swim when she was five.|can|could|may|must|1|when she was five 表示过去，用 can 的过去式 could。
+You ___ smoke here. It's dangerous.|mustn't|needn't|can|may|0|mustn't 表示禁止。
+— Must I finish it today? — No, you ___.|mustn't|needn't|can't|may not|1|回答 Must I ...? 的否定用 needn't。
+I ___ get up early every day because school starts at seven.|must|have to|can|may|1|有客观原因（学校七点上课），用 have to。
+The lights are on. He ___ be at home.|can't|must|needn't|shouldn't|1|灯亮着是依据，肯定的推测用 must be。
+That ___ be Tom. He is in Beijing now.|must|may|can't|should|2|他在北京，所以否定的推测用 can't be。
+He ___ be at home, but I'm not sure.|must|can't|might|needn't|2|"但我不确定"，说明把握很小，用 might。

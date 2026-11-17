@@ -1,0 +1,9 @@
+#EEEMMMMH
+English ___ in many countries.|speaks|is spoken|spoke|is speaking|1|主语 English 是 speak 的承受者，用一般现在时的被动语态。
+The window ___ by Tom yesterday.|broke|was broken|is broken|broken|1|yesterday 表示过去，用一般过去时的被动语态 was broken。
+The bridge ___ next year.|will build|will be built|is built|builds|1|next year 表示将来，用一般将来时的被动语态 will be built。
+The work ___ already ___.|has; finished|have; been finished|has; been finished|is; finished|2|主语 The work 是单数，完成时的被动结构 has been finished。
+The problem can ___ in a few minutes.|solve|be solved|solved|is solved|1|含情态动词的被动语态：can be + 过去分词。
+The accident ___ last night.|was happened|happened|is happened|has been happened|1|happen 是不及物动词，不能用被动语态。
+We saw him cross the road. → He ___ cross the road.|was seen to|was seen|saw to|was saw|0|感官动词变被动时，省略的 to 要补上：was seen to cross。
+My bike ___ last night, so I walked to school.|stole|was stolen|has stolen|is stolen|1|自行车是被偷的，且 last night 表示过去，用 was stolen。

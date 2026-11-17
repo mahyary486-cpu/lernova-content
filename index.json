@@ -15546,6 +15546,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "subject": "English",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn9e-ch1",
+          "title": "一般时态与进行时态",
+          "lessons": [
+            {
+              "id": "cn9e-ch1-l1",
+              "title": "一般现在时与现在进行时"
+            },
+            {
+              "id": "cn9e-ch1-l2",
+              "title": "一般过去时与过去进行时"
+            },
+            {
+              "id": "cn9e-ch1-l3",
+              "title": "一般将来时"
+            }
+          ]
+        },
+        {
+          "id": "cn9e-ch2",
+          "title": "完成时态",
+          "lessons": [
+            {
+              "id": "cn9e-ch2-l1",
+              "title": "现在完成时"
+            },
+            {
+              "id": "cn9e-ch2-l2",
+              "title": "for 和 since 与延续性动词"
+            },
+            {
+              "id": "cn9e-ch2-l3",
+              "title": "过去完成时"
+            }
+          ]
+        },
+        {
+          "id": "cn9e-ch3",
+          "title": "被动语态",
+          "lessons": [
+            {
+              "id": "cn9e-ch3-l1",
+              "title": "被动语态的构成"
+            },
+            {
+              "id": "cn9e-ch3-l2",
+              "title": "不同时态的被动语态"
+            },
+            {
+              "id": "cn9e-ch3-l3",
+              "title": "被动语态的用法与注意"
+            }
+          ]
+        },
+        {
+          "id": "cn9e-ch4",
+          "title": "宾语从句",
+          "lessons": [
+            {
+              "id": "cn9e-ch4-l1",
+              "title": "宾语从句的引导词"
+            },
+            {
+              "id": "cn9e-ch4-l2",
+              "title": "宾语从句的语序"
+            },
+            {
+              "id": "cn9e-ch4-l3",
+              "title": "宾语从句的时态呼应"
+            }
+          ]
+        },
+        {
+          "id": "cn9e-ch5",
+          "title": "定语从句",
+          "lessons": [
+            {
+              "id": "cn9e-ch5-l1",
+              "title": "关系代词 who、whom、which、that"
+            },
+            {
+              "id": "cn9e-ch5-l2",
+              "title": "that 与 which 的选用"
+            },
+            {
+              "id": "cn9e-ch5-l3",
+              "title": "关系副词 where、when、why"
+            }
+          ]
+        },
+        {
+          "id": "cn9e-ch6",
+          "title": "情态动词",
+          "lessons": [
+            {
+              "id": "cn9e-ch6-l1",
+              "title": "can、could、may、might"
+            },
+            {
+              "id": "cn9e-ch6-l2",
+              "title": "must、have to、should"
+            },
+            {
+              "id": "cn9e-ch6-l3",
+              "title": "表示推测的情态动词"
+            }
+          ]
+        },
+        {
+          "id": "cn9e-ch7",
+          "title": "状语从句",
+          "lessons": [
+            {
+              "id": "cn9e-ch7-l1",
+              "title": "时间与条件状语从句"
+            },
+            {
+              "id": "cn9e-ch7-l2",
+              "title": "原因与结果状语从句"
+            },
+            {
+              "id": "cn9e-ch7-l3",
+              "title": "让步与目的状语从句"
+            }
+          ]
+        },
+        {
+          "id": "cn9e-ch8",
+          "title": "阅读与写作技巧",
+          "lessons": [
+            {
+              "id": "cn9e-ch8-l1",
+              "title": "阅读理解的方法"
+            },
+            {
+              "id": "cn9e-ch8-l2",
+              "title": "完形填空与语法填空技巧"
+            },
+            {
+              "id": "cn9e-ch8-l3",
+              "title": "书面表达写作"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

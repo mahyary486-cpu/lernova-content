@@ -1,0 +1,9 @@
+#EEEMMMMH
+The girl ___ is singing is my sister.|who|which|whose|where|0|先行词 The girl 指人，关系词在从句中作主语，用 who。
+The book ___ I bought is interesting.|who|which|where|when|1|先行词 The book 指物，关系词作宾语，用 which。
+This is the house ___ I lived.|which|where|who|what|1|先行词是地点，关系词在从句中作地点状语，用 where。
+This is the best film ___ I have ever seen.|which|that|who|what|1|先行词被最高级修饰，只能用 that。
+Everything ___ he said is true.|which|what|that|who|2|先行词是不定代词 everything，只能用 that。
+I'll never forget the day ___ we met.|which|where|when|what|2|先行词 the day 表示时间，关系词作时间状语，用 when。
+That's the reason ___ he was late.|why|which|when|where|0|先行词 reason 表示原因，用 why。
+The factory ___ my father works is near the river.|which|where|that|who|1|先行词 The factory 是地点，关系词在从句中作地点状语，用 where，相当于 in which。

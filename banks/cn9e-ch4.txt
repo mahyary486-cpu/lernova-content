@@ -1,0 +1,9 @@
+#EEEMMMMH
+I don't know ___ he will come tomorrow.|that|if|what|which|1|从句意思是"他是否会来"，用 if 或 whether。
+I think ___ he is right.|that|if|whether|what|0|陈述句作宾语，用 that 引导，that 可以省略。
+Could you tell me ___?|where is the post office|where the post office is|where was the post office|where the post office was|1|宾语从句要用陈述语序，主句是一般现在时，从句用一般现在时。
+He asked me ___.|what was I doing|what I was doing|what am I doing|what I am doing|1|宾语从句用陈述语序，主句是过去时，从句用过去进行时。
+She said that she ___ ill.|is|was|will be|has been|1|主句 said 是一般过去时，从句用过去时。
+The teacher said that the earth ___ around the sun.|went|goes|is going|had gone|1|客观真理，从句用一般现在时。
+Do you know ___ he lives?|where|where does|where did|where is|0|宾语从句用陈述语序，he lives 在 where 后面。
+He asked ___ I could help him.|if|what|that|where|0|从句的意思是"我是否能帮助他"，是一般疑问句，用 if 引导。
