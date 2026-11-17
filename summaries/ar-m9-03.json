@@ -1,0 +1,5 @@
+{
+ "Lenguaje simbólico y expresiones algebraicas": "El lenguaje algebraico usa letras para representar números desconocidos o variables. Los términos semejantes tienen la misma parte literal y se pueden sumar o restar. La propiedad distributiva permite eliminar paréntesis.",
+ "Ecuaciones de primer grado": "Una ecuación de primer grado con una incógnita se resuelve aplicando las mismas operaciones a ambos miembros hasta dejar la x sola. Siempre se puede verificar reemplazando el resultado en la ecuación original.",
+ "Inecuaciones lineales": "Una inecuación lineal se resuelve como una ecuación, pero si se multiplica o divide por un número negativo el sentido de la desigualdad se invierte. La solución es un intervalo de números."
+}

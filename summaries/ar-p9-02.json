@@ -1,0 +1,5 @@
+{
+ "Fuerzas, peso y rozamiento": "Una fuerza es una interacción que puede cambiar el estado de movimiento o deformar un cuerpo; se mide en newtons. El peso es la fuerza con que la Tierra atrae a un cuerpo (P = m·g) y no es lo mismo que la masa. El rozamiento se opone al movimiento: Fr = μ·N.",
+ "Las leyes de Newton": "La primera ley (inercia): sin fuerza neta, un cuerpo mantiene su reposo o su velocidad constante. La segunda: F = m·a. La tercera: a toda acción corresponde una reacción de igual intensidad y sentido contrario, aplicadas sobre cuerpos distintos.",
+ "Aplicaciones de la segunda ley": "Para resolver problemas se dibujan las fuerzas, se calcula la fuerza neta en la dirección del movimiento y se aplica a = Fneta/m. En un ascensor que acelera hacia arriba la fuerza normal es N = m(g + a)."
+}

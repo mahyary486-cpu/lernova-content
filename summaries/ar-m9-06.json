@@ -1,0 +1,5 @@
+{
+ "Teorema de Pitágoras": "En todo triángulo rectángulo el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos: a² + b² = c². Sirve para calcular lados desconocidos y para verificar si un triángulo es rectángulo.",
+ "Teorema de Tales y semejanza de triángulos": "Dos triángulos son semejantes si tienen los ángulos iguales y los lados proporcionales. El teorema de Tales establece que rectas paralelas cortan a dos transversales en segmentos proporcionales. La razón de áreas es el cuadrado de la razón de semejanza.",
+ "Áreas y volúmenes de cuerpos geométricos": "El volumen de un prisma o cilindro es el área de la base por la altura. El de una pirámide o cono es un tercio de eso. El de una esfera es 4/3 de π por el radio al cubo. Las unidades de volumen son cúbicas."
+}

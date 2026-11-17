@@ -1,0 +1,5 @@
+{
+ "Sistemas de dos ecuaciones y su gráfico": "Un sistema de dos ecuaciones lineales con dos incógnitas busca un par (x; y) que verifique ambas ecuaciones. Gráficamente es la intersección de dos rectas: pueden cortarse en un punto, ser paralelas o coincidir.",
+ "Métodos de sustitución e igualación": "En sustitución se despeja una incógnita de una ecuación y se reemplaza en la otra. En igualación se despeja la misma incógnita de ambas ecuaciones y se igualan las expresiones. Siempre se calcula la otra incógnita y se verifica.",
+ "Método de reducción y problemas": "En el método de reducción (suma o resta) se multiplican las ecuaciones por números adecuados para que una incógnita tenga coeficientes opuestos; al sumar desaparece. Se aplica a problemas planteando dos incógnitas."
+}

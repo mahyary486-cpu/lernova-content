@@ -1,0 +1,5 @@
+{
+ "Proporcionalidad directa y función lineal": "Una función lineal tiene la forma f(x) = mx + b. Si b = 0 es una función de proporcionalidad directa y su gráfico pasa por el origen. Su gráfico es siempre una recta.",
+ "Pendiente, ordenada al origen y gráfico": "La pendiente m mide cuánto varía y por cada unidad que aumenta x: si m es positiva la recta crece, si es negativa decrece. Con dos puntos se calcula m = (y₂ − y₁)/(x₂ − x₁). La raíz es el valor de x que anula la función.",
+ "Ecuación de la recta, paralelas y perpendiculares": "Para hallar la ecuación de una recta se necesita su pendiente y un punto. Dos rectas son paralelas si tienen la misma pendiente y perpendiculares si el producto de sus pendientes es −1. Dos rectas no paralelas se cortan en un único punto."
+}

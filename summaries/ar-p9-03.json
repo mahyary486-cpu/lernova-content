@@ -1,0 +1,5 @@
+{
+ "Trabajo y potencia": "El trabajo de una fuerza constante es W = F·d·cos α; si la fuerza es paralela al desplazamiento, W = F·d. Se mide en joules. La potencia es el trabajo realizado por unidad de tiempo: P = W/t y se mide en watts.",
+ "Energía cinética y potencial": "La energía cinética es la energía del movimiento: Ec = ½·m·v². La energía potencial gravitatoria es la que tiene un cuerpo por su altura: Ep = m·g·h. La suma de ambas es la energía mecánica.",
+ "Conservación de la energía y rendimiento": "En ausencia de rozamiento, la energía mecánica se conserva: la potencial se transforma en cinética y viceversa. La energía total nunca se pierde, se transforma; el rendimiento es el cociente entre la energía útil y la total."
+}

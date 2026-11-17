@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Una resistencia de 3 Ω está conectada a 9 V. ¿Qué corriente circula?|4 A|27 A|1/3 A|3 A|3|Ley de Ohm: I = V/R = 9/3 = 3 A.
+Una resistencia de 4 Ω está conectada a 12 V. ¿Qué corriente circula?|48 A|1/3 A|4 A|3 A|3|Ley de Ohm: I = V/R = 12/4 = 3 A.
+Tres resistencias de 2 Ω, 3 Ω y 5 Ω están conectadas en serie. ¿Cuál es la resistencia total?|30 Ω|3 Ω|11 Ω|10 Ω|3|En serie las resistencias se suman: 2 + 3 + 5 = 10 Ω.
+Tres resistencias de 10 Ω, 20 Ω y 30 Ω están conectadas en serie. ¿Cuál es la resistencia total?|100 Ω|61 Ω|6000 Ω|60 Ω|3|En serie las resistencias se suman: 10 + 20 + 30 = 60 Ω.
+Un artefacto conectado a 220 V consume 10 A. ¿Cuál es su potencia?|22 W|2201 W|2200 W|230 W|2|P = V · I = 220 · 10 = 2200 W.
+Un artefacto conectado a 110 V consume 4 A. ¿Cuál es su potencia?|114 W|441 W|440 W|55/2 W|2|P = V · I = 110 · 4 = 440 W.
+Una resistencia de 2 Ω está conectada a 6 V. ¿Qué corriente circula?|12 A|3 A|4 A|1/3 A|1|Ley de Ohm: I = V/R = 6/2 = 3 A.
+¿Cuál es la unidad de la resistencia eléctrica?|Ohm|Volt|Watt|Ampere|0|La resistencia se mide en ohms (Ω).
+Un artefacto conectado a 9 V consume 3 A. ¿Cuál es su potencia?|3 W|27 W|28 W|12 W|1|P = V · I = 9 · 3 = 27 W.
+Tres resistencias de 4 Ω, 4 Ω y 4 Ω están conectadas en serie. ¿Cuál es la resistencia total?|13 Ω|12 Ω|16/3 Ω|64 Ω|1|En serie las resistencias se suman: 4 + 4 + 4 = 12 Ω.
+Dos resistencias de 6 Ω y 3 Ω están en paralelo. ¿Cuál es la resistencia equivalente?|2 Ω|18 Ω|9 Ω|9/2 Ω|0|1/R = 1/6 + 1/3 → R = (6 · 3)/(6 + 3) = 2 Ω.
+Dos resistencias de 12 Ω y 4 Ω están en paralelo. ¿Cuál es la resistencia equivalente?|8 Ω|48 Ω|3 Ω|16 Ω|2|1/R = 1/12 + 1/4 → R = (12 · 4)/(12 + 4) = 3 Ω.
+¿Cuál de estos materiales es buen conductor de la electricidad?|Plástico|Madera seca|Cobre|Vidrio|2|Los metales como el cobre tienen electrones libres.
+Dos resistencias de 10 Ω y 15 Ω se conectan en serie a una fuente de 50 V. ¿Qué corriente circula?|1250 A|10/3 A|2 A|5 A|2|R total = 25 Ω; I = V/R = 50/25 = 2 A.
+Dos resistencias de 2 Ω y 6 Ω se conectan en serie a una fuente de 24 V. ¿Qué corriente circula?|192 A|3 A|4 A|12 A|1|R total = 8 Ω; I = V/R = 24/8 = 3 A.
+Por una resistencia de 8 Ω pasa una corriente de 5 A. ¿Cuál es la tensión entre sus extremos?|40 V|3602879701896397/2251799813685248 V|13 V|41 V|0|V = I · R = 5 · 8 = 40 V.
+¿Qué instrumento se usa para medir la intensidad de corriente?|Voltímetro|Amperímetro|Dinamómetro|Termómetro|1|El amperímetro se conecta en serie con el circuito.
+En una casa, los artefactos se conectan en paralelo porque:|La corriente es menor|Así se evita la factura|Gastan menos energía|Cada uno recibe la tensión completa y funciona de forma independiente|3|En paralelo todos reciben la misma tensión (220 V) y uno puede apagarse sin afectar a los otros.
+En un circuito en serie, si se corta el cable en un punto:|Aumenta la corriente|Siguen funcionando las demás lámparas|Se interrumpe la corriente en todo el circuito|Disminuye la resistencia|2|En serie hay un único camino para la corriente.
+Por una resistencia de 20 Ω pasa una corriente de 0,5 A. ¿Cuál es la tensión entre sus extremos?|41/2 V|40 V|11 V|10 V|3|V = I · R = 0,5 · 20 = 10 V.
+Una resistencia de 2 Ω está en serie con un conjunto de dos resistencias de 6 Ω y 3 Ω en paralelo. ¿Cuál es la resistencia total?|11 Ω|36/11 Ω|4 Ω|2 Ω|2|El paralelo vale 2 Ω y en serie con 2 Ω da 4 Ω.
+Una resistencia de 50 Ω se conecta a 100 V. ¿Qué potencia disipa?|500000 W|5000 W|200 W|2 W|2|P = V²/R = 10000/50 = 200 W.
+Un artefacto de 1000 W funciona 5 horas. Si el kWh cuesta $80, ¿cuánto cuesta ese uso?|$400000|$400|$4000|$5|1|Energía = 5 kWh; costo = 5 · 80 = $400.
+Una resistencia de 5 Ω está en serie con un conjunto de dos resistencias de 20 Ω y 5 Ω en paralelo. ¿Cuál es la resistencia total?|50/3 Ω|9 Ω|4 Ω|30 Ω|1|El paralelo vale 4 Ω y en serie con 5 Ω da 9 Ω.
+Un artefacto de 500 W funciona 10 horas. Si el kWh cuesta $120, ¿cuánto cuesta ese uso?|$600|$5|$6000|$600000|0|Energía = 5 kWh; costo = 5 · 120 = $600.
+Si se duplica la tensión aplicada a una resistencia fija, la corriente:|No cambia|Se duplica|Se cuadruplica|Se reduce a la mitad|1|Por la ley de Ohm, I es proporcional a V.
+Un artefacto de 100 W funciona 20 horas. Si el kWh cuesta $150, ¿cuánto cuesta ese uso?|$2|$3000|$300000|$300|3|Energía = 2 kWh; costo = 2 · 150 = $300.
+Si se conectan más resistencias en paralelo, la resistencia total:|Disminuye|Se duplica|Aumenta|No cambia|0|Cada rama nueva ofrece otro camino y la resistencia equivalente baja.
+Una resistencia de 12 Ω se conecta a 24 V. ¿Qué potencia disipa?|48 W|288 W|2 W|6912 W|0|P = V²/R = 576/12 = 48 W.
+Una resistencia de 3 Ω está en serie con un conjunto de dos resistencias de 6 Ω y 6 Ω en paralelo. ¿Cuál es la resistencia total?|36/5 Ω|3 Ω|15 Ω|6 Ω|3|El paralelo vale 3 Ω y en serie con 3 Ω da 6 Ω.

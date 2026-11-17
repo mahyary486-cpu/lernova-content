@@ -13960,6 +13960,466 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "subject": "Biology",
+      "chapters": [
+        {
+          "id": "ar-b9-01",
+          "title": "La célula",
+          "lessons": [
+            {
+              "id": "ar-b9-01-01",
+              "title": "La teoría celular y los tipos de células"
+            },
+            {
+              "id": "ar-b9-01-02",
+              "title": "Estructura y organelas"
+            },
+            {
+              "id": "ar-b9-01-03",
+              "title": "Transporte, metabolismo y división celular"
+            }
+          ]
+        },
+        {
+          "id": "ar-b9-02",
+          "title": "Genética y ADN",
+          "lessons": [
+            {
+              "id": "ar-b9-02-01",
+              "title": "El ADN y la información genética"
+            },
+            {
+              "id": "ar-b9-02-02",
+              "title": "Leyes de Mendel y herencia"
+            },
+            {
+              "id": "ar-b9-02-03",
+              "title": "Mutaciones y biotecnología"
+            }
+          ]
+        },
+        {
+          "id": "ar-b9-03",
+          "title": "Evolución y biodiversidad",
+          "lessons": [
+            {
+              "id": "ar-b9-03-01",
+              "title": "Teorías de la evolución"
+            },
+            {
+              "id": "ar-b9-03-02",
+              "title": "Evidencias de la evolución y clasificación"
+            },
+            {
+              "id": "ar-b9-03-03",
+              "title": "Biodiversidad y conservación"
+            }
+          ]
+        },
+        {
+          "id": "ar-b9-04",
+          "title": "El cuerpo humano: nutrición y relación",
+          "lessons": [
+            {
+              "id": "ar-b9-04-01",
+              "title": "Digestión y nutrición"
+            },
+            {
+              "id": "ar-b9-04-02",
+              "title": "Respiración, circulación y excreción"
+            },
+            {
+              "id": "ar-b9-04-03",
+              "title": "Coordinación: sistemas nervioso y endocrino"
+            }
+          ]
+        },
+        {
+          "id": "ar-b9-05",
+          "title": "Reproducción y desarrollo",
+          "lessons": [
+            {
+              "id": "ar-b9-05-01",
+              "title": "Reproducción sexual y asexual"
+            },
+            {
+              "id": "ar-b9-05-02",
+              "title": "Sistemas reproductores humanos"
+            },
+            {
+              "id": "ar-b9-05-03",
+              "title": "Embarazo, desarrollo y salud sexual integral"
+            }
+          ]
+        },
+        {
+          "id": "ar-b9-06",
+          "title": "Ecología y ambiente",
+          "lessons": [
+            {
+              "id": "ar-b9-06-01",
+              "title": "Ecosistemas y relaciones entre seres vivos"
+            },
+            {
+              "id": "ar-b9-06-02",
+              "title": "Cadenas tróficas y ciclos de la materia"
+            },
+            {
+              "id": "ar-b9-06-03",
+              "title": "Impacto humano y cuidado del ambiente"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 9,
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "ar-c9-01",
+          "title": "La materia: estados, sustancias y densidad",
+          "lessons": [
+            {
+              "id": "ar-c9-01-01",
+              "title": "Estados de agregación y cambios de estado"
+            },
+            {
+              "id": "ar-c9-01-02",
+              "title": "Sustancias puras, mezclas y propiedades"
+            },
+            {
+              "id": "ar-c9-01-03",
+              "title": "Densidad y cambios físicos y químicos"
+            }
+          ]
+        },
+        {
+          "id": "ar-c9-02",
+          "title": "El átomo y la tabla periódica",
+          "lessons": [
+            {
+              "id": "ar-c9-02-01",
+              "title": "Estructura del átomo"
+            },
+            {
+              "id": "ar-c9-02-02",
+              "title": "Configuración electrónica y tabla periódica"
+            },
+            {
+              "id": "ar-c9-02-03",
+              "title": "Propiedades periódicas"
+            }
+          ]
+        },
+        {
+          "id": "ar-c9-03",
+          "title": "Enlaces químicos",
+          "lessons": [
+            {
+              "id": "ar-c9-03-01",
+              "title": "Enlace iónico"
+            },
+            {
+              "id": "ar-c9-03-02",
+              "title": "Enlace covalente"
+            },
+            {
+              "id": "ar-c9-03-03",
+              "title": "Enlace metálico y propiedades de las sustancias"
+            }
+          ]
+        },
+        {
+          "id": "ar-c9-04",
+          "title": "Reacciones químicas y su balanceo",
+          "lessons": [
+            {
+              "id": "ar-c9-04-01",
+              "title": "Cambios químicos y ecuaciones"
+            },
+            {
+              "id": "ar-c9-04-02",
+              "title": "Ley de conservación de la masa y balanceo"
+            },
+            {
+              "id": "ar-c9-04-03",
+              "title": "Tipos de reacciones"
+            }
+          ]
+        },
+        {
+          "id": "ar-c9-05",
+          "title": "El mol y los cálculos estequiométricos",
+          "lessons": [
+            {
+              "id": "ar-c9-05-01",
+              "title": "Masa atómica y masa molar"
+            },
+            {
+              "id": "ar-c9-05-02",
+              "title": "El mol y el número de Avogadro"
+            },
+            {
+              "id": "ar-c9-05-03",
+              "title": "Cálculos estequiométricos"
+            }
+          ]
+        },
+        {
+          "id": "ar-c9-06",
+          "title": "Soluciones, ácidos y bases",
+          "lessons": [
+            {
+              "id": "ar-c9-06-01",
+              "title": "Soluciones y concentración"
+            },
+            {
+              "id": "ar-c9-06-02",
+              "title": "Ácidos y bases"
+            },
+            {
+              "id": "ar-c9-06-03",
+              "title": "Neutralización y química en la vida cotidiana"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 9,
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "ar-m9-01",
+          "title": "Números racionales y proporcionalidad",
+          "lessons": [
+            {
+              "id": "ar-m9-01-01",
+              "title": "Fracciones y expresiones decimales"
+            },
+            {
+              "id": "ar-m9-01-02",
+              "title": "Operaciones con números racionales"
+            },
+            {
+              "id": "ar-m9-01-03",
+              "title": "Porcentaje y proporcionalidad"
+            }
+          ]
+        },
+        {
+          "id": "ar-m9-02",
+          "title": "Potenciación, radicación y notación científica",
+          "lessons": [
+            {
+              "id": "ar-m9-02-01",
+              "title": "Potencias de exponente entero"
+            },
+            {
+              "id": "ar-m9-02-02",
+              "title": "Propiedades de la potenciación"
+            },
+            {
+              "id": "ar-m9-02-03",
+              "title": "Radicación y notación científica"
+            }
+          ]
+        },
+        {
+          "id": "ar-m9-03",
+          "title": "Expresiones algebraicas, ecuaciones e inecuaciones",
+          "lessons": [
+            {
+              "id": "ar-m9-03-01",
+              "title": "Lenguaje simbólico y expresiones algebraicas"
+            },
+            {
+              "id": "ar-m9-03-02",
+              "title": "Ecuaciones de primer grado"
+            },
+            {
+              "id": "ar-m9-03-03",
+              "title": "Inecuaciones lineales"
+            }
+          ]
+        },
+        {
+          "id": "ar-m9-04",
+          "title": "Funciones lineales",
+          "lessons": [
+            {
+              "id": "ar-m9-04-01",
+              "title": "Proporcionalidad directa y función lineal"
+            },
+            {
+              "id": "ar-m9-04-02",
+              "title": "Pendiente, ordenada al origen y gráfico"
+            },
+            {
+              "id": "ar-m9-04-03",
+              "title": "Ecuación de la recta, paralelas y perpendiculares"
+            }
+          ]
+        },
+        {
+          "id": "ar-m9-05",
+          "title": "Sistemas de ecuaciones lineales",
+          "lessons": [
+            {
+              "id": "ar-m9-05-01",
+              "title": "Sistemas de dos ecuaciones y su gráfico"
+            },
+            {
+              "id": "ar-m9-05-02",
+              "title": "Métodos de sustitución e igualación"
+            },
+            {
+              "id": "ar-m9-05-03",
+              "title": "Método de reducción y problemas"
+            }
+          ]
+        },
+        {
+          "id": "ar-m9-06",
+          "title": "Geometría: Pitágoras, semejanza y cuerpos",
+          "lessons": [
+            {
+              "id": "ar-m9-06-01",
+              "title": "Teorema de Pitágoras"
+            },
+            {
+              "id": "ar-m9-06-02",
+              "title": "Teorema de Tales y semejanza de triángulos"
+            },
+            {
+              "id": "ar-m9-06-03",
+              "title": "Áreas y volúmenes de cuerpos geométricos"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 9,
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "ar-p9-01",
+          "title": "Movimiento: MRU, MRUV y caída libre",
+          "lessons": [
+            {
+              "id": "ar-p9-01-01",
+              "title": "Movimiento rectilíneo uniforme (MRU)"
+            },
+            {
+              "id": "ar-p9-01-02",
+              "title": "Movimiento rectilíneo uniformemente variado (MRUV)"
+            },
+            {
+              "id": "ar-p9-01-03",
+              "title": "Caída libre y lectura de gráficos"
+            }
+          ]
+        },
+        {
+          "id": "ar-p9-02",
+          "title": "Fuerzas y leyes de Newton",
+          "lessons": [
+            {
+              "id": "ar-p9-02-01",
+              "title": "Fuerzas, peso y rozamiento"
+            },
+            {
+              "id": "ar-p9-02-02",
+              "title": "Las leyes de Newton"
+            },
+            {
+              "id": "ar-p9-02-03",
+              "title": "Aplicaciones de la segunda ley"
+            }
+          ]
+        },
+        {
+          "id": "ar-p9-03",
+          "title": "Trabajo, energía y potencia",
+          "lessons": [
+            {
+              "id": "ar-p9-03-01",
+              "title": "Trabajo y potencia"
+            },
+            {
+              "id": "ar-p9-03-02",
+              "title": "Energía cinética y potencial"
+            },
+            {
+              "id": "ar-p9-03-03",
+              "title": "Conservación de la energía y rendimiento"
+            }
+          ]
+        },
+        {
+          "id": "ar-p9-04",
+          "title": "Electricidad: corriente, Ohm y circuitos",
+          "lessons": [
+            {
+              "id": "ar-p9-04-01",
+              "title": "Carga, corriente y ley de Ohm"
+            },
+            {
+              "id": "ar-p9-04-02",
+              "title": "Circuitos en serie y en paralelo"
+            },
+            {
+              "id": "ar-p9-04-03",
+              "title": "Potencia y consumo de energía eléctrica"
+            }
+          ]
+        },
+        {
+          "id": "ar-p9-05",
+          "title": "Calor y temperatura",
+          "lessons": [
+            {
+              "id": "ar-p9-05-01",
+              "title": "Temperatura y escalas termométricas"
+            },
+            {
+              "id": "ar-p9-05-02",
+              "title": "Transmisión del calor y dilatación"
+            },
+            {
+              "id": "ar-p9-05-03",
+              "title": "Calor específico, equilibrio térmico y cambios de estado"
+            }
+          ]
+        },
+        {
+          "id": "ar-p9-06",
+          "title": "Ondas, sonido y luz",
+          "lessons": [
+            {
+              "id": "ar-p9-06-01",
+              "title": "Características de las ondas"
+            },
+            {
+              "id": "ar-p9-06-02",
+              "title": "El sonido"
+            },
+            {
+              "id": "ar-p9-06-03",
+              "title": "La luz: reflexión y refracción"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
     }
   ]
 }

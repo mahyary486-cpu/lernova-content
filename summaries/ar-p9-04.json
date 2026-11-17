@@ -1,0 +1,5 @@
+{
+ "Carga, corriente y ley de Ohm": "La corriente eléctrica es el flujo ordenado de cargas; su intensidad se mide en amperes: I = Q/t. La ley de Ohm relaciona tensión, corriente y resistencia: V = I·R. Los metales son conductores y el vidrio o el plástico son aislantes.",
+ "Circuitos en serie y en paralelo": "En serie la corriente es la misma en todos los elementos y las resistencias se suman. En paralelo la tensión es la misma y la inversa de la resistencia equivalente es la suma de las inversas. Las instalaciones domiciliarias (220 V en Argentina) son en paralelo.",
+ "Potencia y consumo de energía eléctrica": "La potencia eléctrica es P = V·I = I²·R = V²/R y se mide en watts. La energía consumida es E = P·t; en la factura se mide en kWh (1 kWh = 1000 W durante 1 hora). El costo se obtiene multiplicando los kWh por el precio."
+}

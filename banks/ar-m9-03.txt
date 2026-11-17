@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
+Resolvé la ecuación 2x + 3 = 1.|x = −1|x = −2|x = 0|x = 2|0|Se resta 3 en ambos miembros: 2x = −2, y se divide por 2: x = −1.
+Resolvé la ecuación 2x − 4 = 10.|x = 3|x = 8|x = 6|x = 7|3|Se suma 4 en ambos miembros: 2x = 14, y se divide por 2: x = 7.
+Si x = 5, ¿cuánto vale la expresión 4x + 6?|−26|26|44|15|1|Se reemplaza x por 5: 4 · 5 + 6 = 26.
+Reducí términos semejantes: 3x + 6 + 2x + 5.|6x + 11|5x + 11|16x|5x + 30|1|Se suman los coeficientes de x (3 + 2) y los términos independientes (6 + 5).
+Si x = −1, ¿cuánto vale la expresión 2x + 2?|3|1|0|2|2|Se reemplaza x por −1: 2 · (−1) + 2 = 0.
+Resolvé la ecuación 7x + 1 = 15.|x = 16/7|x = 2|x = 3|x = 1|1|Se resta 1 en ambos miembros: 7x = 14, y se divide por 7: x = 2.
+Si x = 1, ¿cuánto vale la expresión 3x + 8?|27|12|−11|11|3|Se reemplaza x por 1: 3 · 1 + 8 = 11.
+Reducí términos semejantes: 9x + 6 + 3x + 1.|19x|12x + 6|27x + 7|12x + 7|3|Se suman los coeficientes de x (9 + 3) y los términos independientes (6 + 1).
+¿Qué ecuación expresa «el triple de un número, aumentado en 9, es igual a 21»?|3(x + 9) = 21|3x + 9 = 21|x + 3 + 9 = 21|3x − 9 = 21|1|El triple de x es 3x; aumentado en 9 es 3x + 9; igual a 21.
+Resolvé la ecuación 2x − 3 = 5.|x = 5|x = 1|x = 3|x = 4|3|Se suma 3 en ambos miembros: 2x = 8, y se divide por 2: x = 4.
+¿Qué ecuación expresa «el triple de un número, aumentado en 2, es igual a 14»?|3x + 2 = 14|3x − 2 = 14|3(x + 2) = 14|x + 3 + 2 = 14|0|El triple de x es 3x; aumentado en 2 es 3x + 2; igual a 14.
+Resolvé la ecuación 5x − 11 = −31.|x = −3|x = −5|x = −4|x = −42/5|2|Se suma 11 en ambos miembros: 5x = −20, y se divide por 5: x = −4.
+Reducí términos semejantes: 8x + 6 + x + 4.|19x|9x + 10|9x + 24|8x + 10|1|Se suman los coeficientes de x (8 + 1) y los términos independientes (6 + 4).
+Si x = −2, ¿cuánto vale la expresión 5x + 4?|10|−6|7|6|1|Se reemplaza x por −2: 5 · (−2) + 4 = −6.
+Reducí términos semejantes: 7x + 8 + 5x + 3.|23x|12x + 11|35x + 11|12x + 24|1|Se suman los coeficientes de x (7 + 5) y los términos independientes (8 + 3).
+Reducí términos semejantes: 3x + 7 + 6x + 1.|9x + 7|9x + 8|17x|18x + 8|1|Se suman los coeficientes de x (3 + 6) y los términos independientes (7 + 1).
+Resolvé la ecuación 5x − 2 = 58.|x = 13|x = 56/5|x = 12|x = 11|2|Se suma 2 en ambos miembros: 5x = 60, y se divide por 5: x = 12.
+Un número multiplicado por 2 y aumentado en 2 da 28. ¿Cuál es el número?|14|26|13|15|2|La ecuación es 2x + 2 = 28, entonces 2x = 26 y x = 13.
+Resolvé 3x − 1 = 2x + 3.|x = −4|x = 4|x = 4/5|x = 5|1|Se agrupan las x en un miembro y los números en el otro: 3x − 2x = 3 − (−1), es decir x = 4, entonces x = 4.
+Resolvé 4x + 8 = x + 35.|x = 10|x = −9|x = 27/5|x = 9|3|Se agrupan las x en un miembro y los números en el otro: 4x − x = 35 − (8), es decir 3x = 27, entonces x = 9.
+Resolvé la inecuación 5x + 8 > −2.|x < −2|x > 2|x > −2|x ≥ −2|2|Se pasa 8 al otro miembro y se divide por 5 (positivo, así que el sentido se mantiene): x > −2.
+Resolvé 3(x + 2) = 4x + 7.|x = 1/7|x = 1|x = −1|x = 0|2|Se aplica la propiedad distributiva: 3x + 6 = 4x + 7. Luego se agrupan las x: x = −1.
+Resolvé 3(x + 5) = 2x + 20.|x = 5|x = 6|x = −5|x = 1|0|Se aplica la propiedad distributiva: 3x + 15 = 2x + 20. Luego se agrupan las x: x = 5.
+Un número multiplicado por 3 y aumentado en 7 da 46. ¿Cuál es el número?|46/3|13|39|15|1|La ecuación es 3x + 7 = 46, entonces 3x = 39 y x = 13.
+Un número multiplicado por 3 y aumentado en 4 da 28. ¿Cuál es el número?|10|24|8|28/3|2|La ecuación es 3x + 4 = 28, entonces 3x = 24 y x = 8.
+Resolvé 3x − 2 = 2x − 1.|x = 1/5|x = 1|x = −1|x = 2|1|Se agrupan las x en un miembro y los números en el otro: 3x − 2x = −1 − (−2), es decir x = 1, entonces x = 1.
+Resolvé 8x − 6 = 5x + 6.|x = 12/13|x = −4|x = 4|x = 5|2|Se agrupan las x en un miembro y los números en el otro: 8x − 5x = 6 − (−6), es decir 3x = 12, entonces x = 4.
+Un número multiplicado por 3 y aumentado en 5 da 44. ¿Cuál es el número?|15|44/3|39|13|3|La ecuación es 3x + 5 = 44, entonces 3x = 39 y x = 13.
+Resolvé 5(x + 1) = 3x + 19.|x = 7/4|x = 7|x = −7|x = 8|1|Se aplica la propiedad distributiva: 5x + 5 = 3x + 19. Luego se agrupan las x: x = 7.
+Resolvé 6x + 5 = 3x − 1.|x = 2|x = −1|x = −2|x = −2/3|2|Se agrupan las x en un miembro y los números en el otro: 6x − 3x = −1 − (5), es decir 3x = −6, entonces x = −2.
+Resolvé 4(x − 2) = 3x − 9.|x = −1/7|x = −1|x = 0|x = 1|1|Se aplica la propiedad distributiva: 4x − 8 = 3x − 9. Luego se agrupan las x: x = −1.
+Resolvé la inecuación 3x > 3.|x > 1|x ≥ 1|x > −1|x < 1|0|Se pasa 0 al otro miembro y se divide por 3 (positivo, así que el sentido se mantiene): x > 1.
+Resolvé 5(x − 1) = 4x − 11.|x = 6|x = −2/3|x = −6|x = −5|2|Se aplica la propiedad distributiva: 5x − 5 = 4x − 11. Luego se agrupan las x: x = −6.
+Resolvé 6x + 9 = 2x + 41.|x = 9|x = −8|x = 4|x = 8|3|Se agrupan las x en un miembro y los números en el otro: 6x − 2x = 41 − (9), es decir 4x = 32, entonces x = 8.
+La suma de tres números enteros consecutivos es 63. ¿Cuál es el menor de los tres?|21|63/2|22|20|3|Con x, x + 1 y x + 2: 3x + 3 = 63, entonces 3x = 60 y x = 20.
+La edad de una madre es el triple que la de su hijo. Dentro de 5 años la suma de sus edades será 58. ¿Qué edad tiene hoy el hijo?|36 años|17 años|11 años|12 años|3|Si el hijo tiene x, la madre tiene 3x: (x + 5) + (3x + 5) = 58, entonces 4x = 48 y x = 12.
+Resolvé −2x − 5 ≥ −15.|x ≥ 5|x ≤ 5|x < 5|x ≤ −5|1|Se pasa −5 al otro miembro: −2x ≥ −10. Como se divide por −2 (negativo), el sentido de la desigualdad se invierte: x ≤ 5.
+El largo de un rectángulo excede en 3 cm a su ancho y su perímetro mide 30 cm. ¿Cuánto mide el ancho?|6 cm|9 cm|5 cm|7 cm|0|Con ancho x: 2(x + x + 3) = 30, entonces 4x + 6 = 30 y x = 6.
+Resolvé −3x + 5 ≥ 2.|x ≥ 1|x < 1|x ≤ 1|x ≤ −1|2|Se pasa 5 al otro miembro: −3x ≥ −3. Como se divide por −3 (negativo), el sentido de la desigualdad se invierte: x ≤ 1.
+Resolvé 1/2 · x + 1 = 16.|x = 15/2|x = 30|x = −30|x = 32|1|Se resta 1: 1/2 · x = 15. Se multiplica por 2/1 (inversa) y x = 30.
+Resolvé 3/4 · x + 5 = 14.|x = 27/4|x = 16|x = −12|x = 12|3|Se resta 5: 3/4 · x = 9. Se multiplica por 4/3 (inversa) y x = 12.
+El largo de un rectángulo excede en 6 cm a su ancho y su perímetro mide 44 cm. ¿Cuánto mide el ancho?|14 cm|8 cm|9 cm|7 cm|1|Con ancho x: 2(x + x + 6) = 44, entonces 4x + 12 = 44 y x = 8.
+Resolvé −5x ≥ −25.|x ≤ −5|x ≥ 5|x < 5|x ≤ 5|3|Se pasa 0 al otro miembro: −5x ≥ −25. Como se divide por −5 (negativo), el sentido de la desigualdad se invierte: x ≤ 5.
+Resolvé 2/5 · x + 2 = 22/5.|x = 24/25|x = 6|x = −6|x = 11|1|Se resta 2: 2/5 · x = 12/5. Se multiplica por 5/2 (inversa) y x = 6.
+La suma de tres números enteros consecutivos es 66. ¿Cuál es el menor de los tres?|21|22|23|33|0|Con x, x + 1 y x + 2: 3x + 3 = 66, entonces 3x = 63 y x = 21.
+La edad de una madre es el triple que la de su hijo. Dentro de 3 años la suma de sus edades será 50. ¿Qué edad tiene hoy el hijo?|14 años|33 años|10 años|11 años|3|Si el hijo tiene x, la madre tiene 3x: (x + 3) + (3x + 3) = 50, entonces 4x = 44 y x = 11.
+La suma de tres números enteros consecutivos es 78. ¿Cuál es el menor de los tres?|25|27|39|26|0|Con x, x + 1 y x + 2: 3x + 3 = 78, entonces 3x = 75 y x = 25.
+La edad de una madre es el triple que la de su hijo. Dentro de 3 años la suma de sus edades será 26. ¿Qué edad tiene hoy el hijo?|8 años|15 años|4 años|5 años|3|Si el hijo tiene x, la madre tiene 3x: (x + 3) + (3x + 3) = 26, entonces 4x = 20 y x = 5.
+Resolvé −5x ≥ −10.|x ≥ 2|x ≤ −2|x ≤ 2|x < 2|2|Se pasa 0 al otro miembro: −5x ≥ −10. Como se divide por −5 (negativo), el sentido de la desigualdad se invierte: x ≤ 2.
+El largo de un rectángulo excede en 2 cm a su ancho y su perímetro mide 48 cm. ¿Cuánto mide el ancho?|12 cm|11 cm|13 cm|10 cm|1|Con ancho x: 2(x + x + 2) = 48, entonces 4x + 4 = 48 y x = 11.

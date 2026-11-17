@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
+¿Cuál es el valor de 3⁻²?|−9|1/9|−1/9|1/6|1|Un exponente negativo invierte la base: 3⁻² = 1/3² = 1/9.
+¿Cuál es el valor de 2⁻³?|1/6|−1/8|−8|1/8|3|Un exponente negativo invierte la base: 2⁻³ = 1/2³ = 1/8.
+¿Cuál es el valor de 10⁻³?|−1000|−1/1000|1/30|1/1000|3|Un exponente negativo invierte la base: 10⁻³ = 1/10³ = 1/1000.
+¿Cuánto vale 100⁰?|0|1|100|No está definido|1|Todo número distinto de 0 elevado a la 0 es igual a 1.
+Calculá 5².|−25|25|10|5|1|Se multiplica la base por sí misma 2 veces: 25.
+Calculá √144.|13|11|72|12|3|12 × 12 = 144, entonces √144 = 12.
+Calculá √121.|11|60|12|10|0|11 × 11 = 121, entonces √121 = 11.
+¿Cuánto vale 12⁰?|0|1|12|No está definido|1|Todo número distinto de 0 elevado a la 0 es igual a 1.
+Calculá √100.|50|10|9|11|1|10 × 10 = 100, entonces √100 = 10.
+Calculá 3⁴.|12|27|−81|81|3|Se multiplica la base por sí misma 4 veces: 81.
+Calculá √64.|8|7|32|9|0|8 × 8 = 64, entonces √64 = 8.
+Calculá 10².|20|−100|100|10|2|Se multiplica la base por sí misma 2 veces: 100.
+Calculá √9.|3|2|4|9|0|3 × 3 = 9, entonces √9 = 3.
+¿Cuál es el valor de 10⁻²?|−1/100|−100|1/20|1/100|3|Un exponente negativo invierte la base: 10⁻² = 1/10² = 1/100.
+¿Cuánto vale (−4)⁰?|1|No está definido|0|−4|0|Todo número distinto de 0 elevado a la 0 es igual a 1.
+Calculá 2⁴.|−16|32|8|16|3|Se multiplica la base por sí misma 4 veces: 16.
+Calculá 4².|4|−16|16|8|2|Se multiplica la base por sí misma 2 veces: 16.
+Escribí 2.500.000 en notación científica.|2,5 × 10⁷|2,5 × 10⁶|25 × 10⁶|2,5 × 10⁵|1|Se coloca la coma después de la primera cifra: queda 2,5 y se cuentan 6 lugares, es decir 10⁶.
+Simplificá (3²)⁴.|12²|3⁶|3⁸|3¹⁶|2|Potencia de potencia: se multiplican los exponentes, 2 · 4 = 8.
+Simplificá 2⁴ · 2³.|2¹|2¹²|2⁷|4⁷|2|Con la misma base se suman los exponentes: 4 + 3 = 7.
+Simplificá (2⁴)³.|2⁶⁴|2⁷|2¹²|6⁴|2|Potencia de potencia: se multiplican los exponentes, 4 · 3 = 12.
+Calculá la raíz cúbica de 216.|7|5|6|72|2|6 × 6 × 6 = 216.
+Simplificá 7⁵ : 7².|7⁷|7¹⁰|7³|1³|2|Con la misma base se restan los exponentes: 5 − 2 = 3.
+Calculá la raíz cúbica de 64.|3|4|21|5|1|4 × 4 × 4 = 64.
+Simplificá 3³ · 3⁵.|3²|3⁸|9⁸|3¹⁵|1|Con la misma base se suman los exponentes: 3 + 5 = 8.
+Simplificá 3⁶ : 3⁴.|1²|3²|3¹⁰|3²⁴|1|Con la misma base se restan los exponentes: 6 − 4 = 2.
+Simplificá 2⁶ · 2².|2⁸|2¹²|2⁴|4⁸|0|Con la misma base se suman los exponentes: 6 + 2 = 8.
+Calculá la raíz cúbica de 27.|3|2|9|4|0|3 × 3 × 3 = 27.
+Simplificá 7⁵ : 7⁴.|1¹|7²⁰|7⁹|7¹|3|Con la misma base se restan los exponentes: 5 − 4 = 1.
+Escribí 61.000 en notación científica.|6,1 × 10³|6,1 × 10⁴|6,1 × 10⁵|61 × 10⁴|1|Se coloca la coma después de la primera cifra: queda 6,1 y se cuentan 4 lugares, es decir 10⁴.
+Simplificá 3⁶ · 3⁵.|3³⁰|3¹¹|3¹|9¹¹|1|Con la misma base se suman los exponentes: 6 + 5 = 11.
+Escribí 320.000 en notación científica.|3,2 × 10⁴|3,2 × 10⁶|3,2 × 10⁵|32 × 10⁵|2|Se coloca la coma después de la primera cifra: queda 3,2 y se cuentan 5 lugares, es decir 10⁵.
+Simplificá (5²)⁴.|5⁸|20²|5⁶|5¹⁶|0|Potencia de potencia: se multiplican los exponentes, 2 · 4 = 8.
+Escribí 740.000 en notación científica.|74 × 10⁵|7,4 × 10⁵|7,4 × 10⁴|7,4 × 10⁶|1|Se coloca la coma después de la primera cifra: queda 7,4 y se cuentan 5 lugares, es decir 10⁵.
+Simplificá 5⁴ · 5⁻⁵.|5⁹|5⁻²⁰|5⁻¹|5¹|2|Se suman los exponentes: 4 + (−5) = −1, y 5⁻¹ = 1/5.
+Calculá (3/4)³.|3/64|27/4|9/12|27/64|3|Se eleva numerador y denominador: 3³/4³ = 27/64.
+Extraé factores del radicando: √12.|√5|2√3|4√3|3√2|1|12 = 2² · 3, entonces √12 = 2√3.
+Calculá (4 × 10²) · (2 × 10⁴) y dejá el resultado en notación científica.|8 × 10²|8 × 10⁶|6 × 10⁶|8 × 10⁸|1|Se multiplican los coeficientes (4 · 2 = 8) y se suman los exponentes de 10 (2 + 4 = 6).
+Calculá 4√7 + 3√7.|12√7|√49|7√14|7√7|3|Son radicales semejantes (mismo radicando), así que se suman los coeficientes: (4 + 3)√7.
+Calculá 2√7 + 3√7.|5√14|6√7|5√7|√35|2|Son radicales semejantes (mismo radicando), así que se suman los coeficientes: (2 + 3)√7.
+Calculá (3 × 10²) · (2 × 10²) y dejá el resultado en notación científica.|6 × 10⁴|3/50 × 10⁴|5 × 10⁴|6 × 10⁰|0|Se multiplican los coeficientes (3 · 2 = 6) y se suman los exponentes de 10 (2 + 2 = 4).
+Calculá (5 × 10³) · (2 × 10⁶) y dejá el resultado en notación científica.|7 × 10¹⁰|1 × 10¹⁰|10 × 10¹⁸|10 × 10⁹|1|Se multiplican los coeficientes (5 · 2 = 10) y se suman los exponentes de 10 (3 + 6 = 9); como 10 ≥ 10 se ajusta a notación científica.
+Calculá (1/2)².|4|2/4|1/2|1/4|3|Se eleva numerador y denominador: 1²/2² = 1/4.
+Calculá (2/3)².|4/3|2/9|4/6|4/9|3|Se eleva numerador y denominador: 2²/3² = 4/9.
+Extraé factores del radicando: √20.|2√5|√7|4√5|5√2|0|20 = 2² · 5, entonces √20 = 2√5.
+Calculá 5√3 + 2√3.|7√6|√21|10√3|7√3|3|Son radicales semejantes (mismo radicando), así que se suman los coeficientes: (5 + 2)√3.
+Extraé factores del radicando: √50.|2√5|10√2|√7|5√2|3|50 = 5² · 2, entonces √50 = 5√2.
+Simplificá 2³ · 2⁻⁷.|2⁻²¹|2¹⁰|2⁻⁴|2⁴|2|Se suman los exponentes: 3 + (−7) = −4, y 2⁻⁴ = 1/16.
+Calculá 4√5 + 3√5.|√35|7√10|12√5|7√5|3|Son radicales semejantes (mismo radicando), así que se suman los coeficientes: (4 + 3)√5.
+Simplificá 2³ · 2⁻⁶.|2⁹|2⁻³|2⁻¹⁸|2³|1|Se suman los exponentes: 3 + (−6) = −3, y 2⁻³ = 1/8.

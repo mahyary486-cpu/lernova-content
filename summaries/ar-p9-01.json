@@ -1,0 +1,5 @@
+{
+ "Movimiento rectilíneo uniforme (MRU)": "En el MRU el móvil recorre distancias iguales en tiempos iguales: la velocidad es constante y la aceleración nula. Se cumple v = d/t, y en el gráfico distancia-tiempo se obtiene una recta cuya pendiente es la velocidad.",
+ "Movimiento rectilíneo uniformemente variado (MRUV)": "En el MRUV la aceleración es constante. Se cumplen v = v₀ + a·t, d = v₀·t + ½·a·t² y v² = v₀² + 2·a·d. Si el móvil frena, la aceleración tiene signo contrario a la velocidad.",
+ "Caída libre y lectura de gráficos": "En la caída libre (sin rozamiento) todos los cuerpos caen con la misma aceleración g ≈ 9,8 m/s², que en los ejercicios se aproxima a 10 m/s². Desde el reposo, v = g·t y h = ½·g·t². El área bajo la curva velocidad-tiempo es la distancia recorrida."
+}

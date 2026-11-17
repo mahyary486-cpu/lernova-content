@@ -1,0 +1,24 @@
+#EEEEEEEEEMMMMMMMMMMHHHH
+¿Cuál de estas es una propiedad intensiva?|Volumen|Masa|Longitud|Densidad|3|Las propiedades intensivas no dependen de la cantidad de materia.
+¿Cuáles son los tres estados de agregación más comunes de la materia?|Sólido, mineral y vapor|Hielo, agua y roca|Líquido, gas y metal|Sólido, líquido y gaseoso|3|Los estados clásicos son sólido, líquido y gaseoso.
+¿Qué es la masa?|El espacio que ocupa un cuerpo|La cantidad de materia de un cuerpo|La temperatura de un cuerpo|La fuerza con que lo atrae la Tierra|1|Masa es cantidad de materia; el espacio que ocupa es el volumen.
+¿Cuál es el paso de gas a líquido?|Condensación|Sublimación|Vaporización|Fusión|0|La condensación (licuación) es el paso de gas a líquido.
+¿Cuál es una propiedad extensiva?|La densidad|El color|El punto de fusión|El volumen|3|El volumen depende de la cantidad de materia.
+El agua es una sustancia:|Mezcla heterogénea|Mezcla homogénea|Pura compuesta|Pura simple|2|El agua (H₂O) está formada por dos elementos: es un compuesto.
+¿Cuál es el paso de sólido a líquido?|Fusión|Condensación|Sublimación|Solidificación|0|La fusión es el paso de sólido a líquido.
+¿Cuál de estos materiales es una mezcla?|El aire|El oro puro|El oxígeno|El agua destilada|0|El aire es una mezcla de nitrógeno, oxígeno y otros gases.
+¿Cómo se llama el paso directo de sólido a gas?|Fusión|Condensación|Sublimación|Ebullición|2|Ejemplo: el hielo seco (CO₂ sólido).
+Un material de densidad 2 g/cm³ ocupa un volumen de 50 cm³. ¿Cuál es su masa?|52 g|25 g|1000 g|100 g|3|m = ρ · V = 2 · 50 = 100 g.
+Una muestra tiene una masa de 1000 g y ocupa 500 cm³. ¿Cuál es su densidad?|500000 g/cm³|3 g/cm³|2 g/cm³|0,5 g/cm³|2|ρ = m/V = 1000/500 = 2 g/cm³.
+Una muestra tiene una masa de 270 g y ocupa 100 cm³. ¿Cuál es su densidad?|3,7 g/cm³|2,7 g/cm³|27000 g/cm³|0,3704 g/cm³|1|ρ = m/V = 270/100 = 2,7 g/cm³.
+¿Por qué el hielo flota en el agua líquida?|Porque está más frío|Porque es menos denso que el agua líquida|Porque es más pesado|Porque tiene más masa|1|Al congelarse el agua aumenta de volumen y su densidad baja.
+Un material de densidad 3 g/cm³ ocupa un volumen de 40 cm³. ¿Cuál es su masa?|43 g|1200 g|13,3333 g|120 g|3|m = ρ · V = 3 · 40 = 120 g.
+Una muestra tiene una masa de 39 g y ocupa 5 cm³. ¿Cuál es su densidad?|8,8 g/cm³|0,1282 g/cm³|7,8 g/cm³|195 g/cm³|2|ρ = m/V = 39/5 = 7,8 g/cm³.
+¿Qué diferencia a una sustancia pura de una mezcla?|La sustancia pura tiene composición fija y propiedades constantes|No hay diferencia|La mezcla tiene siempre un solo componente|La sustancia pura siempre es sólida|0|Las sustancias puras tienen composición definida; las mezclas, variable.
+El oxígeno (O₂) es:|Un compuesto|Una solución|Una sustancia simple|Una mezcla|2|Está formado por átomos de un solo elemento.
+Una muestra tiene una masa de 78 g y ocupa 10 cm³. ¿Cuál es su densidad?|780 g/cm³|8,8 g/cm³|7,8 g/cm³|0,1282 g/cm³|2|ρ = m/V = 78/10 = 7,8 g/cm³.
+Un material de densidad 0,8 g/cm³ ocupa un volumen de 100 cm³. ¿Cuál es su masa?|100,8 g|80 g|125 g|800 g|1|m = ρ · V = 0,8 · 100 = 80 g.
+Durante la ebullición del agua pura a presión normal, la temperatura:|Disminuye|Se vuelve 0 °C|Se mantiene en 100 °C|Sigue aumentando|2|Durante un cambio de estado la temperatura se mantiene constante.
+Un cubo de hierro y otro de aluminio de igual volumen tienen distinta masa. Esto se explica por:|Su distinta densidad|Su distinta temperatura|Su distinto color|Su distinto volumen|0|La densidad del hierro (7,8 g/cm³) es mayor que la del aluminio (2,7 g/cm³).
+Un gas encerrado ocupa todo el volumen del recipiente porque:|Sus partículas se mueven libremente y están muy separadas|Sus partículas están fijas|Tiene mucha masa|Es más denso|0|Las fuerzas de atracción entre partículas son muy débiles.
+Un sólido tiene volumen y forma propios porque:|Sus partículas se mueven libremente|Sus partículas están muy separadas|Sus partículas están muy próximas y con poca libertad de movimiento|No tiene partículas|2|En los sólidos las partículas vibran en posiciones casi fijas.

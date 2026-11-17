@@ -1,0 +1,5 @@
+{
+ "Masa atómica y masa molar": "La masa atómica relativa compara la masa de un átomo con la unidad de masa atómica. La masa molar de un compuesto es la suma de las masas atómicas de sus átomos y se expresa en g/mol. Por ejemplo H₂O: 2·1 + 16 = 18 g/mol.",
+ "El mol y el número de Avogadro": "Un mol es la cantidad de sustancia que contiene 6,02 × 10²³ partículas (número de Avogadro). La masa de un mol en gramos coincide con la masa molar. Las relaciones son n = m/M y N = n·NA.",
+ "Cálculos estequiométricos": "Los coeficientes de una ecuación balanceada indican la proporción en moles en que reaccionan las sustancias. Se calcula pasando de gramos a moles, aplicando la relación de la ecuación y volviendo a gramos."
+}

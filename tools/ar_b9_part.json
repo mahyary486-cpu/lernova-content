@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 9,
+   "country": "AR",
+   "subject": "Biology",
+   "chapters": [
+    {
+     "id": "ar-b9-01",
+     "title": "La célula",
+     "lessons": [
+      {
+       "id": "ar-b9-01-01",
+       "title": "La teoría celular y los tipos de células"
+      },
+      {
+       "id": "ar-b9-01-02",
+       "title": "Estructura y organelas"
+      },
+      {
+       "id": "ar-b9-01-03",
+       "title": "Transporte, metabolismo y división celular"
+      }
+     ]
+    },
+    {
+     "id": "ar-b9-02",
+     "title": "Genética y ADN",
+     "lessons": [
+      {
+       "id": "ar-b9-02-01",
+       "title": "El ADN y la información genética"
+      },
+      {
+       "id": "ar-b9-02-02",
+       "title": "Leyes de Mendel y herencia"
+      },
+      {
+       "id": "ar-b9-02-03",
+       "title": "Mutaciones y biotecnología"
+      }
+     ]
+    },
+    {
+     "id": "ar-b9-03",
+     "title": "Evolución y biodiversidad",
+     "lessons": [
+      {
+       "id": "ar-b9-03-01",
+       "title": "Teorías de la evolución"
+      },
+      {
+       "id": "ar-b9-03-02",
+       "title": "Evidencias de la evolución y clasificación"
+      },
+      {
+       "id": "ar-b9-03-03",
+       "title": "Biodiversidad y conservación"
+      }
+     ]
+    },
+    {
+     "id": "ar-b9-04",
+     "title": "El cuerpo humano: nutrición y relación",
+     "lessons": [
+      {
+       "id": "ar-b9-04-01",
+       "title": "Digestión y nutrición"
+      },
+      {
+       "id": "ar-b9-04-02",
+       "title": "Respiración, circulación y excreción"
+      },
+      {
+       "id": "ar-b9-04-03",
+       "title": "Coordinación: sistemas nervioso y endocrino"
+      }
+     ]
+    },
+    {
+     "id": "ar-b9-05",
+     "title": "Reproducción y desarrollo",
+     "lessons": [
+      {
+       "id": "ar-b9-05-01",
+       "title": "Reproducción sexual y asexual"
+      },
+      {
+       "id": "ar-b9-05-02",
+       "title": "Sistemas reproductores humanos"
+      },
+      {
+       "id": "ar-b9-05-03",
+       "title": "Embarazo, desarrollo y salud sexual integral"
+      }
+     ]
+    },
+    {
+     "id": "ar-b9-06",
+     "title": "Ecología y ambiente",
+     "lessons": [
+      {
+       "id": "ar-b9-06-01",
+       "title": "Ecosistemas y relaciones entre seres vivos"
+      },
+      {
+       "id": "ar-b9-06-02",
+       "title": "Cadenas tróficas y ciclos de la materia"
+      },
+      {
+       "id": "ar-b9-06-03",
+       "title": "Impacto humano y cuidado del ambiente"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

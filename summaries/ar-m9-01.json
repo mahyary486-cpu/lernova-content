@@ -1,0 +1,5 @@
+{
+ "Fracciones y expresiones decimales": "Todo número racional se escribe como fracción a/b con b distinto de 0 y tiene una expresión decimal exacta o periódica. Para pasar de fracción a decimal se divide; para pasar de un decimal periódico a fracción se usa la fracción generatriz.",
+ "Operaciones con números racionales": "Para sumar o restar fracciones se busca un denominador común; para multiplicar se multiplican numeradores y denominadores; para dividir se multiplica por la fracción inversa. Se respeta la jerarquía: paréntesis, potencias, multiplicaciones y divisiones, sumas y restas.",
+ "Porcentaje y proporcionalidad": "El porcentaje es una razón con denominador 100. Un aumento del p % se calcula multiplicando por (1 + p/100) y un descuento del p % multiplicando por (1 − p/100). En la proporcionalidad directa el cociente es constante; en la inversa lo es el producto."
+}

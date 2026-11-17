@@ -1,0 +1,29 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHH
+¿Cómo se llaman las filas horizontales de la tabla periódica?|Períodos|Series|Grupos|Familias|0|Las filas son períodos y las columnas, grupos.
+¿Cuál es el símbolo del potasio?|K|Po|P|Pt|0|K proviene del latín kalium.
+¿Cuál es el símbolo del sodio?|S|N|So|Na|3|Na proviene del latín natrium.
+El potasio tiene Z = 19 y A = 39. ¿Cuántos neutrones tiene?|58|20|39|19|1|n = A − Z = 39 − 19 = 20.
+El magnesio tiene Z = 12 y A = 24. ¿Cuántos neutrones tiene?|36|12|13|24|1|n = A − Z = 24 − 12 = 12.
+El número atómico (Z) indica:|La cantidad de protones|La masa del átomo|La cantidad de capas|La cantidad de neutrones|0|Z es el número de protones, que identifica al elemento.
+El cloro tiene Z = 17 y A = 35. ¿Cuántos neutrones tiene?|17|18|35|52|1|n = A − Z = 35 − 17 = 18.
+¿Qué partículas se encuentran en el núcleo del átomo?|Solo electrones|Protones y neutrones|Protones y electrones|Neutrones y electrones|1|El núcleo contiene protones (+) y neutrones (sin carga).
+¿Cuál es la carga eléctrica del electrón?|Variable|Positiva|Negativa|Neutra|2|El electrón tiene carga negativa.
+El hierro tiene Z = 26 y A = 56. ¿Cuántos neutrones tiene?|56|26|30|82|2|n = A − Z = 56 − 26 = 30.
+¿Cuántos electrones tiene un ion de número atómico 20 y carga +2?|23|22|18|20|2|Un catión pierde electrones y un anión los gana: e⁻ = Z − carga = 18.
+El flúor (Z = 9) tiene la configuración electrónica:|1s² 2s¹|1s² 2s² 2p³|1s² 2s² 2p⁶|1s² 2s² 2p⁵|3|Con 9 electrones: 2 + 2 + 5.
+Los elementos del grupo 1 (metales alcalinos) tienen:|1 electrón de valencia|7 electrones de valencia|2 electrones de valencia|8 electrones de valencia|0|Tienden a perder ese electrón y formar cationes +1.
+¿Cuántos electrones tiene un ion de número atómico 8 y carga −2?|10|6|8|11|0|Un catión pierde electrones y un anión los gana: e⁻ = Z − carga = 10.
+¿Qué tienen en común los elementos de un mismo grupo?|Igual cantidad de protones|Igual masa|Igual cantidad de electrones de valencia|Igual número de neutrones|2|Los elementos de un grupo tienen propiedades químicas semejantes.
+¿Qué son los isótopos?|Átomos del mismo elemento con distinto número de neutrones|Átomos con distinto número de protones|Átomos con igual masa y distinto Z|Átomos con distinta carga|0|Por ejemplo, ¹²C y ¹⁴C.
+Los halógenos (grupo 17) tienen:|2 electrones de valencia|1 electrón de valencia|8 electrones de valencia|7 electrones de valencia|3|Tienden a ganar un electrón y formar aniones −1.
+¿Cuántos electrones tiene un ion de número atómico 16 y carga −2?|18|16|14|19|0|Un catión pierde electrones y un anión los gana: e⁻ = Z − carga = 18.
+¿Cuántos electrones tiene un ion de número atómico 19 y carga +1?|18|20|21|19|0|Un catión pierde electrones y un anión los gana: e⁻ = Z − carga = 18.
+El neón (Z = 10) es un gas noble porque:|Tiene su última capa completa con 8 electrones|Tiene un solo electrón de valencia|Es muy reactivo|Tiene 10 neutrones|0|La capa completa lo hace muy estable.
+¿Qué ocurre con el radio atómico al bajar por un grupo de la tabla?|No cambia|Aumenta|Disminuye|Se anula|1|Hay más capas electrónicas.
+La configuración 1s² 2s² 2p⁶ 3s² corresponde a:|Sodio|Calcio|Neón|Magnesio|3|Tiene 12 electrones: Z = 12, magnesio.
+¿Por qué los metales alcalinos son muy reactivos?|Porque pierden fácilmente su único electrón de valencia|Porque tienen la última capa completa|Porque son no metales|Porque no tienen electrones|0|Perder un electrón les da configuración de gas noble.
+¿Cuál es el elemento más electronegativo?|Sodio|Cloro|Oxígeno|Flúor|3|El flúor es el elemento con mayor electronegatividad.
+El número másico (A) de un átomo es:|Solo los neutrones|La masa de los electrones|La suma de protones y neutrones|La suma de protones y electrones|2|A = Z + n.
+¿Cuál de estos elementos es un metal?|Magnesio|Azufre|Cloro|Oxígeno|0|El magnesio (Mg) es un metal alcalinotérreo.
+¿Qué ocurre con la electronegatividad al avanzar hacia la derecha en un período?|Aumenta|Disminuye|Es cero|No cambia|0|Aumenta la carga nuclear y los átomos atraen más a los electrones.
+Un átomo neutro tiene:|Igual número de protones y electrones|Más protones que electrones|Más electrones que protones|Solo neutrones|0|Las cargas positivas y negativas se compensan.

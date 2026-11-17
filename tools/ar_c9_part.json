@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 9,
+   "country": "AR",
+   "subject": "Chemistry",
+   "chapters": [
+    {
+     "id": "ar-c9-01",
+     "title": "La materia: estados, sustancias y densidad",
+     "lessons": [
+      {
+       "id": "ar-c9-01-01",
+       "title": "Estados de agregación y cambios de estado"
+      },
+      {
+       "id": "ar-c9-01-02",
+       "title": "Sustancias puras, mezclas y propiedades"
+      },
+      {
+       "id": "ar-c9-01-03",
+       "title": "Densidad y cambios físicos y químicos"
+      }
+     ]
+    },
+    {
+     "id": "ar-c9-02",
+     "title": "El átomo y la tabla periódica",
+     "lessons": [
+      {
+       "id": "ar-c9-02-01",
+       "title": "Estructura del átomo"
+      },
+      {
+       "id": "ar-c9-02-02",
+       "title": "Configuración electrónica y tabla periódica"
+      },
+      {
+       "id": "ar-c9-02-03",
+       "title": "Propiedades periódicas"
+      }
+     ]
+    },
+    {
+     "id": "ar-c9-03",
+     "title": "Enlaces químicos",
+     "lessons": [
+      {
+       "id": "ar-c9-03-01",
+       "title": "Enlace iónico"
+      },
+      {
+       "id": "ar-c9-03-02",
+       "title": "Enlace covalente"
+      },
+      {
+       "id": "ar-c9-03-03",
+       "title": "Enlace metálico y propiedades de las sustancias"
+      }
+     ]
+    },
+    {
+     "id": "ar-c9-04",
+     "title": "Reacciones químicas y su balanceo",
+     "lessons": [
+      {
+       "id": "ar-c9-04-01",
+       "title": "Cambios químicos y ecuaciones"
+      },
+      {
+       "id": "ar-c9-04-02",
+       "title": "Ley de conservación de la masa y balanceo"
+      },
+      {
+       "id": "ar-c9-04-03",
+       "title": "Tipos de reacciones"
+      }
+     ]
+    },
+    {
+     "id": "ar-c9-05",
+     "title": "El mol y los cálculos estequiométricos",
+     "lessons": [
+      {
+       "id": "ar-c9-05-01",
+       "title": "Masa atómica y masa molar"
+      },
+      {
+       "id": "ar-c9-05-02",
+       "title": "El mol y el número de Avogadro"
+      },
+      {
+       "id": "ar-c9-05-03",
+       "title": "Cálculos estequiométricos"
+      }
+     ]
+    },
+    {
+     "id": "ar-c9-06",
+     "title": "Soluciones, ácidos y bases",
+     "lessons": [
+      {
+       "id": "ar-c9-06-01",
+       "title": "Soluciones y concentración"
+      },
+      {
+       "id": "ar-c9-06-02",
+       "title": "Ácidos y bases"
+      },
+      {
+       "id": "ar-c9-06-03",
+       "title": "Neutralización y química en la vida cotidiana"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

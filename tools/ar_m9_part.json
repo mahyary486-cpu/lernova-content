@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 9,
+   "country": "AR",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "ar-m9-01",
+     "title": "Números racionales y proporcionalidad",
+     "lessons": [
+      {
+       "id": "ar-m9-01-01",
+       "title": "Fracciones y expresiones decimales"
+      },
+      {
+       "id": "ar-m9-01-02",
+       "title": "Operaciones con números racionales"
+      },
+      {
+       "id": "ar-m9-01-03",
+       "title": "Porcentaje y proporcionalidad"
+      }
+     ]
+    },
+    {
+     "id": "ar-m9-02",
+     "title": "Potenciación, radicación y notación científica",
+     "lessons": [
+      {
+       "id": "ar-m9-02-01",
+       "title": "Potencias de exponente entero"
+      },
+      {
+       "id": "ar-m9-02-02",
+       "title": "Propiedades de la potenciación"
+      },
+      {
+       "id": "ar-m9-02-03",
+       "title": "Radicación y notación científica"
+      }
+     ]
+    },
+    {
+     "id": "ar-m9-03",
+     "title": "Expresiones algebraicas, ecuaciones e inecuaciones",
+     "lessons": [
+      {
+       "id": "ar-m9-03-01",
+       "title": "Lenguaje simbólico y expresiones algebraicas"
+      },
+      {
+       "id": "ar-m9-03-02",
+       "title": "Ecuaciones de primer grado"
+      },
+      {
+       "id": "ar-m9-03-03",
+       "title": "Inecuaciones lineales"
+      }
+     ]
+    },
+    {
+     "id": "ar-m9-04",
+     "title": "Funciones lineales",
+     "lessons": [
+      {
+       "id": "ar-m9-04-01",
+       "title": "Proporcionalidad directa y función lineal"
+      },
+      {
+       "id": "ar-m9-04-02",
+       "title": "Pendiente, ordenada al origen y gráfico"
+      },
+      {
+       "id": "ar-m9-04-03",
+       "title": "Ecuación de la recta, paralelas y perpendiculares"
+      }
+     ]
+    },
+    {
+     "id": "ar-m9-05",
+     "title": "Sistemas de ecuaciones lineales",
+     "lessons": [
+      {
+       "id": "ar-m9-05-01",
+       "title": "Sistemas de dos ecuaciones y su gráfico"
+      },
+      {
+       "id": "ar-m9-05-02",
+       "title": "Métodos de sustitución e igualación"
+      },
+      {
+       "id": "ar-m9-05-03",
+       "title": "Método de reducción y problemas"
+      }
+     ]
+    },
+    {
+     "id": "ar-m9-06",
+     "title": "Geometría: Pitágoras, semejanza y cuerpos",
+     "lessons": [
+      {
+       "id": "ar-m9-06-01",
+       "title": "Teorema de Pitágoras"
+      },
+      {
+       "id": "ar-m9-06-02",
+       "title": "Teorema de Tales y semejanza de triángulos"
+      },
+      {
+       "id": "ar-m9-06-03",
+       "title": "Áreas y volúmenes de cuerpos geométricos"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

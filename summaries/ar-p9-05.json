@@ -1,0 +1,5 @@
+{
+ "Temperatura y escalas termométricas": "La temperatura mide el estado de agitación térmica de las partículas. Las escalas son Celsius, Kelvin y Fahrenheit: K = °C + 273 y °F = 9/5·°C + 32. El calor es la energía que se transfiere por una diferencia de temperatura.",
+ "Transmisión del calor y dilatación": "El calor se transmite por conducción (contacto en sólidos), convección (movimiento de fluidos) y radiación (ondas electromagnéticas, incluso en el vacío). Al calentarse, los cuerpos se dilatan. Los aislantes térmicos conducen mal el calor.",
+ "Calor específico, equilibrio térmico y cambios de estado": "El calor absorbido o cedido es Q = m·c·ΔT, donde c es el calor específico (agua: 1 cal/g·°C). Al mezclar cuerpos, el calor cedido es igual al absorbido hasta alcanzar el equilibrio. En los cambios de estado Q = m·L y la temperatura no cambia."
+}

@@ -1,0 +1,26 @@
+#EEEEEEEEMMMMMMMHHHHHHHHHH
+¿Cuál es la fórmula del dióxido de carbono?|CO₂|C₂O|CO|C₂O₂|0|Un átomo de carbono y dos de oxígeno.
+¿Qué tipo de enlace se forma entre dos no metales, como en H₂O?|Nuclear|Iónico|Covalente|Metálico|2|Los no metales comparten electrones.
+¿En qué enlace los átomos comparten pares de electrones?|Ninguno|Metálico|Covalente|Iónico|2|Compartir electrones es la característica del enlace covalente.
+¿Cuántos electrones de valencia tiene el oxígeno?|2|4|8|6|3|El oxígeno (grupo 16) tiene 6 electrones de valencia.
+¿Qué tipo de enlace se forma entre un metal y un no metal, por ejemplo Na y Cl?|Metálico|Iónico|De hidrógeno|Covalente|1|Hay transferencia de electrones del metal al no metal.
+¿Cuál es la fórmula del agua?|H₂O₂|H₂O|HO₂|OH|1|Cada molécula tiene 2 átomos de hidrógeno y 1 de oxígeno.
+¿Cómo se llama la fórmula del cloruro de sodio?|Na₂Cl|NaCl|NaCl₂|Na₂Cl₂|1|Na⁺ y Cl⁻ se combinan en proporción 1:1.
+¿Por qué se unen los átomos formando enlaces?|Para aumentar su masa|Para ganar neutrones|Para alcanzar una configuración electrónica más estable|Para perder protones|2|Los átomos tienden a completar su última capa (regla del octeto).
+Cuando el cloro forma el ion Cl⁻, el átomo:|Gana un protón|Gana un electrón|Pierde un electrón|Pierde un protón|1|Completa su octeto ganando un electrón.
+¿Qué compuesto es covalente?|NaCl|MgO|CH₄|KBr|2|El metano está formado por no metales que comparten electrones.
+¿Cuántos enlaces covalentes forma normalmente el hidrógeno?|2|1|4|3|1|Con un electrón de valencia comparte un par.
+En la molécula de agua, el oxígeno forma:|3 enlaces|4 enlaces|2 enlaces covalentes simples|1 enlace iónico|2|Comparte un par con cada hidrógeno.
+Cuando el sodio forma el ion Na⁺, el átomo:|Pierde un electrón|Pierde un protón|Gana un neutrón|Gana un electrón|0|Pierde su electrón de valencia y queda con la capa completa del neón.
+¿Qué compuesto es iónico?|CH₄|NaCl|H₂O|CO₂|1|El NaCl está formado por iones Na⁺ y Cl⁻.
+En la molécula de N₂ los átomos están unidos por:|Un enlace metálico|Un enlace simple|Un enlace covalente triple|Un enlace iónico|2|Cada N comparte tres pares de electrones.
+¿Cuál es la carga del ion de un elemento del grupo 2 (como el Ca)?|−1|+2|+1|−2|1|Pierde los 2 electrones de valencia.
+¿Cuál es la fórmula del óxido de magnesio?|Mg₂O|Mg₂O₂|MgO₂|MgO|3|Mg²⁺ y O²⁻ se combinan 1:1.
+¿Por qué los compuestos iónicos tienen puntos de fusión altos?|Por las fuertes atracciones electrostáticas entre los iones|Porque tienen moléculas pequeñas|Porque son muy livianos|Porque no tienen enlaces|0|Se necesita mucha energía para separar los iones de la red cristalina.
+¿Cuál es la fórmula del cloruro de calcio?|Ca₂Cl₂|CaCl₂|Ca₂Cl|CaCl|1|Ca²⁺ necesita dos Cl⁻.
+Un enlace covalente es polar cuando:|Los átomos son iguales|Los átomos tienen distinta electronegatividad|Es metálico|Hay transferencia total de electrones|1|El átomo más electronegativo atrae más el par de electrones.
+Los compuestos iónicos conducen la electricidad cuando están:|Fundidos o disueltos en agua|Nunca|En estado sólido|En cualquier estado|0|Solo cuando los iones están libres pueden transportar carga.
+¿Qué característica tienen las moléculas de agua que explica su alto punto de ebullición?|Son metálicas|Son iónicas|No tienen enlaces|Forman puentes de hidrógeno|3|Los puentes de hidrógeno son uniones intermoleculares fuertes.
+¿Cuál de estas sustancias es maleable y dúctil?|Azúcar|Cloruro de sodio|Cobre|Cuarzo|2|Los metales se pueden transformar en láminas y alambres.
+Los metales conducen bien la electricidad porque:|Tienen iones fijos|Tienen electrones de valencia libres (mar de electrones)|Son blandos|Tienen muchos neutrones|1|El enlace metálico implica electrones deslocalizados.
+La molécula de CO₂ es lineal. ¿Cuántos pares de electrones comparte cada enlace C=O?|2|1|4|3|0|Es un doble enlace.

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
+La hipotenusa de un triángulo rectángulo mide 25 cm y un cateto mide 7 cm. ¿Cuánto mide el otro cateto?|25 cm|24 cm|18 cm|32 cm|1|c² = 25² − 7² = 576, entonces c = 24 cm.
+En un triángulo rectángulo los catetos miden 20 cm y 21 cm. ¿Cuánto mide la hipotenusa?|29 cm|30 cm|41 cm|28 cm|0|h² = 20² + 21² = 841, entonces h = 29 cm.
+Dos ángulos de un triángulo miden 47° y 76°. ¿Cuánto mide el tercero?|237°|57°|43°|133°|1|La suma de los ángulos interiores es 180°: 180° − 47° − 76° = 57°.
+¿Cuál es el área de un rectángulo de 7 cm por 6 cm?|26 cm²|13 cm²|22 cm²|42 cm²|3|Área = base × altura = 7 × 6 = 42 cm².
+La hipotenusa de un triángulo rectángulo mide 5 cm y un cateto mide 3 cm. ¿Cuánto mide el otro cateto?|5 cm|4 cm|8 cm|2 cm|1|c² = 5² − 3² = 16, entonces c = 4 cm.
+En un triángulo rectángulo los catetos miden 3 cm y 4 cm. ¿Cuánto mide la hipotenusa?|4 cm|7 cm|6 cm|5 cm|3|h² = 3² + 4² = 25, entonces h = 5 cm.
+En un triángulo rectángulo los catetos miden 6 cm y 8 cm. ¿Cuánto mide la hipotenusa?|11 cm|9 cm|10 cm|14 cm|2|h² = 6² + 8² = 100, entonces h = 10 cm.
+Dos ángulos de un triángulo miden 73° y 56°. ¿Cuánto mide el tercero?|51°|107°|231°|17°|0|La suma de los ángulos interiores es 180°: 180° − 73° − 56° = 51°.
+Dos ángulos de un triángulo miden 47° y 79°. ¿Cuánto mide el tercero?|43°|234°|54°|133°|2|La suma de los ángulos interiores es 180°: 180° − 47° − 79° = 54°.
+En un triángulo rectángulo los catetos miden 5 cm y 12 cm. ¿Cuánto mide la hipotenusa?|17 cm|12 cm|14 cm|13 cm|3|h² = 5² + 12² = 169, entonces h = 13 cm.
+La hipotenusa de un triángulo rectángulo mide 20 cm y un cateto mide 12 cm. ¿Cuánto mide el otro cateto?|16 cm|17 cm|8 cm|32 cm|0|c² = 20² − 12² = 256, entonces c = 16 cm.
+En un triángulo rectángulo los catetos miden 8 cm y 15 cm. ¿Cuánto mide la hipotenusa?|23 cm|18 cm|17 cm|16 cm|2|h² = 8² + 15² = 289, entonces h = 17 cm.
+Dos ángulos de un triángulo miden 69° y 74°. ¿Cuánto mide el tercero?|111°|37°|217°|21°|1|La suma de los ángulos interiores es 180°: 180° − 69° − 74° = 37°.
+La hipotenusa de un triángulo rectángulo mide 29 cm y un cateto mide 20 cm. ¿Cuánto mide el otro cateto?|9 cm|22 cm|21 cm|49 cm|2|c² = 29² − 20² = 441, entonces c = 21 cm.
+¿Cuál es el área de un rectángulo de 10 cm por 10 cm?|100 cm²|40 cm²|51 cm²|20 cm²|0|Área = base × altura = 10 × 10 = 100 cm².
+¿Cuál es el área de un triángulo de base 4 cm y altura 9 cm?|72 cm²|18 cm²|13 cm²|36 cm²|1|Área = base × altura ÷ 2 = 4 × 9 ÷ 2 = 18 cm².
+¿Cuál es el área de un triángulo de base 12 cm y altura 5 cm?|17 cm²|60 cm²|30 cm²|120 cm²|2|Área = base × altura ÷ 2 = 12 × 5 ÷ 2 = 30 cm².
+Un rectángulo mide 15 m de largo y 8 m de ancho. ¿Cuánto mide su diagonal?|16 m|19 m|23 m|17 m|3|La diagonal es la hipotenusa del triángulo de catetos 8 y 15: d = √(64 + 225) = 17 m.
+Un rectángulo mide 8 m de largo y 6 m de ancho. ¿Cuánto mide su diagonal?|12 m|9 m|14 m|10 m|3|La diagonal es la hipotenusa del triángulo de catetos 6 y 8: d = √(36 + 64) = 10 m.
+Un poste de altura desconocida proyecta una sombra de 20 m, y a la misma hora una vara de 1 m proyecta una sombra de 2 m. ¿Qué altura tiene el poste?|11 m|1/10 m|19 m|10 m|3|Triángulos semejantes: altura/sombra es constante: H/20 = 1/2, entonces H = 10 m.
+Dos triángulos son semejantes con razón 4/5. Un lado del menor mide 24 cm. ¿Cuánto mide el lado correspondiente del mayor?|23 cm|25 cm|31 cm|30 cm|3|Los lados correspondientes son proporcionales: 4/5 = 24/x, entonces x = 30 cm.
+Un rectángulo mide 4 m de largo y 3 m de ancho. ¿Cuánto mide su diagonal?|7 m|14 m|5 m|4 m|2|La diagonal es la hipotenusa del triángulo de catetos 3 y 4: d = √(9 + 16) = 5 m.
+El volumen de un cilindro de radio 4 cm y altura 12 cm es (expresalo en función de π):|48π cm³|65π cm³|192π cm³|96π cm³|2|V = π · r² · h = π · 4² · 12 = 192π cm³.
+Un rectángulo mide 12 m de largo y 9 m de ancho. ¿Cuánto mide su diagonal?|21 m|14 m|17 m|15 m|3|La diagonal es la hipotenusa del triángulo de catetos 9 y 12: d = √(81 + 144) = 15 m.
+¿Cuál es el volumen de un cubo de arista 9 cm?|729 cm³|27 cm³|486 cm³|81 cm³|0|V = arista³ = 9³ = 729 cm³.
+Dos triángulos son semejantes con razón 4/5. Un lado del menor mide 12 cm. ¿Cuánto mide el lado correspondiente del mayor?|11 cm|15 cm|16 cm|13 cm|1|Los lados correspondientes son proporcionales: 4/5 = 12/x, entonces x = 15 cm.
+Un poste de altura desconocida proyecta una sombra de 30 m, y a la misma hora una vara de 2 m proyecta una sombra de 5 m. ¿Qué altura tiene el poste?|12 m|1/3 m|13 m|27 m|0|Triángulos semejantes: altura/sombra es constante: H/30 = 2/5, entonces H = 12 m.
+Dos triángulos son semejantes con razón 3/4. Un lado del menor mide 6 cm. ¿Cuánto mide el lado correspondiente del mayor?|8 cm|9 cm|5 cm|7 cm|0|Los lados correspondientes son proporcionales: 3/4 = 6/x, entonces x = 8 cm.
+Dos triángulos son semejantes con razón 2/5. Un lado del menor mide 10 cm. ¿Cuánto mide el lado correspondiente del mayor?|26 cm|25 cm|13 cm|9 cm|1|Los lados correspondientes son proporcionales: 2/5 = 10/x, entonces x = 25 cm.
+El volumen de un cilindro de radio 6 cm y altura 12 cm es (expresalo en función de π):|144π cm³|145π cm³|72π cm³|432π cm³|3|V = π · r² · h = π · 6² · 12 = 432π cm³.
+Un poste de altura desconocida proyecta una sombra de 10 m, y a la misma hora una vara de 3 m proyecta una sombra de 2 m. ¿Qué altura tiene el poste?|15 m|11 m|16 m|3/5 m|0|Triángulos semejantes: altura/sombra es constante: H/10 = 3/2, entonces H = 15 m.
+Dos triángulos son semejantes con razón 4/5. Un lado del menor mide 8 cm. ¿Cuánto mide el lado correspondiente del mayor?|11 cm|7 cm|9 cm|10 cm|3|Los lados correspondientes son proporcionales: 4/5 = 8/x, entonces x = 10 cm.
+¿Cuál es el volumen de un cubo de arista 7 cm?|49 cm³|294 cm³|21 cm³|343 cm³|3|V = arista³ = 7³ = 343 cm³.
+El volumen de un cilindro de radio 5 cm y altura 11 cm es (expresalo en función de π):|92π cm³|55π cm³|275π cm³|110π cm³|2|V = π · r² · h = π · 5² · 11 = 275π cm³.
+El volumen de una esfera de radio 9 cm es:|324π cm³|729π cm³|2916π cm³|972π cm³|3|V = (4/3)πr³ = (4/3)π · 729 = 972π cm³.
+Un cono tiene radio 9 cm y altura 2 cm. ¿Cuál es su volumen?|63π cm³|162π cm³|18π cm³|54π cm³|3|V = (1/3)πr²h = (1/3)π · 81 · 2 = 54π cm³.
+Un triángulo isósceles tiene lados iguales de 5 cm y base de 6 cm. ¿Cuánto mide su altura sobre la base?|3 cm|2 cm|4 cm|5 cm|2|La altura divide a la base en dos partes de 3 cm: h = √(25 − 9) = 4 cm.
+Un triángulo isósceles tiene lados iguales de 5 cm y base de 8 cm. ¿Cuánto mide su altura sobre la base?|1 cm|5 cm|3 cm|4 cm|2|La altura divide a la base en dos partes de 4 cm: h = √(25 − 16) = 3 cm.
+¿Es rectángulo un triángulo de lados 8, 15 y 17?|No, porque 8 + 15 ≠ 17|Sí, porque 8² + 15² = 17²|Sí, porque 8 + 15 > 17|No, porque ningún lado es par|1|Se verifica el recíproco del teorema de Pitágoras: 64 + 225 = 289.
+Una pileta de 10 m de largo, 4 m de ancho y 3 m de profundidad se llena por completo. ¿Cuántos litros contiene? (1 m³ = 1000 litros)|12.000 litros|1.200.000 litros|120.000 litros|120 litros|2|V = 10 × 4 × 3 = 120 m³ = 120.000 litros.
+Un triángulo isósceles tiene lados iguales de 17 cm y base de 16 cm. ¿Cuánto mide su altura sobre la base?|15 cm|16 cm|9 cm|17 cm|0|La altura divide a la base en dos partes de 8 cm: h = √(289 − 64) = 15 cm.
+Un cono tiene radio 6 cm y altura 8 cm. ¿Cuál es su volumen?|288π cm³|102π cm³|96π cm³|48π cm³|2|V = (1/3)πr²h = (1/3)π · 36 · 8 = 96π cm³.
+Una pileta de 6 m de largo, 3 m de ancho y 2 m de profundidad se llena por completo. ¿Cuántos litros contiene? (1 m³ = 1000 litros)|36 litros|36.000 litros|3.600 litros|360.000 litros|1|V = 6 × 3 × 2 = 36 m³ = 36.000 litros.
+Un cuadrado tiene lado 6 cm. Si se multiplica el lado por 3, ¿por cuánto queda multiplicada su área?|6|3|27|9|3|El área es proporcional al cuadrado de la razón de semejanza: 3² = 9.
+Un cuadrado tiene lado 9 cm. Si se multiplica el lado por 4, ¿por cuánto queda multiplicada su área?|16|8|64|4|0|El área es proporcional al cuadrado de la razón de semejanza: 4² = 16.
+Un cono tiene radio 6 cm y altura 5 cm. ¿Cuál es su volumen?|180π cm³|60π cm³|66π cm³|30π cm³|1|V = (1/3)πr²h = (1/3)π · 36 · 5 = 60π cm³.
+Una pileta de 5 m de largo, 4 m de ancho y 2 m de profundidad se llena por completo. ¿Cuántos litros contiene? (1 m³ = 1000 litros)|4.000 litros|40.000 litros|40 litros|400.000 litros|1|V = 5 × 4 × 2 = 40 m³ = 40.000 litros.
+El volumen de una esfera de radio 3 cm es:|36π cm³|9π cm³|108π cm³|27π cm³|0|V = (4/3)πr³ = (4/3)π · 27 = 36π cm³.
+¿Es rectángulo un triángulo de lados 7, 24 y 25?|No, porque 7 + 24 ≠ 25|No, porque ningún lado es par|Sí, porque 7 + 24 > 25|Sí, porque 7² + 24² = 25²|3|Se verifica el recíproco del teorema de Pitágoras: 49 + 576 = 625.
+El volumen de una esfera de radio 6 cm es:|144π cm³|288π cm³|216π cm³|864π cm³|1|V = (4/3)πr³ = (4/3)π · 216 = 288π cm³.

@@ -1,0 +1,29 @@
+#EEEEEEEEEEMMMMMMMMHHHHHHHHHH
+¿A qué reino pertenecen las bacterias?|Animales|Moneras|Hongos|Plantas|1|Son organismos procariotas.
+¿Qué es la biodiversidad?|Un tipo de clima|La variedad de seres vivos de la Tierra|Un tipo de animal|La cantidad de agua|1|Incluye diversidad de especies, genes y ecosistemas.
+¿Cuál es un animal vertebrado?|La lombriz|El caracol|El pez|La mariposa|2|Tiene columna vertebral.
+¿Cómo se llama el conjunto de organismos de la misma especie que viven en un lugar?|Ecosistema|Población|Comunidad|Bioma|1|Una población está formada por individuos de una especie.
+¿Cuántos reinos de seres vivos se suelen reconocer en la clasificación clásica de cinco reinos?|5|7|2|3|0|Mónera, protista, hongos, plantas y animales.
+¿A qué reino pertenecen los hongos como las levaduras?|Moneras|Plantas|Animales|Hongos|3|Son heterótrofos y se alimentan por absorción.
+Un animal que no tiene columna vertebral es:|Mamífero|Vertebrado|Ave|Invertebrado|3|Por ejemplo, insectos y caracoles.
+¿Qué es una especie?|Cualquier animal|Grupo de individuos que pueden reproducirse entre sí y dejar descendencia fértil|Un ecosistema|Un conjunto de plantas|1|Es la unidad básica de clasificación.
+¿Quién propuso la teoría de la evolución por selección natural?|Charles Darwin|Gregor Mendel|Antoine Lavoisier|Louis Pasteur|0|La publicó en «El origen de las especies» (1859).
+Los fósiles son:|Minerales|Restos o huellas de seres vivos del pasado|Organismos actuales|Rocas sin vida|1|Son evidencia de la evolución.
+Los picos de los pinzones de Darwin variaban según:|El color de las plumas|El alimento disponible en cada isla|El sexo|La edad|1|Se adaptaron a diferentes fuentes de alimento.
+¿Qué es una adaptación?|Una característica que aumenta la supervivencia en un ambiente|Un cambio de ambiente|Un fósil|Una enfermedad|0|Puede ser estructural, fisiológica o de comportamiento.
+¿Cuál es la fuente de variabilidad sobre la que actúa la selección natural?|La voluntad|El clima únicamente|El uso o desuso de órganos|Las mutaciones y la recombinación genética|3|La variabilidad es hereditaria.
+¿En qué consiste la selección natural?|Los individuos eligen sus características|El ambiente no influye|Todos los individuos sobreviven|Sobreviven y se reproducen más los individuos mejor adaptados al ambiente|3|Es el mecanismo principal propuesto por Darwin.
+Las alas de un murciélago y las patas de un gato son órganos:|Vestigiales|Análogos|Homólogos|Iguales en función|2|Tienen un origen común y distinta función.
+Un ejemplo de especie en peligro en la Argentina es:|El perro|La vaca|El yaguareté|La gallina|2|El yaguareté (Panthera onca) está en peligro crítico.
+Las alas de un ave y las de un insecto son órganos:|Idénticos|Vestigiales|Análogos|Homólogos|2|Cumplen la misma función con origen distinto.
+¿Qué es la extinción?|La migración|La desaparición de todos los individuos de una especie|El cambio de color|El nacimiento de una especie|1|Es irreversible.
+¿Qué diferencia a la teoría de Lamarck de la de Darwin?|Lamarck usó la genética|Lamarck propuso la selección natural|Lamarck proponía la herencia de caracteres adquiridos|Son iguales|2|Hoy se sabe que los caracteres adquiridos no se heredan.
+¿Cómo ayudan las áreas protegidas?|Aumentan la contaminación|Conservan hábitats y especies|Impiden toda investigación|Eliminan especies|1|Por ejemplo, los parques nacionales.
+Si en una población de polillas oscuras y claras el hollín oscurece los árboles, es probable que:|Aumenten las claras|No cambie nada|Desaparezcan todas|Aumenten las polillas oscuras|3|Las oscuras se camuflan mejor y sobreviven más.
+¿Cuál es una causa de pérdida de biodiversidad?|Reforestación|Reducción de la caza|Protección de áreas|Destrucción de hábitats|3|La deforestación y la urbanización eliminan hábitats.
+¿Por qué las especies introducidas pueden ser un problema?|Siempre ayudan|No tienen efecto|Son más débiles|Pueden competir con las nativas y desplazarlas|3|Un caso es el castor en Tierra del Fuego.
+¿Qué es un endemismo?|Una plaga|Una especie extinta|Una especie que vive solo en una región determinada|Una especie introducida|2|Por ejemplo, el hornero es ave nacional pero no es endémico exclusivo.
+¿Cuál de estas evidencias apoya la evolución?|El color del cielo|La forma de las nubes|El peso de las rocas|Semejanzas en el ADN entre especies|3|Cuanto más parecido el ADN, más cercano el parentesco.
+¿Por qué las bacterias desarrollan resistencia a los antibióticos?|Cambian por voluntad|Los antibióticos las vuelven fuertes|Las que tienen mutaciones resistentes sobreviven y se reproducen|Aprenden a resistir|2|Es un ejemplo de selección natural.
+¿Qué es la especiación?|La extinción de una especie|La cadena alimentaria|La migración|La formación de nuevas especies|3|Ocurre cuando poblaciones quedan aisladas y divergen.
+¿Qué son los órganos vestigiales?|Órganos nuevos|Órganos de las plantas|Órganos muy grandes|Estructuras reducidas que perdieron su función original|3|Un ejemplo es el apéndice humano.

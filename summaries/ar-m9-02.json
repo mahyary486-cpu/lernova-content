@@ -1,0 +1,5 @@
+{
+ "Potencias de exponente entero": "Una potencia es una multiplicación repetida: a^n = a·a·…·a. Todo número distinto de 0 elevado a 0 vale 1 y un exponente negativo invierte la base: a^−n = 1/a^n.",
+ "Propiedades de la potenciación": "Con la misma base, en el producto se suman los exponentes y en el cociente se restan. En una potencia de potencia se multiplican los exponentes. La potenciación no es distributiva respecto de la suma.",
+ "Radicación y notación científica": "La raíz n-ésima de a es el número que elevado a la n da a. Los radicales con el mismo radicando se suman como términos semejantes. La notación científica escribe un número como c × 10ⁿ con 1 ≤ c < 10."
+}

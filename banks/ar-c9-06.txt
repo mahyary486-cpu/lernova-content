@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+El indicador universal permite:|Medir la temperatura|Separar mezclas|Reconocer si una solución es ácida o básica por el color|Medir la masa|2|Cambia de color según el pH.
+Se disuelven 15 g de soluto en agua hasta completar 250 mL de solución. ¿Cuál es la concentración en % m/V?|265 %|6 %|12 %|16,6667 %|1|% m/V = 15 g/250 mL × 100 = 6 %.
+Se disuelven 5 g de sal en agua para obtener 50 g de solución. ¿Cuál es la concentración en % m/m?|10 %|11,1111 %|90 %|20 %|0|% m/m = masa de soluto/masa de solución × 100 = 5/50 × 100 = 10 %.
+Se disuelven 5 g de soluto en agua hasta completar 100 mL de solución. ¿Cuál es la concentración en % m/V?|105 %|10 %|20 %|5 %|3|% m/V = 5 g/100 mL × 100 = 5 %.
+El jugo de limón es:|Neutro|Un metal|Ácido|Básico|2|Contiene ácido cítrico y tiene pH aproximado de 2.
+En una solución, el componente que se encuentra en mayor cantidad se llama:|Catalizador|Precipitado|Soluto|Solvente|3|El solvente es el que disuelve; el soluto es lo que se disuelve.
+Una solución tiene pH 3. ¿Cómo es?|Básica|Ninguna de las anteriores|Neutra|Ácida|3|pH < 7 es ácida, pH = 7 neutra y pH > 7 básica.
+Una solución tiene pH 11. ¿Cómo es?|Ninguna de las anteriores|Básica|Ácida|Neutra|1|pH < 7 es ácida, pH = 7 neutra y pH > 7 básica.
+¿Cuál es el pH del agua pura a 25 °C?|14|7|0|1|1|El agua pura es neutra.
+Se disuelven 10 g de sal en agua para obtener 100 g de solución. ¿Cuál es la concentración en % m/m?|11,1111 %|90 %|20 %|10 %|3|% m/m = masa de soluto/masa de solución × 100 = 10/100 × 100 = 10 %.
+Se disuelven 20 g de NaOH (M = 40 g/mol) en agua hasta formar 1 L de solución. ¿Cuál es la molaridad?|1,5 M|1 M|0,5 M|20 M|2|n = m/M = 0,5 mol; M = n/V = 0,5/1 = 0,5 mol/L.
+Un antiácido estomacal actúa porque contiene:|Un metal|Un gas noble|Un ácido fuerte|Una base débil|3|Neutraliza el exceso de ácido clorhídrico del estómago.
+Se disuelven 0,5 mol de soluto en 2 L de solución. ¿Cuál es la molaridad?|0,25 M|4 M|1 M|1,25 M|0|M = n/V = 0,5/2 = 0,25 mol/L.
+La lavandina es una solución:|Neutra|Ácida fuerte|Básica|Sólida|2|Las soluciones de hipoclorito de sodio son alcalinas.
+Una solución tiene una concentración de iones H⁺ de 1 × 10⁻¹¹ mol/L. ¿Cuál es su pH?|3|−11|12|11|3|pH = −log[H⁺] = −log(10⁻¹¹) = 11.
+Una solución tiene una concentración de iones H⁺ de 1 × 10⁻⁵ mol/L. ¿Cuál es su pH?|5|9|6|−5|0|pH = −log[H⁺] = −log(10⁻⁵) = 5.
+Se disuelven 4 mol de soluto en 2 L de solución. ¿Cuál es la molaridad?|0,5 M|8 M|3 M|2 M|3|M = n/V = 4/2 = 2 mol/L.
+Se disuelven 117 g de NaCl (M = 58,5 g/mol) en agua hasta formar 1 L de solución. ¿Cuál es la molaridad?|117 M|2 M|4 M|3 M|1|n = m/M = 2 mol; M = n/V = 2/1 = 2 mol/L.
+Se disuelven 49 g de H₂SO₄ (M = 98 g/mol) en agua hasta formar 0,5 L de solución. ¿Cuál es la molaridad?|98 M|1 M|2 M|0,5 M|1|n = m/M = 0,5 mol; M = n/V = 0,5/0,5 = 1 mol/L.
+Se disuelven 1,5 mol de soluto en 3 L de solución. ¿Cuál es la molaridad?|0,5 M|4,5 M|1,5 M|2 M|0|M = n/V = 1,5/3 = 0,5 mol/L.
+Se diluye 10 mL de una solución 10 M hasta 100 mL. ¿Cuál es la nueva concentración?|1 M|10 M|10,1 M|100 M|0|C₁·V₁ = C₂·V₂ → C₂ = 10 · 10/100 = 1 M.
+Se diluye 25 mL de una solución 4 M hasta 100 mL. ¿Cuál es la nueva concentración?|4,25 M|4 M|1 M|16 M|2|C₁·V₁ = C₂·V₂ → C₂ = 4 · 25/100 = 1 M.
+¿Qué solución es más ácida: pH 2 o pH 4?|pH 4|Son iguales|Ninguna|pH 2|3|A menor pH, mayor concentración de H⁺.
+Para preparar 500 mL de solución 0,2 M de NaOH (M = 40 g/mol) se necesitan:|0,4 g|8 g|40 g|4 g|3|n = 0,2 · 0,5 = 0,1 mol; m = 0,1 · 40 = 4 g.
+¿Cuál de estos factores aumenta la solubilidad de un sólido en agua?|Disminuir el solvente|Aumentar la masa del soluto|Aumentar la temperatura (en general)|Disminuir la temperatura|2|La mayoría de los sólidos se disuelven más al calentar.
+Si el pH de una solución cambia de 3 a 5, la concentración de H⁺:|No cambia|Aumenta 100 veces|Disminuye 100 veces|Disminuye 2 veces|2|Cada unidad de pH equivale a un factor 10: dos unidades, un factor 100.
+Se diluye 200 mL de una solución 1 M hasta 500 mL. ¿Cuál es la nueva concentración?|1,4 M|0,8 M|2,5 M|0,4 M|3|C₁·V₁ = C₂·V₂ → C₂ = 1 · 200/500 = 0,4 M.
+Se disuelven 20 g de soluto en agua hasta completar 500 mL de solución. ¿Cuál es la concentración en % m/V?|4 %|520 %|8 %|25 %|0|% m/V = 20 g/500 mL × 100 = 4 %.
+Se disuelven 20 g de sal en agua para obtener 200 g de solución. ¿Cuál es la concentración en % m/m?|20 %|10 %|90 %|11,1111 %|1|% m/m = masa de soluto/masa de solución × 100 = 20/200 × 100 = 10 %.
+Se disuelven 30 g de sal en agua para obtener 150 g de solución. ¿Cuál es la concentración en % m/m?|5 %|25 %|20 %|80 %|2|% m/m = masa de soluto/masa de solución × 100 = 30/150 × 100 = 20 %.

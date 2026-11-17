@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 9,
+   "country": "AR",
+   "subject": "Physics",
+   "chapters": [
+    {
+     "id": "ar-p9-01",
+     "title": "Movimiento: MRU, MRUV y caída libre",
+     "lessons": [
+      {
+       "id": "ar-p9-01-01",
+       "title": "Movimiento rectilíneo uniforme (MRU)"
+      },
+      {
+       "id": "ar-p9-01-02",
+       "title": "Movimiento rectilíneo uniformemente variado (MRUV)"
+      },
+      {
+       "id": "ar-p9-01-03",
+       "title": "Caída libre y lectura de gráficos"
+      }
+     ]
+    },
+    {
+     "id": "ar-p9-02",
+     "title": "Fuerzas y leyes de Newton",
+     "lessons": [
+      {
+       "id": "ar-p9-02-01",
+       "title": "Fuerzas, peso y rozamiento"
+      },
+      {
+       "id": "ar-p9-02-02",
+       "title": "Las leyes de Newton"
+      },
+      {
+       "id": "ar-p9-02-03",
+       "title": "Aplicaciones de la segunda ley"
+      }
+     ]
+    },
+    {
+     "id": "ar-p9-03",
+     "title": "Trabajo, energía y potencia",
+     "lessons": [
+      {
+       "id": "ar-p9-03-01",
+       "title": "Trabajo y potencia"
+      },
+      {
+       "id": "ar-p9-03-02",
+       "title": "Energía cinética y potencial"
+      },
+      {
+       "id": "ar-p9-03-03",
+       "title": "Conservación de la energía y rendimiento"
+      }
+     ]
+    },
+    {
+     "id": "ar-p9-04",
+     "title": "Electricidad: corriente, Ohm y circuitos",
+     "lessons": [
+      {
+       "id": "ar-p9-04-01",
+       "title": "Carga, corriente y ley de Ohm"
+      },
+      {
+       "id": "ar-p9-04-02",
+       "title": "Circuitos en serie y en paralelo"
+      },
+      {
+       "id": "ar-p9-04-03",
+       "title": "Potencia y consumo de energía eléctrica"
+      }
+     ]
+    },
+    {
+     "id": "ar-p9-05",
+     "title": "Calor y temperatura",
+     "lessons": [
+      {
+       "id": "ar-p9-05-01",
+       "title": "Temperatura y escalas termométricas"
+      },
+      {
+       "id": "ar-p9-05-02",
+       "title": "Transmisión del calor y dilatación"
+      },
+      {
+       "id": "ar-p9-05-03",
+       "title": "Calor específico, equilibrio térmico y cambios de estado"
+      }
+     ]
+    },
+    {
+     "id": "ar-p9-06",
+     "title": "Ondas, sonido y luz",
+     "lessons": [
+      {
+       "id": "ar-p9-06-01",
+       "title": "Características de las ondas"
+      },
+      {
+       "id": "ar-p9-06-02",
+       "title": "El sonido"
+      },
+      {
+       "id": "ar-p9-06-03",
+       "title": "La luz: reflexión y refracción"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
