@@ -1,0 +1,4 @@
+{
+  "Aydınlanma ve aynalar": "Işık şiddeti candela (cd), ışık akısı lümen (lm), aydınlanma lüks (lx) birimiyle ölçülür; E = I/d² dir. Düz aynada görüntü sanal, düz ve cisimle aynı boydadır. Çukur ayna toplayıcı, tümsek ayna dağıtıcıdır; ayna denklemi 1/f = 1/p + 1/q ve f = R/2 dir.",
+  "Işığın kırılması, prizmalar ve fiber optik": "Işık ortam değiştirirken kırılır; n = c/v ve Snell yasası n₁sinθ₁ = n₂sinθ₂ geçerlidir. Yoğun ortamdan seyrek ortama sınır açısından büyük açıyla gelen ışık tam yansıma yapar; fiber optik buna dayanır. Prizmada beyaz ışık renklerine ayrılır ve en çok mor, en az kırmızı sapar."
+}

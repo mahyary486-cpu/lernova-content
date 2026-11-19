@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Bir dörtgenin iç açılarının ölçüleri toplamı kaç derecedir?|360|270|180|540|0|Dörtgen iki üçgene bölünebildiğinden iç açılar toplamı 2·180 = 360° dir.
+Bir paralelkenarın komşu iki açısından biri 70° ise diğeri kaç derecedir?|110|290|20|70|0|Paralelkenarda komşu açılar bütünlerdir: 180° − 70° = 110°.
+ABCD paralelkenarında m(A) = 2x + 10 ve m(B) = 3x − 20 ise m(A) kaç derecedir?|86|94|100|76|0|A ve B komşu açılar olduğundan (2x + 10) + (3x − 20) = 180 → x = 38 ve m(A) = 86°.
+Karşılıklı kenarları paralel olan dörtgene ne ad verilir?|Paralelkenar|Deltoid|Yamuk|İkizkenar yamuk|0|Karşılıklı iki çift kenarı paralel olan dörtgen paralelkenardır.
+Bir paralelkenarın köşegenleri için aşağıdakilerden hangisi her zaman doğrudur?|Birbirine diktir|Birbirini ortalar|Açıortaydır|Birbirine eşittir|1|Paralelkenarda köşegenler kesim noktasında birbirini iki eş parçaya böler.
+ABCD paralelkenarının köşegenleri O noktasında kesişiyor. AO = 3x − 1 ve OC = 2x + 4 ise x kaçtır?|4|5|3|6|1|Köşegenler birbirini ortaladığından AO = OC: 3x − 1 = 2x + 4 ve x = 5.
+Dikdörtgenin köşegenleri için aşağıdakilerden hangisi doğrudur?|Birbirine diktir|Eşit uzunluktadır|Açıortaydır|Paralel çizilir|1|Dikdörtgende köşegenler eşit uzunlukta ve birbirini ortalayandır.
+Eşkenar dörtgenin köşegenleri için aşağıdakilerden hangisi doğrudur?|Kenarlara dik değildir|Paraleldir|Birbirine diktir ve açıortaydır|Eşit uzunluktadır|2|Eşkenar dörtgende köşegenler birbirine diktir ve köşe açılarını ikiye böler.
+Köşegen uzunlukları 6 cm ve 8 cm olan eşkenar dörtgenin bir kenarı kaç cm dir?|10|5|14|7|1|Köşegenler dik olduğundan kenar, yarı köşegenlerle (3 ve 4) oluşan dik üçgenin hipotenüsüdür: 5 cm.
+Aşağıdaki ifadelerden hangisi doğrudur?|Kare bir yamuk değildir|Eşkenar dörtgen her zaman karedir|Dikdörtgen her zaman karedir|Kare hem dikdörtgen hem eşkenar dörtgendir|3|Kare, dik açılı ve kenarları eşit bir paralelkenardır; bu yüzden hem dikdörtgen hem eşkenar dörtgendir.
+Kenar uzunlukları 6 cm ve 8 cm olan dikdörtgenin köşegeni kaç cm dir?|10|14|12|48|0|Köşegen, dik üçgenin hipotenüsüdür: √(6² + 8²) = 10.
+Köşegen uzunluğu 6√2 cm olan karenin alanı kaç cm² dir?|72|18|36|36√2|2|Köşegen a√2 olduğundan kenar a = 6 ve alan 6² = 36 cm².
+Yalnızca bir çift karşılıklı kenarı paralel olan dörtgene ne ad verilir?|Paralelkenar|Deltoid|Kare|Yamuk|3|Paralel kenarları taban, diğer iki kenarı yan kenar olan dörtgene yamuk denir.
+Tabanları 6 cm ve 10 cm, yüksekliği 4 cm olan yamuğun alanı kaç cm² dir?|40|24|32|64|2|Alan = (a + c)·h/2 = (6 + 10)·4/2 = 32.
+Taban uzunlukları 8 cm ve 14 cm olan yamuğun orta taban uzunluğu kaç cm dir?|11|22|112|6|0|Orta taban, tabanlara paraleldir ve uzunluğu tabanların aritmetik ortalamasıdır: (8 + 14)/2 = 11.
+İkizkenar yamuk için aşağıdakilerden hangisi doğrudur?|Tüm kenarları eşittir|Tabanları eşit uzunluktadır|Yan kenarları eşittir ve taban açıları eşittir|Köşegenleri birbirine diktir|2|İkizkenar yamukta yan kenarlar eşit, aynı tabana ait açılar eşittir.
+İkizkenar yamukta köşegenler için aşağıdakilerden hangisi doğrudur?|Eşit uzunluktadır|Birbirini ortalar|Paraleldir|Birbirine diktir|0|İkizkenar yamukta köşegen uzunlukları eşittir; fakat birbirini ortalamazlar.
+Dik yamukta taban uzunlukları 9 cm ve 5 cm, yükseklik 3 cm dir. Eğik yan kenar kaç cm dir?|√10|3|4|5|3|Eğik kenar, tabanlar farkı (4) ve yükseklik (3) ile oluşan dik üçgenin hipotenüsüdür: 5 cm.
+İki çift komşu kenarı birbirine eşit olan dörtgene ne ad verilir?|Dikdörtgen|Yamuk|Paralelkenar|Deltoid|3|Komşu kenarları ikişer ikişer eşit olan dörtgene deltoid denir.
+Deltoidin köşegenleri için aşağıdakilerden hangisi doğrudur?|Birbirini her zaman ortalar|Eşit uzunluktadır|Paraleldir|Birbirine diktir|3|Deltoidde köşegenler birbirine diktir; yalnızca biri diğerini ortalar.
+Köşegen uzunlukları 10 cm ve 8 cm olan deltoidin alanı kaç cm² dir?|80|40|20|18|1|Köşegenleri dik olan dörtgenin alanı köşegenlerin çarpımının yarısıdır: 10·8/2 = 40.
+Beşgenin iç açılarının ölçüleri toplamı kaç derecedir?|360|720|900|540|3|n kenarlı çokgende iç açılar toplamı (n − 2)·180° dir: (5 − 2)·180° = 540°.
+Altıgenin iç açılarının ölçüleri toplamı kaç derecedir?|900|720|360|540|1|(6 − 2)·180° = 720°.
+İç açılarının ölçüleri toplamı 1260° olan çokgenin kaç kenarı vardır?|8|9|7|10|1|(n − 2)·180 = 1260 olduğundan n − 2 = 7 ve n = 9.
+Herhangi bir dışbükey çokgenin dış açılarının ölçüleri toplamı kaç derecedir?|180|720|360|Kenar sayısına bağlıdır|2|Her köşede bir dış açı alındığında dış açıların toplamı çokgen türünden bağımsız olarak 360° dir.
+Düzgün altıgenin bir iç açısı kaç derecedir?|60|135|120|108|2|İç açılar toplamı 720° ve altı açı eşit olduğundan her biri 720/6 = 120°.
+Bir dış açısı 36° olan düzgün çokgenin kaç kenarı vardır?|8|9|10|12|2|Dış açılar toplamı 360° ve her biri 36° olduğundan kenar sayısı 360/36 = 10.
+Beşgenin kaç köşegeni vardır?|10|5|20|15|1|n kenarlı çokgenin köşegen sayısı n(n − 3)/2 dir: 5·2/2 = 5.
+Sekizgenin kaç köşegeni vardır?|28|40|20|16|2|8·(8 − 3)/2 = 20.
+Köşegen sayısı 27 olan çokgenin kaç kenarı vardır?|9|10|8|12|0|n(n − 3)/2 = 27 → n(n − 3) = 54 ve n = 9 (9·6 = 54).

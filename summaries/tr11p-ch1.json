@@ -1,0 +1,4 @@
+{
+  "Newton'un hareket yasaları ve sürtünme": "Newton'un birinci yasası eylemsizliği, ikincisi F = m·a yı, üçüncüsü etki–tepki çiftini anlatır. Sürtünme kuvveti hareket veya hareket eğilimine zıttır; kinetik sürtünme f = μ·N dir. Asansör, makara ve eğik düzlem problemlerinde net kuvvet yönü seçilerek F_net = m·a yazılır.",
+  "Limit hız ve çembersel hareket": "Hava direnci hızla artar; direnç ağırlığa eşit olunca ivme sıfır olur ve cisim sabit limit hızla düşer. Düzgün çembersel harekette hız çembere teğettir, ivme ve net kuvvet merkeze doğrudur: F = m·v²/r = m·ω²·r. Periyot, frekans ve açısal hız v = ω·r ve ω = 2π/T bağıntılarıyla ilişkilidir."
+}

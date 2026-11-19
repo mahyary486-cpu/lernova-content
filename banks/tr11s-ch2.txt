@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Canlıların iç ortam koşullarını belirli sınırlar içinde sabit tutmasına ne ad verilir?|Metabolizma|Adaptasyon|Mutasyon|Homeostazi|3|İç dengenin korunmasına homeostazi denir.
+Geri bildirim mekanizmalarında sistem, değişimi azaltacak yönde çalışıyorsa buna ne denir?|Pozitif geri bildirim|Negatif geri bildirim|Adaptasyon|Mutasyon|1|Değişimi azaltarak dengeyi koruyan mekanizma negatif geri bildirimdir.
+Kan şekeri yükseldiğinde pankreas hangi hormonu salgılar?|İnsülin|Adrenalin|Glukagon|Tiroksin|0|İnsülin kan şekerini düşürür; glikozun hücrelere alınmasını ve glikojen olarak depolanmasını sağlar.
+Hormon salgılayan bezler sistemine ne ad verilir?|Solunum sistemi|Endokrin sistem|Boşaltım sistemi|Sindirim sistemi|1|Hormonları kana veren bezler endokrin sistemi oluşturur.
+Vücutta diğer endokrin bezleri yönetmesi nedeniyle "ana bez" denilen yapı hangisidir?|Tiroit|Böbrek üstü bezi|Pankreas|Hipofiz|3|Hipofiz birçok bezin salgısını kontrol eder.
+Metabolizma hızını düzenleyen tiroksin hormonunu hangi bez salgılar?|Tiroit|Pankreas|Hipofiz|Timus|0|Tiroksin tiroit bezinden salgılanır.
+Kan şekerini yükselten hormon aşağıdakilerden hangisidir?|Tiroksin|İnsülin|Oksitosin|Glukagon|3|Glukagon glikojenin yıkımını uyararak kan şekerini yükseltir.
+Diabetes mellitusun temel nedeni aşağıdakilerden hangisidir?|Tiroksin fazlalığı|ADH yetersizliği|İnsülin yetersizliği veya etkisizliği|Adrenalin eksikliği|2|Diyabette insülin üretilemez veya hücreler insüline yanıt vermez; kan şekeri yüksek kalır.
+Diabetes insipidus hangi hormonun eksikliğiyle ilgilidir?|Glukagon|ADH (antidiüretik hormon)|Tiroksin|İnsülin|1|ADH eksikliğinde böbreklerde su geri emilimi azalır; çok miktarda seyreltik idrar atılır.
+İnsan kalbi kaç odacıktan oluşur?|4|3|5|2|0|İnsan kalbi iki kulakçık ve iki karıncık olmak üzere dört odacıklıdır.
+Büyük dolaşımda kan hangi yolu izler?|Akciğerden kalbe|Dokulardan akciğere|Kalpten akciğere|Kalpten vücut dokularına, oradan kalbe|3|Büyük dolaşım sol karıncıktan başlayıp vücutta dolaşarak sağ kulakçığa döner.
+Yüksek kan basıncına ne ad verilir?|Hipertansiyon|Hipotansiyon|Obezite|Anemi|0|Kan basıncının normalin üzerinde olması hipertansiyondur.
+Oksijen taşımadan sorumlu kan hücreleri aşağıdakilerden hangisidir?|Trombositler|Akyuvarlar|Plazma|Alyuvarlar|3|Alyuvarlardaki hemoglobin oksijeni bağlayıp taşır.
+Akciğerde gaz alışverişinin gerçekleştiği yapı hangisidir?|Gırtlak|Alveol|Soluk borusu|Bronş|1|Gaz alışverişi, kılcal damarlarla sarılı alveollerde difüzyonla gerçekleşir.
+Soluk alma sırasında diyafram nasıl hareket eder?|Hareket etmez|Gevşeyip kubbeleşir|Kasılıp düzleşir|Kalpten kan alır|2|Soluk alırken diyafram kasılır ve düzleşir; göğüs boşluğu genişler.
+Hemoglobin hangi gazı taşır?|Oksijen|Argon|Azot|Helyum|0|Hemoglobin oksijenle gevşek bağ yapıp onu dokulara taşır.
+Vücutta boşaltımın temel organı aşağıdakilerden hangisidir?|Karaciğer|Böbrek|Mide|Kalp|1|Kandaki atıkları süzerek idrar oluşturan temel organ böbreklerdir.
+Böbreğin yapısal ve işlevsel birimi hangisidir?|Villus|Alveol|Nöron|Nefron|3|Nefron kanı süzen ve idrar oluşturan birimdir.
+İdrar oluşumunun doğru sırası aşağıdakilerden hangisidir?|Süzülme → salgılama → boşalma|Süzülme → geri emilim → salgılama|Geri emilim → süzülme → salgılama|Salgılama → süzülme → geri emilim|1|Nefronda önce kan süzülür, ardından yararlı maddeler geri emilir, bazı atıklar salgılanır.
+ADH hormonu böbreklerde ne yapar?|Su geri emilimini azaltır|Üre sentezler|Glikoz üretir|Su geri emilimini artırır|3|ADH toplama kanallarında su geri emilimini artırarak idrarı derişikleştirir.
+Vücut ısısının sabit tutulmasında görevli merkez aşağıdakilerden hangisidir?|Hipotalamus|Omurilik|Beyincik|Böbrek|0|Hipotalamus vücut sıcaklığı düzenleme merkezidir.
+Kanın üre derişimini azaltmak için üre hangi organda sentezlenir?|Böbrek|Karaciğer|Mide|Akciğer|1|Amonyak karaciğerde üreye dönüştürülür; üre böbreklerle atılır.
+Sıcak ortamda ter salgılanmasının homeostazi açısından amacı aşağıdakilerden hangisidir?|Kan şekerini yükseltmek|Oksijen taşımak|Kan basıncını artırmak|Vücut sıcaklığını düşürmek|3|Terin buharlaşması vücuttan ısı çeker ve sıcaklığı düşürür.
+Vücut kitle indeksi (VKİ) kg/m² cinsinden hesaplanır. 70 kg kütleli ve 1,75 m boyundaki bir kişinin VKİ değeri yaklaşık kaçtır?|22,9|40|70|12,2|0|VKİ = 70/(1,75)² = 70/3,0625 ≈ 22,9.
+Aşırı yağ birikimiyle ortaya çıkan, sağlığı tehdit eden duruma ne ad verilir?|Hipotansiyon|Alerji|Obezite|Anemi|2|Vücutta aşırı yağ birikmesiyle oluşan duruma obezite denir.
+İnsülinin fazla salgılanmasında kan şekeri nasıl değişir?|Düşer|Değişmez|Yükselir|Sıfırlanır|0|İnsülin kan glikozunun hücrelere alınmasını artırır; kan şekeri düşer.
+Aşağıdakilerden hangisi homeostazinin bozulmasıyla ortaya çıkan sağlık sorunlarından biridir?|Fotosentez|Hipertansiyon|Solunum|Büyüme|1|Kan basıncının dengesinin bozulmasıyla hipertansiyon ortaya çıkar.
+Sistolik ve diyastolik kan basıncı değerleri neyi ifade eder?|Sistolik gevşeme, diyastolik kasılma basıncıdır|Sistolik kalp kasıldığında, diyastolik gevşediğinde ölçülen basınçtır|Her ikisi de solunum değerleridir|İkisi de gevşeme basıncıdır|1|Büyük tansiyon (sistolik) kalp kasılırken, küçük tansiyon (diyastolik) kalp gevşerken ölçülür.
+Kandaki glikoz derişimi düştüğünde karaciğerde depo edilen hangi madde yıkılır?|Glikojen|Kolesterol|Selüloz|Nişasta|0|Glukagon etkisiyle karaciğerdeki glikojen glikoza yıkılır ve kan şekeri yükselir.
+Kanın pıhtılaşmasında görevli kan hücreleri aşağıdakilerden hangisidir?|Plazma|Trombositler (kan pulcukları)|Alyuvarlar|Akyuvarlar|1|Yaralanma sırasında trombositler kümelenerek pıhtılaşmayı başlatır.

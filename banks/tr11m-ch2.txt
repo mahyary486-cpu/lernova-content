@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+90° kaç radyandır?|π/4|π/2|π|2π|1|180° = π rad olduğundan 90° = π/2 rad.
+Birim çember yardımıyla sin 30° değeri kaçtır?|√2/2|1/2|√3/2|1|1|Özel açılarda sin 30° = 1/2 dir.
+sin x = 3/5 ve x dar açı ise cos x kaçtır?|3/4|4/5|5/3|1/5|1|sin²x + cos²x = 1 → cos²x = 16/25 ve x dar açı olduğundan cos x = 4/5.
+cos 0° değeri kaçtır?|0|1/2|−1|1|3|Birim çemberde 0° açının apsisi 1 dir.
+sin 150° değeri kaçtır?|−√3/2|−1/2|√3/2|1/2|3|sin 150° = sin(180° − 30°) = sin 30° = 1/2.
+cos x = −1/2 ve 90° < x < 180° ise x kaç derecedir?|135|120|150|60|1|cos 60° = 1/2 ve ikinci bölgede cos negatiftir: x = 180° − 60° = 120°.
+tan 45° değeri kaçtır?|1/2|0|1|√3|2|tan 45° = sin 45°/cos 45° = 1.
+sin(−30°) değeri kaçtır?|−√3/2|0|1/2|−1/2|3|Sinüs tek fonksiyondur: sin(−x) = −sin x = −1/2.
+f(x) = sin 2x fonksiyonunun esas periyodu kaçtır?|π|2π|π/2|4π|0|sin(ax) fonksiyonunun periyodu 2π/∣a∣ dır: 2π/2 = π.
+f(x) = sin x fonksiyonunun alabileceği en büyük değer kaçtır?|π|2|1|0|2|Sinüs fonksiyonunun görüntü kümesi [−1, 1] olduğundan en büyük değer 1 dir.
+f(x) = 3 sin x + 1 fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?|[1, 4]|[−2, 3]|[−3, 3]|[−2, 4]|3|−3 ≤ 3 sin x ≤ 3 olduğundan −2 ≤ 3 sin x + 1 ≤ 4.
+0 ≤ x ≤ 2π için sin x = 1/2 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{π/6, 5π/6}|{π/6, 11π/6}|{π/3, 2π/3}|{π/6, 7π/6}|0|Sinüs 1. ve 2. bölgede pozitiftir: x = π/6 ve x = π − π/6 = 5π/6.
+f(x) = 2ˣ ise f(3) kaçtır?|9|8|5|6|1|f(3) = 2³ = 8.
+f(x) = 3ˣ ise f(−1) kaçtır?|3|−3|1/3|−1/3|2|Negatif üs tersi alır: 3⁻¹ = 1/3.
+2ˣ⁺¹ = 32 denkleminin çözümü aşağıdakilerden hangisidir?|x = 16|x = 4|x = 5|x = 3|1|32 = 2⁵ olduğundan x + 1 = 5 ve x = 4.
+f(x) = 2ˣ fonksiyonunun grafiği aşağıdaki noktalardan hangisinden geçer?|(2, 2)|(0, 0)|(0, 1)|(1, 0)|2|f(0) = 2⁰ = 1 olduğundan grafik (0, 1) noktasından geçer.
+f(x) = (1/2)ˣ fonksiyonu için aşağıdakilerden hangisi doğrudur?|Artan bir fonksiyondur|Azalan bir fonksiyondur|Sabit fonksiyondur|Grafiği x eksenini keser|1|Taban 0 ile 1 arasında olduğundan fonksiyon azalandır.
+f(x) = 2ˣ + 3 fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?|ℝ|(0, ∞)|[3, ∞)|(3, ∞)|3|2ˣ > 0 olduğundan 2ˣ + 3 > 3 tür.
+log₂ 8 değeri kaçtır?|4|8|2|3|3|2³ = 8 olduğundan log₂ 8 = 3.
+log 1000 (10 tabanında) değeri kaçtır?|10|2|1000|3|3|10³ = 1000 olduğundan log 1000 = 3.
+log₂ 5 + log₂ (8/5) işleminin sonucu kaçtır?|3|5|1,6|8|0|Çarpımın logaritması toplamdır: log₂(5·8/5) = log₂ 8 = 3.
+log₅ 1 değeri kaçtır?|1|5|Tanımsız|0|3|Her tabanda 1'in logaritması 0 dır.
+log₂ x = 5 ise x kaçtır?|10|25|7|32|3|log₂ x = 5 ise x = 2⁵ = 32.
+log₂ (x + 1) = 3 ise x kaçtır?|9|5|7|8|2|x + 1 = 2³ = 8 olduğundan x = 7.
+Logaritmanın tanımına göre log_a b = c ifadesine denk olan eşitlik aşağıdakilerden hangisidir?|bᶜ = a|a·c = b|aᶜ = b|cᵃ = b|2|log_a b = c ise a tabanının c kuvveti b yi verir: aᶜ = b.
+log₃ 27 − log₃ 3 işleminin sonucu kaçtır?|3|9|1|2|3|Fark, bölümün logaritmasıdır: log₃(27/3) = log₃ 9 = 2.
+log₂ 3 = a ise log₂ 12 ifadesinin a türünden değeri nedir?|a + 4|3a|2a|a + 2|3|log₂ 12 = log₂(3·4) = log₂ 3 + log₂ 4 = a + 2.
+f(x) = 2x + 1 ve g(x) = x² ise (f + g)(2) kaçtır?|9|13|5|10|0|(f + g)(2) = f(2) + g(2) = 5 + 4 = 9.
+f(x) = 2x + 1 ve g(x) = x² ise (g ∘ f)(2) kaçtır?|25|17|8|9|0|(g ∘ f)(2) = g(f(2)) = g(5) = 25.
+f(x) = x + 3 ve g(x) = 2x − 1 ise (g ∘ f)(x) aşağıdakilerden hangisidir?|2x + 5|2x + 2|x + 2|2x − 4|0|(g ∘ f)(x) = g(x + 3) = 2(x + 3) − 1 = 2x + 5.

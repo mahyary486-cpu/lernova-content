@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Etki–tepki kuvvet çifti için aşağıdakilerden hangisi doğrudur?|Aynı büyüklükte, zıt yönlü ve farklı cisimlere etki ederler|Aynı cisme etki ederler ve birbirini dengeler|Aynı yönlüdürler|Büyüklükleri farklıdır|0|Newton'un üçüncü yasasına göre etki ve tepki eşit büyüklükte, zıt yönlüdür ve farklı cisimlere uygulanır.
+Kütlesi 5 kg olan cisme yatay doğrultuda 30 N kuvvet uygulanıyor ve cisme 10 N sürtünme kuvveti etki ediyor. Cismin ivmesi kaç m/s² dir?|6|2|8|4|3|Net kuvvet 30 − 10 = 20 N dur; a = F_net/m = 20/5 = 4 m/s².
+60 kg kütleli bir kişi, yukarı doğru 2 m/s² ivmeyle hızlanan asansörde duruyor. Asansör zemininin kişiye uyguladığı tepki kuvveti kaç N dur? (g = 10 m/s²)|120|720|480|600|1|N − mg = ma olduğundan N = m(g + a) = 60·12 = 720 N.
+Sürtünme kuvvetinin yönü için aşağıdakilerden hangisi doğrudur?|Hareket yönündedir|Yüzeye diktir|Her zaman aşağı yönlüdür|Hareket yönüne (veya hareket eğilimine) zıttır|3|Sürtünme kuvveti, temas eden yüzeylerin göreli hareketine veya hareket eğilimine ters yöndedir.
+Kütlesi 10 kg olan bir cisim yatay zeminde kayarken kinetik sürtünme katsayısı 0,3 tür. Sürtünme kuvveti kaç N dur? (g = 10 m/s²)|3|100|30|0,3|2|f = μ·N = μ·m·g = 0,3·10·10 = 30 N.
+Kütlesi 10 kg olan cisme yatay 50 N kuvvet uygulanıyor. Kinetik sürtünme katsayısı 0,2 ise cismin ivmesi kaç m/s² olur? (g = 10 m/s²)|4|3|5|2|1|f = 0,2·100 = 20 N; a = (50 − 20)/10 = 3 m/s².
+Hava direnci altında serbest düşen cismin ulaştığı sabit hıza ne ad verilir?|Ortalama hız|Ses hızı|Sürat|Limit hız|3|Direnç kuvveti ağırlığa eşit olunca ivme sıfır olur ve cisim sabit hızla düşer; bu hız limit hızdır.
+Limit hıza ulaşmış bir cisim için aşağıdakilerden hangisi doğrudur?|Hava direnci sıfırdır|Net kuvvet sıfırdır|İvme g dir|Net kuvvet ağırlığa eşittir|1|Limit hızda hava direnci ağırlığı dengelediğinden net kuvvet ve ivme sıfırdır.
+Limit hızda düşen 80 kg kütleli bir paraşütçüye etki eden hava direnci kuvveti kaç N dur? (g = 10 m/s²)|80|8 000|800|8|2|Limit hızda direnç kuvveti ağırlığa eşittir: 80·10 = 800 N.
+Düzgün çembersel hareket yapan bir cismin hız vektörünün yönü nasıldır?|Merkezden dışarıya doğrudur|Merkeze doğrudur|Çembere teğettir|Yarıçapa paraleldir|2|Çembersel harekette cismin hızı, bulunduğu noktada çembere teğettir.
+Kütlesi 2 kg olan bir cisim 8 m yarıçaplı çembersel yörüngede 4 m/s sabit süratle dönüyor. Merkezcil kuvvet kaç N dur?|16|4|2|8|1|F = m·v²/r = 2·16/8 = 4 N.
+Yarıçapı 2 m olan çembersel yörüngede 2 kg kütleli cisim, periyodu π s olacak şekilde dönüyor. Cisme etki eden merkezcil kuvvet kaç N dur?|32|8|16|4|2|ω = 2π/T = 2 rad/s; F = m·ω²·r = 2·4·2 = 16 N.
+Düzgün çembersel harekette merkezcil kuvvet nereye doğrudur?|Hareketin tersine|Çemberin merkezine|Çembere teğet|Hareket yönüne|1|Merkezcil kuvvet daima çemberin merkezine doğru etki eder.
+Düzgün çembersel hareket yapan cisim için aşağıdakilerden hangisi doğrudur?|İvme sıfırdır|Net kuvvet sıfırdır|Hızın hem büyüklüğü hem yönü sabittir|Hızın büyüklüğü sabit, yönü sürekli değişir|3|Süratin büyüklüğü sabit olsa da yön değiştiği için hız değişir ve merkezcil ivme vardır.
+Yarıçapı 5 m olan çemberde bir cisim T = π s periyotla dönüyor. Çizgisel hızı kaç m/s dir?|2,5|20|10|5|2|v = 2πr/T = 2π·5/π = 10 m/s.
+Periyodu 2 s olan çembersel hareketin frekansı kaç Hz dir?|0,5|2|4|1|0|f = 1/T = 1/2 = 0,5 Hz.
+Açısal hızı 4 rad/s olan cisim 3 m yarıçaplı çemberde dönüyorsa çizgisel hızı kaç m/s dir?|0,75|1,33|7|12|3|v = ω·r = 4·3 = 12 m/s.
+Bir araç sabit sürat ile virajı dönerken sürati iki katına çıkarılırsa aynı yarıçaplı virajda gereken merkezcil kuvvet nasıl değişir?|Değişmez|2 katına çıkar|Yarıya düşer|4 katına çıkar|3|F = m·v²/r bağıntısında kuvvet hızın karesiyle orantılıdır; v iki katına çıkarsa F dört katına çıkar.
+Kuvvetin SI birimi aşağıdakilerden hangisidir?|Newton|Watt|Pascal|Joule|0|Kuvvet birimi newton (N) dur; 1 N = 1 kg·m/s².
+Otobüs aniden frene bastığında ayakta duran yolcuların öne doğru savrulması hangi kavramla açıklanır?|Eylemsizlik|Yer çekimi|Sürtünme|Merkezcil kuvvet|0|Yolcular hareket hâllerini korumak ister; bu özellik eylemsizliktir.
+Sürtünmesiz yatay zeminde 2 kg ve 3 kg kütleli iki cisim ipin iki ucuna bağlıdır. Sistem 10 N kuvvetle çekiliyorsa ivme kaç m/s² olur?|1|5|2|3,3|2|Toplam kütle 5 kg olduğundan a = F/(m₁ + m₂) = 10/5 = 2 m/s².
+Net kuvvetin sıfır olduğu bir cisim için aşağıdakilerden hangisi doğrudur?|Hızı sürekli artar|İvmesi sıfırdır|Mutlaka durur|Yön değiştirir|1|Net kuvvet sıfırsa ivme sıfırdır; cisim durabilir veya sabit hızla gidebilir.
+Sabit hızla giden bir araca etki eden net kuvvet kaç N dur?|0|Ağırlık kadar|Sürtünme kadar|Motor kuvveti kadar|0|Sabit hız demek ivme sıfır demektir; bu durumda net kuvvet sıfırdır.
+Sürtünmesiz makaradan geçen ipin uçlarına 2 kg ve 3 kg kütleli cisimler asılıyor. Sistemin ivmesi kaç m/s² dir? (g = 10 m/s²)|2|5|10|1|0|a = (m₂ − m₁)g/(m₁ + m₂) = 1·10/5 = 2 m/s².
+Kütlesi 4 kg olan bir cismin ağırlığı kaç N dur? (g = 10 m/s²)|4|0,4|14|40|3|G = m·g = 4·10 = 40 N.
+Sürtünmesiz, eğim açısı 30° olan eğik düzlemde serbest bırakılan cismin ivmesi kaç m/s² dir? (g = 10 m/s²)|5|8,7|10|2,5|0|Eğik düzlem boyunca ivme a = g·sin30° = 10·1/2 = 5 m/s².
+Kinetik sürtünme kuvveti için aşağıdakilerden hangisi doğrudur?|Yüzey alanıyla doğru orantılıdır|Temas yüzeyinin alanına bağlı değildir|Her zaman ağırlığa eşittir|Hızın karesiyle orantılıdır|1|Kinetik sürtünme kuvveti yüzeylerin cinsine ve normal kuvvete bağlıdır; temas alanına bağlı değildir.
+Hava direnci kuvveti, düşen cismin hızı arttıkça nasıl değişir?|Artar|Sıfır olur|Azalır|Değişmez|0|Hız arttıkça cismin hava ile etkileşimi artar; direnç kuvveti büyür.
+Kütlesi 1 000 kg olan bir araç 20 m/s sabit süratle yarıçapı 50 m olan bir virajı dönüyor. Gereken merkezcil kuvvet kaç N dur?|400|8 000|20 000|4 000|1|F = m·v²/r = 1000·400/50 = 8 000 N.
+Kütle sabitken cisme etki eden net kuvvet iki katına çıkarılırsa ivme nasıl değişir?|Dört katına çıkar|Yarıya düşer|Değişmez|İki katına çıkar|3|F = m·a olduğundan kütle sabitken ivme net kuvvetle doğru orantılıdır.

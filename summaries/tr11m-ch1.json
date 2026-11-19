@@ -1,0 +1,4 @@
+{
+  "Dörtgenler ve özel dörtgenler": "Dörtgenin iç açıları toplamı 360° dir. Paralelkenarda karşılıklı kenarlar paralel ve eşit, köşegenler birbirini ortalar. Dikdörtgende köşegenler eşit, eşkenar dörtgende köşegenler dik ve açıortaydır; kare ikisinin özelliklerini taşır. Yamuk, ikizkenar yamuk, dik yamuk ve deltoidin kendine özgü özellikleri vardır.",
+  "Çokgenler": "n kenarlı dışbükey çokgenin iç açıları toplamı (n − 2)·180°, dış açıları toplamı 360° dir. Düzgün çokgenin her iç açısı (n − 2)·180°/n, her dış açısı 360°/n dir. Köşegen sayısı n(n − 3)/2 dir."
+}

@@ -1,0 +1,4 @@
+{
+  "Kimyasal tepkimelerde enerji": "Isı açığa çıkaran tepkimeler ekzotermik (ΔH < 0), ısı alanlar endotermiktir (ΔH > 0). ΔH = H(ürün) − H(giren) dir. Hess yasasına göre toplam tepkimenin entalpisi basamakların toplamıdır. Elementlerin standart oluşum entalpisi sıfırdır; ΔH = ΣΔHf(ürün) − ΣΔHf(giren).",
+  "Kimyasal tepkimelerde hız": "Tepkime hızı birim zamandaki derişim değişimidir (mol/L·s). Çarpışma teorisine göre tepkime için etkin çarpışma gerekir. Derişim, sıcaklık, temas yüzeyi ve katalizör hızı etkiler; katalizör aktifleşme enerjisini düşürür fakat ΔH yi değiştirmez. Hız bağıntısı deneysel bulunur."
+}

@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Işık şiddetinin SI birimi aşağıdakilerden hangisidir?|Lüks|Lümen|Watt|Candela|3|Işık şiddeti candela (cd) ile ölçülür.
+Işık şiddeti 100 cd olan bir nokta kaynağın 2 m uzağındaki yüzeyde aydınlanma şiddeti kaç lüks tür? (E = I/d², yüzey ışığa dik)|200|25|400|50|1|E = I/d² = 100/4 = 25 lx.
+Bir ışık kaynağına olan uzaklık iki katına çıkarılırsa yüzeydeki aydınlanma şiddeti nasıl değişir?|İki katına çıkar|Yarıya düşer|1/4 ü olur|4 katına çıkar|2|Aydınlanma uzaklığın karesiyle ters orantılıdır; d iki katına çıkarsa E dörtte birine düşer.
+Işık akısının SI birimi aşağıdakilerden hangisidir?|Candela|Volt|Lüks|Lümen|3|Işık akısı lümen (lm) ile ölçülür.
+Aydınlanma şiddetinin birimi aşağıdakilerden hangisidir?|Lümen|Watt|Candela|Lüks|3|Aydınlanma şiddeti lüks (lx) ile ölçülür; 1 lx = 1 lm/m² dir.
+Bir yüzeydeki aydınlanma şiddeti 50 lx den 200 lx e çıkarılacaktır. Kaynak ile yüzey arasındaki uzaklık nasıl değiştirilmelidir?|Değiştirilmemelidir|İki katına çıkarılmalıdır|Dörtte birine düşürülmelidir|Yarıya düşürülmelidir|3|E dört katına çıkacağından d² dörtte birine düşmeli; d yarıya inmelidir.
+Düz aynada oluşan görüntü için aşağıdakilerden hangisi doğrudur?|Gerçek ve ters|Sanal, düz ve cisim boyundadır|Sanal ve küçük|Gerçek ve büyük|1|Düz aynada görüntü aynanın arkasında oluşur; sanaldır, düzdür ve cisimle aynı boydadır.
+Düz aynadan 3 m uzakta duran bir cisim ile görüntüsü arasındaki uzaklık kaç m dir?|3|9|1,5|6|3|Görüntü aynanın arkasında 3 m uzaklıkta oluşur; cisim ile görüntü arası 3 + 3 = 6 m dir.
+Düz aynaya doğru 2 m/s hızla yürüyen kişinin, kendi görüntüsüne göre hızı kaç m/s dir?|0|2|1|4|3|Kişi ve görüntüsü aynaya aynı hızla yaklaşır; birbirine göre hızları 2 + 2 = 4 m/s dir.
+Çukur ayna için aşağıdakilerden hangisi doğrudur?|Işığı kırar|Işınları her zaman dağıtır|Paralel gelen ışınları odak noktasında toplar|Daima sanal ve küçük görüntü verir|2|Çukur (iç bükey) ayna paralel ışınları odakta toplayan bir aynadır.
+Çukur aynanın eğrilik yarıçapı 20 cm ise odak uzaklığı kaç cm dir?|5|40|20|10|3|f = R/2 = 20/2 = 10 cm.
+Çukur aynanın merkezinin (eğrilik merkezinin) ötesine konulan cismin görüntüsü nasıl olur?|Gerçek, düz ve büyük|Sanal, ters ve küçük|Sanal, düz ve büyük|Gerçek, ters ve küçük|3|Cisim merkezin ötesindeyse görüntü odak ile merkez arasında gerçek, ters ve küçüktür.
+Tümsek aynada oluşan görüntü hakkında aşağıdakilerden hangisi doğrudur?|Cisim uzaklığına göre gerçek olabilir|Büyüktür|Her zaman gerçek ve ters|Her zaman sanal, düz ve küçüktür|3|Tümsek aynada cismin konumu ne olursa olsun görüntü sanal, düz ve küçüktür.
+Araçların dikiz aynası olarak genellikle hangi ayna kullanılır?|Prizma|Düz ayna|Çukur ayna|Tümsek ayna|3|Tümsek aynalar geniş görüş alanı sağladığı için dikiz aynası olarak kullanılır.
+Odak uzaklığı 10 cm olan çukur aynanın önüne 30 cm uzağa bir cisim konuyor. Görüntü aynadan kaç cm uzakta oluşur?|30|15|7,5|20|1|1/f = 1/p + 1/q → 1/q = 1/10 − 1/30 = 2/30 ve q = 15 cm.
+Boşluğun (havanın) kırılma indisi yaklaşık kaçtır?|0|1,5|2|1|3|Işığın boşluktaki hızı c olduğundan n = c/c = 1 dir; hava için de yaklaşık 1 alınır.
+Kırılma indisi 4/3 olan suda ışığın hızı kaç m/s dir? (c = 3·10⁸ m/s)|1,5·10⁸|2,25·10⁸|4·10⁸|3·10⁸|1|v = c/n = 3·10⁸ / (4/3) = 2,25·10⁸ m/s.
+Işık havadan (n = 1) kırılma indisi 1,5 olan cama 30° gelme açısıyla giriyor. Kırılma açısının sinüsü kaçtır?|1/6|3/4|1/2|1/3|3|Snell yasası: n₁ sinθ₁ = n₂ sinθ₂ → 1·(1/2) = 1,5·sinθ₂ ve sinθ₂ = 1/3.
+Havuzun tabanının olduğundan daha sığ görünmesi hangi olayla ilgilidir?|Işığın soğurulması|Işığın yansıması|Işığın girişimi|Işığın kırılması|3|Su tabanından gelen ışınlar havaya geçerken kırılır; göz ışınların uzantısını görür ve taban yukarıda görünür.
+Tam yansıma olayı hangi koşulda gerçekleşir?|Işık boşlukta ilerliyorsa|Işık az yoğun ortamdan çok yoğun ortama geçiyorsa|Işık yoğun ortamdan az yoğun ortama sınır açısından büyük açıyla geliyorsa|Işık dik geliyorsa|2|Tam yansıma için ışın yoğun ortamdan seyrek ortama, gelme açısı sınır açısından büyük olacak şekilde gelmelidir.
+Cam (n = 1,5) ile hava (n = 1) arasında camdan havaya geçişte sınır açısının sinüsü kaçtır?|2/3|1/3|1/2|3/2|0|sin θ_c = n_az/n_çok = 1/1,5 = 2/3.
+Fiber optik kablolarda bilgi ışıkla iletilirken hangi olaydan yararlanılır?|Işığın soğurulması|Tam yansıma|Girişim|Sürtünme|1|Fiber içinde ışık, çeper ile tekrar tekrar tam yansıma yaparak ilerler.
+Beyaz ışık bir prizmadan geçirildiğinde ne olur?|Hiçbir değişiklik olmaz|Renklerine ayrılır|Sönümlenir|Tamamen yansır|1|Işığın rengine göre kırılma indisi farklıdır; beyaz ışık renklerine ayrışır (dispersiyon).
+Beyaz ışığın prizmadaki dispersiyonunda en çok sapan renk hangisidir?|Kırmızı|Yeşil|Sarı|Mor|3|Mor ışığın kırılma indisi en büyüktür; en çok sapar. Kırmızı en az sapar.
+Işığın hızı hangi ortamda en büyüktür?|Elmasta|Camda|Boşlukta|Suda|2|Işığın hızı boşlukta en büyük değerdedir (c ≈ 3·10⁸ m/s).
+Işık havadan cama geçerken hızı ve dalga boyu nasıl değişir?|Yalnızca frekans azalır|İkisi de artar|İkisi de azalır, frekans değişmez|Hiçbiri değişmez|2|Işık yoğun ortamda yavaşlar; frekans sabit kaldığından v = λ·f gereği dalga boyu da azalır.
+Işığın boşluktaki hızı yaklaşık kaç m/s dir?|3·10⁸|340|3·10¹⁰|3·10⁶|0|Işığın boşluktaki hızı yaklaşık 3·10⁸ m/s dir.
+Çukur aynanın odak noktasına yerleştirilen cismin görüntüsü için aşağıdakilerden hangisi doğrudur?|Gerçek ve ters görüntü oluşur|Görüntü oluşmaz, yansıyan ışınlar paralel gider|Sanal ve düz görüntü oluşur|Cisimle aynı boyda görüntü oluşur|1|Odaktan çıkan ışınlar aynadan paralel yansır; paralel ışınlar kesişmediği için görüntü oluşmaz.
+Ayna denklemi 1/f = 1/p + 1/q ifadesinde p neyi gösterir?|Görüntünün aynaya uzaklığını|Odak uzaklığını|Cismin aynaya uzaklığını|Eğrilik yarıçapını|2|Ayna denkleminde p cisim uzaklığı, q görüntü uzaklığı, f odak uzaklığıdır.
+Işık bir prizmadan geçerken, prizmanın kırılma indisi çevresinden büyükse ışın prizmanın hangi tarafına doğru sapar?|Tabanına doğru|Sapmaz|Tepe noktasına doğru|Prizmanın içine hapsolur|0|Yoğun ortamdan seyrek ortama çıkarken ışın normalden uzaklaşır; prizmada ışınlar tabana doğru sapar.

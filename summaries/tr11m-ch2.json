@@ -1,0 +1,4 @@
+{
+  "Trigonometrik fonksiyonlar": "Açı derece ve radyan ile ölçülür (π rad = 180°). Birim çemberde bir açının kosinüsü apsis, sinüsü ordinattır; tan x = sin x / cos x. sin²x + cos²x = 1 dir. Sinüs ve kosinüsün görüntü kümesi [−1, 1], esas periyodu 2π; sin ax için 2π/∣a∣ dır. Basit trigonometrik denklemler birim çember ve referans açıyla çözülür.",
+  "Üstel ve logaritmik fonksiyonlar, bileşke": "f(x) = aˣ (a > 0, a ≠ 1) üstel fonksiyondur; a > 1 ise artan, 0 < a < 1 ise azalandır ve görüntü kümesi (0, ∞) dır. Logaritma üstelin tersidir: log_a b = c ⇔ aᶜ = b. Çarpım, bölüm ve üs kuralları vardır. Fonksiyonlarla dört işlem noktasal yapılır; bileşkede (g ∘ f)(x) = g(f(x)) dir."
+}

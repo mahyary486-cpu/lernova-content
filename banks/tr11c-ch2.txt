@@ -1,0 +1,31 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+Dinamik dengede aşağıdakilerden hangisi doğrudur?|İleri ve geri tepkime hızları eşittir|Yalnızca ileri tepkime sürer|Tepkimeler durur|Girenler tamamen tükenir|0|Dinamik dengede ileri ve geri tepkimeler aynı hızla sürer; derişimler sabit kalır.
+N₂ + 3H₂ ⇌ 2NH₃ dengesi için derişimler türünden denge sabiti (Kc) aşağıdakilerden hangisidir?|[NH₃]² / ([N₂][H₂]³)|[NH₃]² / ([N₂][H₂])|[N₂][H₂]³ / [NH₃]²|[NH₃] / ([N₂][H₂])|0|Kc = ürünlerin derişimleri çarpımı / girenlerin derişimleri çarpımı; katsayılar üs olarak yazılır.
+A ⇌ B dengesinde [A] = 0,2 mol/L ve [B] = 0,6 mol/L ise Kc kaçtır?|1/3|0,8|3|0,12|2|Kc = [B]/[A] = 0,6/0,2 = 3.
+Denge sabiti Kc neye bağlıdır?|Hacme|Katalizöre|Sıcaklığa|Derişimlere|2|Belirli bir tepkime için Kc yalnızca sıcaklığa bağlıdır.
+Dengedeki bir sisteme ürün eklenirse Le Chatelier ilkesine göre denge hangi yöne kayar?|Tepkime durur|Kaymaz|Ürünler yönüne|Girenler yönüne|3|Sistem uygulanan etkiyi azaltmaya çalışır; eklenen ürün tüketilecek şekilde denge girenlere kayar.
+N₂ + 3H₂ ⇌ 2NH₃ dengesinde sabit sıcaklıkta kabın hacmi küçültülürse denge nasıl etkilenir?|Kaymaz|Girenler yönüne kayar|Ürünler yönüne kayar|Tepkime durur|2|Hacim küçülünce basınç artar; denge gaz mol sayısı az olan tarafa (2 mol NH₃) kayar.
+Katalizör kimyasal dengeyi nasıl etkiler?|Dengeyi girenlere kaydırır|Kc değerini artırır|Dengeyi kaydırmaz, dengeye ulaşma süresini kısaltır|Dengeyi ürünlere kaydırır|2|Katalizör ileri ve geri tepkimeleri eşit oranda hızlandırır; denge konumu ve Kc değişmez.
+Ekzotermik bir dengede sıcaklık artırılırsa denge hangi yöne kayar?|Girenler yönüne|Her iki yönde eşit|Ürünler yönüne|Kaymaz|0|Sıcaklık artışı ısı alan (endotermik) yönü destekler; ekzotermik tepkimede bu yön geri tepkimedir.
+Kc > 1 ise denge için aşağıdakilerden hangisi söylenir?|Tepkime gerçekleşmez|Denge yoktur|Ürünler lehine, ürün derişimleri fazladır|Girenler lehine|2|Kc büyükse ürün derişimleri çarpımı giren derişimleri çarpımından fazladır; denge ürünler yönündedir.
+Denge sabiti ifadesine hangi maddeler yazılmaz?|Çözünen maddeler|Sulu çözeltideki iyonlar|Saf katılar ve saf sıvılar|Gazlar|2|Saf katı ve saf sıvıların derişimi sabit kabul edilir; Kc ifadesine yazılmaz.
+CaCO₃(k) ⇌ CaO(k) + CO₂(g) dengesi için Kc ifadesi aşağıdakilerden hangisidir?|Kc = [CO₂]|Kc = [CaCO₃] / [CO₂]|Kc = [CaO][CO₂] / [CaCO₃]|Kc = [CaO] / [CaCO₃]|0|Katılar Kc ye yazılmaz; yalnızca gaz olan CO₂ kalır.
+H₂ + I₂ ⇌ 2HI dengesinin Kc değeri 4 ise tersi olan 2HI ⇌ H₂ + I₂ tepkimesinin Kc değeri kaçtır?|2|1/4|16|4|1|Ters tepkimenin denge sabiti, ileri tepkimenin denge sabitinin çarpmaya göre tersidir: 1/4.
+Asit tanımına göre asit suda hangi iyonu verir?|H⁺ (H₃O⁺)|Na⁺|Cl⁻|OH⁻|0|Arrhenius tanımına göre asitler suda H⁺ iyonu verir.
+[H⁺] = 10⁻³ M olan çözeltinin pH değeri kaçtır?|−3|11|0,001|3|3|pH = −log[H⁺] = −log 10⁻³ = 3.
+0,01 M HCl çözeltisinin pH değeri kaçtır? (HCl kuvvetli asittir)|12|1|2|0,01|2|Kuvvetli asit tam iyonlaşır: [H⁺] = 0,01 = 10⁻² ve pH = 2.
+25 °C de saf suyun pH değeri kaçtır?|1|7|0|14|1|25 °C de saf suda [H⁺] = [OH⁻] = 10⁻⁷ M dir; pH = 7.
+pH = 4 olan çözeltinin pOH değeri kaçtır?|14|10|4|7|1|25 °C de pH + pOH = 14 olduğundan pOH = 14 − 4 = 10.
+0,001 M NaOH çözeltisinin pH değeri kaçtır? (NaOH kuvvetli bazdır)|10|11|3|12|1|[OH⁻] = 10⁻³ → pOH = 3 ve pH = 14 − 3 = 11.
+Zayıf asitler için aşağıdakilerden hangisi doğrudur?|Suda tamamen iyonlaşırlar|Yalnızca bazlarla tepkime verirler|Hiç iyonlaşmazlar|Suda kısmen iyonlaşırlar|3|Zayıf asitler suda kısmen iyonlaşır ve bir denge kurar.
+Aynı derişimde iki zayıf asitten Ka değeri büyük olan için aşağıdakilerden hangisi doğrudur?|Daha kuvvetli asittir|pH değeri daha büyüktür|Hiç iyonlaşmaz|Daha zayıf asittir|0|Ka büyüdükçe asit daha fazla iyonlaşır; asit daha kuvvetlidir.
+pH değerleri 3 ve 5 olan iki çözeltide [H⁺] derişimleri oranı (pH 3 / pH 5) kaçtır?|2|10|100|1/100|2|[H⁺] = 10⁻³ ve 10⁻⁵ olduğundan oran 10⁻³/10⁻⁵ = 100.
+pH değeri 2 olan 100 mL çözeltiye 900 mL saf su ekleniyor. Yeni çözeltinin pH değeri kaç olur?|3|4|1|2|0|Hacim 10 katına çıktığından [H⁺] 10 kat azalır: 10⁻² → 10⁻³ ve pH = 3.
+Sulu çözeltilerde suyun iyonlaşma sabiti Kw, 25 °C de kaçtır?|10⁻⁷|14|10⁻¹⁴|10⁷|2|25 °C de Kw = [H⁺][OH⁻] = 10⁻¹⁴ tür.
+Zayıf bir asit ve onun tuzundan oluşan, az miktarda asit veya baz eklenince pH değişimine direnç gösteren çözeltiye ne ad verilir?|Süspansiyon|Doygun çözelti|Tampon çözelti|Kolloid|2|Tampon çözeltiler pH değişimini sınırlar.
+AgCl(k) ⇌ Ag⁺ + Cl⁻ dengesi için çözünürlük çarpımı (Kçç) ifadesi aşağıdakilerden hangisidir?|[Ag⁺] / [Cl⁻]|[Ag⁺] + [Cl⁻]|[AgCl]|[Ag⁺][Cl⁻]|3|Katı AgCl yazılmaz; Kçç = [Ag⁺]·[Cl⁻] dir.
+Kçç = 1·10⁻¹⁰ olan AgCl nin saf sudaki çözünürlüğü kaç mol/L dir?|2·10⁻¹⁰|10⁻²|10⁻¹⁰|10⁻⁵|3|s mol/L çözünürse [Ag⁺] = [Cl⁻] = s ve Kçç = s² = 10⁻¹⁰ → s = 10⁻⁵ mol/L.
+Bir tuzun doygun çözeltisine ortak iyon içeren başka bir tuz eklenirse tuzun çözünürlüğü nasıl değişir?|Azalır|Değişmez|Sıfır olur|Artar|0|Ortak iyon etkisiyle denge katı oluşturma yönüne kayar; çözünürlük azalır.
+Bir çözeltide iyonların derişimleri çarpımı Q > Kçç ise ne olur?|Hiçbir şey olmaz|Katı tamamen çözünür|Çözelti doymamıştır|Çökelme olur|3|Q değeri Kçç yi aşarsa çözelti aşırı doygundur ve katı çöker.
+Bir çözeltide Q < Kçç ise çözelti için aşağıdakilerden hangisi doğrudur?|Aşırı doygundur|Doygundur|Çökelti oluşur|Doymamıştır|3|Q < Kçç ise iyon derişimleri doygunluk sınırının altındadır; çözelti doymamıştır.
+Denge sabiti çok küçük (Kc ≪ 1) olan bir tepkime için aşağıdakilerden hangisi doğrudur?|Denge kurulmaz|Denge ürünler lehinedir|Denge girenler lehinedir|Tepkime tamamen ürünlere dönüşür|2|Kc küçükse ürünlerin derişimi giren derişimlerine göre çok azdır; denge girenler yönündedir.
