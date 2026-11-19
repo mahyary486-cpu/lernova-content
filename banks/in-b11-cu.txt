@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The cell theory was proposed by|Schleiden and Schwann|Darwin|Mendel|Hooke|0|All plants and animals are made of cells.
+Rudolf Virchow proposed that|cells arise spontaneously|new cells arise from pre-existing cells|only plants have cells|cells have no nucleus|1|Omnis cellula-e cellula.
+The cell was discovered by|Robert Brown|Schleiden|Robert Hooke|Virchow|2|In cork slices.
+The nucleus was discovered by|Robert Hooke|Schwann|Virchow|Robert Brown|3|In 1831.
+Prokaryotic cells lack|a membrane-bound nucleus|ribosomes|a cell membrane|DNA|0|The DNA lies in the nucleoid.
+Bacterial cells are|eukaryotic|prokaryotic|multicellular|viral|1|Without membrane-bound organelles.
+The 'powerhouse' of the cell is the|ribosome|Golgi body|mitochondrion|lysosome|2|Site of ATP production.
+The site of protein synthesis is the|Golgi body|lysosome|nucleus|ribosome|3|Made of RNA and proteins.
+The 'suicide bags' of the cell are the|lysosomes|ribosomes|Golgi bodies|vacuoles|0|They contain hydrolytic enzymes.
+The plant cell wall is chiefly made of|chitin|cellulose|peptidoglycan|protein|1|A polysaccharide.
+The structure of the cell membrane is described by the|lock and key model|double helix model|fluid mosaic model|sliding filament model|2|Proteins float in a lipid bilayer.
+The fluid mosaic model was proposed by|Watson and Crick|Hooke and Brown|Schleiden and Schwann|Singer and Nicolson|3|In 1972.
+Chloroplasts contain|chlorophyll|haemoglobin|melanin|keratin|0|The pigment for photosynthesis.
+The nucleolus is the site of synthesis of|DNA replication|rRNA|respiration|lipids|1|Not membrane bound.
+Centrioles are found in|plant cells only|bacteria|animal cells|viruses|2|Form the spindle.
+A cell organelle with a double membrane is the|ribosome|lysosome|Golgi body|mitochondrion|3|Also the chloroplast and nucleus.
+The vacuole is very large in|mature plant cells|animal cells|bacteria|viruses|0|Stores water and solutes.
+Mesosomes are found in|eukaryotes|prokaryotes|plants|animals|1|Infoldings of the cell membrane.
+The ribosomes of prokaryotes are|80S|60S|70S|50S|2|Smaller.
+The ribosomes of eukaryotes are|70S|60S|50S|80S|3|Larger.
+The rough endoplasmic reticulum has|ribosomes on its surface|no ribosomes|lysosomes|centrioles|0|Involved in protein synthesis.
+The smooth endoplasmic reticulum is the site of|protein synthesis|lipid synthesis|DNA replication|photosynthesis|1|And detoxification.
+The function of the Golgi apparatus is|protein synthesis|respiration|packaging, modification and secretion of materials|photosynthesis|2|Also called the cell's post office.
+Lysosomes contain|DNA|chlorophyll|ribosomes|hydrolytic enzymes|3|Digest cellular waste.
+The inner membrane of a mitochondrion is folded into|cristae|grana|thylakoids|none|0|Increases surface area.
+The stacks of thylakoids in a chloroplast are called|cristae|grana|mesosomes|none|1|Connected by stroma lamellae.
+The stroma of the chloroplast is the site of|the light reaction|respiration|the dark reaction (Calvin cycle)|glycolysis|2|Contains enzymes.
+The thylakoids are the site of|the dark reaction|respiration|glycolysis|the light reaction|3|Contain chlorophyll.
+The three types of plastids are chloroplasts, chromoplasts and|leucoplasts|ribosomes|lysosomes|vacuoles|0|Colourless storage plastids.
+The cytoskeleton consists of|cellulose|microtubules, microfilaments and intermediate filaments|lipids|nucleotides|1|Gives shape to the cell.
+Cilia and flagella have a 9 + 2 arrangement of|microfilaments|lipids|microtubules|ribosomes|2|The axoneme.
+The centrosome contains|ribosomes|plastids|chromosomes|two centrioles|3|At right angles.
+The nuclear envelope is|a double membrane with nuclear pores|a single membrane|a cell wall|absent|0|Separates nucleus from cytoplasm.
+Chromatin consists of|RNA only|DNA and histone proteins|lipids|carbohydrates|1|Condenses into chromosomes.
+The nucleolus is|double-membraned|single-membraned|non-membranous|a cell wall|2|Contains rRNA.
+A plant cell has|centrioles|lysosomes only|no vacuole|a cell wall and a large central vacuole|3|Unlike animal cells.
+The number of chromosomes in a human somatic cell is|46|23|44|48|0|23 pairs.
+The cell membrane is composed mainly of|cellulose|phospholipids and proteins|DNA|starch|1|A bilayer.
+Transport that requires energy is|diffusion|osmosis|active transport|facilitated diffusion|2|Against the concentration gradient.
+Movement of molecules from high to low concentration without energy is|active transport|pumping|none|passive diffusion|3|Down the gradient.
+Osmosis is the|movement of water across a semipermeable membrane|movement of solute|active uptake of ions|none|0|From high to low water potential.
+Facilitated diffusion uses|ATP|carrier proteins and requires no energy|none|pumps|1|Down the gradient.
+Mitochondria and chloroplasts have|no DNA|80S ribosomes only|their own DNA and 70S ribosomes|no ribosomes|2|Semi-autonomous organelles.
+The semi-autonomous organelles of the cell are|ribosomes|lysosomes|Golgi bodies|mitochondria and chloroplasts|3|They can make some of their own proteins.
+Mitochondria are generally|rod-shaped or sausage-shaped|spherical only|star-shaped|flat|0|Double-membraned.
+The matrix of a mitochondrion contains|chlorophyll|enzymes of the Krebs cycle|none|only lipids|1|And DNA.
+ATP synthesis in mitochondria takes place on the|outer membrane|matrix only|inner membrane|none|2|Using ATP synthase.
+Peroxisomes are involved in|DNA replication|protein synthesis|photosynthesis|breakdown of fatty acids and hydrogen peroxide|3|Contain catalase.
+Microtubules are made of|tubulin|actin|myosin|keratin|0|Hollow tubes.
+Microfilaments are made of|tubulin|actin|keratin|myosin only|1|Thin filaments.

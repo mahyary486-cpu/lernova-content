@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The most abundant compound in a living cell is|water|protein|lipid|DNA|0|70–90% of the cell.
+Carbohydrates are|polymers of amino acids|polyhydroxy aldehydes or ketones and their derivatives|esters of glycerol|polymers of nucleotides|1|General formula (CH₂O)ₙ.
+Glucose is a|disaccharide|polysaccharide|monosaccharide|protein|2|A simple sugar.
+Sucrose is a|monosaccharide|polysaccharide|protein|disaccharide|3|Glucose plus fructose.
+Starch is a|polysaccharide|monosaccharide|disaccharide|lipid|0|A polymer of glucose.
+Cellulose is a|monosaccharide|polysaccharide|disaccharide|lipid|1|Found in plant cell walls.
+The storage polysaccharide in plants is|cellulose|glycogen|starch|chitin|2|A polymer of α-glucose.
+The storage polysaccharide in animals is|starch|cellulose|chitin|glycogen|3|Found in the liver and muscles.
+Proteins are polymers of|amino acids|sugars|fatty acids|nucleotides|0|Joined by peptide bonds.
+The number of standard amino acids in proteins is|10|20|40|4|1|Each has an amino and a carboxyl group.
+A peptide bond joins|two sugars|two nucleotides|two amino acids|two fatty acids|2|Between COOH and NH₂.
+Lipids are generally insoluble in|ether|chloroform|benzene|water|3|They dissolve in organic solvents.
+Nucleic acids are polymers of|nucleotides|amino acids|sugars|fatty acids|0|DNA and RNA.
+The sugar in DNA is|ribose|deoxyribose|glucose|fructose|1|A pentose.
+The sugar in RNA is|deoxyribose|glucose|ribose|fructose|2|A pentose.
+Enzymes are|hormones|vitamins|carbohydrates|biological catalysts|3|They speed up reactions.
+Most enzymes are|proteins|lipids|carbohydrates|nucleotides only|0|Some RNA molecules also act as enzymes.
+Glucose and fructose combine to form|maltose|sucrose|lactose|starch|1|A disaccharide.
+Two glucose units combine to form|sucrose|lactose|maltose|starch|2|A disaccharide.
+Glucose and galactose combine to form|sucrose|maltose|starch|lactose|3|Milk sugar.
+Chitin is found in|the exoskeleton of arthropods|plant cell walls|bacterial walls|bones|0|A nitrogen-containing polysaccharide.
+The primary structure of a protein is|a helix|the sequence of amino acids|a folded shape|several chains|1|A linear chain.
+The secondary structure of proteins includes|the amino acid sequence|the 3D fold|the α-helix and β-pleated sheet|multiple chains|2|Held by hydrogen bonds.
+The tertiary structure of a protein is|the amino acid sequence|a helix only|several chains|the three-dimensional folding of a polypeptide|3|Makes the protein functional.
+The quaternary structure of a protein involves|more than one polypeptide chain|one chain|only the sequence|a helix|0|For example haemoglobin.
+Haemoglobin shows|only primary structure|quaternary structure|no structure|only secondary structure|1|Four polypeptide chains.
+Fats are esters of|amino acids|sugars|glycerol and fatty acids|nucleotides|2|Triglycerides.
+Saturated fatty acids have|double bonds|triple bonds|benzene rings|no double bonds|3|Solid at room temperature.
+Phospholipids are found in|cell membranes|bones|hair|cell walls of plants|0|Form the bilayer.
+A nucleotide consists of|an amino acid|a nitrogenous base, a pentose sugar and a phosphate group|a fatty acid|a glucose molecule|1|The unit of nucleic acids.
+The purines are|cytosine and thymine|uracil only|adenine and guanine|none of these|2|Two-ringed bases.
+The pyrimidines are|adenine|guanine|none of these|cytosine, thymine and uracil|3|Single-ringed bases.
+In DNA, adenine pairs with|thymine|guanine|cytosine|uracil|0|Two hydrogen bonds.
+In DNA, guanine pairs with|adenine|cytosine|thymine|uracil|1|Three hydrogen bonds.
+The double-helix structure of DNA was proposed by|Mendel|Hooke|Watson and Crick|Brown|2|In 1953.
+The active site of an enzyme|binds DNA|stores lipids|is absent|binds the substrate|3|A pocket or crevice.
+Enzymes work by lowering the|activation energy|energy of the products|temperature|pressure|0|They do not change the equilibrium.
+The optimum pH for pepsin is about|7|2 (acidic)|9|12|1|Works in the stomach.
+The optimum pH for trypsin is about|2|4|8 (alkaline)|7|2|Works in the small intestine.
+A competitive inhibitor|binds elsewhere|is a product|is a coenzyme|resembles the substrate and competes for the active site|3|For example malonate and succinate dehydrogenase.
+A cofactor is|the non-protein part of an enzyme required for its activity|the protein part|the substrate|the product|0|For example a metal ion or a coenzyme.
+A holoenzyme is|substrate plus product|the apoenzyme plus its cofactor|DNA plus protein|two apoenzymes|1|The complete active enzyme.
+The coenzyme NAD is derived from the vitamin|vitamin C|vitamin A|niacin|vitamin D|2|A B-complex vitamin.
+The Michaelis constant Km is the substrate concentration at which the reaction rate is|maximum|zero|double|half of Vmax|3|A measure of enzyme affinity.
+Enzyme activity increases with temperature up to|the optimum, after which it declines|any temperature|freezing point|no limit|0|High temperature denatures enzymes.
+The number of hydrogen bonds between adenine and thymine is|3|2|1|4|1|A = T.
+The number of hydrogen bonds between guanine and cytosine is|2|1|3|4|2|G ≡ C.
+Chargaff's rule says that in DNA|A = G|A = C|T = G|A = T and G = C in amount|3|Equal purines and pyrimidines.
+Which of these is a reducing sugar?|glucose|sucrose|starch|cellulose|0|It has a free aldehyde group.
+Which of these is NOT a polymer?|starch|glucose|protein|DNA|1|A monomer.

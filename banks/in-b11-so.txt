@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Epithelial tissue covers|body surfaces and lines organs|bones|muscles|nerves|0|It has little intercellular matrix.
+Simple epithelium is made of|many layers of cells|a single layer of cells|no cells|dead cells only|1|Found where absorption and secretion occur.
+Cells of squamous epithelium are|cube-shaped|tall and columnar|flattened|spherical|2|For example in the walls of blood vessels.
+Cuboidal epithelium is found in|alveoli|blood vessels|skin surface|the ducts of glands and tubules of nephrons|3|Cube-like cells.
+Columnar epithelium is found in|the lining of the stomach and intestine|skin|alveoli|blood vessels|0|Tall, pillar-like cells.
+Connective tissue|conducts impulses|links and supports other tissues and organs|contracts|covers the body only|1|Cells in a matrix.
+Blood is a|epithelium|muscle tissue|fluid connective tissue|nerve tissue|2|Plasma with cells.
+Bone is a|epithelium|muscle tissue|nerve tissue|specialised connective tissue|3|With a hard matrix.
+Cartilage is a connective tissue with|a solid pliable matrix|a fluid matrix|no matrix|a calcium-rich hard matrix|0|Found in the nose and ear.
+Skeletal muscle is|smooth and involuntary|striated and voluntary|striated and involuntary|smooth and voluntary|1|Attached to bones.
+Smooth muscle is|striated|voluntary|unstriated and involuntary|branched|2|Found in the walls of the gut.
+Cardiac muscle is|voluntary|smooth|unbranched|striated and involuntary|3|Found in the heart.
+The neuron is the unit of|neural tissue|muscle tissue|bone|blood|0|It conducts impulses.
+The scientific name of the earthworm is|Periplaneta americana|Pheretima posthuma|Rana tigrina|Hydra vulgaris|1|An annelid.
+The scientific name of the cockroach is|Pheretima posthuma|Rana tigrina|Periplaneta americana|Hydra vulgaris|2|An arthropod.
+The scientific name of the common Indian frog is|Periplaneta americana|Pheretima posthuma|Hydra vulgaris|Rana tigrina|3|An amphibian.
+The body of a cockroach is divided into|head, thorax and abdomen|head and trunk|cephalothorax only|head and abdomen only|0|Covered by a chitinous exoskeleton.
+Tight junctions|allow free passage|prevent the leakage of substances across a tissue|connect cytoplasm|cement cells|1|Seen in epithelial cells.
+Gap junctions|prevent leakage|cement cells|facilitate communication between adjoining cells by connecting their cytoplasm|separate cells|2|Allow transfer of ions and molecules.
+Adhering junctions|allow gas exchange|connect cytoplasm|none|cement neighbouring cells together|3|Give mechanical strength.
+Areolar tissue is|a loose connective tissue beneath the skin|dense connective tissue|bone|blood|0|Supports epithelium.
+A tendon connects|bone to bone|muscle to bone|muscle to muscle|nerve to muscle|1|Dense regular connective tissue.
+A ligament connects|muscle to bone|muscle to muscle|bone to bone|nerve to bone|2|Dense regular connective tissue.
+Adipose tissue stores|water|glycogen|protein|fat|3|Below the skin.
+The matrix of bone is rich in|calcium salts and collagen fibres|keratin|cellulose|chitin|0|It is hard and pliable.
+Red blood cells transport|nothing|oxygen|hormones|antibodies|1|By haemoglobin.
+Neuroglia|conduct impulses|contract|support and protect neurons|secrete hormones|2|Make up more than half of the volume of neural tissue.
+An axon carries impulses|towards the cell body|only nutrients|none|away from the cell body|3|To other cells.
+Dendrites carry impulses|towards the cell body|away from the cell body|nutrients only|none|0|The receiving fibres.
+The earthworm moves with the help of|legs|setae and muscles|wings|fins|1|Chitinous bristles.
+The earthworm has a thick glandular band called the|tentacle|shell|clitellum|mantle|2|In segments 14–16.
+The earthworm respires through its|gills|lungs|tracheae|moist skin|3|Cutaneous respiration.
+The circulatory system of the earthworm is|closed|open|absent|a single chamber|0|Blood flows in vessels.
+The circulatory system of the cockroach is|closed|open|absent|a four-chambered heart|1|Blood fills the haemocoel.
+The cockroach respires by|gills|lungs|tracheae opening through spiracles|skin|2|A network of tubes.
+The heart of the frog is|two-chambered|four-chambered|one-chambered|three-chambered|3|Two atria and one ventricle.
+The frog respires through|lungs, skin and the buccal cavity|gills only|tracheae|none|0|Different organs for different conditions.
+The excretory organs of the cockroach are|nephridia|Malpighian tubules|kidneys|flame cells|1|Uric acid excretion.
+The excretory organs of the earthworm are|Malpighian tubules|kidneys|nephridia|flame cells|2|Segmentally arranged.
+The excretory organs of the frog are|nephridia|Malpighian tubules|flame cells|kidneys|3|Mesonephric.
+The compound eyes of the cockroach give|mosaic vision|a single image|no vision|stereoscopic vision only|0|Each unit forms part of the image.
+The frog is|uricotelic|ureotelic|ammonotelic|none of these|1|It excretes urea.
+The cockroach is|ureotelic|ammonotelic|uricotelic|none of these|2|Excretes uric acid.
+The earthworm is|uricotelic|ammonotelic|none of these|ureotelic|3|Mostly urea.
+The frog is a cold-blooded animal, also called a|poikilotherm|homeotherm|endotherm|none of these|0|Its body temperature varies.
+The skin of the frog is|dry|moist and slippery|scaly|hairy|1|It helps respiration.
+Frogs undergo|direct development|none|metamorphosis from tadpole to adult|asexual development|2|An aquatic larva.
+In male frogs sexual dimorphism is shown by|clitellum|wings|tentacles|vocal sacs and a nuptial pad|3|Used in calling.
+Anal styles are present in|male cockroaches|female cockroaches|both sexes|neither|0|A sexual dimorphism.
+The mouthparts of the cockroach are|sucking|biting and chewing type|piercing|siphoning|1|For feeding on food.
