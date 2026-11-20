@@ -1,0 +1,9 @@
+#EEEMMMMH
+I ___ for you for two hours.|wait|have been waiting|waited|am waiting|1|for two hours 表示持续到现在，用现在完成进行时。
+He said he ___ come tomorrow.|will|would|can|shall|1|主句是过去时，从句用过去将来时 would do。
+The room needs ___.|cleaning|clean|cleaned|to cleaning|0|need doing 表示"需要被……"。
+He is said ___ abroad.|to have gone|go|going|went|0|be said to have done，说明"去国外"发生在"说"之前。
+It is said ___ he has gone abroad.|which|that|what|if|1|It is said that ... 句型。
+The baby was ___ by her aunt.|looked|looked after|looking after|look after|1|短语动词 look after 的被动语态是 be looked after。
+You ___ told me earlier. Now it's too late.|must have|should have|can't have|needn't have|1|should have done 表示本应该做而没做，带有遗憾。
+— The light is still on. — He ___ forgotten to turn it off.|must have|needn't have|should|can't|0|must have done 表示对过去的肯定推测。

@@ -1,0 +1,9 @@
+#EEEMMMMH
+___ he is late is true.|That|If|What|Which|0|从句不缺成分，也没有"是否"的意思，用 that。
+The question is ___ we should start now.|that|whether|what|which|1|表语从句，意思是"是否"，用 whether。
+It is a pity ___ he can't come.|that|what|if|whether|0|It 是形式主语，从句不缺成分，用 that。
+___ he said made everyone angry.|That|What|If|Whether|1|said 缺少宾语，用 what 作宾语。
+The news ___ our team won the match made us happy.|which|what|that|whether|2|同位语从句，that 不作成分。
+___ it is true is still unknown.|If|Whether|That|What|1|主语从句中不用 if，意思是"是否"，用 whether。
+My advice is ___ you should take more exercise.|what|that|if|whether|1|表语从句，不缺成分，用 that。
+The reason ___ he was late was that he missed the bus.|why|because|which|what|0|reason 后的定语从句，关系词作原因状语，用 why。

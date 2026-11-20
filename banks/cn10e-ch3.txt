@@ -1,0 +1,9 @@
+#EEEMMMMH
+The girl ___ father is a doctor is my friend.|who|whose|whom|which|1|whose 表示所属关系，后接名词 father。
+This is the room ___ he lives.|in which|which|that|what|0|live in the room，介词 in 提到关系代词前。
+He has two sons, both of ___ are doctors.|who|whom|which|them|1|介词 of 后接指人的关系代词 whom。
+He passed the exam, ___ surprised everyone.|that|what|which|it|2|逗号后用 which 指代整个主句。
+___ we all know, the earth goes around the sun.|As|Which|That|What|0|非限制性定语从句放句首，用 as。
+The man with ___ I talked is our teacher.|who|whom|which|that|1|介词 with 后接指人的 whom。
+I'll never forget the day ___ we spent together in the village.|when|which|where|what|1|spent 缺少宾语，关系词在从句中作宾语，用 which。
+Such books ___ you mentioned are very useful.|which|that|as|what|2|such ... as 中，as 作关系代词。

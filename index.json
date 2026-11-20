@@ -16397,6 +16397,157 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 10,
+      "subject": "English",
+      "country": "CN",
+      "chapters": [
+        {
+          "id": "cn10e-ch1",
+          "title": "动名词与不定式",
+          "lessons": [
+            {
+              "id": "cn10e-ch1-l1",
+              "title": "动名词的用法"
+            },
+            {
+              "id": "cn10e-ch1-l2",
+              "title": "不定式的用法"
+            },
+            {
+              "id": "cn10e-ch1-l3",
+              "title": "动名词与不定式的区别"
+            }
+          ]
+        },
+        {
+          "id": "cn10e-ch2",
+          "title": "分词",
+          "lessons": [
+            {
+              "id": "cn10e-ch2-l1",
+              "title": "现在分词和过去分词作定语"
+            },
+            {
+              "id": "cn10e-ch2-l2",
+              "title": "分词作状语"
+            },
+            {
+              "id": "cn10e-ch2-l3",
+              "title": "分词作宾语补足语"
+            }
+          ]
+        },
+        {
+          "id": "cn10e-ch3",
+          "title": "定语从句进阶",
+          "lessons": [
+            {
+              "id": "cn10e-ch3-l1",
+              "title": "关系代词 as 与 whose"
+            },
+            {
+              "id": "cn10e-ch3-l2",
+              "title": "介词 + 关系代词"
+            },
+            {
+              "id": "cn10e-ch3-l3",
+              "title": "非限制性定语从句与 which 指代主句"
+            }
+          ]
+        },
+        {
+          "id": "cn10e-ch4",
+          "title": "名词性从句",
+          "lessons": [
+            {
+              "id": "cn10e-ch4-l1",
+              "title": "主语从句和表语从句"
+            },
+            {
+              "id": "cn10e-ch4-l2",
+              "title": "宾语从句与同位语从句"
+            },
+            {
+              "id": "cn10e-ch4-l3",
+              "title": "名词性从句的连接词"
+            }
+          ]
+        },
+        {
+          "id": "cn10e-ch5",
+          "title": "虚拟语气",
+          "lessons": [
+            {
+              "id": "cn10e-ch5-l1",
+              "title": "条件句中的虚拟语气"
+            },
+            {
+              "id": "cn10e-ch5-l2",
+              "title": "wish、as if 与 would rather"
+            },
+            {
+              "id": "cn10e-ch5-l3",
+              "title": "含蓄条件与 suggest 等引导的从句"
+            }
+          ]
+        },
+        {
+          "id": "cn10e-ch6",
+          "title": "倒装与强调",
+          "lessons": [
+            {
+              "id": "cn10e-ch6-l1",
+              "title": "部分倒装"
+            },
+            {
+              "id": "cn10e-ch6-l2",
+              "title": "完全倒装"
+            },
+            {
+              "id": "cn10e-ch6-l3",
+              "title": "强调句"
+            }
+          ]
+        },
+        {
+          "id": "cn10e-ch7",
+          "title": "时态语态与情态动词进阶",
+          "lessons": [
+            {
+              "id": "cn10e-ch7-l1",
+              "title": "现在完成进行时与过去将来时"
+            },
+            {
+              "id": "cn10e-ch7-l2",
+              "title": "被动语态进阶"
+            },
+            {
+              "id": "cn10e-ch7-l3",
+              "title": "情态动词的完成形式"
+            }
+          ]
+        },
+        {
+          "id": "cn10e-ch8",
+          "title": "阅读与写作综合",
+          "lessons": [
+            {
+              "id": "cn10e-ch8-l1",
+              "title": "阅读理解：长难句与推理判断"
+            },
+            {
+              "id": "cn10e-ch8-l2",
+              "title": "语法填空与短文改错"
+            },
+            {
+              "id": "cn10e-ch8-l3",
+              "title": "应用文写作"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
