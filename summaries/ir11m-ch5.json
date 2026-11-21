@@ -1,0 +1,7 @@
+{
+ "Rational Exponents and Radicals": "aᵐ·aⁿ = aᵐ⁺ⁿ، (aᵐ)ⁿ = aᵐⁿ، a⁻ⁿ = 1/aⁿ و a^(m/n) = (ⁿ√a)ᵐ. برای حل معادله همه‌ی عددها را به یک پایه برسانید.",
+ "Exponential Functions and Their Graphs": "y = aˣ (a > 0 , a ≠ 1) دامنه‌ی R و برد y > 0 دارد و از (0 , 1) می‌گذرد. اگر a > 1 صعودی و اگر 0 < a < 1 نزولی است.",
+ "Logarithm: Definition and Properties": "log_a x = y یعنی aʸ = x. خاصیت‌ها: log(ab) = log a + log b، log(a/b) = log a − log b، log aⁿ = n log a و تغییر مبنا log_a b = log b/log a.",
+ "Logarithmic Functions and Their Graphs": "y = log_a x دامنه‌ی x > 0 و برد R دارد، از (1 , 0) می‌گذرد و وارون y = aˣ است. برای دامنه‌ی log(g(x)) شرط g(x) > 0 را بنویسید.",
+ "Exponential and Logarithmic Equations": "معادله‌ی نمایی: پایه‌ها را یکی کنید یا لگاریتم بگیرید. معادله‌ی لگاریتمی: لگاریتم‌ها را یکی کنید، به توان تبدیل کنید و جواب را با دامنه بسنجید. در نامعادله با پایه‌ی کمتر از 1 جهت نامساوی عوض می‌شود."
+}

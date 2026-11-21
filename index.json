@@ -12950,6 +12950,84 @@
        "title": "Solving Trigonometric Equations"
       }
      ]
+    },
+    {
+     "id": "ir11m-ch5",
+     "title": "Calculus 1: Exponential and Logarithmic Functions",
+     "lessons": [
+      {
+       "id": "ir11m-ch5-l1",
+       "title": "Rational Exponents and Radicals"
+      },
+      {
+       "id": "ir11m-ch5-l2",
+       "title": "Exponential Functions and Their Graphs"
+      },
+      {
+       "id": "ir11m-ch5-l3",
+       "title": "Logarithm: Definition and Properties"
+      },
+      {
+       "id": "ir11m-ch5-l4",
+       "title": "Logarithmic Functions and Their Graphs"
+      },
+      {
+       "id": "ir11m-ch5-l5",
+       "title": "Exponential and Logarithmic Equations"
+      }
+     ]
+    },
+    {
+     "id": "ir11m-ch6",
+     "title": "Calculus 1: Limits and Continuity",
+     "lessons": [
+      {
+       "id": "ir11m-ch6-l1",
+       "title": "The Concept of a Limit and One-Sided Limits"
+      },
+      {
+       "id": "ir11m-ch6-l2",
+       "title": "Limit Rules and Algebraic Techniques"
+      },
+      {
+       "id": "ir11m-ch6-l3",
+       "title": "Limits at Infinity and Infinite Limits"
+      },
+      {
+       "id": "ir11m-ch6-l4",
+       "title": "Horizontal and Vertical Asymptotes"
+      },
+      {
+       "id": "ir11m-ch6-l5",
+       "title": "Continuity of Functions"
+      }
+     ]
+    },
+    {
+     "id": "ir11m-ch7",
+     "title": "Calculus 1: The Derivative",
+     "lessons": [
+      {
+       "id": "ir11m-ch7-l1",
+       "title": "Average and Instantaneous Rate of Change"
+      },
+      {
+       "id": "ir11m-ch7-l2",
+       "title": "Derivative at a Point and the Tangent Line"
+      },
+      {
+       "id": "ir11m-ch7-l3",
+       "title": "Derivative Rules for Polynomials"
+      },
+      {
+       "id": "ir11m-ch7-l4",
+       "title": "Product, Quotient and Chain Rules"
+      },
+      {
+       "id": "ir11m-ch7-l5",
+       "title": "Applications: Monotonicity, Extrema and Motion"
+      }
+     ]
     }
    ]
   },
