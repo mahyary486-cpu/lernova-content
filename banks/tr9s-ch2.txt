@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Canlıların yapısında en fazla bulunan bileşik aşağıdakilerden hangisidir?|Su|Protein|Mineral|Yağ|0|Canlı vücudunun büyük bölümü sudur.
 Canlılarda öncelikli enerji kaynağı olarak kullanılan organik besin aşağıdakilerden hangisidir?|Vitamin|Su|Karbonhidrat|Mineral|2|Hücreler enerjiyi öncelikle karbonhidratların (glikoz) yıkımından elde eder.
 100 amino asit birbirine bağlanarak tek zincirli bir protein oluşturursa kaç peptit bağı oluşur?|98|101|99|100|2|n amino asitten oluşan tek zincirde n − 1 peptit bağı vardır.
@@ -29,3 +29,23 @@ Hayvan hücresi saf suya konulursa ne olur?|Değişmez|Hücre duvarı sayesinde 
 Aktif taşıma için aşağıdakilerden hangisi gereklidir?|Yoğunluk farkı yönünde hareket|Yalnızca su|ATP (enerji)|Işık|2|Aktif taşımada maddeler yoğunluk farkına karşı taşınır; bu nedenle ATP harcanır.
 Hücre zarının temel yapısını oluşturan moleküller hangileridir?|Fosfolipit ve protein|Glikoz ve fruktoz|Selüloz ve nişasta|DNA ve RNA|0|Hücre zarı fosfolipit çift katman ve proteinlerden oluşur.
 Fosfolipit moleküllerinin hücre zarındaki dizilişi nasıldır?|Rastgele küme|Tek katman|Üç katman|Çift katman|3|Sıvı mozaik modele göre fosfolipitler çift katman oluşturur.
+Nükleik asitlerin yapı taşı aşağıdakilerden hangisidir?|Glikoz|Amino asit|Yağ asidi|Nükleotit|3|DNA ve RNA nükleotitlerden oluşur.
+DNA'nın yapısındaki şeker aşağıdakilerden hangisidir?|Riboz|Glikoz|Deoksiriboz|Fruktoz|2|DNA'da şeker deoksiriboz, RNA'da riboz dur.
+RNA'da bulunup DNA'da bulunmayan organik baz hangisidir?|Sitozin|Adenin|Timin|Urasil|3|RNA'da timin yerine urasil bulunur.
+Hayvanlarda karaciğer ve kaslarda depo edilen karbonhidrat hangisidir?|Glikojen|Sakkaroz|Selüloz|Nişasta|0|Hayvanlarda glikoz fazlası glikojen olarak depolanır.
+Bitkilerde depo karbonhidrat hangisidir?|Glikojen|Kolesterol|Nişasta|Kitin|2|Bitkiler glikoz fazlasını nişasta olarak depolar.
+Selüloz ile ilgili aşağıdakilerden hangisi doğrudur?|Hayvan hücrelerinin duvarını oluşturur|Glikozdan oluşan bir polisakkarittir ve insan tarafından sindirilemez|Protein yapılıdır|Yağ yapılıdır|1|Selüloz bitki hücre duvarını oluşturur; insanda onu parçalayan enzim yoktur.
+Aşağıdakilerden hangisi yağda çözünen vitaminlerdendir?|B₁ vitamini|B₁₂ vitamini|C vitamini|A vitamini|3|A, D, E ve K vitaminleri yağda çözünür; C ve B vitaminleri suda çözünür.
+C vitamini eksikliğinde hangi hastalık görülür?|Körlük|Raşitizm|İskorbüt|Anemi|2|C vitamini eksikliği iskorbüte (diş eti kanaması) yol açar.
+Yağda çözünen vitaminler için aşağıdakilerden hangisi doğrudur?|A, D, E ve K dır|Hepsi suda çözünür|B grubu vitaminlerdir|Yalnızca C dir|0|A, D, E, K yağlarda çözünür ve vücutta depolanabilir.
+Mitokondri hangi tür zarla çevrilidir?|Tek zar|Çift zar|Üç zar|Zarsızdır|1|Mitokondri dış ve iç zardan oluşan çift zarlıdır.
+Endoplazmik retikulumun (ER) görevi aşağıdakilerden hangisidir?|Hücre içinde madde taşınması ve sentez|Hücre bölünmesi|Fotosentez|ATP üretimi|0|ER, hücre içi kanallar ağıdır; madde taşır ve sentezlere katılır.
+Üzerinde ribozom bulunan endoplazmik retikulum türü hangisidir?|Granüllü ER|Golgi|Lizozom|Granülsüz ER|0|Ribozom taşıyan ER protein sentezine katılan granüllü ER dir.
+Bitki hücresinde olgun hücrelerde bulunan büyük organel hangisidir?|Lizozom|Sentriyol|Koful|Ribozom|2|Olgun bitki hücrelerinde büyük merkezi koful bulunur.
+Hayvan hücresi hipertonik bir ortama konulursa ne olur?|Su kaybederek büzülür|Hücre duvarı oluşturur|Su alarak patlar|Değişmez|0|Dış ortam daha yoğun olduğundan hücreden su çıkar ve hücre büzülür.
+İzotonik ortamdaki hayvan hücresi için aşağıdakilerden hangisi doğrudur?|Hücre şişer|Hücre büzülür|Hücre patlar|Hücreye giren ve çıkan su miktarı eşittir|3|İzotonik ortamda dışarı ve içeri su geçişi dengededir.
+Bitki hücresi hipertonik ortama konulursa zar ile hücre duvarı arasında ne olur?|Hücre patlar|Zar duvardan ayrılır (plazmoliz)|Duvar erir|Hücre şişer|1|Su çıkışıyla koful ve sitoplazma büzülür; bu olaya plazmoliz denir.
+Katı partiküllerin hücre tarafından zarla sarılarak alınmasına ne denir?|Fagositoz|Ozmoz|Pinositoz|Difüzyon|0|Katı maddelerin alınmasına fagositoz, sıvı damlacıkların alınmasına pinositoz denir.
+Endositoz ve ekzositoz için aşağıdakilerden hangisi doğrudur?|Yalnızca bitkilerde görülür|ATP harcanır|Zar gerekmez|Enerji harcanmaz|1|Büyük moleküllerin zarla taşınması aktif bir olaydır ve ATP harcar.
+Hücre zarının seçici geçirgen olması ne demektir?|Yalnızca suyu geçirmez|Her maddeyi geçirir|Bazı maddeleri geçirir, bazılarını geçirmez|Hiçbir maddeyi geçirmez|2|Hücre zarı madde geçişini kontrol eder.
+Oküler 10x, objektif 100x olan ışık mikroskobunun toplam büyütmesi kaçtır?|100|10 000|110|1 000|3|Toplam büyütme 10·100 = 1000 dir.

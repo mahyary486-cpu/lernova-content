@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Bitkilerde hücre uzamasını sağlayarak gövdenin ışığa doğru büyümesinde etkili olan hormon aşağıdakilerden hangisidir?|Absisik asit|Sitokinin|Oksin|Etilen|2|Oksin hücre uzamasını uyarır; ışığın az olduğu taraftaki hücrelerin daha çok uzamasıyla gövde ışığa doğru eğilir.
 Bitkilerin ışığa doğru yönelmesine ne ad verilir?|Fototropizma|Jeotropizma|Tigmotropizma|Hidrotropizma|0|Işık uyarısına yönelik büyüme hareketine fototropizma denir.
 Kökün yer çekimi yönünde büyümesi hangi tropizma örneğidir?|Termonasti|Pozitif jeotropizma|Negatif fototropizma|Hidronasti|1|Kök yer çekimi yönünde büyüdüğü için pozitif jeotropizma (gravitropizma) gösterir.
@@ -29,3 +29,23 @@ Serum yoluyla kazanılan bağışıklık türü aşağıdakilerden hangisidir?|D
 Bağışıklık sisteminin zararsız maddelere karşı aşırı tepki vermesine ne ad verilir?|Alerji|Hipertansiyon|Diyabet|Aşılama|0|Alerjide zararsız maddelere (polen vb.) karşı bağışıklık sistemi aşırı tepki gösterir.
 Hayvanlarda duyu organlarından gelen bilgileri alan ve sinir sistemine ileten yapılara ne ad verilir?|Hormonlar|Reseptörler|Enzimler|Efektörler|1|Reseptörler uyarıları algılayan duyu hücreleridir.
 Bir cismin yakın veya uzak olduğunu ayarlayarak net görmeyi sağlayan göz kısmı hangisidir?|Mercek|Retina|Kan damarı|Kornea|0|Mercek odak uzaklığını değiştirerek net görmeyi sağlar.
+Bitkilerde hücre bölünmesini uyaran hormon aşağıdakilerden hangisidir?|Sitokinin|Etilen|Absisik asit|Oksin|0|Sitokinin hücre bölünmesini uyarır ve yaşlanmayı geciktirir.
+Bitki gövdesinin yer çekimine ters yönde büyümesi hangi tropizmaya örnektir?|Tigmotropizma|Fototropizma|Negatif jeotropizma|Pozitif jeotropizma|2|Gövde yer çekiminin tersi yönde büyür; negatif jeotropizma gösterir.
+Kökün su kaynağına doğru büyümesi hangi tropizma örneğidir?|Jeotropizma|Fototropizma|Pozitif hidrotropizma|Negatif hidrotropizma|2|Kök suya yönelerek büyür; bu pozitif hidrotropizmadır.
+Gaz hâlindeki bitki hormonu aşağıdakilerden hangisidir?|Oksin|Sitokinin|Etilen|Gibberellin|2|Etilen gaz hâlindedir ve meyve olgunlaşmasını destekler.
+Kuraklıkta stomaların kapanmasını sağlayan hormon aşağıdakilerden hangisidir?|Absisik asit|Oksin|Sitokinin|Gibberellin|0|Absisik asit stomaları kapatarak su kaybını azaltır.
+Apikal dominansi (tepe tomurcuğunun yan tomurcukları baskılaması) hangi hormonla ilişkilidir?|Etilen|Absisik asit|Sitokinin|Oksin|3|Tepe tomurcuğunda yapılan oksin yan tomurcukların gelişimini baskılar.
+Bir nöronun temel kısımları aşağıdakilerden hangisidir?|Sinaps, kas, kemik|Çekirdek, mitokondri, ribozom|Kök, gövde, yaprak|Dendrit, hücre gövdesi, akson|3|Nöron dendrit, gövde ve akson olmak üzere üç temel bölümden oluşur.
+Miyelin kılıfın sinir hücresindeki görevi nedir?|Besin depolamak|Uyarı iletimini hızlandırmak|Hormon salgılamak|Uyarıyı durdurmak|1|Miyelin kılıflı aksonlarda iletim sıçramalı olur ve hızlanır.
+Sinapslarda uyarı iletiminin tek yönlü olmasının nedeni nedir?|Aksonun uzun olması|Miyelinin bulunması|Nörotransmitterin yalnızca akson ucundan salgılanması|Dendritlerin kısa olması|2|Nörotransmitter akson ucundan salgılanır ve reseptörler sonraki hücrenin dendritinde bulunur.
+Refleks merkezi olarak görev yapan yapı aşağıdakilerden hangisidir?|Mide|Beyincik|Kalp|Omurilik|3|Birçok basit refleks omurilik kontrolündedir.
+Duyu nöronlarının görevi aşağıdakilerden hangisidir?|Uyarıyı merkezi sinir sistemine taşımak|Uyarıyı kasa iletmek|Besin sindirmek|Hormon yapmak|0|Duyu nöronları reseptörlerden aldığı uyarıyı merkezi sinir sistemine iletir.
+Motor nöronların görevi aşağıdakilerden hangisidir?|Besin taşımak|Oksijen taşımak|Uyarıyı merkezden efektöre (kas, bez) iletmek|Uyarıyı reseptörden merkeze iletmek|2|Motor nöronlar emri efektör organa götürür.
+Vücut sıcaklığı, açlık ve susuzluk merkezi aşağıdakilerden hangisidir?|Omurilik|Beyincik|Hipotalamus|Omurilik soğanı|2|Hipotalamus iç dengeyi düzenleyen merkezdir.
+Kalp kasının özelliği aşağıdakilerden hangisidir?|Çizgili ve istem dışıdır|Çizgili ve istemlidir|Düz ve istemlidir|Düz ve istem dışıdır|0|Kalp kası çizgili yapıdadır ama istem dışı çalışır.
+Kas kasılmasında sarkoplazmik retikulumdan hangi iyon salınır?|Klor|Sodyum|Kalsiyum|Demir|2|Ca²⁺ iyonları aktin–miyozin etkileşimini başlatır; kasılma ATP kullanır.
+Kıkırdak doku neye örnektir?|Kas dokusu|Epitel dokusu|Destek (bağ) dokusu|Sinir dokusu|2|Kıkırdak ve kemik destek dokularındandır.
+Akyuvarlar bağışıklıkta hangi yolla görev yapar?|Oksijen taşıma|Besin taşıma|Fagositoz ve antikor üretimi|Pıhtılaşma|2|Akyuvarlar mikropları yutar (fagositoz) ve lenfositler antikor üretir.
+T lenfositlerinin görevi aşağıdakilerden hangisidir?|Hormon salgılamak|Hücresel bağışıklıkta enfekte hücreleri yok etmek|Oksijen taşımak|Pıhtı oluşturmak|1|T lenfositleri hücresel bağışıklığın temelini oluşturur.
+Anne sütüyle bebeğe geçen antikorlar hangi bağışıklık türüne örnektir?|Yapay pasif bağışıklık|Yapay aktif bağışıklık|Doğal pasif bağışıklık|Doğal aktif bağışıklık|2|Bebek hazır antikor aldığı için bağışıklık doğal pasiftir.
+Aşı yapıldıktan sonra vücutta oluşan bellek hücrelerinin görevi nedir?|Aynı antijenle karşılaşınca hızlı ve güçlü bağışıklık yanıtı vermek|Besin sindirmek|Oksijen taşımak|Hormon salgılamak|0|Bellek hücreleri antijeni hatırlar; ikinci karşılaşmada tepki hızlı ve güçlü olur.

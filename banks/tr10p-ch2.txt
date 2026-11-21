@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Dalgalar aşağıdakilerden hangisini taşır?|Kütle|Yük|Enerji|Madde|2|Dalgalar ortamdaki maddeyi taşımadan enerji aktarır.
 Aşağıdakilerden hangisi elektromanyetik dalgadır?|Işık|Yay dalgası|Ses|Su dalgası|0|Işık elektromanyetik dalgadır ve boşlukta da yayılır.
 Aşağıdakilerden hangisi doğrudur?|Işık enine, ses boyuna dalgadır|İkisi de boyunadır|İkisi de enine dalgadır|Işık boyuna, ses enine dalgadır|0|Işık enine bir dalgadır; havadaki ses dalgası ise boyuna dalgadır.
@@ -29,3 +29,23 @@ Bir dalga bir ortamdan başka bir ortama geçerken aşağıdakilerden hangisi de
 Aşağıdakilerden hangisi mekanik bir dalga değildir?|Deprem dalgası|Ses dalgası|Su dalgası|Radyo dalgası|3|Radyo dalgası elektromanyetik bir dalgadır; diğerleri mekanik dalgadır.
 Dalga boyu 4 m, periyodu 2 s olan bir dalganın hızı kaç m/s dir?|2|8|6|0,5|0|v = λ/T = 4/2 = 2 m/s.
 Frekansı 20 Hz ve dalga boyu 3 m olan bir dalga 6 saniyede kaç metre yol alır?|180|120|60|360|3|v = λ·f = 3·20 = 60 m/s ve yol = 60·6 = 360 m.
+Dalga boyu aşağıdakilerden hangisinin uzunluğudur?|Genliğin yarısı|Periyot süresi|İki ardışık tepe arasındaki uzaklık|Frekansın tersi|2|Dalga boyu, aynı fazdaki iki ardışık noktanın (örneğin iki tepe) arasındaki uzaklıktır.
+Frekansı 4 Hz, dalga boyu 5 m olan dalganın hızı kaç m/s dir?|20|9|0,8|1,25|0|v = λ·f = 5·4 = 20 m/s.
+Hızı 12 m/s, periyodu 0,5 s olan dalganın dalga boyu kaç m dir?|12|24|6|3|2|λ = v·T = 12·0,5 = 6 m.
+Sıkışma ve genişleme bölgelerinden oluşan dalga hangi türdür?|Enine dalga|Işık dalgası|Boyuna dalga|Elektromanyetik dalga|2|Titreşimin yayılma doğrultusunda olduğu dalgalar boyuna dalgadır; ses buna örnektir.
+Işık havadan camdan geçerek tekrar havaya çıkarken camdan havaya geçtiğinde hızı nasıl değişir?|Sıfır olur|Artar|Azalır|Değişmez|1|Işık camda yavaşlar; havaya çıkınca hızı artar.
+Frekansı 500 Hz olan bir ses dalgası havadan (v = 340 m/s) suya (v = 1 500 m/s) geçerse suda dalga boyu kaç m olur?|0,33|3|750|0,68|1|Frekans değişmez; λ = v/f = 1 500/500 = 3 m.
+Radyo dalgalarının boşluktaki hızı yaklaşık kaç m/s dir?|3·10⁸|3·10⁵|340|1 500|0|Tüm elektromanyetik dalgalar boşlukta ışık hızıyla yayılır.
+Düz aynaya normale göre 40° lik açıyla gelen ışının yansıma açısı kaç derecedir?|40|80|20|50|0|Yansıma kanununa göre yansıma açısı gelme açısına eşittir.
+Düz aynaya yüzeyle 50° lik açı yapacak şekilde gelen ışının gelme açısı kaç derecedir?|90|50|25|40|3|Gelme açısı normalle yapılan açıdır: 90° − 50° = 40°.
+Işık havadan suya geçerken ışının yönü hakkında ne söylenir?|Normalden uzaklaşır|Değişmez|Normale yaklaşır|Geri döner|2|Işık seyrek ortamdan yoğun ortama geçerken normale yaklaşır.
+Kırılma indisi 2 olan bir ortamda ışığın hızı kaç m/s dir? (c = 3·10⁸ m/s)|6·10⁸|3·10⁸|1,5·10⁸|2·10⁸|2|v = c/n = 3·10⁸/2 = 1,5·10⁸ m/s.
+Işık havadan (n = 1) suya (n = 4/3) sin53° = 0,8 olacak biçimde giriyor. Kırılma açısı kaç derecedir? (sin37° = 0,6)|37|30|45|53|0|Snell: 1·0,8 = (4/3)·sinθ₂ → sinθ₂ = 0,6 ve θ₂ = 37°.
+Aşağıdakilerden hangisi mekanik dalgalar için doğrudur?|Işık hızıyla yayılırlar|Yayılmak için maddesel ortama ihtiyaç duyarlar|Boşlukta yayılırlar|Yalnızca enine olurlar|1|Mekanik dalgalar (ses, su, yay dalgası) yayılmak için madde ortamı gerektirir.
+Depremlerde oluşan P dalgaları hangi türdür?|Enine dalga|Işık dalgası|Elektromanyetik dalga|Boyuna dalga|3|P dalgaları yayılma doğrultusunda titreşen boyuna mekanik dalgalardır.
+Bir kişi bağırdıktan 3 s sonra yankıyı duyuyor. Ses hızı 340 m/s ise engelin uzaklığı kaç m dir?|340|255|1 020|510|3|Ses gidiş-dönüşte 340·3 = 1 020 m yol alır; engel 1 020/2 = 510 m uzaktadır.
+Sesin hızı hangi etkene bağlıdır?|Sesin şiddetine|Ortamın cinsine ve sıcaklığına|Dinleyicinin konumuna|Sesin frekansına|1|Ses hızı yayıldığı ortamın cinsi ve sıcaklığıyla belirlenir.
+Havanın sıcaklığı artırılırsa sesin havadaki hızı nasıl değişir?|Sıfır olur|Artar|Azalır|Değişmez|1|Sıcaklık arttıkça hava molekülleri daha hızlı hareket eder ve ses hızı artar.
+Dalga boyu 2 m ve hızı 340 m/s olan ses dalgasının periyodu kaç s dir?|2|170|1/170|340|2|f = v/λ = 340/2 = 170 Hz ve T = 1/f = 1/170 s.
+Bir dalganın genliği artırılırsa taşıdığı enerji nasıl değişir?|Sıfır olur|Azalır|Artar|Değişmez|2|Dalganın enerjisi genliğin karesiyle orantılıdır; genlik arttıkça enerji artar.
+Işığın hızı için aşağıdaki sıralamalardan hangisi doğrudur?|Boşluk > su > cam|Cam > su > boşluk|Su > boşluk > cam|Cam > boşluk > su|0|Işık boşlukta en hızlıdır; sudaki hızı camdakinden büyüktür (n_su < n_cam).

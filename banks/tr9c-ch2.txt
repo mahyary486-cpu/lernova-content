@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Metal ve ametal atomları arasında oluşan bağ türü aşağıdakilerden hangisidir?|İyonik bağ|Kovalent bağ|Metalik bağ|Hidrojen bağı|0|Metal elektron verir, ametal alır; zıt yüklü iyonlar arasında iyonik bağ oluşur.
 NaCl bileşiğindeki bağ türü aşağıdakilerden hangisidir?|İyonik bağ|Metalik bağ|Van der Waals etkileşimi|Kovalent bağ|0|Na metal, Cl ametaldir; aralarında iyonik bağ vardır.
 Aşağıdaki bileşiklerden hangisinde iyonik bağ vardır?|MgO|CO₂|H₂O|N₂|0|Mg metal, O ametaldir; MgO iyonik bileşiktir. CO₂, H₂O ve N₂ ametallerden oluşan kovalent bileşiklerdir.
@@ -29,3 +29,23 @@ Mol kütleleri birbirine yakın CH₄ (16), NH₃ (17) ve H₂O (18) maddelerini
 Mg²⁺ ve Cl⁻ iyonlarından oluşan bileşiğin formülü aşağıdakilerden hangisidir?|Mg₂Cl|MgCl|MgCl₂|Mg₂Cl₂|2|Yükler toplamı sıfır olmalıdır: bir Mg²⁺ için iki Cl⁻ gerekir.
 Sodyum (Z = 11) ve oksijen (Z = 8) atomlarının oluşturduğu iyonik bileşiğin formülü hangisidir?|NaO₂|Na₂O|NaO|Na₃O|1|Na 1+ , O 2− iyonu oluşturur; yükleri dengelemek için 2 Na⁺ ve 1 O²⁻ gerekir.
 Al³⁺ ve O²⁻ iyonlarından oluşan bileşiğin formülü hangisidir?|AlO|Al₃O₂|Al₂O₂|Al₂O₃|3|Toplam yük: 2·(+3) + 3·(−2) = 0 olduğundan formül Al₂O₃ tür.
+NaCl bileşiğinde hangi iyonlar bulunur?|Na²⁺ ve Cl²⁻|Na⁻ ve Cl⁺|Yalnızca nötr atomlar|Na⁺ ve Cl⁻|3|Sodyum elektron verip Na⁺, klor elektron alıp Cl⁻ olur.
+HCl molekülündeki bağ türü aşağıdakilerden hangisidir?|Apolar kovalent|İyonik|Metalik|Polar kovalent|3|H ve Cl farklı elektronegatiflikte olduğundan ortaklanan elektron çifti Cl'ye kayar; bağ polardır.
+CCl₄ molekülünün apolar olmasının nedeni nedir?|Bağların apolar olması|Simetrik yapıda polar bağların etkisinin birbirini yok etmesi|İyonik bağ içermesi|Metalik bağ içermesi|1|C–Cl bağları polardır fakat tetrahedral simetri nedeniyle bileşke dipol sıfırdır.
+Metallerin ısıyı iyi iletmesinin nedeni nedir?|Hidrojen bağları|Nötronlar|Serbest hareket eden elektronlar|İyonik bağ|2|Metalik bağdaki serbest elektronlar ısı enerjisini hızla taşır.
+Mg²⁺ ve O²⁻ iyonlarından oluşan bileşiğin formülü aşağıdakilerden hangisidir?|MgO|Mg₂O|MgO₂|Mg₂O₂|0|Yükler eşit olduğundan 1 Mg²⁺ için 1 O²⁻ yeterlidir: MgO.
+K⁺ ve S²⁻ iyonlarından oluşan bileşiğin formülü aşağıdakilerden hangisidir?|K₂S₂|KS₂|K₂S|KS|2|2 K⁺ (+2) ile 1 S²⁻ (−2) yükleri dengeler: K₂S.
+Zayıf etkileşimler içinde en güçlü olanı aşağıdakilerden hangisidir?|Dipol–dipol|Hepsi eşittir|Hidrojen bağı|London kuvvetleri|2|Hidrojen bağı, moleküller arası etkileşimlerin en güçlüsüdür.
+Buzun suda yüzmesinin nedeni nedir?|Buzun kütlesinin az olması|Buzda hidrojen bağlarıyla oluşan açık yapının yoğunluğu düşürmesi|Buzun iyonik olması|Buzun metalik olması|1|Buzda moleküller hidrojen bağlarıyla boşluklu bir yapı oluşturur; yoğunluk sudan küçüktür.
+HF, HCl, HBr ve HI bileşikleri içinde kaynama noktası en yüksek olan hangisidir?|HF|HBr|HI|HCl|0|HF molekülleri arasında hidrojen bağı vardır; kaynama noktası beklenenden çok yüksektir.
+Kovalent bağda atomlar elektronları nasıl kullanır?|Hiç kullanmaz|Birbirine verir|Çekirdeğe aktarır|Ortaklaşa|3|Ametal atomları elektron çiftlerini ortaklaşa kullanarak bağ yapar.
+O₂ molekülünde oksijen atomları arasında nasıl bir bağ vardır?|Tek bağ|İyonik bağ|Üçlü bağ|Çift bağ|3|Her oksijen 6 değerlik elektronuna sahiptir; 2 elektron çifti ortaklaşa kullanılarak çift bağ oluşur.
+N₂ molekülünde azot atomları arasında nasıl bir bağ vardır?|İyonik bağ|Çift bağ|Tek bağ|Üçlü bağ|3|Her azot 5 değerlik elektronuna sahiptir; 3 elektron çifti ortaklanarak üçlü bağ oluşur.
+Aşağıdakilerden hangisi apolar bir çözücüdür?|Su|Amonyak|Benzen|Etanol|2|Benzen simetrik, apolar bir moleküldür; apolar maddeleri çözer.
+NaCl nin suda çözünmesinin temel nedeni nedir?|Kovalent bağ|İyon–dipol etkileşimleri|Metalik bağ|London kuvvetleri|1|Su molekülleri iyonları sarar; iyon–dipol çekimi kristal örgüyü dağıtır.
+H₂O molekülünün polar olmasının nedeni nedir?|Metalik bağ içermesi|Molekülün bükülmüş (kırık) yapıda olması|İyonik bağ içermesi|Molekülün doğrusal olması|1|Su molekülü bükülmüş yapıdadır; O–H bağlarının dipolleri birbirini götürmez.
+Aşağıdakilerden hangisi iyonik bileşik formülüdür?|H₂O|CO₂|N₂|NaCl|3|NaCl metal (Na) ve ametalden (Cl) oluşan iyonik bir bileşiktir.
+Elmasın çok sert olmasının nedeni nedir?|Metalik bağ içermesi|Hidrojen bağı içermesi|Karbon atomlarının üç boyutlu kovalent ağ yapması|İyonik bağ içermesi|2|Elmasta her karbon dört komşusuna kovalent bağlıdır; bu ağ yapısı çok sağlamdır.
+Grafit elektriği iletir; bunun nedeni nedir?|İyon içermesi|Metalik olması|Katmanlarında serbest (delokalize) elektronların bulunması|Hidrojen içermesi|2|Grafitte her karbonun bir elektronu katmanlar arasında serbestçe hareket eder.
+Soygazlar bileşik yapmaya neden isteksizdir?|Elektronları yoktur|Metaldirler|Çok ağırdır|Son katmanları dolu ve kararlıdır|3|Dolu son katman nedeniyle elektron alma ya da verme eğilimi yoktur.
+CH₄ molekülleri arasında hangi etkileşim bulunur?|İyonik bağ|London (dağılma) kuvvetleri|Metalik bağ|Hidrojen bağı|1|CH₄ apolar bir moleküldür; moleküller arasında yalnızca zayıf London kuvvetleri vardır.

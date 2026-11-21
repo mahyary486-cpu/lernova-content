@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Işık şiddetinin SI birimi aşağıdakilerden hangisidir?|Lüks|Lümen|Watt|Candela|3|Işık şiddeti candela (cd) ile ölçülür.
 Işık şiddeti 100 cd olan bir nokta kaynağın 2 m uzağındaki yüzeyde aydınlanma şiddeti kaç lüks tür? (E = I/d², yüzey ışığa dik)|200|25|400|50|1|E = I/d² = 100/4 = 25 lx.
 Bir ışık kaynağına olan uzaklık iki katına çıkarılırsa yüzeydeki aydınlanma şiddeti nasıl değişir?|İki katına çıkar|Yarıya düşer|1/4 ü olur|4 katına çıkar|2|Aydınlanma uzaklığın karesiyle ters orantılıdır; d iki katına çıkarsa E dörtte birine düşer.
@@ -29,3 +29,23 @@ Işığın boşluktaki hızı yaklaşık kaç m/s dir?|3·10⁸|340|3·10¹⁰|3
 Çukur aynanın odak noktasına yerleştirilen cismin görüntüsü için aşağıdakilerden hangisi doğrudur?|Gerçek ve ters görüntü oluşur|Görüntü oluşmaz, yansıyan ışınlar paralel gider|Sanal ve düz görüntü oluşur|Cisimle aynı boyda görüntü oluşur|1|Odaktan çıkan ışınlar aynadan paralel yansır; paralel ışınlar kesişmediği için görüntü oluşmaz.
 Ayna denklemi 1/f = 1/p + 1/q ifadesinde p neyi gösterir?|Görüntünün aynaya uzaklığını|Odak uzaklığını|Cismin aynaya uzaklığını|Eğrilik yarıçapını|2|Ayna denkleminde p cisim uzaklığı, q görüntü uzaklığı, f odak uzaklığıdır.
 Işık bir prizmadan geçerken, prizmanın kırılma indisi çevresinden büyükse ışın prizmanın hangi tarafına doğru sapar?|Tabanına doğru|Sapmaz|Tepe noktasına doğru|Prizmanın içine hapsolur|0|Yoğun ortamdan seyrek ortama çıkarken ışın normalden uzaklaşır; prizmada ışınlar tabana doğru sapar.
+Işık şiddetinin birimi aşağıdakilerden hangisidir?|Lümen|Watt|Candela|Lüks|2|Işık şiddeti candela (cd) ile ölçülür.
+Işık şiddeti 200 cd olan nokta kaynağın 4 m uzağındaki dik yüzeyin aydınlanma şiddeti kaç lüks tür?|25|800|50|12,5|3|E = I/d² = 200/16 = 12,5 lx.
+Bir kaynağın 2 m uzağındaki yüzeyde aydınlanma şiddeti 60 lx ise aynı yüzey 4 m uzağa taşınırsa aydınlanma kaç lx olur?|15|240|120|30|0|Uzaklık iki katına çıkınca E dörtte birine düşer: 60/4 = 15 lx.
+Düz aynadan 2 m uzakta duran cismin görüntüsü aynadan kaç m uzaktadır?|2 (aynanın arkasında)|0|1|4|0|Düz aynada görüntü uzaklığı cisim uzaklığına eşittir ve görüntü aynanın arkasındadır.
+Çukur aynanın odak uzaklığı 15 cm ise eğrilik yarıçapı kaç cm dir?|30|15|60|7,5|0|f = R/2 olduğundan R = 2f = 30 cm.
+Odak uzaklığı 20 cm olan çukur aynanın önüne 60 cm uzağa cisim konuluyor. Görüntü aynadan kaç cm uzakta oluşur?|30|60|40|15|0|1/q = 1/20 − 1/60 = 2/60 olduğundan q = 30 cm.
+Tümsek aynada oluşan görüntünün özelliği aşağıdakilerden hangisidir?|Sanal, düz ve küçük|Gerçek, ters ve küçük|Gerçek, ters ve büyük|Sanal, düz ve büyük|0|Tümsek ayna her zaman sanal, düz ve küçük görüntü verir.
+Cismin çukur aynanın odak noktası ile ayna arasına konulması hâlinde görüntü nasıl olur?|Görüntü oluşmaz|Gerçek, ters ve küçük|Gerçek, ters ve büyük|Sanal, düz ve büyük|3|Odak içindeki cismin görüntüsü aynanın arkasında sanal, düz ve büyüktür (makyaj aynası).
+Odak uzaklığı 20 cm olan çukur aynanın önüne 60 cm uzağa konulan cismin görüntüsü için büyütme kaçtır?|−2|−1/2|2|1/2|1|q = 30 cm olduğundan büyütme m = −q/p = −30/60 = −1/2 (ters ve yarı boyda).
+Havanın kırılma indisi yaklaşık kaçtır?|1|0|1,5|2|0|Havanın kırılma indisi yaklaşık 1 dir.
+Kırılma indisi 2,4 olan elmasta ışığın hızı suya (n = 4/3) göre nasıldır?|Daha büyüktür|Daha küçüktür|Aynıdır|Sıfırdır|1|v = c/n olduğundan n büyük olan ortamda ışığın hızı daha küçüktür.
+Kırılma indisi 2 olan bir ortamdan havaya geçişte sınır açısının sinüsü kaçtır?|1/2|2|√2/2|1|0|sinθ_c = n_hava/n_ortam = 1/2 dir.
+Fiber optik kablolarda ışığın iletilmesi hangi olaya dayanır?|Girişim|Soğurma|Tam yansıma|Dispersiyon|2|Fiber içinde ışık, çeper ile tam yansıma yaparak ilerler.
+Beyaz ışığın bir prizmadan geçerek renklerine ayrılması hangi olayla açıklanır?|Tam yansıma|Girişim|Dispersiyon|Difüzyon|2|Işığın renklerine göre kırılma indisi farklı olduğundan beyaz ışık renklerine ayrılır.
+Kırılma indisi √2 olan camdan havaya geçişte sınır açısı kaç derecedir?|90|30|60|45|3|sinθ_c = 1/√2 = √2/2 olduğundan θ_c = 45°.
+Bir gölün tabanına yukarıdan dik bakıldığında göl neden olduğundan daha sığ görünür?|Işığın yansıması nedeniyle|Işığın saçılması nedeniyle|Işığın soğurulması nedeniyle|Işığın kırılması nedeniyle|3|Su tabanından gelen ışınlar havaya geçerken kırılır; göz ışınların uzantısını görür.
+Gökkuşağının oluşumu hangi olaylarla açıklanır?|Yalnızca yansıma|Girişim|Yalnızca soğurma|Su damlalarında kırılma, yansıma ve dispersiyon|3|Güneş ışığı su damlalarında kırılır, yansır ve renklerine ayrışır.
+Havuz suyunun derinliği 2 m ve suyun kırılma indisi 4/3 ise yukarıdan dik bakıldığında görünür derinlik kaç m dir?|1,5|2,5|2,67|1|0|Görünür derinlik = gerçek derinlik·(n_hava/n_su) = 2·(3/4) = 1,5 m.
+Işık havadan cama geçerken frekansı nasıl değişir?|Azalır|Değişmez|Artar|Sıfır olur|1|Işığın frekansını kaynak belirler; ortam değişse de frekans sabit kalır.
+Işık yoğun ortamdan seyrek ortama geçerken kırılmaya uğrarsa ışın nasıl sapar?|Normalden uzaklaşır|Sapmaz|Geri döner|Normale yaklaşır|0|Yoğun ortamdan seyrek ortama geçişte ışın normalden uzaklaşır.

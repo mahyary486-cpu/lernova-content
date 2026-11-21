@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 İki veya daha fazla maddenin her noktasında aynı özelliği gösterecek şekilde karışmasıyla oluşan karışım nedir?|Heterojen karışım|Bileşik|Element|Homojen karışım (çözelti)|3|Her noktasında aynı özelliği gösteren karışımlara homojen karışım (çözelti) denir.
 Tuzlu su çözeltisinde çözücü ve çözünen aşağıdakilerden hangisidir?|İkisi de tuz|Çözücü tuz, çözünen su|Çözücü su, çözünen tuz|İkisi de su|2|Miktarca çok olan ve çözen madde çözücü, çözünen madde ise çözünendir.
 "Benzer benzeri çözer" ilkesine göre aşağıdakilerden hangisi suda çözünür?|NaCl|Naftalin|Benzen|Yağ|0|Su polar bir çözücüdür; iyonik ve polar maddeler suda çözünür, apolar maddeler çözünmez.
@@ -29,3 +29,23 @@ Aynı sıcaklıkta 0,1 molal NaCl ve 0,1 molal şeker çözeltilerinden hangisin
 Suya uçucu olmayan bir madde eklenirse çözeltinin buhar basıncı nasıl değişir?|Değişmez|Azalır|Sıfır olur|Artar|1|Çözünen taneciklerin yüzeye çıkması çözücü moleküllerinin buharlaşmasını zorlaştırır.
 Kaynama noktası yükselmesinin daha fazla olması için aynı kütledeki çözücüde hangi koşul gerekir?|Çözünenin renkli olması|Çözücünün daha az olması şart değildir|Çözünenin daha hafif olması|Çözünen tanecik sayısının daha fazla olması|3|Kaynama noktası yükselmesi çözünen tanecik sayısıyla doğru orantılıdır.
 0,1 molal şeker, NaCl ve CaCl₂ çözeltilerinin donma noktaları arasındaki doğru sıralama hangisidir? (En düşükten yükseğe)|CaCl₂ < şeker < NaCl|şeker < NaCl < CaCl₂|NaCl < CaCl₂ < şeker|CaCl₂ < NaCl < şeker|3|CaCl₂ 3, NaCl 2 iyona, şeker iyonlaşmadan 1 tanecik oluşturur; tanecik sayısı arttıkça donma noktası düşer.
+Şekerli su çözeltisinde çözünen madde aşağıdakilerden hangisidir?|Şeker|Su|Tuz|Hava|0|Çözünen, çözücüde çözünen maddedir; şekerli suda şeker çözünen, su çözücüdür.
+10 g tuz 90 g suda çözünüyor. Çözeltinin kütlece yüzde derişimi kaçtır?|%90|%11|%9|%10|3|Çözelti kütlesi 100 g dır; yüzde = 10/100·100 = %10.
+Kütlece %10 luk 200 g tuzlu su çözeltisine 20 g tuz daha ekleniyor ve tamamen çözünüyor. Yeni çözeltinin yüzde derişimi yaklaşık kaç olur?|%18,2|%12|%20|%15|0|Başlangıçta 20 g tuz vardır; 20 g eklenince 40 g olur. Çözelti kütlesi 220 g dır: 40/220·100 ≈ %18,2.
+Bir litre çözeltide çözünmüş maddenin mol sayısına ne ad verilir?|ppm|Molalite|Kütlece yüzde|Molarite|3|1 L çözeltideki çözünen mol sayısı molar derişimdir (molarite).
+0,2 mol çözünen içeren 0,5 L çözeltinin molar derişimi kaç M dir?|0,1|0,2|2,5|0,4|3|M = n/V = 0,2/0,5 = 0,4 M.
+11,7 g NaCl (58,5 g/mol) suda çözünerek 500 mL çözelti hazırlanıyor. Çözeltinin molar derişimi kaç M dir?|0,8|0,4|1,0|0,2|1|n = 11,7/58,5 = 0,2 mol ve V = 0,5 L olduğundan M = 0,4 M.
+Bir çözelti seyreltildiğinde çözeltideki çözünen miktarı nasıl değişir?|Değişmez|Artar|Sıfır olur|Azalır|0|Seyreltmede yalnızca çözücü eklenir; çözünen miktarı sabittir.
+0,5 M 200 mL çözelti su ile 400 mL ye seyreltiliyor. Yeni derişim kaç M olur?|1|0,5|0,1|0,25|3|M₁V₁ = M₂V₂ → 0,5·200 = M₂·400 ve M₂ = 0,25 M.
+0,1 M 100 mL çözelti ile 0,3 M 300 mL çözelti karıştırılırsa karışımın derişimi kaç M olur?|0,3|0,4|0,2|0,25|3|n = 0,01 + 0,09 = 0,10 mol; V = 0,4 L; M = 0,10/0,4 = 0,25 M.
+Çözünürlük genellikle hangi birimle verilir?|mol/L|ppm|g/mL|g çözünen / 100 g su|3|Çözünürlük, belirli sıcaklıkta 100 g suda çözünebilen en fazla madde miktarıdır.
+Katı bir maddenin çözünme hızını artıran etkenlerden biri aşağıdakilerden hangisidir?|Soğutma|Karıştırma|Büyük parçalara ayırma|Çözücü miktarını azaltma|1|Karıştırmak çözünen taneciklerin çözücü ile temasını hızlandırır.
+80 °C de çözünürlüğü 50 g/100 g su, 20 °C de 20 g/100 g su olan bir tuzun 80 °C deki 150 g doygun çözeltisi 20 °C ye soğutulursa kaç g tuz çöker?|70|30|50|20|1|80 °C de 150 g doygun çözeltide 100 g su ve 50 g tuz vardır. 20 °C de 100 g su 20 g tuz çözer; 50 − 20 = 30 g çöker.
+Çözeltilerin donma noktası saf çözücüye göre nasıl olur?|Daha düşüktür|Aynıdır|Daha yüksektir|Donmaz|0|Uçucu olmayan çözünen eklendiğinde donma noktası düşer.
+0,1 molal NaCl, 0,1 molal Na₂SO₄ ve 0,1 molal glikoz çözeltilerinden hangisinin kaynama noktası en yüksektir?|Glikoz|Hepsi eşittir|Na₂SO₄|NaCl|2|Na₂SO₄ çözeltisi 3 iyon (2Na⁺ + SO₄²⁻) verir; tanecik sayısı en fazla olduğu için kaynama noktası en yüksektir.
+Araç radyatörüne antifriz (etilen glikol) konmasının amacı nedir?|Suyun donma noktasını düşürüp kaynama noktasını yükseltmek|Suyu daha ağır yapmak|Suyu renklendirmek|Basıncı azaltmak|0|Çözünen madde koligatif özellikler nedeniyle donma noktasını düşürür, kaynama noktasını yükseltir.
+Yarı geçirgen bir zardan çözücü moleküllerinin geçişine ne ad verilir?|Yoğuşma|Ozmoz|Süblimleşme|Difüzyon|1|Çözücünün yarı geçirgen zardan seyrek çözeltiden derişik çözeltiye geçişi ozmozdur.
+Hayvan hücresi derişik tuzlu su çözeltisine konulursa hücreye ne olur?|Su kaybederek büzülür|Patlar|Değişmez|Su alarak şişer|0|Dış ortam daha derişiktir; ozmozla hücreden su çıkar ve hücre büzülür.
+2 kg suda 4 mg madde çözünmüştür. Çözeltideki madde derişimi yaklaşık kaç ppm dir?|0,5|2|8|4|1|4 mg = 0,004 g; çözelti ≈ 2 000 g; ppm = 0,004/2 000·10⁶ = 2.
+Çözünme sırasında çözünen ve çözücü tanecikleri arasında kurulan etkileşime ne ad verilir?|Çözünme etkileşimi (çözücü–çözünen çekimi)|Nükleer tepkime|Yanma|Yoğuşma|0|Çözünmede çözünenin tanecikleri çözücü moleküllerince sarılır; bu etkileşim çözünmeyi sağlar.
+Apolar bir madde için aşağıdakilerden hangisi doğrudur?|Elektriği iletir|İyonlaşır|Suda çözünmez|Suda çok iyi çözünür|2|Apolar maddeler polar çözücü olan suda çözünmez ("benzer benzeri çözer").

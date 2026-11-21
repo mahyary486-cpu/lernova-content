@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Canlıların iç ortam koşullarını belirli sınırlar içinde sabit tutmasına ne ad verilir?|Metabolizma|Adaptasyon|Mutasyon|Homeostazi|3|İç dengenin korunmasına homeostazi denir.
 Geri bildirim mekanizmalarında sistem, değişimi azaltacak yönde çalışıyorsa buna ne denir?|Pozitif geri bildirim|Negatif geri bildirim|Adaptasyon|Mutasyon|1|Değişimi azaltarak dengeyi koruyan mekanizma negatif geri bildirimdir.
 Kan şekeri yükseldiğinde pankreas hangi hormonu salgılar?|İnsülin|Adrenalin|Glukagon|Tiroksin|0|İnsülin kan şekerini düşürür; glikozun hücrelere alınmasını ve glikojen olarak depolanmasını sağlar.
@@ -29,3 +29,23 @@ Aşağıdakilerden hangisi homeostazinin bozulmasıyla ortaya çıkan sağlık s
 Sistolik ve diyastolik kan basıncı değerleri neyi ifade eder?|Sistolik gevşeme, diyastolik kasılma basıncıdır|Sistolik kalp kasıldığında, diyastolik gevşediğinde ölçülen basınçtır|Her ikisi de solunum değerleridir|İkisi de gevşeme basıncıdır|1|Büyük tansiyon (sistolik) kalp kasılırken, küçük tansiyon (diyastolik) kalp gevşerken ölçülür.
 Kandaki glikoz derişimi düştüğünde karaciğerde depo edilen hangi madde yıkılır?|Glikojen|Kolesterol|Selüloz|Nişasta|0|Glukagon etkisiyle karaciğerdeki glikojen glikoza yıkılır ve kan şekeri yükselir.
 Kanın pıhtılaşmasında görevli kan hücreleri aşağıdakilerden hangisidir?|Plazma|Trombositler (kan pulcukları)|Alyuvarlar|Akyuvarlar|1|Yaralanma sırasında trombositler kümelenerek pıhtılaşmayı başlatır.
+Hormonlar vücutta nasıl taşınır?|Solunum yoluyla|Sinirlerle|Kan yoluyla|Sindirim kanalıyla|2|Endokrin bezlerin salgıları kana verilir ve hedef hücrelere kanla taşınır.
+Stres durumunda böbreküstü bezinden salgılanan hormon hangisidir?|Adrenalin|Glukagon|İnsülin|Tiroksin|0|Adrenalin kalp atışını ve kan şekerini artırarak vücudu hazırlar.
+Kan şekeri düştüğünde hangi hormon salgılanır?|ADH|İnsülin|Glukagon|Tiroksin|2|Glukagon karaciğerde glikojenin yıkımını uyararak kan şekerini yükseltir.
+Fazla glikozun depolandığı organ aşağıdakilerden hangisidir?|Mide|Karaciğer|Böbrek|Akciğer|1|Karaciğer ve kaslar glikozu glikojen olarak depolar.
+Tip 1 diyabetin nedeni aşağıdakilerden hangisidir?|Adrenalin eksikliği|Tiroksin fazlalığı|ADH eksikliği|Pankreasın yeterli insülin üretememesi|3|Tip 1 diyabette insülin üreten hücreler yetersizdir.
+Su kaybı arttığında hipofizden salgılanan ve böbrekte su geri emilimini artıran hormon hangisidir?|ADH|Adrenalin|Glukagon|İnsülin|0|ADH idrarın derişik olmasını ve su tutulmasını sağlar.
+İnsan kalbinde kan hangi sırayla ilerler?|Karıncık → kulakçık|Kulakçık → karıncık|Doğrudan böbreğe|Doğrudan akciğere|1|Kan kulakçıklardan karıncıklara, oradan atardamarlara geçer.
+Atardamar (arter) ile toplardamar (ven) arasındaki temel fark aşağıdakilerden hangisidir?|İkisi de aynıdır|Atardamar kanı kalbe taşır|Toplardamar kalpten uzağa taşır|Atardamar kanı kalpten uzağa taşır|3|Atardamarlar kanı kalpten dokulara, toplardamarlar dokulardan kalbe taşır.
+Kan basıncı 120/80 mmHg olan bir kişide 120 değeri neyi gösterir?|Diyastolik tansiyon|Sistolik (büyük) tansiyon|Kalp hızı|Solunum hızı|1|120 kalp kasıldığında ölçülen sistolik basınçtır.
+Kanda oksijen taşıyan yapı aşağıdakilerden hangisidir?|Albümin|Fibrinojen|İnsülin|Hemoglobin|3|Alyuvarlardaki hemoglobin oksijen taşır.
+Akciğerlerde gaz alışverişinin gerçekleştiği yapıya ne ad verilir?|Diyafram|Alveol|Bronş|Trake|1|Alveoller ince duvarlı ve kılcal damarlarla çevrilidir.
+Kanda CO₂ artışı solunum hızını nasıl etkiler?|Azaltır|Durdurur|Değişmez|Artırır|3|CO₂ artışı omurilik soğanındaki solunum merkezini uyarır; solunum hızlanır.
+Böbreğin süzme birimi aşağıdakilerden hangisidir?|Alveol|Nöron|Nefron|Hepatosit|2|Böbreğin yapısal ve işlevsel birimi nefron dur.
+Nefronda glikoz ve amino asitler hangi aşamada kana döner?|Süzülme|İdrar atılması|Salgılama|Geri emilim|3|Yararlı maddeler geri emilim sırasında kana geri döner.
+İdrarda glikoz bulunması hangi sağlık sorununun belirtisi olabilir?|Hipotansiyon|Alerji|Diabetes mellitus|Anemi|2|Kan şekeri çok yüksekse geri emilim kapasitesi aşılır ve glikoz idrara geçer.
+Sıcak havada terlemenin amacı aşağıdakilerden hangisidir?|Kan şekerini yükseltmek|Buharlaşmayla vücut ısısını düşürmek|Kan basıncını artırmak|Oksijen taşımak|1|Terin buharlaşması vücuttan ısı alır.
+Hipotalamus vücut sıcaklığını düzenlerken soğukta hangi yanıtı başlatır?|Titreme ve deri damarlarının daralması|Solunumun yavaşlaması|Deri damarlarının genişlemesi|Terleme|0|Soğukta titreme ısı üretimini artırır; damarlar daralınca ısı kaybı azalır.
+Vücut kitle indeksi (VKİ) nasıl hesaplanır?|Kütle (kg) / boy² (m²)|Kütle·boy|Kütle / boy|Boy / kütle|0|VKİ = kütle/boyun karesi şeklinde hesaplanır.
+Obezitenin riskini artırdığı hastalıklar arasında aşağıdakilerden hangisi vardır?|Tip 2 diyabet ve hipertansiyon|Anemi|Alerji|Soğuk algınlığı|0|Obezite diyabet, hipertansiyon ve kalp hastalıkları riskini artırır.
+Negatif geri bildirimle ilgili aşağıdakilerden hangisi doğrudur?|Değişimi artırır|Yalnızca bitkilerde görülür|Değişimi azaltarak dengeyi korur|Dengeyi bozar|2|Negatif geri bildirim sapmayı azaltacak yönde tepki üretir.

@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Dinamik dengede aşağıdakilerden hangisi doğrudur?|İleri ve geri tepkime hızları eşittir|Yalnızca ileri tepkime sürer|Tepkimeler durur|Girenler tamamen tükenir|0|Dinamik dengede ileri ve geri tepkimeler aynı hızla sürer; derişimler sabit kalır.
 N₂ + 3H₂ ⇌ 2NH₃ dengesi için derişimler türünden denge sabiti (Kc) aşağıdakilerden hangisidir?|[NH₃]² / ([N₂][H₂]³)|[NH₃]² / ([N₂][H₂])|[N₂][H₂]³ / [NH₃]²|[NH₃] / ([N₂][H₂])|0|Kc = ürünlerin derişimleri çarpımı / girenlerin derişimleri çarpımı; katsayılar üs olarak yazılır.
 A ⇌ B dengesinde [A] = 0,2 mol/L ve [B] = 0,6 mol/L ise Kc kaçtır?|1/3|0,8|3|0,12|2|Kc = [B]/[A] = 0,6/0,2 = 3.
@@ -29,3 +29,23 @@ Bir tuzun doygun çözeltisine ortak iyon içeren başka bir tuz eklenirse tuzun
 Bir çözeltide iyonların derişimleri çarpımı Q > Kçç ise ne olur?|Hiçbir şey olmaz|Katı tamamen çözünür|Çözelti doymamıştır|Çökelme olur|3|Q değeri Kçç yi aşarsa çözelti aşırı doygundur ve katı çöker.
 Bir çözeltide Q < Kçç ise çözelti için aşağıdakilerden hangisi doğrudur?|Aşırı doygundur|Doygundur|Çökelti oluşur|Doymamıştır|3|Q < Kçç ise iyon derişimleri doygunluk sınırının altındadır; çözelti doymamıştır.
 Denge sabiti çok küçük (Kc ≪ 1) olan bir tepkime için aşağıdakilerden hangisi doğrudur?|Denge kurulmaz|Denge ürünler lehinedir|Denge girenler lehinedir|Tepkime tamamen ürünlere dönüşür|2|Kc küçükse ürünlerin derişimi giren derişimlerine göre çok azdır; denge girenler yönündedir.
+Tersinir tepkimeler denklemde hangi simgeyle gösterilir?|⇌|=|↑|→|0|İleri ve geri yönde gerçekleşen tepkimeler çift yönlü ok (⇌) ile gösterilir.
+A + B ⇌ 2C dengesinde [A] = 1 M, [B] = 2 M ve [C] = 4 M ise Kc kaçtır?|4|2|8|16|2|Kc = [C]²/([A][B]) = 16/2 = 8.
+N₂O₄ ⇌ 2NO₂ dengesinde [NO₂] = 0,2 M ve [N₂O₄] = 0,04 M ise Kc kaçtır?|1|0,5|5|0,2|0|Kc = [NO₂]²/[N₂O₄] = 0,04/0,04 = 1.
+Dengeye ulaşmış bir sistemde aşağıdakilerden hangisi doğrudur?|Girenler tükenir|Yalnızca ileri tepkime sürer|Derişimler zamanla değişmez|Tepkimeler durmuştur|2|Dinamik dengede ileri ve geri hızlar eşit olduğundan derişimler sabittir.
+H₂ + I₂ ⇌ 2HI dengesinde sabit sıcaklıkta kabın hacmi küçültülürse denge nasıl etkilenir?|Girenlere kayar|Kaymaz|Tepkime durur|Ürünlere kayar|1|Giren ve ürünlerdeki gaz mol sayıları eşit (2 = 2) olduğundan basınç değişimi dengeyi kaydırmaz.
+Endotermik bir dengede sıcaklık artırılırsa denge ve Kc nasıl değişir?|Denge girenlere kayar, Kc azalır|Denge kaymaz, Kc değişmez|Denge ürünlere kayar, Kc azalır|Denge ürünlere kayar, Kc artar|3|Sıcaklık artışı endotermik yönü destekler; ürünler çoğalır ve Kc artar.
+Kc ifadesine hangi maddeler yazılmaz?|Sulu çözeltideki iyonlar|Çözünenler|Gazlar|Saf katılar ve saf sıvılar|3|Saf katı ve saf sıvıların derişimi sabittir; Kc ifadesine yazılmaz.
+pH = 1 olan çözeltide [H⁺] kaç M dir?|1|0,1|10|0,01|1|[H⁺] = 10⁻ᵖᴴ = 10⁻¹ = 0,1 M.
+0,05 M Ba(OH)₂ çözeltisinin pH değeri kaçtır? (Ba(OH)₂ kuvvetli bazdır)|14|1|13|12|2|[OH⁻] = 2·0,05 = 0,1 M; pOH = 1 ve pH = 14 − 1 = 13.
+Aşağıdakilerden hangisi zayıf bazdır?|NaOH|NH₃|KOH|Ba(OH)₂|1|Amonyak suda kısmen iyonlaşan zayıf bir bazdır; diğerleri kuvvetli bazdır.
+Kw değeri neye bağlıdır?|Baz derişimine|Asit derişimine|Hacme|Yalnızca sıcaklığa|3|Kw sabiti yalnızca sıcaklığa bağlıdır; 25 °C de 10⁻¹⁴ tür.
+0,1 M derişimli zayıf bir asit (HA) %1 oranında iyonlaşıyorsa çözeltinin pH değeri kaçtır?|1|4|3|2|2|[H⁺] = 0,1·0,01 = 10⁻³ M olduğundan pH = 3.
+Asit ve bazın tepkimesinden tuz ve su oluşmasına ne ad verilir?|Ayrışma|Yanma|Sentez|Nötrleşme|3|Asit + baz → tuz + su tepkimesi nötrleşmedir.
+Bir çözeltinin pH değeri hangi aletle ölçülebilir?|Barometre|Termometre|pH metre|Dinamometre|2|pH metre ve indikatör kâğıtları pH ölçmede kullanılır.
+AgCl nin doygun çözeltisine NaCl eklenirse çözeltideki [Ag⁺] nasıl değişir?|Artar|Sıfır olur|Azalır|Değişmez|2|Ortak iyon (Cl⁻) etkisiyle denge katı oluşumuna kayar ve [Ag⁺] azalır.
+Doygun çözeltide katı ile çözünmüş iyonlar arasında nasıl bir ilişki vardır?|Hiçbir etkileşim yoktur|Dinamik denge|Katı tamamen çözünür|Tepkime durur|1|Doygun çözeltide çözünme ve çökelme hızları eşittir; dinamik denge vardır.
+Kçç değeri neye bağlıdır?|Ortak iyon derişimine|Hacme|Katı miktarına|Sıcaklığa|3|Kçç bir denge sabiti olduğundan yalnızca sıcaklığa bağlıdır.
+Ag⁺ ve Cl⁻ derişimleri 10⁻³ M olan bir çözeltide Q = 10⁻⁶ dır. AgCl nin Kçç değeri 10⁻¹⁰ ise ne olur?|Çözelti doygundur|Çökelme olur|Katı çözünür|Çözelti doymamıştır|1|Q > Kçç olduğundan çözelti aşırı doygundur ve AgCl çöker.
+Tampon çözelti hakkında aşağıdakilerden hangisi doğrudur?|Yalnızca asit içerir|Az miktarda asit/baz eklenince pH çok az değişir|pH sürekli değişir|Yalnızca baz içerir|1|Tampon çözelti zayıf asit ve konjuge bazını içerir ve pH ı korur.
+Gaz içeren bir dengede kabın hacmi artırılırsa denge hangi yöne kayar?|Tepkime durur|Gaz mol sayısı az olan tarafa|Gaz mol sayısı çok olan tarafa|Kaymaz|2|Hacim artınca basınç düşer; denge gaz mol sayısını artıracak yöne kayar.

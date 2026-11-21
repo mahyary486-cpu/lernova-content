@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Elektrik yükünün SI birimi aşağıdakilerden hangisidir?|Ohm|Amper|Coulomb|Volt|2|Elektrik yükü coulomb (C) ile ölçülür.
 Bir iletkenin kesitinden 5 saniyede 10 C yük geçiyorsa akım şiddeti kaç A dir?|2|5|50|0,5|0|I = q/t = 10/5 = 2 A.
 Bir iletkenin kesitinden 4 saniyede 3·10¹⁹ elektron geçiyor. Akım şiddeti kaç A dir? (e = 1,6·10⁻¹⁹ C)|12|1,2|0,8|4,8|1|q = 3·10¹⁹·1,6·10⁻¹⁹ = 4,8 C ve I = 4,8/4 = 1,2 A.
@@ -29,3 +29,23 @@ Gücü 500 W olan bir cihaz günde 4 saat çalıştırılıyor. 1 kWh enerjinin 
 Elektrik devrelerindeki sigortanın görevi aşağıdakilerden hangisidir?|Akımı artırmak|Direnci azaltmak|Gerilimi yükseltmek|Aşırı akım geçince devreyi kesmek|3|Sigorta, aşırı akımda erir veya açar; devreyi korur.
 Aşağıdakilerden hangisi doğru bir elektrik güvenliği davranışıdır?|Onarımdan önce cihazın fişini çekmek|Çıplak kabloyu elle tutmak|Prize birçok cihazı birden takmak|Islak elle prize dokunmak|0|Cihaz bakımı veya onarımı öncesinde elektrik bağlantısı kesilmelidir.
 Topraklamanın amacı aşağıdakilerden hangisidir?|Akımı kesmek|Kaçak akımı yere ileterek kullanıcıyı korumak|Gerilimi iki katına çıkarmak|Cihazın gücünü artırmak|1|Topraklama, cihaz gövdesine kaçan akımı yere ileterek elektrik çarpmasını önler.
+Bir elektrik devresinde üretecin görevi aşağıdakilerden hangisidir?|Akımı durdurmak|Direnci artırmak|Devreye enerji (potansiyel farkı) sağlamak|Yükü yok etmek|2|Üreteç, yükleri hareket ettirecek potansiyel farkını sağlar.
+Direnci 20 Ω olan bir alıcının uçları arasındaki potansiyel farkı 40 V ise üzerinden geçen akım kaç A dır?|2|60|0,5|20|0|I = V/R = 40/20 = 2 A.
+2 Ω ve 4 Ω luk iki direnç seri bağlanarak 12 V luk üretece bağlanıyor. 2 Ω luk direncin uçları arasındaki potansiyel farkı kaç V tur?|8|4|12|6|1|Toplam direnç 6 Ω, akım 12/6 = 2 A; 2 Ω luk direncin gerilimi 2·2 = 4 V.
+Seri bağlı dirençlerde direnç sayısı artırılırsa toplam direnç nasıl değişir?|Artar|Azalır|Değişmez|Sıfır olur|0|Seri bağlamada toplam direnç dirençlerin toplamıdır; direnç eklenince artar.
+6 Ω luk iki özdeş direnç paralel bağlanırsa eş değer direnç kaç Ω olur?|3|6|12|36|0|Özdeş iki direnç paralelde R/2 verir: 6/2 = 3 Ω.
+12 V luk üretece 4 Ω ve 12 Ω luk iki direnç paralel bağlanmıştır. Üretecin verdiği toplam akım kaç A dir?|4|1|12|3|0|I₁ = 12/4 = 3 A ve I₂ = 12/12 = 1 A; toplam 4 A.
+İdeal bir ampermetrenin iç direnci için aşağıdakilerden hangisi doğrudur?|Çok küçüktür|Üretecin direncine eşittir|Sonsuzdur|Çok büyüktür|0|Ampermetre devreye seri bağlandığından akımı etkilememesi için iç direnci çok küçüktür.
+Elektrik yükü için aşağıdakilerden hangisi doğrudur?|Her zaman azalır|Her zaman artar|Yoktan var edilemez, yok edilemez (korunur)|Yalnızca iletkende korunur|2|Yük korunumu: Kapalı sistemde toplam elektrik yükü sabit kalır.
+Bir iletkenden 2 A akım geçerken 30 saniyede geçen yük kaç C dur?|60|15|32|0,07|0|q = I·t = 2·30 = 60 C.
+Bir iletken telin kesit alanı artırılırsa direnci nasıl değişir?|Azalır|Değişmez|Sıfır olur|Artar|0|R = ρ·ℓ/A bağıntısına göre direnç kesit alanıyla ters orantılıdır.
+Aynı maddeden yapılmış, uzunlukları eşit iki telden birinin kesit alanı diğerinin 2 katıdır. Kesit alanı büyük telin direnci küçük telin direncinin kaç katıdır?|1/4|2|4|1/2|3|R ∝ 1/A olduğundan kesit alanı 2 katı olan telin direnci yarısıdır.
+Bir telin uzunluğu ve kesit alanı iki katına çıkarılırsa (aynı madde) direnci nasıl değişir?|Değişmez|Yarıya düşer|2 katına çıkar|4 katına çıkar|0|R = ρ·ℓ/A de ℓ ve A aynı oranda arttığından R değişmez.
+Watt hangi birime eşdeğerdir?|J·s|N/m|V/A²|J/s|3|Güç enerjinin zamana oranıdır; 1 W = 1 J/s.
+220 V ile çalışan ve direnci 44 Ω olan bir ısıtıcının gücü kaç W tır?|220|5|1 100|9 680|2|P = V²/R = 220²/44 = 48 400/44 = 1 100 W.
+Gücü 60 W olan bir ampul 5 saat yanarsa harcadığı enerji kaç kWh olur?|0,3|0,12|3|12|0|E = 0,06 kW·5 h = 0,3 kWh.
+1 kWh kaç joule dür?|3,6·10⁶|3,6·10³|3 600|1 000|0|1 kWh = 1 000 W·3 600 s = 3,6·10⁶ J.
+Gücü 2 kW olan bir cihaz 3 saat çalışırsa kaç kWh enerji harcar?|0,67|6|5|1,5|1|E = P·t = 2·3 = 6 kWh.
+1 kWh enerjinin ücreti 3 TL ise gücü 1,5 kW olan ütü 2 saat çalıştırıldığında ödenecek ücret kaç TL dir?|3|6|4,5|9|3|E = 1,5·2 = 3 kWh ve ücret 3·3 = 9 TL.
+Kısa devre durumunda devreden geçen akım nasıl değişir?|Çok azalır|Sıfır olur|Değişmez|Çok artar|3|Direnç çok küçüldüğünden I = V/R aşırı artar; bu yüzden sigorta kullanılır.
+Evlerde cihazların birbirine paralel bağlanmasının nedeni nedir?|Enerji tasarrufu|Toplam direncin artması|Her cihazın aynı gerilimle (220 V) çalışması ve birbirinden bağımsız çalışabilmesi|Akımın sabit kalması|2|Paralel kollarda gerilim eşittir ve bir kol kesilirse diğerleri çalışmaya devam eder.

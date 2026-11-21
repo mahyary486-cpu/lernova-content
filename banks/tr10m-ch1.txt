@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 x² − 9 = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{−9, 9}|{9}|{−3, 3}|{3}|2|x² = 9 olduğundan x = 3 veya x = −3 tür.
 x² − 5x + 6 = 0 denkleminin köklerinin toplamı kaçtır?|6|5|1|−5|1|ax² + bx + c = 0 için kökler toplamı −b/a dır: −(−5)/1 = 5.
 x² − (m + 1)x + 12 = 0 denkleminin kökleri 3 ve 4 ise m kaçtır?|5|6|12|7|1|Kökler toplamı 3 + 4 = 7 = m + 1 olduğundan m = 6 dır.
@@ -29,3 +29,23 @@ f(x) = √(6 − 2x) fonksiyonunun tanım kümesi aşağıdakilerden hangisidir?
 f(x) = 1/(x − 2) fonksiyonu x'in hangi değeri için tanımsızdır?|0|1|−2|2|3|Payda sıfır olamaz: x − 2 = 0 için x = 2 de tanımsızdır.
 (x² − 9)/(x − 3) ifadesinin (x ≠ 3 için) sadeleşmiş biçimi aşağıdakilerden hangisidir?|x²|x + 9|x + 3|x − 3|2|x² − 9 = (x − 3)(x + 3) olduğundan sadeleştirme sonucu x + 3 tür.
 (x + 1)/(x − 2) ≥ 0 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−∞, −1] ∪ (2, ∞)|[−1, 2)|(−∞, −1) ∪ [2, ∞)|[−1, 2]|0|Pay ve paydanın işaretleri incelenir; x = −1 de ifade 0 dır (dahil), x = 2 de tanımsızdır (dahil değil).
+x² − 16 = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{4}|{16}|{−4, 4}|{−16, 16}|2|x² = 16 olduğundan x = ±4 tür.
+x² + x − 12 = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{4, −3}|{−3, −4}|{−4, 3}|{3, 4}|2|x² + x − 12 = (x + 4)(x − 3) olduğundan x = −4 veya x = 3.
+Kökleri x₁ ve x₂ olan bir denklemde x₁ + x₂ = 1 ve x₁·x₂ = −6 ise 1/x₁ + 1/x₂ kaçtır?|−6|1/6|−1/6|6|2|1/x₁ + 1/x₂ = (x₁ + x₂)/(x₁·x₂) = 1/(−6) = −1/6.
+x² − 5x = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{−5, 5}|{0, −5}|{5}|{0, 5}|3|x(x − 5) = 0 olduğundan x = 0 veya x = 5.
+x² − 6x + 8 = 0 denkleminin kökleri arasındaki fark (büyük kök − küçük kök) kaçtır?|4|8|2|6|2|x² − 6x + 8 = (x − 2)(x − 4) olduğundan kökler 2 ve 4 tür; fark 2 dir.
+x² − mx + 9 = 0 denkleminin farklı iki gerçek kökü olması için m için aşağıdakilerden hangisi doğrudur?|m > 6|m < 6|−6 < m < 6|m < −6 veya m > 6|3|Δ = m² − 36 > 0 olmalıdır; bu m < −6 veya m > 6 için sağlanır.
+f(x) = x² + 2 fonksiyonunun grafiğinin tepe noktası aşağıdakilerden hangisidir?|(0, 2)|(−2, 0)|(2, 0)|(0, −2)|0|f(x) = x² + 2 parabolünün tepe noktası x = 0 da, f(0) = 2 dir.
+f(x) = x² − 6x + 8 fonksiyonunun en küçük değeri kaçtır?|0|8|−8|−1|3|r = 3 ve f(3) = 9 − 18 + 8 = −1 dir.
+f(x) = −x² + 2x + 3 fonksiyonunun grafiği x eksenini hangi noktalarda keser?|(−1, 0) ve (3, 0)|(0, 3)|(1, 4)|(1, 0) ve (−3, 0)|0|−x² + 2x + 3 = 0 → x² − 2x − 3 = 0 → (x − 3)(x + 1) = 0 olduğundan x = 3 ve x = −1.
+f(x) = (x − 1)² fonksiyonunun grafiğinin tepe noktası aşağıdakilerden hangisidir?|(1, 1)|(−1, 0)|(0, 1)|(1, 0)|3|f(x) = a(x − r)² + k biçiminde r = 1, k = 0 dır.
+x² − 9 ≥ 0 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−3, 3)|(−∞, −3] ∪ [3, ∞)|[−3, 3]|(−∞, 3]|1|Kökler −3 ve 3 tür; parabol köklerin dışında ve köklerde sıfırdan büyük veya eşittir.
+x² − 2x − 8 < 0 eşitsizliğini sağlayan kaç tam sayı vardır?|6|4|5|3|2|Kökler −2 ve 4 tür; çözüm (−2, 4) olduğundan −1, 0, 1, 2, 3 olmak üzere 5 tam sayı vardır.
+√x = 4 denkleminin çözümü aşağıdakilerden hangisidir?|x = 4|x = 8|x = 2|x = 16|3|Her iki tarafın karesi alınır: x = 16.
+√(2x − 1) = 3 denkleminin çözümü aşağıdakilerden hangisidir?|x = 5|x = 10|x = 4|x = 2|0|Karesi alınınca 2x − 1 = 9 ve x = 5.
+x − √x − 2 = 0 denkleminin çözümü aşağıdakilerden hangisidir?|x = 2|x = 16|x = 1|x = 4|3|√x = u olsun: u² − u − 2 = 0 → u = 2 (u ≥ 0) ve x = 4.
+f(x) = √x fonksiyonunun tanım kümesi aşağıdakilerden hangisidir?|(0, ∞)|[0, ∞)|ℝ|(−∞, 0]|1|Kök içi negatif olamaz: x ≥ 0.
+f(x) = 1/(x + 3) fonksiyonunun tanım kümesi aşağıdakilerden hangisidir?|ℝ − {−3}|ℝ − {3}|ℝ − {0}|ℝ|0|Payda sıfır olamaz: x + 3 ≠ 0 → x ≠ −3.
+(x² − 4)/(x + 2) ifadesinin x = −3 için değeri kaçtır?|1|−5|−1|5|1|x² − 4 = (x − 2)(x + 2) olduğundan ifade x − 2 ye sadeleşir; x = −3 için −5.
+Parabolün simetri ekseni için aşağıdakilerden hangisi doğrudur?|x = r doğrusudur|y eksenidir|y = r doğrusudur|x eksenidir|0|Karesel fonksiyonun grafiğinin simetri ekseni tepe noktasından geçen x = r doğrusudur.
+f(x) = x² − 4x + k fonksiyonunun grafiği x eksenine teğet ise k kaçtır?|16|8|2|4|3|Teğet için Δ = 0: 16 − 4k = 0 ve k = 4.

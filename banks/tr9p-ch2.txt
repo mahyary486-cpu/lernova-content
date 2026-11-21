@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Sıcaklık hangi aletle ölçülür?|Barometre|Termometre|Kronometre|Dinamometre|1|Sıcaklığı ölçmek için termometre kullanılır.
 Aşağıdakilerden hangisi doğrudur?|Isı termometreyle ölçülür|Isının SI birimi kelvindir|Sıcaklık bir enerji türüdür|Isı, sıcaklık farkı nedeniyle aktarılan enerjidir|3|Isı, sıcaklıkları farklı cisimler arasında aktarılan enerjidir; sıcaklık ise ortalama kinetik enerjinin ölçüsüdür.
 Aynı sıcaklıktaki iki kaptan birinde 1 kg, diğerinde 2 kg su vardır. Aşağıdakilerden hangisi doğrudur?|2 kg suyun sıcaklığı daha yüksektir|1 kg suyun sıcaklığı daha yüksektir|Sıcaklıkları eşittir, 2 kg suyun iç enerjisi daha büyüktür|İç enerjileri eşittir|2|Sıcaklık ortalama kinetik enerjiyle ilgilidir; iç enerji ise toplam enerjidir ve madde miktarıyla artar.
@@ -29,3 +29,23 @@ Aşağıdakilerden hangisi ısı yalıtımına örnektir?|Binalara mantolama yap
 İç enerji nedir?|Maddenin hacmi|Maddenin sıcaklığı|Madde taneciklerinin kinetik ve potansiyel enerjilerinin toplamı|Maddenin kütlesi|2|İç enerji, maddeyi oluşturan tanecikler arasındaki kinetik ve potansiyel enerjilerin toplamıdır.
 Bir maddenin sıcaklığı artırılırsa tanecikleri ortalama kinetik enerjisi ne olur?|Sıfır olur|Azalır|Artar|Değişmez|2|Sıcaklık, taneciklerin ortalama kinetik enerjisinin ölçüsüdür; sıcaklık artarsa ortalama kinetik enerji artar.
 Sıcaklıkları farklı iki cisim birbirine temas ettirilirse yeterince beklendiğinde ne olur?|Sıcaklıkları eşitlenir|Kütleleri eşitlenir|Isıları eşitlenir|İç enerjileri eşitlenir|0|Isıl dengeye ulaşıldığında cisimlerin sıcaklıkları eşit olur.
+Isı alışverişi sona erdiğinde cisimlerin içinde bulunduğu duruma ne ad verilir?|Isıl denge|Hâl değişimi|Süblimleşme|Yoğuşma|0|Sıcaklıklar eşitlenince ısı akışı durur ve ısıl denge kurulur.
+Aynı maddeden 100 g ve 200 g kütleli iki cisim aynı ısıtıcıyla eşit süre ısıtılırsa hangisi daha çok ısınır?|100 g olan|İkisi eşit|200 g olan|Hiçbiri ısınmaz|0|ΔT = Q/(m·c) olduğundan eşit ısıda kütlesi küçük olan daha çok ısınır.
+Kütlesi 1 kg, özısısı 2 000 J/kg·°C olan cisme 40 kJ ısı verilirse sıcaklığı kaç °C artar?|40|80|20|10|2|ΔT = Q/(m·c) = 40 000/(1·2 000) = 20 °C.
+Kaynama sırasında saf bir sıvının sıcaklığı nasıl değişir?|Önce artar sonra azalır|Artar|Azalır|Sabit kalır|3|Hâl değişimi sırasında verilen ısı sıcaklığı değil, hâli değiştirir; sıcaklık sabittir.
+Erime ısısının SI birimi aşağıdakilerden hangisidir?|J/kg|N|J|W|0|L = Q/m olduğundan birimi J/kg dır.
+0 °C deki 0,2 kg buzun tamamı eriyene kadar 33,4 kJ ısı verildiğinde kaç gram buz erimiştir? (L = 334 kJ/kg)|50|200|334|100|3|m = Q/L = 33,4/334 = 0,1 kg = 100 g.
+Konveksiyon (taşınım) hangi maddelerde görülür?|Yalnızca boşlukta|Yalnızca katılarda|Akışkanlarda (sıvı ve gaz)|Yalnızca metallerde|2|Konveksiyon, akışkanların hareketiyle ısı taşınmasıdır.
+Işıma yoluyla ısı aktarımı için maddesel ortam gerekir mi?|Evet, mutlaka sıvı gerekir|Hayır, boşlukta da olur|Evet, mutlaka gaz gerekir|Evet, mutlaka katı gerekir|1|Işıma elektromanyetik dalgalarla olur; maddesel ortam gerekmez.
+Bakır, cam ve havanın ısı iletkenlikleri için aşağıdaki sıralamalardan hangisi doğrudur?|Bakır > cam > hava|Bakır > hava > cam|Hava > cam > bakır|Cam > bakır > hava|0|Metaller ısıyı en iyi, gazlar en kötü iletir.
+Termos şişesi ne amaçla kullanılır?|Sıvıyı hızla soğutmak için|Sıvıyı hızla ısıtmak için|Sıvıyı buharlaştırmak için|İçindeki sıvının sıcaklığını uzun süre korumak için|3|Termos ısı yalıtımı sağlayarak sıcaklık korunmasına yardımcı olur.
+Metal bir çubuk ahşaptan daha soğuk hissedilir. Bunun nedeni nedir?|Metal ısıyı hiç iletmez|Ahşap ısı üretir|Metal elden ısıyı daha hızlı iletir|Metalin sıcaklığı daha düşüktür|2|Aynı ortam sıcaklığında metal elden ısıyı daha hızlı çeker, bu yüzden soğuk hissedilir.
+Özısıları ve kütleleri eşit olan, 80 °C deki A ve 20 °C deki B cisimleri temas ettirilip ısıl dengeye ulaşıyor. Denge sıcaklığı kaç °C dir?|40|50|100|60|1|Kütle ve özısı eşit olduğundan denge sıcaklığı ortalamadır: (80 + 20)/2 = 50 °C.
+Mutlak sıfır noktası kaç °C dir?|−100|−273|0|100|1|0 K (mutlak sıfır) = −273 °C dir.
+27 °C kaç kelvindir?|300|246|273|27|0|T(K) = 27 + 273 = 300 K.
+−23 °C kaç kelvindir?|23|250|273|296|1|T(K) = −23 + 273 = 250 K.
+Isı miktarını simgeleyen harf aşağıdakilerden hangisidir?|Q|L|T|m|0|Isı miktarı Q ile gösterilir.
+Su buharı yoğuşurken ortamla ısı alışverişi nasıl olur?|Ortamdan ısı alır|Ortama ısı verir|Isı alışverişi olmaz|Önce alır sonra verir|1|Yoğuşma sırasında madde ortama ısı verir.
+Kütlesi 3 kg, özısısı 500 J/kg·°C olan cismin sıcaklığı 10 °C den 30 °C ye çıkarılırsa gereken ısı kaç kJ dür?|30|60|15|45|0|ΔT = 20 °C; Q = 3·500·20 = 30 000 J = 30 kJ.
+Sıcak çaya batırılan metal kaşığın sapının ısınması hangi aktarım türüne örnektir?|Süblimleşme|İletim|Konveksiyon|Işıma|1|Katı kaşıkta ısı komşu taneciklere iletilir.
+Odadaki radyatörün üstünden sıcak havanın yükselmesi hangi ısı aktarım türüyle ilgilidir?|Erime|İletim|Konveksiyon|Işıma|2|Isınan hava yükselir, soğuk hava iner; ısı akışkanın hareketiyle taşınır.

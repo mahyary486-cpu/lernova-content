@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 2⁵ kaçtır?|64|10|25|32|3|2⁵ = 2·2·2·2·2 = 32 olur.
 (2³ · 2⁴) / 2⁵ işleminin sonucu kaçtır?|2|16|8|4|3|Üsler önce toplanır, sonra çıkarılır: 2³⁺⁴⁻⁵ = 2² = 4.
 2ˣ + 2ˣ⁺¹ = 48 ise x kaçtır?|5|3|4|6|2|2ˣ⁺¹ = 2·2ˣ olduğundan 3·2ˣ = 48 ve 2ˣ = 16 bulunur.
@@ -29,3 +29,23 @@ A = (−2, 3] ve B = [0, 5) ise A ∪ B kümesi aşağıdakilerden hangisidir?|(
 10³ · 10² işleminin sonucu aşağıdakilerden hangisidir?|10¹|10⁵|100⁵|10⁶|1|Aynı tabanlı çarpmada üsler toplanır: 3 + 2 = 5.
 3,2·10⁴ sayısı aşağıdakilerden hangisidir?|0,32|3 200|32 000|320 000|2|10⁴ ile çarpmak virgülü 4 basamak sağa kaydırır.
 0,00045 sayısının bilimsel gösterimi aşağıdakilerden hangisidir?|4,5·10⁻⁴|4,5·10⁻³|4,5·10³|4,5·10⁻⁵|0|Virgül ilk sıfırdan farklı rakamın sağına 4 basamak kaydırılır, bu yüzden üs −4 olur.
+3⁴ kaçtır?|27|64|81|12|2|3⁴ = 3·3·3·3 = 81 dir.
+(3²)³ ifadesi aşağıdakilerden hangisine eşittir?|3⁶|9⁵|3⁵|3⁸|0|Üssün üssünde üsler çarpılır: (3²)³ = 3²·³ = 3⁶.
+5ˣ⁺² − 5ˣ = 120 ise x kaçtır?|2|1|3|0|1|5ˣ⁺² = 25·5ˣ olduğundan 24·5ˣ = 120 ve 5ˣ = 5, x = 1.
+√81 işleminin sonucu kaçtır?|7|8|81|9|3|9·9 = 81 olduğundan √81 = 9.
+√18 + √50 işleminin sonucu aşağıdakilerden hangisidir?|6√2|8√2|7√2|√68|1|√18 = 3√2 ve √50 = 5√2 olduğundan toplam 8√2 dir.
+√(3 + 2√2) ifadesi aşağıdakilerden hangisine eşittir?|1 + √2|√3 + √2|2 + √2|1 + 2√2|0|(1 + √2)² = 1 + 2√2 + 2 = 3 + 2√2 olduğundan kök 1 + √2 dir.
+2⁻² ifadesinin değeri kaçtır?|−4|4|1/4|−1/4|2|a⁻ⁿ = 1/aⁿ olduğundan 2⁻² = 1/4.
+0,666… devirli ondalık sayısı hangi kesre eşittir?|1/6|2/3|66/100|3/5|1|x = 0,666… için 10x − x = 6 ve x = 6/9 = 2/3.
+0,2333… sayısı hangi kesre eşittir?|21/99|23/99|2/9|7/30|3|100x − 10x = 23,33… − 2,33… = 21 olduğundan x = 21/90 = 7/30.
+Tam sayılar kümesi hangi sembolle gösterilir?|ℕ|ℝ|ℚ|ℤ|3|Tam sayılar kümesinin sembolü ℤ dir.
+[−3, 2] aralığında kaç tam sayı vardır?|7|5|4|6|3|Uçlar dahildir: −3, −2, −1, 0, 1, 2 olmak üzere 6 tam sayı vardır.
+A = (−∞, 3) ve B = [1, 5] ise A ∩ B aşağıdakilerden hangisidir?|(1, 3)|[1, 3]|[3, 5)|[1, 3)|3|Ortak elemanlar 1 den büyük veya eşit ve 3 ten küçük sayılardır.
+x ≥ 4 eşitsizliğinin aralık gösterimi aşağıdakilerden hangisidir?|(−∞, 4)|(−∞, 4]|[4, ∞)|(4, ∞)|2|4 dahil olduğundan kapalı uç, ∞ için açık uç kullanılır.
+A = [0, 4) ve B = (2, 6) ise A ∪ B aşağıdakilerden hangisidir?|[0, 6)|(2, 4)|[0, 6]|(0, 6)|0|İki aralık (2, 4) arasında çakıştığından birleşim 0 dan 6 ya kesintisizdir; 0 dahil, 6 dahil değildir.
+A = (−1, 5] ve B = (−∞, 2) ise A − B (A'da olup B'de olmayan elemanlar) aşağıdakilerden hangisidir?|(−1, 2)|[2, 5]|(2, 5]|[2, 5)|1|A'nın elemanları içinde x ≥ 2 olanlar kalır: [2, 5].
+√9 · √4 işleminin sonucu kaçtır?|6|36|5|13|0|√9 = 3, √4 = 2 olduğundan çarpım 6 dır.
+2√3 · 3√3 işleminin sonucu kaçtır?|6√3|18|5√3|12|1|Katsayılar çarpılır, kökler çarpılır: 2·3·√3·√3 = 6·3 = 18.
+2⁴ · 4³ · 8² = 2ⁿ ise n kaçtır?|24|16|12|14|1|4³ = 2⁶ ve 8² = 2⁶ olduğundan 2⁴·2⁶·2⁶ = 2¹⁶.
+5·10³ sayısı aşağıdakilerden hangisidir?|500|5 000|0,005|50 000|1|10³ = 1000 olduğundan 5·1000 = 5000.
+6,5·10⁻³ sayısı aşağıdakilerden hangisidir?|0,00065|6 500|0,065|0,0065|3|Negatif üs virgülü sola kaydırır: 3 basamak sola → 0,0065.

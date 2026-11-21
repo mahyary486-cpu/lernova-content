@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Fotosentezin genel denklemi aşağıdakilerden hangisidir?|C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂|6O₂ + 6H₂O → C₆H₁₂O₆ + 6CO₂|6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂|C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O|2|Fotosentezde karbondioksit ve su, ışık enerjisiyle glikoz ve oksijene dönüşür.
 Fotosentezin ışığa bağımlı tepkimeleri kloroplastın neresinde gerçekleşir?|Stromada|Sitoplazmada|Dış zarda|Tilakoit zarlarında|3|Işığa bağımlı tepkimeler grana oluşturan tilakoit zarlarında gerçekleşir.
 Fotosentezde açığa çıkan oksijen hangi maddeden gelir?|Klorofilden|Glikozdan|Sudan|Karbondioksitten|2|Işığa bağımlı tepkimelerde su parçalanır ve oksijen açığa çıkar.
@@ -29,3 +29,23 @@ Bir alanda 10 km² de 200 birey yaşıyorsa popülasyon yoğunluğu kaç birey/k
 Fotosentezde karbondioksitin şekere dönüştürüldüğü ışıktan bağımsız evre hangi adla bilinir?|Krebs döngüsü|Glikoliz|Fotoliz|Calvin döngüsü|3|Calvin döngüsünde ATP ve NADPH kullanılarak CO₂ glikoza dönüştürülür.
 Birden fazla besin zincirinin birbirine bağlanmasıyla oluşan yapıya ne ad verilir?|Popülasyon|Niş|Enerji piramidi|Besin ağı|3|Ekosistemde canlılar birden çok canlıyla beslendiğinden zincirler birbirine bağlanır ve besin ağı oluşur.
 Yeryüzünde canlıların yaşadığı tüm alanların oluşturduğu bütüne ne ad verilir?|Komünite|Habitat|Ekosistem|Biyosfer|3|Biyosfer, canlıların bulunduğu tüm ekosistemleri kapsayan en geniş organizasyon düzeyidir.
+Klorofil kloroplastın hangi kısmında bulunur?|Sitoplazmada|Stromada|Dış zarda|Tilakoit zarlarında|3|Klorofil ışığı tilakoit zarlarındaki fotosistemlerde soğurur.
+Fotolizde (suyun ışıkla parçalanmasında) hangi gaz açığa çıkar?|Hidrojen|Karbondioksit|Oksijen|Azot|2|Suyun parçalanmasıyla oksijen gazı serbest kalır.
+Calvin döngüsünde karbondioksitin glikoza dönüşmesi için hangi maddeler kullanılır?|ATP ve NADPH|Yalnızca ışık|O₂ ve su|Yalnızca su|0|Işığa bağımlı evrede üretilen ATP ve NADPH, CO₂ yi glikoza indirgemek için kullanılır.
+Yapraklarda gaz alışverişi hangi yapılarla gerçekleşir?|Kökler|Stomalar|Kütikül|Odun boruları|1|Stomalar yaprağın alt yüzeyindeki gözeneklerdir; CO₂ ve O₂ geçişini sağlar.
+Belirli bir sınıra kadar fotosentez hızını artıran faktörlerden biri aşağıdakilerden hangisidir?|Ortamdaki azot oranı|Karbondioksit derişimi|Işığın tamamen kesilmesi|Yaprak sayısının azalması|1|CO₂ derişimi arttıkça fotosentez hızı artar; sonra sabitlenir.
+Aşırı yüksek sıcaklıkta fotosentez hızı neden azalır?|Işığın fazla olması nedeniyle|CO₂ nin artması nedeniyle|Enzimlerin yapısı bozulduğu için|Suyun azalması nedeniyle|2|Yüksek sıcaklıkta fotosentez enzimleri denatüre olur ve hız düşer.
+Fotosentezde açığa çıkan oksijenin kaynağı aşağıdakilerden hangisidir?|Klorofil|Karbondioksit|Glikoz|Su|3|Oksijen, suyun parçalanmasından gelir.
+Fotosentez hızı hangi renkli ışıkta en düşüktür?|Yeşil ışık|Kırmızı ışık|Mavi ışık|Mor ışık|0|Klorofil yeşil ışığı büyük ölçüde yansıttığı için bu ışıkta fotosentez en düşüktür.
+Işık şiddeti artırıldığında fotosentez hızı bir noktadan sonra sabitleniyorsa grafikteki bu bölge neyi gösterir?|Fotosentezin durduğunu|Işığın etkisiz olduğunu|Bitkinin öldüğünü|Başka faktörün (ör. CO₂, sıcaklık) sınırlayıcı olduğunu|3|Plato bölgesinde ışık yeterlidir; hızı başka bir faktör sınırlar.
+Ekosistemde üretici canlılar hangileridir?|Otçullar|Etçiller|Fotosentez yapan bitki ve algler|Ayrıştırıcılar|2|Üreticiler, ışık enerjisini kullanarak organik besin yapar.
+Bir besin zincirinde birinci halkada hangi canlılar bulunur?|Otçullar|Ayrıştırıcılar|Üreticiler|Etçil tüketiciler|2|Besin zinciri üreticilerle başlar.
+Bir besin ağında bir türün yok olması diğer türleri nasıl etkiler?|Hiç etkilemez|Besin ilişkileri bozulur, diğer türlerin sayısı değişebilir|Yalnızca ayrıştırıcıları etkiler|Yalnızca üreticileri etkiler|1|Besin ağında türler birbirine bağlı olduğundan bir türün kaybı zincir etkisi yaratır.
+Bir ekosistemde yalnızca ölü organik maddeleri ayrıştırarak beslenen canlılara ne ad verilir?|Etçiller|Ayrıştırıcılar|Otçullar|Üreticiler|1|Ayrıştırıcılar (çürükçüller) ölü organik maddeleri parçalayarak beslenir.
+Bir canlının ekosistemdeki yeri ve rolüne ne ad verilir?|Biyosfer|Niş|Popülasyon|Habitat|1|Niş, canlının beslenme, üreme ve diğer canlılarla ilişkilerinin tümüdür.
+Aynı nişi paylaşan iki tür arasındaki yarışma ne sonuç doğurabilir?|Her iki türün de artması|Birinin ortamdan uzaklaşması veya azalması|İki türün birleşmesi|Hiçbir değişiklik olmaması|1|Aynı kaynağı kullanan türler arasında rekabet olur; zayıf tür azalabilir.
+Alg ve mantarın birlikte yaşayarak likeni oluşturması hangi ilişkiye örnektir?|Mutualizm|Avcılık|Rekabet|Parazitlik|0|İki tür de ilişkiden yararlandığı için mutualizmdir.
+Bir canlının diğerinden zarar vererek yararlanması hangi ilişki türüdür?|Simbiyoz (karşılıklı yarar)|Mutualizm|Parazitlik|Kommensalizm|2|Parazit konağa zarar verirken kendi yararlanır.
+Baklagil köklerindeki azot bağlayıcı bakterilerin işlevi aşağıdakilerden hangisidir?|Atmosferdeki azotu bitkinin kullanabileceği hâle getirmek|Fotosentez yapmak|Suyu parçalamak|CO₂ üretmek|0|Azot bağlayıcı bakteriler N₂ yi amonyağa dönüştürür.
+Hücresel solunum ve yanma karbon döngüsünde atmosfere hangi gazı verir?|Oksijen|Karbondioksit|Hidrojen|Azot|1|Solunum ve yanma sonucunda organik madde yıkılır ve CO₂ atmosfere geri verilir.
+Yağış, buharlaşma ve terleme hangi madde döngüsünün parçalarıdır?|Karbon döngüsü|Azot döngüsü|Fosfor döngüsü|Su döngüsü|3|Suyun atmosfer, kara ve canlılar arasındaki dolaşımı su döngüsüdür.

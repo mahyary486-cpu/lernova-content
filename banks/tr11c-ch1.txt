@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Çevresine ısı veren tepkimelere ne ad verilir?|Ekzotermik tepkime|Nötrleşme|Çözünme|Endotermik tepkime|0|Isı açığa çıkaran tepkimelere ekzotermik (ısıveren) tepkime denir.
 Bir tepkimenin entalpi değişimi ΔH < 0 ise tepkime için aşağıdakilerden hangisi doğrudur?|Isı alır|Endotermiktir|Ekzotermiktir|Hiç ısı alışverişi yoktur|2|ΔH negatifse sistem ısı vermiştir; tepkime ekzotermiktir.
 N₂ + 3H₂ → 2NH₃ tepkimesinin ΔH değeri −92 kJ dür. 1 mol NH₃ oluşurken kaç kJ ısı açığa çıkar?|46|92|184|23|0|2 mol NH₃ oluşurken 92 kJ ısı açığa çıkıyorsa 1 mol için 46 kJ açığa çıkar.
@@ -29,3 +29,23 @@ Canlı hücrelerde tepkimeleri hızlandıran biyolojik katalizörlere ne ad veri
 Katalizör için aşağıdakilerden hangisi doğrudur?|Ürünleri değiştirir|ΔH değerini düşürür|ΔH değerini artırır|Tepkimenin ΔH değerini değiştirmez|3|Katalizör yalnızca aktifleşme enerjisini düşürür; tepkime entalpisi aynı kalır.
 Isı alan (endotermik) bir tepkimede ΔH işareti nasıldır?|Belirsizdir|Sıfırdır|Pozitiftir|Negatiftir|2|Endotermik tepkimede sistem ısı aldığından ürünlerin entalpisi girenlerden büyüktür ve ΔH > 0 dır.
 Aşağıdakilerden hangisi tepkimenin aktifleşme enerjisini değiştirir?|Temas yüzeyi|Sıcaklık|Katalizör|Derişim|2|Katalizör tepkimeyi farklı bir yoldan yürütür ve aktifleşme enerjisini düşürür; diğer etkenler Ea değerini değiştirmez.
+Entalpi hangi sembolle gösterilir?|H|G|E|S|0|Entalpi H harfiyle gösterilir; değişimi ΔH dir.
+Su buharının yoğuşması için aşağıdakilerden hangisi doğrudur?|Ekzotermiktir|Isı alışverişi olmaz|Endotermiktir|ΔH pozitiftir|0|Yoğuşmada madde ortama ısı verir; ekzotermiktir.
+CH₄ + 2O₂ → CO₂ + 2H₂O tepkimesinde 1 mol CH₄ yanınca 890 kJ ısı açığa çıkmaktadır. 2 mol CH₄ yanınca açığa çıkan ısı kaç kJ dür?|445|3 560|890|1 780|3|2 mol CH₄ için ısı iki katıdır: 2·890 = 1 780 kJ.
+C + O₂ → CO₂ (ΔH = −394 kJ) ve CO + ½O₂ → CO₂ (ΔH = −283 kJ) tepkimelerine göre C + ½O₂ → CO tepkimesinin ΔH değeri kaç kJ dür?|−677|−394|−111|+111|2|Hess yasası: birinci tepkimeden ikincisi çıkarılır: −394 − (−283) = −111 kJ.
+H₂ + ½O₂ → H₂O(s) tepkimesinde H₂O(s) nun standart oluşum entalpisi −286 kJ/mol dür. Bu tepkimenin ΔH değeri kaç kJ dür?|−572|−286|+286|0|1|ΔH = ΣΔHf(ürün) − ΣΔHf(giren) = −286 − 0 = −286 kJ.
+H₂ + ½O₂ → H₂O(s) tepkimesinin ΔH değeri −286 kJ dür. 2H₂O(s) → 2H₂ + O₂ tepkimesinin ΔH değeri kaç kJ dür?|+572|+286|−572|−286|0|Tepkime ters çevrilince işaret değişir (+286) ve katsayılar 2 ile çarpılınca ΔH de 2 katına çıkar: +572.
+Derişim artırıldığında tepkime hızının artmasının nedeni aşağıdakilerden hangisidir?|Katalizör oluşması|Birim hacimdeki çarpışma sayısının artması|Aktifleşme enerjisinin azalması|ΔH nin değişmesi|1|Derişim arttıkça birim hacimdeki tanecik sayısı artar ve çarpışma sayısı yükselir.
+Hız bağıntısı r = k[A] olan tepkimede [A] üç katına çıkarılırsa hız kaç katına çıkar?|1/3|6|3|9|2|r = k·(3[A]) = 3·k[A] olduğundan hız 3 katına çıkar.
+r = k[A][B]² olan tepkimede [A] ve [B] derişimleri ikişer katına çıkarılırsa hız kaç katına çıkar?|4|6|8|16|2|r' = k·(2[A])·(2[B])² = 2·4·k[A][B]² = 8r.
+Katalizör tepkimenin hangi niceliğini değiştirmez?|ΔH değerini|Hızını|Aktifleşme enerjisini|Ulaşılan dengeye varma süresini|0|Katalizör aktifleşme enerjisini düşürerek hızı artırır; tepkime entalpisi ΔH değişmez.
+Aktifleşme enerjisi büyük olan tepkime için aşağıdakilerden hangisi doğrudur?|Genellikle yavaştır|Genellikle hızlıdır|Ekzotermiktir|Endotermiktir|0|Ea büyükse etkin çarpışma yapan tanecik oranı düşük olur; tepkime yavaştır.
+A + 2B → C tepkimesinde B nin harcanma hızı 0,6 mol/L·s ise A nın harcanma hızı kaç mol/L·s dir?|0,3|0,6|0,2|1,2|0|A ile B nin mol oranı 1 : 2 olduğundan A, B nin yarısı hızla harcanır: 0,3.
+Sıcaklık artırıldığında aktifleşme enerjisi nasıl değişir?|Artar|Azalır|Sıfır olur|Değişmez|3|Sıcaklık Ea yı değiştirmez; yalnızca enerjisi Ea yı aşan tanecik sayısını artırır.
+Sıcaklık artınca hız sabiti k nasıl değişir?|Azalır|Sıfır olur|Değişmez|Artar|3|Sıcaklık arttıkça k artar ve tepkime hızlanır.
+Birim hacimdeki tanecik sayısı arttıkça tepkime hızının artmasının nedeni nedir?|Ea nın azalması|Çarpışma sayısının artması|ΔH nin artması|Katalizör oluşması|1|Daha çok tanecik daha sık çarpışma yapar.
+Toz çinkonun hidroklorik asitle tepkimesi parça çinkoya göre neden daha hızlıdır?|Temas yüzeyi daha büyüktür|Ea daha büyüktür|ΔH daha büyüktür|Çinko daha ağırdır|0|Toz hâlde yüzey alanı arttığı için çarpışma sayısı artar.
+Çok basamaklı bir tepkimede hızı belirleyen basamak aşağıdakilerden hangisidir?|En hızlı basamak|Son basamak|İlk basamak|En yavaş basamak|3|Toplam hızı en yavaş basamak belirler (darboğaz).
+Tepkimenin hız bağıntısı nasıl bulunur?|Deneylerle|Yalnızca denklem katsayılarından|Sıcaklıktan|ΔH den|0|Hız bağıntısı ve tepkime mertebeleri deneysel olarak belirlenir.
+Enzimlerin aktivitesi için aşağıdakilerden hangisi doğrudur?|Sıcaklıktan etkilenmez|Sıcaklık arttıkça sürekli artar|Optimum sıcaklık ve pH değerlerinde en yüksektir|pH dan etkilenmez|2|Enzimlerin etkinliği optimum koşullarda en yüksektir; fazla ısıtma yapılarını bozar.
+Tepkime ilerledikçe girenlerin derişimi azaldığı için hız genellikle nasıl değişir?|Değişmez|Sıfırdan başlar|Artar|Azalır|3|Girenlerin derişimi düştükçe çarpışma sayısı azalır ve hız yavaşlar.

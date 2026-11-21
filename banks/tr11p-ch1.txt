@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Etki–tepki kuvvet çifti için aşağıdakilerden hangisi doğrudur?|Aynı büyüklükte, zıt yönlü ve farklı cisimlere etki ederler|Aynı cisme etki ederler ve birbirini dengeler|Aynı yönlüdürler|Büyüklükleri farklıdır|0|Newton'un üçüncü yasasına göre etki ve tepki eşit büyüklükte, zıt yönlüdür ve farklı cisimlere uygulanır.
 Kütlesi 5 kg olan cisme yatay doğrultuda 30 N kuvvet uygulanıyor ve cisme 10 N sürtünme kuvveti etki ediyor. Cismin ivmesi kaç m/s² dir?|6|2|8|4|3|Net kuvvet 30 − 10 = 20 N dur; a = F_net/m = 20/5 = 4 m/s².
 60 kg kütleli bir kişi, yukarı doğru 2 m/s² ivmeyle hızlanan asansörde duruyor. Asansör zemininin kişiye uyguladığı tepki kuvveti kaç N dur? (g = 10 m/s²)|120|720|480|600|1|N − mg = ma olduğundan N = m(g + a) = 60·12 = 720 N.
@@ -29,3 +29,23 @@ Kinetik sürtünme kuvveti için aşağıdakilerden hangisi doğrudur?|Yüzey al
 Hava direnci kuvveti, düşen cismin hızı arttıkça nasıl değişir?|Artar|Sıfır olur|Azalır|Değişmez|0|Hız arttıkça cismin hava ile etkileşimi artar; direnç kuvveti büyür.
 Kütlesi 1 000 kg olan bir araç 20 m/s sabit süratle yarıçapı 50 m olan bir virajı dönüyor. Gereken merkezcil kuvvet kaç N dur?|400|8 000|20 000|4 000|1|F = m·v²/r = 1000·400/50 = 8 000 N.
 Kütle sabitken cisme etki eden net kuvvet iki katına çıkarılırsa ivme nasıl değişir?|Dört katına çıkar|Yarıya düşer|Değişmez|İki katına çıkar|3|F = m·a olduğundan kütle sabitken ivme net kuvvetle doğru orantılıdır.
+1 newton aşağıdakilerden hangisine eşittir?|1 kg·m/s²|1 kg·m²|1 kg·m/s|1 kg/m|0|F = m·a olduğundan 1 N = 1 kg·m/s² dir.
+Kütlesi 3 kg olan cisme etki eden net kuvvet 12 N ise ivmesi kaç m/s² dir?|9|4|0,25|36|1|a = F/m = 12/3 = 4 m/s².
+Sürtünmesiz, eğim açısı 37° olan eğik düzlemde serbest bırakılan cismin ivmesi kaç m/s² dir? (g = 10 m/s², sin37° = 0,6)|6|4|10|8|0|a = g·sin37° = 10·0,6 = 6 m/s².
+Statik sürtünme kuvveti hangi durumda söz konusudur?|Yalnızca havada|Cisim kayarken|Cisim henüz hareket etmeden önce, hareket etme eğilimi varken|Cisim dururken hiçbir zaman|2|Statik sürtünme, cisim hareketsizken uygulanan kuvvete karşı oluşur.
+Kinetik sürtünme katsayısı 0,5 olan yatay zeminde kayan 4 kg lık cisme etki eden sürtünme kuvveti kaç N dur? (g = 10 m/s²)|40|5|20|2|2|f = μ·N = 0,5·4·10 = 20 N.
+5 kg kütleli cisme yatay 40 N kuvvet uygulanıyor. Kinetik sürtünme katsayısı 0,4 ise cismin ivmesi kaç m/s² dir? (g = 10 m/s²)|8|6|4|2|2|f = 0,4·50 = 20 N; a = (40 − 20)/5 = 4 m/s².
+Hava direnci kuvveti için aşağıdakilerden hangisi doğrudur?|Hız arttıkça azalır|Her zaman sıfırdır|Cismin hızı arttıkça artar|Hızdan bağımsızdır|2|Hava direnci hızla birlikte artar.
+Limit hızda düşen 70 kg kütleli bir paraşütçüye etki eden hava direnci kaç N dur? (g = 10 m/s²)|70|7 000|700|7|2|Limit hızda direnç = ağırlık = 70·10 = 700 N.
+Paraşüt açıldığında limit hızın küçülmesinin nedeni nedir?|Ağırlığın artması|Hava direncinin yüzey alanıyla artması|Kütlenin azalması|Yer çekiminin azalması|1|Daha büyük yüzey daha büyük direnç doğurur; direnç ağırlığa daha küçük hızda eşitlenir.
+Merkezcil kuvvetin SI birimi aşağıdakilerden hangisidir?|Watt|m/s²|Joule|Newton|3|Merkezcil kuvvet bir kuvvettir; birimi newton dur.
+Periyodu 4 s olan çembersel hareketin frekansı kaç Hz dir?|0,5|2|0,25|4|2|f = 1/T = 1/4 = 0,25 Hz.
+Periyodu 2π s olan çembersel hareketin açısal hızı kaç rad/s dir?|2π|π|1|2|2|ω = 2π/T = 2π/2π = 1 rad/s.
+Düzgün çembersel hareket yapan bir cismin yörünge hızı için aşağıdakilerden hangisi doğrudur?|Büyüklüğü sabit, yönü değişir|Yönü sabit, büyüklüğü değişir|Hem büyüklüğü hem yönü sabittir|Sıfırdır|0|Süratin büyüklüğü sabit kalırken yönü sürekli değişir.
+Yarıçapı 2 m olan çemberde 6 m/s hızla dönen cismin merkezcil ivmesi kaç m/s² dir?|3|12|18|36|2|a = v²/r = 36/2 = 18 m/s².
+Kütlesi 1 000 kg olan araç 20 m/s hızla yarıçapı 100 m olan virajı dönüyor. Virajı dönmesini sağlayan sürtünme kuvveti kaç N dur?|4 000|400|2 000|8 000|0|F = m·v²/r = 1000·400/100 = 4 000 N.
+Newton'un birinci yasasına göre net kuvvet sıfır olan bir cisim için aşağıdakilerden hangisi doğrudur?|Durur veya sabit hızla gider|Mutlaka durur|Sürekli hızlanır|Yön değiştirir|0|Net kuvvet sıfırsa ivme sıfırdır; hız değişmez.
+Asansör sabit hızla yukarı çıkarken içindeki kişiye zeminin uyguladığı tepki kuvveti nasıldır?|Ağırlıktan büyüktür|Ağırlıktan küçüktür|Kişinin ağırlığına eşittir|Sıfırdır|2|Sabit hızda ivme sıfırdır; N = m·g.
+50 kg kütleli bir kişi aşağı doğru 2 m/s² ivmeyle hızlanan asansördedir. Zeminin kişiye uyguladığı tepki kuvveti kaç N dur? (g = 10 m/s²)|100|500|600|400|3|m·g − N = m·a → N = m(g − a) = 50·8 = 400 N.
+Kütlesi 2 kg olan cismin ağırlığı kaç N dur? (g = 10 m/s²)|2|20|0,2|5|1|G = m·g = 2·10 = 20 N.
+Sürtünmesiz makaradan geçen ipin iki ucuna 1 kg ve 3 kg lık cisimler bağlıdır. Sistemin ivmesi kaç m/s² dir? (g = 10 m/s²)|2|20|10|5|3|a = (m₂ − m₁)g/(m₁ + m₂) = 2·10/4 = 5 m/s².

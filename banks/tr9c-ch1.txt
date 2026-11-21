@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Atomun çekirdeğinde bulunan yüksüz (nötr) tanecik aşağıdakilerden hangisidir?|İyon|Proton|Elektron|Nötron|3|Nötronlar çekirdekte bulunur ve yüksüzdür.
 Proton sayısı 11, nötron sayısı 12 olan atomun kütle numarası kaçtır?|23|12|11|34|0|Kütle numarası proton ve nötron sayılarının toplamıdır: 11 + 12 = 23.
 ²⁷Al³⁺ iyonunda (Al: atom numarası 13) proton, nötron ve elektron sayıları sırasıyla aşağıdakilerden hangisidir?|13, 14, 10|16, 14, 10|13, 14, 13|10, 14, 13|0|Proton 13, nötron 27 − 13 = 14; 3+ yüklü iyon elektron vermiştir: 13 − 3 = 10 elektron.
@@ -29,3 +29,23 @@ Elektron dizilimi 2, 8, 1 olan bir atom elektron vererek hangi iyonu oluşturur?
 Aşağıdakilerden hangisi bir ametaldir?|C|Fe|Al|Cu|0|Karbon ametaldir; Fe, Cu ve Al metaldir.
 Magnezyum (atom numarası 12) kararlı hâle gelmek için kaç elektron verir?|6|2|8|1|1|Dizilimi 2, 8, 2 olduğundan son katmandaki 2 elektronu vererek soygaz düzenine ulaşır.
 X²⁻ iyonunun elektron dizilimi 2, 8, 8 dir. X'in atom numarası kaçtır?|14|20|18|16|3|İyonda 18 elektron vardır; 2− yük için atom 2 elektron almıştır: nötr atomda 16 elektron ve 16 proton bulunur.
+Elektronun yükü aşağıdakilerden hangisidir?|0|+2|+1|−1|3|Elektron negatif yüklüdür; yükü −1 dir.
+Proton sayısı 8, nötron sayısı 9 olan atomun kütle numarası kaçtır?|1|8|9|17|3|Kütle numarası = proton + nötron = 8 + 9 = 17.
+³⁹K⁺ iyonunda (K: atom numarası 19) elektron sayısı kaçtır?|18|19|20|39|0|Nötr K atomunda 19 elektron vardır; 1+ yüklü iyon 1 elektron vermiştir: 18.
+Atom numarası aynı olan atomlar için aşağıdakilerden hangisi doğrudur?|Aynı elementin atomlarıdır|Kütle numaraları mutlaka aynıdır|Nötron sayıları mutlaka aynıdır|Farklı elementlerin atomlarıdır|0|Atom numarası (proton sayısı) elementi belirler.
+Atom numarası 9 olan elementin elektron dizilimi aşağıdakilerden hangisidir?|7, 2|2, 6|2, 7|2, 8|2|9 elektron: birinci katmanda 2, ikinci katmanda 7 elektron bulunur.
+Elektron dizilimi 2, 8, 5 olan nötr atomun atom numarası kaçtır?|15|13|8|5|0|Elektron toplamı 2 + 8 + 5 = 15 olduğundan proton sayısı 15 tir.
+Periyodik tabloda kaç periyot (yatay sıra) vardır?|8|7|10|18|1|Periyodik tabloda 7 periyot ve 18 grup vardır.
+Halojen grubu elementleri içinde atom yarıçapı en küçük olan hangisidir?|Cl|F|I|Br|1|Aynı grupta yukarıdan aşağıya yarıçap artar; en üstteki flor en küçüktür.
+Aynı periyotta atom yarıçapı en büyük olan elementler hangi gruptadır?|2A|7A|8A|1A|3|Aynı periyotta soldan sağa yarıçap azalır; en büyük yarıçap 1A grubundadır.
+Bohr atom modeline göre elektronlar nasıl dağılır?|Çekirdeğin içinde|Yalnızca dışta|Rastgele bulutlarda|Çekirdek etrafında katmanlarda|3|Bohr modelinde elektronlar belirli enerji düzeylerinde (katmanlarda) bulunur.
+Atom numarası 3 olan lityum periyodik tabloda hangi gruptadır?|3A|2A|1A|7A|2|Dizilimi 2, 1 olduğundan 1 değerlik elektronu vardır: 1A (alkali metal).
+Atom numarası 18 olan elementin elektron dizilimi ve türü aşağıdakilerden hangisidir?|2, 8, 8 — metal|2, 8, 8 — soygaz|2, 8, 7 — halojen|2, 8, 2 — toprak alkali|1|18 elektron 2, 8, 8 biçiminde dizilir; son katman doludur, bu element argon (soygaz) dur.
+Neon elementinin sembolü aşağıdakilerden hangisidir?|No|Na|Ne|N|2|Neonun sembolü Ne dir.
+Gümüşün sembolü aşağıdakilerden hangisidir?|Gu|Ag|Au|Si|1|Gümüşün sembolü Ag (Latince Argentum) dir; altın Au dur.
+¹H, ²H ve ³H atomlarının nötron sayıları sırasıyla aşağıdakilerden hangisidir?|1, 1, 1|0, 0, 0|1, 2, 3|0, 1, 2|3|Hidrojenin atom numarası 1 olduğundan nötron = kütle numarası − 1: 0, 1, 2.
+Metallerin ortak özelliklerinden biri aşağıdakilerden hangisidir?|Isıyı iletmezler|Parlak, ısıyı ve elektriği iyi iletirler|Elektriği iletmezler|Kırılgan ve mattırlar|1|Metaller parlaktır, ısıyı ve elektriği iyi iletir, dövülerek şekillendirilir.
+Ametallerin çoğu için aşağıdakilerden hangisi doğrudur?|Dövülebilirler|Parlak ve esnektirler|Elektriği iletmezler|Elektriği çok iyi iletirler|2|Ametallerin çoğu elektriği iletmez (grafit önemli bir istisnadır) ve kırılgandır.
+Alkali metaller suyla tepkimeye girdiğinde hangi gaz açığa çıkar?|Oksijen|Hidrojen|Azot|Karbondioksit|1|Alkali metaller suyla tepkimeye girerek bazik çözelti ve hidrojen gazı oluşturur.
+Soygazların kararlı olmasının nedeni nedir?|Metal olmaları|Son katmanlarının dolu olması|Çok ağır olmaları|Çok sayıda proton içermeleri|1|Son katmanları dolu olduğundan elektron alma veya verme eğilimleri yoktur.
+Atom numarası 11 olan sodyum atomu elektron vererek hangi iyonu oluşturur?|Na²⁻|Na⁺|Na⁻|Na²⁺|1|Sodyum son katmandaki 1 elektronu verir ve 1+ yüklü iyon oluşturur.

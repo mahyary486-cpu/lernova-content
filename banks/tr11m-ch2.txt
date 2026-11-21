@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 90° kaç radyandır?|π/4|π/2|π|2π|1|180° = π rad olduğundan 90° = π/2 rad.
 Birim çember yardımıyla sin 30° değeri kaçtır?|√2/2|1/2|√3/2|1|1|Özel açılarda sin 30° = 1/2 dir.
 sin x = 3/5 ve x dar açı ise cos x kaçtır?|3/4|4/5|5/3|1/5|1|sin²x + cos²x = 1 → cos²x = 16/25 ve x dar açı olduğundan cos x = 4/5.
@@ -29,3 +29,23 @@ log₂ 3 = a ise log₂ 12 ifadesinin a türünden değeri nedir?|a + 4|3a|2a|a 
 f(x) = 2x + 1 ve g(x) = x² ise (f + g)(2) kaçtır?|9|13|5|10|0|(f + g)(2) = f(2) + g(2) = 5 + 4 = 9.
 f(x) = 2x + 1 ve g(x) = x² ise (g ∘ f)(2) kaçtır?|25|17|8|9|0|(g ∘ f)(2) = g(f(2)) = g(5) = 25.
 f(x) = x + 3 ve g(x) = 2x − 1 ise (g ∘ f)(x) aşağıdakilerden hangisidir?|2x + 5|2x + 2|x + 2|2x − 4|0|(g ∘ f)(x) = g(x + 3) = 2(x + 3) − 1 = 2x + 5.
+sin 90° değeri kaçtır?|0|1/2|−1|1|3|Birim çemberde 90° açının ordinatı 1 dir.
+cos 60° değeri kaçtır?|1/2|√3/2|1|√2/2|0|Özel açılarda cos 60° = 1/2 dir.
+tan x = 3/4 ve x dar açı ise sin x kaçtır?|3/4|3/5|5/3|4/5|1|tan x = karşı/komşu = 3/4 olduğundan hipotenüs 5 ve sin x = 3/5.
+180° kaç radyandır?|π/4|2π|π|π/2|2|180° = π rad dır.
+cos 150° değeri kaçtır?|√3/2|−1/2|−√3/2|1/2|2|cos 150° = −cos 30° = −√3/2.
+sin x + cos x = 1/2 ise sin x · cos x kaçtır?|−3/8|−3/4|1/4|3/8|0|(sin x + cos x)² = 1 + 2 sin x cos x = 1/4 olduğundan sin x cos x = −3/8.
+f(x) = cos x fonksiyonunun esas periyodu kaçtır?|2π|π/2|4π|π|0|Kosinüs fonksiyonunun esas periyodu 2π dir.
+f(x) = 2 cos x fonksiyonunun görüntü kümesi aşağıdakilerden hangisidir?|[0, 2]|[−2, 2]|[−1, 1]|[−2, 0]|1|−1 ≤ cos x ≤ 1 olduğundan −2 ≤ 2 cos x ≤ 2.
+0 ≤ x ≤ 2π için cos x = 1/2 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{π/6, 11π/6}|{π/3, 5π/3}|{π/3, 2π/3}|{2π/3, 4π/3}|1|Kosinüs 1. ve 4. bölgede pozitiftir: x = π/3 ve x = 2π − π/3 = 5π/3.
+f(x) = 2ˣ ise f(5) kaçtır?|16|32|10|25|1|f(5) = 2⁵ = 32.
+3ˣ⁻¹ = 27 denkleminin çözümü aşağıdakilerden hangisidir?|x = 3|x = 4|x = 2|x = 9|1|27 = 3³ olduğundan x − 1 = 3 ve x = 4.
+4ˣ − 3·2ˣ + 2 = 0 denkleminin çözümlerinin toplamı kaçtır?|3|2|1|0|2|2ˣ = t alınırsa t² − 3t + 2 = 0 → t = 1 veya t = 2; x = 0 veya x = 1; toplam 1.
+log 100 (10 tabanında) değeri kaçtır?|1|10|100|2|3|10² = 100 olduğundan log 100 = 2.
+log₂ 16 − log₂ 2 işleminin sonucu kaçtır?|3|2|4|8|0|log₂(16/2) = log₂ 8 = 3.
+log 2 = a ise log 5 ifadesi a türünden aşağıdakilerden hangisidir?|2a|1 + a|a − 1|1 − a|3|log 5 = log(10/2) = log 10 − log 2 = 1 − a.
+log_a a ifadesinin değeri kaçtır?|Tanımsız|0|a|1|3|Her tabanda taban sayısının logaritması 1 dir.
+log₃ x = −1 ise x kaçtır?|−1/3|1/3|−3|3|1|x = 3⁻¹ = 1/3.
+log₂(x − 1) + log₂(x + 1) = 3 denkleminin çözümü aşağıdakilerden hangisidir?|x = 9|x = −3|x = 3|x = 4|2|log₂((x − 1)(x + 1)) = 3 → x² − 1 = 8 → x = ±3; tanım koşulu (x > 1) gereği x = 3.
+(f ∘ g)(x) ifadesi neyi gösterir?|f(x) + g(x)|f(g(x))|g(f(x))|f(x)·g(x)|1|Bileşkede önce g, sonra f uygulanır: f(g(x)).
+f(x) = x + 1 ve g(x) = x² ise (f ∘ g)(3) kaçtır?|9|12|10|16|2|g(3) = 9 ve f(9) = 10.

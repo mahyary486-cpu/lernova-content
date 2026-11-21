@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 ATP nin açılımı aşağıdakilerden hangisidir?|Adenin trifosfat|Adenozin trifosfat|Adenozin difosfat|Amino trifosfat|1|ATP, adenozin trifosfat molekülünün kısaltmasıdır.
 ATP molekülünün yapısında aşağıdakilerden hangileri bulunur?|Adenin, deoksiriboz ve iki fosfat|Adenin, riboz şekeri ve üç fosfat|Urasil, riboz ve bir fosfat|Timin, riboz ve üç fosfat|1|ATP; adenin bazı, riboz şekeri ve üç fosfat grubundan oluşur.
 ATP nin ADP ve inorganik fosfata (Pi) ayrışması sırasında ne olur?|Su sentezlenir|Enerji açığa çıkar|Enerji harcanır|Oksijen üretilir|1|Yüksek enerjili fosfat bağı kırıldığında enerji açığa çıkar; hücre bu enerjiyi kullanır.
@@ -29,3 +29,23 @@ Bir besin zincirinin ilk halkasında bulunan canlılar hangileridir?|İkincil t�
 Hücrenin "enerji para birimi" olarak bilinen molekül hangisidir?|Glikoz|DNA|Su|ATP|3|Hücre enerjiyi kullanılabilir biçimde ATP ile taşır.
 Yoğun egzersizde kaslarda yorgunluğa yol açan madde hangisidir?|Laktik asit|Etanol|Glikoz|Oksijen|0|Oksijen yetersizliğinde kas hücrelerinde laktik asit fermantasyonu olur ve laktik asit birikir.
 Oksijenli solunumun fermantasyondan daha verimli olmasının nedeni nedir?|Fotosentez yapması|Daha az glikoz kullanması|Oksijen üretmesi|Glikozun tamamen CO₂ ve H₂O ya yıkılması|3|Oksijenli solunumda glikozdaki enerji tamamen açığa çıkarılır; fermantasyonda ürünlerde enerji kalır.
+ATP molekülünde enerji hangi bağlarda depolanır?|Hidrojen bağlarında|Fosfat grupları arasındaki yüksek enerjili bağlarda|Şeker–baz bağında|Yalnızca baz içinde|1|ATP deki fosfat grupları arasındaki bağlar yüksek enerji içerir.
+ADP ve Pi den ATP sentezlenmesi için aşağıdakilerden hangisi gerekir?|Su|Enerji|Klorofil|Oksijen|1|ATP sentezi enerji gerektiren bir olaydır.
+ATP ile ilgili aşağıdakilerden hangisi doğrudur?|Uzun süre depolanır|Yağ yapılıdır|Yalnızca bitkilerde bulunur|Hücrede depolanmaz, sürekli yenilenir|3|ATP hızla kullanılır ve solunumla sürekli yeniden sentezlenir.
+Mitokondrinin iç zarının kıvrımlarına ne ad verilir?|Stroma|Granum|Krista|Matriks|2|Mitokondri iç zarının kıvrımlarına krista denir; yüzey alanını artırarak ATP sentezini kolaylaştırır.
+Glikoliz için aşağıdakilerden hangisi doğrudur?|ATP harcamaz|Oksijen gerektirmez|CO₂ açığa çıkarır|Mitokondride gerçekleşir|1|Glikoliz sitoplazmada ve oksijensiz ortamda gerçekleşir.
+Glikoliz sonunda 1 glikozdan net kaç ATP elde edilir?|0|36|4|2|3|Glikolizde 4 ATP üretilir, 2 ATP harcanır; net kazanç 2 ATP dir.
+Oksijenli solunumun ürünlerinden biri aşağıdakilerden hangisidir?|Oksijen|Etanol|Glikoz|Karbondioksit|3|Glikoz oksijenle yıkılınca CO₂ ve su oluşur.
+Krebs döngüsü mitokondrinin hangi bölümünde gerçekleşir?|Dış zar|Zarlar arası boşluk|İç zar|Matriks|3|Krebs döngüsü matriks adı verilen iç sıvıda gerçekleşir.
+Elektron taşıma sistemi mitokondrinin hangi bölümünde yer alır?|Dış zarda|Matriksinde|Ribozomda|İç zarda|3|Elektron taşıma sistemi ve ATP sentezi iç zarda gerçekleşir.
+Ekmek mayalanmasında hangi olay gerçekleşir?|Laktik asit fermantasyonu|Fotosentez|Alkol fermantasyonu|Oksijenli solunum|2|Maya alkol fermantasyonu yapar; CO₂ hamuru kabartır.
+Yoğun egzersizde kaslarda hangi madde birikir?|Hemoglobin|Laktik asit|Glikoz|Etanol|1|Oksijen yetersizliğinde kaslar laktik asit fermantasyonu yapar.
+Fermantasyonda glikozdaki enerjinin büyük kısmı nerede kalır?|Etanol veya laktik asit gibi ürünlerde|Suda|Karbondioksitte|ATP de|0|Fermantasyonda glikoz tamamen yıkılmaz; enerjinin büyük kısmı ürünlerde kalır.
+Fotosentez yapan canlılar için aşağıdakilerden hangisi doğrudur?|Yalnızca hayvandır|Besin yapamaz|Ototroftur|Heterotroftur|2|Fotosentez yapan canlılar kendi besinini üretir; ototroftur.
+Kemosentez yapan canlılar enerjiyi nereden sağlar?|Güneş ışığından|Havadan|İnorganik maddelerin yükseltgenmesinden|Hazır besinden|2|Kemosentetik bakteriler inorganik maddelerin oksidasyon enerjisini kullanır.
+Besin zincirinde enerji aktarımı için %10 kuralına göre bir sonraki basamağa yaklaşık ne kadar enerji aktarılır?|%90|%10|%50|%100|1|Her basamakta enerjinin yaklaşık %10 u bir sonraki düzeye geçer; geri kalanı ısı olarak kaybolur.
+Besin zincirinde ayrıştırıcıların rolü aşağıdakilerden hangisidir?|Fotosentez yapmak|Ölü organik maddeleri ayrıştırıp doğaya kazandırmak|Enerji üretmek|Üreticileri avlamak|1|Ayrıştırıcılar ölü organizmaları inorganik maddelere parçalar.
+Üreticilerde 20 000 kJ enerji varsa %10 kuralına göre ikincil tüketicilere ulaşan enerji kaç kJ dür?|200|20 000|20|2 000|0|Her basamakta enerjinin %10 u aktarılır: üretici 20 000 → birincil tüketici 2 000 → ikincil tüketici 200 kJ.
+Oksijenli solunumun gerçekleştiği organel hangisidir?|Mitokondri|Ribozom|Lizozom|Kloroplast|0|Oksijenli solunumun Krebs ve elektron taşıma basamakları mitokondride gerçekleşir.
+Oksijenli solunumun fermantasyondan avantajı aşağıdakilerden hangisidir?|Daha çok ATP üretmesi|Daha az ATP üretmesi|Oksijen gerektirmemesi|Yalnızca sitoplazmada gerçekleşmesi|0|Oksijenli solunumda yaklaşık 36–38 ATP, fermantasyonda 2 ATP elde edilir.
+Oksijenli solunum sırasında oksijenin son elektron alıcısı olarak indirgenmesiyle hangi madde oluşur?|Glikoz|Etanol|Su|Karbondioksit|2|Elektron taşıma sisteminin sonunda oksijen elektron ve H⁺ ile birleşerek su oluşturur.

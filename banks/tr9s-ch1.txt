@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Canlıları ve yaşam olaylarını inceleyen bilim dalı aşağıdakilerden hangisidir?|Jeoloji|Biyoloji|Kimya|Astronomi|1|Canlıları ve yaşam olaylarını inceleyen bilim dalı biyolojidir.
 Aşağıdakilerden hangisi canlıların ortak özelliklerinden biri değildir?|Fotosentez yapmak|Hücresel yapıdan oluşmak|Metabolizma gerçekleştirmek|Üremek|0|Fotosentez yalnızca bazı canlılarda (bitki, alg gibi) görülür; diğerleri tüm canlılarda ortaktır.
 Bilimsel yöntemde gözlemden sonra yapılan, test edilebilir tahmine ne ad verilir?|Hipotez|Teori|Sonuç|Yasa|0|Gözlemlerden yola çıkarak kurulan ve deneyle sınanabilen geçici açıklamaya hipotez denir.
@@ -29,3 +29,23 @@ Türkiye'de biyoçeşitliliğin zengin olmasında hangi etken önemlidir?|Farkl�
 Yalnızca belirli bir bölgede yaşayan ve başka yerde bulunmayan türlere ne ad verilir?|Göçmen tür|Evcil tür|Endemik tür|Yabancı tür|2|Dar bir alana özgü olan türlere endemik tür denir.
 Tohum bankaları hangi koruma yöntemine örnektir?|Genetik mühendisliği|Ekosistem koruması|Yerinde (in situ) koruma|Yerinde dışı (ex situ) koruma|3|Türlerin doğal ortamları dışında saklanmasına yerinde dışı koruma denir.
 Türleri doğal yaşam alanlarında koruma yöntemine ne ad verilir?|Yerinde (in situ) koruma|Gen bankası|Hayvanat bahçesi|Yerinde dışı (ex situ) koruma|0|Milli parklar ve koruma alanları türleri kendi doğal yaşam alanında korur.
+Canlılarda yapı ve görev bakımından en küçük birim aşağıdakilerden hangisidir?|Doku|Molekül|Organ|Hücre|3|Hücre, canlılığın temel yapı ve görev birimidir.
+Bir deneyde kontrol grubunun amacı aşağıdakilerden hangisidir?|Deneyi bozmak|Sonucu önceden belirlemek|Deney grubuyla karşılaştırma yapmak|Değişkeni artırmak|2|Kontrol grubunda uygulanan değişken yoktur; sonuçlar deney grubuyla karşılaştırılır.
+Bir deneyde araştırmacının bilerek değiştirdiği değişkene ne ad verilir?|Bağımsız değişken|Bağımlı değişken|Sabit değişken|Kontrol değişkeni|0|Araştırmacının değiştirdiği değişkene bağımsız, ölçülen sonuca bağımlı değişken denir.
+Aşağıdakilerden hangisi canlıların ortak özelliklerinden biridir?|Kemik yapısına sahip olma|Büyüme ve gelişme|Uçabilme|Fotosentez yapma|1|Tüm canlılar büyür ve gelişir; diğerleri her canlıda ortak değildir.
+Bir bitkinin ışığa doğru yönelmesi canlıların hangi özelliğine örnektir?|Adaptasyon|Uyarılara tepki verme|Metabolizma|Üreme|1|Çevredeki uyarıcıya (ışık) tepki verilmesidir.
+Ekosistem, komünite, popülasyon ve birey kavramlarının büyükten küçüğe sıralaması aşağıdakilerden hangisidir?|Komünite → ekosistem → birey → popülasyon|Popülasyon → ekosistem → komünite → birey|Ekosistem → komünite → popülasyon → birey|Birey → popülasyon → komünite → ekosistem|2|Ekosistem tüm canlı ve cansız bileşenleri, komünite tüm popülasyonları kapsar.
+Hayvanlar âlemindeki canlılar nasıl beslenir?|Fotosentetik|Kemosentetik|Heterotrof|Ototrof|2|Hayvanlar hazır organik besin alır; heterotroftur.
+Bitkiler âleminin özelliği aşağıdakilerden hangisidir?|Heterotrof olması|Hareket etmeleri|Ototrof olması ve hücre duvarının selülozdan oluşması|Hücre duvarının olmaması|2|Bitkiler fotosentez yapar ve hücre duvarları selülozdan oluşur.
+Tür tanımına göre aynı türden canlılar nasıl olmalıdır?|Aynı renkte olmalıdır|Aynı yerde yaşamalıdır|Aynı büyüklükte olmalıdır|Çiftleşip verimli döl verebilmelidir|3|Aynı türdeki bireyler birbirleriyle çiftleşerek verimli döller oluşturabilir.
+Maya hücresi hangi âleme aittir?|Mantarlar|Bitkiler|Bakteriler|Protista|0|Maya tek hücreli bir mantardır.
+Bakteriler beslenme bakımından aşağıdakilerden hangisini yapabilir?|Hem ototrof hem heterotrof olabilirler|Yalnızca heterotroftur|Yalnızca ototroftur|Beslenmezler|0|Bakteriler arasında fotosentez yapanlar, kemosentez yapanlar ve hazır besin alanlar vardır.
+Aşağıdakilerden hangisi bir memelidir?|Yunus|Kurbağa|Penguen|Timsah|0|Yunus yavrusunu doğurur ve sütle besler; memelidir.
+Kuşların vücudu hangi yapıyla örtülüdür?|Kıl|Çıplak deri|Tüy|Pul|2|Kuşların vücudu tüylerle örtülüdür.
+Amfibi (iki yaşamlı) hayvana örnek aşağıdakilerden hangisidir?|Kaplumbağa|Kurbağa|Yılan|Timsah|1|Kurbağa hem suda hem karada yaşar; amfibidir.
+Böcekler hakkında aşağıdakilerden hangisi doğrudur?|Altı bacaklıdır|Sekiz bacaklıdır|Omurgalıdır|Bacakları yoktur|0|Böceklerin üç çift (altı) bacağı vardır.
+Biyoçeşitliliğin azalmasına yol açan faktörlerden biri aşağıdakilerden hangisidir?|Yeniden ağaçlandırma|İklim değişikliği|Gen bankası|Koruma alanı kurulması|1|İklim değişikliği türlerin yaşam alanlarını bozar ve biyoçeşitliliği azaltır.
+Aşağıdakilerden hangisi fotosentez yapabilen bir canlıdır?|Kedi|Ağaç|Solucan|Mantar|1|Ağaç kloroplast içerir ve fotosentez yapar.
+Antibiyotikler hangi canlılara karşı etkilidir?|Virüslere|Bakterilere|Hiçbirine|Mantarlara her zaman|1|Antibiyotikler bakteri enfeksiyonlarında kullanılır; virüslere etki etmez.
+Nesli tükenme tehlikesi altındaki türleri koruma için aşağıdakilerden hangisi uygulanır?|Avı artırmak|Türü tanımamak|Yaşam alanını yok etmek|Milli park ve koruma alanları oluşturmak|3|Koruma alanları türlerin yaşam alanını güvence altına alır.
+Canlıların yaşam alanlarının tahrip edilmesi nedeniyle yok olmasını önlemek için ilk yapılması gereken aşağıdakilerden hangisidir?|Orman açmak|Yaşam alanlarını korumak|Nehirleri kurutmak|Daha fazla yerleşim yapmak|1|Habitatın korunması türlerin devamını sağlayan en etkili önlemdir.

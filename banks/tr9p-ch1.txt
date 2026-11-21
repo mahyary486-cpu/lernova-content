@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 Aşağıdakilerden hangisi vektörel bir büyüklüktür?|Kütle|Zaman|Kuvvet|Sıcaklık|2|Kuvvetin hem büyüklüğü hem yönü vardır; bu yüzden vektörel büyüklüktür.
 Aşağıdakilerden hangisi skaler bir büyüklüktür?|Yer değiştirme|Hız|İvme|Sürat|3|Sürat yalnızca büyüklükle belirtilir; hız, yer değiştirme ve ivme vektöreldir.
 Büyüklükleri 3 N ve 4 N olan, birbirine dik iki kuvvetin bileşkesi kaç N dur?|5|12|7|1|0|Dik kuvvetlerin bileşkesi Pisagor bağıntısıyla bulunur: √(3² + 4²) = 5 N.
@@ -29,3 +29,23 @@ Kütlesi 2 kg olan cisme yatay doğrultuda 10 N kuvvet uygulanıyor ve sürtünm
 Aşağıdakilerden hangisi doğadaki dört temel kuvvetten biri değildir?|Zayıf nükleer kuvvet|Kütle çekim kuvveti|Sürtünme kuvveti|Elektromanyetik kuvvet|2|Dört temel kuvvet: kütle çekim, elektromanyetik, zayıf nükleer ve güçlü nükleer kuvvettir.
 Ağırlığı 60 N olan bir cismin kütlesi kaç kg dır? (g = 10 m/s²)|600|60|6|0,6|2|G = m·g olduğundan m = 60/10 = 6 kg.
 Kütlesi 5 kg olan bir cisim yatay zeminde duruyor. Zeminin cisme uyguladığı tepki kuvveti kaç N dur? (g = 10 m/s²)|25|5|0|50|3|Cisim dengede olduğundan tepki kuvveti ağırlığa eşittir: 5·10 = 50 N.
+Birim zamandaki yer değiştirmeye ne ad verilir?|Hız|İvme|Güç|Sürat|0|Hız, yer değiştirmenin geçen zamana oranıdır.
+36 km/h kaç m/s dir?|36|10|3,6|100|1|36/3,6 = 10 m/s.
+Bir araç 5 s boyunca 20 m/s, sonraki 5 s boyunca 30 m/s hızla aynı yönde gidiyor. Ortalama hızı kaç m/s dir?|30|50|25|20|2|Toplam yer değiştirme 100 + 150 = 250 m ve süre 10 s olduğundan ortalama hız 25 m/s.
+Hız–zaman grafiğinin eğimi hangi büyüklüğü verir?|Kuvveti|İvmeyi|Yer değiştirmeyi|Sürati|1|Hızın zamana göre değişimi ivmedir; grafiğin eğimi ivmeye eşittir.
+Durgun hâlden harekete başlayan bir araç 2 m/s² ivmeyle 6 saniye hızlanırsa hızı kaç m/s olur?|3|8|12|24|2|v = a·t = 2·6 = 12 m/s.
+Durgun hâlden 4 m/s² ivmeyle hızlanan bir cisim 5 saniyede kaç metre yol alır?|100|20|25|50|3|x = ½·a·t² = ½·4·25 = 50 m.
+Eşit zaman aralıklarında eşit yol alan cismin hareketi nasıldır?|Düzgün çembersel|Sabit hızlı|Yavaşlayan|Sabit ivmeli|1|Eşit sürelerde eşit yol, hızın sabit olduğunu gösterir.
+Kuvvet sabitken cismin kütlesi iki katına çıkarılırsa ivmesi nasıl değişir?|Değişmez|Yarıya iner|Dört katına çıkar|İki katına çıkar|1|a = F/m olduğundan kütle iki katına çıkınca ivme yarıya düşer.
+Sürtünmesiz yatay zeminde temas hâlindeki 4 kg ve 2 kg kütleli cisimler 24 N kuvvetle itiliyor. Sistemin ivmesi kaç m/s² dir?|8|12|4|6|2|Toplam kütle 6 kg olduğundan a = 24/6 = 4 m/s².
+Ağırlık aşağıdakilerden hangisinin etkisiyle oluşur?|Kütle çekim kuvveti|Sürtünme kuvveti|Esneklik kuvveti|Manyetik kuvvet|0|Cismin ağırlığı, Dünya'nın cisme uyguladığı kütle çekim kuvvetidir.
+Ay'da yerçekimi ivmesi yaklaşık 1,6 m/s² dir. 10 kg kütleli bir cismin Ay'daki ağırlığı kaç N dur?|10|16|160|100|1|G = m·g = 10·1,6 = 16 N.
+Yatay doğrultuda 2 kg kütleli cisme zıt yönlü 10 N ve 6 N lik kuvvetler uygulanıyor. Cismin ivmesi kaç m/s² dir?|8|2|3|4|1|Net kuvvet 10 − 6 = 4 N dur; a = 4/2 = 2 m/s².
+Vektörel büyüklükler grafiksel olarak nasıl gösterilir?|Yönlü bir okla|Noktayla|Daireyle|Düz bir çizgiyle|0|Vektörün büyüklüğü okun uzunluğuyla, yönü okun yönüyle gösterilir.
+Bir cisim önce 5 m doğuya, sonra 12 m kuzeye gidiyor. Yer değiştirmenin büyüklüğü kaç m dir?|17|7|60|13|3|Doğu ve kuzey dik olduğundan √(5² + 12²) = 13 m.
+Bir cisim 3 saniye boyunca 4 m/s, sonraki 2 saniye boyunca 6 m/s sabit süratle gidiyor. Ortalama sürati kaç m/s dir?|4|5,2|4,8|5|2|Toplam yol 12 + 12 = 24 m ve süre 5 s; ortalama sürat 24/5 = 4,8 m/s.
+Kuvveti ölçmek için kullanılan alet aşağıdakilerden hangisidir?|Termometre|Voltmetre|Dinamometre|Barometre|2|Dinamometre (yaylı kuvvet ölçer) kuvveti ölçer.
+Yüzeyler pürüzsüzleştirilirse aralarındaki sürtünme kuvveti nasıl değişir?|Değişmez|Sıfırdan büyük olur|Artar|Azalır|3|Yüzeyler düzleştikçe pürüzler azalır ve sürtünme kuvveti küçülür.
+Aynı doğrultuda sağa doğru 7 N ve 3 N lik iki kuvvet, sola doğru da bir kuvvet etki ediyor ve cisim dengede ise sola doğru uygulanan kuvvet kaç N dur?|10|4|0|21|0|Dengede net kuvvet sıfırdır: sola kuvvet 7 + 3 = 10 N olmalıdır.
+Kütlesi büyük olan bir cismin eylemsizliği için aşağıdakilerden hangisi doğrudur?|Daha büyüktür|Kütleyle ilgisi yoktur|Daha küçüktür|Sıfırdır|0|Eylemsizlik kütleyle doğru orantılıdır; kütlesi büyük cismin hareket durumunu değiştirmek zordur.
+Hava direncinin ihmal edildiği ortamda serbest düşen bir cismin ivmesi yaklaşık kaç m/s² dir?|0|100|1|10|3|Yer çekimi ivmesi yaklaşık 10 m/s² dir.

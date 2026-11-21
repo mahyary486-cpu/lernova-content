@@ -1,4 +1,4 @@
-#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMH
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
 f(x) = 2x + 3 ise f(4) kaçtır?|14|9|11|10|2|f(4) = 2·4 + 3 = 11 olur.
 f(x) = 3x − 1 ve f(a) = 14 ise a kaçtır?|6|4|15|5|3|3a − 1 = 14 denkleminden 3a = 15 ve a = 5 bulunur.
 Doğrusal bir f fonksiyonu için f(1) = 5 ve f(3) = 11 ise f(0) kaçtır?|1|3|2|4|2|Eğim (11 − 5)/(3 − 1) = 3 tür; f(x) = 3x + 2 olur ve f(0) = 2 dir.
@@ -29,3 +29,23 @@ Bir havuzda başlangıçta 20 litre su vardır ve bir musluktan dakikada 3 litre
 2x + y = 7 ve x = 2 ise y kaçtır?|5|3|4|2|1|x yerine 2 yazılırsa 4 + y = 7 olur ve y = 3 bulunur.
 x + y = 10 ve x − y = 4 ise x · y kaçtır?|18|12|28|21|3|Denklemler toplanınca 2x = 14, x = 7 ve y = 3 bulunur; çarpım 21 dir.
 2x + 3y = 13 ve x − y = −1 ise x · y kaçtır?|8|5|6|4|2|x = y − 1 yazılırsa 5y − 2 = 13 olur; y = 3, x = 2 ve x·y = 6 dır.
+f(x) = 5x − 2 ise f(2) kaçtır?|12|10|8|3|2|f(2) = 5·2 − 2 = 8.
+f(x) = −2x + 7 ve f(a) = 1 ise a kaçtır?|4|2|3|−3|2|−2a + 7 = 1 → −2a = −6 → a = 3.
+Doğrusal bir f fonksiyonu için f(2) = 7 ve f(5) = 13 ise f(0) kaçtır?|2|1|5|3|3|Eğim (13 − 7)/(5 − 2) = 2; f(x) = 2x + n ve f(2) = 7 → n = 3, f(0) = 3.
+y = 4x − 3 doğrusunun y eksenini kestiği nokta aşağıdakilerden hangisidir?|(3/4, 0)|(−3, 0)|(0, −3)|(0, 3)|2|x = 0 için y = −3 olur.
+y = 2x − 8 doğrusunun x eksenini kestiği nokta aşağıdakilerden hangisidir?|(4, 0)|(0, −8)|(8, 0)|(−4, 0)|0|y = 0 için 2x − 8 = 0 ve x = 4 tür.
+y = 2x + 1 ve y = −x + 7 doğrularının kesişim noktası aşağıdakilerden hangisidir?|(2, 5)|(2, 3)|(1, 3)|(3, 7)|0|2x + 1 = −x + 7 → 3x = 6 → x = 2 ve y = 5.
+y = −3x + 5 doğrusunun eğimi kaçtır?|5|3|−3|−5|2|y = mx + n biçiminde m = −3 tür.
+(0, 2) ve (4, 10) noktalarından geçen doğrunun eğimi kaçtır?|3|1/2|2|4|2|Eğim = (10 − 2)/(4 − 0) = 8/4 = 2.
+A(1, 3) ve B(3, 7) noktalarından geçen doğrunun denklemi aşağıdakilerden hangisidir?|y = 3x|y = 2x + 1|y = x + 2|y = 2x + 3|1|Eğim (7 − 3)/(3 − 1) = 2; (1, 3) için 3 = 2·1 + n → n = 1.
+x + 7 = 12 denkleminin çözümü kaçtır?|5|6|19|4|0|x = 12 − 7 = 5.
+4x − 3 = 2x + 9 ise x kaçtır?|6|4|3|12|0|4x − 2x = 9 + 3 → 2x = 12 → x = 6.
+(x + 3)/2 − (x − 1)/4 = 3 ise x kaçtır?|7|3|9|5|3|4 ile çarpılınca 2(x + 3) − (x − 1) = 12 olur: x + 7 = 12 ve x = 5.
+∣x∣ = 4 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{0, 4}|{−4}|{4}|{−4, 4}|3|Uzaklığı 4 olan sayılar −4 ve 4 tür.
+∣2x + 1∣ = 5 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{−2, −3}|{2, −3}|{−2, 3}|{2, 3}|1|2x + 1 = 5 → x = 2; 2x + 1 = −5 → x = −3.
+∣x − 1∣ + ∣x − 5∣ ifadesinin alabileceği en küçük değer kaçtır?|2|0|6|4|3|x, 1 ile 5 arasındayken toplam uzaklık sabit ve 5 − 1 = 4 tür.
+3x < 12 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(4, ∞)|(−∞, 9)|(−∞, 4)|(−∞, 36)|2|İki taraf 3'e bölünür: x < 4.
+5 − 2x ≥ 1 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−∞, 3]|(−∞, 2]|(−∞, 2)|[2, ∞)|1|−2x ≥ −4 → x ≤ 2 (negatife bölünce yön değişir).
+∣x + 2∣ < 4 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|(−6, 2)|(−6, −2)|(−4, 4)|(−2, 2)|0|−4 < x + 2 < 4 → −6 < x < 2.
+∣x∣ = 0 denkleminin çözüm kümesi aşağıdakilerden hangisidir?|{0}|∅|ℝ|{−1, 1}|0|Mutlak değeri sıfır olan tek sayı sıfırdır.
+2 ≤ 3x − 1 < 8 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?|[1, 3]|(1, 3]|[1, 3)|(1, 3)|2|Her tarafa 1 eklenirse 3 ≤ 3x < 9, 3'e bölünürse 1 ≤ x < 3.
