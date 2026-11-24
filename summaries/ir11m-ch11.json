@@ -1,0 +1,7 @@
+{
+ "Sample Space, Events and the Rules of Probability": "P(A) = حالت‌های مطلوب ÷ کل حالت‌ها. P(A′) = 1 − P(A) و P(A ∪ B) = P(A) + P(B) − P(A ∩ B).",
+ "Counting Outcomes: With and Without Replacement": "با جای‌گذاری احتمال‌ها مستقل و ضرب می‌شوند؛ بدون جای‌گذاری ترکیب کیسه تغییر می‌کند. «حداقل یکی» را با متمم حساب کنید.",
+ "Conditional Probability": "P(A | B) = P(A ∩ B)/P(B) و P(A ∩ B) = P(B)·P(A | B). با دانستن B فضای نمونه کوچک می‌شود.",
+ "Independent Events": "مستقل بودن یعنی P(A ∩ B) = P(A)P(B). ناسازگاری با استقلال فرق دارد؛ ناسازگارهای غیرصفر مستقل نیستند.",
+ "Total Probability and Bayes' Rule": "احتمال کل: P(B) = ΣP(B | Aᵢ)P(Aᵢ). بیز: P(A₁ | B) = P(B | A₁)P(A₁)/P(B)."
+}

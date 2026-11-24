@@ -13106,6 +13106,84 @@
        "title": "Solving Triangles and Applications"
       }
      ]
+    },
+    {
+     "id": "ir11m-ch11",
+     "title": "Statistics and Probability: Probability",
+     "lessons": [
+      {
+       "id": "ir11m-ch11-l1",
+       "title": "Sample Space, Events and the Rules of Probability"
+      },
+      {
+       "id": "ir11m-ch11-l2",
+       "title": "Counting Outcomes: With and Without Replacement"
+      },
+      {
+       "id": "ir11m-ch11-l3",
+       "title": "Conditional Probability"
+      },
+      {
+       "id": "ir11m-ch11-l4",
+       "title": "Independent Events"
+      },
+      {
+       "id": "ir11m-ch11-l5",
+       "title": "Total Probability and Bayes' Rule"
+      }
+     ]
+    },
+    {
+     "id": "ir11m-ch12",
+     "title": "Statistics and Probability: Descriptive Statistics",
+     "lessons": [
+      {
+       "id": "ir11m-ch12-l1",
+       "title": "Data Types and Frequency Tables"
+      },
+      {
+       "id": "ir11m-ch12-l2",
+       "title": "Measures of Center"
+      },
+      {
+       "id": "ir11m-ch12-l3",
+       "title": "Measures of Spread: Range, Variance and Standard Deviation"
+      },
+      {
+       "id": "ir11m-ch12-l4",
+       "title": "Quartiles, Box Plots and Outliers"
+      },
+      {
+       "id": "ir11m-ch12-l5",
+       "title": "Standard Score and Coefficient of Variation"
+      }
+     ]
+    },
+    {
+     "id": "ir11m-ch13",
+     "title": "Statistics and Probability: Inferential Statistics",
+     "lessons": [
+      {
+       "id": "ir11m-ch13-l1",
+       "title": "Population, Sample and Sampling Methods"
+      },
+      {
+       "id": "ir11m-ch13-l2",
+       "title": "Sample Mean and Standard Error"
+      },
+      {
+       "id": "ir11m-ch13-l3",
+       "title": "The Normal Distribution and the Empirical Rule"
+      },
+      {
+       "id": "ir11m-ch13-l4",
+       "title": "Confidence Intervals"
+      },
+      {
+       "id": "ir11m-ch13-l5",
+       "title": "Margin of Error and Sample Size"
+      }
+     ]
     }
    ]
   },
