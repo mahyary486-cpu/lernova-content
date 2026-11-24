@@ -13028,6 +13028,84 @@
        "title": "Applications: Monotonicity, Extrema and Motion"
       }
      ]
+    },
+    {
+     "id": "ir11m-ch8",
+     "title": "Geometry 2: Circle",
+     "lessons": [
+      {
+       "id": "ir11m-ch8-l1",
+       "title": "Central and Inscribed Angles in a Circle"
+      },
+      {
+       "id": "ir11m-ch8-l2",
+       "title": "Tangent Lines and the Tangent-Chord Angle"
+      },
+      {
+       "id": "ir11m-ch8-l3",
+       "title": "Angles Formed by Chords and Secants"
+      },
+      {
+       "id": "ir11m-ch8-l4",
+       "title": "Power of a Point and Lengths in a Circle"
+      },
+      {
+       "id": "ir11m-ch8-l5",
+       "title": "Arc Length, Sector Area and Two Circles"
+      }
+     ]
+    },
+    {
+     "id": "ir11m-ch9",
+     "title": "Geometry 2: Geometric Transformations",
+     "lessons": [
+      {
+       "id": "ir11m-ch9-l1",
+       "title": "Reflection and Translation"
+      },
+      {
+       "id": "ir11m-ch9-l2",
+       "title": "Rotation"
+      },
+      {
+       "id": "ir11m-ch9-l3",
+       "title": "Composition of Transformations and Symmetry"
+      },
+      {
+       "id": "ir11m-ch9-l4",
+       "title": "Homothety (Dilation)"
+      },
+      {
+       "id": "ir11m-ch9-l5",
+       "title": "Similarity and Its Applications"
+      }
+     ]
+    },
+    {
+     "id": "ir11m-ch10",
+     "title": "Geometry 2: Length Relations in a Triangle",
+     "lessons": [
+      {
+       "id": "ir11m-ch10-l1",
+       "title": "The Law of Sines"
+      },
+      {
+       "id": "ir11m-ch10-l2",
+       "title": "The Law of Cosines"
+      },
+      {
+       "id": "ir11m-ch10-l3",
+       "title": "Area of a Triangle"
+      },
+      {
+       "id": "ir11m-ch10-l4",
+       "title": "Medians, Angle Bisectors and Special Triangles"
+      },
+      {
+       "id": "ir11m-ch10-l5",
+       "title": "Solving Triangles and Applications"
+      }
+     ]
     }
    ]
   },
