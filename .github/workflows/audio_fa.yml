@@ -1,0 +1,25 @@
+name: Persian audio
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Lesson id for a test run (empty = all Iran lessons)"
+        default: "ir10c-ch1-l1"
+permissions:
+  contents: write
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: pip install piper-tts
+      - run: python3 -m piper.download_voices fa_IR-amir-medium
+      - run: python3 tools/gen_audio_fa.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ONLY: ${{ github.event.inputs.only }}
