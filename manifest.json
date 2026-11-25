@@ -73,19 +73,19 @@
    "year": "2026"
   },
   "RU": {
-   "bytes": 491368,
+   "bytes": 545207,
    "currentYear": "2026-2027",
-   "files": 294,
+   "files": 330,
    "name": "Russia",
-   "rev": "40e08f295c",
+   "rev": "9e213486d4",
    "year": "2026-2027"
   },
   "TJ": {
-   "bytes": 217236,
+   "bytes": 286890,
    "currentYear": "2026-2027",
    "files": 160,
    "name": "Tajikistan",
-   "rev": "5404e7784e",
+   "rev": "5d35f06a18",
    "year": "2026-2027"
   },
   "TR": {
