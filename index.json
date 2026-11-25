@@ -975,181 +975,181 @@
    "chapters": [
     {
      "id": "ir9m-ch1",
-     "title": "Sets",
+     "title": "مجموعه‌ها",
      "lessons": [
       {
        "id": "ir9m-ch1-l1",
-       "title": "Sets and subsets"
+       "title": "مجموعه و زیرمجموعه"
       },
       {
        "id": "ir9m-ch1-l2",
-       "title": "Equal and unequal sets"
+       "title": "مجموعه‌های مساوی و نامساوی"
       },
       {
        "id": "ir9m-ch1-l3",
-       "title": "Union and intersection"
+       "title": "اجتماع و اشتراک"
       },
       {
        "id": "ir9m-ch1-l4",
-       "title": "Complement of a set"
+       "title": "متمم یک مجموعه"
       },
       {
        "id": "ir9m-ch1-l5",
-       "title": "Finite and infinite sets"
+       "title": "مجموعه‌های متناهی و نامتناهی"
       }
      ]
     },
     {
      "id": "ir9m-ch2",
-     "title": "Real Numbers",
+     "title": "عددهای حقیقی",
      "lessons": [
       {
        "id": "ir9m-ch2-l1",
-       "title": "Rational numbers"
+       "title": "عددهای گویا"
       },
       {
        "id": "ir9m-ch2-l2",
-       "title": "Irrational numbers and real numbers"
+       "title": "عددهای گنگ و عددهای حقیقی"
       },
       {
        "id": "ir9m-ch2-l3",
-       "title": "Absolute value"
+       "title": "قدر مطلق"
       },
       {
        "id": "ir9m-ch2-l4",
-       "title": "Operations with radicals"
+       "title": "اعمال روی رادیکال‌ها"
       },
       {
        "id": "ir9m-ch2-l5",
-       "title": "Approximation"
+       "title": "تقریب"
       }
      ]
     },
     {
      "id": "ir9m-ch3",
-     "title": "Reasoning and Proof in Geometry",
+     "title": "استدلال و اثبات در هندسه",
      "lessons": [
       {
        "id": "ir9m-ch3-l1",
-       "title": "Reasoning"
+       "title": "استدلال"
       },
       {
        "id": "ir9m-ch3-l2",
-       "title": "Theorems and proofs"
+       "title": "قضیه و اثبات"
       },
       {
        "id": "ir9m-ch3-l3",
-       "title": "Congruence of triangles"
+       "title": "هم‌نهشتی مثلث‌ها"
       },
       {
        "id": "ir9m-ch3-l4",
-       "title": "Properties of parallel lines"
+       "title": "ویژگی‌های خط‌های موازی"
       }
      ]
     },
     {
      "id": "ir9m-ch4",
-     "title": "Powers and Roots",
+     "title": "توان و ریشه",
      "lessons": [
       {
        "id": "ir9m-ch4-l1",
-       "title": "Integer powers"
+       "title": "توان‌های صحیح"
       },
       {
        "id": "ir9m-ch4-l2",
-       "title": "Scientific notation"
+       "title": "نمادگذاری علمی"
       },
       {
        "id": "ir9m-ch4-l3",
-       "title": "Square roots"
+       "title": "ریشه‌ی دوم"
       },
       {
        "id": "ir9m-ch4-l4",
-       "title": "Roots of higher order"
+       "title": "ریشه‌های مرتبه‌ی بالاتر"
       }
      ]
     },
     {
      "id": "ir9m-ch5",
-     "title": "Algebraic Expressions",
+     "title": "عبارت‌های جبری",
      "lessons": [
       {
        "id": "ir9m-ch5-l1",
-       "title": "Algebraic expressions and polynomials"
+       "title": "عبارت‌های جبری و چندجمله‌ای‌ها"
       },
       {
        "id": "ir9m-ch5-l2",
-       "title": "Algebraic identities"
+       "title": "اتحادهای جبری"
       },
       {
        "id": "ir9m-ch5-l3",
-       "title": "Factoring"
+       "title": "تجزیه"
       },
       {
        "id": "ir9m-ch5-l4",
-       "title": "Division of polynomials"
+       "title": "تقسیم چندجمله‌ای‌ها"
       }
      ]
     },
     {
      "id": "ir9m-ch6",
-     "title": "Lines and Linear Equations",
+     "title": "خط و معادله‌های خطی",
      "lessons": [
       {
        "id": "ir9m-ch6-l1",
-       "title": "The coordinate plane"
+       "title": "صفحه‌ی مختصات"
       },
       {
        "id": "ir9m-ch6-l2",
-       "title": "Equation of a line"
+       "title": "معادله‌ی خط"
       },
       {
        "id": "ir9m-ch6-l3",
-       "title": "Systems of linear equations"
+       "title": "دستگاه معادله‌های خطی"
       },
       {
        "id": "ir9m-ch6-l4",
-       "title": "Linear equations in practice"
+       "title": "معادله‌های خطی در عمل"
       }
      ]
     },
     {
      "id": "ir9m-ch7",
-     "title": "Rational Expressions",
+     "title": "عبارت‌های گویا",
      "lessons": [
       {
        "id": "ir9m-ch7-l1",
-       "title": "Simplifying rational expressions"
+       "title": "ساده کردن عبارت‌های گویا"
       },
       {
        "id": "ir9m-ch7-l2",
-       "title": "Operations on rational expressions"
+       "title": "اعمال روی عبارت‌های گویا"
       },
       {
        "id": "ir9m-ch7-l3",
-       "title": "Rational equations"
+       "title": "معادله‌های گویا"
       }
      ]
     },
     {
      "id": "ir9m-ch8",
-     "title": "Volume and Area",
+     "title": "حجم و مساحت",
      "lessons": [
       {
        "id": "ir9m-ch8-l1",
-       "title": "Surface area"
+       "title": "مساحت سطح"
       },
       {
        "id": "ir9m-ch8-l2",
-       "title": "Volume of solids"
+       "title": "حجم جسم‌ها"
       },
       {
        "id": "ir9m-ch8-l3",
-       "title": "Cross sections"
+       "title": "مقطع‌ها"
       },
       {
        "id": "ir9m-ch8-l4",
-       "title": "Solids of revolution"
+       "title": "جسم‌های دوار"
       }
      ]
     }
@@ -1162,355 +1162,355 @@
    "chapters": [
     {
      "id": "ir9s-ch1",
-     "title": "Materials and Their Role in Life",
+     "title": "مواد و نقش آن‌ها در زندگی",
      "lessons": [
       {
        "id": "ir9s-ch1-l1",
-       "title": "Metals and nonmetals"
+       "title": "فلزها و نافلزها"
       },
       {
        "id": "ir9s-ch1-l2",
-       "title": "Reactivity of metals"
+       "title": "واکنش‌پذیری فلزها"
       },
       {
        "id": "ir9s-ch1-l3",
-       "title": "Atomic structure and electron arrangement"
+       "title": "ساختار اتم و آرایش الکترونی"
       },
       {
        "id": "ir9s-ch1-l4",
-       "title": "The periodic table"
+       "title": "جدول تناوبی"
       },
       {
        "id": "ir9s-ch1-l5",
-       "title": "Useful elements: nitrogen, phosphorus, sulfur, chlorine and fluorine"
+       "title": "عنصرهای سودمند: نیتروژن، فسفر، گوگرد، کلر و فلوئور"
       },
       {
        "id": "ir9s-ch1-l6",
-       "title": "Natural and synthetic polymers"
+       "title": "بسپارهای طبیعی و ساختگی"
       }
      ]
     },
     {
      "id": "ir9s-ch2",
-     "title": "How Atoms Behave with Each Other",
+     "title": "رفتار اتم‌ها با یکدیگر",
      "lessons": [
       {
        "id": "ir9s-ch2-l1",
-       "title": "Ions and their uses"
+       "title": "یون‌ها و کاربردهای آن‌ها"
       },
       {
        "id": "ir9s-ch2-l2",
-       "title": "Ionic bonds"
+       "title": "پیوند یونی"
       },
       {
        "id": "ir9s-ch2-l3",
-       "title": "Properties of ionic compounds"
+       "title": "ویژگی‌های ترکیب‌های یونی"
       },
       {
        "id": "ir9s-ch2-l4",
-       "title": "Covalent bonds"
+       "title": "پیوند اشتراکی"
       },
       {
        "id": "ir9s-ch2-l5",
-       "title": "Conservation of mass"
+       "title": "پایستگی جرم"
       }
      ]
     },
     {
      "id": "ir9s-ch3",
-     "title": "Toward a Better Environment for Living",
+     "title": "به سوی محیطی بهتر برای زندگی",
      "lessons": [
       {
        "id": "ir9s-ch3-l1",
-       "title": "Natural cycles"
+       "title": "چرخه‌های طبیعی"
       },
       {
        "id": "ir9s-ch3-l2",
-       "title": "The carbon cycle"
+       "title": "چرخه‌ی کربن"
       },
       {
        "id": "ir9s-ch3-l3",
-       "title": "Crude oil and its separation"
+       "title": "نفت خام و جداسازی آن"
       },
       {
        "id": "ir9s-ch3-l4",
-       "title": "Petroleum products and polymers"
+       "title": "فرآورده‌های نفتی و بسپارها"
       },
       {
        "id": "ir9s-ch3-l5",
-       "title": "Plastics and recycling"
+       "title": "پلاستیک‌ها و بازیافت"
       }
      ]
     },
     {
      "id": "ir9s-ch4",
-     "title": "What Is Motion",
+     "title": "حرکت چیست",
      "lessons": [
       {
        "id": "ir9s-ch4-l1",
-       "title": "Distance and displacement"
+       "title": "مسافت و جابه‌جایی"
       },
       {
        "id": "ir9s-ch4-l2",
-       "title": "Speed and velocity"
+       "title": "تندی و سرعت"
       },
       {
        "id": "ir9s-ch4-l3",
-       "title": "Acceleration"
+       "title": "شتاب"
       },
       {
        "id": "ir9s-ch4-l4",
-       "title": "Motion graphs"
+       "title": "نمودارهای حرکت"
       }
      ]
     },
     {
      "id": "ir9s-ch5",
-     "title": "Force",
+     "title": "نیرو",
      "lessons": [
       {
        "id": "ir9s-ch5-l1",
-       "title": "Balanced forces and net force"
+       "title": "نیروهای متوازن و برآیند نیرو"
       },
       {
        "id": "ir9s-ch5-l2",
-       "title": "Newton's first and second laws"
+       "title": "قانون‌های اول و دوم نیوتون"
       },
       {
        "id": "ir9s-ch5-l3",
-       "title": "Newton's third law"
+       "title": "قانون سوم نیوتون"
       },
       {
        "id": "ir9s-ch5-l4",
-       "title": "Common types of forces"
+       "title": "انواع رایج نیروها"
       }
      ]
     },
     {
      "id": "ir9s-ch6",
-     "title": "Plate Tectonics",
+     "title": "زمین‌ساخت ورقه‌ای",
      "lessons": [
       {
        "id": "ir9s-ch6-l1",
-       "title": "Continental drift and Wegener's theory"
+       "title": "رانش قاره‌ای و نظریه‌ی وگنر"
       },
       {
        "id": "ir9s-ch6-l2",
-       "title": "Seafloor spreading"
+       "title": "گسترش بستر اقیانوس"
       },
       {
        "id": "ir9s-ch6-l3",
-       "title": "Moving plates and subduction"
+       "title": "حرکت ورقه‌ها و فرورانش"
       },
       {
        "id": "ir9s-ch6-l4",
-       "title": "Earthquakes, faults and tsunamis"
+       "title": "زمین‌لرزه، گسل و سونامی"
       }
      ]
     },
     {
      "id": "ir9s-ch7",
-     "title": "Traces of Earth's Past",
+     "title": "ردپای گذشته‌ی زمین",
      "lessons": [
       {
        "id": "ir9s-ch7-l1",
-       "title": "What fossils are and how they form"
+       "title": "سنگواره چیست و چگونه تشکیل می‌شود"
       },
       {
        "id": "ir9s-ch7-l2",
-       "title": "Types of fossils"
+       "title": "انواع سنگواره"
       },
       {
        "id": "ir9s-ch7-l3",
-       "title": "Uses of fossils and index fossils"
+       "title": "کاربردهای سنگواره و سنگواره‌های راهنما"
       }
      ]
     },
     {
      "id": "ir9s-ch8",
-     "title": "Pressure and Its Effects",
+     "title": "فشار و اثرهای آن",
      "lessons": [
       {
        "id": "ir9s-ch8-l1",
-       "title": "Force and pressure"
+       "title": "نیرو و فشار"
       },
       {
        "id": "ir9s-ch8-l2",
-       "title": "Pressure in solids"
+       "title": "فشار در جامدها"
       },
       {
        "id": "ir9s-ch8-l3",
-       "title": "Pressure in liquids and Pascal's principle"
+       "title": "فشار در مایع‌ها و اصل پاسکال"
       },
       {
        "id": "ir9s-ch8-l4",
-       "title": "Pressure in gases and air pressure"
+       "title": "فشار در گازها و فشار هوا"
       }
      ]
     },
     {
      "id": "ir9s-ch9",
-     "title": "Machines",
+     "title": "ماشین‌ها",
      "lessons": [
       {
        "id": "ir9s-ch9-l1",
-       "title": "Levers"
+       "title": "اهرم‌ها"
       },
       {
        "id": "ir9s-ch9-l2",
-       "title": "Pulleys and inclined planes"
+       "title": "قرقره‌ها و سطح شیبدار"
       },
       {
        "id": "ir9s-ch9-l3",
-       "title": "Gears and wheel and axle"
+       "title": "چرخ‌دنده‌ها و چرخ و محور"
       },
       {
        "id": "ir9s-ch9-l4",
-       "title": "Work and torque"
+       "title": "کار و گشتاور"
       },
       {
        "id": "ir9s-ch9-l5",
-       "title": "Mechanical advantage and efficiency"
+       "title": "سودمندی مکانیکی و بازده"
       }
      ]
     },
     {
      "id": "ir9s-ch10",
-     "title": "A Look at Space",
+     "title": "نگاهی به فضا",
      "lessons": [
       {
        "id": "ir9s-ch10-l1",
-       "title": "Astronomy and observing the sky"
+       "title": "ستاره‌شناسی و رصد آسمان"
       },
       {
        "id": "ir9s-ch10-l2",
-       "title": "Galaxies and distances in space"
+       "title": "کهکشان‌ها و فاصله‌ها در فضا"
       },
       {
        "id": "ir9s-ch10-l3",
-       "title": "Constellations and finding directions"
+       "title": "صورت‌های فلکی و جهت‌یابی"
       },
       {
        "id": "ir9s-ch10-l4",
-       "title": "The solar system and its planets"
+       "title": "منظومه‌ی شمسی و سیاره‌های آن"
       },
       {
        "id": "ir9s-ch10-l5",
-       "title": "Moons, asteroids and space travel"
+       "title": "قمرها، سیارک‌ها و سفر به فضا"
       }
      ]
     },
     {
      "id": "ir9s-ch11",
-     "title": "Diversity of Animals",
+     "title": "تنوع جانوران",
      "lessons": [
       {
        "id": "ir9s-ch11-l1",
-       "title": "Classification of living things"
+       "title": "طبقه‌بندی جانداران"
       },
       {
        "id": "ir9s-ch11-l2",
-       "title": "Features used to group animals"
+       "title": "ویژگی‌های گروه‌بندی جانوران"
       },
       {
        "id": "ir9s-ch11-l3",
-       "title": "Adaptation of animals to their environment"
+       "title": "سازگاری جانوران با محیط"
       }
      ]
     },
     {
      "id": "ir9s-ch12",
-     "title": "The World of Plants",
+     "title": "دنیای گیاهان",
      "lessons": [
       {
        "id": "ir9s-ch12-l1",
-       "title": "Plant diversity"
+       "title": "تنوع گیاهان"
       },
       {
        "id": "ir9s-ch12-l2",
-       "title": "Roots, stems and leaves"
+       "title": "ریشه، ساقه و برگ"
       },
       {
        "id": "ir9s-ch12-l3",
-       "title": "Flowers, seeds and fruits"
+       "title": "گل، دانه و میوه"
       },
       {
        "id": "ir9s-ch12-l4",
-       "title": "Reproduction in plants"
+       "title": "تولیدمثل در گیاهان"
       }
      ]
     },
     {
      "id": "ir9s-ch13",
-     "title": "Invertebrates",
+     "title": "بی‌مهرگان",
      "lessons": [
       {
        "id": "ir9s-ch13-l1",
-       "title": "Sponges and cnidarians"
+       "title": "اسفنج‌ها و کیسه‌تنان"
       },
       {
        "id": "ir9s-ch13-l2",
-       "title": "Worms"
+       "title": "کرم‌ها"
       },
       {
        "id": "ir9s-ch13-l3",
-       "title": "Mollusks"
+       "title": "نرم‌تنان"
       },
       {
        "id": "ir9s-ch13-l4",
-       "title": "Arthropods"
+       "title": "بندپایان"
       },
       {
        "id": "ir9s-ch13-l5",
-       "title": "Echinoderms"
+       "title": "خارپوستان"
       }
      ]
     },
     {
      "id": "ir9s-ch14",
-     "title": "Vertebrates",
+     "title": "مهره‌داران",
      "lessons": [
       {
        "id": "ir9s-ch14-l1",
-       "title": "Fish"
+       "title": "ماهی‌ها"
       },
       {
        "id": "ir9s-ch14-l2",
-       "title": "Amphibians"
+       "title": "دوزیستان"
       },
       {
        "id": "ir9s-ch14-l3",
-       "title": "Reptiles"
+       "title": "خزندگان"
       },
       {
        "id": "ir9s-ch14-l4",
-       "title": "Birds"
+       "title": "پرندگان"
       },
       {
        "id": "ir9s-ch14-l5",
-       "title": "Mammals"
+       "title": "پستانداران"
       }
      ]
     },
     {
      "id": "ir9s-ch15",
-     "title": "Living Together",
+     "title": "با هم زیستن",
      "lessons": [
       {
        "id": "ir9s-ch15-l1",
-       "title": "Ecosystems and food chains"
+       "title": "بوم‌سازگان‌ها و زنجیره‌های غذایی"
       },
       {
        "id": "ir9s-ch15-l2",
-       "title": "Relationships between living things"
+       "title": "رابطه‌ی جانداران با یکدیگر"
       },
       {
        "id": "ir9s-ch15-l3",
-       "title": "Human impact on the environment"
+       "title": "تأثیر انسان بر محیط زیست"
       },
       {
        "id": "ir9s-ch15-l4",
-       "title": "Protecting nature"
+       "title": "حفاظت از طبیعت"
       }
      ]
     }
@@ -11072,147 +11072,147 @@
    "chapters": [
     {
      "id": "ir10m-ch1",
-     "title": "Sets, Patterns and Sequences",
+     "title": "مجموعه، الگو و دنباله",
      "lessons": [
       {
        "id": "ir10m-ch1-l1",
-       "title": "Number sets and intervals"
+       "title": "مجموعه‌های عددی و بازه‌ها"
       },
       {
        "id": "ir10m-ch1-l2",
-       "title": "Set operations and counting"
+       "title": "اعمال روی مجموعه‌ها و شمارش"
       },
       {
        "id": "ir10m-ch1-l3",
-       "title": "Patterns and sequences"
+       "title": "الگو و دنباله"
       },
       {
        "id": "ir10m-ch1-l4",
-       "title": "Arithmetic sequences"
+       "title": "دنباله‌ی حسابی"
       },
       {
        "id": "ir10m-ch1-l5",
-       "title": "Geometric sequences"
+       "title": "دنباله‌ی هندسی"
       }
      ]
     },
     {
      "id": "ir10m-ch2",
-     "title": "Trigonometry",
+     "title": "مثلثات",
      "lessons": [
       {
        "id": "ir10m-ch2-l1",
-       "title": "Trigonometric ratios of an acute angle"
+       "title": "نسبت‌های مثلثاتی زاویه‌ی حاده"
       },
       {
        "id": "ir10m-ch2-l2",
-       "title": "Angles and the unit circle"
+       "title": "زاویه‌ها و دایره‌ی مثلثاتی"
       },
       {
        "id": "ir10m-ch2-l3",
-       "title": "Trigonometric identities"
+       "title": "اتحادهای مثلثاتی"
       },
       {
        "id": "ir10m-ch2-l4",
-       "title": "Applications of trigonometry"
+       "title": "کاربردهای مثلثات"
       }
      ]
     },
     {
      "id": "ir10m-ch3",
-     "title": "Rational Exponents and Algebraic Expressions",
+     "title": "توان‌های گویا و عبارت‌های جبری",
      "lessons": [
       {
        "id": "ir10m-ch3-l1",
-       "title": "The n-th root of a number"
+       "title": "ریشه‌ی n‌ام یک عدد"
       },
       {
        "id": "ir10m-ch3-l2",
-       "title": "Rational exponents and their rules"
+       "title": "توان‌های گویا و قاعده‌های آن"
       },
       {
        "id": "ir10m-ch3-l3",
-       "title": "Identities and factoring of expressions"
+       "title": "اتحادها و تجزیه‌ی عبارت‌ها"
       },
       {
        "id": "ir10m-ch3-l4",
-       "title": "Operations with algebraic fractions"
+       "title": "اعمال روی کسرهای جبری"
       }
      ]
     },
     {
      "id": "ir10m-ch4",
-     "title": "Equations and Inequalities",
+     "title": "معادله‌ها و نامعادله‌ها",
      "lessons": [
       {
        "id": "ir10m-ch4-l1",
-       "title": "Solving quadratic equations"
+       "title": "حل معادله‌های درجه‌ی دوم"
       },
       {
        "id": "ir10m-ch4-l2",
-       "title": "The quadratic formula and the discriminant"
+       "title": "فرمول درجه‌ی دوم و مبین"
       },
       {
        "id": "ir10m-ch4-l3",
-       "title": "Rational and radical equations"
+       "title": "معادله‌های گویا و رادیکالی"
       },
       {
        "id": "ir10m-ch4-l4",
-       "title": "Linear and quadratic inequalities"
+       "title": "نامعادله‌های خطی و درجه‌ی دوم"
       }
      ]
     },
     {
      "id": "ir10m-ch5",
-     "title": "Functions",
+     "title": "تابع",
      "lessons": [
       {
        "id": "ir10m-ch5-l1",
-       "title": "The concept of a function"
+       "title": "مفهوم تابع"
       },
       {
        "id": "ir10m-ch5-l2",
-       "title": "Domain, range and graphs"
+       "title": "دامنه، برد و نمودار"
       },
       {
        "id": "ir10m-ch5-l3",
-       "title": "Piecewise and absolute value functions"
+       "title": "تابع‌های چندضابطه‌ای و قدر مطلق"
       }
      ]
     },
     {
      "id": "ir10m-ch6",
-     "title": "Counting Without Enumeration",
+     "title": "شمارش بدون شمردن",
      "lessons": [
       {
        "id": "ir10m-ch6-l1",
-       "title": "Counting principles"
+       "title": "اصل‌های شمارش"
       },
       {
        "id": "ir10m-ch6-l2",
-       "title": "Permutations and factorials"
+       "title": "جایگشت و فاکتوریل"
       },
       {
        "id": "ir10m-ch6-l3",
-       "title": "Combinations"
+       "title": "ترکیب"
       }
      ]
     },
     {
      "id": "ir10m-ch7",
-     "title": "Probability and Statistics",
+     "title": "احتمال و آمار",
      "lessons": [
       {
        "id": "ir10m-ch7-l1",
-       "title": "Sample space and events"
+       "title": "فضای نمونه و پیشامدها"
       },
       {
        "id": "ir10m-ch7-l2",
-       "title": "Probability rules"
+       "title": "قاعده‌های احتمال"
       },
       {
        "id": "ir10m-ch7-l3",
-       "title": "Measures of center and spread"
+       "title": "معیارهای مرکزی و پراکندگی"
       }
      ]
     }
@@ -11877,87 +11877,87 @@
    "chapters": [
     {
      "id": "ir10p-ch1",
-     "title": "Physics and Measurement",
+     "title": "فیزیک و اندازه‌گیری",
      "lessons": [
       {
        "id": "ir10p-ch1-l1",
-       "title": "Physics and modeling"
+       "title": "فیزیک و مدل‌سازی"
       },
       {
        "id": "ir10p-ch1-l2",
-       "title": "Measurement and units"
+       "title": "اندازه‌گیری و یکاها"
       },
       {
        "id": "ir10p-ch1-l3",
-       "title": "Precision and scientific notation"
+       "title": "دقت و نمادگذاری علمی"
       }
      ]
     },
     {
      "id": "ir10p-ch2",
-     "title": "Physical Properties of Matter",
+     "title": "ویژگی‌های فیزیکی مواد",
      "lessons": [
       {
        "id": "ir10p-ch2-l1",
-       "title": "States of matter and intermolecular forces"
+       "title": "حالت‌های ماده و نیروهای بین مولکولی"
       },
       {
        "id": "ir10p-ch2-l2",
-       "title": "Pressure in fluids"
+       "title": "فشار در شاره‌ها"
       },
       {
        "id": "ir10p-ch2-l3",
-       "title": "Buoyancy and Archimedes' principle"
+       "title": "شناوری و اصل ارشمیدس"
       }
      ]
     },
     {
      "id": "ir10p-ch3",
-     "title": "Work, Energy and Power",
+     "title": "کار، انرژی و توان",
      "lessons": [
       {
        "id": "ir10p-ch3-l1",
-       "title": "Work and kinetic energy"
+       "title": "کار و انرژی جنبشی"
       },
       {
        "id": "ir10p-ch3-l2",
-       "title": "Potential energy and conservation of mechanical energy"
+       "title": "انرژی پتانسیل و پایستگی انرژی مکانیکی"
       },
       {
        "id": "ir10p-ch3-l3",
-       "title": "Power and efficiency"
+       "title": "توان و بازده"
       }
      ]
     },
     {
      "id": "ir10p-ch4",
-     "title": "Temperature and Heat",
+     "title": "دما و گرما",
      "lessons": [
       {
        "id": "ir10p-ch4-l1",
-       "title": "Temperature and thermometers"
+       "title": "دما و دماسنج‌ها"
       },
       {
        "id": "ir10p-ch4-l2",
-       "title": "Heat and specific heat"
+       "title": "گرما و گرمای ویژه"
       },
       {
        "id": "ir10p-ch4-l3",
-       "title": "Heat transfer and thermal expansion"
+       "title": "انتقال گرما و انبساط گرمایی"
       }
      ]
     },
     {
      "id": "ir10p-ch5",
-     "title": "Thermodynamics",
+     "title": "ترمودینامیک",
      "lessons": [
       {
        "id": "ir10p-ch5-l1",
-       "title": "The first law of thermodynamics"
+       "title": "قانون اول ترمودینامیک"
       },
       {
        "id": "ir10p-ch5-l2",
-       "title": "Heat engines and the second law"
+       "title": "ماشین‌های گرمایی و قانون دوم"
       }
      ]
     }
@@ -11970,59 +11970,59 @@
    "chapters": [
     {
      "id": "ir10c-ch1",
-     "title": "The Cosmos: Birthplace of the Elements",
+     "title": "کیهان زادگاه الفبای هستی",
      "lessons": [
       {
        "id": "ir10c-ch1-l1",
-       "title": "Origin of the elements"
+       "title": "خاستگاه عنصرها"
       },
       {
        "id": "ir10c-ch1-l2",
-       "title": "Atomic structure, isotopes and atomic mass"
+       "title": "ساختار اتم، ایزوتوپ‌ها و جرم اتمی"
       },
       {
        "id": "ir10c-ch1-l3",
-       "title": "Electron arrangement and the periodic table"
+       "title": "آرایش الکترونی و جدول تناوبی"
       }
      ]
     },
     {
      "id": "ir10c-ch2",
-     "title": "Gases in Our Lives",
+     "title": "ردپای گازها در زندگی",
      "lessons": [
       {
        "id": "ir10c-ch2-l1",
-       "title": "Atmosphere layers and air composition"
+       "title": "لایه‌های جو و ترکیب هوا"
       },
       {
        "id": "ir10c-ch2-l2",
-       "title": "Gas laws and molar volume"
+       "title": "قانون‌های گازها و حجم مولی"
       },
       {
        "id": "ir10c-ch2-l3",
-       "title": "Greenhouse gases and air pollution"
+       "title": "گازهای گلخانه‌ای و آلودگی هوا"
       }
      ]
     },
     {
      "id": "ir10c-ch3",
-     "title": "Water, the Rhythm of Life",
+     "title": "آب، آهنگ زندگی",
      "lessons": [
       {
        "id": "ir10c-ch3-l1",
-       "title": "Water, the solvent of life"
+       "title": "آب، حلال زندگی"
       },
       {
        "id": "ir10c-ch3-l2",
-       "title": "Solubility and its factors"
+       "title": "انحلال‌پذیری و عامل‌های مؤثر بر آن"
       },
       {
        "id": "ir10c-ch3-l3",
-       "title": "Concentration of solutions"
+       "title": "غلظت محلول‌ها"
       },
       {
        "id": "ir10c-ch3-l4",
-       "title": "Electrolytes and ions in solution"
+       "title": "الکترولیت‌ها و یون‌ها در محلول"
       }
      ]
     }
@@ -12857,331 +12857,331 @@
    "chapters": [
     {
      "id": "ir11m-ch1",
-     "title": "Quadratic Functions",
+     "title": "تابع‌های درجه‌ی دوم",
      "lessons": [
       {
        "id": "ir11m-ch1-l1",
-       "title": "The parabola and its vertex"
+       "title": "سهمی و رأس آن"
       },
       {
        "id": "ir11m-ch1-l2",
-       "title": "Maximum and minimum applications"
+       "title": "کاربردهای بیشینه و کمینه"
       },
       {
        "id": "ir11m-ch1-l3",
-       "title": "Transformations of graphs"
+       "title": "تبدیل‌های نمودار"
       }
      ]
     },
     {
      "id": "ir11m-ch2",
-     "title": "Calculus 1: Algebra and Equations",
+     "title": "حسابان ۱: جبر و معادله",
      "lessons": [
       {
        "id": "ir11m-ch2-l1",
-       "title": "Arithmetic and Geometric Sequences and Their Sums"
+       "title": "دنباله‌های حسابی و هندسی و مجموع آن‌ها"
       },
       {
        "id": "ir11m-ch2-l2",
-       "title": "Quadratic Equations, Discriminant and Vieta's Formulas"
+       "title": "معادله‌های درجه‌ی دوم، مبین و روابط ویت"
       },
       {
        "id": "ir11m-ch2-l3",
-       "title": "The Parabola: Vertex, Graph and Extreme Values"
+       "title": "سهمی: رأس، نمودار و مقدارهای فرین"
       },
       {
        "id": "ir11m-ch2-l4",
-       "title": "Sign Determination and Quadratic Inequalities"
+       "title": "تعیین علامت و نامعادله‌های درجه‌ی دوم"
       },
       {
        "id": "ir11m-ch2-l5",
-       "title": "Rational and Radical Equations"
+       "title": "معادله‌های گویا و رادیکالی"
       }
      ]
     },
     {
      "id": "ir11m-ch3",
-     "title": "Calculus 1: Functions",
+     "title": "حسابان ۱: تابع",
      "lessons": [
       {
        "id": "ir11m-ch3-l1",
-       "title": "Function Concept, Domain and Range"
+       "title": "مفهوم تابع، دامنه و برد"
       },
       {
        "id": "ir11m-ch3-l2",
-       "title": "Absolute Value, Floor and Piecewise Functions"
+       "title": "قدر مطلق، جزء صحیح و تابع‌های چندضابطه‌ای"
       },
       {
        "id": "ir11m-ch3-l3",
-       "title": "Operations on Functions and Composition"
+       "title": "اعمال روی تابع‌ها و ترکیب"
       },
       {
        "id": "ir11m-ch3-l4",
-       "title": "One-to-One Functions and Inverse Functions"
+       "title": "تابع‌های یک‌به‌یک و وارون"
       },
       {
        "id": "ir11m-ch3-l5",
-       "title": "Transformations of Function Graphs"
+       "title": "تبدیل‌های نمودار تابع"
       }
      ]
     },
     {
      "id": "ir11m-ch4",
-     "title": "Calculus 1: Trigonometry",
+     "title": "حسابان ۱: مثلثات",
      "lessons": [
       {
        "id": "ir11m-ch4-l1",
-       "title": "Radian Measure and the Trigonometric Circle"
+       "title": "اندازه‌ی رادیان و دایره‌ی مثلثاتی"
       },
       {
        "id": "ir11m-ch4-l2",
-       "title": "Trigonometric Identities and Related Angles"
+       "title": "اتحادهای مثلثاتی و زاویه‌های وابسته"
       },
       {
        "id": "ir11m-ch4-l3",
-       "title": "Graphs of Sine and Cosine"
+       "title": "نمودار سینوس و کسینوس"
       },
       {
        "id": "ir11m-ch4-l4",
-       "title": "Sum, Difference and Double-Angle Formulas"
+       "title": "فرمول‌های مجموع، تفاضل و زاویه‌ی دو برابر"
       },
       {
        "id": "ir11m-ch4-l5",
-       "title": "Solving Trigonometric Equations"
+       "title": "حل معادله‌های مثلثاتی"
       }
      ]
     },
     {
      "id": "ir11m-ch5",
-     "title": "Calculus 1: Exponential and Logarithmic Functions",
+     "title": "حسابان ۱: تابع‌های نمایی و لگاریتمی",
      "lessons": [
       {
        "id": "ir11m-ch5-l1",
-       "title": "Rational Exponents and Radicals"
+       "title": "توان‌های گویا و رادیکال‌ها"
       },
       {
        "id": "ir11m-ch5-l2",
-       "title": "Exponential Functions and Their Graphs"
+       "title": "تابع‌های نمایی و نمودار آن‌ها"
       },
       {
        "id": "ir11m-ch5-l3",
-       "title": "Logarithm: Definition and Properties"
+       "title": "لگاریتم: تعریف و ویژگی‌ها"
       },
       {
        "id": "ir11m-ch5-l4",
-       "title": "Logarithmic Functions and Their Graphs"
+       "title": "تابع‌های لگاریتمی و نمودار آن‌ها"
       },
       {
        "id": "ir11m-ch5-l5",
-       "title": "Exponential and Logarithmic Equations"
+       "title": "معادله‌های نمایی و لگاریتمی"
       }
      ]
     },
     {
      "id": "ir11m-ch6",
-     "title": "Calculus 1: Limits and Continuity",
+     "title": "حسابان ۱: حد و پیوستگی",
      "lessons": [
       {
        "id": "ir11m-ch6-l1",
-       "title": "The Concept of a Limit and One-Sided Limits"
+       "title": "مفهوم حد و حدهای یک‌طرفه"
       },
       {
        "id": "ir11m-ch6-l2",
-       "title": "Limit Rules and Algebraic Techniques"
+       "title": "قاعده‌های حد و روش‌های جبری"
       },
       {
        "id": "ir11m-ch6-l3",
-       "title": "Limits at Infinity and Infinite Limits"
+       "title": "حد در بی‌نهایت و حدهای بی‌نهایت"
       },
       {
        "id": "ir11m-ch6-l4",
-       "title": "Horizontal and Vertical Asymptotes"
+       "title": "مجانب‌های افقی و قائم"
       },
       {
        "id": "ir11m-ch6-l5",
-       "title": "Continuity of Functions"
+       "title": "پیوستگی تابع‌ها"
       }
      ]
     },
     {
      "id": "ir11m-ch7",
-     "title": "Calculus 1: The Derivative",
+     "title": "حسابان ۱: مشتق",
      "lessons": [
       {
        "id": "ir11m-ch7-l1",
-       "title": "Average and Instantaneous Rate of Change"
+       "title": "آهنگ تغییر متوسط و لحظه‌ای"
       },
       {
        "id": "ir11m-ch7-l2",
-       "title": "Derivative at a Point and the Tangent Line"
+       "title": "مشتق در یک نقطه و خط مماس"
       },
       {
        "id": "ir11m-ch7-l3",
-       "title": "Derivative Rules for Polynomials"
+       "title": "قاعده‌های مشتق چندجمله‌ای‌ها"
       },
       {
        "id": "ir11m-ch7-l4",
-       "title": "Product, Quotient and Chain Rules"
+       "title": "قاعده‌های ضرب، خارج‌قسمت و زنجیره‌ای"
       },
       {
        "id": "ir11m-ch7-l5",
-       "title": "Applications: Monotonicity, Extrema and Motion"
+       "title": "کاربردها: یکنوایی، اکسترمم و حرکت"
       }
      ]
     },
     {
      "id": "ir11m-ch8",
-     "title": "Geometry 2: Circle",
+     "title": "هندسه ۲: دایره",
      "lessons": [
       {
        "id": "ir11m-ch8-l1",
-       "title": "Central and Inscribed Angles in a Circle"
+       "title": "زاویه‌های مرکزی و محاطی در دایره"
       },
       {
        "id": "ir11m-ch8-l2",
-       "title": "Tangent Lines and the Tangent-Chord Angle"
+       "title": "خط‌های مماس و زاویه‌ی ظلی"
       },
       {
        "id": "ir11m-ch8-l3",
-       "title": "Angles Formed by Chords and Secants"
+       "title": "زاویه‌های حاصل از وترها و قاطع‌ها"
       },
       {
        "id": "ir11m-ch8-l4",
-       "title": "Power of a Point and Lengths in a Circle"
+       "title": "قوت نقطه و طول‌ها در دایره"
       },
       {
        "id": "ir11m-ch8-l5",
-       "title": "Arc Length, Sector Area and Two Circles"
+       "title": "طول کمان، مساحت قطاع و دو دایره"
       }
      ]
     },
     {
      "id": "ir11m-ch9",
-     "title": "Geometry 2: Geometric Transformations",
+     "title": "هندسه ۲: تبدیل‌های هندسی",
      "lessons": [
       {
        "id": "ir11m-ch9-l1",
-       "title": "Reflection and Translation"
+       "title": "بازتاب و انتقال"
       },
       {
        "id": "ir11m-ch9-l2",
-       "title": "Rotation"
+       "title": "دوران"
       },
       {
        "id": "ir11m-ch9-l3",
-       "title": "Composition of Transformations and Symmetry"
+       "title": "ترکیب تبدیل‌ها و تقارن"
       },
       {
        "id": "ir11m-ch9-l4",
-       "title": "Homothety (Dilation)"
+       "title": "تجانس"
       },
       {
        "id": "ir11m-ch9-l5",
-       "title": "Similarity and Its Applications"
+       "title": "تشابه و کاربردهای آن"
       }
      ]
     },
     {
      "id": "ir11m-ch10",
-     "title": "Geometry 2: Length Relations in a Triangle",
+     "title": "هندسه ۲: رابطه‌های طولی در مثلث",
      "lessons": [
       {
        "id": "ir11m-ch10-l1",
-       "title": "The Law of Sines"
+       "title": "قانون سینوس‌ها"
       },
       {
        "id": "ir11m-ch10-l2",
-       "title": "The Law of Cosines"
+       "title": "قانون کسینوس‌ها"
       },
       {
        "id": "ir11m-ch10-l3",
-       "title": "Area of a Triangle"
+       "title": "مساحت مثلث"
       },
       {
        "id": "ir11m-ch10-l4",
-       "title": "Medians, Angle Bisectors and Special Triangles"
+       "title": "میانه‌ها، نیمسازها و مثلث‌های خاص"
       },
       {
        "id": "ir11m-ch10-l5",
-       "title": "Solving Triangles and Applications"
+       "title": "حل مثلث و کاربردها"
       }
      ]
     },
     {
      "id": "ir11m-ch11",
-     "title": "Statistics and Probability: Probability",
+     "title": "آمار و احتمال: احتمال",
      "lessons": [
       {
        "id": "ir11m-ch11-l1",
-       "title": "Sample Space, Events and the Rules of Probability"
+       "title": "فضای نمونه، پیشامدها و قاعده‌های احتمال"
       },
       {
        "id": "ir11m-ch11-l2",
-       "title": "Counting Outcomes: With and Without Replacement"
+       "title": "شمارش حالت‌ها: با جایگذاری و بدون جایگذاری"
       },
       {
        "id": "ir11m-ch11-l3",
-       "title": "Conditional Probability"
+       "title": "احتمال شرطی"
       },
       {
        "id": "ir11m-ch11-l4",
-       "title": "Independent Events"
+       "title": "پیشامدهای مستقل"
       },
       {
        "id": "ir11m-ch11-l5",
-       "title": "Total Probability and Bayes' Rule"
+       "title": "احتمال کل و قاعده‌ی بیز"
       }
      ]
     },
     {
      "id": "ir11m-ch12",
-     "title": "Statistics and Probability: Descriptive Statistics",
+     "title": "آمار و احتمال: آمار توصیفی",
      "lessons": [
       {
        "id": "ir11m-ch12-l1",
-       "title": "Data Types and Frequency Tables"
+       "title": "نوع داده‌ها و جدول فراوانی"
       },
       {
        "id": "ir11m-ch12-l2",
-       "title": "Measures of Center"
+       "title": "معیارهای مرکزی"
       },
       {
        "id": "ir11m-ch12-l3",
-       "title": "Measures of Spread: Range, Variance and Standard Deviation"
+       "title": "معیارهای پراکندگی: دامنه، واریانس و انحراف معیار"
       },
       {
        "id": "ir11m-ch12-l4",
-       "title": "Quartiles, Box Plots and Outliers"
+       "title": "چارک‌ها، نمودار جعبه‌ای و داده‌های دورافتاده"
       },
       {
        "id": "ir11m-ch12-l5",
-       "title": "Standard Score and Coefficient of Variation"
+       "title": "نمره‌ی استاندارد و ضریب تغییرات"
       }
      ]
     },
     {
      "id": "ir11m-ch13",
-     "title": "Statistics and Probability: Inferential Statistics",
+     "title": "آمار و احتمال: آمار استنباطی",
      "lessons": [
       {
        "id": "ir11m-ch13-l1",
-       "title": "Population, Sample and Sampling Methods"
+       "title": "جامعه، نمونه و روش‌های نمونه‌گیری"
       },
       {
        "id": "ir11m-ch13-l2",
-       "title": "Sample Mean and Standard Error"
+       "title": "میانگین نمونه و خطای معیار"
       },
       {
        "id": "ir11m-ch13-l3",
-       "title": "The Normal Distribution and the Empirical Rule"
+       "title": "توزیع نرمال و قاعده‌ی تجربی"
       },
       {
        "id": "ir11m-ch13-l4",
-       "title": "Confidence Intervals"
+       "title": "فاصله‌ی اطمینان"
       },
       {
        "id": "ir11m-ch13-l5",
-       "title": "Margin of Error and Sample Size"
+       "title": "حاشیه‌ی خطا و اندازه‌ی نمونه"
       }
      ]
     }
@@ -13194,19 +13194,19 @@
    "chapters": [
     {
      "id": "ir11p-ch1",
-     "title": "Electrostatics",
+     "title": "الکتریسیته‌ی ساکن",
      "lessons": [
       {
        "id": "ir11p-ch1-l1",
-       "title": "Electric charge and Coulomb's law"
+       "title": "بار الکتریکی و قانون کولن"
       },
       {
        "id": "ir11p-ch1-l2",
-       "title": "The electric field"
+       "title": "میدان الکتریکی"
       },
       {
        "id": "ir11p-ch1-l3",
-       "title": "Electric potential and potential difference"
+       "title": "پتانسیل الکتریکی و اختلاف پتانسیل"
       }
      ]
     }
@@ -13219,19 +13219,19 @@
    "chapters": [
     {
      "id": "ir11c-ch1",
-     "title": "Earth's Gifts: Elements and Redox",
+     "title": "هدیه‌های زمین: عنصرها و اکسایش-کاهش",
      "lessons": [
       {
        "id": "ir11c-ch1-l1",
-       "title": "Periodic trends in the table"
+       "title": "روندهای تناوبی در جدول"
       },
       {
        "id": "ir11c-ch1-l2",
-       "title": "Oxidation-reduction reactions"
+       "title": "واکنش‌های اکسایش-کاهش"
       },
       {
        "id": "ir11c-ch1-l3",
-       "title": "Activity series and corrosion"
+       "title": "سری فعالیت و خوردگی"
       }
      ]
     }
@@ -13244,19 +13244,19 @@
    "chapters": [
     {
      "id": "ir12m-ch1",
-     "title": "Limits and Derivatives",
+     "title": "حد و مشتق",
      "lessons": [
       {
        "id": "ir12m-ch1-l1",
-       "title": "The concept of a limit"
+       "title": "مفهوم حد"
       },
       {
        "id": "ir12m-ch1-l2",
-       "title": "The derivative and the tangent slope"
+       "title": "مشتق و شیب مماس"
       },
       {
        "id": "ir12m-ch1-l3",
-       "title": "Differentiation rules"
+       "title": "قاعده‌های مشتق‌گیری"
       }
      ]
     }
@@ -13269,19 +13269,19 @@
    "chapters": [
     {
      "id": "ir12p-ch1",
-     "title": "Motion on a Straight Line",
+     "title": "حرکت روی خط راست",
      "lessons": [
       {
        "id": "ir12p-ch1-l1",
-       "title": "Position, displacement and velocity"
+       "title": "مکان، جابه‌جایی و سرعت"
       },
       {
        "id": "ir12p-ch1-l2",
-       "title": "Motion with constant acceleration"
+       "title": "حرکت با شتاب ثابت"
       },
       {
        "id": "ir12p-ch1-l3",
-       "title": "Free fall"
+       "title": "سقوط آزاد"
       }
      ]
     }
@@ -13294,19 +13294,19 @@
    "chapters": [
     {
      "id": "ir12c-ch1",
-     "title": "Cleansing Agents and Acids",
+     "title": "پاک‌کننده‌ها و اسیدها",
      "lessons": [
       {
        "id": "ir12c-ch1-l1",
-       "title": "Soap"
+       "title": "صابون"
       },
       {
        "id": "ir12c-ch1-l2",
-       "title": "Non-soap detergents"
+       "title": "پاک‌کننده‌های غیرصابونی"
       },
       {
        "id": "ir12c-ch1-l3",
-       "title": "Acids, bases and pH"
+       "title": "اسیدها، بازها و pH"
       }
      ]
     }
