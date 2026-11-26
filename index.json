@@ -13209,6 +13209,60 @@
        "title": "پتانسیل الکتریکی و اختلاف پتانسیل"
       }
      ]
+    },
+    {
+     "id": "ir11p-ch2",
+     "title": "Electric Current and DC Circuits",
+     "lessons": [
+      {
+       "id": "ir11p-ch2-l1",
+       "title": "Current, resistance and Ohm's law"
+      },
+      {
+       "id": "ir11p-ch2-l2",
+       "title": "Series and parallel circuits"
+      },
+      {
+       "id": "ir11p-ch2-l3",
+       "title": "Electric power, EMF and internal resistance"
+      }
+     ]
+    },
+    {
+     "id": "ir11p-ch3",
+     "title": "Magnetism",
+     "lessons": [
+      {
+       "id": "ir11p-ch3-l1",
+       "title": "Magnetic field and its sources"
+      },
+      {
+       "id": "ir11p-ch3-l2",
+       "title": "Force on a moving charge and on a current-carrying wire"
+      },
+      {
+       "id": "ir11p-ch3-l3",
+       "title": "Magnetic materials"
+      }
+     ]
+    },
+    {
+     "id": "ir11p-ch4",
+     "title": "Electromagnetic Induction and Alternating Current",
+     "lessons": [
+      {
+       "id": "ir11p-ch4-l1",
+       "title": "Magnetic flux and Faraday's law"
+      },
+      {
+       "id": "ir11p-ch4-l2",
+       "title": "Lenz's law and motional emf"
+      },
+      {
+       "id": "ir11p-ch4-l3",
+       "title": "Alternating current and transformers"
+      }
+     ]
     }
    ]
   },
@@ -13232,6 +13286,46 @@
       {
        "id": "ir11c-ch1-l3",
        "title": "سری فعالیت و خوردگی"
+      }
+     ]
+    },
+    {
+     "id": "ir11c-ch2",
+     "title": "In Pursuit of Healthy Food",
+     "lessons": [
+      {
+       "id": "ir11c-ch2-l1",
+       "title": "Reaction rate"
+      },
+      {
+       "id": "ir11c-ch2-l2",
+       "title": "Factors affecting reaction rate"
+      },
+      {
+       "id": "ir11c-ch2-l3",
+       "title": "Enthalpy and heat of reaction"
+      },
+      {
+       "id": "ir11c-ch2-l4",
+       "title": "Energy in food"
+      }
+     ]
+    },
+    {
+     "id": "ir11c-ch3",
+     "title": "Clothing, an Endless Need",
+     "lessons": [
+      {
+       "id": "ir11c-ch3-l1",
+       "title": "Hydrocarbons: alkanes and alkenes"
+      },
+      {
+       "id": "ir11c-ch3-l2",
+       "title": "Polymers and polymerization"
+      },
+      {
+       "id": "ir11c-ch3-l3",
+       "title": "Fibers, plastics and recycling"
       }
      ]
     }
