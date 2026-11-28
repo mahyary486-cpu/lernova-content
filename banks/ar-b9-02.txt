@@ -1,30 +1,30 @@
 #EEEEEEEEEEMMMMMMMMMHHHHHHHHHH
-¿Cuáles son las bases nitrogenadas del ADN?|Adenina, uracilo, guanina y citosina|Adenina, timina, guanina y citosina|Solo adenina y timina|Glucosa y fructosa|1|En el ARN la timina se reemplaza por uracilo.
+¿Cuáles son las bases nitrogenadas del ADN?|Solo adenina y timina|Glucosa y fructosa|Adenina, timina, guanina y citosina|Adenina, uracilo, guanina y citosina|2|En el ARN la timina se reemplaza por uracilo.
 ¿Cuáles son los cromosomas sexuales de una mujer?|XX|YY|XY|X|0|Las mujeres son XX y los varones XY.
-¿Quién es considerado el padre de la genética?|Robert Hooke|Charles Darwin|Gregor Mendel|Louis Pasteur|2|Mendel estudió la herencia en plantas de arveja.
+¿Quién es considerado el padre de la genética?|Charles Darwin|Gregor Mendel|Robert Hooke|Louis Pasteur|1|Mendel estudió la herencia en plantas de arveja.
 Un alelo dominante se expresa:|Nunca|Solo en varones|Aunque haya solo una copia|Solo con dos copias|2|El dominante enmascara al recesivo en el heterocigota.
 ¿Qué es un gen?|Una proteína|Una célula|Un fragmento de ADN que codifica una característica|Un órgano|2|Los genes determinan los rasgos hereditarios.
-¿Cuáles son los cromosomas sexuales de un varón?|XY|XXY|XX|YY|0|Heredan X de la madre e Y del padre.
-¿Qué es el genotipo?|El número de células|El conjunto de genes de un individuo|El color del pelo|El aspecto externo|1|El fenotipo es lo observable.
-¿Cómo se llama la forma que tienen las moléculas de ADN?|Esfera|Cadena simple|Cubo|Doble hélice|3|Fue descripta por Watson y Crick.
-¿Cuántos cromosomas tiene una célula humana somática?|48|23|44|46|3|Son 23 pares.
-¿Qué molécula contiene la información genética?|ADN|ATP|Glucosa|Clorofila|0|El ácido desoxirribonucleico guarda las instrucciones.
-¿Cuál es el apareamiento de bases en el ADN?|A con A|A con C y T con G|A con T y C con G|A con G y T con C|2|Se unen por puentes de hidrógeno.
-En una cruza Aa × Aa, ¿qué proporción de descendientes será aa?|0|1/4|3/4|1/2|1|Con el cuadro de Punnett: AA, Aa, Aa, aa.
-En una cruza AA × aa, todos los descendientes son:|AA|Aa|La mitad AA y la mitad aa|aa|1|Heredan un alelo de cada padre.
-¿Qué es una mutación?|Una proteína|Un tipo de célula|Una división celular|Un cambio en la secuencia del ADN|3|Puede ser perjudicial, neutra o beneficiosa.
-¿Qué es un individuo heterocigota?|No tiene alelos|Tiene tres alelos|Tiene dos alelos iguales|Tiene dos alelos distintos para un gen|3|Por ejemplo, Aa.
-En una cruza Aa × Aa, ¿qué proporción mostrará el fenotipo dominante?|1/2|3/4|0|1/4|1|AA y Aa (3 de 4) lo muestran.
-Un individuo homocigota recesivo se escribe:|Aa|AA|aA|aa|3|Tiene dos copias del alelo recesivo.
-Si una cadena de ADN dice ATGC, la complementaria es:|ATGC|TAGC|CGTA|TACG|3|A–T, T–A, G–C, C–G.
-¿Qué proceso copia el ADN antes de la división celular?|Digestión|Replicación|Traducción|Transcripción|1|Cada cadena sirve de molde.
-Una pareja de grupos sanguíneos heterocigotas Aa (para un rasgo recesivo) tiene un hijo aa. ¿Cuál es la probabilidad de que el próximo sea aa?|1/2|3/4|1/4|0|2|Cada hijo es un evento independiente.
-Un codón está formado por:|Tres nucleótidos|Dos nucleótidos|Un nucleótido|Cuatro nucleótidos|0|Cada codón especifica un aminoácido.
-¿Qué proceso sintetiza ARN mensajero a partir del ADN?|Transcripción|Replicación|Mitosis|Traducción|0|Ocurre en el núcleo.
-Si un padre XY y una madre XX tienen un hijo, la probabilidad de que sea varón es:|1|0|1/4|1/2|3|El espermatozoide puede llevar X o Y.
-En una cruza Aa × aa, ¿qué proporción de descendientes será Aa?|1/2|3/4|1/4|1|0|Los hijos serán Aa y aa en igual proporción.
-¿Por qué los gemelos idénticos tienen el mismo genotipo?|Provienen del mismo cigoto|Tienen distintos padres|Tienen distinta edad|Provienen de dos óvulos|0|El cigoto se divide en dos embriones.
-¿En qué consiste la traducción?|En la división del núcleo|En la copia del ADN|En la síntesis de proteínas a partir del ARN mensajero|En la formación de gametas|2|Ocurre en los ribosomas.
-¿Qué diferencia hay entre fenotipo y genotipo?|Son sinónimos|El genotipo es lo observable|El fenotipo es lo observable y el genotipo la información genética|El fenotipo es el ADN|2|El ambiente también influye en el fenotipo.
-¿Qué ventaja puede aportar la ingeniería genética?|Cambiar la gravedad|Producir insulina o mejorar cultivos|Eliminar el ADN|Crear energía|1|Un ejemplo es la insulina humana producida por bacterias.
-El síndrome de Down se debe a:|Falta de un cromosoma|Una infección|Un cromosoma 21 de más|Un alelo recesivo|2|Es una trisomía.
+¿Cuáles son los cromosomas sexuales de un varón?|XX|XY|YY|XXY|1|Heredan X de la madre e Y del padre.
+¿Qué es el genotipo?|El conjunto de genes de un individuo|El aspecto externo|El color del pelo|El número de células|0|El fenotipo es lo observable.
+¿Cómo se llama la forma que tienen las moléculas de ADN?|Cadena simple|Doble hélice|Cubo|Esfera|1|Fue descripta por Watson y Crick.
+¿Cuántos cromosomas tiene una célula humana somática?|48|46|23|44|1|Son 23 pares.
+¿Qué molécula contiene la información genética?|ATP|ADN|Clorofila|Glucosa|1|El ácido desoxirribonucleico guarda las instrucciones.
+¿Cuál es el apareamiento de bases en el ADN?|A con A|A con G y T con C|A con C y T con G|A con T y C con G|3|Se unen por puentes de hidrógeno.
+En una cruza Aa × Aa, ¿qué proporción de descendientes será aa?|1/4|3/4|1/2|0|0|Con el cuadro de Punnett: AA, Aa, Aa, aa.
+En una cruza AA × aa, todos los descendientes son:|aa|AA|Aa|La mitad AA y la mitad aa|2|Heredan un alelo de cada padre.
+¿Qué es una mutación?|Un cambio en la secuencia del ADN|Un tipo de célula|Una división celular|Una proteína|0|Puede ser perjudicial, neutra o beneficiosa.
+¿Qué es un individuo heterocigota?|No tiene alelos|Tiene dos alelos iguales|Tiene tres alelos|Tiene dos alelos distintos para un gen|3|Por ejemplo, Aa.
+En una cruza Aa × Aa, ¿qué proporción mostrará el fenotipo dominante?|1/2|1/4|0|3/4|3|AA y Aa (3 de 4) lo muestran.
+Un individuo homocigota recesivo se escribe:|aA|AA|aa|Aa|2|Tiene dos copias del alelo recesivo.
+Si una cadena de ADN dice ATGC, la complementaria es:|ATGC|CGTA|TACG|TAGC|2|A–T, T–A, G–C, C–G.
+¿Qué proceso copia el ADN antes de la división celular?|Replicación|Transcripción|Digestión|Traducción|0|Cada cadena sirve de molde.
+Una pareja de grupos sanguíneos heterocigotas Aa (para un rasgo recesivo) tiene un hijo aa. ¿Cuál es la probabilidad de que el próximo sea aa?|1/2|3/4|0|1/4|3|Cada hijo es un evento independiente.
+Un codón está formado por:|Cuatro nucleótidos|Tres nucleótidos|Un nucleótido|Dos nucleótidos|1|Cada codón especifica un aminoácido.
+¿Qué proceso sintetiza ARN mensajero a partir del ADN?|Replicación|Mitosis|Traducción|Transcripción|3|Ocurre en el núcleo.
+Si un padre XY y una madre XX tienen un hijo, la probabilidad de que sea varón es:|1/2|1/4|0|1|0|El espermatozoide puede llevar X o Y.
+En una cruza Aa × aa, ¿qué proporción de descendientes será Aa?|1/4|3/4|1/2|1|2|Los hijos serán Aa y aa en igual proporción.
+¿Por qué los gemelos idénticos tienen el mismo genotipo?|Tienen distinta edad|Provienen de dos óvulos|Tienen distintos padres|Provienen del mismo cigoto|3|El cigoto se divide en dos embriones.
+¿En qué consiste la traducción?|En la síntesis de proteínas a partir del ARN mensajero|En la copia del ADN|En la formación de gametas|En la división del núcleo|0|Ocurre en los ribosomas.
+¿Qué diferencia hay entre fenotipo y genotipo?|El genotipo es lo observable|El fenotipo es lo observable y el genotipo la información genética|Son sinónimos|El fenotipo es el ADN|1|El ambiente también influye en el fenotipo.
+¿Qué ventaja puede aportar la ingeniería genética?|Crear energía|Cambiar la gravedad|Producir insulina o mejorar cultivos|Eliminar el ADN|2|Un ejemplo es la insulina humana producida por bacterias.
+El síndrome de Down se debe a:|Falta de un cromosoma|Un alelo recesivo|Una infección|Un cromosoma 21 de más|3|Es una trisomía.

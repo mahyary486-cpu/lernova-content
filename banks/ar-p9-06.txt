@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-Una onda tiene longitud de onda 0,5 m y frecuencia 20 Hz. ¿Cuál es su velocidad?|3602879701896397/144115188075855872 m/s|41/2 m/s|10 m/s|40 m/s|2|v = λ · f = 0,5 · 20 = 10 m/s.
-Una onda tiene longitud de onda 10 m y frecuencia 3 Hz. ¿Cuál es su velocidad?|7505999378950827/2251799813685248 m/s|13 m/s|5404319552844595/18014398509481984 m/s|30 m/s|3|v = λ · f = 10 · 3 = 30 m/s.
-¿En qué unidad se mide la frecuencia?|Watt|Hertz|Metro|Segundo|1|1 Hz = 1 oscilación por segundo.
-El sonido es una onda:|Electromagnética|Mecánica y longitudinal|Transversal que viaja en el vacío|De luz|1|El sonido necesita un medio material.
-Una onda tiene una frecuencia de 100 Hz. ¿Cuál es su período?|1/200 s|100 s|0,01 s|200 s|2|T = 1/f = 1/100 = 0,01 s.
-Una onda tiene una frecuencia de 50 Hz. ¿Cuál es su período?|1/100 s|50 s|100 s|0,02 s|3|T = 1/f = 1/50 = 0,02 s.
-¿Qué transportan las ondas?|Cargas eléctricas|Masa y energía|Energía sin transportar materia|Materia sin energía|2|Una onda propaga una perturbación; las partículas oscilan pero no viajan con ella.
-Una onda tiene una frecuencia de 10 Hz. ¿Cuál es su período?|20 s|1/20 s|10 s|0,1 s|3|T = 1/f = 1/10 = 0,1 s.
-Una onda tiene longitud de onda 4 m y frecuencia 10 Hz. ¿Cuál es su velocidad?|3602879701896397/9007199254740992 m/s|14 m/s|40 m/s|5/2 m/s|2|v = λ · f = 4 · 10 = 40 m/s.
-Una onda tiene longitud de onda 0,2 m y frecuencia 100 Hz. ¿Cuál es su velocidad?|20 m/s|7050948166601933/70368744177664 m/s|500 m/s|1152921504606847/576460752303423488 m/s|0|v = λ · f = 0,2 · 100 = 20 m/s.
-Se ve un relámpago y el trueno se escucha 3 s después. ¿A qué distancia cayó el rayo? (340 m/s)|510 m|1020 m|340/3 m|343 m|1|d = v · t = 340 · 3 = 1020 m (la luz llega casi instantáneamente).
-Un eco se escucha 6 s después de emitir un sonido. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|170/3 m|1020 m|2040 m|4080 m|1|El sonido hace ida y vuelta: d = v · t / 2 = 340 · 6 / 2 = 1020 m.
-¿Cuál de estas ondas puede propagarse en el vacío?|Las ondas en el agua|Las ondas en una cuerda|El sonido|La luz|3|La luz es una onda electromagnética y no necesita medio material.
-¿Cuál de las siguientes magnitudes determina el tono (agudo o grave) de un sonido?|La amplitud|La frecuencia|El timbre|La velocidad|1|A mayor frecuencia, más agudo.
-Un sonido de 170 Hz se propaga a 340 m/s. ¿Cuánto vale su longitud de onda?|57800 m|1/2 m|2 m|170 m|2|λ = v/f = 340/170 = 2 m.
-Se ve un relámpago y el trueno se escucha 6 s después. ¿A qué distancia cayó el rayo? (340 m/s)|346 m|170/3 m|1020 m|2040 m|3|d = v · t = 340 · 6 = 2040 m (la luz llega casi instantáneamente).
-Un sonido de 68 Hz se propaga a 340 m/s. ¿Cuánto vale su longitud de onda?|1/5 m|5 m|272 m|23120 m|1|λ = v/f = 340/68 = 5 m.
-Un eco se escucha 1 s después de emitir un sonido. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|171 m|170 m|340 m|680 m|1|El sonido hace ida y vuelta: d = v · t / 2 = 340 · 1 / 2 = 170 m.
-¿Qué característica del sonido determina su volumen (fuerte o débil)?|La amplitud|El período|La frecuencia|La longitud de onda|0|A mayor amplitud, mayor intensidad sonora.
-Se ve un relámpago y el trueno se escucha 2 s después. ¿A qué distancia cayó el rayo? (340 m/s)|342 m|680 m|170 m|340 m|1|d = v · t = 340 · 2 = 680 m (la luz llega casi instantáneamente).
+Una onda tiene longitud de onda 0,5 m y frecuencia 20 Hz. ¿Cuál es su velocidad?|40 m/s|10 m/s|41/2 m/s|3602879701896397/144115188075855872 m/s|1|v = λ · f = 0,5 · 20 = 10 m/s.
+Una onda tiene longitud de onda 10 m y frecuencia 3 Hz. ¿Cuál es su velocidad?|30 m/s|7505999378950827/2251799813685248 m/s|5404319552844595/18014398509481984 m/s|13 m/s|0|v = λ · f = 10 · 3 = 30 m/s.
+¿En qué unidad se mide la frecuencia?|Segundo|Watt|Metro|Hertz|3|1 Hz = 1 oscilación por segundo.
+El sonido es una onda:|De luz|Mecánica y longitudinal|Transversal que viaja en el vacío|Electromagnética|1|El sonido necesita un medio material.
+Una onda tiene una frecuencia de 100 Hz. ¿Cuál es su período?|100 s|1/200 s|200 s|0,01 s|3|T = 1/f = 1/100 = 0,01 s.
+Una onda tiene una frecuencia de 50 Hz. ¿Cuál es su período?|1/100 s|100 s|0,02 s|50 s|2|T = 1/f = 1/50 = 0,02 s.
+¿Qué transportan las ondas?|Cargas eléctricas|Materia sin energía|Masa y energía|Energía sin transportar materia|3|Una onda propaga una perturbación; las partículas oscilan pero no viajan con ella.
+Una onda tiene una frecuencia de 10 Hz. ¿Cuál es su período?|0,1 s|1/20 s|20 s|10 s|0|T = 1/f = 1/10 = 0,1 s.
+Una onda tiene longitud de onda 4 m y frecuencia 10 Hz. ¿Cuál es su velocidad?|5/2 m/s|3602879701896397/9007199254740992 m/s|40 m/s|14 m/s|2|v = λ · f = 4 · 10 = 40 m/s.
+Una onda tiene longitud de onda 0,2 m y frecuencia 100 Hz. ¿Cuál es su velocidad?|7050948166601933/70368744177664 m/s|1152921504606847/576460752303423488 m/s|20 m/s|500 m/s|2|v = λ · f = 0,2 · 100 = 20 m/s.
+Se ve un relámpago y el trueno se escucha 3 s después. ¿A qué distancia cayó el rayo? (340 m/s)|510 m|1020 m|343 m|340/3 m|1|d = v · t = 340 · 3 = 1020 m (la luz llega casi instantáneamente).
+Un eco se escucha 6 s después de emitir un sonido. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|1020 m|2040 m|4080 m|170/3 m|0|El sonido hace ida y vuelta: d = v · t / 2 = 340 · 6 / 2 = 1020 m.
+¿Cuál de estas ondas puede propagarse en el vacío?|La luz|El sonido|Las ondas en el agua|Las ondas en una cuerda|0|La luz es una onda electromagnética y no necesita medio material.
+¿Cuál de las siguientes magnitudes determina el tono (agudo o grave) de un sonido?|La amplitud|El timbre|La velocidad|La frecuencia|3|A mayor frecuencia, más agudo.
+Un sonido de 170 Hz se propaga a 340 m/s. ¿Cuánto vale su longitud de onda?|170 m|1/2 m|2 m|57800 m|2|λ = v/f = 340/170 = 2 m.
+Se ve un relámpago y el trueno se escucha 6 s después. ¿A qué distancia cayó el rayo? (340 m/s)|170/3 m|2040 m|1020 m|346 m|1|d = v · t = 340 · 6 = 2040 m (la luz llega casi instantáneamente).
+Un sonido de 68 Hz se propaga a 340 m/s. ¿Cuánto vale su longitud de onda?|272 m|5 m|23120 m|1/5 m|1|λ = v/f = 340/68 = 5 m.
+Un eco se escucha 1 s después de emitir un sonido. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|340 m|680 m|171 m|170 m|3|El sonido hace ida y vuelta: d = v · t / 2 = 340 · 1 / 2 = 170 m.
+¿Qué característica del sonido determina su volumen (fuerte o débil)?|La longitud de onda|El período|La amplitud|La frecuencia|2|A mayor amplitud, mayor intensidad sonora.
+Se ve un relámpago y el trueno se escucha 2 s después. ¿A qué distancia cayó el rayo? (340 m/s)|680 m|342 m|340 m|170 m|0|d = v · t = 340 · 2 = 680 m (la luz llega casi instantáneamente).
 ¿Qué fenómeno produce el arco iris?|Difracción del sonido|Interferencia de ondas de radio|Dispersión de la luz en gotas de agua|Reflexión total en espejos|2|La luz blanca se refracta y se separa en colores.
-Un sonido agudo, comparado con uno grave, tiene:|Mayor amplitud siempre|Menor frecuencia|Mayor frecuencia|Mayor período|2|Los sonidos agudos tienen frecuencias altas y períodos cortos.
-Una onda en una cuerda avanza a 24 m/s y se generan 4 oscilaciones por segundo. ¿Cuál es la distancia entre dos crestas consecutivas?|96 m|28 m|1/6 m|6 m|3|La distancia entre crestas es la longitud de onda: λ = v/f = 24/4 = 6 m.
-Una onda en una cuerda avanza a 20 m/s y se generan 5 oscilaciones por segundo. ¿Cuál es la distancia entre dos crestas consecutivas?|25 m|4 m|100 m|1/4 m|1|La distancia entre crestas es la longitud de onda: λ = v/f = 20/5 = 4 m.
-La reflexión de la luz en un espejo plano cumple que:|La luz no cambia de dirección|El ángulo de incidencia es el doble del de reflexión|El rayo reflejado es perpendicular al incidente|El ángulo de incidencia es igual al ángulo de reflexión|3|Es la ley de la reflexión.
-Un sonido tarda 0,5 s en ir y volver tras reflejarse en una pared. Si v = 340 m/s, ¿a qué distancia está la pared?|42 m|86 m|85 m|170 m|2|d = v·t/2 = 340 · 0,5 / 2 = 85 m.
-Cuando una onda sonora pasa del aire al agua, ¿qué magnitud permanece constante?|La amplitud|La longitud de onda|La frecuencia|La velocidad|2|La frecuencia depende de la fuente; la velocidad y λ cambian con el medio.
-La luz viaja a 300 000 km/s en el vacío. En un vidrio de índice de refracción 1,33, ¿qué velocidad tiene (aprox.)?|112.782 km/s|300.000 km/s|399.000 km/s|225.564 km/s|3|n = c/v → v = c/n = 300 000/1,33 ≈ 225.564 km/s.
-Un sonido tarda 2 s en ir y volver tras reflejarse en una pared. Si v = 340 m/s, ¿a qué distancia está la pared?|341 m|170 m|340 m|680 m|2|d = v·t/2 = 340 · 2 / 2 = 340 m.
-Un sonido tarda 6 s en ir y volver tras reflejarse en una pared. Si v = 340 m/s, ¿a qué distancia está la pared?|1020 m|1021 m|2040 m|510 m|0|d = v·t/2 = 340 · 6 / 2 = 1020 m.
+Un sonido agudo, comparado con uno grave, tiene:|Mayor frecuencia|Menor frecuencia|Mayor período|Mayor amplitud siempre|0|Los sonidos agudos tienen frecuencias altas y períodos cortos.
+Una onda en una cuerda avanza a 24 m/s y se generan 4 oscilaciones por segundo. ¿Cuál es la distancia entre dos crestas consecutivas?|96 m|28 m|6 m|1/6 m|2|La distancia entre crestas es la longitud de onda: λ = v/f = 24/4 = 6 m.
+Una onda en una cuerda avanza a 20 m/s y se generan 5 oscilaciones por segundo. ¿Cuál es la distancia entre dos crestas consecutivas?|1/4 m|4 m|25 m|100 m|1|La distancia entre crestas es la longitud de onda: λ = v/f = 20/5 = 4 m.
+La reflexión de la luz en un espejo plano cumple que:|La luz no cambia de dirección|El rayo reflejado es perpendicular al incidente|El ángulo de incidencia es el doble del de reflexión|El ángulo de incidencia es igual al ángulo de reflexión|3|Es la ley de la reflexión.
+Un sonido tarda 0,5 s en ir y volver tras reflejarse en una pared. Si v = 340 m/s, ¿a qué distancia está la pared?|85 m|42 m|170 m|86 m|0|d = v·t/2 = 340 · 0,5 / 2 = 85 m.
+Cuando una onda sonora pasa del aire al agua, ¿qué magnitud permanece constante?|La velocidad|La frecuencia|La amplitud|La longitud de onda|1|La frecuencia depende de la fuente; la velocidad y λ cambian con el medio.
+La luz viaja a 300 000 km/s en el vacío. En un vidrio de índice de refracción 1,33, ¿qué velocidad tiene (aprox.)?|399.000 km/s|300.000 km/s|225.564 km/s|112.782 km/s|2|n = c/v → v = c/n = 300 000/1,33 ≈ 225.564 km/s.
+Un sonido tarda 2 s en ir y volver tras reflejarse en una pared. Si v = 340 m/s, ¿a qué distancia está la pared?|340 m|341 m|680 m|170 m|0|d = v·t/2 = 340 · 2 / 2 = 340 m.
+Un sonido tarda 6 s en ir y volver tras reflejarse en una pared. Si v = 340 m/s, ¿a qué distancia está la pared?|2040 m|510 m|1021 m|1020 m|3|d = v·t/2 = 340 · 6 / 2 = 1020 m.

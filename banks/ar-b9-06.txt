@@ -1,29 +1,29 @@
 #EEEEEEEEEEMMMMMMMMHHHHHHHHHH
-¿Cuál es un factor abiótico?|Un hongo|Una bacteria|La temperatura|Un árbol|2|Los abióticos son los componentes no vivos.
-¿Cuál es la fuente principal de energía de la mayoría de los ecosistemas?|El suelo|El Sol|El viento|El agua|1|La luz solar impulsa la fotosíntesis.
-¿Cómo se llaman los organismos que se alimentan de otros?|Fotosintéticos|Productores|Autótrofos|Consumidores|3|Pueden ser herbívoros, carnívoros u omnívoros.
-¿Qué gas aumenta el efecto invernadero por la quema de combustibles?|Dióxido de carbono|Oxígeno|Helio|Nitrógeno|0|Retiene calor en la atmósfera.
-¿Cómo se llaman los organismos que producen su propio alimento?|Productores|Descomponedores|Consumidores|Parásitos|0|Las plantas producen alimento por fotosíntesis.
-¿Qué es un ecosistema?|Conjunto de seres vivos y factores no vivos que interactúan en un lugar|Un solo animal|Una población|Un tipo de roca|0|Incluye factores bióticos y abióticos.
-¿Qué función cumplen los descomponedores?|Cazan presas|Fabrican alimento con luz|Producen oxígeno|Degradan materia orgánica y reciclan nutrientes|3|Hongos y bacterias.
-¿Cuál es un factor biótico?|El suelo|Un insecto|La luz|El agua|1|Los bióticos son los seres vivos.
-Un animal que come solo plantas es:|Herbívoro|Omnívoro|Carnívoro|Descomponedor|0|Por ejemplo, la vaca.
-¿Qué estudia la ecología?|Las rocas|Solo los animales|Solo las plantas|Las relaciones entre los seres vivos y su ambiente|3|Estudia los ecosistemas.
-¿Qué es el efecto invernadero natural?|Un fenómeno inexistente|Un proceso del suelo|Un tipo de lluvia|La retención de calor que permite una temperatura apta para la vida|3|Sin él la Tierra sería mucho más fría.
-En la cadena pasto → conejo → zorro, el conejo es:|Productor|Descomponedor|Consumidor secundario|Consumidor primario|3|Se alimenta del productor.
-¿Cómo se llama la relación en que una especie se beneficia y perjudica a la otra viviendo sobre ella?|Comensalismo|Parasitismo|Neutralismo|Mutualismo|1|Ejemplo: pulgas en un perro.
-¿Qué ocurre con la energía a medida que se asciende en una cadena alimentaria?|Se duplica|Aumenta|Se mantiene|Disminuye|3|Solo cerca del 10 % pasa al nivel siguiente.
-¿Cómo se llama la relación en que ambas especies se benefician?|Competencia|Mutualismo|Parasitismo|Depredación|1|Por ejemplo, abejas y flores.
+¿Cuál es un factor abiótico?|Un hongo|La temperatura|Un árbol|Una bacteria|1|Los abióticos son los componentes no vivos.
+¿Cuál es la fuente principal de energía de la mayoría de los ecosistemas?|El Sol|El suelo|El agua|El viento|0|La luz solar impulsa la fotosíntesis.
+¿Cómo se llaman los organismos que se alimentan de otros?|Autótrofos|Consumidores|Fotosintéticos|Productores|1|Pueden ser herbívoros, carnívoros u omnívoros.
+¿Qué gas aumenta el efecto invernadero por la quema de combustibles?|Helio|Dióxido de carbono|Oxígeno|Nitrógeno|1|Retiene calor en la atmósfera.
+¿Cómo se llaman los organismos que producen su propio alimento?|Consumidores|Parásitos|Productores|Descomponedores|2|Las plantas producen alimento por fotosíntesis.
+¿Qué es un ecosistema?|Una población|Un tipo de roca|Conjunto de seres vivos y factores no vivos que interactúan en un lugar|Un solo animal|2|Incluye factores bióticos y abióticos.
+¿Qué función cumplen los descomponedores?|Fabrican alimento con luz|Degradan materia orgánica y reciclan nutrientes|Cazan presas|Producen oxígeno|1|Hongos y bacterias.
+¿Cuál es un factor biótico?|Un insecto|El agua|La luz|El suelo|0|Los bióticos son los seres vivos.
+Un animal que come solo plantas es:|Omnívoro|Carnívoro|Herbívoro|Descomponedor|2|Por ejemplo, la vaca.
+¿Qué estudia la ecología?|Las relaciones entre los seres vivos y su ambiente|Las rocas|Solo las plantas|Solo los animales|0|Estudia los ecosistemas.
+¿Qué es el efecto invernadero natural?|La retención de calor que permite una temperatura apta para la vida|Un fenómeno inexistente|Un tipo de lluvia|Un proceso del suelo|0|Sin él la Tierra sería mucho más fría.
+En la cadena pasto → conejo → zorro, el conejo es:|Descomponedor|Consumidor secundario|Productor|Consumidor primario|3|Se alimenta del productor.
+¿Cómo se llama la relación en que una especie se beneficia y perjudica a la otra viviendo sobre ella?|Parasitismo|Comensalismo|Mutualismo|Neutralismo|0|Ejemplo: pulgas en un perro.
+¿Qué ocurre con la energía a medida que se asciende en una cadena alimentaria?|Disminuye|Aumenta|Se duplica|Se mantiene|0|Solo cerca del 10 % pasa al nivel siguiente.
+¿Cómo se llama la relación en que ambas especies se benefician?|Parasitismo|Depredación|Mutualismo|Competencia|2|Por ejemplo, abejas y flores.
 En esa cadena, el zorro es:|Consumidor primario|Productor|Descomponedor|Consumidor secundario|3|Se alimenta de un herbívoro.
-¿Cómo se llama el proceso por el cual las plantas liberan agua a la atmósfera?|Fotosíntesis|Respiración|Digestión|Transpiración|3|Forma parte del ciclo del agua.
-¿Qué representa una cadena alimentaria?|La reproducción|La evolución|La transferencia de energía y materia de un organismo a otro|El clima|2|Pasto → conejo → zorro.
-¿Qué causa la lluvia ácida?|El helio|La falta de nubes|El exceso de oxígeno|Óxidos de azufre y nitrógeno en la atmósfera|3|Provienen de la quema de combustibles.
-Si desaparecen los depredadores de una zona, la población de presas:|No cambia|Disminuye siempre|Puede aumentar descontroladamente|Desaparece|2|Se rompe el equilibrio.
-¿Cuál es una fuente de energía renovable?|Carbón|Gas natural|Petróleo|Solar|3|El Sol, el viento y el agua se renuevan.
-¿Qué problema causa el exceso de fertilizantes que llega a un lago?|Eutrofización|Sequía|Lluvia ácida|Terremotos|0|Crecen las algas y baja el oxígeno del agua.
-¿Qué es una huella de carbono?|Un tipo de carbón|Un fósil|La marca de un pie|La cantidad de gases de efecto invernadero que produce una actividad|3|Sirve para medir el impacto ambiental.
-¿Por qué hay menos carnívoros que herbívoros en un ecosistema?|Porque tienen más energía|Porque los carnívoros no comen|Porque viven menos|Porque la energía disminuye en cada nivel trófico|3|Los niveles superiores disponen de menos energía.
-¿Qué es la capa de ozono?|Una capa del suelo|Una capa de la atmósfera que filtra la radiación ultravioleta|Un tipo de nube|Un océano|1|Los CFC la dañan.
-¿Cuál es una consecuencia de la deforestación?|Aumento de la biodiversidad|Más lluvias siempre|Mejor calidad del aire|Pérdida de biodiversidad y erosión del suelo|3|Los árboles retienen suelo y agua.
-¿Cuál es una medida para reducir los residuos?|Enterrar plásticos|Reducir, reutilizar y reciclar|Consumir más|Quemar la basura|1|Son las tres R.
-¿Qué es el desarrollo sostenible?|Consumir todo lo posible|No usar recursos|Satisfacer las necesidades actuales sin comprometer las de las generaciones futuras|Proteger solo una especie|2|Equilibra economía, sociedad y ambiente.
+¿Cómo se llama el proceso por el cual las plantas liberan agua a la atmósfera?|Respiración|Transpiración|Digestión|Fotosíntesis|1|Forma parte del ciclo del agua.
+¿Qué representa una cadena alimentaria?|La reproducción|El clima|La transferencia de energía y materia de un organismo a otro|La evolución|2|Pasto → conejo → zorro.
+¿Qué causa la lluvia ácida?|El exceso de oxígeno|La falta de nubes|El helio|Óxidos de azufre y nitrógeno en la atmósfera|3|Provienen de la quema de combustibles.
+Si desaparecen los depredadores de una zona, la población de presas:|Desaparece|No cambia|Disminuye siempre|Puede aumentar descontroladamente|3|Se rompe el equilibrio.
+¿Cuál es una fuente de energía renovable?|Gas natural|Petróleo|Solar|Carbón|2|El Sol, el viento y el agua se renuevan.
+¿Qué problema causa el exceso de fertilizantes que llega a un lago?|Terremotos|Sequía|Lluvia ácida|Eutrofización|3|Crecen las algas y baja el oxígeno del agua.
+¿Qué es una huella de carbono?|Un tipo de carbón|La marca de un pie|La cantidad de gases de efecto invernadero que produce una actividad|Un fósil|2|Sirve para medir el impacto ambiental.
+¿Por qué hay menos carnívoros que herbívoros en un ecosistema?|Porque los carnívoros no comen|Porque la energía disminuye en cada nivel trófico|Porque tienen más energía|Porque viven menos|1|Los niveles superiores disponen de menos energía.
+¿Qué es la capa de ozono?|Un tipo de nube|Una capa del suelo|Un océano|Una capa de la atmósfera que filtra la radiación ultravioleta|3|Los CFC la dañan.
+¿Cuál es una consecuencia de la deforestación?|Aumento de la biodiversidad|Mejor calidad del aire|Más lluvias siempre|Pérdida de biodiversidad y erosión del suelo|3|Los árboles retienen suelo y agua.
+¿Cuál es una medida para reducir los residuos?|Reducir, reutilizar y reciclar|Consumir más|Quemar la basura|Enterrar plásticos|0|Son las tres R.
+¿Qué es el desarrollo sostenible?|Consumir todo lo posible|Satisfacer las necesidades actuales sin comprometer las de las generaciones futuras|No usar recursos|Proteger solo una especie|1|Equilibra economía, sociedad y ambiente.

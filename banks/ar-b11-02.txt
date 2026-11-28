@@ -1,29 +1,29 @@
 #EEEEEEEEEEMMMMMMMMHHHHHHHHHH
-¿Qué sentido se asocia con la cóclea?|La vista|El gusto|El oído|El tacto|2|Convierte las vibraciones en señales nerviosas.
-¿Cómo se llama el espacio entre dos neuronas?|Dendrita|Axón|Mielina|Sinapsis|3|Allí se liberan neurotransmisores.
-¿Qué parte del encéfalo controla el equilibrio y la coordinación?|Hipotálamo|Cerebelo|Cerebro|Bulbo|1|Está en la parte posterior.
-¿Cuál es la unidad estructural y funcional del sistema nervioso?|La neurona|El alvéolo|La nefrona|El glóbulo|0|Transmite impulsos eléctricos.
-¿Qué es un acto reflejo?|Una respuesta voluntaria|Un sueño|Una emoción|Una respuesta rápida e involuntaria|3|No pasa por el cerebro.
-¿Qué componentes forman el sistema nervioso central?|Músculos y huesos|Corazón y pulmones|Nervios y ganglios|Encéfalo y médula espinal|3|Está protegido por el cráneo y la columna.
-¿Qué parte del encéfalo regula el ritmo cardíaco y la respiración?|Cerebro|Bulbo raquídeo|Corteza|Cerebelo|1|Es parte del tronco encefálico.
-¿Qué hemisferio cerebral se asocia habitualmente con el lenguaje?|El izquierdo|Ninguno|El derecho|Ambos por igual|0|Aunque trabajan en conjunto.
-¿Cuáles son las partes de una neurona?|Núcleo y ribosomas|Dendritas, cuerpo celular y axón|Vellosidades|Cabeza y cola|1|Las dendritas reciben y el axón conduce.
+¿Qué sentido se asocia con la cóclea?|El oído|La vista|El tacto|El gusto|0|Convierte las vibraciones en señales nerviosas.
+¿Cómo se llama el espacio entre dos neuronas?|Axón|Mielina|Dendrita|Sinapsis|3|Allí se liberan neurotransmisores.
+¿Qué parte del encéfalo controla el equilibrio y la coordinación?|Cerebelo|Bulbo|Hipotálamo|Cerebro|0|Está en la parte posterior.
+¿Cuál es la unidad estructural y funcional del sistema nervioso?|La nefrona|La neurona|El glóbulo|El alvéolo|1|Transmite impulsos eléctricos.
+¿Qué es un acto reflejo?|Un sueño|Una respuesta voluntaria|Una emoción|Una respuesta rápida e involuntaria|3|No pasa por el cerebro.
+¿Qué componentes forman el sistema nervioso central?|Músculos y huesos|Nervios y ganglios|Encéfalo y médula espinal|Corazón y pulmones|2|Está protegido por el cráneo y la columna.
+¿Qué parte del encéfalo regula el ritmo cardíaco y la respiración?|Cerebro|Cerebelo|Bulbo raquídeo|Corteza|2|Es parte del tronco encefálico.
+¿Qué hemisferio cerebral se asocia habitualmente con el lenguaje?|Ambos por igual|El izquierdo|Ninguno|El derecho|1|Aunque trabajan en conjunto.
+¿Cuáles son las partes de una neurona?|Dendritas, cuerpo celular y axón|Núcleo y ribosomas|Cabeza y cola|Vellosidades|0|Las dendritas reciben y el axón conduce.
 ¿Qué sentido se asocia con la retina?|La vista|El oído|El olfato|El gusto|0|Contiene conos y bastones.
-¿Qué función cumple la vaina de mielina?|Acelerar la conducción del impulso|Almacenar ADN|Fabricar proteínas|Producir energía|0|La esclerosis múltiple afecta la mielina.
-¿Qué mantiene el impulso nervioso viajando por el axón?|La digestión|Un potencial de acción|La respiración|La ósmosis|1|Es un cambio rápido del potencial de membrana.
-¿Qué estructura del ojo enfoca la luz sobre la retina?|El cristalino|La esclerótica|El nervio óptico|El iris|0|Cambia su curvatura (acomodación).
-¿Qué son los neurotransmisores?|Enzimas digestivas|Anticuerpos|Sustancias químicas que transmiten la señal en la sinapsis|Hormonas de la tiroides|2|Por ejemplo, la dopamina y la serotonina.
-¿Qué estructura del ojo regula la cantidad de luz que entra?|El cristalino|La retina|El iris (pupila)|La córnea|2|La pupila se dilata o se contrae.
-¿Qué hace el sistema nervioso parasimpático?|Prepara para huir|Favorece el reposo y la digestión|Dilata las pupilas|Aumenta la presión|1|Disminuye la frecuencia cardíaca.
-¿Qué hace el sistema nervioso simpático?|Prepara al cuerpo para la acción|Digiere|Favorece el reposo|Almacena energía|0|Aumenta la frecuencia cardíaca.
-¿Qué células de la retina permiten ver en poca luz?|Neuronas|Conos|Glóbulos|Bastones|3|Los conos perciben el color.
-¿Qué estructura del oído transforma las vibraciones sonoras en impulsos nerviosos?|El pabellón|Los huesecillos|El tímpano|La cóclea|3|Contiene células ciliadas.
-¿Por qué la miopía se corrige con lentes divergentes?|No hay imagen|La córnea es plana|La imagen se forma delante de la retina|La imagen se forma detrás de la retina|2|La lente aleja el foco.
-¿Qué le ocurre a la sinapsis cuando se consumen ciertas drogas?|No pasa nada|Se alteran los neurotransmisores|Aumenta la mielina|Se vuelven más rápidas|1|Pueden generar dependencia.
-¿Qué hemisferio del cerebro controla el lado izquierdo del cuerpo?|El izquierdo|El derecho|Ambos|Ninguno|1|Las vías nerviosas se cruzan.
-¿Qué es la neuroplasticidad?|Un trastorno|La capacidad del cerebro de reorganizar sus conexiones|Una enfermedad|Un tipo de neurona|1|Es la base del aprendizaje.
-¿Qué enfermedad neurodegenerativa se asocia con la pérdida de neuronas dopaminérgicas?|Anemia|Parkinson|Asma|Diabetes|1|Provoca temblores y rigidez.
-¿Qué es el umbral de excitación?|El tamaño de la neurona|La intensidad mínima para desencadenar un impulso|La cantidad de mielina|La velocidad del impulso|1|Ley del todo o nada.
-¿Cuál es el papel del hipotálamo?|Coordinar el equilibrio|Regular funciones como la temperatura, el hambre y el sueño|Controlar la respiración|Procesar el lenguaje|1|Conecta el sistema nervioso con el endocrino.
-¿Cuál es un hábito que protege la salud del sistema nervioso?|Dormir lo suficiente y hacer actividad física|Sedentarismo|Consumir alcohol|Dormir poco|0|También evitar el estrés crónico.
-¿Por qué dormir bien es importante para el aprendizaje?|Produce hormonas del crecimiento únicamente|No es importante|Aumenta la mielina|Consolida la memoria|3|Durante el sueño se fijan los recuerdos.
+¿Qué función cumple la vaina de mielina?|Producir energía|Almacenar ADN|Fabricar proteínas|Acelerar la conducción del impulso|3|La esclerosis múltiple afecta la mielina.
+¿Qué mantiene el impulso nervioso viajando por el axón?|La ósmosis|Un potencial de acción|La respiración|La digestión|1|Es un cambio rápido del potencial de membrana.
+¿Qué estructura del ojo enfoca la luz sobre la retina?|El cristalino|El nervio óptico|El iris|La esclerótica|0|Cambia su curvatura (acomodación).
+¿Qué son los neurotransmisores?|Anticuerpos|Enzimas digestivas|Sustancias químicas que transmiten la señal en la sinapsis|Hormonas de la tiroides|2|Por ejemplo, la dopamina y la serotonina.
+¿Qué estructura del ojo regula la cantidad de luz que entra?|La córnea|La retina|El cristalino|El iris (pupila)|3|La pupila se dilata o se contrae.
+¿Qué hace el sistema nervioso parasimpático?|Dilata las pupilas|Aumenta la presión|Favorece el reposo y la digestión|Prepara para huir|2|Disminuye la frecuencia cardíaca.
+¿Qué hace el sistema nervioso simpático?|Prepara al cuerpo para la acción|Favorece el reposo|Almacena energía|Digiere|0|Aumenta la frecuencia cardíaca.
+¿Qué células de la retina permiten ver en poca luz?|Conos|Glóbulos|Bastones|Neuronas|2|Los conos perciben el color.
+¿Qué estructura del oído transforma las vibraciones sonoras en impulsos nerviosos?|Los huesecillos|El pabellón|El tímpano|La cóclea|3|Contiene células ciliadas.
+¿Por qué la miopía se corrige con lentes divergentes?|La córnea es plana|No hay imagen|La imagen se forma delante de la retina|La imagen se forma detrás de la retina|2|La lente aleja el foco.
+¿Qué le ocurre a la sinapsis cuando se consumen ciertas drogas?|Aumenta la mielina|Se vuelven más rápidas|No pasa nada|Se alteran los neurotransmisores|3|Pueden generar dependencia.
+¿Qué hemisferio del cerebro controla el lado izquierdo del cuerpo?|Ninguno|Ambos|El derecho|El izquierdo|2|Las vías nerviosas se cruzan.
+¿Qué es la neuroplasticidad?|Un tipo de neurona|La capacidad del cerebro de reorganizar sus conexiones|Una enfermedad|Un trastorno|1|Es la base del aprendizaje.
+¿Qué enfermedad neurodegenerativa se asocia con la pérdida de neuronas dopaminérgicas?|Parkinson|Asma|Diabetes|Anemia|0|Provoca temblores y rigidez.
+¿Qué es el umbral de excitación?|La cantidad de mielina|La intensidad mínima para desencadenar un impulso|El tamaño de la neurona|La velocidad del impulso|1|Ley del todo o nada.
+¿Cuál es el papel del hipotálamo?|Procesar el lenguaje|Regular funciones como la temperatura, el hambre y el sueño|Coordinar el equilibrio|Controlar la respiración|1|Conecta el sistema nervioso con el endocrino.
+¿Cuál es un hábito que protege la salud del sistema nervioso?|Dormir poco|Dormir lo suficiente y hacer actividad física|Sedentarismo|Consumir alcohol|1|También evitar el estrés crónico.
+¿Por qué dormir bien es importante para el aprendizaje?|Aumenta la mielina|No es importante|Produce hormonas del crecimiento únicamente|Consolida la memoria|3|Durante el sueño se fijan los recuerdos.

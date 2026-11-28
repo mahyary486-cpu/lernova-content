@@ -1,51 +1,51 @@
 #EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
-¿Cuál es el rango de 18, 43, 3, 45, 53, 44?|50|56|53|3|0|Rango = máximo − mínimo = 53 − 3 = 50.
-¿Cuál es la moda de 7, 3, 13, 18, 10, 7, 7?|7|18|3|9|0|La moda es el dato que más se repite: 7 aparece 3 veces.
-¿Cuál es el rango de 9, 15, 21, 59, 48, 8?|67|8|51|59|2|Rango = máximo − mínimo = 59 − 8 = 51.
-¿Cuál es la mediana de 26, 16, 21, 8, 32, 23, 39, 28, 5?|32|5|23|22|2|Ordenados: 5, 8, 16, 21, 23, 26, 28, 32, 39. La mediana es el valor central: 23.
-¿Cuál es la media (promedio) de los datos 8, 18, 17, 4, 3?|9|11|10|8|2|Media = suma ÷ cantidad = 50 ÷ 5 = 10.
-¿Cuál es el rango de 20, 35, 56, 25, 50, 2?|56|54|2|58|1|Rango = máximo − mínimo = 56 − 2 = 54.
-¿Cuál es la mediana de 28, 7, 18, 30, 16, 29, 32?|28|23|30|7|0|Ordenados: 7, 16, 18, 28, 29, 30, 32. La mediana es el valor central: 28.
+¿Cuál es el rango de 18, 43, 3, 45, 53, 44?|56|3|53|50|3|Rango = máximo − mínimo = 53 − 3 = 50.
+¿Cuál es la moda de 7, 3, 13, 18, 10, 7, 7?|7|9|3|18|0|La moda es el dato que más se repite: 7 aparece 3 veces.
+¿Cuál es el rango de 9, 15, 21, 59, 48, 8?|59|67|51|8|2|Rango = máximo − mínimo = 59 − 8 = 51.
+¿Cuál es la mediana de 26, 16, 21, 8, 32, 23, 39, 28, 5?|23|5|22|32|0|Ordenados: 5, 8, 16, 21, 23, 26, 28, 32, 39. La mediana es el valor central: 23.
+¿Cuál es la media (promedio) de los datos 8, 18, 17, 4, 3?|8|9|11|10|3|Media = suma ÷ cantidad = 50 ÷ 5 = 10.
+¿Cuál es el rango de 20, 35, 56, 25, 50, 2?|56|2|58|54|3|Rango = máximo − mínimo = 56 − 2 = 54.
+¿Cuál es la mediana de 28, 7, 18, 30, 16, 29, 32?|28|30|23|7|0|Ordenados: 7, 16, 18, 28, 29, 30, 32. La mediana es el valor central: 28.
 ¿Cuál es la moda de 4, 3, 15, 15, 16, 15, 19?|12|19|15|4|2|La moda es el dato que más se repite: 15 aparece 3 veces.
-¿Cuál es el rango de 52, 58, 32, 24, 8, 44?|58|8|66|50|3|Rango = máximo − mínimo = 58 − 8 = 50.
-¿Cuál es la media (promedio) de los datos 19, 6, 9, 6, 15?|10|12|9|11|3|Media = suma ÷ cantidad = 55 ÷ 5 = 11.
-¿Cuál es la media (promedio) de los datos 10, 10, 10, 5, 3, 16?|13|10|8|9|3|Media = suma ÷ cantidad = 54 ÷ 6 = 9.
-¿Cuál es la moda de 19, 8, 8, 22, 14, 8, 16?|22|8|14|19|1|La moda es el dato que más se repite: 8 aparece 3 veces.
-¿Cuál es la moda de 3, 2, 2, 6, 17, 2, 19?|3|2|7|19|1|La moda es el dato que más se repite: 2 aparece 3 veces.
-¿Cuál es la media (promedio) de los datos 17, 12, 14, 19, 13?|14|15|7|16|1|Media = suma ÷ cantidad = 75 ÷ 5 = 15.
+¿Cuál es el rango de 52, 58, 32, 24, 8, 44?|8|50|58|66|1|Rango = máximo − mínimo = 58 − 8 = 50.
+¿Cuál es la media (promedio) de los datos 19, 6, 9, 6, 15?|12|9|10|11|3|Media = suma ÷ cantidad = 55 ÷ 5 = 11.
+¿Cuál es la media (promedio) de los datos 10, 10, 10, 5, 3, 16?|10|8|9|13|2|Media = suma ÷ cantidad = 54 ÷ 6 = 9.
+¿Cuál es la moda de 19, 8, 8, 22, 14, 8, 16?|19|14|8|22|2|La moda es el dato que más se repite: 8 aparece 3 veces.
+¿Cuál es la moda de 3, 2, 2, 6, 17, 2, 19?|19|2|3|7|1|La moda es el dato que más se repite: 2 aparece 3 veces.
+¿Cuál es la media (promedio) de los datos 17, 12, 14, 19, 13?|7|14|16|15|3|Media = suma ÷ cantidad = 75 ÷ 5 = 15.
 ¿Cuál es la mediana de 24, 32, 15, 30, 35, 3, 22, 12, 37?|3|23|24|35|2|Ordenados: 3, 12, 15, 22, 24, 30, 32, 35, 37. La mediana es el valor central: 24.
 ¿Cuál es la media (promedio) de los datos 10, 8, 20, 13, 9?|11|12|10|13|1|Media = suma ÷ cantidad = 60 ÷ 5 = 12.
-¿Cuál es la mediana de 33, 3, 4, 13, 39, 29, 34, 5, 32?|3|21|39|29|3|Ordenados: 3, 4, 5, 13, 29, 32, 33, 34, 39. La mediana es el valor central: 29.
-¿Cuál es la mediana de 1, 6, 9, 10, 13, 16?|9|10|9,2|9,5|3|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (9 + 10)/2 = 9,5.
-¿Cuál es el desvío estándar poblacional de los datos 12, 12, 18, 18?|9|15|3|6|2|Media = 15; cada dato se aparta 3 de la media; varianza = 9 y desvío = √9 = 3.
-¿Cuál es la mediana de 3, 7, 12, 17, 19, 21?|13,2|14,5|17|12|1|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (12 + 17)/2 = 14,5.
-Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 8, 2, 7, 4, 7 respectivamente. ¿Cuál es la media?|28|3|2|4|1|Media = Σ(valor · frecuencia)/n = 84/28 = 3.
-¿Cuál es la mediana de 8, 13, 21, 23, 25, 28?|21|23|19,7|22|3|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (21 + 23)/2 = 22.
-En una encuesta a 20 estudiantes, 5 eligieron matemática como materia favorita. ¿Qué porcentaje es?|25 %|12 %|75 %|35 %|0|Frecuencia relativa = 5/20 = 0,25 = 25 %.
-Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 6, 7, 2, 5, 7 respectivamente. ¿Cuál es la media?|2|27|3|4|2|Media = Σ(valor · frecuencia)/n = 81/27 = 3.
-Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 2, 1, 3, 1, 2 respectivamente. ¿Cuál es la media?|2|9|3|4|2|Media = Σ(valor · frecuencia)/n = 27/9 = 3.
-¿Cuál es la mediana de 4, 6, 7, 12, 16, 18?|7|9,5|10,5|12|1|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (7 + 12)/2 = 9,5.
-En una encuesta a 200 estudiantes, 120 eligieron matemática como materia favorita. ¿Qué porcentaje es?|30 %|60 %|70 %|40 %|1|Frecuencia relativa = 120/200 = 0,6 = 60 %.
+¿Cuál es la mediana de 33, 3, 4, 13, 39, 29, 34, 5, 32?|29|39|21|3|0|Ordenados: 3, 4, 5, 13, 29, 32, 33, 34, 39. La mediana es el valor central: 29.
+¿Cuál es la mediana de 1, 6, 9, 10, 13, 16?|9|9,5|10|9,2|1|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (9 + 10)/2 = 9,5.
+¿Cuál es el desvío estándar poblacional de los datos 12, 12, 18, 18?|15|9|6|3|3|Media = 15; cada dato se aparta 3 de la media; varianza = 9 y desvío = √9 = 3.
+¿Cuál es la mediana de 3, 7, 12, 17, 19, 21?|12|17|14,5|13,2|2|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (12 + 17)/2 = 14,5.
+Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 8, 2, 7, 4, 7 respectivamente. ¿Cuál es la media?|4|2|3|28|2|Media = Σ(valor · frecuencia)/n = 84/28 = 3.
+¿Cuál es la mediana de 8, 13, 21, 23, 25, 28?|19,7|21|22|23|2|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (21 + 23)/2 = 22.
+En una encuesta a 20 estudiantes, 5 eligieron matemática como materia favorita. ¿Qué porcentaje es?|75 %|25 %|12 %|35 %|1|Frecuencia relativa = 5/20 = 0,25 = 25 %.
+Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 6, 7, 2, 5, 7 respectivamente. ¿Cuál es la media?|3|2|4|27|0|Media = Σ(valor · frecuencia)/n = 81/27 = 3.
+Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 2, 1, 3, 1, 2 respectivamente. ¿Cuál es la media?|9|2|3|4|2|Media = Σ(valor · frecuencia)/n = 27/9 = 3.
+¿Cuál es la mediana de 4, 6, 7, 12, 16, 18?|9,5|12|10,5|7|0|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (7 + 12)/2 = 9,5.
+En una encuesta a 200 estudiantes, 120 eligieron matemática como materia favorita. ¿Qué porcentaje es?|30 %|70 %|60 %|40 %|2|Frecuencia relativa = 120/200 = 0,6 = 60 %.
 ¿Cuál es el desvío estándar poblacional de los datos 5, 5, 11, 11?|3|6|8|9|0|Media = 8; cada dato se aparta 3 de la media; varianza = 9 y desvío = √9 = 3.
-¿Cuál es el desvío estándar poblacional de los datos 12, 12, 16, 16?|14|2|4|3|1|Media = 14; cada dato se aparta 2 de la media; varianza = 4 y desvío = √4 = 2.
-Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 2, 4, 3, 2, 3 respectivamente. ¿Cuál es la media?|2|3|14|4|1|Media = Σ(valor · frecuencia)/n = 42/14 = 3.
-En una encuesta a 25 estudiantes, 10 eligieron matemática como materia favorita. ¿Qué porcentaje es?|50 %|40 %|60 %|20 %|1|Frecuencia relativa = 10/25 = 0,4 = 40 %.
-En una encuesta a 200 estudiantes, 30 eligieron matemática como materia favorita. ¿Qué porcentaje es?|7 %|85 %|15 %|25 %|2|Frecuencia relativa = 30/200 = 0,15 = 15 %.
-¿Cuál es el desvío estándar poblacional de los datos 4, 4, 8, 8?|3|4|2|6|2|Media = 6; cada dato se aparta 2 de la media; varianza = 4 y desvío = √4 = 2.
-¿Cuál es la mediana de 5, 16, 17, 20, 21, 23?|19,5|20|17|18,5|3|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (17 + 20)/2 = 18,5.
-La media de 4 datos es 12. Los demás datos suman 37. ¿Cuál es el dato que falta?|12|11|9|1|1|La suma total es 4 · 12 = 48. Faltan 48 − 37 = 11.
+¿Cuál es el desvío estándar poblacional de los datos 12, 12, 16, 16?|3|2|4|14|1|Media = 14; cada dato se aparta 2 de la media; varianza = 4 y desvío = √4 = 2.
+Una tabla de frecuencias muestra las notas 1 a 5 con frecuencias 2, 4, 3, 2, 3 respectivamente. ¿Cuál es la media?|4|14|3|2|2|Media = Σ(valor · frecuencia)/n = 42/14 = 3.
+En una encuesta a 25 estudiantes, 10 eligieron matemática como materia favorita. ¿Qué porcentaje es?|60 %|40 %|20 %|50 %|1|Frecuencia relativa = 10/25 = 0,4 = 40 %.
+En una encuesta a 200 estudiantes, 30 eligieron matemática como materia favorita. ¿Qué porcentaje es?|7 %|85 %|25 %|15 %|3|Frecuencia relativa = 30/200 = 0,15 = 15 %.
+¿Cuál es el desvío estándar poblacional de los datos 4, 4, 8, 8?|2|4|6|3|0|Media = 6; cada dato se aparta 2 de la media; varianza = 4 y desvío = √4 = 2.
+¿Cuál es la mediana de 5, 16, 17, 20, 21, 23?|17|18,5|19,5|20|1|Con una cantidad par de datos, la mediana es el promedio de los dos centrales: (17 + 20)/2 = 18,5.
+La media de 4 datos es 12. Los demás datos suman 37. ¿Cuál es el dato que falta?|11|9|1|12|0|La suma total es 4 · 12 = 48. Faltan 48 − 37 = 11.
 La media de 6 datos es 13. Los demás datos suman 54. ¿Cuál es el dato que falta?|13|24|25|22|1|La suma total es 6 · 13 = 78. Faltan 78 − 54 = 24.
-En un curso, 4 estudiantes obtuvieron un promedio de 5 y otros 6 obtuvieron un promedio de 10. ¿Cuál es el promedio del curso completo?|9|7|15|8|3|Promedio ponderado = (4·5 + 6·10)/10 = 8.
-Si cada dato de un conjunto se multiplica por 4, ¿qué pasa con la media y con el desvío estándar?|Solo la media queda multiplicada por 4|Ambos quedan multiplicados por 4|Solo el desvío queda multiplicado por 4|Ninguno cambia|1|Al multiplicar todos los datos por 4, la media y el desvío estándar también se multiplican por 4.
-¿Cuáles son las modas de 2, 3, 3, 2, 25, 26, 3, 2?|No tiene moda|Solo 2|Solo 3|2 y 3|3|Los valores 2 y 3 aparecen 3 veces cada uno: es un conjunto bimodal.
-Si a cada dato de un conjunto se le suma 2, ¿qué pasa con la media y con el desvío estándar?|La media no cambia y el desvío aumenta 2|La media aumenta 2 y el desvío no cambia|Ambos quedan multiplicados por 2|Ambos aumentan 2|1|Sumar una constante desplaza todos los datos igual: la media se corre 2, pero la dispersión es la misma.
-Si cada dato de un conjunto se multiplica por 2, ¿qué pasa con la media y con el desvío estándar?|Solo la media queda multiplicada por 2|Solo el desvío queda multiplicado por 2|Ambos quedan multiplicados por 2|Ninguno cambia|2|Al multiplicar todos los datos por 2, la media y el desvío estándar también se multiplican por 2.
-Si a cada dato de un conjunto se le suma 3, ¿qué pasa con la media y con el desvío estándar?|La media aumenta 3 y el desvío no cambia|La media no cambia y el desvío aumenta 3|Ambos aumentan 3|Ambos quedan multiplicados por 3|0|Sumar una constante desplaza todos los datos igual: la media se corre 3, pero la dispersión es la misma.
-La media de 6 datos es 10. Los demás datos suman 58. ¿Cuál es el dato que falta?|3|2|0|10|1|La suma total es 6 · 10 = 60. Faltan 60 − 58 = 2.
-Dos cursos tienen la misma media de 80 puntos. El curso A tiene desvío 2 y el curso B tiene desvío 5. ¿Cuál tiene notas más homogéneas?|El curso B|No se puede saber|Ambos por igual|El curso A|3|A menor desvío estándar, los datos están más agrupados alrededor de la media.
-La media de 6 datos es 15. Los demás datos suman 63. ¿Cuál es el dato que falta?|27|25|15|28|0|La suma total es 6 · 15 = 90. Faltan 90 − 63 = 27.
-Dos cursos tienen la misma media de 76 puntos. El curso A tiene desvío 3 y el curso B tiene desvío 9. ¿Cuál tiene notas más homogéneas?|Ambos por igual|El curso A|El curso B|No se puede saber|1|A menor desvío estándar, los datos están más agrupados alrededor de la media.
-Si a cada dato de un conjunto se le suma 5, ¿qué pasa con la media y con el desvío estándar?|Ambos quedan multiplicados por 5|La media no cambia y el desvío aumenta 5|La media aumenta 5 y el desvío no cambia|Ambos aumentan 5|2|Sumar una constante desplaza todos los datos igual: la media se corre 5, pero la dispersión es la misma.
-Si cada dato de un conjunto se multiplica por 10, ¿qué pasa con la media y con el desvío estándar?|Solo el desvío queda multiplicado por 10|Solo la media queda multiplicada por 10|Ambos quedan multiplicados por 10|Ninguno cambia|2|Al multiplicar todos los datos por 10, la media y el desvío estándar también se multiplican por 10.
-¿Cuáles son las modas de 2, 2, 1, 12, 2, 12, 14, 12?|2 y 12|Solo 12|No tiene moda|Solo 2|0|Los valores 2 y 12 aparecen 3 veces cada uno: es un conjunto bimodal.
-En un curso, 2 estudiantes obtuvieron un promedio de 5 y otros 8 obtuvieron un promedio de 10. ¿Cuál es el promedio del curso completo?|9|10|8|7|0|Promedio ponderado = (2·5 + 8·10)/10 = 9.
+En un curso, 4 estudiantes obtuvieron un promedio de 5 y otros 6 obtuvieron un promedio de 10. ¿Cuál es el promedio del curso completo?|9|15|7|8|3|Promedio ponderado = (4·5 + 6·10)/10 = 8.
+Si cada dato de un conjunto se multiplica por 4, ¿qué pasa con la media y con el desvío estándar?|Solo la media queda multiplicada por 4|Ninguno cambia|Ambos quedan multiplicados por 4|Solo el desvío queda multiplicado por 4|2|Al multiplicar todos los datos por 4, la media y el desvío estándar también se multiplican por 4.
+¿Cuáles son las modas de 2, 3, 3, 2, 25, 26, 3, 2?|Solo 3|No tiene moda|Solo 2|2 y 3|3|Los valores 2 y 3 aparecen 3 veces cada uno: es un conjunto bimodal.
+Si a cada dato de un conjunto se le suma 2, ¿qué pasa con la media y con el desvío estándar?|Ambos quedan multiplicados por 2|Ambos aumentan 2|La media no cambia y el desvío aumenta 2|La media aumenta 2 y el desvío no cambia|3|Sumar una constante desplaza todos los datos igual: la media se corre 2, pero la dispersión es la misma.
+Si cada dato de un conjunto se multiplica por 2, ¿qué pasa con la media y con el desvío estándar?|Ninguno cambia|Ambos quedan multiplicados por 2|Solo la media queda multiplicada por 2|Solo el desvío queda multiplicado por 2|1|Al multiplicar todos los datos por 2, la media y el desvío estándar también se multiplican por 2.
+Si a cada dato de un conjunto se le suma 3, ¿qué pasa con la media y con el desvío estándar?|La media no cambia y el desvío aumenta 3|La media aumenta 3 y el desvío no cambia|Ambos quedan multiplicados por 3|Ambos aumentan 3|1|Sumar una constante desplaza todos los datos igual: la media se corre 3, pero la dispersión es la misma.
+La media de 6 datos es 10. Los demás datos suman 58. ¿Cuál es el dato que falta?|10|0|3|2|3|La suma total es 6 · 10 = 60. Faltan 60 − 58 = 2.
+Dos cursos tienen la misma media de 80 puntos. El curso A tiene desvío 2 y el curso B tiene desvío 5. ¿Cuál tiene notas más homogéneas?|No se puede saber|El curso B|Ambos por igual|El curso A|3|A menor desvío estándar, los datos están más agrupados alrededor de la media.
+La media de 6 datos es 15. Los demás datos suman 63. ¿Cuál es el dato que falta?|28|27|25|15|1|La suma total es 6 · 15 = 90. Faltan 90 − 63 = 27.
+Dos cursos tienen la misma media de 76 puntos. El curso A tiene desvío 3 y el curso B tiene desvío 9. ¿Cuál tiene notas más homogéneas?|No se puede saber|El curso A|El curso B|Ambos por igual|1|A menor desvío estándar, los datos están más agrupados alrededor de la media.
+Si a cada dato de un conjunto se le suma 5, ¿qué pasa con la media y con el desvío estándar?|Ambos aumentan 5|La media no cambia y el desvío aumenta 5|La media aumenta 5 y el desvío no cambia|Ambos quedan multiplicados por 5|2|Sumar una constante desplaza todos los datos igual: la media se corre 5, pero la dispersión es la misma.
+Si cada dato de un conjunto se multiplica por 10, ¿qué pasa con la media y con el desvío estándar?|Ambos quedan multiplicados por 10|Solo el desvío queda multiplicado por 10|Solo la media queda multiplicada por 10|Ninguno cambia|0|Al multiplicar todos los datos por 10, la media y el desvío estándar también se multiplican por 10.
+¿Cuáles son las modas de 2, 2, 1, 12, 2, 12, 14, 12?|2 y 12|Solo 2|No tiene moda|Solo 12|0|Los valores 2 y 12 aparecen 3 veces cada uno: es un conjunto bimodal.
+En un curso, 2 estudiantes obtuvieron un promedio de 5 y otros 8 obtuvieron un promedio de 10. ¿Cuál es el promedio del curso completo?|9|8|10|7|0|Promedio ponderado = (2·5 + 8·10)/10 = 9.

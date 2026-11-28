@@ -1,30 +1,30 @@
 #EEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Cuál es la masa molar de HCl? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|73 g/mol|38,5 g/mol|34,5 g/mol|36,5 g/mol|3|Se suman las masas atómicas de todos los átomos de la fórmula: 36,5 g/mol.
-La masa molar se expresa en:|g/mol|mol/g|litros|kg|0|Es la masa de un mol de sustancia.
-¿Cuál es la masa molar de H₂O? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|20 g/mol|18 g/mol|16 g/mol|36 g/mol|1|Se suman las masas atómicas de todos los átomos de la fórmula: 18 g/mol.
-¿Cuántas partículas tiene un mol de cualquier sustancia?|6,02 × 10²³|1,6 × 10⁻¹⁹|6,02 × 10²⁰|3 × 10⁸|0|Es el número de Avogadro.
-¿Cuál es la masa molar de NaOH? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|38 g/mol|80 g/mol|40 g/mol|42 g/mol|2|Se suman las masas atómicas de todos los átomos de la fórmula: 40 g/mol.
-¿Cuál es la masa molar de CaO? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|54 g/mol|112 g/mol|56 g/mol|58 g/mol|2|Se suman las masas atómicas de todos los átomos de la fórmula: 56 g/mol.
-¿Qué es un mol?|Una cantidad de sustancia con 6,02 × 10²³ partículas|Un volumen de 1 litro|Un tipo de átomo|Una masa de 1 gramo|0|El mol es la unidad de cantidad de sustancia.
-¿Cuál es la masa molar de N₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|30 g/mol|28 g/mol|56 g/mol|26 g/mol|1|Se suman las masas atómicas de todos los átomos de la fórmula: 28 g/mol.
-¿Qué masa tienen 5 mol de NaOH? (masa molar = 40 g/mol)|210 g|45 g|200 g|8 g|2|m = n · M = 5 · 40 = 200 g.
-¿Cuántos moles hay en 196 g de H₂SO₄? (masa molar = 98 g/mol)|3 mol|4 mol|2 mol|196 mol|2|n = m/M = 196/98 = 2 mol.
-¿Cuántos moles hay en 88 g de CO₂? (masa molar = 44 g/mol)|4 mol|3 mol|88 mol|2 mol|3|n = m/M = 88/44 = 2 mol.
-¿Cuántos moles hay en 400 g de CaCO₃? (masa molar = 100 g/mol)|5 mol|400 mol|4 mol|8 mol|2|n = m/M = 400/100 = 4 mol.
-¿Qué masa tienen 0,5 mol de CaCO₃? (masa molar = 100 g/mol)|100,5 g|60 g|50 g|200 g|2|m = n · M = 0,5 · 100 = 50 g.
-¿Cuántos moles hay en 72 g de H₂O? (masa molar = 18 g/mol)|4 mol|8 mol|72 mol|5 mol|0|n = m/M = 72/18 = 4 mol.
-¿Cuál tiene mayor masa: 1 mol de H₂O (18 g) o 1 mol de CO₂ (44 g)?|El H₂O|El CO₂|Depende del volumen|Tienen la misma|1|Cada mol de CO₂ tiene 44 g, más que los 18 g del agua.
-¿Cuántos moles hay en 132 g de CO₂? (masa molar = 44 g/mol)|4 mol|132 mol|3 mol|6 mol|2|n = m/M = 132/44 = 3 mol.
-¿Qué masa tienen 4 mol de H₂O? (masa molar = 18 g/mol)|22 g|4,5 g|82 g|72 g|3|m = n · M = 4 · 18 = 72 g.
-¿Qué masa tienen 0,5 mol de MgO? (masa molar = 40 g/mol)|40,5 g|80 g|20 g|30 g|2|m = n · M = 0,5 · 40 = 20 g.
-¿Cuál tiene mayor número de moléculas: 1 mol de H₂O o 1 mol de CO₂?|El agua|Tienen el mismo número|Depende de la masa|El dióxido de carbono|1|Un mol de cualquier sustancia molecular contiene el mismo número de moléculas.
-Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos gramos de H₂ reaccionan con 4 mol de O₂? (H = 1)|16 g|32 g|4 g|8 g|0|Se necesitan 2 mol de H₂ por mol de O₂: 8 mol de H₂ = 16 g (2 g/mol).
-¿Cuántas moléculas hay en 3 mol de una sustancia molecular? (NA = 6,02 × 10²³ mol⁻¹)|3 × 10²³|180,6 × 10²³|6,02 × 10²³|18,06 × 10²³|3|N = n · NA = 3 · 6,02 × 10²³ = 18,06 × 10²³.
-¿Cuántas moléculas hay en 0,5 mol de una sustancia molecular? (NA = 6,02 × 10²³ mol⁻¹)|30,1 × 10²³|0,5 × 10²³|3,01 × 10²³|6,02 × 10²³|2|N = n · NA = 0,5 · 6,02 × 10²³ = 3,01 × 10²³.
-¿Cuántos átomos de hidrógeno hay en 1 mol de H₂O?|1,204 × 10²⁴|1,806 × 10²⁴|3,01 × 10²³|6,02 × 10²³|0|Cada molécula tiene 2 átomos de H: 2 × 6,02 × 10²³.
-Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos moles de agua se forman a partir de 10 mol de O₂ (con H₂ en exceso)?|40 mol|20 mol|10 mol|12 mol|1|La relación es 1 mol O₂ : 2 mol H₂O; con 10 mol de O₂ se forman 20 mol de H₂O.
-¿Cuántas moléculas hay en 1 mol de una sustancia molecular? (NA = 6,02 × 10²³ mol⁻¹)|6,02 × 10²³|3,01 × 10²³|60,2 × 10²³|1 × 10²³|0|N = n · NA = 1 · 6,02 × 10²³ = 6,02 × 10²³.
-Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos gramos de H₂ reaccionan con 5 mol de O₂? (H = 1)|5 g|10 g|20 g|40 g|2|Se necesitan 2 mol de H₂ por mol de O₂: 10 mol de H₂ = 20 g (2 g/mol).
-Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos moles de agua se forman a partir de 5 mol de O₂ (con H₂ en exceso)?|5 mol|10 mol|20 mol|7 mol|1|La relación es 1 mol O₂ : 2 mol H₂O; con 5 mol de O₂ se forman 10 mol de H₂O.
-Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos moles de agua se forman a partir de 4 mol de O₂ (con H₂ en exceso)?|16 mol|6 mol|8 mol|4 mol|2|La relación es 1 mol O₂ : 2 mol H₂O; con 4 mol de O₂ se forman 8 mol de H₂O.
+¿Cuál es la masa molar de HCl? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|73 g/mol|34,5 g/mol|38,5 g/mol|36,5 g/mol|3|Se suman las masas atómicas de todos los átomos de la fórmula: 36,5 g/mol.
+La masa molar se expresa en:|litros|g/mol|mol/g|kg|1|Es la masa de un mol de sustancia.
+¿Cuál es la masa molar de H₂O? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|16 g/mol|18 g/mol|20 g/mol|36 g/mol|1|Se suman las masas atómicas de todos los átomos de la fórmula: 18 g/mol.
+¿Cuántas partículas tiene un mol de cualquier sustancia?|3 × 10⁸|1,6 × 10⁻¹⁹|6,02 × 10²³|6,02 × 10²⁰|2|Es el número de Avogadro.
+¿Cuál es la masa molar de NaOH? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|38 g/mol|42 g/mol|40 g/mol|80 g/mol|2|Se suman las masas atómicas de todos los átomos de la fórmula: 40 g/mol.
+¿Cuál es la masa molar de CaO? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|112 g/mol|56 g/mol|54 g/mol|58 g/mol|1|Se suman las masas atómicas de todos los átomos de la fórmula: 56 g/mol.
+¿Qué es un mol?|Un volumen de 1 litro|Una masa de 1 gramo|Un tipo de átomo|Una cantidad de sustancia con 6,02 × 10²³ partículas|3|El mol es la unidad de cantidad de sustancia.
+¿Cuál es la masa molar de N₂? (H = 1, C = 12, N = 14, O = 16, Na = 23, Mg = 24, S = 32, Cl = 35,5, K = 39, Ca = 40)|30 g/mol|26 g/mol|56 g/mol|28 g/mol|3|Se suman las masas atómicas de todos los átomos de la fórmula: 28 g/mol.
+¿Qué masa tienen 5 mol de NaOH? (masa molar = 40 g/mol)|210 g|200 g|8 g|45 g|1|m = n · M = 5 · 40 = 200 g.
+¿Cuántos moles hay en 196 g de H₂SO₄? (masa molar = 98 g/mol)|2 mol|3 mol|4 mol|196 mol|0|n = m/M = 196/98 = 2 mol.
+¿Cuántos moles hay en 88 g de CO₂? (masa molar = 44 g/mol)|2 mol|88 mol|4 mol|3 mol|0|n = m/M = 88/44 = 2 mol.
+¿Cuántos moles hay en 400 g de CaCO₃? (masa molar = 100 g/mol)|4 mol|8 mol|400 mol|5 mol|0|n = m/M = 400/100 = 4 mol.
+¿Qué masa tienen 0,5 mol de CaCO₃? (masa molar = 100 g/mol)|60 g|200 g|100,5 g|50 g|3|m = n · M = 0,5 · 100 = 50 g.
+¿Cuántos moles hay en 72 g de H₂O? (masa molar = 18 g/mol)|72 mol|5 mol|4 mol|8 mol|2|n = m/M = 72/18 = 4 mol.
+¿Cuál tiene mayor masa: 1 mol de H₂O (18 g) o 1 mol de CO₂ (44 g)?|El CO₂|Tienen la misma|El H₂O|Depende del volumen|0|Cada mol de CO₂ tiene 44 g, más que los 18 g del agua.
+¿Cuántos moles hay en 132 g de CO₂? (masa molar = 44 g/mol)|3 mol|4 mol|6 mol|132 mol|0|n = m/M = 132/44 = 3 mol.
+¿Qué masa tienen 4 mol de H₂O? (masa molar = 18 g/mol)|82 g|72 g|22 g|4,5 g|1|m = n · M = 4 · 18 = 72 g.
+¿Qué masa tienen 0,5 mol de MgO? (masa molar = 40 g/mol)|80 g|40,5 g|20 g|30 g|2|m = n · M = 0,5 · 40 = 20 g.
+¿Cuál tiene mayor número de moléculas: 1 mol de H₂O o 1 mol de CO₂?|Tienen el mismo número|El dióxido de carbono|Depende de la masa|El agua|0|Un mol de cualquier sustancia molecular contiene el mismo número de moléculas.
+Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos gramos de H₂ reaccionan con 4 mol de O₂? (H = 1)|32 g|4 g|16 g|8 g|2|Se necesitan 2 mol de H₂ por mol de O₂: 8 mol de H₂ = 16 g (2 g/mol).
+¿Cuántas moléculas hay en 3 mol de una sustancia molecular? (NA = 6,02 × 10²³ mol⁻¹)|180,6 × 10²³|3 × 10²³|18,06 × 10²³|6,02 × 10²³|2|N = n · NA = 3 · 6,02 × 10²³ = 18,06 × 10²³.
+¿Cuántas moléculas hay en 0,5 mol de una sustancia molecular? (NA = 6,02 × 10²³ mol⁻¹)|0,5 × 10²³|6,02 × 10²³|30,1 × 10²³|3,01 × 10²³|3|N = n · NA = 0,5 · 6,02 × 10²³ = 3,01 × 10²³.
+¿Cuántos átomos de hidrógeno hay en 1 mol de H₂O?|3,01 × 10²³|6,02 × 10²³|1,204 × 10²⁴|1,806 × 10²⁴|2|Cada molécula tiene 2 átomos de H: 2 × 6,02 × 10²³.
+Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos moles de agua se forman a partir de 10 mol de O₂ (con H₂ en exceso)?|40 mol|10 mol|12 mol|20 mol|3|La relación es 1 mol O₂ : 2 mol H₂O; con 10 mol de O₂ se forman 20 mol de H₂O.
+¿Cuántas moléculas hay en 1 mol de una sustancia molecular? (NA = 6,02 × 10²³ mol⁻¹)|60,2 × 10²³|6,02 × 10²³|1 × 10²³|3,01 × 10²³|1|N = n · NA = 1 · 6,02 × 10²³ = 6,02 × 10²³.
+Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos gramos de H₂ reaccionan con 5 mol de O₂? (H = 1)|40 g|10 g|20 g|5 g|2|Se necesitan 2 mol de H₂ por mol de O₂: 10 mol de H₂ = 20 g (2 g/mol).
+Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos moles de agua se forman a partir de 5 mol de O₂ (con H₂ en exceso)?|10 mol|7 mol|5 mol|20 mol|0|La relación es 1 mol O₂ : 2 mol H₂O; con 5 mol de O₂ se forman 10 mol de H₂O.
+Según 2 H₂ + O₂ → 2 H₂O, ¿cuántos moles de agua se forman a partir de 4 mol de O₂ (con H₂ en exceso)?|4 mol|8 mol|16 mol|6 mol|1|La relación es 1 mol O₂ : 2 mol H₂O; con 4 mol de O₂ se forman 8 mol de H₂O.
 A igual masa, ¿qué muestra tiene más átomos: 12 g de C o 12 g de Mg? (C = 12, Mg = 24)|El magnesio|Igual cantidad|No se puede saber|El carbono|3|12 g de C son 1 mol y 12 g de Mg son 0,5 mol.

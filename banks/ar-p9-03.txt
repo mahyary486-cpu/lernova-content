@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Cuánta energía cinética tiene un cuerpo de 10 kg que se mueve a 2 m/s?|10 J|20 J|40 J|21 J|1|Ec = ½·m·v² = ½ · 10 · 2² = 20 J.
-¿En qué unidad se mide la energía en el Sistema Internacional?|Joule|Pascal|Newton|Watt|0|La energía y el trabajo se miden en joules (J).
-¿Cuánta energía potencial gravitatoria tiene un cuerpo de 3 kg a 20 m de altura? (g = 10 m/s²)|600 J|300 J|230 J|60 J|0|Ep = m·g·h = 3 · 10 · 20 = 600 J.
-¿Cuánta energía cinética tiene un cuerpo de 2 kg que se mueve a 3 m/s?|3 J|18 J|6 J|9 J|3|Ec = ½·m·v² = ½ · 2 · 3² = 9 J.
-Una fuerza de 15 N desplaza un cuerpo 4 m en su misma dirección. ¿Qué trabajo realiza?|61 J|19 J|15/4 J|60 J|3|W = F · d = 15 · 4 = 60 J.
-Una fuerza de 100 N desplaza un cuerpo 2 m en su misma dirección. ¿Qué trabajo realiza?|200 J|102 J|201 J|50 J|0|W = F · d = 100 · 2 = 200 J.
-¿Cuánta energía potencial gravitatoria tiene un cuerpo de 5 kg a 8 m de altura? (g = 10 m/s²)|40 J|400 J|130 J|200 J|1|Ep = m·g·h = 5 · 10 · 8 = 400 J.
-¿Cuánta energía cinética tiene un cuerpo de 4 kg que se mueve a 5 m/s?|20 J|10 J|100 J|50 J|3|Ec = ½·m·v² = ½ · 4 · 5² = 50 J.
-¿Cuánta energía potencial gravitatoria tiene un cuerpo de 10 kg a 3 m de altura? (g = 10 m/s²)|30 J|130 J|150 J|300 J|3|Ep = m·g·h = 10 · 10 · 3 = 300 J.
-Una fuerza de 8 N desplaza un cuerpo 10 m en su misma dirección. ¿Qué trabajo realiza?|4/5 J|81 J|80 J|18 J|2|W = F · d = 8 · 10 = 80 J.
+¿Cuánta energía cinética tiene un cuerpo de 10 kg que se mueve a 2 m/s?|40 J|20 J|21 J|10 J|1|Ec = ½·m·v² = ½ · 10 · 2² = 20 J.
+¿En qué unidad se mide la energía en el Sistema Internacional?|Watt|Pascal|Joule|Newton|2|La energía y el trabajo se miden en joules (J).
+¿Cuánta energía potencial gravitatoria tiene un cuerpo de 3 kg a 20 m de altura? (g = 10 m/s²)|600 J|230 J|300 J|60 J|0|Ep = m·g·h = 3 · 10 · 20 = 600 J.
+¿Cuánta energía cinética tiene un cuerpo de 2 kg que se mueve a 3 m/s?|3 J|9 J|6 J|18 J|1|Ec = ½·m·v² = ½ · 2 · 3² = 9 J.
+Una fuerza de 15 N desplaza un cuerpo 4 m en su misma dirección. ¿Qué trabajo realiza?|60 J|15/4 J|19 J|61 J|0|W = F · d = 15 · 4 = 60 J.
+Una fuerza de 100 N desplaza un cuerpo 2 m en su misma dirección. ¿Qué trabajo realiza?|102 J|50 J|201 J|200 J|3|W = F · d = 100 · 2 = 200 J.
+¿Cuánta energía potencial gravitatoria tiene un cuerpo de 5 kg a 8 m de altura? (g = 10 m/s²)|130 J|40 J|200 J|400 J|3|Ep = m·g·h = 5 · 10 · 8 = 400 J.
+¿Cuánta energía cinética tiene un cuerpo de 4 kg que se mueve a 5 m/s?|10 J|100 J|50 J|20 J|2|Ec = ½·m·v² = ½ · 4 · 5² = 50 J.
+¿Cuánta energía potencial gravitatoria tiene un cuerpo de 10 kg a 3 m de altura? (g = 10 m/s²)|150 J|300 J|130 J|30 J|1|Ep = m·g·h = 10 · 10 · 3 = 300 J.
+Una fuerza de 8 N desplaza un cuerpo 10 m en su misma dirección. ¿Qué trabajo realiza?|4/5 J|80 J|81 J|18 J|1|W = F · d = 8 · 10 = 80 J.
 Un objeto se suelta desde 5 m de altura (g = 10 m/s², sin rozamiento). ¿Con qué velocidad llega al suelo?|10 m/s|5 m/s|20 m/s|11 m/s|0|Ep = Ec → m·g·h = ½·m·v² → v = √(2·g·h) = √100 = 10 m/s.
-¿Qué enuncia el principio de conservación de la energía?|La energía no se crea ni se destruye, solo se transforma|Solo se conserva la energía cinética|La energía se pierde por completo con el rozamiento|La energía siempre aumenta|0|La energía total de un sistema aislado permanece constante.
-Una máquina realiza un trabajo de 600 J en 10 s. ¿Cuál es su potencia?|1/60 W|6000 W|70 W|60 W|3|P = W/t = 600/10 = 60 W.
-¿Cuál es la unidad de potencia?|Newton|Watt|Joule|Hertz|1|1 W = 1 J/s.
-Una máquina realiza un trabajo de 1500 J en 30 s. ¿Cuál es su potencia?|45000 W|50 W|60 W|1/50 W|1|P = W/t = 1500/30 = 50 W.
-¿Qué transformación de energía ocurre cuando una pelota cae?|Potencial gravitatoria en cinética|Térmica en eléctrica|Cinética en potencial|Química en nuclear|0|Al caer pierde altura (Ep) y gana velocidad (Ec).
-Un objeto se suelta desde 45 m de altura (g = 10 m/s², sin rozamiento). ¿Con qué velocidad llega al suelo?|45 m/s|30 m/s|60 m/s|90 m/s|1|Ep = Ec → m·g·h = ½·m·v² → v = √(2·g·h) = √900 = 30 m/s.
-Un objeto se suelta desde 20 m de altura (g = 10 m/s², sin rozamiento). ¿Con qué velocidad llega al suelo?|21 m/s|20 m/s|10 m/s|40 m/s|1|Ep = Ec → m·g·h = ½·m·v² → v = √(2·g·h) = √400 = 20 m/s.
-Un cuerpo de 4 kg pasa de 2 m/s a 6 m/s. ¿Qué trabajo neto se realizó sobre él?|65 J|16 J|64 J|144 J|2|W = ΔEc = ½·m·(v₂² − v₁²) = 64 J.
-Un cuerpo de 2 kg pasa de 0 m/s a 4 m/s. ¿Qué trabajo neto se realizó sobre él?|32 J|4 J|16 J|8 J|2|W = ΔEc = ½·m·(v₂² − v₁²) = 16 J.
-Un motor recibe 500 J de energía y entrega 400 J de trabajo útil. ¿Cuál es su rendimiento?|90 %|20 %|80 %|100 %|2|Rendimiento = energía útil/energía total = 400/500 = 80 %.
-Una grúa levanta una carga de 100 kg a 10 m de altura en 20 s. ¿Qué potencia desarrolla? (g = 10 m/s²)|500 W|1000 W|10000 W|50 W|0|P = m·g·h/t = 100 · 10 · 10 / 20 = 500 W.
-Un motor recibe 100 J de energía y entrega 60 J de trabajo útil. ¿Cuál es su rendimiento?|61 %|70 %|40 %|60 %|3|Rendimiento = energía útil/energía total = 60/100 = 60 %.
-Una grúa levanta una carga de 80 kg a 15 m de altura en 30 s. ¿Qué potencia desarrolla? (g = 10 m/s²)|12000 W|800 W|400 W|40 W|2|P = m·g·h/t = 80 · 10 · 15 / 30 = 400 W.
-Una grúa levanta una carga de 50 kg a 6 m de altura en 10 s. ¿Qué potencia desarrolla? (g = 10 m/s²)|300 W|600 W|3000 W|30 W|0|P = m·g·h/t = 50 · 10 · 6 / 10 = 300 W.
-Un cuerpo de 5 kg cae libremente desde 45 m (g = 10 m/s²). ¿Cuánta energía cinética tiene justo antes de tocar el suelo?|225 J|1125 J|2250 J|150 J|2|Por conservación, Ec = Ep inicial = m·g·h = 2250 J (equivale a ½·5·30²).
-Un motor recibe 120 J de energía y entrega 30 J de trabajo útil. ¿Cuál es su rendimiento?|25 %|75 %|90 %|35 %|0|Rendimiento = energía útil/energía total = 30/120 = 25 %.
-Un cuerpo de 4 kg cae libremente desde 80 m (g = 10 m/s²). ¿Cuánta energía cinética tiene justo antes de tocar el suelo?|320 J|3200 J|1600 J|160 J|1|Por conservación, Ec = Ep inicial = m·g·h = 3200 J (equivale a ½·4·40²).
-Si se duplica la velocidad de un cuerpo, su energía cinética:|Se cuadruplica|Se duplica|No cambia|Se reduce a la mitad|0|Ec = ½mv²: depende del cuadrado de v.
-Un cuerpo sube con velocidad constante. ¿Qué ocurre con su energía mecánica?|Aumenta porque aumenta la potencial|Se mantiene constante|Es cero|Disminuye|0|La energía cinética es constante y la potencial crece, por lo que la mecánica aumenta.
+¿Qué enuncia el principio de conservación de la energía?|La energía se pierde por completo con el rozamiento|La energía siempre aumenta|Solo se conserva la energía cinética|La energía no se crea ni se destruye, solo se transforma|3|La energía total de un sistema aislado permanece constante.
+Una máquina realiza un trabajo de 600 J en 10 s. ¿Cuál es su potencia?|70 W|60 W|6000 W|1/60 W|1|P = W/t = 600/10 = 60 W.
+¿Cuál es la unidad de potencia?|Hertz|Newton|Watt|Joule|2|1 W = 1 J/s.
+Una máquina realiza un trabajo de 1500 J en 30 s. ¿Cuál es su potencia?|1/50 W|60 W|50 W|45000 W|2|P = W/t = 1500/30 = 50 W.
+¿Qué transformación de energía ocurre cuando una pelota cae?|Potencial gravitatoria en cinética|Cinética en potencial|Química en nuclear|Térmica en eléctrica|0|Al caer pierde altura (Ep) y gana velocidad (Ec).
+Un objeto se suelta desde 45 m de altura (g = 10 m/s², sin rozamiento). ¿Con qué velocidad llega al suelo?|60 m/s|90 m/s|45 m/s|30 m/s|3|Ep = Ec → m·g·h = ½·m·v² → v = √(2·g·h) = √900 = 30 m/s.
+Un objeto se suelta desde 20 m de altura (g = 10 m/s², sin rozamiento). ¿Con qué velocidad llega al suelo?|21 m/s|20 m/s|40 m/s|10 m/s|1|Ep = Ec → m·g·h = ½·m·v² → v = √(2·g·h) = √400 = 20 m/s.
+Un cuerpo de 4 kg pasa de 2 m/s a 6 m/s. ¿Qué trabajo neto se realizó sobre él?|16 J|144 J|64 J|65 J|2|W = ΔEc = ½·m·(v₂² − v₁²) = 64 J.
+Un cuerpo de 2 kg pasa de 0 m/s a 4 m/s. ¿Qué trabajo neto se realizó sobre él?|16 J|4 J|8 J|32 J|0|W = ΔEc = ½·m·(v₂² − v₁²) = 16 J.
+Un motor recibe 500 J de energía y entrega 400 J de trabajo útil. ¿Cuál es su rendimiento?|100 %|90 %|20 %|80 %|3|Rendimiento = energía útil/energía total = 400/500 = 80 %.
+Una grúa levanta una carga de 100 kg a 10 m de altura en 20 s. ¿Qué potencia desarrolla? (g = 10 m/s²)|1000 W|10000 W|500 W|50 W|2|P = m·g·h/t = 100 · 10 · 10 / 20 = 500 W.
+Un motor recibe 100 J de energía y entrega 60 J de trabajo útil. ¿Cuál es su rendimiento?|60 %|70 %|40 %|61 %|0|Rendimiento = energía útil/energía total = 60/100 = 60 %.
+Una grúa levanta una carga de 80 kg a 15 m de altura en 30 s. ¿Qué potencia desarrolla? (g = 10 m/s²)|400 W|40 W|12000 W|800 W|0|P = m·g·h/t = 80 · 10 · 15 / 30 = 400 W.
+Una grúa levanta una carga de 50 kg a 6 m de altura en 10 s. ¿Qué potencia desarrolla? (g = 10 m/s²)|600 W|30 W|300 W|3000 W|2|P = m·g·h/t = 50 · 10 · 6 / 10 = 300 W.
+Un cuerpo de 5 kg cae libremente desde 45 m (g = 10 m/s²). ¿Cuánta energía cinética tiene justo antes de tocar el suelo?|1125 J|2250 J|150 J|225 J|1|Por conservación, Ec = Ep inicial = m·g·h = 2250 J (equivale a ½·5·30²).
+Un motor recibe 120 J de energía y entrega 30 J de trabajo útil. ¿Cuál es su rendimiento?|75 %|35 %|90 %|25 %|3|Rendimiento = energía útil/energía total = 30/120 = 25 %.
+Un cuerpo de 4 kg cae libremente desde 80 m (g = 10 m/s²). ¿Cuánta energía cinética tiene justo antes de tocar el suelo?|3200 J|1600 J|320 J|160 J|0|Por conservación, Ec = Ep inicial = m·g·h = 3200 J (equivale a ½·4·40²).
+Si se duplica la velocidad de un cuerpo, su energía cinética:|Se duplica|No cambia|Se reduce a la mitad|Se cuadruplica|3|Ec = ½mv²: depende del cuadrado de v.
+Un cuerpo sube con velocidad constante. ¿Qué ocurre con su energía mecánica?|Se mantiene constante|Disminuye|Aumenta porque aumenta la potencial|Es cero|2|La energía cinética es constante y la potencial crece, por lo que la mecánica aumenta.

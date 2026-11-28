@@ -1,29 +1,29 @@
 #EEEEEEEEEEMMMMMMMMHHHHHHHHHH
-¿Cómo se llaman los vasos que llevan sangre desde el corazón hacia el cuerpo?|Alvéolos|Venas|Capilares|Arterias|3|Las arterias salen del corazón.
-¿Qué componente de la sangre participa en la defensa?|Glóbulos rojos|Glóbulos blancos|Plaquetas|Hemoglobina|1|Combaten infecciones.
-¿Qué cavidad contiene al encéfalo?|El cráneo|El abdomen|La pelvis|El tórax|0|Lo protege.
-¿Qué órgano bombea la sangre?|El hígado|El riñón|El pulmón|El corazón|3|El corazón es un músculo que impulsa la sangre.
-¿Cuál es el órgano principal de la absorción de nutrientes?|Boca|Intestino delgado|Esófago|Estómago|1|Sus vellosidades aumentan la superficie de absorción.
-¿Qué órgano filtra la sangre y forma la orina?|Corazón|Pulmón|Riñón|Hígado|2|Los riñones eliminan desechos.
-¿Qué órgano se encarga de la digestión química de las proteínas con jugo gástrico?|Estómago|Esófago|Intestino grueso|Boca|0|El jugo gástrico contiene ácido clorhídrico y pepsina.
-¿Dónde ocurre el intercambio de gases entre el aire y la sangre?|En el estómago|En el intestino|En los riñones|En los alvéolos pulmonares|3|Allí pasa O₂ a la sangre y CO₂ al aire.
-¿Qué componente de la sangre transporta oxígeno?|Glóbulos blancos|Glóbulos rojos|Plasma|Plaquetas|1|Contienen hemoglobina.
-¿Cuál es la unidad de las células del sistema nervioso?|La neurona|El glóbulo|El alvéolo|La nefrona|0|Transmite impulsos nerviosos.
-¿Qué es un acto reflejo?|Un sueño|Una respuesta rápida e involuntaria|Un pensamiento|Una respuesta lenta y voluntaria|1|Por ejemplo, retirar la mano de algo caliente.
-¿Cuál es el recorrido del aire al respirar?|Tráquea, laringe, nariz|Alvéolos, tráquea, nariz|Boca, esófago, estómago|Fosas nasales, faringe, laringe, tráquea, bronquios, alvéolos|3|Es el camino del sistema respiratorio.
-¿Qué es la circulación doble y completa del ser humano?|La sangre se mezcla|Hay un solo circuito|La sangre pasa dos veces por el corazón en cada vuelta y no se mezcla|La sangre no pasa por los pulmones|2|Hay circuito mayor y menor.
-¿Qué parte del sistema nervioso coordina las funciones y está en el cráneo y la columna?|Sistema digestivo|Sistema nervioso periférico|Sistema excretor|Sistema nervioso central|3|Incluye encéfalo y médula espinal.
-¿Qué hace el intestino grueso?|Absorbe agua y forma las heces|Digiere proteínas|Produce bilis|Produce insulina|0|Allí se compactan los residuos.
-¿Qué hormona regula la glucosa en sangre?|Adrenalina|Testosterona|Tiroxina|Insulina|3|La produce el páncreas.
-¿Qué función cumple el diafragma?|Digiere los alimentos|Permite la inspiración al contraerse|Bombea la sangre|Filtra la sangre|1|Al contraerse, el tórax aumenta de volumen.
-¿Cuál es la función de la bilis?|Producir glucosa|Digerir las proteínas|Absorber agua|Emulsionar las grasas|3|La produce el hígado y la almacena la vesícula.
-¿Por qué la sangre de las venas pulmonares es rica en oxígeno?|Porque viene de los pulmones donde se oxigenó|Porque viene del intestino|Porque viene del hígado|Porque viene de los riñones|0|Las venas pulmonares llevan sangre oxigenada al corazón.
-¿Cuál de estos hábitos favorece la salud cardiovascular?|Dieta alta en grasas saturadas|Tabaquismo|Actividad física regular|Sedentarismo|2|El ejercicio fortalece el corazón.
-¿Qué pasa con la frecuencia cardíaca durante el ejercicio?|Se detiene|Disminuye|No cambia|Aumenta|3|Los músculos necesitan más oxígeno.
-¿Cuál es el órgano de los sentidos que capta la luz?|El oído|El ojo|La piel|La lengua|1|La retina contiene los fotorreceptores.
-Una persona con falta de hierro puede tener:|Diabetes|Hipertensión|Anemia|Caries|2|El hierro forma parte de la hemoglobina.
-¿Cuál es la función de las plaquetas?|Digestión|Defensa|Transporte de O₂|Coagulación|3|Detienen las hemorragias.
-¿Qué nutriente es la principal fuente de energía?|Vitaminas|Hidratos de carbono|Agua|Minerales|1|Aportan unas 4 kcal por gramo.
+¿Cómo se llaman los vasos que llevan sangre desde el corazón hacia el cuerpo?|Capilares|Arterias|Alvéolos|Venas|1|Las arterias salen del corazón.
+¿Qué componente de la sangre participa en la defensa?|Plaquetas|Glóbulos blancos|Glóbulos rojos|Hemoglobina|1|Combaten infecciones.
+¿Qué cavidad contiene al encéfalo?|El tórax|El abdomen|El cráneo|La pelvis|2|Lo protege.
+¿Qué órgano bombea la sangre?|El corazón|El pulmón|El riñón|El hígado|0|El corazón es un músculo que impulsa la sangre.
+¿Cuál es el órgano principal de la absorción de nutrientes?|Intestino delgado|Estómago|Esófago|Boca|0|Sus vellosidades aumentan la superficie de absorción.
+¿Qué órgano filtra la sangre y forma la orina?|Pulmón|Hígado|Riñón|Corazón|2|Los riñones eliminan desechos.
+¿Qué órgano se encarga de la digestión química de las proteínas con jugo gástrico?|Esófago|Estómago|Boca|Intestino grueso|1|El jugo gástrico contiene ácido clorhídrico y pepsina.
+¿Dónde ocurre el intercambio de gases entre el aire y la sangre?|En el intestino|En el estómago|En los alvéolos pulmonares|En los riñones|2|Allí pasa O₂ a la sangre y CO₂ al aire.
+¿Qué componente de la sangre transporta oxígeno?|Glóbulos blancos|Plasma|Glóbulos rojos|Plaquetas|2|Contienen hemoglobina.
+¿Cuál es la unidad de las células del sistema nervioso?|La nefrona|El glóbulo|El alvéolo|La neurona|3|Transmite impulsos nerviosos.
+¿Qué es un acto reflejo?|Un pensamiento|Una respuesta lenta y voluntaria|Una respuesta rápida e involuntaria|Un sueño|2|Por ejemplo, retirar la mano de algo caliente.
+¿Cuál es el recorrido del aire al respirar?|Boca, esófago, estómago|Alvéolos, tráquea, nariz|Tráquea, laringe, nariz|Fosas nasales, faringe, laringe, tráquea, bronquios, alvéolos|3|Es el camino del sistema respiratorio.
+¿Qué es la circulación doble y completa del ser humano?|La sangre se mezcla|La sangre pasa dos veces por el corazón en cada vuelta y no se mezcla|Hay un solo circuito|La sangre no pasa por los pulmones|1|Hay circuito mayor y menor.
+¿Qué parte del sistema nervioso coordina las funciones y está en el cráneo y la columna?|Sistema nervioso central|Sistema digestivo|Sistema excretor|Sistema nervioso periférico|0|Incluye encéfalo y médula espinal.
+¿Qué hace el intestino grueso?|Digiere proteínas|Produce bilis|Produce insulina|Absorbe agua y forma las heces|3|Allí se compactan los residuos.
+¿Qué hormona regula la glucosa en sangre?|Tiroxina|Testosterona|Adrenalina|Insulina|3|La produce el páncreas.
+¿Qué función cumple el diafragma?|Permite la inspiración al contraerse|Digiere los alimentos|Bombea la sangre|Filtra la sangre|0|Al contraerse, el tórax aumenta de volumen.
+¿Cuál es la función de la bilis?|Absorber agua|Digerir las proteínas|Producir glucosa|Emulsionar las grasas|3|La produce el hígado y la almacena la vesícula.
+¿Por qué la sangre de las venas pulmonares es rica en oxígeno?|Porque viene de los pulmones donde se oxigenó|Porque viene del intestino|Porque viene de los riñones|Porque viene del hígado|0|Las venas pulmonares llevan sangre oxigenada al corazón.
+¿Cuál de estos hábitos favorece la salud cardiovascular?|Dieta alta en grasas saturadas|Actividad física regular|Sedentarismo|Tabaquismo|1|El ejercicio fortalece el corazón.
+¿Qué pasa con la frecuencia cardíaca durante el ejercicio?|Se detiene|Aumenta|Disminuye|No cambia|1|Los músculos necesitan más oxígeno.
+¿Cuál es el órgano de los sentidos que capta la luz?|El ojo|El oído|La piel|La lengua|0|La retina contiene los fotorreceptores.
+Una persona con falta de hierro puede tener:|Hipertensión|Anemia|Caries|Diabetes|1|El hierro forma parte de la hemoglobina.
+¿Cuál es la función de las plaquetas?|Transporte de O₂|Digestión|Coagulación|Defensa|2|Detienen las hemorragias.
+¿Qué nutriente es la principal fuente de energía?|Vitaminas|Minerales|Hidratos de carbono|Agua|2|Aportan unas 4 kcal por gramo.
 ¿Por qué se necesita masticar bien los alimentos?|Elimina las bacterias|Produce energía|Disminuye el apetito|Aumenta la superficie para la acción de las enzimas|3|La digestión mecánica facilita la química.
-¿Qué función cumplen principalmente las proteínas?|Producir agua|Construcción y reparación de tejidos|Solo dar energía|Almacenar luz|1|También forman enzimas y anticuerpos.
-¿Qué sistema colabora con el sistema nervioso en la coordinación mediante hormonas?|Sistema respiratorio|Sistema endocrino|Sistema óseo|Sistema digestivo|1|Las glándulas liberan hormonas a la sangre.
+¿Qué función cumplen principalmente las proteínas?|Construcción y reparación de tejidos|Solo dar energía|Producir agua|Almacenar luz|0|También forman enzimas y anticuerpos.
+¿Qué sistema colabora con el sistema nervioso en la coordinación mediante hormonas?|Sistema óseo|Sistema digestivo|Sistema respiratorio|Sistema endocrino|3|Las glándulas liberan hormonas a la sangre.

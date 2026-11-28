@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-El calor es:|Una sustancia que está dentro de los cuerpos calientes|Lo mismo que la temperatura|Energía que se transfiere entre cuerpos por una diferencia de temperatura|Una fuerza|2|El calor pasa espontáneamente del cuerpo más caliente al más frío.
-¿A qué temperatura hierve el agua al nivel del mar?|50 °C|100 °C|0 °C|273 °C|1|El punto de ebullición del agua a presión normal es 100 °C.
-Expresá 20 °C en grados Fahrenheit.|68 °F|388/9 °F|36 °F|52 °F|0|°F = °C · 9/5 + 32 = 68 °F.
-Expresá 35 °C en grados Fahrenheit.|63 °F|95 °F|463/9 °F|67 °F|1|°F = °C · 9/5 + 32 = 95 °F.
-Expresá 37 °C en kelvin.|236 K|310 K|37 K|−236 K|1|T(K) = T(°C) + 273 = 310 K.
-¿Qué instrumento mide la temperatura?|Barómetro|Dinamómetro|Termómetro|Amperímetro|2|El termómetro mide la temperatura.
-Expresá 0 °C en kelvin.|273 K|274 K|0 K|−273 K|0|T(K) = T(°C) + 273 = 273 K.
-Expresá 10 °C en grados Fahrenheit.|338/9 °F|42 °F|50 °F|18 °F|2|°F = °C · 9/5 + 32 = 50 °F.
-Expresá 50 °C en kelvin.|323 K|−223 K|50 K|223 K|0|T(K) = T(°C) + 273 = 323 K.
-¿Cuántas calorías se necesitan para calentar 100 g de agua (c = 1 cal/g·°C) en 20 °C?|20000 cal|5 cal|2000 cal|120 cal|2|Q = m · c · ΔT = 100 · 1 · 20 = 2000 cal.
-Cuando se calienta una barra metálica, su longitud:|No cambia|Se anula|Aumenta (dilatación)|Disminuye|2|Los sólidos se dilatan al aumentar la temperatura.
-Se mezclan 300 g de agua a 90 °C con 300 g de agua a 30 °C. ¿Cuál es la temperatura final de equilibrio?|61 °C|27 °C|60 °C|120 °C|2|Masas iguales: Tf = (90 + 30)/2 = 60 °C.
-¿Cuál de estos materiales es mejor conductor del calor?|Lana|Telgopor|Madera|Hierro|3|Los metales conducen mejor el calor que los materiales aislantes.
-¿Cuánto calor absorben 400 g de un metal de calor específico 0,25 cal/g·°C al pasar de 0 °C a 50 °C?|10000 cal|5000 cal|25/2 cal|20000 cal|1|Q = m·c·ΔT = 400 · 0,25 · 50 = 5000 cal.
-¿Cuánto calor absorben 500 g de cobre de calor específico 0,1 cal/g·°C al pasar de 10 °C a 110 °C?|5000 cal|10 cal|50000 cal|10000 cal|0|Q = m·c·ΔT = 500 · 0,1 · 100 = 5000 cal.
-Se mezclan 50 g de agua a 70 °C con 50 g de agua a 10 °C. ¿Cuál es la temperatura final de equilibrio?|40 °C|60 °C|7 °C|80 °C|0|Masas iguales: Tf = (70 + 10)/2 = 40 °C.
-¿Cuántas calorías se necesitan para calentar 300 g de agua (c = 1 cal/g·°C) en 15 °C?|315 cal|45000 cal|4500 cal|20 cal|2|Q = m · c · ΔT = 300 · 1 · 15 = 4500 cal.
-¿Cuánto calor absorben 100 g de un aceite de calor específico 0,5 cal/g·°C al pasar de 20 °C a 60 °C?|2001 cal|4000 cal|20 cal|2000 cal|3|Q = m·c·ΔT = 100 · 0,5 · 40 = 2000 cal.
-Durante el cambio de estado de una sustancia pura (por ejemplo, fusión del hielo), la temperatura:|Disminuye|Permanece constante|Aumenta|Oscila|1|El calor absorbido se usa para cambiar el estado, no para subir la temperatura.
-¿Cómo se transmite el calor del Sol a la Tierra?|No se transmite|Por radiación|Por convección|Por conducción|1|La radiación no necesita medio material y viaja en el vacío.
-Un calentador entrega 400 cal/s. ¿Cuánto tarda en calentar 1000 g de agua en 20 °C?|50 s|51 s|20000 s|100 s|0|Q = 20000 cal; t = Q/P = 20000/400 = 50 s.
-Se mezclan 400 g de agua a 50 °C con 100 g de agua a 25 °C. ¿Cuál es la temperatura final?|30 °C|45 °C|75/2 °C|75 °C|1|Tf = (m₁T₁ + m₂T₂)/(m₁ + m₂) = (20000 + 2500)/500 = 45 °C.
-La temperatura de 300 K equivale a:|573 °C|27 °C|−27 °C|300 °C|1|°C = K − 273 = 27 °C.
-¿Cuánto calor se necesita para vaporizar 20 g de agua a 100 °C? (calor latente 540 cal/g)|560 cal|10800 cal|27 cal|108000 cal|1|Q = m · L = 20 · 540 = 10800 cal.
-¿Cuánto calor se necesita para vaporizar 10 g de agua a 100 °C? (calor latente 540 cal/g)|54000 cal|5400 cal|550 cal|54 cal|1|Q = m · L = 10 · 540 = 5400 cal.
-¿Por qué sentimos más frío al tocar un metal que una madera a la misma temperatura?|Porque el metal conduce mejor el calor y lo extrae más rápido de la mano|Porque el metal está más frío|Porque la madera genera calor|Porque el metal tiene más masa|0|La conductividad térmica del metal es mayor.
-¿Por qué los termos usan doble pared de vidrio con vacío entre ellas?|Para aumentar la dilatación|Para evitar la conducción y la convección del calor|Para que se caliente más rápido|Para conducir mejor el calor|1|El vacío no transmite calor por conducción ni convección.
-Se mezclan 300 g de agua a 60 °C con 100 g de agua a 20 °C. ¿Cuál es la temperatura final?|80 °C|30 °C|50 °C|40 °C|2|Tf = (m₁T₁ + m₂T₂)/(m₁ + m₂) = (18000 + 2000)/400 = 50 °C.
-Se mezclan 50 g de agua a 100 °C con 150 g de agua a 20 °C. ¿Cuál es la temperatura final?|80 °C|40 °C|60 °C|120 °C|1|Tf = (m₁T₁ + m₂T₂)/(m₁ + m₂) = (5000 + 3000)/200 = 40 °C.
-¿Cuánto calor se necesita para fundir 200 g de hielo a 0 °C? (calor latente 80 cal/g)|16000 cal|280 cal|2/5 cal|160000 cal|0|Q = m · L = 200 · 80 = 16000 cal.
+El calor es:|Lo mismo que la temperatura|Energía que se transfiere entre cuerpos por una diferencia de temperatura|Una fuerza|Una sustancia que está dentro de los cuerpos calientes|1|El calor pasa espontáneamente del cuerpo más caliente al más frío.
+¿A qué temperatura hierve el agua al nivel del mar?|273 °C|0 °C|50 °C|100 °C|3|El punto de ebullición del agua a presión normal es 100 °C.
+Expresá 20 °C en grados Fahrenheit.|52 °F|388/9 °F|68 °F|36 °F|2|°F = °C · 9/5 + 32 = 68 °F.
+Expresá 35 °C en grados Fahrenheit.|95 °F|63 °F|463/9 °F|67 °F|0|°F = °C · 9/5 + 32 = 95 °F.
+Expresá 37 °C en kelvin.|310 K|37 K|−236 K|236 K|0|T(K) = T(°C) + 273 = 310 K.
+¿Qué instrumento mide la temperatura?|Barómetro|Dinamómetro|Amperímetro|Termómetro|3|El termómetro mide la temperatura.
+Expresá 0 °C en kelvin.|274 K|273 K|0 K|−273 K|1|T(K) = T(°C) + 273 = 273 K.
+Expresá 10 °C en grados Fahrenheit.|50 °F|18 °F|42 °F|338/9 °F|0|°F = °C · 9/5 + 32 = 50 °F.
+Expresá 50 °C en kelvin.|223 K|50 K|−223 K|323 K|3|T(K) = T(°C) + 273 = 323 K.
+¿Cuántas calorías se necesitan para calentar 100 g de agua (c = 1 cal/g·°C) en 20 °C?|5 cal|120 cal|20000 cal|2000 cal|3|Q = m · c · ΔT = 100 · 1 · 20 = 2000 cal.
+Cuando se calienta una barra metálica, su longitud:|No cambia|Se anula|Disminuye|Aumenta (dilatación)|3|Los sólidos se dilatan al aumentar la temperatura.
+Se mezclan 300 g de agua a 90 °C con 300 g de agua a 30 °C. ¿Cuál es la temperatura final de equilibrio?|60 °C|61 °C|27 °C|120 °C|0|Masas iguales: Tf = (90 + 30)/2 = 60 °C.
+¿Cuál de estos materiales es mejor conductor del calor?|Madera|Telgopor|Hierro|Lana|2|Los metales conducen mejor el calor que los materiales aislantes.
+¿Cuánto calor absorben 400 g de un metal de calor específico 0,25 cal/g·°C al pasar de 0 °C a 50 °C?|20000 cal|10000 cal|5000 cal|25/2 cal|2|Q = m·c·ΔT = 400 · 0,25 · 50 = 5000 cal.
+¿Cuánto calor absorben 500 g de cobre de calor específico 0,1 cal/g·°C al pasar de 10 °C a 110 °C?|5000 cal|50000 cal|10 cal|10000 cal|0|Q = m·c·ΔT = 500 · 0,1 · 100 = 5000 cal.
+Se mezclan 50 g de agua a 70 °C con 50 g de agua a 10 °C. ¿Cuál es la temperatura final de equilibrio?|80 °C|40 °C|7 °C|60 °C|1|Masas iguales: Tf = (70 + 10)/2 = 40 °C.
+¿Cuántas calorías se necesitan para calentar 300 g de agua (c = 1 cal/g·°C) en 15 °C?|45000 cal|4500 cal|20 cal|315 cal|1|Q = m · c · ΔT = 300 · 1 · 15 = 4500 cal.
+¿Cuánto calor absorben 100 g de un aceite de calor específico 0,5 cal/g·°C al pasar de 20 °C a 60 °C?|2000 cal|2001 cal|4000 cal|20 cal|0|Q = m·c·ΔT = 100 · 0,5 · 40 = 2000 cal.
+Durante el cambio de estado de una sustancia pura (por ejemplo, fusión del hielo), la temperatura:|Disminuye|Oscila|Aumenta|Permanece constante|3|El calor absorbido se usa para cambiar el estado, no para subir la temperatura.
+¿Cómo se transmite el calor del Sol a la Tierra?|Por conducción|Por convección|Por radiación|No se transmite|2|La radiación no necesita medio material y viaja en el vacío.
+Un calentador entrega 400 cal/s. ¿Cuánto tarda en calentar 1000 g de agua en 20 °C?|100 s|50 s|51 s|20000 s|1|Q = 20000 cal; t = Q/P = 20000/400 = 50 s.
+Se mezclan 400 g de agua a 50 °C con 100 g de agua a 25 °C. ¿Cuál es la temperatura final?|75 °C|45 °C|30 °C|75/2 °C|1|Tf = (m₁T₁ + m₂T₂)/(m₁ + m₂) = (20000 + 2500)/500 = 45 °C.
+La temperatura de 300 K equivale a:|573 °C|300 °C|27 °C|−27 °C|2|°C = K − 273 = 27 °C.
+¿Cuánto calor se necesita para vaporizar 20 g de agua a 100 °C? (calor latente 540 cal/g)|560 cal|27 cal|108000 cal|10800 cal|3|Q = m · L = 20 · 540 = 10800 cal.
+¿Cuánto calor se necesita para vaporizar 10 g de agua a 100 °C? (calor latente 540 cal/g)|550 cal|5400 cal|54000 cal|54 cal|1|Q = m · L = 10 · 540 = 5400 cal.
+¿Por qué sentimos más frío al tocar un metal que una madera a la misma temperatura?|Porque el metal tiene más masa|Porque el metal está más frío|Porque el metal conduce mejor el calor y lo extrae más rápido de la mano|Porque la madera genera calor|2|La conductividad térmica del metal es mayor.
+¿Por qué los termos usan doble pared de vidrio con vacío entre ellas?|Para evitar la conducción y la convección del calor|Para aumentar la dilatación|Para que se caliente más rápido|Para conducir mejor el calor|0|El vacío no transmite calor por conducción ni convección.
+Se mezclan 300 g de agua a 60 °C con 100 g de agua a 20 °C. ¿Cuál es la temperatura final?|50 °C|80 °C|40 °C|30 °C|0|Tf = (m₁T₁ + m₂T₂)/(m₁ + m₂) = (18000 + 2000)/400 = 50 °C.
+Se mezclan 50 g de agua a 100 °C con 150 g de agua a 20 °C. ¿Cuál es la temperatura final?|120 °C|80 °C|40 °C|60 °C|2|Tf = (m₁T₁ + m₂T₂)/(m₁ + m₂) = (5000 + 3000)/200 = 40 °C.
+¿Cuánto calor se necesita para fundir 200 g de hielo a 0 °C? (calor latente 80 cal/g)|160000 cal|280 cal|16000 cal|2/5 cal|2|Q = m · L = 200 · 80 = 16000 cal.

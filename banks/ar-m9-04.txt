@@ -1,51 +1,51 @@
 #EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
-¿Cuál es la pendiente de la recta y = −2x + 4?|−1/2|2|4|−2|3|En y = mx + b, la pendiente es el coeficiente de x: m = −2.
-En una función de proporcionalidad directa se cumple f(1) = 6. ¿Cuánto vale f(9)?|54|36|2/3|15|0|Es f(x) = 6x, entonces f(9) = 6 · 9 = 54.
-En una función de proporcionalidad directa se cumple f(1) = 2. ¿Cuánto vale f(8)?|10|1/4|4|16|3|Es f(x) = 2x, entonces f(8) = 2 · 8 = 16.
-¿En qué punto corta al eje y la recta y = 3x + 6?|(0; 6)|(0; −6)|(0; −2)|(0; 3)|0|La ordenada al origen es el término independiente: cuando x = 0, y = 6.
-¿En qué punto corta al eje y la recta y = −3x + 4?|(0; 4)|(0; −4)|(0; −3)|(0; 4/3)|0|La ordenada al origen es el término independiente: cuando x = 0, y = 4.
-¿En qué punto corta al eje y la recta y = 3x + 7?|(0; −7/3)|(0; 7)|(0; −7)|(0; 3)|1|La ordenada al origen es el término independiente: cuando x = 0, y = 7.
-En una función de proporcionalidad directa se cumple f(1) = 4. ¿Cuánto vale f(2)?|16|8|6|2|1|Es f(x) = 4x, entonces f(2) = 4 · 2 = 8.
-¿Cuál es la pendiente de la recta y = 5x − 3?|5|−5|−3|1/5|0|En y = mx + b, la pendiente es el coeficiente de x: m = 5.
-Dada la función f(x) = −x − 2, ¿cuánto vale f(−4)?|−6|2|6|−7|1|f(−4) = −1 · (−4) − 2 = 2.
-En una función de proporcionalidad directa se cumple f(1) = 6. ¿Cuánto vale f(2)?|8|12|36|3|1|Es f(x) = 6x, entonces f(2) = 6 · 2 = 12.
-Dada la función f(x) = 2x − 5, ¿cuánto vale f(0)?|−10|−4|−3|−5|3|f(0) = 2 · 0 − 5 = −5.
-Dada la función f(x) = 5x − 6, ¿cuánto vale f(−1)?|−2|−11|−35|−1|1|f(−1) = 5 · (−1) − 6 = −11.
-¿Cuál es la pendiente de la recta y = −4x + 7?|7|−4|−1/4|4|1|En y = mx + b, la pendiente es el coeficiente de x: m = −4.
-¿En qué punto corta al eje y la recta y = 2x − 2?|(0; −1)|(0; 1)|(0; 2)|(0; −2)|3|La ordenada al origen es el término independiente: cuando x = 0, y = −2.
-Dada la función f(x) = 4x − 2, ¿cuánto vale f(−4)?|−24|−18|14|−2|1|f(−4) = 4 · (−4) − 2 = −18.
-Dada la función f(x) = −x + 6, ¿cuánto vale f(2)?|−8|7|8|4|3|f(2) = −1 · 2 + 6 = 4.
-¿Cuál es la pendiente de la recta y = −3x + 1?|1|−1/3|3|−3|3|En y = mx + b, la pendiente es el coeficiente de x: m = −3.
-¿Cuál de estas rectas es paralela a y = 2x − 3?|y = −1/2x + 7|y = 2x + 7|y = 1/2x + 7|y = −2x + 7|1|Las rectas paralelas tienen la misma pendiente (2) y distinta ordenada al origen.
-¿Cuál es la ecuación de la recta de pendiente −3 que pasa por (4; −12)?|y = −3x|y = −3x − 8|y = −3x − 12|y = −3x − 3|0|Se reemplaza el punto en y = −3x + b: −12 = (−3) · 4 + b, entonces b = 0.
-¿Cuál es la ecuación de la recta de pendiente 2 que pasa por (2; −2)?|y = 2x + 6|y = 2x − 4|y = 2x − 6|y = 2x − 2|2|Se reemplaza el punto en y = 2x + b: −2 = 2 · 2 + b, entonces b = −6.
-¿Cuál es la raíz (cero) de la función f(x) = 3x + 6?|x = −1/2|x = 6|x = −2|x = 2|2|La raíz es el valor de x donde f(x) = 0: 3x + 6 = 0 → x = −2.
-¿Cuál es la raíz (cero) de la función f(x) = 5x − 5?|x = 1|x = −5|x = −1|x = 2|0|La raíz es el valor de x donde f(x) = 0: 5x − 5 = 0 → x = 1.
-¿Cuál es la ecuación de la recta de pendiente −2 que pasa por (4; −13)?|y = −2x − 5|y = −2x − 7|y = −2x − 13|y = −2x + 5|0|Se reemplaza el punto en y = −2x + b: −13 = (−2) · 4 + b, entonces b = −5.
-¿Cuál de estas rectas es paralela a y = 3x + 1?|y = 3x + 4|y = 1/3x + 4|y = −1/3x + 4|y = −3x + 4|0|Las rectas paralelas tienen la misma pendiente (3) y distinta ordenada al origen.
-¿Cuál es la raíz (cero) de la función f(x) = 5x − 30?|x = 1/6|x = −6|x = −30|x = 6|3|La raíz es el valor de x donde f(x) = 0: 5x − 30 = 0 → x = 6.
-Hallá la pendiente de la recta que pasa por (4; −7) y (2; −5).|0|2|1|−1|3|m = (y₂ − y₁)/(x₂ − x₁) = (−5 − (−7))/(2 − 4) = −1.
-Hallá la pendiente de la recta que pasa por (−2; 0) y (0; 6).|3|1/3|6|−3|0|m = (y₂ − y₁)/(x₂ − x₁) = (6 − 0)/(0 − (−2)) = 3.
-¿Cuál de estas rectas es paralela a y = 5x − 4?|y = 5x + 1|y = −5x + 1|y = −1/5x + 1|y = 1/5x + 1|0|Las rectas paralelas tienen la misma pendiente (5) y distinta ordenada al origen.
-¿Cuál es la ecuación de la recta de pendiente 2 que pasa por (1; −5)?|y = 2x − 5|y = 2x − 7|y = 2x + 7|y = 2x − 4|1|Se reemplaza el punto en y = 2x + b: −5 = 2 · 1 + b, entonces b = −7.
-¿Cuál es la raíz (cero) de la función f(x) = 2x + 2?|x = 1|x = 2|x = 0|x = −1|3|La raíz es el valor de x donde f(x) = 0: 2x + 2 = 0 → x = −1.
-Hallá la pendiente de la recta que pasa por (0; −2) y (−1; −5).|1/3|−3|3|4|2|m = (y₂ − y₁)/(x₂ − x₁) = (−5 − (−2))/(−1 − 0) = 3.
-Hallá la pendiente de la recta que pasa por (−2; −10) y (0; −2).|1/4|4|8|−4|1|m = (y₂ − y₁)/(x₂ − x₁) = (−2 − (−10))/(0 − (−2)) = 4.
-Hallá la pendiente de la recta que pasa por (−2; −2) y (2; 10).|1/3|3|−3|12|1|m = (y₂ − y₁)/(x₂ − x₁) = (10 − (−2))/(2 − (−2)) = 3.
-¿Cuál es la ecuación de la recta de pendiente −1 que pasa por (2; −9)?|y = −x − 7|y = −x − 9|y = −x − 8|y = −x + 7|0|Se reemplaza el punto en y = −x + b: −9 = (−1) · 2 + b, entonces b = −7.
-Hallá la ecuación de la recta que pasa por (1; −4) y (−1; −2).|y = −x − 3|y = −x − 2|y = −3|y = x − 3|0|m = (−2 − (−4))/(−1 − 1) = −1 y reemplazando un punto se obtiene b = −3.
-Hallá la ecuación de la recta que pasa por (5; 0) y (−1; −4).|y = 2/3x − 7/3|y = 3/2x − 10/3|y = −2/3x − 10/3|y = 2/3x − 10/3|3|m = (−4 − 0)/(−1 − 5) = 2/3 y reemplazando un punto se obtiene b = −10/3.
+¿Cuál es la pendiente de la recta y = −2x + 4?|4|2|−2|−1/2|2|En y = mx + b, la pendiente es el coeficiente de x: m = −2.
+En una función de proporcionalidad directa se cumple f(1) = 6. ¿Cuánto vale f(9)?|15|2/3|36|54|3|Es f(x) = 6x, entonces f(9) = 6 · 9 = 54.
+En una función de proporcionalidad directa se cumple f(1) = 2. ¿Cuánto vale f(8)?|10|1/4|16|4|2|Es f(x) = 2x, entonces f(8) = 2 · 8 = 16.
+¿En qué punto corta al eje y la recta y = 3x + 6?|(0; 6)|(0; −6)|(0; 3)|(0; −2)|0|La ordenada al origen es el término independiente: cuando x = 0, y = 6.
+¿En qué punto corta al eje y la recta y = −3x + 4?|(0; 4/3)|(0; −4)|(0; −3)|(0; 4)|3|La ordenada al origen es el término independiente: cuando x = 0, y = 4.
+¿En qué punto corta al eje y la recta y = 3x + 7?|(0; 7)|(0; −7/3)|(0; −7)|(0; 3)|0|La ordenada al origen es el término independiente: cuando x = 0, y = 7.
+En una función de proporcionalidad directa se cumple f(1) = 4. ¿Cuánto vale f(2)?|2|6|16|8|3|Es f(x) = 4x, entonces f(2) = 4 · 2 = 8.
+¿Cuál es la pendiente de la recta y = 5x − 3?|1/5|5|−3|−5|1|En y = mx + b, la pendiente es el coeficiente de x: m = 5.
+Dada la función f(x) = −x − 2, ¿cuánto vale f(−4)?|−7|−6|6|2|3|f(−4) = −1 · (−4) − 2 = 2.
+En una función de proporcionalidad directa se cumple f(1) = 6. ¿Cuánto vale f(2)?|12|8|3|36|0|Es f(x) = 6x, entonces f(2) = 6 · 2 = 12.
+Dada la función f(x) = 2x − 5, ¿cuánto vale f(0)?|−4|−10|−5|−3|2|f(0) = 2 · 0 − 5 = −5.
+Dada la función f(x) = 5x − 6, ¿cuánto vale f(−1)?|−1|−2|−35|−11|3|f(−1) = 5 · (−1) − 6 = −11.
+¿Cuál es la pendiente de la recta y = −4x + 7?|−1/4|7|−4|4|2|En y = mx + b, la pendiente es el coeficiente de x: m = −4.
+¿En qué punto corta al eje y la recta y = 2x − 2?|(0; −2)|(0; 2)|(0; −1)|(0; 1)|0|La ordenada al origen es el término independiente: cuando x = 0, y = −2.
+Dada la función f(x) = 4x − 2, ¿cuánto vale f(−4)?|−18|−2|14|−24|0|f(−4) = 4 · (−4) − 2 = −18.
+Dada la función f(x) = −x + 6, ¿cuánto vale f(2)?|7|8|−8|4|3|f(2) = −1 · 2 + 6 = 4.
+¿Cuál es la pendiente de la recta y = −3x + 1?|3|1|−3|−1/3|2|En y = mx + b, la pendiente es el coeficiente de x: m = −3.
+¿Cuál de estas rectas es paralela a y = 2x − 3?|y = −1/2x + 7|y = 1/2x + 7|y = −2x + 7|y = 2x + 7|3|Las rectas paralelas tienen la misma pendiente (2) y distinta ordenada al origen.
+¿Cuál es la ecuación de la recta de pendiente −3 que pasa por (4; −12)?|y = −3x − 3|y = −3x|y = −3x − 8|y = −3x − 12|1|Se reemplaza el punto en y = −3x + b: −12 = (−3) · 4 + b, entonces b = 0.
+¿Cuál es la ecuación de la recta de pendiente 2 que pasa por (2; −2)?|y = 2x + 6|y = 2x − 6|y = 2x − 2|y = 2x − 4|1|Se reemplaza el punto en y = 2x + b: −2 = 2 · 2 + b, entonces b = −6.
+¿Cuál es la raíz (cero) de la función f(x) = 3x + 6?|x = −2|x = −1/2|x = 2|x = 6|0|La raíz es el valor de x donde f(x) = 0: 3x + 6 = 0 → x = −2.
+¿Cuál es la raíz (cero) de la función f(x) = 5x − 5?|x = 2|x = 1|x = −5|x = −1|1|La raíz es el valor de x donde f(x) = 0: 5x − 5 = 0 → x = 1.
+¿Cuál es la ecuación de la recta de pendiente −2 que pasa por (4; −13)?|y = −2x + 5|y = −2x − 5|y = −2x − 13|y = −2x − 7|1|Se reemplaza el punto en y = −2x + b: −13 = (−2) · 4 + b, entonces b = −5.
+¿Cuál de estas rectas es paralela a y = 3x + 1?|y = 1/3x + 4|y = −1/3x + 4|y = 3x + 4|y = −3x + 4|2|Las rectas paralelas tienen la misma pendiente (3) y distinta ordenada al origen.
+¿Cuál es la raíz (cero) de la función f(x) = 5x − 30?|x = −30|x = −6|x = 6|x = 1/6|2|La raíz es el valor de x donde f(x) = 0: 5x − 30 = 0 → x = 6.
+Hallá la pendiente de la recta que pasa por (4; −7) y (2; −5).|−1|2|1|0|0|m = (y₂ − y₁)/(x₂ − x₁) = (−5 − (−7))/(2 − 4) = −1.
+Hallá la pendiente de la recta que pasa por (−2; 0) y (0; 6).|1/3|3|6|−3|1|m = (y₂ − y₁)/(x₂ − x₁) = (6 − 0)/(0 − (−2)) = 3.
+¿Cuál de estas rectas es paralela a y = 5x − 4?|y = 5x + 1|y = 1/5x + 1|y = −5x + 1|y = −1/5x + 1|0|Las rectas paralelas tienen la misma pendiente (5) y distinta ordenada al origen.
+¿Cuál es la ecuación de la recta de pendiente 2 que pasa por (1; −5)?|y = 2x − 4|y = 2x − 5|y = 2x + 7|y = 2x − 7|3|Se reemplaza el punto en y = 2x + b: −5 = 2 · 1 + b, entonces b = −7.
+¿Cuál es la raíz (cero) de la función f(x) = 2x + 2?|x = 1|x = 0|x = 2|x = −1|3|La raíz es el valor de x donde f(x) = 0: 2x + 2 = 0 → x = −1.
+Hallá la pendiente de la recta que pasa por (0; −2) y (−1; −5).|−3|4|3|1/3|2|m = (y₂ − y₁)/(x₂ − x₁) = (−5 − (−2))/(−1 − 0) = 3.
+Hallá la pendiente de la recta que pasa por (−2; −10) y (0; −2).|−4|8|1/4|4|3|m = (y₂ − y₁)/(x₂ − x₁) = (−2 − (−10))/(0 − (−2)) = 4.
+Hallá la pendiente de la recta que pasa por (−2; −2) y (2; 10).|3|−3|12|1/3|0|m = (y₂ − y₁)/(x₂ − x₁) = (10 − (−2))/(2 − (−2)) = 3.
+¿Cuál es la ecuación de la recta de pendiente −1 que pasa por (2; −9)?|y = −x + 7|y = −x − 7|y = −x − 8|y = −x − 9|1|Se reemplaza el punto en y = −x + b: −9 = (−1) · 2 + b, entonces b = −7.
+Hallá la ecuación de la recta que pasa por (1; −4) y (−1; −2).|y = −x − 3|y = −3|y = −x − 2|y = x − 3|0|m = (−2 − (−4))/(−1 − 1) = −1 y reemplazando un punto se obtiene b = −3.
+Hallá la ecuación de la recta que pasa por (5; 0) y (−1; −4).|y = 2/3x − 10/3|y = −2/3x − 10/3|y = 2/3x − 7/3|y = 3/2x − 10/3|0|m = (−4 − 0)/(−1 − 5) = 2/3 y reemplazando un punto se obtiene b = −10/3.
 ¿En qué punto se cortan las rectas y = x − 6 e y = −2x − 3?|(−1; −5)|(1; −5)|(−5; 1)|(1; 5)|1|Se igualan: x − 6 = −2x − 3, de donde x = 1; luego y = −5.
-Hallá la ecuación de la recta que pasa por (−3; −3) y (−2; −5).|y = 2x − 9|y = −1/2x − 9|y = −2x − 9|y = −2x − 8|2|m = (−5 − (−3))/(−2 − (−3)) = −2 y reemplazando un punto se obtiene b = −9.
-¿En qué punto se cortan las rectas y = −2x + 1 e y = −3x + 3?|(−3; 2)|(−2; −3)|(2; −3)|(2; 3)|2|Se igualan: −2x + 1 = −3x + 3, de donde x = 2; luego y = −3.
-¿En qué punto se cortan las rectas y = −x − 4 e y = 4x − 9?|(−5; 1)|(1; 5)|(−1; −5)|(1; −5)|3|Se igualan: −x − 4 = 4x − 9, de donde x = 1; luego y = −5.
-La gráfica de una función lineal pasa por (0; 0) y por (6; 9). ¿Cuánto vale f(12)?|9/2|24|18|21|2|Pendiente m = 9/6 = 3/2; entonces f(x) = 3/2x y f(12) = 18.
-La gráfica de una función lineal pasa por (0; 0) y por (2; 6). ¿Cuánto vale f(10)?|6/5|16|32|30|3|Pendiente m = 6/2 = 3; entonces f(x) = 3x y f(10) = 30.
-Si en f(x) = 4x + 5 el valor de x aumenta 1 unidad, ¿cómo varía f(x)?|No varía|Disminuye 4 unidades|Aumenta 4 unidades|Aumenta 5 unidades|2|La pendiente 4 indica el cambio de f(x) por cada unidad que aumenta x.
-¿En qué punto se cortan las rectas y = −3x + 3 e y = −x + 3?|(0; −3)|(3; 0)|(1; 3)|(0; 3)|3|Se igualan: −3x + 3 = −x + 3, de donde x = 0; luego y = 3.
-Si en f(x) = 3x + 4 el valor de x aumenta 1 unidad, ¿cómo varía f(x)?|Aumenta 3 unidades|Aumenta 4 unidades|Disminuye 3 unidades|No varía|0|La pendiente 3 indica el cambio de f(x) por cada unidad que aumenta x.
-Un taxi cobra $1000 de bajada de bandera más $80 por kilómetro. ¿Cuánto cuesta un viaje de 24 km?|$24080|$1920|$25920|$2920|3|La función es C(x) = 1000 + 80 x; para x = 24 da 1000 + 1920 = 2920.
-Un taxi cobra $1000 de bajada de bandera más $100 por kilómetro. ¿Cuánto cuesta un viaje de 14 km?|$15400|$1400|$2400|$14100|2|La función es C(x) = 1000 + 100 x; para x = 14 da 1000 + 1400 = 2400.
-Un taxi cobra $500 de bajada de bandera más $50 por kilómetro. ¿Cuánto cuesta un viaje de 32 km?|$17600|$2100|$1600|$16050|1|La función es C(x) = 500 + 50 x; para x = 32 da 500 + 1600 = 2100.
-Si en f(x) = 2x + 3 el valor de x aumenta 1 unidad, ¿cómo varía f(x)?|Aumenta 3 unidades|No varía|Disminuye 2 unidades|Aumenta 2 unidades|3|La pendiente 2 indica el cambio de f(x) por cada unidad que aumenta x.
-La gráfica de una función lineal pasa por (0; 0) y por (4; 2). ¿Cuánto vale f(14)?|7|4/7|11|16|0|Pendiente m = 2/4 = 1/2; entonces f(x) = 1/2x y f(14) = 7.
+Hallá la ecuación de la recta que pasa por (−3; −3) y (−2; −5).|y = −2x − 8|y = −2x − 9|y = 2x − 9|y = −1/2x − 9|1|m = (−5 − (−3))/(−2 − (−3)) = −2 y reemplazando un punto se obtiene b = −9.
+¿En qué punto se cortan las rectas y = −2x + 1 e y = −3x + 3?|(2; 3)|(−2; −3)|(2; −3)|(−3; 2)|2|Se igualan: −2x + 1 = −3x + 3, de donde x = 2; luego y = −3.
+¿En qué punto se cortan las rectas y = −x − 4 e y = 4x − 9?|(1; 5)|(−1; −5)|(1; −5)|(−5; 1)|2|Se igualan: −x − 4 = 4x − 9, de donde x = 1; luego y = −5.
+La gráfica de una función lineal pasa por (0; 0) y por (6; 9). ¿Cuánto vale f(12)?|21|9/2|24|18|3|Pendiente m = 9/6 = 3/2; entonces f(x) = 3/2x y f(12) = 18.
+La gráfica de una función lineal pasa por (0; 0) y por (2; 6). ¿Cuánto vale f(10)?|16|6/5|32|30|3|Pendiente m = 6/2 = 3; entonces f(x) = 3x y f(10) = 30.
+Si en f(x) = 4x + 5 el valor de x aumenta 1 unidad, ¿cómo varía f(x)?|Aumenta 5 unidades|Aumenta 4 unidades|No varía|Disminuye 4 unidades|1|La pendiente 4 indica el cambio de f(x) por cada unidad que aumenta x.
+¿En qué punto se cortan las rectas y = −3x + 3 e y = −x + 3?|(1; 3)|(0; −3)|(0; 3)|(3; 0)|2|Se igualan: −3x + 3 = −x + 3, de donde x = 0; luego y = 3.
+Si en f(x) = 3x + 4 el valor de x aumenta 1 unidad, ¿cómo varía f(x)?|Aumenta 4 unidades|Aumenta 3 unidades|Disminuye 3 unidades|No varía|1|La pendiente 3 indica el cambio de f(x) por cada unidad que aumenta x.
+Un taxi cobra $1000 de bajada de bandera más $80 por kilómetro. ¿Cuánto cuesta un viaje de 24 km?|$25920|$24080|$2920|$1920|2|La función es C(x) = 1000 + 80 x; para x = 24 da 1000 + 1920 = 2920.
+Un taxi cobra $1000 de bajada de bandera más $100 por kilómetro. ¿Cuánto cuesta un viaje de 14 km?|$2400|$1400|$15400|$14100|0|La función es C(x) = 1000 + 100 x; para x = 14 da 1000 + 1400 = 2400.
+Un taxi cobra $500 de bajada de bandera más $50 por kilómetro. ¿Cuánto cuesta un viaje de 32 km?|$17600|$16050|$2100|$1600|2|La función es C(x) = 500 + 50 x; para x = 32 da 500 + 1600 = 2100.
+Si en f(x) = 2x + 3 el valor de x aumenta 1 unidad, ¿cómo varía f(x)?|Disminuye 2 unidades|Aumenta 2 unidades|Aumenta 3 unidades|No varía|1|La pendiente 2 indica el cambio de f(x) por cada unidad que aumenta x.
+La gráfica de una función lineal pasa por (0; 0) y por (4; 2). ¿Cuánto vale f(14)?|7|11|16|4/7|0|Pendiente m = 2/4 = 1/2; entonces f(x) = 1/2x y f(14) = 7.

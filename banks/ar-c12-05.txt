@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Qué es un ácido según Brønsted y Lowry?|Un aceptor de protones|Un donante de protones|Un donante de electrones|Un aceptor de electrones|1|La base es el aceptor de protones.
-¿Qué es un ácido según Arrhenius?|Una sustancia que libera OH⁻|Una sal|Un gas|Una sustancia que libera H⁺ en agua|3|Por ejemplo, el HCl.
+¿Qué es un ácido según Brønsted y Lowry?|Un donante de protones|Un aceptor de protones|Un aceptor de electrones|Un donante de electrones|0|La base es el aceptor de protones.
+¿Qué es un ácido según Arrhenius?|Una sustancia que libera H⁺ en agua|Una sal|Una sustancia que libera OH⁻|Un gas|0|Por ejemplo, el HCl.
 ¿Cuánto vale pH + pOH a 25 °C?|1|0|7|14|3|Kw = 10⁻¹⁴.
-¿Qué es una solución reguladora o buffer?|Un solvente|Una solución muy ácida|Una solución sin iones|Una solución que resiste cambios de pH|3|Contiene un ácido débil y su base conjugada.
-¿Cuál es la definición del pH?|pH = [H⁺]|pH = log [OH⁻]|pH = 14 − [H⁺]|pH = −log [H⁺]|3|Es una escala logarítmica.
-¿Qué es una base según Arrhenius?|Un metal|Una sustancia que libera H⁺|Un gas|Una sustancia que libera OH⁻ en agua|3|Por ejemplo, el NaOH.
-¿Qué sucede en una neutralización entre un ácido y una base?|Se forman dos ácidos|Solo se forma gas|Se forman una sal y agua|Se forman dos bases|2|Por ejemplo, HCl + NaOH → NaCl + H2O.
-¿Qué pH tiene una solución neutra a 25 °C?|0|1|14|7|3|[H⁺] = [OH⁻] = 10⁻⁷ M.
-¿Qué pH tiene una solución ácida?|Igual a 14|Mayor que 7|Menor que 7|Igual a 7|2|Hay más H⁺ que OH⁻.
-¿Qué es un ácido fuerte?|Uno que no tiene hidrógeno|Uno que se disocia casi totalmente en agua|Uno que no se disocia|Uno que es una base|1|Por ejemplo, HCl y HNO3.
-¿Cuál es el pH de un buffer con igual concentración de ácido acético y acetato (pKa = 4,74)?|2,37|4,74|9,26|7|1|Con [A⁻] = [HA], pH = pKa.
-¿Qué concentración de H⁺ tiene una solución de pH 4?|10⁴ M|4 M|0,4 M|10⁻⁴ M|3|[H⁺] = 10^(−pH).
-¿Qué expresión tiene la constante de solubilidad del AgCl?|Kps = [Ag⁺] + [Cl⁻]|Kps = [AgCl]|Kps = [Ag⁺] / [Cl⁻]|Kps = [Ag⁺]·[Cl⁻]|3|Para AgCl(s) ⇌ Ag⁺ + Cl⁻.
-¿Cuál es el pH de una solución obtenida diluyendo 10 mL de HCl 1 M hasta 100 mL?|0|1|0,1|2|1|[H⁺] = 0,1 M, entonces pH = 1.
-¿Qué indica un Kps muy pequeño?|La sal es un gas|La sal es muy soluble|La sal es muy poco soluble|La sal es un ácido|2|Se disuelve poco.
-¿Cuál es el pH de una solución de HCl 0,01 M?|0,01|1|2|12|2|pH = −log 10⁻² = 2.
-¿Cuál es el pH de una solución de NaOH 0,001 M?|13|3|11|1|2|pOH = 3, entonces pH = 14 − 3 = 11.
-¿Cuántas veces es más ácida una solución de pH 3 que una de pH 5?|1000|10|2|100|3|Cada unidad de pH es un factor 10: 10² = 100.
-¿Qué volumen de NaOH 0,1 M neutraliza 25 mL de HCl 0,2 M?|12,5 mL|50 mL|5 mL|25 mL|1|0,2 · 25 = 5 mmol; 5 mmol / 0,1 M = 50 mL.
-¿Qué volumen de NaOH 0,1 M neutraliza 20 mL de HCl 0,1 M?|40 mL|20 mL|10 mL|2 mL|1|Mismo número de moles: mismos volumen y molaridad.
+¿Qué es una solución reguladora o buffer?|Una solución que resiste cambios de pH|Un solvente|Una solución muy ácida|Una solución sin iones|0|Contiene un ácido débil y su base conjugada.
+¿Cuál es la definición del pH?|pH = [H⁺]|pH = −log [H⁺]|pH = 14 − [H⁺]|pH = log [OH⁻]|1|Es una escala logarítmica.
+¿Qué es una base según Arrhenius?|Un gas|Un metal|Una sustancia que libera OH⁻ en agua|Una sustancia que libera H⁺|2|Por ejemplo, el NaOH.
+¿Qué sucede en una neutralización entre un ácido y una base?|Se forman dos ácidos|Se forman dos bases|Se forman una sal y agua|Solo se forma gas|2|Por ejemplo, HCl + NaOH → NaCl + H2O.
+¿Qué pH tiene una solución neutra a 25 °C?|1|14|0|7|3|[H⁺] = [OH⁻] = 10⁻⁷ M.
+¿Qué pH tiene una solución ácida?|Menor que 7|Igual a 7|Mayor que 7|Igual a 14|0|Hay más H⁺ que OH⁻.
+¿Qué es un ácido fuerte?|Uno que no tiene hidrógeno|Uno que es una base|Uno que no se disocia|Uno que se disocia casi totalmente en agua|3|Por ejemplo, HCl y HNO3.
+¿Cuál es el pH de un buffer con igual concentración de ácido acético y acetato (pKa = 4,74)?|9,26|4,74|7|2,37|1|Con [A⁻] = [HA], pH = pKa.
+¿Qué concentración de H⁺ tiene una solución de pH 4?|0,4 M|10⁻⁴ M|4 M|10⁴ M|1|[H⁺] = 10^(−pH).
+¿Qué expresión tiene la constante de solubilidad del AgCl?|Kps = [Ag⁺]·[Cl⁻]|Kps = [Ag⁺] / [Cl⁻]|Kps = [Ag⁺] + [Cl⁻]|Kps = [AgCl]|0|Para AgCl(s) ⇌ Ag⁺ + Cl⁻.
+¿Cuál es el pH de una solución obtenida diluyendo 10 mL de HCl 1 M hasta 100 mL?|2|0,1|0|1|3|[H⁺] = 0,1 M, entonces pH = 1.
+¿Qué indica un Kps muy pequeño?|La sal es un ácido|La sal es muy soluble|La sal es un gas|La sal es muy poco soluble|3|Se disuelve poco.
+¿Cuál es el pH de una solución de HCl 0,01 M?|1|12|0,01|2|3|pH = −log 10⁻² = 2.
+¿Cuál es el pH de una solución de NaOH 0,001 M?|1|3|11|13|2|pOH = 3, entonces pH = 14 − 3 = 11.
+¿Cuántas veces es más ácida una solución de pH 3 que una de pH 5?|1000|100|2|10|1|Cada unidad de pH es un factor 10: 10² = 100.
+¿Qué volumen de NaOH 0,1 M neutraliza 25 mL de HCl 0,2 M?|50 mL|12,5 mL|5 mL|25 mL|0|0,2 · 25 = 5 mmol; 5 mmol / 0,1 M = 50 mL.
+¿Qué volumen de NaOH 0,1 M neutraliza 20 mL de HCl 0,1 M?|40 mL|10 mL|20 mL|2 mL|2|Mismo número de moles: mismos volumen y molaridad.
 ¿Cuál es el pH aproximado de CH3COOH 0,1 M con Ka = 1,8 × 10⁻⁵?|7|4,7|2,9|1|2|[H⁺] ≈ √(1,8 × 10⁻⁶) ≈ 1,3 × 10⁻³, entonces pH ≈ 2,9.
-¿Qué pH tiene en el punto de equivalencia la titulación de un ácido fuerte con una base fuerte?|Menor que 7|7|Mayor que 7|14|1|La sal formada no se hidroliza.
-¿Cuál es el pH de un buffer con [A⁻]/[HA] = 10 y pKa = 4,74?|5,74|3,74|6,74|4,74|0|pH = pKa + log 10 = 4,74 + 1.
-¿Qué sistema regula el pH de la sangre humana?|Ácido carbónico y bicarbonato|Ácido acético y acetato|Ácido clorhídrico y cloruro|Hidróxido de sodio y sodio|0|Mantiene el pH cerca de 7,4.
-¿Cuál es la solubilidad molar del AgCl si Kps = 1,0 × 10⁻¹⁰?|1,0 × 10⁻² M|1,0 × 10⁻⁵ M|1,0 × 10⁻¹⁰ M|5,0 × 10⁻¹¹ M|1|s² = Kps, entonces s = √(10⁻¹⁰) = 10⁻⁵.
-¿Cuál es el pH de una solución de Ba(OH)2 0,005 M?|10|12|11,7|2|1|[OH⁻] = 0,01 M, entonces pOH = 2 y pH = 12.
-¿Cuál es la base conjugada del ion HCO3⁻?|H2CO3|CO2|CO3²⁻|H3O⁺|2|Se obtiene al ceder un protón.
-¿Qué sucede con la solubilidad del AgCl al agregar NaCl?|Disminuye por el efecto del ion común|Se anula|No cambia|Aumenta|0|Aumenta [Cl⁻] y se desplaza el equilibrio.
-¿Qué pH tiene en el punto de equivalencia la titulación de un ácido débil con una base fuerte?|7|Mayor que 7|Menor que 7|0|1|La base conjugada se hidroliza y genera OH⁻.
-¿Qué expresión relaciona Kps y la solubilidad s del CaF2?|Kps = 4·s³|Kps = s²|Kps = s³|Kps = 2·s|0|[Ca²⁺] = s y [F⁻] = 2s, entonces Kps = s·(2s)².
+¿Qué pH tiene en el punto de equivalencia la titulación de un ácido fuerte con una base fuerte?|Menor que 7|14|7|Mayor que 7|2|La sal formada no se hidroliza.
+¿Cuál es el pH de un buffer con [A⁻]/[HA] = 10 y pKa = 4,74?|5,74|6,74|3,74|4,74|0|pH = pKa + log 10 = 4,74 + 1.
+¿Qué sistema regula el pH de la sangre humana?|Hidróxido de sodio y sodio|Ácido carbónico y bicarbonato|Ácido clorhídrico y cloruro|Ácido acético y acetato|1|Mantiene el pH cerca de 7,4.
+¿Cuál es la solubilidad molar del AgCl si Kps = 1,0 × 10⁻¹⁰?|1,0 × 10⁻⁵ M|1,0 × 10⁻² M|5,0 × 10⁻¹¹ M|1,0 × 10⁻¹⁰ M|0|s² = Kps, entonces s = √(10⁻¹⁰) = 10⁻⁵.
+¿Cuál es el pH de una solución de Ba(OH)2 0,005 M?|10|12|2|11,7|1|[OH⁻] = 0,01 M, entonces pOH = 2 y pH = 12.
+¿Cuál es la base conjugada del ion HCO3⁻?|CO2|CO3²⁻|H2CO3|H3O⁺|1|Se obtiene al ceder un protón.
+¿Qué sucede con la solubilidad del AgCl al agregar NaCl?|Se anula|Aumenta|Disminuye por el efecto del ion común|No cambia|2|Aumenta [Cl⁻] y se desplaza el equilibrio.
+¿Qué pH tiene en el punto de equivalencia la titulación de un ácido débil con una base fuerte?|Menor que 7|7|0|Mayor que 7|3|La base conjugada se hidroliza y genera OH⁻.
+¿Qué expresión relaciona Kps y la solubilidad s del CaF2?|Kps = 2·s|Kps = s³|Kps = s²|Kps = 4·s³|3|[Ca²⁺] = s y [F⁻] = 2s, entonces Kps = s·(2s)².

@@ -1,27 +1,27 @@
 #EEEEEEEMMMMMMMMMHHHHHHHHHH
-¿Qué indica una constante Kc muy grande?|Predominan los productos en el equilibrio|La reacción es lenta|No hay reacción|Predominan los reactivos|0|La reacción está muy desplazada a la derecha.
-¿Qué es un equilibrio químico?|Un estado en que las velocidades directa e inversa son iguales|Un estado en que la reacción se detiene|Un estado sin reactivos|Un estado sin productos|0|Es dinámico: no se detiene.
-¿Qué indica una constante Kc muy pequeña?|La reacción es rápida|Predominan los reactivos|Predominan los productos|No hay equilibrio|1|La reacción casi no avanza.
-Para A + B ⇌ C con Kc = 3, [A] = 2 M y [B] = 2 M en equilibrio, ¿cuál es [C]?|12 M|4 M|24 M|13 M|0|[C] = Kc·[A]·[B] = 3 · 2 · 2 = 12 M.
-Para A + B ⇌ C con Kc = 4, [A] = 1 M y [B] = 2 M en equilibrio, ¿cuál es [C]?|3 M|8 M|2 M|16 M|1|[C] = Kc·[A]·[B] = 4 · 1 · 2 = 8 M.
-En N₂ + 3 H₂ ⇌ 2 NH₃, al aumentar la presión, el equilibrio:|No cambia|Se desplaza hacia el NH₃|Se desplaza hacia N₂ y H₂|Desaparece|1|Hay menos moles de gas a la derecha.
-Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 2 M, [H₂] = 1 M, [NH₃] = 4 M. ¿Cuál es Kc?|16|2|8|0,125|2|Kc = [NH₃]²/([N₂][H₂]³) = 4²/(2·1³) = 8.
-Si se aumenta la temperatura en una reacción exotérmica, el equilibrio:|Se desplaza hacia los productos|No cambia|Se detiene|Se desplaza hacia los reactivos|3|La reacción inversa absorbe calor.
-Un catalizador en un equilibrio:|Desplaza hacia los productos|Acelera ambas reacciones sin cambiar Kc|Disminuye Kc|Aumenta Kc|1|Solo acelera que se alcance el equilibrio.
-Para A + B ⇌ C + D en equilibrio: [A] = 5 M, [B] = 2 M, [C] = 10 M y [D] = 4 M. ¿Cuál es Kc?|0,25|14|2|4|3|Kc = [C][D]/([A][B]) = 10·4/(5·2) = 4.
-Para A + B ⇌ C + D en equilibrio: [A] = 1 M, [B] = 3 M, [C] = 3 M y [D] = 3 M. ¿Cuál es Kc?|3|0,333|6|1,5|0|Kc = [C][D]/([A][B]) = 3·3/(1·3) = 3.
+¿Qué indica una constante Kc muy grande?|Predominan los reactivos|La reacción es lenta|Predominan los productos en el equilibrio|No hay reacción|2|La reacción está muy desplazada a la derecha.
+¿Qué es un equilibrio químico?|Un estado en que la reacción se detiene|Un estado sin productos|Un estado en que las velocidades directa e inversa son iguales|Un estado sin reactivos|2|Es dinámico: no se detiene.
+¿Qué indica una constante Kc muy pequeña?|Predominan los reactivos|La reacción es rápida|No hay equilibrio|Predominan los productos|0|La reacción casi no avanza.
+Para A + B ⇌ C con Kc = 3, [A] = 2 M y [B] = 2 M en equilibrio, ¿cuál es [C]?|4 M|24 M|13 M|12 M|3|[C] = Kc·[A]·[B] = 3 · 2 · 2 = 12 M.
+Para A + B ⇌ C con Kc = 4, [A] = 1 M y [B] = 2 M en equilibrio, ¿cuál es [C]?|2 M|16 M|8 M|3 M|2|[C] = Kc·[A]·[B] = 4 · 1 · 2 = 8 M.
+En N₂ + 3 H₂ ⇌ 2 NH₃, al aumentar la presión, el equilibrio:|Se desplaza hacia N₂ y H₂|Se desplaza hacia el NH₃|No cambia|Desaparece|1|Hay menos moles de gas a la derecha.
+Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 2 M, [H₂] = 1 M, [NH₃] = 4 M. ¿Cuál es Kc?|2|0,125|8|16|2|Kc = [NH₃]²/([N₂][H₂]³) = 4²/(2·1³) = 8.
+Si se aumenta la temperatura en una reacción exotérmica, el equilibrio:|Se desplaza hacia los productos|Se detiene|Se desplaza hacia los reactivos|No cambia|2|La reacción inversa absorbe calor.
+Un catalizador en un equilibrio:|Desplaza hacia los productos|Aumenta Kc|Disminuye Kc|Acelera ambas reacciones sin cambiar Kc|3|Solo acelera que se alcance el equilibrio.
+Para A + B ⇌ C + D en equilibrio: [A] = 5 M, [B] = 2 M, [C] = 10 M y [D] = 4 M. ¿Cuál es Kc?|4|2|0,25|14|0|Kc = [C][D]/([A][B]) = 10·4/(5·2) = 4.
+Para A + B ⇌ C + D en equilibrio: [A] = 1 M, [B] = 3 M, [C] = 3 M y [D] = 3 M. ¿Cuál es Kc?|3|6|0,333|1,5|0|Kc = [C][D]/([A][B]) = 3·3/(1·3) = 3.
 Para A + B ⇌ C + D en equilibrio: [A] = 3 M, [B] = 3 M, [C] = 9 M y [D] = 2 M. ¿Cuál es Kc?|1,833|2|11|0,5|1|Kc = [C][D]/([A][B]) = 9·2/(3·3) = 2.
-¿Qué dice el principio de Le Châtelier?|Los catalizadores desplazan el equilibrio|Un sistema en equilibrio se opone a las perturbaciones|La temperatura no afecta al equilibrio|El equilibrio es estático|1|Contrarresta el cambio parcialmente.
-Para A + B ⇌ C + D en equilibrio: [A] = 2 M, [B] = 3 M, [C] = 6 M y [D] = 2 M. ¿Cuál es Kc?|2|0,5|1,6|8|0|Kc = [C][D]/([A][B]) = 6·2/(2·3) = 2.
-Si se aumenta la temperatura en una reacción endotérmica, el equilibrio:|Se desplaza hacia los reactivos|Desaparece|No cambia|Se desplaza hacia los productos|3|Absorbe el calor agregado.
-Al aumentar la concentración de un reactivo, el equilibrio:|Se desplaza hacia los reactivos|Se desplaza hacia los productos|No cambia|Desaparece|1|Consume el exceso.
-Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 1 M, [H₂] = 1 M, [NH₃] = 2 M. ¿Cuál es Kc?|2|0,25|8|4|3|Kc = [NH₃]²/([N₂][H₂]³) = 2²/(1·1³) = 4.
-¿Por qué en el proceso Haber se usan alta presión y catalizador?|Para producir hidrógeno|Para aumentar el rendimiento y la velocidad|Para aumentar la temperatura únicamente|Para disminuir Kc|1|Se produce amoníaco para fertilizantes.
-Para A + B ⇌ C con Kc = 0,5, [A] = 4 M y [B] = 2 M en equilibrio, ¿cuál es [C]?|5 M|6 M|4 M|8 M|2|[C] = Kc·[A]·[B] = 0,5 · 4 · 2 = 4 M.
-¿Qué es el cociente de reacción Q?|El rendimiento|La constante de velocidad|La energía|La expresión de Kc con concentraciones en cualquier instante|3|Si Q < Kc, la reacción avanza hacia los productos.
-¿De qué depende el valor de Kc?|Del volumen|De las concentraciones iniciales|De la temperatura|Del catalizador|2|Solo cambia con la temperatura.
-¿Se incluyen los sólidos puros en la expresión de Kc?|No|Sí|Solo los líquidos|Siempre|0|Su concentración es constante.
+¿Qué dice el principio de Le Châtelier?|El equilibrio es estático|Los catalizadores desplazan el equilibrio|La temperatura no afecta al equilibrio|Un sistema en equilibrio se opone a las perturbaciones|3|Contrarresta el cambio parcialmente.
+Para A + B ⇌ C + D en equilibrio: [A] = 2 M, [B] = 3 M, [C] = 6 M y [D] = 2 M. ¿Cuál es Kc?|8|2|0,5|1,6|1|Kc = [C][D]/([A][B]) = 6·2/(2·3) = 2.
+Si se aumenta la temperatura en una reacción endotérmica, el equilibrio:|Desaparece|No cambia|Se desplaza hacia los productos|Se desplaza hacia los reactivos|2|Absorbe el calor agregado.
+Al aumentar la concentración de un reactivo, el equilibrio:|No cambia|Desaparece|Se desplaza hacia los productos|Se desplaza hacia los reactivos|2|Consume el exceso.
+Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 1 M, [H₂] = 1 M, [NH₃] = 2 M. ¿Cuál es Kc?|4|8|0,25|2|0|Kc = [NH₃]²/([N₂][H₂]³) = 2²/(1·1³) = 4.
+¿Por qué en el proceso Haber se usan alta presión y catalizador?|Para aumentar el rendimiento y la velocidad|Para aumentar la temperatura únicamente|Para producir hidrógeno|Para disminuir Kc|0|Se produce amoníaco para fertilizantes.
+Para A + B ⇌ C con Kc = 0,5, [A] = 4 M y [B] = 2 M en equilibrio, ¿cuál es [C]?|5 M|4 M|8 M|6 M|1|[C] = Kc·[A]·[B] = 0,5 · 4 · 2 = 4 M.
+¿Qué es el cociente de reacción Q?|La energía|La constante de velocidad|El rendimiento|La expresión de Kc con concentraciones en cualquier instante|3|Si Q < Kc, la reacción avanza hacia los productos.
+¿De qué depende el valor de Kc?|Del volumen|Del catalizador|De las concentraciones iniciales|De la temperatura|3|Solo cambia con la temperatura.
+¿Se incluyen los sólidos puros en la expresión de Kc?|Sí|Siempre|Solo los líquidos|No|3|Su concentración es constante.
 Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 2 M, [H₂] = 2 M, [NH₃] = 8 M. ¿Cuál es Kc?|0,25|4|2|16|1|Kc = [NH₃]²/([N₂][H₂]³) = 8²/(2·2³) = 4.
-Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 1 M, [H₂] = 2 M, [NH₃] = 4 M. ¿Cuál es Kc?|4|0,5|8|2|3|Kc = [NH₃]²/([N₂][H₂]³) = 4²/(1·2³) = 2.
-Si Q > Kc, la reacción:|Avanza hacia los productos|Está en equilibrio|Se detiene|Avanza hacia los reactivos|3|Hay exceso de productos.
-Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 4 M, [H₂] = 1 M, [NH₃] = 16 M. ¿Cuál es Kc?|128|4|0,016|64|3|Kc = [NH₃]²/([N₂][H₂]³) = 16²/(4·1³) = 64.
+Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 1 M, [H₂] = 2 M, [NH₃] = 4 M. ¿Cuál es Kc?|4|8|0,5|2|3|Kc = [NH₃]²/([N₂][H₂]³) = 4²/(1·2³) = 2.
+Si Q > Kc, la reacción:|Avanza hacia los reactivos|Avanza hacia los productos|Está en equilibrio|Se detiene|0|Hay exceso de productos.
+Para N₂ + 3 H₂ ⇌ 2 NH₃ en equilibrio: [N₂] = 4 M, [H₂] = 1 M, [NH₃] = 16 M. ¿Cuál es Kc?|0,016|64|128|4|1|Kc = [NH₃]²/([N₂][H₂]³) = 16²/(4·1³) = 64.

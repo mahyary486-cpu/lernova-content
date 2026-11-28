@@ -1,29 +1,29 @@
 #EEEEEEEEMMMMMMMMMMHHHHHHHHHH
-Cargas de igual signo:|Se atraen|Se anulan|Se repelen|No interactúan|2|Cargas opuestas se atraen.
-¿Cuál es la unidad de carga eléctrica en el Sistema Internacional?|Volt|Coulomb|Ohm|Ampere|1|1 C es la carga que transporta 1 A en 1 s.
-¿Qué es un aislante?|Un material que no permite el paso de la corriente|Un material que conduce muy bien|Un líquido|Un metal|0|Ejemplos: plástico, vidrio, goma.
-Si la distancia entre dos cargas se multiplica por 4, la fuerza entre ellas queda multiplicada por:|1/4|4|1/16|16|2|Ley de Coulomb: F es inversamente proporcional al cuadrado de la distancia: 1/16.
-Si la distancia entre dos cargas se multiplica por 3, la fuerza entre ellas queda multiplicada por:|1/3|9|3|1/9|3|Ley de Coulomb: F es inversamente proporcional al cuadrado de la distancia: 1/9.
-¿Qué partícula transporta la carga negativa en los metales?|Neutrón|Protón|Electrón|Núcleo|2|Los electrones libres se mueven.
-Si la distancia entre dos cargas se multiplica por 5, la fuerza entre ellas queda multiplicada por:|1/5|5|25|1/25|3|Ley de Coulomb: F es inversamente proporcional al cuadrado de la distancia: 1/25.
-Dos cargas puntuales de 4 μC y 5 μC están separadas 2 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|10 N|0,045 N|0,004 N|0,45 N|1|F = k·q₁·q₂/d² = 9×10⁹·4×10⁻⁶·5×10⁻⁶/2² = 0,045 N.
-Un cuerpo se carga por frotamiento cuando:|Se destruye carga|Se transfieren electrones de un cuerpo a otro|Se crean protones|Se calienta|1|La carga total se conserva.
-¿Qué enuncia el principio de conservación de la carga?|La carga total de un sistema aislado no cambia|La carga se destruye|La carga es continua|La carga siempre aumenta|0|Solo se transfiere.
-Dos cargas puntuales de 2 μC y 2 μC están separadas 2 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|0,001 N|2 N|0,09 N|0,009 N|3|F = k·q₁·q₂/d² = 9×10⁹·2×10⁻⁶·2×10⁻⁶/2² = 0,009 N.
-Una carga de 6 C experimenta una fuerza de 30 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|6 N/C|180 N/C|0,2 N/C|5 N/C|3|E = F/q = 30/6 = 5 N/C.
-Una carga de 2 C experimenta una fuerza de 10 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|20 N/C|6 N/C|0,2 N/C|5 N/C|3|E = F/q = 10/2 = 5 N/C.
-Dos cargas puntuales de 6 μC y 5 μC están separadas 3 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|0,003 N|0,3 N|0,03 N|10 N|2|F = k·q₁·q₂/d² = 9×10⁹·6×10⁻⁶·5×10⁻⁶/3² = 0,03 N.
-Una carga de 3 C experimenta una fuerza de 6 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|3 N/C|2 N/C|0,5 N/C|18 N/C|1|E = F/q = 6/3 = 2 N/C.
-Una carga de 5 C experimenta una fuerza de 15 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|4 N/C|3 N/C|0,333 N/C|75 N/C|1|E = F/q = 15/5 = 3 N/C.
-¿Qué indican las líneas de campo eléctrico?|La dirección y sentido de la fuerza sobre una carga positiva|La temperatura|La velocidad de la luz|La masa de la carga|0|Salen de las cargas positivas y entran en las negativas.
-Dos cargas puntuales de 1 μC y 6 μC están separadas 3 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|2 N|0,006 N|0,001 N|0,06 N|1|F = k·q₁·q₂/d² = 9×10⁹·1×10⁻⁶·6×10⁻⁶/3² = 0,006 N.
-¿Qué trabajo realiza el campo al mover una carga de 5 C a través de una diferencia de potencial de 4 V?|9 J|40 J|20 J|0,8 J|2|W = q·ΔV = 5 · 4 = 20 J.
-¿Qué hace un pararrayos?|Detiene el rayo|Conduce la descarga a tierra|Crea carga|Atrae lluvia|1|Protege edificios y personas.
-Entre dos placas paralelas separadas 5 m hay una diferencia de potencial de 50 V. ¿Cuál es el campo eléctrico uniforme? |20 V/m|250 V/m|10 V/m|0,1 V/m|2|E = V/d = 50/5 = 10 V/m.
-Entre dos placas paralelas separadas 6 m hay una diferencia de potencial de 300 V. ¿Cuál es el campo eléctrico uniforme? |100 V/m|1800 V/m|50 V/m|0,02 V/m|2|E = V/d = 300/6 = 50 V/m.
-¿Qué trabajo realiza el campo al mover una carga de 4 C a través de una diferencia de potencial de 25 V?|29 J|200 J|100 J|6,25 J|2|W = q·ΔV = 4 · 25 = 100 J.
-¿Por qué los rayos ocurren durante las tormentas?|Por la acumulación de carga que se descarga entre nubes y suelo|Por la presión|Por la lluvia|Por el viento|0|Es una descarga eléctrica atmosférica.
-Entre dos placas paralelas separadas 4 m hay una diferencia de potencial de 200 V. ¿Cuál es el campo eléctrico uniforme? |50 V/m|100 V/m|0,02 V/m|800 V/m|0|E = V/d = 200/4 = 50 V/m.
-Entre dos placas paralelas separadas 2 m hay una diferencia de potencial de 100 V. ¿Cuál es el campo eléctrico uniforme? |100 V/m|0,02 V/m|200 V/m|50 V/m|3|E = V/d = 100/2 = 50 V/m.
-Una esfera metálica cargada, al tocar otra idéntica descargada, queda:|Con toda la carga|Sin carga|Con carga opuesta|Con la mitad de la carga cada una|3|La carga se reparte por igual.
-¿Qué trabajo realiza el campo al mover una carga de 2 C a través de una diferencia de potencial de 10 V?|12 J|40 J|20 J|5 J|2|W = q·ΔV = 2 · 10 = 20 J.
+Cargas de igual signo:|Se anulan|Se repelen|No interactúan|Se atraen|1|Cargas opuestas se atraen.
+¿Cuál es la unidad de carga eléctrica en el Sistema Internacional?|Coulomb|Ampere|Volt|Ohm|0|1 C es la carga que transporta 1 A en 1 s.
+¿Qué es un aislante?|Un material que conduce muy bien|Un metal|Un material que no permite el paso de la corriente|Un líquido|2|Ejemplos: plástico, vidrio, goma.
+Si la distancia entre dos cargas se multiplica por 4, la fuerza entre ellas queda multiplicada por:|1/16|1/4|4|16|0|Ley de Coulomb: F es inversamente proporcional al cuadrado de la distancia: 1/16.
+Si la distancia entre dos cargas se multiplica por 3, la fuerza entre ellas queda multiplicada por:|9|1/9|1/3|3|1|Ley de Coulomb: F es inversamente proporcional al cuadrado de la distancia: 1/9.
+¿Qué partícula transporta la carga negativa en los metales?|Neutrón|Núcleo|Electrón|Protón|2|Los electrones libres se mueven.
+Si la distancia entre dos cargas se multiplica por 5, la fuerza entre ellas queda multiplicada por:|25|5|1/25|1/5|2|Ley de Coulomb: F es inversamente proporcional al cuadrado de la distancia: 1/25.
+Dos cargas puntuales de 4 μC y 5 μC están separadas 2 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|0,045 N|0,45 N|0,004 N|10 N|0|F = k·q₁·q₂/d² = 9×10⁹·4×10⁻⁶·5×10⁻⁶/2² = 0,045 N.
+Un cuerpo se carga por frotamiento cuando:|Se transfieren electrones de un cuerpo a otro|Se destruye carga|Se calienta|Se crean protones|0|La carga total se conserva.
+¿Qué enuncia el principio de conservación de la carga?|La carga se destruye|La carga es continua|La carga siempre aumenta|La carga total de un sistema aislado no cambia|3|Solo se transfiere.
+Dos cargas puntuales de 2 μC y 2 μC están separadas 2 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|2 N|0,001 N|0,09 N|0,009 N|3|F = k·q₁·q₂/d² = 9×10⁹·2×10⁻⁶·2×10⁻⁶/2² = 0,009 N.
+Una carga de 6 C experimenta una fuerza de 30 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|180 N/C|5 N/C|6 N/C|0,2 N/C|1|E = F/q = 30/6 = 5 N/C.
+Una carga de 2 C experimenta una fuerza de 10 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|5 N/C|0,2 N/C|6 N/C|20 N/C|0|E = F/q = 10/2 = 5 N/C.
+Dos cargas puntuales de 6 μC y 5 μC están separadas 3 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|0,3 N|0,003 N|0,03 N|10 N|2|F = k·q₁·q₂/d² = 9×10⁹·6×10⁻⁶·5×10⁻⁶/3² = 0,03 N.
+Una carga de 3 C experimenta una fuerza de 6 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|2 N/C|0,5 N/C|18 N/C|3 N/C|0|E = F/q = 6/3 = 2 N/C.
+Una carga de 5 C experimenta una fuerza de 15 N en un campo eléctrico. ¿Cuál es la intensidad del campo?|4 N/C|0,333 N/C|75 N/C|3 N/C|3|E = F/q = 15/5 = 3 N/C.
+¿Qué indican las líneas de campo eléctrico?|La dirección y sentido de la fuerza sobre una carga positiva|La velocidad de la luz|La masa de la carga|La temperatura|0|Salen de las cargas positivas y entran en las negativas.
+Dos cargas puntuales de 1 μC y 6 μC están separadas 3 m en el vacío. ¿Cuál es la fuerza eléctrica entre ellas? (k = 9 × 10⁹ N·m²/C²)|2 N|0,006 N|0,06 N|0,001 N|1|F = k·q₁·q₂/d² = 9×10⁹·1×10⁻⁶·6×10⁻⁶/3² = 0,006 N.
+¿Qué trabajo realiza el campo al mover una carga de 5 C a través de una diferencia de potencial de 4 V?|9 J|0,8 J|40 J|20 J|3|W = q·ΔV = 5 · 4 = 20 J.
+¿Qué hace un pararrayos?|Detiene el rayo|Atrae lluvia|Conduce la descarga a tierra|Crea carga|2|Protege edificios y personas.
+Entre dos placas paralelas separadas 5 m hay una diferencia de potencial de 50 V. ¿Cuál es el campo eléctrico uniforme? |0,1 V/m|10 V/m|20 V/m|250 V/m|1|E = V/d = 50/5 = 10 V/m.
+Entre dos placas paralelas separadas 6 m hay una diferencia de potencial de 300 V. ¿Cuál es el campo eléctrico uniforme? |0,02 V/m|50 V/m|100 V/m|1800 V/m|1|E = V/d = 300/6 = 50 V/m.
+¿Qué trabajo realiza el campo al mover una carga de 4 C a través de una diferencia de potencial de 25 V?|6,25 J|200 J|100 J|29 J|2|W = q·ΔV = 4 · 25 = 100 J.
+¿Por qué los rayos ocurren durante las tormentas?|Por el viento|Por la presión|Por la acumulación de carga que se descarga entre nubes y suelo|Por la lluvia|2|Es una descarga eléctrica atmosférica.
+Entre dos placas paralelas separadas 4 m hay una diferencia de potencial de 200 V. ¿Cuál es el campo eléctrico uniforme? |100 V/m|800 V/m|0,02 V/m|50 V/m|3|E = V/d = 200/4 = 50 V/m.
+Entre dos placas paralelas separadas 2 m hay una diferencia de potencial de 100 V. ¿Cuál es el campo eléctrico uniforme? |100 V/m|50 V/m|200 V/m|0,02 V/m|1|E = V/d = 100/2 = 50 V/m.
+Una esfera metálica cargada, al tocar otra idéntica descargada, queda:|Con carga opuesta|Sin carga|Con toda la carga|Con la mitad de la carga cada una|3|La carga se reparte por igual.
+¿Qué trabajo realiza el campo al mover una carga de 2 C a través de una diferencia de potencial de 10 V?|40 J|5 J|12 J|20 J|3|W = q·ΔV = 2 · 10 = 20 J.

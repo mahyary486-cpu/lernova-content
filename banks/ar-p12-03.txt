@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Qué radiación emite un cuerpo caliente?|Gamma|Infrarroja|Ultravioleta únicamente|Rayos X|1|Los controles remotos también la usan.
-Una onda de radio tiene una frecuencia de 6 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|18 m|50 m|500 m|5 m|1|λ = c/f = 3×10⁸/(6×10⁶) = 50 m.
+¿Qué radiación emite un cuerpo caliente?|Rayos X|Infrarroja|Gamma|Ultravioleta únicamente|1|Los controles remotos también la usan.
+Una onda de radio tiene una frecuencia de 6 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|50 m|5 m|500 m|18 m|0|λ = c/f = 3×10⁸/(6×10⁶) = 50 m.
 Una onda de radio tiene una frecuencia de 30 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|90 m|1 m|10 m|100 m|2|λ = c/f = 3×10⁸/(30×10⁶) = 10 m.
-¿Qué radiación se usa para hacer radiografías?|Radio|Rayos X|Infrarrojo|Microondas|1|Atraviesan los tejidos blandos.
-Una onda de radio tiene una frecuencia de 300 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|900 m|1 m|0,1 m|10 m|1|λ = c/f = 3×10⁸/(300×10⁶) = 1 m.
-¿Qué onda electromagnética tiene la mayor longitud de onda?|Luz visible|Ondas de radio|Rayos gamma|Rayos X|1|A menor frecuencia, mayor longitud de onda.
-Una onda de radio tiene una frecuencia de 0,5 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|1,5 m|600 m|60 m|6000 m|1|λ = c/f = 3×10⁸/(0,5×10⁶) = 600 m.
-¿Cuál es la velocidad de las ondas electromagnéticas en el vacío?|340 m/s|3 × 10⁶ m/s|3 × 10⁸ m/s|3 × 10¹⁰ m/s|2|Todas viajan a la velocidad de la luz.
-Una onda de radio tiene una frecuencia de 3 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|100 m|9 m|1000 m|10 m|0|λ = c/f = 3×10⁸/(3×10⁶) = 100 m.
-¿Qué onda electromagnética tiene la mayor frecuencia?|Ondas de radio|Microondas|Luz visible|Rayos gamma|3|Es la más energética.
-¿Qué radiación del Sol puede producir daño en la piel?|Ultravioleta|Radio|Microondas|Infrarroja|0|La capa de ozono la filtra parcialmente.
-¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 1,5 m? (c = 3 × 10⁸ m/s)|200 × 10⁶ Hz|20 × 10⁶ Hz|3/2 × 10⁶ Hz|2000 × 10⁶ Hz|0|f = c/λ = 3×10⁸/1,5 = 200 × 10⁶ Hz.
-¿Cuál es el orden del espectro electromagnético de menor a mayor frecuencia?|Gamma, X, visible, radio|Visible, radio, gamma|Radio, microondas, infrarrojo, visible, ultravioleta, X, gamma|Microondas, radio, visible|2|Aumenta la energía del fotón.
-¿Qué es una onda electromagnética?|Una onda en el agua|Una onda mecánica|Una onda sonora|La propagación de campos eléctrico y magnético oscilantes|3|No necesita medio.
-¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 600 m? (c = 3 × 10⁸ m/s)|600 × 10⁶ Hz|5 × 10⁶ Hz|1/20 × 10⁶ Hz|0,5 × 10⁶ Hz|3|f = c/λ = 3×10⁸/600 = 0,5 × 10⁶ Hz.
-¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 30 m? (c = 3 × 10⁸ m/s)|100 × 10⁶ Hz|10 × 10⁶ Hz|1 × 10⁶ Hz|30 × 10⁶ Hz|1|f = c/λ = 3×10⁸/30 = 10 × 10⁶ Hz.
-¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 3 m? (c = 3 × 10⁸ m/s)|3 × 10⁶ Hz|100 × 10⁶ Hz|1000 × 10⁶ Hz|10 × 10⁶ Hz|1|f = c/λ = 3×10⁸/3 = 100 × 10⁶ Hz.
-¿Cómo son los campos E y B en una onda electromagnética?|Paralelos entre sí|Nulos|Iguales|Perpendiculares entre sí y a la dirección de propagación|3|Es una onda transversal.
-¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 0,03 m? (c = 3 × 10⁸ m/s)|100000 × 10⁶ Hz|3/100 × 10⁶ Hz|1000 × 10⁶ Hz|10000 × 10⁶ Hz|3|f = c/λ = 3×10⁸/0,03 = 10000 × 10⁶ Hz.
-Una onda de radio tiene una frecuencia de 1,5 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|200 m|4,5 m|2000 m|20 m|0|λ = c/f = 3×10⁸/(1,5×10⁶) = 200 m.
-¿Por qué los hornos de microondas calientan los alimentos?|Porque calientan el aire|Porque emiten rayos X|Porque producen fuego|Porque las microondas hacen vibrar las moléculas de agua|3|Se absorbe la energía.
-Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 3000 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|10 ms|40 ms|20 ms|1 ms|2|t = 2d/c = 2·3000 000/3×10⁸ = 20 ms.
-Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 600 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|2 ms|8 ms|4 ms|1/5 ms|2|t = 2d/c = 2·600 000/3×10⁸ = 4 ms.
+¿Qué radiación se usa para hacer radiografías?|Rayos X|Radio|Infrarrojo|Microondas|0|Atraviesan los tejidos blandos.
+Una onda de radio tiene una frecuencia de 300 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|10 m|0,1 m|900 m|1 m|3|λ = c/f = 3×10⁸/(300×10⁶) = 1 m.
+¿Qué onda electromagnética tiene la mayor longitud de onda?|Luz visible|Ondas de radio|Rayos X|Rayos gamma|1|A menor frecuencia, mayor longitud de onda.
+Una onda de radio tiene una frecuencia de 0,5 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|600 m|60 m|1,5 m|6000 m|0|λ = c/f = 3×10⁸/(0,5×10⁶) = 600 m.
+¿Cuál es la velocidad de las ondas electromagnéticas en el vacío?|3 × 10⁸ m/s|3 × 10⁶ m/s|340 m/s|3 × 10¹⁰ m/s|0|Todas viajan a la velocidad de la luz.
+Una onda de radio tiene una frecuencia de 3 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|10 m|9 m|100 m|1000 m|2|λ = c/f = 3×10⁸/(3×10⁶) = 100 m.
+¿Qué onda electromagnética tiene la mayor frecuencia?|Ondas de radio|Rayos gamma|Luz visible|Microondas|1|Es la más energética.
+¿Qué radiación del Sol puede producir daño en la piel?|Infrarroja|Microondas|Ultravioleta|Radio|2|La capa de ozono la filtra parcialmente.
+¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 1,5 m? (c = 3 × 10⁸ m/s)|3/2 × 10⁶ Hz|200 × 10⁶ Hz|2000 × 10⁶ Hz|20 × 10⁶ Hz|1|f = c/λ = 3×10⁸/1,5 = 200 × 10⁶ Hz.
+¿Cuál es el orden del espectro electromagnético de menor a mayor frecuencia?|Visible, radio, gamma|Gamma, X, visible, radio|Microondas, radio, visible|Radio, microondas, infrarrojo, visible, ultravioleta, X, gamma|3|Aumenta la energía del fotón.
+¿Qué es una onda electromagnética?|Una onda mecánica|Una onda sonora|La propagación de campos eléctrico y magnético oscilantes|Una onda en el agua|2|No necesita medio.
+¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 600 m? (c = 3 × 10⁸ m/s)|5 × 10⁶ Hz|600 × 10⁶ Hz|0,5 × 10⁶ Hz|1/20 × 10⁶ Hz|2|f = c/λ = 3×10⁸/600 = 0,5 × 10⁶ Hz.
+¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 30 m? (c = 3 × 10⁸ m/s)|1 × 10⁶ Hz|10 × 10⁶ Hz|30 × 10⁶ Hz|100 × 10⁶ Hz|1|f = c/λ = 3×10⁸/30 = 10 × 10⁶ Hz.
+¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 3 m? (c = 3 × 10⁸ m/s)|100 × 10⁶ Hz|3 × 10⁶ Hz|10 × 10⁶ Hz|1000 × 10⁶ Hz|0|f = c/λ = 3×10⁸/3 = 100 × 10⁶ Hz.
+¿Cómo son los campos E y B en una onda electromagnética?|Nulos|Perpendiculares entre sí y a la dirección de propagación|Iguales|Paralelos entre sí|1|Es una onda transversal.
+¿Cuál es la frecuencia de una onda electromagnética de longitud de onda 0,03 m? (c = 3 × 10⁸ m/s)|100000 × 10⁶ Hz|1000 × 10⁶ Hz|3/100 × 10⁶ Hz|10000 × 10⁶ Hz|3|f = c/λ = 3×10⁸/0,03 = 10000 × 10⁶ Hz.
+Una onda de radio tiene una frecuencia de 1,5 MHz. ¿Cuál es su longitud de onda? (c = 3 × 10⁸ m/s)|20 m|2000 m|4,5 m|200 m|3|λ = c/f = 3×10⁸/(1,5×10⁶) = 200 m.
+¿Por qué los hornos de microondas calientan los alimentos?|Porque producen fuego|Porque emiten rayos X|Porque las microondas hacen vibrar las moléculas de agua|Porque calientan el aire|2|Se absorbe la energía.
+Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 3000 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|10 ms|40 ms|1 ms|20 ms|3|t = 2d/c = 2·3000 000/3×10⁸ = 20 ms.
+Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 600 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|8 ms|1/5 ms|4 ms|2 ms|2|t = 2d/c = 2·600 000/3×10⁸ = 4 ms.
 ¿Quién predijo la existencia de ondas electromagnéticas?|Galileo|Newton|Faraday|Maxwell|3|Sus ecuaciones unificaron electricidad, magnetismo y óptica.
-¿Qué indica el efecto Doppler en la luz de las galaxias lejanas?|Un corrimiento al azul|Que son estrellas|Que están quietas|Un corrimiento al rojo y la expansión del universo|3|Se alejan de nosotros.
-Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 1500 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|10 ms|5 ms|20 ms|1/2 ms|0|t = 2d/c = 2·1500 000/3×10⁸ = 10 ms.
-Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 150 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|2 ms|1/2 ms|1 ms|1/20 ms|2|t = 2d/c = 2·150 000/3×10⁸ = 1 ms.
-¿Para qué sirve un GPS?|Medir el campo magnético|Medir la temperatura|Producir ondas sonoras|Calcular la posición con señales de satélites|3|Usa la señal electromagnética de varios satélites.
-¿Qué transmite una fibra óptica?|Corriente eléctrica|Calor|Sonido|Pulsos de luz|3|Funciona por reflexión total interna.
-¿Por qué las ondas de radio AM pueden rodear obstáculos más que las de FM?|Porque su longitud de onda es mayor, por difracción|Porque son más rápidas|Porque son sonoras|Porque tienen mayor frecuencia|0|A mayor λ, más difracción.
+¿Qué indica el efecto Doppler en la luz de las galaxias lejanas?|Que están quietas|Un corrimiento al azul|Que son estrellas|Un corrimiento al rojo y la expansión del universo|3|Se alejan de nosotros.
+Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 1500 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|10 ms|5 ms|1/2 ms|20 ms|0|t = 2d/c = 2·1500 000/3×10⁸ = 10 ms.
+Una señal de radar viaja a la velocidad de la luz hasta un objeto y regresa. Si el objeto está a 150 km, ¿cuánto tarda en volver? (c = 3 × 10⁸ m/s)|1 ms|1/20 ms|1/2 ms|2 ms|0|t = 2d/c = 2·150 000/3×10⁸ = 1 ms.
+¿Para qué sirve un GPS?|Calcular la posición con señales de satélites|Producir ondas sonoras|Medir la temperatura|Medir el campo magnético|0|Usa la señal electromagnética de varios satélites.
+¿Qué transmite una fibra óptica?|Corriente eléctrica|Pulsos de luz|Sonido|Calor|1|Funciona por reflexión total interna.
+¿Por qué las ondas de radio AM pueden rodear obstáculos más que las de FM?|Porque son más rápidas|Porque son sonoras|Porque tienen mayor frecuencia|Porque su longitud de onda es mayor, por difracción|3|A mayor λ, más difracción.

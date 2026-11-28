@@ -1,29 +1,29 @@
 #EEEEEEEEEEMMMMMMMMHHHHHHHHHH
-¿Cómo se llama la etapa de cambios entre la infancia y la adultez?|Vejez|Pubertad|Menopausia|Gestación|1|Se produce por acción de hormonas.
-¿Cuál es la glándula masculina que produce testosterona?|El páncreas|La próstata|El hígado|Los testículos|3|También producen espermatozoides.
-¿Dónde se desarrolla el embrión humano?|En las trompas|En los ovarios|En el útero|En la vagina|2|Allí se nutre a través de la placenta.
-¿Cómo se llama la unión de un óvulo y un espermatozoide?|Menstruación|Ovulación|Fecundación|Mitosis|2|Origina el cigoto.
+¿Cómo se llama la etapa de cambios entre la infancia y la adultez?|Menopausia|Pubertad|Vejez|Gestación|1|Se produce por acción de hormonas.
+¿Cuál es la glándula masculina que produce testosterona?|El hígado|Los testículos|La próstata|El páncreas|1|También producen espermatozoides.
+¿Dónde se desarrolla el embrión humano?|En los ovarios|En el útero|En las trompas|En la vagina|1|Allí se nutre a través de la placenta.
+¿Cómo se llama la unión de un óvulo y un espermatozoide?|Mitosis|Fecundación|Ovulación|Menstruación|1|Origina el cigoto.
 Un ejemplo de reproducción asexual es:|La bipartición de una bacteria|La fecundación humana|El apareamiento de aves|La polinización|0|Una bacteria se divide en dos.
-¿Cómo se llaman las células sexuales masculinas?|Espermatozoides|Cigotos|Óvulos|Embriones|0|Se producen en los testículos.
-¿Dónde ocurre normalmente la fecundación en la mujer?|En la vagina|En el útero|En las trompas de Falopio|En los ovarios|2|Luego el embrión se implanta en el útero.
-¿Qué tipo de reproducción interviene una sola célula madre y produce clones?|Hormonal|Asexual|Sexual|Mixta|1|Los descendientes son idénticos al progenitor.
-¿Qué estructura une al feto con la madre y permite el intercambio de sustancias?|La placenta|La vagina|El ovario|El útero|0|Comunica sangre materna y fetal sin mezclarla.
+¿Cómo se llaman las células sexuales masculinas?|Espermatozoides|Cigotos|Embriones|Óvulos|0|Se producen en los testículos.
+¿Dónde ocurre normalmente la fecundación en la mujer?|En el útero|En la vagina|En las trompas de Falopio|En los ovarios|2|Luego el embrión se implanta en el útero.
+¿Qué tipo de reproducción interviene una sola célula madre y produce clones?|Sexual|Mixta|Hormonal|Asexual|3|Los descendientes son idénticos al progenitor.
+¿Qué estructura une al feto con la madre y permite el intercambio de sustancias?|El ovario|El útero|La placenta|La vagina|2|Comunica sangre materna y fetal sin mezclarla.
 ¿Cómo se llaman las células sexuales femeninas?|Neuronas|Óvulos|Cigotos|Espermatozoides|1|Se producen en los ovarios.
-¿Cuánto dura aproximadamente el ciclo menstrual?|28 días|7 días|90 días|1 año|0|Puede variar entre personas.
-¿Qué hormonas sexuales femeninas regulan el ciclo?|Insulina y glucagón|Estrógenos y progesterona|Tiroxina|Adrenalina y cortisol|1|Se producen en los ovarios.
-¿Cómo se llaman las plantas que se reproducen mediante flores?|Algas|Angiospermas|Helechos|Musgos|1|Sus semillas se forman dentro de frutos.
-¿Cuál de estos es un método anticonceptivo que además previene infecciones de transmisión sexual?|La píldora|La ligadura de trompas|El DIU|El preservativo|3|Es una barrera física.
-¿Cuál es la ley argentina que garantiza la educación sexual integral en las escuelas?|La Ley de Defensa del Consumidor|La Ley de Educación Superior|La Ley de Educación Sexual Integral (26.150)|La Ley de Tránsito|2|Se sancionó en 2006.
-¿Qué ocurre durante la ovulación?|Nace el bebé|Se produce la fecundación|Se forma la placenta|Un ovario libera un óvulo|3|Ocurre aproximadamente en el medio del ciclo.
-¿Qué ventaja tiene la reproducción sexual?|Es más rápida|Aumenta la variabilidad genética|Produce clones|No necesita gametas|1|Combina material genético de dos individuos.
-¿Qué parte de la flor produce el polen?|El estambre (antera)|El sépalo|El pistilo|El pétalo|0|Es el órgano masculino de la flor.
-¿Qué hormona estimula la producción de espermatozoides?|El estrógeno|La adrenalina|La insulina|La testosterona|3|Actúa en los testículos.
-¿Qué es la polinización?|El transporte del polen hasta el estigma|La formación de la semilla|La fotosíntesis|La germinación|0|Puede realizarla el viento o los insectos.
-¿Qué previene el uso del preservativo?|Embarazos y infecciones de transmisión sexual|Solo diabetes|Solo embarazos|Ninguna enfermedad|0|Es el único método con doble protección.
-¿Cuántos cromosomas tiene el cigoto humano?|23|92|46|44|2|Cada gameta aporta 23.
-¿Cuál es la secuencia correcta del desarrollo prenatal?|Cigoto, feto, embrión|Cigoto, embrión, feto|Embrión, cigoto, feto|Feto, embrión, cigoto|1|La etapa fetal comienza hacia la novena semana.
-Para que el consentimiento sea válido en una relación sexual debe ser:|Obligado|Solo de uno|Sin información|Libre, voluntario e informado|3|Es un principio de la ESI y de los derechos humanos.
-¿Por qué el control prenatal es importante?|Evita el parto|Aumenta el peso|No aporta información|Permite detectar riesgos y cuidar la salud de la madre y el bebé|3|Es un derecho garantizado por el sistema de salud.
-¿Cuál es una ventaja de la reproducción asexual?|Uso de gametas|Rapidez y no requiere pareja|Mayor variabilidad|Mayor diversidad|1|Pero produce individuos genéticamente iguales.
-¿Por qué los mellizos no son genéticamente idénticos?|Tienen distinto sexo siempre|No comparten padres|Se originan de un solo cigoto|Se originan de dos óvulos fecundados por dos espermatozoides|3|Cada cigoto tiene una combinación genética distinta.
-¿Qué estructura de la semilla origina la nueva planta?|El embrión|La flor|La cáscara|El fruto|0|Con agua y temperatura adecuadas, germina.
+¿Cuánto dura aproximadamente el ciclo menstrual?|28 días|1 año|90 días|7 días|0|Puede variar entre personas.
+¿Qué hormonas sexuales femeninas regulan el ciclo?|Adrenalina y cortisol|Insulina y glucagón|Tiroxina|Estrógenos y progesterona|3|Se producen en los ovarios.
+¿Cómo se llaman las plantas que se reproducen mediante flores?|Algas|Helechos|Musgos|Angiospermas|3|Sus semillas se forman dentro de frutos.
+¿Cuál de estos es un método anticonceptivo que además previene infecciones de transmisión sexual?|El DIU|La ligadura de trompas|La píldora|El preservativo|3|Es una barrera física.
+¿Cuál es la ley argentina que garantiza la educación sexual integral en las escuelas?|La Ley de Educación Superior|La Ley de Defensa del Consumidor|La Ley de Tránsito|La Ley de Educación Sexual Integral (26.150)|3|Se sancionó en 2006.
+¿Qué ocurre durante la ovulación?|Se produce la fecundación|Se forma la placenta|Nace el bebé|Un ovario libera un óvulo|3|Ocurre aproximadamente en el medio del ciclo.
+¿Qué ventaja tiene la reproducción sexual?|Es más rápida|No necesita gametas|Produce clones|Aumenta la variabilidad genética|3|Combina material genético de dos individuos.
+¿Qué parte de la flor produce el polen?|El pétalo|El pistilo|El estambre (antera)|El sépalo|2|Es el órgano masculino de la flor.
+¿Qué hormona estimula la producción de espermatozoides?|El estrógeno|La testosterona|La insulina|La adrenalina|1|Actúa en los testículos.
+¿Qué es la polinización?|La formación de la semilla|La fotosíntesis|El transporte del polen hasta el estigma|La germinación|2|Puede realizarla el viento o los insectos.
+¿Qué previene el uso del preservativo?|Embarazos y infecciones de transmisión sexual|Solo embarazos|Solo diabetes|Ninguna enfermedad|0|Es el único método con doble protección.
+¿Cuántos cromosomas tiene el cigoto humano?|46|23|92|44|0|Cada gameta aporta 23.
+¿Cuál es la secuencia correcta del desarrollo prenatal?|Embrión, cigoto, feto|Cigoto, feto, embrión|Cigoto, embrión, feto|Feto, embrión, cigoto|2|La etapa fetal comienza hacia la novena semana.
+Para que el consentimiento sea válido en una relación sexual debe ser:|Sin información|Libre, voluntario e informado|Obligado|Solo de uno|1|Es un principio de la ESI y de los derechos humanos.
+¿Por qué el control prenatal es importante?|Evita el parto|Aumenta el peso|Permite detectar riesgos y cuidar la salud de la madre y el bebé|No aporta información|2|Es un derecho garantizado por el sistema de salud.
+¿Cuál es una ventaja de la reproducción asexual?|Mayor diversidad|Mayor variabilidad|Rapidez y no requiere pareja|Uso de gametas|2|Pero produce individuos genéticamente iguales.
+¿Por qué los mellizos no son genéticamente idénticos?|Se originan de dos óvulos fecundados por dos espermatozoides|Tienen distinto sexo siempre|Se originan de un solo cigoto|No comparten padres|0|Cada cigoto tiene una combinación genética distinta.
+¿Qué estructura de la semilla origina la nueva planta?|El embrión|El fruto|La cáscara|La flor|0|Con agua y temperatura adecuadas, germina.

@@ -1,30 +1,30 @@
 #EEEEEEEEEEMMMMMMMMMHHHHHHHHHH
-¿Cómo se llama el conjunto de genes de una población?|Fenotipo|Cromosoma|Genotipo|Acervo génico|3|Cambia con la evolución.
-¿Qué es un órgano homólogo?|Estructuras con igual función y distinto origen|Estructuras con origen común aunque cumplan distinta función|Estructuras inútiles|Estructuras idénticas|1|La aleta de una ballena y el brazo humano.
-¿Qué es un órgano vestigial?|Una enfermedad|Un órgano de reserva|Un órgano nuevo|Una estructura reducida que perdió su función original|3|Por ejemplo, el apéndice humano.
-¿Qué es la adaptación?|Un cambio voluntario|Una característica que aumenta la supervivencia y reproducción en un ambiente|Un fósil|Una enfermedad|1|Resulta de la selección natural.
-¿Quién propuso la selección natural como mecanismo de evolución?|Darwin|Lamarck|Mendel|Pasteur|0|Junto con Wallace en 1858.
-¿Cuál es la fuente primaria de variabilidad genética?|La fotosíntesis|La digestión|La respiración|Las mutaciones|3|Se combinan por reproducción sexual.
-¿Qué son los fósiles?|Rocas sin vida|Restos o huellas de organismos del pasado|Organismos actuales|Minerales|1|Son evidencia directa de la evolución.
-¿Qué es un órgano análogo?|Estructuras con igual origen|Estructuras con igual función y distinto origen|Estructuras vestigiales|Estructuras de un fósil|1|Las alas de un ave y las de un insecto.
-¿Qué estudió Darwin en las islas Galápagos?|Bacterias|Plantas carnívoras|Dinosaurios|Pinzones con picos adaptados a distintos alimentos|3|Observó variación entre islas.
-¿Qué es una especie según el concepto biológico?|Un grupo de ecosistemas|Cualquier animal|Un grupo de poblaciones que se reproducen entre sí y son aisladas de otras|Un bioma|2|Producen descendencia fértil.
-En una población en equilibrio con q = 0,4, ¿qué frecuencia tiene el genotipo aa?|0,36|0,8|0,4|0,16|3|q² = 0,4² = 0,16.
-En una población en equilibrio con p = 0,6 y q = 0,4, ¿qué frecuencia tienen los heterocigotas?|0,16|0,36|0,48|0,24|2|2pq = 2·0,6·0,4 = 0,48.
-¿Qué es la deriva genética?|La selección natural|El cambio al azar de las frecuencias alélicas, sobre todo en poblaciones pequeñas|Una mutación|La migración|1|Puede fijar o eliminar alelos sin ventaja.
-¿Qué es la especiación alopátrica?|La extinción|La que se debe al clima únicamente|La formación de especies por aislamiento geográfico|La que ocurre sin barreras|2|Las poblaciones separadas divergen.
-Si en una población p = 0,6 para el alelo A, ¿cuál es q para el alelo a?|0,36|0,4|0,6|0,16|1|p + q = 1.
-¿Qué condiciones debe cumplir una población en equilibrio de Hardy-Weinberg?|Pequeña|Con selección fuerte|Con deriva|Sin mutación, migración ni selección, grande y con apareamiento al azar|3|Es un modelo ideal.
-¿Qué es una barrera de aislamiento reproductivo?|Una enfermedad|Una montaña|Un río|Un mecanismo que impide el cruzamiento entre especies|3|Puede ser temporal, conductual o genético.
-¿Qué enuncia la teoría sintética de la evolución?|Niega la mutación|Afirma que se heredan los caracteres adquiridos|Integra la selección natural con la genética de poblaciones|Rechaza la genética|2|Es la visión actual.
-¿Qué es el flujo génico?|La mutación|La deriva|La selección|El intercambio de genes entre poblaciones por migración|3|Reduce las diferencias entre poblaciones.
+¿Cómo se llama el conjunto de genes de una población?|Acervo génico|Genotipo|Fenotipo|Cromosoma|0|Cambia con la evolución.
+¿Qué es un órgano homólogo?|Estructuras con origen común aunque cumplan distinta función|Estructuras idénticas|Estructuras inútiles|Estructuras con igual función y distinto origen|0|La aleta de una ballena y el brazo humano.
+¿Qué es un órgano vestigial?|Una enfermedad|Una estructura reducida que perdió su función original|Un órgano de reserva|Un órgano nuevo|1|Por ejemplo, el apéndice humano.
+¿Qué es la adaptación?|Una enfermedad|Una característica que aumenta la supervivencia y reproducción en un ambiente|Un cambio voluntario|Un fósil|1|Resulta de la selección natural.
+¿Quién propuso la selección natural como mecanismo de evolución?|Darwin|Mendel|Lamarck|Pasteur|0|Junto con Wallace en 1858.
+¿Cuál es la fuente primaria de variabilidad genética?|La respiración|La digestión|Las mutaciones|La fotosíntesis|2|Se combinan por reproducción sexual.
+¿Qué son los fósiles?|Rocas sin vida|Minerales|Organismos actuales|Restos o huellas de organismos del pasado|3|Son evidencia directa de la evolución.
+¿Qué es un órgano análogo?|Estructuras con igual función y distinto origen|Estructuras con igual origen|Estructuras de un fósil|Estructuras vestigiales|0|Las alas de un ave y las de un insecto.
+¿Qué estudió Darwin en las islas Galápagos?|Pinzones con picos adaptados a distintos alimentos|Dinosaurios|Plantas carnívoras|Bacterias|0|Observó variación entre islas.
+¿Qué es una especie según el concepto biológico?|Un grupo de ecosistemas|Un bioma|Cualquier animal|Un grupo de poblaciones que se reproducen entre sí y son aisladas de otras|3|Producen descendencia fértil.
+En una población en equilibrio con q = 0,4, ¿qué frecuencia tiene el genotipo aa?|0,8|0,36|0,16|0,4|2|q² = 0,4² = 0,16.
+En una población en equilibrio con p = 0,6 y q = 0,4, ¿qué frecuencia tienen los heterocigotas?|0,16|0,24|0,48|0,36|2|2pq = 2·0,6·0,4 = 0,48.
+¿Qué es la deriva genética?|La migración|La selección natural|Una mutación|El cambio al azar de las frecuencias alélicas, sobre todo en poblaciones pequeñas|3|Puede fijar o eliminar alelos sin ventaja.
+¿Qué es la especiación alopátrica?|La extinción|La que ocurre sin barreras|La que se debe al clima únicamente|La formación de especies por aislamiento geográfico|3|Las poblaciones separadas divergen.
+Si en una población p = 0,6 para el alelo A, ¿cuál es q para el alelo a?|0,6|0,16|0,4|0,36|2|p + q = 1.
+¿Qué condiciones debe cumplir una población en equilibrio de Hardy-Weinberg?|Con selección fuerte|Con deriva|Pequeña|Sin mutación, migración ni selección, grande y con apareamiento al azar|3|Es un modelo ideal.
+¿Qué es una barrera de aislamiento reproductivo?|Un río|Una enfermedad|Un mecanismo que impide el cruzamiento entre especies|Una montaña|2|Puede ser temporal, conductual o genético.
+¿Qué enuncia la teoría sintética de la evolución?|Afirma que se heredan los caracteres adquiridos|Rechaza la genética|Integra la selección natural con la genética de poblaciones|Niega la mutación|2|Es la visión actual.
+¿Qué es el flujo génico?|El intercambio de genes entre poblaciones por migración|La mutación|La deriva|La selección|0|Reduce las diferencias entre poblaciones.
 ¿Qué es el cuello de botella?|La migración|La mutación|El aumento de la población|La reducción drástica de una población que disminuye su variabilidad|3|Es un caso de deriva.
-¿Qué es la coevolución?|La extinción|La clonación|La evolución de una sola especie|La evolución conjunta de especies que interactúan|3|Por ejemplo, flores y polinizadores.
-¿Por qué la resistencia a antibióticos es un ejemplo de evolución observable?|Los antibióticos mutan|Las bacterias con mutaciones resistentes sobreviven y se reproducen más|Las bacterias aprenden|Todas son resistentes desde el origen|1|Es selección natural en acción.
-¿En qué continente se originó Homo sapiens?|África|Asia|América|Europa|0|Hace unos 300 000 años.
-¿Qué pasó con los dinosaurios no avianos hace unos 66 millones de años?|Se extinguieron en una extinción masiva|Evolucionaron en mamíferos|Sobreviven en el océano|Migraron|0|Hoy las aves son sus descendientes.
-¿Qué evidencia molecular apoya el parentesco entre especies?|La edad|El tamaño|La similitud de secuencias de ADN y proteínas|El color|2|Cuanto más parecido, más cercano el parentesco.
-¿Qué es la selección artificial?|La selección de rasgos por el ser humano|La selección sin variación|La selección natural|Una mutación dirigida|0|Dio origen a razas de perros y cultivos.
-¿Qué homínido es el más antiguo de nuestro género reconocido como Homo?|Homo habilis|Homo erectus|Australopithecus|Homo sapiens|0|Vivió hace unos 2,4 millones de años.
-¿Qué es la radiación adaptativa?|La migración|La extinción masiva|La selección artificial|La diversificación rápida de un linaje en múltiples nichos|3|Por ejemplo, los pinzones de Darwin.
-¿Qué es la convergencia evolutiva?|La aparición de rasgos semejantes en linajes distintos por presiones similares|La mutación|La herencia directa|La especiación|0|Por ejemplo, los delfines y los tiburones.
+¿Qué es la coevolución?|La clonación|La evolución conjunta de especies que interactúan|La evolución de una sola especie|La extinción|1|Por ejemplo, flores y polinizadores.
+¿Por qué la resistencia a antibióticos es un ejemplo de evolución observable?|Todas son resistentes desde el origen|Los antibióticos mutan|Las bacterias con mutaciones resistentes sobreviven y se reproducen más|Las bacterias aprenden|2|Es selección natural en acción.
+¿En qué continente se originó Homo sapiens?|Europa|África|América|Asia|1|Hace unos 300 000 años.
+¿Qué pasó con los dinosaurios no avianos hace unos 66 millones de años?|Evolucionaron en mamíferos|Se extinguieron en una extinción masiva|Sobreviven en el océano|Migraron|1|Hoy las aves son sus descendientes.
+¿Qué evidencia molecular apoya el parentesco entre especies?|El color|La similitud de secuencias de ADN y proteínas|El tamaño|La edad|1|Cuanto más parecido, más cercano el parentesco.
+¿Qué es la selección artificial?|La selección sin variación|La selección de rasgos por el ser humano|Una mutación dirigida|La selección natural|1|Dio origen a razas de perros y cultivos.
+¿Qué homínido es el más antiguo de nuestro género reconocido como Homo?|Homo sapiens|Homo erectus|Australopithecus|Homo habilis|3|Vivió hace unos 2,4 millones de años.
+¿Qué es la radiación adaptativa?|La diversificación rápida de un linaje en múltiples nichos|La selección artificial|La extinción masiva|La migración|0|Por ejemplo, los pinzones de Darwin.
+¿Qué es la convergencia evolutiva?|La mutación|La aparición de rasgos semejantes en linajes distintos por presiones similares|La herencia directa|La especiación|1|Por ejemplo, los delfines y los tiburones.

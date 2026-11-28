@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Un catalizador modifica el valor de Kc?|Sí, lo disminuye|No|Sí, lo aumenta|Sí, lo anula|1|Acelera ambos sentidos por igual.
-¿Cómo se llama la energía mínima necesaria para que ocurra una reacción?|Energía de activación|Entalpía|Energía libre|Entropía|0|Se simboliza como Ea.
-¿Qué estudia la cinética química?|La densidad|La energía de los enlaces|La velocidad de las reacciones|La estructura del átomo|2|También los mecanismos de reacción.
-¿Qué es el equilibrio químico?|Un estado en que la reacción se detiene|Un estado sin productos|Un estado en que las velocidades directa e inversa son iguales|Un estado sin reactivos|2|Es un equilibrio dinámico.
-¿Qué es un catalizador?|Un solvente|Una sustancia que acelera una reacción sin consumirse|Un producto|Un reactivo que se gasta|1|Disminuye la energía de activación.
-¿Qué indica un valor de Kc mucho mayor que 1?|Hay un catalizador|Predominan los reactivos|Predominan los productos|No hay reacción|2|El equilibrio está desplazado a la derecha.
-¿Qué enuncia el principio de Le Châtelier?|La entropía aumenta|Un sistema en equilibrio perturbado se desplaza para contrarrestar la perturbación|La masa se conserva|La energía se conserva|1|Predice el sentido del desplazamiento.
-¿Cuál es la expresión de Kc para A + B ⇌ C?|[A]·[B] / [C]|[C] − [A] − [B]|[C]·[A]·[B]|[C] / ([A]·[B])|3|Productos sobre reactivos, con los coeficientes como exponentes.
-¿Qué efecto tiene aumentar la concentración de un reactivo sobre la velocidad?|La anula|La aumenta|La disminuye|No la cambia|1|Hay más colisiones por unidad de tiempo.
-¿Qué efecto tiene aumentar la temperatura sobre la velocidad de reacción?|No la cambia|La disminuye|La aumenta|La anula|2|Hay más colisiones efectivas.
-La vida media de una reacción de primer orden con k = 0,0693 s⁻¹ es aproximadamente:|1 s|0,0693 s|10 s|100 s|2|t½ = 0,693 / k = 0,693 / 0,0693 = 10 s.
-En N2 + 3 H2 ⇌ 2 NH3, ¿qué efecto tiene aumentar la presión?|No cambia|Se desplaza hacia los reactivos|Se anula la reacción|Se desplaza hacia el amoníaco|3|Hay menos moles de gas del lado de los productos.
-Si una reacción es exotérmica, ¿qué efecto tiene aumentar la temperatura sobre el equilibrio?|Se desplaza hacia los productos|Aumenta Kc|Se desplaza hacia los reactivos|No cambia|2|El sistema absorbe calor favoreciendo la reacción endotérmica.
-Si el cociente de reacción Q es menor que Kc, la reacción:|Avanza hacia los reactivos|Está en equilibrio|Se detiene|Avanza hacia los productos|3|Faltan productos para alcanzar K.
-En N2 + 3 H2 ⇌ 2 NH3, ¿qué expresión tiene Kc?|[NH3] / ([N2]·[H2])|[N2]·[H2]³ / [NH3]²|[NH3]² · [N2] · [H2]³|[NH3]² / ([N2]·[H2]³)|3|Los coeficientes son los exponentes.
-Para v = k·[A]·[B]², ¿cuál es el orden total?|4|2|3|1|2|Se suman los exponentes: 1 + 2.
-¿Qué ocurre con la velocidad de reacción si la temperatura aumenta unos 10 °C, según la regla empírica?|Aproximadamente se duplica|No cambia|Se anula|Se reduce a la mitad|0|Aumenta la fracción de colisiones con energía suficiente.
-Para v = k·[A]·[B]², ¿qué ocurre si se duplica [B]?|La velocidad se cuadruplica|La velocidad se duplica|No cambia|Se multiplica por ocho|0|El exponente de B es 2.
-Si [A] = 0,5 M, [B] = 0,2 M y [C] = 0,4 M en A + B ⇌ C, ¿cuánto vale Kc?|0,25|1,6|0,04|4|3|Kc = 0,4 / (0,5 · 0,2) = 4.
-Para v = k·[A]², ¿qué ocurre con la velocidad si se duplica [A]?|No cambia|Se reduce a la mitad|Se cuadruplica|Se duplica|2|2² = 4.
-Si Kc = 0,01 para A ⇌ B, ¿cuánto vale Kc para la reacción inversa B ⇌ A?|0,1|0,01|−0,01|100|3|Es la inversa: 1 / 0,01 = 100.
-Si se agrega más reactivo a un sistema en equilibrio, ¿qué ocurre con Kc?|Se anula|Disminuye|No cambia, solo cambia la posición del equilibrio|Aumenta|2|Kc solo cambia con la temperatura.
-¿Qué representa el máximo de un diagrama de energía de una reacción?|El estado de transición|El catalizador|Los productos|Los reactivos|0|Corresponde a la energía de activación.
-¿Qué indica el orden cero respecto a un reactivo?|No participa del equilibrio|La velocidad se duplica|La velocidad es proporcional a su concentración|La velocidad no depende de su concentración|3|v = k.
-Si [A] = 2 M, [B] = 0,5 M, y Kc = 4 para A ⇌ 2 B, ¿cuánto vale Q y hacia dónde va?|Q = 4 y está en equilibrio|Q = 8 y avanza hacia los productos|Q = 0,125 y avanza hacia los productos|Q = 0,125 y avanza hacia los reactivos|2|Q = 0,5² / 2 = 0,125, menor que Kc.
+¿Un catalizador modifica el valor de Kc?|Sí, lo anula|Sí, lo disminuye|No|Sí, lo aumenta|2|Acelera ambos sentidos por igual.
+¿Cómo se llama la energía mínima necesaria para que ocurra una reacción?|Entropía|Energía de activación|Entalpía|Energía libre|1|Se simboliza como Ea.
+¿Qué estudia la cinética química?|La estructura del átomo|La velocidad de las reacciones|La energía de los enlaces|La densidad|1|También los mecanismos de reacción.
+¿Qué es el equilibrio químico?|Un estado en que las velocidades directa e inversa son iguales|Un estado sin reactivos|Un estado sin productos|Un estado en que la reacción se detiene|0|Es un equilibrio dinámico.
+¿Qué es un catalizador?|Una sustancia que acelera una reacción sin consumirse|Un producto|Un solvente|Un reactivo que se gasta|0|Disminuye la energía de activación.
+¿Qué indica un valor de Kc mucho mayor que 1?|Hay un catalizador|Predominan los reactivos|No hay reacción|Predominan los productos|3|El equilibrio está desplazado a la derecha.
+¿Qué enuncia el principio de Le Châtelier?|La energía se conserva|La masa se conserva|Un sistema en equilibrio perturbado se desplaza para contrarrestar la perturbación|La entropía aumenta|2|Predice el sentido del desplazamiento.
+¿Cuál es la expresión de Kc para A + B ⇌ C?|[C] / ([A]·[B])|[A]·[B] / [C]|[C]·[A]·[B]|[C] − [A] − [B]|0|Productos sobre reactivos, con los coeficientes como exponentes.
+¿Qué efecto tiene aumentar la concentración de un reactivo sobre la velocidad?|La disminuye|No la cambia|La anula|La aumenta|3|Hay más colisiones por unidad de tiempo.
+¿Qué efecto tiene aumentar la temperatura sobre la velocidad de reacción?|La aumenta|La anula|La disminuye|No la cambia|0|Hay más colisiones efectivas.
+La vida media de una reacción de primer orden con k = 0,0693 s⁻¹ es aproximadamente:|0,0693 s|100 s|10 s|1 s|2|t½ = 0,693 / k = 0,693 / 0,0693 = 10 s.
+En N2 + 3 H2 ⇌ 2 NH3, ¿qué efecto tiene aumentar la presión?|Se anula la reacción|Se desplaza hacia el amoníaco|No cambia|Se desplaza hacia los reactivos|1|Hay menos moles de gas del lado de los productos.
+Si una reacción es exotérmica, ¿qué efecto tiene aumentar la temperatura sobre el equilibrio?|Se desplaza hacia los productos|Se desplaza hacia los reactivos|No cambia|Aumenta Kc|1|El sistema absorbe calor favoreciendo la reacción endotérmica.
+Si el cociente de reacción Q es menor que Kc, la reacción:|Está en equilibrio|Se detiene|Avanza hacia los reactivos|Avanza hacia los productos|3|Faltan productos para alcanzar K.
+En N2 + 3 H2 ⇌ 2 NH3, ¿qué expresión tiene Kc?|[NH3] / ([N2]·[H2])|[NH3]² · [N2] · [H2]³|[NH3]² / ([N2]·[H2]³)|[N2]·[H2]³ / [NH3]²|2|Los coeficientes son los exponentes.
+Para v = k·[A]·[B]², ¿cuál es el orden total?|1|3|4|2|1|Se suman los exponentes: 1 + 2.
+¿Qué ocurre con la velocidad de reacción si la temperatura aumenta unos 10 °C, según la regla empírica?|Aproximadamente se duplica|Se reduce a la mitad|No cambia|Se anula|0|Aumenta la fracción de colisiones con energía suficiente.
+Para v = k·[A]·[B]², ¿qué ocurre si se duplica [B]?|La velocidad se duplica|La velocidad se cuadruplica|No cambia|Se multiplica por ocho|1|El exponente de B es 2.
+Si [A] = 0,5 M, [B] = 0,2 M y [C] = 0,4 M en A + B ⇌ C, ¿cuánto vale Kc?|4|0,25|0,04|1,6|0|Kc = 0,4 / (0,5 · 0,2) = 4.
+Para v = k·[A]², ¿qué ocurre con la velocidad si se duplica [A]?|Se duplica|Se cuadruplica|Se reduce a la mitad|No cambia|1|2² = 4.
+Si Kc = 0,01 para A ⇌ B, ¿cuánto vale Kc para la reacción inversa B ⇌ A?|−0,01|0,1|0,01|100|3|Es la inversa: 1 / 0,01 = 100.
+Si se agrega más reactivo a un sistema en equilibrio, ¿qué ocurre con Kc?|Se anula|Disminuye|Aumenta|No cambia, solo cambia la posición del equilibrio|3|Kc solo cambia con la temperatura.
+¿Qué representa el máximo de un diagrama de energía de una reacción?|El estado de transición|Los productos|Los reactivos|El catalizador|0|Corresponde a la energía de activación.
+¿Qué indica el orden cero respecto a un reactivo?|La velocidad no depende de su concentración|La velocidad se duplica|La velocidad es proporcional a su concentración|No participa del equilibrio|0|v = k.
+Si [A] = 2 M, [B] = 0,5 M, y Kc = 4 para A ⇌ 2 B, ¿cuánto vale Q y hacia dónde va?|Q = 0,125 y avanza hacia los reactivos|Q = 4 y está en equilibrio|Q = 8 y avanza hacia los productos|Q = 0,125 y avanza hacia los productos|3|Q = 0,5² / 2 = 0,125, menor que Kc.
 En la síntesis de Haber-Bosch, ¿por qué se usa una temperatura moderada y un catalizador de hierro?|Para eliminar el hidrógeno|Para hacerla endotérmica|Para lograr una velocidad aceptable sin reducir demasiado el rendimiento|Para aumentar Kc|2|La reacción es exotérmica: el calor reduce el rendimiento pero acelera la reacción.
-¿Qué efecto tiene un catalizador sobre la energía de activación?|La disminuye|La aumenta|No la cambia|La anula siempre|0|Ofrece un mecanismo alternativo.
-¿Cuánto vale Kc si Q = Kc?|El sistema avanza hacia los reactivos|Kc es cero|El sistema está en equilibrio|El sistema avanza hacia los productos|2|Es la condición de equilibrio.
+¿Qué efecto tiene un catalizador sobre la energía de activación?|La anula siempre|La aumenta|La disminuye|No la cambia|2|Ofrece un mecanismo alternativo.
+¿Cuánto vale Kc si Q = Kc?|El sistema avanza hacia los productos|El sistema avanza hacia los reactivos|Kc es cero|El sistema está en equilibrio|3|Es la condición de equilibrio.
 Si [A] disminuye de 0,8 M a 0,2 M en 30 s, ¿cuál es la velocidad media de consumo de A?|0,002 M/s|0,6 M/s|0,02 M/s|0,2 M/s|2|0,6 M / 30 s = 0,02 M/s.
-Según la ecuación de Arrhenius, ¿qué ocurre con k si aumenta Ea a temperatura constante?|Se duplica|Aumenta|Disminuye|No cambia|2|k = A·e^(−Ea/RT).
+Según la ecuación de Arrhenius, ¿qué ocurre con k si aumenta Ea a temperatura constante?|Aumenta|No cambia|Disminuye|Se duplica|2|k = A·e^(−Ea/RT).

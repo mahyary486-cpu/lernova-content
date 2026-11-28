@@ -1,30 +1,30 @@
 #EEEEEEEEEEMMMMMMMMMHHHHHHHHHH
-¿Qué es un microorganismo?|Un ser vivo microscópico|Una planta|Un virus únicamente|Un animal grande|0|Incluye bacterias, protistas y hongos.
-¿Qué es un vector?|Un organismo que transmite un patógeno|Una vacuna|Un antibiótico|Un virus|0|Por ejemplo, el mosquito Aedes aegypti.
-¿Qué es una pandemia?|Un brote en una familia|Una enfermedad local|Una enfermedad crónica|Una epidemia que afecta muchos países|3|Por ejemplo, la COVID-19.
-¿Qué estructura tienen los virus?|Pared celular|Ácido nucleico rodeado por una cápside|Mitocondrias|Núcleo y citoplasma|1|No son células.
-¿Cómo se reproducen las bacterias?|Por fecundación|Por esporas únicamente|Por meiosis|Por fisión binaria|3|Se duplican rápidamente.
-¿Qué previene el lavado de manos?|Infecciones|Caries|Fracturas|Anemia|0|Elimina microorganismos.
-¿Qué técnica de coloración permite clasificar a las bacterias?|Mitosis|Tinción de Gram|Ósmosis|PCR|1|Las separa en Gram positivas y negativas.
-¿Qué es una epidemia?|Una enfermedad no infecciosa|Un aumento inesperado de casos en una región|Una enfermedad rara|Una vacuna|1|Ocurre en un tiempo y lugar.
-¿Los virus pueden reproducirse solos?|Sí|Solo en el aire|No, necesitan una célula huésped|Solo en el agua|2|Son parásitos intracelulares obligados.
-¿Qué enfermedad transmite la vinchuca?|Malaria|Chagas|Gripe|Dengue|1|Es endémica en varias provincias.
-¿Qué es el número reproductivo básico R₀?|La velocidad del virus|La mortalidad|La temperatura|El número de personas que en promedio contagia un infectado|3|Si R₀ > 1, la epidemia crece.
-¿Qué hace un antiviral?|Mata bacterias|Cura alergias|Aumenta la glucemia|Inhibe la replicación viral|3|Por ejemplo, contra el VIH.
-¿Qué enfermedad previene la vacuna triple viral?|Dengue|Tétanos|Gripe|Sarampión, rubéola y paperas|3|Es parte del Calendario Nacional.
-¿Cómo se transmite el cólera?|Por mosquitos|Por el aire|Por agua o alimentos contaminados|Por contacto sexual solamente|2|Se previene con agua potable.
-¿Qué es la cuarentena?|Un tratamiento|El aislamiento para evitar la propagación de una enfermedad|Una dieta|Una vacuna|1|Es una medida de salud pública.
-Si R₀ = 3 y nadie es inmune, ¿cuántos casos nuevos produce en promedio un infectado?|1|30|0|3|3|Por definición.
-¿Qué es un antibiótico?|Una hormona|Una sustancia que mata o inhibe bacterias|Una vacuna|Un antiviral|1|No sirven contra los virus.
-¿Cuál es una enfermedad bacteriana?|Sarampión|Dengue|Tuberculosis|Gripe|2|Es tratable con antibióticos.
-¿Qué es la resistencia bacteriana?|La fiebre|Una vacuna|La capacidad de las bacterias de sobrevivir a un antibiótico|La inmunidad humana|2|Se genera por uso inadecuado.
+¿Qué es un microorganismo?|Un virus únicamente|Un ser vivo microscópico|Un animal grande|Una planta|1|Incluye bacterias, protistas y hongos.
+¿Qué es un vector?|Un antibiótico|Una vacuna|Un organismo que transmite un patógeno|Un virus|2|Por ejemplo, el mosquito Aedes aegypti.
+¿Qué es una pandemia?|Una enfermedad crónica|Una epidemia que afecta muchos países|Un brote en una familia|Una enfermedad local|1|Por ejemplo, la COVID-19.
+¿Qué estructura tienen los virus?|Núcleo y citoplasma|Mitocondrias|Ácido nucleico rodeado por una cápside|Pared celular|2|No son células.
+¿Cómo se reproducen las bacterias?|Por esporas únicamente|Por meiosis|Por fecundación|Por fisión binaria|3|Se duplican rápidamente.
+¿Qué previene el lavado de manos?|Caries|Infecciones|Anemia|Fracturas|1|Elimina microorganismos.
+¿Qué técnica de coloración permite clasificar a las bacterias?|Mitosis|Ósmosis|Tinción de Gram|PCR|2|Las separa en Gram positivas y negativas.
+¿Qué es una epidemia?|Un aumento inesperado de casos en una región|Una enfermedad rara|Una enfermedad no infecciosa|Una vacuna|0|Ocurre en un tiempo y lugar.
+¿Los virus pueden reproducirse solos?|Solo en el aire|Sí|Solo en el agua|No, necesitan una célula huésped|3|Son parásitos intracelulares obligados.
+¿Qué enfermedad transmite la vinchuca?|Malaria|Gripe|Chagas|Dengue|2|Es endémica en varias provincias.
+¿Qué es el número reproductivo básico R₀?|La velocidad del virus|La mortalidad|El número de personas que en promedio contagia un infectado|La temperatura|2|Si R₀ > 1, la epidemia crece.
+¿Qué hace un antiviral?|Cura alergias|Inhibe la replicación viral|Aumenta la glucemia|Mata bacterias|1|Por ejemplo, contra el VIH.
+¿Qué enfermedad previene la vacuna triple viral?|Gripe|Dengue|Tétanos|Sarampión, rubéola y paperas|3|Es parte del Calendario Nacional.
+¿Cómo se transmite el cólera?|Por el aire|Por mosquitos|Por contacto sexual solamente|Por agua o alimentos contaminados|3|Se previene con agua potable.
+¿Qué es la cuarentena?|Una vacuna|Una dieta|Un tratamiento|El aislamiento para evitar la propagación de una enfermedad|3|Es una medida de salud pública.
+Si R₀ = 3 y nadie es inmune, ¿cuántos casos nuevos produce en promedio un infectado?|3|1|0|30|0|Por definición.
+¿Qué es un antibiótico?|Una vacuna|Una hormona|Un antiviral|Una sustancia que mata o inhibe bacterias|3|No sirven contra los virus.
+¿Cuál es una enfermedad bacteriana?|Gripe|Dengue|Tuberculosis|Sarampión|2|Es tratable con antibióticos.
+¿Qué es la resistencia bacteriana?|La inmunidad humana|La fiebre|Una vacuna|La capacidad de las bacterias de sobrevivir a un antibiótico|3|Se genera por uso inadecuado.
 ¿Qué es una zoonosis?|Una enfermedad de plantas|Una enfermedad que pasa de animales a humanos|Una alergia|Una enfermedad genética|1|Por ejemplo, la rabia o la hidatidosis.
-¿Qué enfermedad transmite el mosquito Aedes aegypti?|Tuberculosis|Cólera|Chagas|Dengue, zika y chikungunya|3|Se previene eliminando criaderos.
-¿Qué papel cumplen los microorganismos beneficiosos?|No cumplen ninguno|Destruyen el ambiente|Solo causan enfermedades|Participan en la digestión, la fermentación y el reciclado de materia|3|Por ejemplo, la microbiota intestinal y las levaduras.
-¿Qué importancia tiene la vigilancia epidemiológica?|Evitar las vacunas|Reemplazar a los médicos|Detectar y controlar brotes a tiempo|Eliminar los virus|2|Permite tomar medidas de prevención.
-¿Qué es un probiótico?|Un microorganismo vivo que aporta beneficios para la salud|Un virus|Un antibiótico|Una vacuna|0|Se encuentra en el yogur.
-¿Qué parásito causa el mal de Chagas?|Giardia|Trypanosoma cruzi|Plasmodium|Vibrio cholerae|1|Lo transmite la vinchuca.
-¿Cuál es el mecanismo de acción de una vacuna de ARNm?|Introduce el virus completo|Modifica el ADN humano|Mata bacterias|Instruye a las células a producir una proteína del patógeno|3|Estimula la respuesta inmune.
-¿Por qué debe completarse el tratamiento antibiótico?|Para evitar que sobrevivan bacterias resistentes|Para que sea más barato|Porque se acaban|Para evitar el dolor|0|Una interrupción favorece la resistencia.
-¿Qué es la inmunidad de rebaño?|La inmunidad individual|La protección indirecta cuando gran parte de la población es inmune|Un tipo de vacuna|Una enfermedad|1|Reduce la circulación del patógeno.
-¿Cuál es el principal agente de la tuberculosis?|Un protozoo|Un hongo|Un virus|Mycobacterium tuberculosis|3|Se transmite por el aire.
+¿Qué enfermedad transmite el mosquito Aedes aegypti?|Dengue, zika y chikungunya|Cólera|Tuberculosis|Chagas|0|Se previene eliminando criaderos.
+¿Qué papel cumplen los microorganismos beneficiosos?|Participan en la digestión, la fermentación y el reciclado de materia|Solo causan enfermedades|Destruyen el ambiente|No cumplen ninguno|0|Por ejemplo, la microbiota intestinal y las levaduras.
+¿Qué importancia tiene la vigilancia epidemiológica?|Reemplazar a los médicos|Eliminar los virus|Detectar y controlar brotes a tiempo|Evitar las vacunas|2|Permite tomar medidas de prevención.
+¿Qué es un probiótico?|Un microorganismo vivo que aporta beneficios para la salud|Un virus|Una vacuna|Un antibiótico|0|Se encuentra en el yogur.
+¿Qué parásito causa el mal de Chagas?|Trypanosoma cruzi|Giardia|Plasmodium|Vibrio cholerae|0|Lo transmite la vinchuca.
+¿Cuál es el mecanismo de acción de una vacuna de ARNm?|Introduce el virus completo|Mata bacterias|Instruye a las células a producir una proteína del patógeno|Modifica el ADN humano|2|Estimula la respuesta inmune.
+¿Por qué debe completarse el tratamiento antibiótico?|Para evitar el dolor|Para evitar que sobrevivan bacterias resistentes|Porque se acaban|Para que sea más barato|1|Una interrupción favorece la resistencia.
+¿Qué es la inmunidad de rebaño?|La protección indirecta cuando gran parte de la población es inmune|La inmunidad individual|Un tipo de vacuna|Una enfermedad|0|Reduce la circulación del patógeno.
+¿Cuál es el principal agente de la tuberculosis?|Un protozoo|Mycobacterium tuberculosis|Un hongo|Un virus|1|Se transmite por el aire.

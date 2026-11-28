@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿En qué continente se encontraron los fósiles más antiguos de homínidos?|Oceanía|América del Sur|África|Antártida|2|Allí se originó el linaje humano.
-¿Cómo se llama la especie humana actual?|Australopithecus afarensis|Homo erectus|Homo sapiens|Homo habilis|2|Apareció hace unos 300 000 años.
-¿Qué técnica permite estimar la edad de fósiles recientes?|El carbono 14|La PCR|El microscopio óptico|La electroforesis|0|Mide la desintegración del isótopo.
-¿Qué eran los primeros seres vivos?|Mamíferos|Organismos unicelulares procariotas|Insectos|Plantas con flores|1|Fueron anaerobios.
-¿Cuál fue la edad aproximada de la Tierra?|Unos 4500 años|Unos 45 millones de años|Unos 450 000 años|Unos 4500 millones de años|3|La vida surgió hace unos 3500 millones.
-¿Qué gas casi no había en la atmósfera primitiva?|Oxígeno libre|Amoníaco|Metano|Vapor de agua|0|El oxígeno aumentó con la fotosíntesis.
-¿Qué característica distingue a los homínidos?|El bipedismo|Las branquias|La cola prensil|Las alas|0|Caminar sobre dos pies es un rasgo clave.
-¿A qué grupo de animales pertenece el ser humano?|A los anfibios|A los peces|A los reptiles|A los primates|3|Compartimos ancestros con los simios.
-¿Qué experimento de Miller y Urey simuló?|La digestión|Las condiciones de la Tierra primitiva|La clonación|La fotosíntesis|1|Se formaron aminoácidos.
-¿Qué es "Lucy"?|Un fósil de dinosaurio|Un fósil de Australopithecus afarensis|Un fósil de Homo sapiens|Una planta fósil|1|Se halló en Etiopía.
-¿Qué cambió con la aparición de los organismos fotosintéticos?|Se formaron las montañas|Se enfrió el sol|Desapareció el agua|Se acumuló oxígeno en la atmósfera|3|Permitió la respiración aerobia.
-¿Qué refutó Pasteur con sus experimentos?|La fotosíntesis|La selección natural|La generación espontánea|La herencia mendeliana|2|Usó matraces de cuello de cisne.
-¿Qué propone la teoría endosimbiótica?|El núcleo proviene del oxígeno|Mitocondrias y cloroplastos derivan de procariotas que se incorporaron a otra célula|Las células surgieron de las rocas|Los virus originaron los peces|1|Lynn Margulis la desarrolló.
-¿Qué es la evolución cultural?|Una mutación|La transmisión de conocimientos y tecnologías por aprendizaje|La transmisión de genes únicamente|Una selección natural|1|Fue clave en la expansión humana.
-¿Qué rasgo caracteriza al género Homo respecto de Australopithecus?|Mayor capacidad craneana|Cuatro patas|Cola larga|Alas|0|Se asocia con el uso de herramientas.
-¿Qué propuso la hipótesis de Oparin y Haldane?|La vida llegó en un barco|Los organismos surgen de materia podrida|La vida surgió gradualmente a partir de moléculas orgánicas en la Tierra primitiva|La vida surgió de repente|2|Fue una evolución química.
-¿Qué hominino vivió en Europa y fue adaptado al frío?|Australopithecus|Homo habilis|El neandertal|Lucy|2|Convivió con Homo sapiens.
-¿Qué especie fue la primera en salir de África?|Homo habilis|Australopithecus|Homo erectus|Homo sapiens|2|Se expandió por Asia y Europa.
-¿Qué muestran los estudios de ADN antiguo?|Que hubo cruzamientos entre sapiens y neandertales|Que no hay parentesco|Que todos somos clones|Que los neandertales eran plantas|0|Muchas personas actuales conservan genes neandertales.
-¿Qué hominino fue el primero en usar herramientas de piedra de manera sistemática?|Homo habilis|Un dinosaurio|Homo sapiens|Lucy|0|Su nombre significa hombre hábil.
-¿Qué aporta el ARN a las hipótesis del origen de la vida?|No existía|Puede almacenar información y catalizar reacciones|Era un lípido|Solo guarda proteínas|1|Se la llama hipótesis del mundo de ARN.
-¿Por qué el bipedismo pudo ser una ventaja evolutiva?|Dio alas|Aumentó el tamaño del colon|Eliminó la dieta|Liberó las manos y mejoró la visión y el desplazamiento|3|Es una de varias hipótesis.
-¿Qué permiten los relojes moleculares?|Medir la hora|Medir la temperatura|Contar células|Estimar cuándo divergieron dos linajes según las mutaciones acumuladas|3|Se basan en tasas de mutación.
-¿Qué indica la expresión "los humanos descendemos de los chimpancés"?|Los humanos son plantas|Es incorrecta: compartimos un ancestro común|Los chimpancés son humanos|Es correcta|1|Las dos líneas divergieron hace millones de años.
-¿Qué sitio de Argentina es famoso por fósiles de dinosaurios?|Puerto Madryn en el mar|La Quiaca|Ischigualasto en San Juan|El Obelisco|2|Es patrimonio mundial junto a Talampaya.
+¿En qué continente se encontraron los fósiles más antiguos de homínidos?|Antártida|América del Sur|África|Oceanía|2|Allí se originó el linaje humano.
+¿Cómo se llama la especie humana actual?|Homo sapiens|Homo erectus|Homo habilis|Australopithecus afarensis|0|Apareció hace unos 300 000 años.
+¿Qué técnica permite estimar la edad de fósiles recientes?|La electroforesis|El microscopio óptico|El carbono 14|La PCR|2|Mide la desintegración del isótopo.
+¿Qué eran los primeros seres vivos?|Plantas con flores|Insectos|Mamíferos|Organismos unicelulares procariotas|3|Fueron anaerobios.
+¿Cuál fue la edad aproximada de la Tierra?|Unos 450 000 años|Unos 4500 años|Unos 45 millones de años|Unos 4500 millones de años|3|La vida surgió hace unos 3500 millones.
+¿Qué gas casi no había en la atmósfera primitiva?|Vapor de agua|Oxígeno libre|Metano|Amoníaco|1|El oxígeno aumentó con la fotosíntesis.
+¿Qué característica distingue a los homínidos?|Las branquias|Las alas|La cola prensil|El bipedismo|3|Caminar sobre dos pies es un rasgo clave.
+¿A qué grupo de animales pertenece el ser humano?|A los reptiles|A los primates|A los peces|A los anfibios|1|Compartimos ancestros con los simios.
+¿Qué experimento de Miller y Urey simuló?|La clonación|La digestión|Las condiciones de la Tierra primitiva|La fotosíntesis|2|Se formaron aminoácidos.
+¿Qué es "Lucy"?|Un fósil de Homo sapiens|Un fósil de Australopithecus afarensis|Un fósil de dinosaurio|Una planta fósil|1|Se halló en Etiopía.
+¿Qué cambió con la aparición de los organismos fotosintéticos?|Se enfrió el sol|Desapareció el agua|Se acumuló oxígeno en la atmósfera|Se formaron las montañas|2|Permitió la respiración aerobia.
+¿Qué refutó Pasteur con sus experimentos?|La selección natural|La fotosíntesis|La herencia mendeliana|La generación espontánea|3|Usó matraces de cuello de cisne.
+¿Qué propone la teoría endosimbiótica?|Los virus originaron los peces|Mitocondrias y cloroplastos derivan de procariotas que se incorporaron a otra célula|Las células surgieron de las rocas|El núcleo proviene del oxígeno|1|Lynn Margulis la desarrolló.
+¿Qué es la evolución cultural?|La transmisión de conocimientos y tecnologías por aprendizaje|Una mutación|La transmisión de genes únicamente|Una selección natural|0|Fue clave en la expansión humana.
+¿Qué rasgo caracteriza al género Homo respecto de Australopithecus?|Cuatro patas|Mayor capacidad craneana|Alas|Cola larga|1|Se asocia con el uso de herramientas.
+¿Qué propuso la hipótesis de Oparin y Haldane?|La vida surgió gradualmente a partir de moléculas orgánicas en la Tierra primitiva|La vida llegó en un barco|Los organismos surgen de materia podrida|La vida surgió de repente|0|Fue una evolución química.
+¿Qué hominino vivió en Europa y fue adaptado al frío?|Homo habilis|Australopithecus|Lucy|El neandertal|3|Convivió con Homo sapiens.
+¿Qué especie fue la primera en salir de África?|Homo erectus|Homo habilis|Australopithecus|Homo sapiens|0|Se expandió por Asia y Europa.
+¿Qué muestran los estudios de ADN antiguo?|Que hubo cruzamientos entre sapiens y neandertales|Que no hay parentesco|Que los neandertales eran plantas|Que todos somos clones|0|Muchas personas actuales conservan genes neandertales.
+¿Qué hominino fue el primero en usar herramientas de piedra de manera sistemática?|Homo habilis|Homo sapiens|Lucy|Un dinosaurio|0|Su nombre significa hombre hábil.
+¿Qué aporta el ARN a las hipótesis del origen de la vida?|Era un lípido|No existía|Puede almacenar información y catalizar reacciones|Solo guarda proteínas|2|Se la llama hipótesis del mundo de ARN.
+¿Por qué el bipedismo pudo ser una ventaja evolutiva?|Dio alas|Eliminó la dieta|Liberó las manos y mejoró la visión y el desplazamiento|Aumentó el tamaño del colon|2|Es una de varias hipótesis.
+¿Qué permiten los relojes moleculares?|Medir la hora|Contar células|Medir la temperatura|Estimar cuándo divergieron dos linajes según las mutaciones acumuladas|3|Se basan en tasas de mutación.
+¿Qué indica la expresión "los humanos descendemos de los chimpancés"?|Es correcta|Los chimpancés son humanos|Los humanos son plantas|Es incorrecta: compartimos un ancestro común|3|Las dos líneas divergieron hace millones de años.
+¿Qué sitio de Argentina es famoso por fósiles de dinosaurios?|Ischigualasto en San Juan|El Obelisco|La Quiaca|Puerto Madryn en el mar|0|Es patrimonio mundial junto a Talampaya.
 ¿Qué es un registro fósil incompleto?|Una prueba contra la evolución|Un fósil sin edad|Una limitación porque pocos organismos se fosilizan|Un fósil falso|2|Explica los eslabones que faltan.
-¿Qué rasgo del cráneo humano se relaciona con el pensamiento complejo?|Un hocico largo|Una cola|Un gran desarrollo del lóbulo frontal|Una cresta ósea sobre la cabeza|2|Se asocia a planificación y lenguaje.
-¿Qué evidencia indica que la extinción de especies es parte de la historia de la vida?|La falta de cambios|Los climas estables|Las extinciones masivas registradas en los fósiles|La ausencia de fósiles|2|Hubo al menos cinco grandes.
-¿Por qué las razas humanas no son categorías biológicas con subespecies diferenciadas?|Porque los humanos no varían|Porque la variabilidad genética humana es continua y pequeña entre poblaciones|Porque hay muchas especies|Porque no hay genes|1|La mayor variación está dentro de cada población.
-¿Qué son los estromatolitos?|Plantas fósiles|Rocas volcánicas sin vida|Estructuras formadas por cianobacterias, evidencias de vida antigua|Fósiles de dinosaurios|2|Tienen más de 3000 millones de años.
+¿Qué rasgo del cráneo humano se relaciona con el pensamiento complejo?|Un hocico largo|Una cresta ósea sobre la cabeza|Un gran desarrollo del lóbulo frontal|Una cola|2|Se asocia a planificación y lenguaje.
+¿Qué evidencia indica que la extinción de especies es parte de la historia de la vida?|Las extinciones masivas registradas en los fósiles|Los climas estables|La ausencia de fósiles|La falta de cambios|0|Hubo al menos cinco grandes.
+¿Por qué las razas humanas no son categorías biológicas con subespecies diferenciadas?|Porque los humanos no varían|Porque la variabilidad genética humana es continua y pequeña entre poblaciones|Porque no hay genes|Porque hay muchas especies|1|La mayor variación está dentro de cada población.
+¿Qué son los estromatolitos?|Plantas fósiles|Estructuras formadas por cianobacterias, evidencias de vida antigua|Rocas volcánicas sin vida|Fósiles de dinosaurios|1|Tienen más de 3000 millones de años.

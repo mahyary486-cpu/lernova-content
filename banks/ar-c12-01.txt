@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Qué grupo funcional caracteriza a los ácidos carboxílicos?|Hidroxilo (−OH)|Amino (−NH2)|Carboxilo (−COOH)|Éter (−O−)|2|Por ejemplo, el ácido etanoico (acético).
-¿Qué grupo funcional caracteriza a los alcoholes?|Amino (−NH2)|Carbonilo (C=O)|Hidroxilo (−OH)|Carboxilo (−COOH)|2|Por ejemplo, el etanol.
-¿Qué elemento es la base de todos los compuestos orgánicos?|Hierro|Helio|Carbono|Sodio|2|El carbono forma cuatro enlaces y cadenas estables.
-¿Cuántos átomos de hidrógeno tiene el decano, C10H22?|20|22|10|24|1|Con n = 10: 2·10 + 2 = 22.
-¿Qué tipo de enlace tienen los alquenos entre carbonos?|Enlaces iónicos|Al menos un doble enlace|Un triple enlace|Solo enlaces simples|1|Su fórmula general es CnH2n.
-¿Cuál es la fórmula del etanol?|CH3CHO|CH3CH2OH|CH3OCH3|CH3COOH|1|Alcohol de dos carbonos.
-¿Cómo se llama el hidrocarburo de un solo carbono, CH4?|Butano|Metano|Propano|Etano|1|Es el principal componente del gas natural.
-¿Qué grupo funcional tienen las aminas?|Carboxilo|Hidroxilo|Éster|Amino (−NH2)|3|Derivan del amoníaco.
-¿Cómo se llama el hidrocarburo aromático de fórmula C6H6?|Tolueno|Ciclohexano|Benceno|Hexano|2|Tiene un anillo con electrones deslocalizados.
-¿Cuál es la fórmula general de los alcanos?|CnH2n−2|CnH2n+2|CnH2n|CnHn|1|Son hidrocarburos saturados.
-¿Qué productos da la combustión completa del metano?|Carbono y agua|Dióxido de carbono y agua|Solo dióxido de carbono|Monóxido de carbono y hidrógeno|1|CH4 + 2 O2 → CO2 + 2 H2O.
-¿Qué grupo funcional tiene la propanona (acetona)?|Carbonilo de cetona|Hidroxilo|Amino|Carboxilo|0|El C=O está en un carbono interno de la cadena.
-¿Cuántos isómeros estructurales tiene el pentano, C5H12?|5|2|3|4|2|Pentano, metilbutano y dimetilpropano.
-¿Cuántos isómeros estructurales tiene el butano, C4H10?|1|2|4|3|1|Butano y metilpropano (isobutano).
-¿Qué es un carbono quiral?|Un carbono unido a cuatro sustituyentes distintos|Un carbono con tres hidrógenos|Un carbono de un anillo|Un carbono con doble enlace|0|Origina isomería óptica.
-El etanol y el dimetiléter (C2H6O) son isómeros de:|Función|Posición|Cadena|Geometría|0|Tienen la misma fórmula molecular pero distinto grupo funcional.
+¿Qué grupo funcional caracteriza a los ácidos carboxílicos?|Éter (−O−)|Hidroxilo (−OH)|Amino (−NH2)|Carboxilo (−COOH)|3|Por ejemplo, el ácido etanoico (acético).
+¿Qué grupo funcional caracteriza a los alcoholes?|Carboxilo (−COOH)|Hidroxilo (−OH)|Amino (−NH2)|Carbonilo (C=O)|1|Por ejemplo, el etanol.
+¿Qué elemento es la base de todos los compuestos orgánicos?|Helio|Hierro|Carbono|Sodio|2|El carbono forma cuatro enlaces y cadenas estables.
+¿Cuántos átomos de hidrógeno tiene el decano, C10H22?|24|20|22|10|2|Con n = 10: 2·10 + 2 = 22.
+¿Qué tipo de enlace tienen los alquenos entre carbonos?|Enlaces iónicos|Solo enlaces simples|Un triple enlace|Al menos un doble enlace|3|Su fórmula general es CnH2n.
+¿Cuál es la fórmula del etanol?|CH3OCH3|CH3CHO|CH3CH2OH|CH3COOH|2|Alcohol de dos carbonos.
+¿Cómo se llama el hidrocarburo de un solo carbono, CH4?|Propano|Metano|Butano|Etano|1|Es el principal componente del gas natural.
+¿Qué grupo funcional tienen las aminas?|Hidroxilo|Amino (−NH2)|Carboxilo|Éster|1|Derivan del amoníaco.
+¿Cómo se llama el hidrocarburo aromático de fórmula C6H6?|Ciclohexano|Tolueno|Benceno|Hexano|2|Tiene un anillo con electrones deslocalizados.
+¿Cuál es la fórmula general de los alcanos?|CnHn|CnH2n−2|CnH2n|CnH2n+2|3|Son hidrocarburos saturados.
+¿Qué productos da la combustión completa del metano?|Dióxido de carbono y agua|Solo dióxido de carbono|Carbono y agua|Monóxido de carbono y hidrógeno|0|CH4 + 2 O2 → CO2 + 2 H2O.
+¿Qué grupo funcional tiene la propanona (acetona)?|Amino|Carboxilo|Hidroxilo|Carbonilo de cetona|3|El C=O está en un carbono interno de la cadena.
+¿Cuántos isómeros estructurales tiene el pentano, C5H12?|3|5|4|2|0|Pentano, metilbutano y dimetilpropano.
+¿Cuántos isómeros estructurales tiene el butano, C4H10?|1|3|4|2|3|Butano y metilpropano (isobutano).
+¿Qué es un carbono quiral?|Un carbono con doble enlace|Un carbono con tres hidrógenos|Un carbono de un anillo|Un carbono unido a cuatro sustituyentes distintos|3|Origina isomería óptica.
+El etanol y el dimetiléter (C2H6O) son isómeros de:|Geometría|Posición|Función|Cadena|2|Tienen la misma fórmula molecular pero distinto grupo funcional.
 ¿Qué tipo de isomería presentan los isómeros cis y trans del but-2-eno?|De cadena|Geométrica|De función|Óptica|1|Se debe a la rotación impedida del doble enlace.
-¿En qué se diferencia un aldehído de una cetona?|No se diferencian|La cetona tiene hidroxilo|El carbonilo del aldehído está en el extremo de la cadena|El aldehído tiene un doble enlace C=C|2|El aldehído termina en −CHO.
-¿Qué se forma al reaccionar un ácido carboxílico con un alcohol?|Un éster y agua|Una amida y agua|Un aldehído|Un éter|0|Es la esterificación, reversible y catalizada por ácido.
-¿Qué reacción convierte un alqueno en alcano?|Combustión|Esterificación|Saponificación|Hidrogenación|3|Se adiciona H2 al doble enlace con un catalizador.
-¿Por qué el etanol tiene un punto de ebullición mayor que el dimetiléter?|Forma puentes de hidrógeno entre sus moléculas|Es un compuesto iónico|Tiene doble enlace|Tiene mayor masa molar|0|El dimetiléter no tiene hidrógeno unido a oxígeno.
-¿Cuál es la hibridación del carbono en un alqueno, en los carbonos del doble enlace?|s|sp2|sp|sp3|1|Geometría trigonal plana con ángulos de unos 120°.
-¿Qué geometría tiene el carbono del metano?|Lineal|Plana|Tetraédrica|Octaédrica|2|Hibridación sp3 con ángulos de 109,5°.
-¿Qué tipo de reacción es CH4 + Cl2 → CH3Cl + HCl con luz?|Eliminación|Sustitución|Condensación|Adición|1|Un hidrógeno es reemplazado por un cloro.
-¿Cuál es la fórmula general de los alquinos?|CnH2n+2|CnH2n−2|CnH2n|CnH2n−4|1|Tienen un triple enlace; por ejemplo, el etino C2H2.
-¿Cómo se llama el CH3CH2CH2CH2OH?|Butanal|Butan-1-ol|Propan-1-ol|Butan-2-ol|1|Cuatro carbonos con el OH en el carbono 1.
-¿Cuántos isómeros ópticos (enantiómeros) tiene una molécula con un único carbono quiral?|4|3|1|2|3|Son imágenes especulares no superponibles.
-¿Cuál de estos compuestos presenta isomería óptica?|CH3COOH|CH3CH2CH3|CH3CHOHCOOH (ácido láctico)|CH3CH2OH|2|El carbono 2 tiene H, OH, CH3 y COOH.
-¿Qué tipo de reacción es CH2=CH2 + Br2 → CH2BrCH2Br?|Sustitución|Combustión|Eliminación|Adición|3|El doble enlace se abre y agrega átomos.
-¿Cómo se llama el grupo −CONH2?|Éster|Nitrilo|Amina|Amida|3|Deriva de un ácido carboxílico y amoníaco.
+¿En qué se diferencia un aldehído de una cetona?|El carbonilo del aldehído está en el extremo de la cadena|La cetona tiene hidroxilo|No se diferencian|El aldehído tiene un doble enlace C=C|0|El aldehído termina en −CHO.
+¿Qué se forma al reaccionar un ácido carboxílico con un alcohol?|Una amida y agua|Un éster y agua|Un aldehído|Un éter|1|Es la esterificación, reversible y catalizada por ácido.
+¿Qué reacción convierte un alqueno en alcano?|Combustión|Hidrogenación|Esterificación|Saponificación|1|Se adiciona H2 al doble enlace con un catalizador.
+¿Por qué el etanol tiene un punto de ebullición mayor que el dimetiléter?|Es un compuesto iónico|Tiene mayor masa molar|Forma puentes de hidrógeno entre sus moléculas|Tiene doble enlace|2|El dimetiléter no tiene hidrógeno unido a oxígeno.
+¿Cuál es la hibridación del carbono en un alqueno, en los carbonos del doble enlace?|sp2|s|sp3|sp|0|Geometría trigonal plana con ángulos de unos 120°.
+¿Qué geometría tiene el carbono del metano?|Tetraédrica|Plana|Lineal|Octaédrica|0|Hibridación sp3 con ángulos de 109,5°.
+¿Qué tipo de reacción es CH4 + Cl2 → CH3Cl + HCl con luz?|Sustitución|Eliminación|Condensación|Adición|0|Un hidrógeno es reemplazado por un cloro.
+¿Cuál es la fórmula general de los alquinos?|CnH2n−4|CnH2n+2|CnH2n|CnH2n−2|3|Tienen un triple enlace; por ejemplo, el etino C2H2.
+¿Cómo se llama el CH3CH2CH2CH2OH?|Butan-2-ol|Butanal|Butan-1-ol|Propan-1-ol|2|Cuatro carbonos con el OH en el carbono 1.
+¿Cuántos isómeros ópticos (enantiómeros) tiene una molécula con un único carbono quiral?|1|4|2|3|2|Son imágenes especulares no superponibles.
+¿Cuál de estos compuestos presenta isomería óptica?|CH3CH2CH3|CH3CHOHCOOH (ácido láctico)|CH3CH2OH|CH3COOH|1|El carbono 2 tiene H, OH, CH3 y COOH.
+¿Qué tipo de reacción es CH2=CH2 + Br2 → CH2BrCH2Br?|Adición|Combustión|Sustitución|Eliminación|0|El doble enlace se abre y agrega átomos.
+¿Cómo se llama el grupo −CONH2?|Amida|Amina|Nitrilo|Éster|0|Deriva de un ácido carboxílico y amoníaco.

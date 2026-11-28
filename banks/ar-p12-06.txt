@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Cuántos neutrones tiene un núcleo con Z = 6 y A = 12?|18|12|6|7|2|n = A − Z = 12 − 6 = 6.
-¿Cuántos neutrones tiene un núcleo con Z = 92 y A = 235?|143|92|327|235|0|n = A − Z = 235 − 92 = 143.
-¿Cuántos neutrones tiene un núcleo con Z = 92 y A = 238?|146|330|92|238|0|n = A − Z = 238 − 92 = 146.
-¿Qué son los isótopos?|Iones|Átomos del mismo elemento con distinto número de neutrones|Átomos con distinto Z|Moléculas|1|Por ejemplo, ¹²C y ¹⁴C.
-¿Qué es la radiactividad?|Una reacción química|La luz del Sol|La corriente eléctrica|La emisión espontánea de radiación por núcleos inestables|3|Fue descubierta por Becquerel.
-¿Quiénes estudiaron la radiactividad y descubrieron el polonio y el radio?|Newton y Darwin|Bohr y Planck|Faraday y Maxwell|Marie y Pierre Curie|3|Marie Curie recibió dos premios Nobel.
-¿Cuántos neutrones tiene un núcleo con Z = 19 y A = 40?|21|19|59|40|0|n = A − Z = 40 − 19 = 21.
-¿Qué partículas forman el núcleo atómico?|Protones y neutrones|Protones y electrones|Solo electrones|Solo neutrones|0|Se llaman nucleones.
-¿Cuántos neutrones tiene un núcleo con Z = 6 y A = 14?|20|8|14|6|1|n = A − Z = 14 − 6 = 8.
-Una muestra tiene 640 g de un isótopo cuya vida media es 10 días. ¿Cuánto queda luego de 20 días?|160 g|159 g|320 g|161 g|0|Pasan 2 vidas medias: 640/2^2 = 160 g.
-Un núcleo con A = 222 y Z = 90 emite una partícula alfa. ¿Cuál es el nuevo número másico?|222|220|218|226|2|La partícula alfa tiene 2 protones y 2 neutrones: A disminuye en 4.
-Una muestra tiene 800 g de un isótopo cuya vida media es 8 días. ¿Cuánto queda luego de 24 días?|100 g|266,667 g|200 g|133,333 g|0|Pasan 3 vidas medias: 800/2^3 = 100 g.
-Una muestra radiactiva tiene 2000 núcleos y una vida media de 4 h. ¿Cuántos núcleos sin desintegrar quedan luego de 8 h?|501|500|499|1000|1|Pasaron 2 vidas medias: 2000/2^2 = 500.
-Un núcleo con A = 226 y Z = 86 emite una partícula alfa. ¿Cuál es el nuevo número másico?|224|222|226|230|1|La partícula alfa tiene 2 protones y 2 neutrones: A disminuye en 4.
-Una muestra radiactiva tiene 1000 núcleos y una vida media de 2 h. ¿Cuántos núcleos sin desintegrar quedan luego de 6 h?|500/3|250|1000/3|125|3|Pasaron 3 vidas medias: 1000/2^3 = 125.
-¿Qué es la fisión nuclear?|Una desintegración alfa|Una reacción química|La unión de núcleos livianos|La división de un núcleo pesado en núcleos más livianos|3|Libera energía y neutrones.
-¿Qué radiación es detenida por una hoja de papel?|Gamma|Beta|Alfa|Rayos X|2|Es poco penetrante pero muy ionizante.
-Una muestra radiactiva tiene 480 núcleos y una vida media de 3 h. ¿Cuántos núcleos sin desintegrar quedan luego de 15 h?|15|48|96|30|0|Pasaron 5 vidas medias: 480/2^5 = 15.
-Un núcleo con A = 210 y Z = 90 emite una partícula alfa. ¿Cuál es el nuevo número másico?|206|208|214|210|0|La partícula alfa tiene 2 protones y 2 neutrones: A disminuye en 4.
-¿Qué es la fusión nuclear?|Una emisión beta|La unión de núcleos livianos en uno más pesado|Una reacción química|La división de un núcleo|1|Ocurre en el Sol.
-En una reacción se pierde una masa de 1 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|932 MeV|93,1 MeV|931 MeV|9310 MeV|2|E = Δm · 931 = 1 · 931 = 931 MeV.
-Un núcleo con A = 210 y Z = 88 emite una partícula alfa. ¿Cuál es el nuevo número atómico?|86|84|88|90|0|La partícula alfa tiene 2 protones: Z disminuye en 2.
-¿Qué ventaja tiene la energía nuclear?|Genera electricidad sin emitir CO₂ en su operación|No tiene riesgos|No produce residuos|Es renovable|0|Los residuos radiactivos requieren gestión segura.
-En una reacción se pierde una masa de 2 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|1862 MeV|18620 MeV|186,2 MeV|933 MeV|0|E = Δm · 931 = 2 · 931 = 1862 MeV.
-En una reacción se pierde una masa de 0,5 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|4655 MeV|46,55 MeV|931,5 MeV|465,5 MeV|3|E = Δm · 931 = 0,5 · 931 = 465,5 MeV.
-¿Cuál es una aplicación médica de los isótopos radiactivos?|Producción de insulina|Corrección de la visión|Medición de la presión|Diagnóstico y tratamiento del cáncer|3|Por ejemplo, el cobalto-60 y el tecnecio-99m.
-¿Qué técnica se utiliza para datar restos orgánicos antiguos?|Carbono-14|Resonancia|Ecografía|Rayos X|0|Se basa en su vida media de unos 5730 años.
-Un núcleo con A = 226 y Z = 90 emite una partícula alfa. ¿Cuál es el nuevo número atómico?|88|86|92|90|0|La partícula alfa tiene 2 protones: Z disminuye en 2.
-Un núcleo con A = 232 y Z = 92 emite una partícula alfa. ¿Cuál es el nuevo número atómico?|90|92|94|88|0|La partícula alfa tiene 2 protones: Z disminuye en 2.
-En una reacción se pierde una masa de 0,1 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|931,1 MeV|931 MeV|93,1 MeV|9,31 MeV|2|E = Δm · 931 = 0,1 · 931 = 93,1 MeV.
+¿Cuántos neutrones tiene un núcleo con Z = 6 y A = 12?|18|6|7|12|1|n = A − Z = 12 − 6 = 6.
+¿Cuántos neutrones tiene un núcleo con Z = 92 y A = 235?|92|327|143|235|2|n = A − Z = 235 − 92 = 143.
+¿Cuántos neutrones tiene un núcleo con Z = 92 y A = 238?|92|330|238|146|3|n = A − Z = 238 − 92 = 146.
+¿Qué son los isótopos?|Átomos del mismo elemento con distinto número de neutrones|Moléculas|Átomos con distinto Z|Iones|0|Por ejemplo, ¹²C y ¹⁴C.
+¿Qué es la radiactividad?|La emisión espontánea de radiación por núcleos inestables|Una reacción química|La luz del Sol|La corriente eléctrica|0|Fue descubierta por Becquerel.
+¿Quiénes estudiaron la radiactividad y descubrieron el polonio y el radio?|Marie y Pierre Curie|Bohr y Planck|Newton y Darwin|Faraday y Maxwell|0|Marie Curie recibió dos premios Nobel.
+¿Cuántos neutrones tiene un núcleo con Z = 19 y A = 40?|59|40|21|19|2|n = A − Z = 40 − 19 = 21.
+¿Qué partículas forman el núcleo atómico?|Solo electrones|Solo neutrones|Protones y electrones|Protones y neutrones|3|Se llaman nucleones.
+¿Cuántos neutrones tiene un núcleo con Z = 6 y A = 14?|6|8|14|20|1|n = A − Z = 14 − 6 = 8.
+Una muestra tiene 640 g de un isótopo cuya vida media es 10 días. ¿Cuánto queda luego de 20 días?|159 g|160 g|161 g|320 g|1|Pasan 2 vidas medias: 640/2^2 = 160 g.
+Un núcleo con A = 222 y Z = 90 emite una partícula alfa. ¿Cuál es el nuevo número másico?|220|222|218|226|2|La partícula alfa tiene 2 protones y 2 neutrones: A disminuye en 4.
+Una muestra tiene 800 g de un isótopo cuya vida media es 8 días. ¿Cuánto queda luego de 24 días?|133,333 g|100 g|266,667 g|200 g|1|Pasan 3 vidas medias: 800/2^3 = 100 g.
+Una muestra radiactiva tiene 2000 núcleos y una vida media de 4 h. ¿Cuántos núcleos sin desintegrar quedan luego de 8 h?|501|1000|500|499|2|Pasaron 2 vidas medias: 2000/2^2 = 500.
+Un núcleo con A = 226 y Z = 86 emite una partícula alfa. ¿Cuál es el nuevo número másico?|226|222|230|224|1|La partícula alfa tiene 2 protones y 2 neutrones: A disminuye en 4.
+Una muestra radiactiva tiene 1000 núcleos y una vida media de 2 h. ¿Cuántos núcleos sin desintegrar quedan luego de 6 h?|1000/3|250|500/3|125|3|Pasaron 3 vidas medias: 1000/2^3 = 125.
+¿Qué es la fisión nuclear?|Una reacción química|Una desintegración alfa|La unión de núcleos livianos|La división de un núcleo pesado en núcleos más livianos|3|Libera energía y neutrones.
+¿Qué radiación es detenida por una hoja de papel?|Beta|Alfa|Rayos X|Gamma|1|Es poco penetrante pero muy ionizante.
+Una muestra radiactiva tiene 480 núcleos y una vida media de 3 h. ¿Cuántos núcleos sin desintegrar quedan luego de 15 h?|48|30|96|15|3|Pasaron 5 vidas medias: 480/2^5 = 15.
+Un núcleo con A = 210 y Z = 90 emite una partícula alfa. ¿Cuál es el nuevo número másico?|208|210|206|214|2|La partícula alfa tiene 2 protones y 2 neutrones: A disminuye en 4.
+¿Qué es la fusión nuclear?|La división de un núcleo|Una emisión beta|Una reacción química|La unión de núcleos livianos en uno más pesado|3|Ocurre en el Sol.
+En una reacción se pierde una masa de 1 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|93,1 MeV|932 MeV|931 MeV|9310 MeV|2|E = Δm · 931 = 1 · 931 = 931 MeV.
+Un núcleo con A = 210 y Z = 88 emite una partícula alfa. ¿Cuál es el nuevo número atómico?|86|90|84|88|0|La partícula alfa tiene 2 protones: Z disminuye en 2.
+¿Qué ventaja tiene la energía nuclear?|No tiene riesgos|Es renovable|Genera electricidad sin emitir CO₂ en su operación|No produce residuos|2|Los residuos radiactivos requieren gestión segura.
+En una reacción se pierde una masa de 2 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|186,2 MeV|933 MeV|18620 MeV|1862 MeV|3|E = Δm · 931 = 2 · 931 = 1862 MeV.
+En una reacción se pierde una masa de 0,5 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|465,5 MeV|931,5 MeV|4655 MeV|46,55 MeV|0|E = Δm · 931 = 0,5 · 931 = 465,5 MeV.
+¿Cuál es una aplicación médica de los isótopos radiactivos?|Corrección de la visión|Diagnóstico y tratamiento del cáncer|Producción de insulina|Medición de la presión|1|Por ejemplo, el cobalto-60 y el tecnecio-99m.
+¿Qué técnica se utiliza para datar restos orgánicos antiguos?|Carbono-14|Resonancia|Rayos X|Ecografía|0|Se basa en su vida media de unos 5730 años.
+Un núcleo con A = 226 y Z = 90 emite una partícula alfa. ¿Cuál es el nuevo número atómico?|88|92|90|86|0|La partícula alfa tiene 2 protones: Z disminuye en 2.
+Un núcleo con A = 232 y Z = 92 emite una partícula alfa. ¿Cuál es el nuevo número atómico?|90|92|88|94|0|La partícula alfa tiene 2 protones: Z disminuye en 2.
+En una reacción se pierde una masa de 0,1 u. ¿Qué energía se libera? (1 u equivale a 931 MeV)|931,1 MeV|931 MeV|9,31 MeV|93,1 MeV|3|E = Δm · 931 = 0,1 · 931 = 93,1 MeV.

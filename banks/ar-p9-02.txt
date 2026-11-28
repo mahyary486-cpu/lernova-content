@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Qué fuerza neta hace falta para acelerar una masa de 2 kg a 3 m/s²?|5 N|2/3 N|6 N|16 N|2|F = m · a = 2 · 3 = 6 N.
-¿Qué fuerza neta hace falta para acelerar una masa de 5 kg a 4 m/s²?|9 N|20 N|5/4 N|30 N|1|F = m · a = 5 · 4 = 20 N.
-La primera ley de Newton es el principio de:|Gravitación|Conservación de la energía|Inercia|Acción y reacción|2|Un cuerpo en reposo o con velocidad constante sigue así mientras no actúe una fuerza neta.
-Cuando una persona empuja una pared, la pared empuja a la persona con una fuerza de igual intensidad y sentido contrario. Esto es:|La primera ley de Newton|La tercera ley de Newton|La ley de Ohm|La ley de Hooke|1|Es el principio de acción y reacción.
-¿Cuál es el peso de un cuerpo de 5 kg? (g = 10 m/s²)|50 N|5 N|1/2 N|15 N|0|P = m · g = 5 · 10 = 50 N.
-¿Cuál es el peso de un cuerpo de 20 kg? (g = 10 m/s²)|200 N|20 N|2 N|30 N|0|P = m · g = 20 · 10 = 200 N.
-¿Cuál de estas magnitudes es vectorial?|La temperatura|La fuerza|El tiempo|La masa|1|La fuerza tiene intensidad, dirección y sentido.
-¿Cuál es la unidad de fuerza en el Sistema Internacional?|Joule|Pascal|Newton|Watt|2|La fuerza se mide en newtons (N), 1 N = 1 kg·m/s².
-¿Cuál es el peso de un cuerpo de 3 kg? (g = 10 m/s²)|3/10 N|3 N|13 N|30 N|3|P = m · g = 3 · 10 = 30 N.
-¿Qué fuerza neta hace falta para acelerar una masa de 3 kg a 7 m/s²?|31 N|3/7 N|10 N|21 N|3|F = m · a = 3 · 7 = 21 N.
-Dos personas empujan una caja en sentidos opuestos con 8 N y 3 N. ¿Cuál es la fuerza neta?|10 N|24 N|11 N|5 N|3|Fuerzas de sentidos opuestos se restan: 8 − 3 = 5 N.
-Una caja de 20 kg se apoya sobre un piso horizontal con coeficiente de rozamiento 0,2. ¿Cuánto vale la fuerza de rozamiento? (g = 10 m/s²)|200 N|4 N|40 N|80 N|2|Fr = μ · N = 0,2 · (20 · 10) = 40 N.
-Dos personas empujan una caja en sentidos opuestos con 10 N y 4 N. ¿Cuál es la fuerza neta?|40 N|6 N|11 N|14 N|1|Fuerzas de sentidos opuestos se restan: 10 − 4 = 6 N.
-Dos personas empujan una caja en sentidos opuestos con 20 N y 5 N. ¿Cuál es la fuerza neta?|100 N|25 N|20 N|15 N|3|Fuerzas de sentidos opuestos se restan: 20 − 5 = 15 N.
-Una caja de 8 kg se apoya sobre un piso horizontal con coeficiente de rozamiento 0,25. ¿Cuánto vale la fuerza de rozamiento? (g = 10 m/s²)|2 N|80 N|20 N|40 N|2|Fr = μ · N = 0,25 · (8 · 10) = 20 N.
-Un cuerpo se mueve con velocidad constante. Entonces la fuerza neta sobre él es:|Cero|Igual a su peso|Mayor que cero|Igual a su velocidad|0|Velocidad constante significa aceleración nula, por lo tanto la fuerza neta es 0.
-¿Qué le pasa al peso de una persona en la Luna comparado con la Tierra?|Aumenta|Disminuye porque g es menor|Es cero|Es igual|1|La masa no cambia, pero el peso P = m·g disminuye porque g lunar es menor.
-Sobre un cuerpo de 8 kg actúa una fuerza neta de 40 N. ¿Qué aceleración adquiere?|7 m/s²|5 m/s²|320 m/s²|1/5 m/s²|1|a = F/m = 40/8 = 5 m/s².
-Sobre un cuerpo de 3 kg actúa una fuerza neta de 21 N. ¿Qué aceleración adquiere?|1/7 m/s²|63 m/s²|7 m/s²|9 m/s²|2|a = F/m = 21/3 = 7 m/s².
-Sobre un cuerpo de 4 kg actúa una fuerza neta de 24 N. ¿Qué aceleración adquiere?|1/6 m/s²|96 m/s²|8 m/s²|6 m/s²|3|a = F/m = 24/4 = 6 m/s².
-Una persona de 60 kg está en un ascensor que sube con aceleración de 2 m/s². ¿Qué fuerza ejerce el piso sobre ella? (g = 10 m/s²)|720 N|120 N|600 N|480 N|0|N − P = m·a → N = m(g + a) = 60 · 12 = 720 N.
-Un cuerpo de masa m se acelera con una fuerza F. Si se duplica la masa y se mantiene F, la aceleración:|Se reduce a la mitad|Se duplica|Se cuadruplica|No cambia|0|a = F/m, entonces si m se duplica, a se reduce a la mitad.
-Una bolsa en reposo sobre una mesa tiene un peso de 20 N. ¿Cuánto vale la fuerza normal que ejerce la mesa?|40 N|0 N|20 N|10 N|2|Está en equilibrio: la normal compensa al peso.
-Una cuerda sostiene un cuerpo de 6 kg y lo acelera hacia arriba a 4 m/s². ¿Cuál es la tensión de la cuerda? (g = 10 m/s²)|36 N|84 N|24 N|60 N|1|T − P = m·a → T = m·(g + a) = 6 · 14 = 84 N.
-Se empuja una caja de 10 kg con una fuerza horizontal de 50 N. El coeficiente de rozamiento es 0,2. ¿Qué aceleración tiene? (g = 10 m/s²)|7 m/s²|5 m/s²|3 m/s²|20 m/s²|2|Fr = 20 N; Fneta = 50 − 20 = 30 N; a = 30/10 = 3 m/s².
-Dos fuerzas de 30 N y 40 N actúan sobre un cuerpo formando un ángulo de 90°. ¿Cuánto vale la fuerza resultante?|70 N|10 N|35 N|50 N|3|Por Pitágoras: R = √(30² + 40²) = 50 N.
-Se empuja una caja de 10 kg con una fuerza horizontal de 60 N. El coeficiente de rozamiento es 0,5. ¿Qué aceleración tiene? (g = 10 m/s²)|1 m/s²|50 m/s²|6 m/s²|11 m/s²|0|Fr = 50 N; Fneta = 60 − 50 = 10 N; a = 10/10 = 1 m/s².
-Una persona de 40 kg está en un ascensor que sube con aceleración de 5 m/s². ¿Qué fuerza ejerce el piso sobre ella? (g = 10 m/s²)|400 N|200 N|601 N|600 N|3|N − P = m·a → N = m(g + a) = 40 · 15 = 600 N.
-Una cuerda sostiene un cuerpo de 5 kg y lo acelera hacia arriba a 2 m/s². ¿Cuál es la tensión de la cuerda? (g = 10 m/s²)|10 N|40 N|50 N|60 N|3|T − P = m·a → T = m·(g + a) = 5 · 12 = 60 N.
-Una persona de 50 kg está en un ascensor que sube con aceleración de 1 m/s². ¿Qué fuerza ejerce el piso sobre ella? (g = 10 m/s²)|550 N|50 N|450 N|500 N|0|N − P = m·a → N = m(g + a) = 50 · 11 = 550 N.
+¿Qué fuerza neta hace falta para acelerar una masa de 2 kg a 3 m/s²?|16 N|6 N|5 N|2/3 N|1|F = m · a = 2 · 3 = 6 N.
+¿Qué fuerza neta hace falta para acelerar una masa de 5 kg a 4 m/s²?|9 N|5/4 N|20 N|30 N|2|F = m · a = 5 · 4 = 20 N.
+La primera ley de Newton es el principio de:|Conservación de la energía|Inercia|Acción y reacción|Gravitación|1|Un cuerpo en reposo o con velocidad constante sigue así mientras no actúe una fuerza neta.
+Cuando una persona empuja una pared, la pared empuja a la persona con una fuerza de igual intensidad y sentido contrario. Esto es:|La primera ley de Newton|La ley de Hooke|La tercera ley de Newton|La ley de Ohm|2|Es el principio de acción y reacción.
+¿Cuál es el peso de un cuerpo de 5 kg? (g = 10 m/s²)|5 N|1/2 N|50 N|15 N|2|P = m · g = 5 · 10 = 50 N.
+¿Cuál es el peso de un cuerpo de 20 kg? (g = 10 m/s²)|200 N|2 N|30 N|20 N|0|P = m · g = 20 · 10 = 200 N.
+¿Cuál de estas magnitudes es vectorial?|La fuerza|El tiempo|La masa|La temperatura|0|La fuerza tiene intensidad, dirección y sentido.
+¿Cuál es la unidad de fuerza en el Sistema Internacional?|Pascal|Joule|Newton|Watt|2|La fuerza se mide en newtons (N), 1 N = 1 kg·m/s².
+¿Cuál es el peso de un cuerpo de 3 kg? (g = 10 m/s²)|13 N|3/10 N|30 N|3 N|2|P = m · g = 3 · 10 = 30 N.
+¿Qué fuerza neta hace falta para acelerar una masa de 3 kg a 7 m/s²?|3/7 N|21 N|31 N|10 N|1|F = m · a = 3 · 7 = 21 N.
+Dos personas empujan una caja en sentidos opuestos con 8 N y 3 N. ¿Cuál es la fuerza neta?|11 N|10 N|5 N|24 N|2|Fuerzas de sentidos opuestos se restan: 8 − 3 = 5 N.
+Una caja de 20 kg se apoya sobre un piso horizontal con coeficiente de rozamiento 0,2. ¿Cuánto vale la fuerza de rozamiento? (g = 10 m/s²)|40 N|200 N|4 N|80 N|0|Fr = μ · N = 0,2 · (20 · 10) = 40 N.
+Dos personas empujan una caja en sentidos opuestos con 10 N y 4 N. ¿Cuál es la fuerza neta?|6 N|40 N|14 N|11 N|0|Fuerzas de sentidos opuestos se restan: 10 − 4 = 6 N.
+Dos personas empujan una caja en sentidos opuestos con 20 N y 5 N. ¿Cuál es la fuerza neta?|25 N|100 N|20 N|15 N|3|Fuerzas de sentidos opuestos se restan: 20 − 5 = 15 N.
+Una caja de 8 kg se apoya sobre un piso horizontal con coeficiente de rozamiento 0,25. ¿Cuánto vale la fuerza de rozamiento? (g = 10 m/s²)|80 N|20 N|40 N|2 N|1|Fr = μ · N = 0,25 · (8 · 10) = 20 N.
+Un cuerpo se mueve con velocidad constante. Entonces la fuerza neta sobre él es:|Igual a su peso|Cero|Mayor que cero|Igual a su velocidad|1|Velocidad constante significa aceleración nula, por lo tanto la fuerza neta es 0.
+¿Qué le pasa al peso de una persona en la Luna comparado con la Tierra?|Disminuye porque g es menor|Es igual|Es cero|Aumenta|0|La masa no cambia, pero el peso P = m·g disminuye porque g lunar es menor.
+Sobre un cuerpo de 8 kg actúa una fuerza neta de 40 N. ¿Qué aceleración adquiere?|1/5 m/s²|320 m/s²|7 m/s²|5 m/s²|3|a = F/m = 40/8 = 5 m/s².
+Sobre un cuerpo de 3 kg actúa una fuerza neta de 21 N. ¿Qué aceleración adquiere?|63 m/s²|7 m/s²|9 m/s²|1/7 m/s²|1|a = F/m = 21/3 = 7 m/s².
+Sobre un cuerpo de 4 kg actúa una fuerza neta de 24 N. ¿Qué aceleración adquiere?|6 m/s²|8 m/s²|96 m/s²|1/6 m/s²|0|a = F/m = 24/4 = 6 m/s².
+Una persona de 60 kg está en un ascensor que sube con aceleración de 2 m/s². ¿Qué fuerza ejerce el piso sobre ella? (g = 10 m/s²)|120 N|480 N|720 N|600 N|2|N − P = m·a → N = m(g + a) = 60 · 12 = 720 N.
+Un cuerpo de masa m se acelera con una fuerza F. Si se duplica la masa y se mantiene F, la aceleración:|Se cuadruplica|No cambia|Se duplica|Se reduce a la mitad|3|a = F/m, entonces si m se duplica, a se reduce a la mitad.
+Una bolsa en reposo sobre una mesa tiene un peso de 20 N. ¿Cuánto vale la fuerza normal que ejerce la mesa?|10 N|20 N|0 N|40 N|1|Está en equilibrio: la normal compensa al peso.
+Una cuerda sostiene un cuerpo de 6 kg y lo acelera hacia arriba a 4 m/s². ¿Cuál es la tensión de la cuerda? (g = 10 m/s²)|36 N|84 N|60 N|24 N|1|T − P = m·a → T = m·(g + a) = 6 · 14 = 84 N.
+Se empuja una caja de 10 kg con una fuerza horizontal de 50 N. El coeficiente de rozamiento es 0,2. ¿Qué aceleración tiene? (g = 10 m/s²)|5 m/s²|20 m/s²|7 m/s²|3 m/s²|3|Fr = 20 N; Fneta = 50 − 20 = 30 N; a = 30/10 = 3 m/s².
+Dos fuerzas de 30 N y 40 N actúan sobre un cuerpo formando un ángulo de 90°. ¿Cuánto vale la fuerza resultante?|10 N|35 N|70 N|50 N|3|Por Pitágoras: R = √(30² + 40²) = 50 N.
+Se empuja una caja de 10 kg con una fuerza horizontal de 60 N. El coeficiente de rozamiento es 0,5. ¿Qué aceleración tiene? (g = 10 m/s²)|50 m/s²|11 m/s²|6 m/s²|1 m/s²|3|Fr = 50 N; Fneta = 60 − 50 = 10 N; a = 10/10 = 1 m/s².
+Una persona de 40 kg está en un ascensor que sube con aceleración de 5 m/s². ¿Qué fuerza ejerce el piso sobre ella? (g = 10 m/s²)|200 N|601 N|600 N|400 N|2|N − P = m·a → N = m(g + a) = 40 · 15 = 600 N.
+Una cuerda sostiene un cuerpo de 5 kg y lo acelera hacia arriba a 2 m/s². ¿Cuál es la tensión de la cuerda? (g = 10 m/s²)|60 N|40 N|50 N|10 N|0|T − P = m·a → T = m·(g + a) = 5 · 12 = 60 N.
+Una persona de 50 kg está en un ascensor que sube con aceleración de 1 m/s². ¿Qué fuerza ejerce el piso sobre ella? (g = 10 m/s²)|450 N|50 N|500 N|550 N|3|N − P = m·a → N = m(g + a) = 50 · 11 = 550 N.

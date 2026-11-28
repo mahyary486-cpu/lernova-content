@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-La lluvia normal tiene un pH cercano a 5,6. Una lluvia con pH 4,5 es:|Alcalina fuerte|Neutra|Ácida|Básica|2|Todo pH menor que 7 es ácido; la lluvia ácida suele tener pH menor que 5,6.
-La lluvia normal tiene un pH cercano a 5,6. Una lluvia con pH 5,2 es:|Neutra|Alcalina fuerte|Básica|Ácida|3|Todo pH menor que 7 es ácido; la lluvia ácida suele tener pH menor que 5,6.
-¿Cuál es el principal gas de la atmósfera?|Nitrógeno|Argón|Dióxido de carbono|Oxígeno|0|Constituye cerca del 78 %.
-¿Cuántos moles de CO₂ hay en 440 g? (M = 44 g/mol)|440 mol|0,1 mol|10 mol|20 mol|2|n = m/M = 440/44 = 10 mol.
-¿Qué gas es el principal responsable del calentamiento global antropogénico?|Dióxido de carbono|Nitrógeno|Argón|Oxígeno|0|Proviene de la quema de combustibles fósiles.
-¿Qué contaminante causa la lluvia ácida?|Óxidos de azufre y de nitrógeno|Oxígeno|Helio|Dióxido de carbono solamente|0|Forman ácidos sulfúrico y nítrico.
-¿Cuántos moles de CO₂ hay en 132 g? (M = 44 g/mol)|132 mol|3 mol|0,333 mol|6 mol|1|n = m/M = 132/44 = 3 mol.
-¿Cuántos moles de CO₂ hay en 176 g? (M = 44 g/mol)|8 mol|4 mol|176 mol|0,25 mol|1|n = m/M = 176/44 = 4 mol.
-¿Qué gas destruye la capa de ozono?|Nitrógeno|Clorofluorocarbonos (CFC)|Oxígeno|Dióxido de carbono|1|Fueron prohibidos por el Protocolo de Montreal.
-La lluvia normal tiene un pH cercano a 5,6. Una lluvia con pH 6 es:|Ácida|Alcalina fuerte|Básica|Neutra|0|Todo pH menor que 7 es ácido; la lluvia ácida suele tener pH menor que 5,6.
-Se estima que quemar 1 L de nafta emite unos 2,3 kg de CO₂. ¿Cuántos kg de CO₂ emiten 1 L?|23 kg|2,3 kg|1 kg|1,15 kg|1|m = 2,3 kg/L · 1 L = 2,3 kg.
-¿Qué elemento contamina el agua en algunas zonas de la llanura pampeana de forma natural?|Sodio|Calcio|Hierro|Arsénico|3|Es un problema de salud en el agua subterránea.
-¿Qué es la eutrofización?|El exceso de nutrientes que provoca el crecimiento de algas y baja el oxígeno|La falta de nutrientes|La lluvia ácida|Un tipo de erosión|0|Se asocia a fertilizantes y efluentes.
-Al quemar 5 mol de propano (C₃H₈) se forman, por combustión completa, ¿cuántos gramos de CO₂? (CO₂ = 44 g/mol)|15 g|880 g|660 g|220 g|2|1 mol de C₃H₈ produce 3 mol de CO₂ = 132 g; con 5 mol: 660 g.
-¿Qué es el smog fotoquímico?|Una niebla natural|Vapor de agua|Un gas inocuo|Contaminación con ozono troposférico y óxidos de nitrógeno|3|Se forma con luz solar y emisiones vehiculares.
-¿Qué proceso se usa para potabilizar el agua?|Filtración y cloración|Fermentación|Galvanización|Combustión|0|También decantación.
-Al quemar 3 mol de propano (C₃H₈) se forman, por combustión completa, ¿cuántos gramos de CO₂? (CO₂ = 44 g/mol)|396 g|132 g|528 g|9 g|0|1 mol de C₃H₈ produce 3 mol de CO₂ = 132 g; con 3 mol: 396 g.
-Se estima que quemar 1 L de nafta emite unos 2,3 kg de CO₂. ¿Cuántos kg de CO₂ emiten 10 L?|10 kg|230 kg|23 kg|11,5 kg|2|m = 2,3 kg/L · 10 L = 23 kg.
-¿Qué gas incoloro y tóxico se genera por combustión incompleta?|Nitrógeno|Dióxido de carbono|Monóxido de carbono|Oxígeno|2|Se une a la hemoglobina.
-Se estima que quemar 1 L de nafta emite unos 2,3 kg de CO₂. ¿Cuántos kg de CO₂ emiten 5 L?|5 kg|11,5 kg|115 kg|5,75 kg|1|m = 2,3 kg/L · 5 L = 11,5 kg.
-¿Qué proceso transforma residuos orgánicos en abono?|Destilación|Compostaje|Galvanización|Incineración|1|Lo realizan microorganismos.
-¿Cuál es una ventaja del reciclado del aluminio?|No se puede reciclar|Aumenta los residuos|Ahorra gran parte de la energía respecto de producirlo desde el mineral|Es más caro|2|Ahorra cerca del 95 % de la energía.
-¿Qué es el hidrógeno verde?|Hidrógeno producido por electrólisis con energía renovable|Hidrógeno del petróleo|Hidrógeno de color verde|Un metal|0|No emite CO₂ en su producción.
-¿Qué ley regula la gestión de residuos domiciliarios en la Argentina?|Ley 26.150|Ley 24.240|Ley 27.275|Ley 25.916|3|Establece los presupuestos mínimos para su gestión.
-¿Qué significa «química verde»?|Diseñar procesos que reduzcan o eliminen sustancias peligrosas|Usar solo plantas|Un tipo de clorofila|Pintar de verde|0|Busca prevenir la contaminación.
-¿Qué compuesto es el principal componente del gas natural?|Etanol|Metano|Propano|Butano|1|Es también un gas de efecto invernadero.
-¿Qué fuente de energía no emite CO₂ al generar electricidad?|Eólica|Petróleo|Carbón|Gas|0|Aunque su fabricación tiene impacto.
-¿Qué beneficio tiene el uso de catalizadores en los autos?|Producen CO₂|Aumentan el consumo|Reducen las emisiones de gases tóxicos|Agregan plomo|2|Convierten CO y NOx en CO₂, N₂ y H₂O.
-¿Qué es un residuo peligroso?|Cualquier residuo|El papel|Uno que puede dañar la salud o el ambiente|Los restos de comida|2|Requiere un tratamiento especial.
-¿Qué es la bioacumulación?|La fotosíntesis|La descomposición|La acumulación de sustancias tóxicas en los organismos a lo largo del tiempo|La pérdida de peso|2|Aumenta en los niveles superiores de la cadena trófica.
+La lluvia normal tiene un pH cercano a 5,6. Una lluvia con pH 4,5 es:|Ácida|Básica|Neutra|Alcalina fuerte|0|Todo pH menor que 7 es ácido; la lluvia ácida suele tener pH menor que 5,6.
+La lluvia normal tiene un pH cercano a 5,6. Una lluvia con pH 5,2 es:|Alcalina fuerte|Neutra|Ácida|Básica|2|Todo pH menor que 7 es ácido; la lluvia ácida suele tener pH menor que 5,6.
+¿Cuál es el principal gas de la atmósfera?|Oxígeno|Dióxido de carbono|Argón|Nitrógeno|3|Constituye cerca del 78 %.
+¿Cuántos moles de CO₂ hay en 440 g? (M = 44 g/mol)|0,1 mol|10 mol|440 mol|20 mol|1|n = m/M = 440/44 = 10 mol.
+¿Qué gas es el principal responsable del calentamiento global antropogénico?|Dióxido de carbono|Oxígeno|Argón|Nitrógeno|0|Proviene de la quema de combustibles fósiles.
+¿Qué contaminante causa la lluvia ácida?|Dióxido de carbono solamente|Oxígeno|Helio|Óxidos de azufre y de nitrógeno|3|Forman ácidos sulfúrico y nítrico.
+¿Cuántos moles de CO₂ hay en 132 g? (M = 44 g/mol)|6 mol|0,333 mol|132 mol|3 mol|3|n = m/M = 132/44 = 3 mol.
+¿Cuántos moles de CO₂ hay en 176 g? (M = 44 g/mol)|8 mol|176 mol|4 mol|0,25 mol|2|n = m/M = 176/44 = 4 mol.
+¿Qué gas destruye la capa de ozono?|Oxígeno|Nitrógeno|Dióxido de carbono|Clorofluorocarbonos (CFC)|3|Fueron prohibidos por el Protocolo de Montreal.
+La lluvia normal tiene un pH cercano a 5,6. Una lluvia con pH 6 es:|Alcalina fuerte|Básica|Ácida|Neutra|2|Todo pH menor que 7 es ácido; la lluvia ácida suele tener pH menor que 5,6.
+Se estima que quemar 1 L de nafta emite unos 2,3 kg de CO₂. ¿Cuántos kg de CO₂ emiten 1 L?|1,15 kg|2,3 kg|23 kg|1 kg|1|m = 2,3 kg/L · 1 L = 2,3 kg.
+¿Qué elemento contamina el agua en algunas zonas de la llanura pampeana de forma natural?|Arsénico|Sodio|Calcio|Hierro|0|Es un problema de salud en el agua subterránea.
+¿Qué es la eutrofización?|La lluvia ácida|Un tipo de erosión|La falta de nutrientes|El exceso de nutrientes que provoca el crecimiento de algas y baja el oxígeno|3|Se asocia a fertilizantes y efluentes.
+Al quemar 5 mol de propano (C₃H₈) se forman, por combustión completa, ¿cuántos gramos de CO₂? (CO₂ = 44 g/mol)|880 g|660 g|220 g|15 g|1|1 mol de C₃H₈ produce 3 mol de CO₂ = 132 g; con 5 mol: 660 g.
+¿Qué es el smog fotoquímico?|Un gas inocuo|Vapor de agua|Contaminación con ozono troposférico y óxidos de nitrógeno|Una niebla natural|2|Se forma con luz solar y emisiones vehiculares.
+¿Qué proceso se usa para potabilizar el agua?|Galvanización|Filtración y cloración|Combustión|Fermentación|1|También decantación.
+Al quemar 3 mol de propano (C₃H₈) se forman, por combustión completa, ¿cuántos gramos de CO₂? (CO₂ = 44 g/mol)|396 g|9 g|132 g|528 g|0|1 mol de C₃H₈ produce 3 mol de CO₂ = 132 g; con 3 mol: 396 g.
+Se estima que quemar 1 L de nafta emite unos 2,3 kg de CO₂. ¿Cuántos kg de CO₂ emiten 10 L?|230 kg|23 kg|11,5 kg|10 kg|1|m = 2,3 kg/L · 10 L = 23 kg.
+¿Qué gas incoloro y tóxico se genera por combustión incompleta?|Oxígeno|Nitrógeno|Monóxido de carbono|Dióxido de carbono|2|Se une a la hemoglobina.
+Se estima que quemar 1 L de nafta emite unos 2,3 kg de CO₂. ¿Cuántos kg de CO₂ emiten 5 L?|5,75 kg|11,5 kg|5 kg|115 kg|1|m = 2,3 kg/L · 5 L = 11,5 kg.
+¿Qué proceso transforma residuos orgánicos en abono?|Destilación|Incineración|Compostaje|Galvanización|2|Lo realizan microorganismos.
+¿Cuál es una ventaja del reciclado del aluminio?|Ahorra gran parte de la energía respecto de producirlo desde el mineral|No se puede reciclar|Aumenta los residuos|Es más caro|0|Ahorra cerca del 95 % de la energía.
+¿Qué es el hidrógeno verde?|Hidrógeno de color verde|Un metal|Hidrógeno del petróleo|Hidrógeno producido por electrólisis con energía renovable|3|No emite CO₂ en su producción.
+¿Qué ley regula la gestión de residuos domiciliarios en la Argentina?|Ley 25.916|Ley 24.240|Ley 26.150|Ley 27.275|0|Establece los presupuestos mínimos para su gestión.
+¿Qué significa «química verde»?|Un tipo de clorofila|Usar solo plantas|Diseñar procesos que reduzcan o eliminen sustancias peligrosas|Pintar de verde|2|Busca prevenir la contaminación.
+¿Qué compuesto es el principal componente del gas natural?|Butano|Metano|Etanol|Propano|1|Es también un gas de efecto invernadero.
+¿Qué fuente de energía no emite CO₂ al generar electricidad?|Eólica|Carbón|Gas|Petróleo|0|Aunque su fabricación tiene impacto.
+¿Qué beneficio tiene el uso de catalizadores en los autos?|Producen CO₂|Aumentan el consumo|Agregan plomo|Reducen las emisiones de gases tóxicos|3|Convierten CO y NOx en CO₂, N₂ y H₂O.
+¿Qué es un residuo peligroso?|Los restos de comida|Cualquier residuo|El papel|Uno que puede dañar la salud o el ambiente|3|Requiere un tratamiento especial.
+¿Qué es la bioacumulación?|La fotosíntesis|La acumulación de sustancias tóxicas en los organismos a lo largo del tiempo|La descomposición|La pérdida de peso|1|Aumenta en los niveles superiores de la cadena trófica.

@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-Una onda tiene frecuencia 4 Hz y longitud de onda 10 m. ¿Cuál es su velocidad?|40 m/s|80 m/s|14 m/s|0,4 m/s|0|v = f · λ = 4 · 10 = 40 m/s.
-Un oscilador tiene un período de 5 s. ¿Cuál es su frecuencia?|5 Hz|10 Hz|0,4 Hz|0,2 Hz|3|f = 1/T = 1/5 = 0,2 Hz.
-Un oscilador tiene un período de 0,1 s. ¿Cuál es su frecuencia?|10 Hz|20 Hz|0,1 Hz|0,2 Hz|0|f = 1/T = 1/0,1 = 10 Hz.
-Un oscilador tiene un período de 4 s. ¿Cuál es su frecuencia?|0,5 Hz|8 Hz|0,25 Hz|4 Hz|2|f = 1/T = 1/4 = 0,25 Hz.
-Una onda tiene frecuencia 50 Hz y longitud de onda 6 m. ¿Cuál es su velocidad?|300 m/s|56 m/s|600 m/s|8,333 m/s|0|v = f · λ = 50 · 6 = 300 m/s.
-¿Qué onda necesita un medio material para propagarse?|Los rayos X|La luz|El sonido|Las ondas de radio|2|En el vacío no se propaga.
-Una onda tiene frecuencia 2 Hz y longitud de onda 3 m. ¿Cuál es su velocidad?|5 m/s|6 m/s|12 m/s|0,667 m/s|1|v = f · λ = 2 · 3 = 6 m/s.
-¿Qué transporta una onda?|Carga|Materia|Energía sin transportar materia|Masa|2|Las partículas solo oscilan.
-¿Cuál es la unidad de frecuencia?|Decibel|Metro|Hertz|Segundo|2|1 Hz = 1 oscilación por segundo.
-Una onda tiene frecuencia 5 Hz y longitud de onda 4 m. ¿Cuál es su velocidad?|40 m/s|20 m/s|1,25 m/s|9 m/s|1|v = f · λ = 5 · 4 = 20 m/s.
-Un rayo se ve y el trueno se oye 3 s después. ¿A qué distancia cayó? (v sonido = 340 m/s, la luz llega al instante)|1020 m|113 m|2040 m|1360 m|0|d = v·t = 340 · 3 = 1020 m.
-Una onda de 85 Hz se propaga a 340 m/s. ¿Cuál es su longitud de onda?|0,25 m|4 m|28900 m|8 m|1|λ = v/f = 340/85 = 4 m.
-¿Qué característica del sonido determina que sea grave o agudo?|La amplitud|La velocidad|La frecuencia|El timbre|2|Mayor frecuencia, sonido más agudo.
-¿Qué es el eco?|La refracción|La difracción|La reflexión del sonido|La absorción|2|Se percibe si el retardo supera 0,1 s.
-¿Qué característica determina el volumen del sonido?|La amplitud|La frecuencia|La longitud|El timbre|0|Mayor amplitud implica mayor intensidad.
-Una onda de 50 Hz se propaga a 300 m/s. ¿Cuál es su longitud de onda?|12 m|6 m|0,167 m|15000 m|1|λ = v/f = 300/50 = 6 m.
-Un rayo se ve y el trueno se oye 2 s después. ¿A qué distancia cayó? (v sonido = 340 m/s, la luz llega al instante)|170 m|1020 m|680 m|1360 m|2|d = v·t = 340 · 2 = 680 m.
-Una onda de 300 Hz se propaga a 1500 m/s. ¿Cuál es su longitud de onda?|450000 m|0,2 m|10 m|5 m|3|λ = v/f = 1500/300 = 5 m.
-El rango audible humano es de, aproximadamente:|20 Hz a 20 000 Hz|100 kHz a 1 MHz|1 Hz a 100 Hz|1 kHz a 5 kHz|0|Fuera del rango están el infrasonido y el ultrasonido.
-Una onda de 340 Hz se propaga a 340 m/s. ¿Cuál es su longitud de onda?|2 m|0 m|115600 m|1 m|3|λ = v/f = 340/340 = 1 m.
-Se emite un grito frente a una pared y el eco vuelve a los 4 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|681 m|680 m|1360 m|85 m|1|El sonido recorre ida y vuelta: d = v·t/2 = 340·4/2 = 680 m.
-¿Cuántas veces mayor es la intensidad sonora de 60 dB respecto de 30 dB?|2 veces|1000 veces|30 veces|10000 veces|1|Cada 10 dB la intensidad se multiplica por 10: 10^3 = 1000.
-¿Qué es el efecto Doppler?|La reflexión del sonido|La absorción del sonido|El aumento de volumen|El cambio aparente de frecuencia por el movimiento relativo entre fuente y observador|3|Se oye más agudo cuando la fuente se acerca.
-¿Qué es la resonancia?|El aumento de la amplitud cuando se excita a la frecuencia natural|La reflexión|El eco|La disminución del sonido|0|Puede romper una copa con la frecuencia adecuada.
-¿Cómo cambia la velocidad del sonido con el medio?|Es nula en sólidos|Es igual en todos|Es mayor en sólidos que en gases|Es mayor en gases|2|Las partículas están más cerca en los sólidos.
-¿Cuántas veces mayor es la intensidad sonora de 20 dB respecto de 10 dB?|10 veces|2 veces|20 veces|100 veces|0|Cada 10 dB la intensidad se multiplica por 10: 10^1 = 10.
-¿Para qué se usa el ultrasonido en medicina?|Para obtener ecografías|Para curar infecciones|Para medir la presión|Para producir calor únicamente|0|Se emiten ondas y se registra su eco.
-Se emite un grito frente a una pared y el eco vuelve a los 3 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|510 m|511 m|113 m|1020 m|0|El sonido recorre ida y vuelta: d = v·t/2 = 340·3/2 = 510 m.
-Se emite un grito frente a una pared y el eco vuelve a los 1 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|169 m|340 m|170 m|171 m|2|El sonido recorre ida y vuelta: d = v·t/2 = 340·1/2 = 170 m.
-Se emite un grito frente a una pared y el eco vuelve a los 5 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|68 m|851 m|1700 m|850 m|3|El sonido recorre ida y vuelta: d = v·t/2 = 340·5/2 = 850 m.
+Una onda tiene frecuencia 4 Hz y longitud de onda 10 m. ¿Cuál es su velocidad?|40 m/s|0,4 m/s|80 m/s|14 m/s|0|v = f · λ = 4 · 10 = 40 m/s.
+Un oscilador tiene un período de 5 s. ¿Cuál es su frecuencia?|10 Hz|0,4 Hz|5 Hz|0,2 Hz|3|f = 1/T = 1/5 = 0,2 Hz.
+Un oscilador tiene un período de 0,1 s. ¿Cuál es su frecuencia?|20 Hz|10 Hz|0,1 Hz|0,2 Hz|1|f = 1/T = 1/0,1 = 10 Hz.
+Un oscilador tiene un período de 4 s. ¿Cuál es su frecuencia?|4 Hz|8 Hz|0,5 Hz|0,25 Hz|3|f = 1/T = 1/4 = 0,25 Hz.
+Una onda tiene frecuencia 50 Hz y longitud de onda 6 m. ¿Cuál es su velocidad?|300 m/s|8,333 m/s|56 m/s|600 m/s|0|v = f · λ = 50 · 6 = 300 m/s.
+¿Qué onda necesita un medio material para propagarse?|El sonido|Las ondas de radio|Los rayos X|La luz|0|En el vacío no se propaga.
+Una onda tiene frecuencia 2 Hz y longitud de onda 3 m. ¿Cuál es su velocidad?|0,667 m/s|12 m/s|5 m/s|6 m/s|3|v = f · λ = 2 · 3 = 6 m/s.
+¿Qué transporta una onda?|Materia|Carga|Masa|Energía sin transportar materia|3|Las partículas solo oscilan.
+¿Cuál es la unidad de frecuencia?|Hertz|Metro|Segundo|Decibel|0|1 Hz = 1 oscilación por segundo.
+Una onda tiene frecuencia 5 Hz y longitud de onda 4 m. ¿Cuál es su velocidad?|9 m/s|40 m/s|20 m/s|1,25 m/s|2|v = f · λ = 5 · 4 = 20 m/s.
+Un rayo se ve y el trueno se oye 3 s después. ¿A qué distancia cayó? (v sonido = 340 m/s, la luz llega al instante)|1020 m|1360 m|2040 m|113 m|0|d = v·t = 340 · 3 = 1020 m.
+Una onda de 85 Hz se propaga a 340 m/s. ¿Cuál es su longitud de onda?|28900 m|0,25 m|4 m|8 m|2|λ = v/f = 340/85 = 4 m.
+¿Qué característica del sonido determina que sea grave o agudo?|La velocidad|La frecuencia|El timbre|La amplitud|1|Mayor frecuencia, sonido más agudo.
+¿Qué es el eco?|La refracción|La absorción|La reflexión del sonido|La difracción|2|Se percibe si el retardo supera 0,1 s.
+¿Qué característica determina el volumen del sonido?|La amplitud|El timbre|La longitud|La frecuencia|0|Mayor amplitud implica mayor intensidad.
+Una onda de 50 Hz se propaga a 300 m/s. ¿Cuál es su longitud de onda?|0,167 m|12 m|6 m|15000 m|2|λ = v/f = 300/50 = 6 m.
+Un rayo se ve y el trueno se oye 2 s después. ¿A qué distancia cayó? (v sonido = 340 m/s, la luz llega al instante)|1020 m|170 m|680 m|1360 m|2|d = v·t = 340 · 2 = 680 m.
+Una onda de 300 Hz se propaga a 1500 m/s. ¿Cuál es su longitud de onda?|10 m|0,2 m|5 m|450000 m|2|λ = v/f = 1500/300 = 5 m.
+El rango audible humano es de, aproximadamente:|100 kHz a 1 MHz|20 Hz a 20 000 Hz|1 Hz a 100 Hz|1 kHz a 5 kHz|1|Fuera del rango están el infrasonido y el ultrasonido.
+Una onda de 340 Hz se propaga a 340 m/s. ¿Cuál es su longitud de onda?|2 m|1 m|115600 m|0 m|1|λ = v/f = 340/340 = 1 m.
+Se emite un grito frente a una pared y el eco vuelve a los 4 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|681 m|680 m|85 m|1360 m|1|El sonido recorre ida y vuelta: d = v·t/2 = 340·4/2 = 680 m.
+¿Cuántas veces mayor es la intensidad sonora de 60 dB respecto de 30 dB?|1000 veces|10000 veces|2 veces|30 veces|0|Cada 10 dB la intensidad se multiplica por 10: 10^3 = 1000.
+¿Qué es el efecto Doppler?|La reflexión del sonido|El aumento de volumen|La absorción del sonido|El cambio aparente de frecuencia por el movimiento relativo entre fuente y observador|3|Se oye más agudo cuando la fuente se acerca.
+¿Qué es la resonancia?|El eco|El aumento de la amplitud cuando se excita a la frecuencia natural|La reflexión|La disminución del sonido|1|Puede romper una copa con la frecuencia adecuada.
+¿Cómo cambia la velocidad del sonido con el medio?|Es mayor en gases|Es nula en sólidos|Es mayor en sólidos que en gases|Es igual en todos|2|Las partículas están más cerca en los sólidos.
+¿Cuántas veces mayor es la intensidad sonora de 20 dB respecto de 10 dB?|2 veces|100 veces|10 veces|20 veces|2|Cada 10 dB la intensidad se multiplica por 10: 10^1 = 10.
+¿Para qué se usa el ultrasonido en medicina?|Para producir calor únicamente|Para medir la presión|Para curar infecciones|Para obtener ecografías|3|Se emiten ondas y se registra su eco.
+Se emite un grito frente a una pared y el eco vuelve a los 3 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|510 m|113 m|1020 m|511 m|0|El sonido recorre ida y vuelta: d = v·t/2 = 340·3/2 = 510 m.
+Se emite un grito frente a una pared y el eco vuelve a los 1 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|169 m|170 m|340 m|171 m|1|El sonido recorre ida y vuelta: d = v·t/2 = 340·1/2 = 170 m.
+Se emite un grito frente a una pared y el eco vuelve a los 5 s. ¿A qué distancia está la pared? (velocidad del sonido: 340 m/s)|1700 m|68 m|851 m|850 m|3|El sonido recorre ida y vuelta: d = v·t/2 = 340·5/2 = 850 m.

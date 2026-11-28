@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-Un móvil recorre 450 m en 10 s con velocidad constante. ¿Cuál es su velocidad?|46 m/s|45 m/s|4500 m/s|1/45 m/s|1|v = d/t = 450/10 = 45 m/s.
-Un móvil recorre 90 m en 3 s con velocidad constante. ¿Cuál es su velocidad?|30 m/s|31 m/s|1/30 m/s|270 m/s|0|v = d/t = 90/3 = 30 m/s.
-Un móvil recorre 900 m en 5 s con velocidad constante. ¿Cuál es su velocidad?|180 m/s|181 m/s|1/180 m/s|4500 m/s|0|v = d/t = 900/5 = 180 m/s.
-Expresá 144 km/h en m/s.|518 m/s|144 m/s|40 m/s|41 m/s|2|Se divide por 3,6: 144 ÷ 3,6 = 40 m/s.
-Un ciclista va a 10 m/s constantes. ¿Qué distancia recorre en 30 s?|3 m|301 m|300 m|40 m|2|d = v · t = 10 · 30 = 300 m.
-Un ciclista va a 8 m/s constantes. ¿Qué distancia recorre en 25 s?|25/8 m|33 m|201 m|200 m|3|d = v · t = 8 · 25 = 200 m.
-Expresá 90 km/h en m/s.|90 m/s|25 m/s|324 m/s|26 m/s|1|Se divide por 3,6: 90 ÷ 3,6 = 25 m/s.
-Expresá 54 km/h en m/s.|54 m/s|194 m/s|15 m/s|16 m/s|2|Se divide por 3,6: 54 ÷ 3,6 = 15 m/s.
-Un ciclista va a 20 m/s constantes. ¿Qué distancia recorre en 15 s?|300 m|35 m|3/4 m|301 m|0|d = v · t = 20 · 15 = 300 m.
-Un móvil recorre 600 m en 12 s con velocidad constante. ¿Cuál es su velocidad?|1/50 m/s|50 m/s|7200 m/s|51 m/s|1|v = d/t = 600/12 = 50 m/s.
-Dos ciclistas parten al mismo tiempo desde puntos distantes 100 m y avanzan uno hacia el otro a 6 m/s y 4 m/s. ¿En cuántos segundos se cruzan?|100 s|50/3 s|50 s|10 s|3|La velocidad de acercamiento es 6 + 4 = 10 m/s: t = 100/10 = 10 s.
-Un tren de 200 m de largo avanza a 20 m/s. ¿Cuánto tarda en cruzar completamente un poste?|10 s|4000 s|20 s|5 s|0|Debe recorrer su propia longitud: t = 200/20 = 10 s.
+Un móvil recorre 450 m en 10 s con velocidad constante. ¿Cuál es su velocidad?|1/45 m/s|46 m/s|45 m/s|4500 m/s|2|v = d/t = 450/10 = 45 m/s.
+Un móvil recorre 90 m en 3 s con velocidad constante. ¿Cuál es su velocidad?|31 m/s|1/30 m/s|30 m/s|270 m/s|2|v = d/t = 90/3 = 30 m/s.
+Un móvil recorre 900 m en 5 s con velocidad constante. ¿Cuál es su velocidad?|1/180 m/s|180 m/s|4500 m/s|181 m/s|1|v = d/t = 900/5 = 180 m/s.
+Expresá 144 km/h en m/s.|144 m/s|518 m/s|41 m/s|40 m/s|3|Se divide por 3,6: 144 ÷ 3,6 = 40 m/s.
+Un ciclista va a 10 m/s constantes. ¿Qué distancia recorre en 30 s?|40 m|301 m|3 m|300 m|3|d = v · t = 10 · 30 = 300 m.
+Un ciclista va a 8 m/s constantes. ¿Qué distancia recorre en 25 s?|201 m|33 m|200 m|25/8 m|2|d = v · t = 8 · 25 = 200 m.
+Expresá 90 km/h en m/s.|90 m/s|26 m/s|324 m/s|25 m/s|3|Se divide por 3,6: 90 ÷ 3,6 = 25 m/s.
+Expresá 54 km/h en m/s.|15 m/s|54 m/s|194 m/s|16 m/s|0|Se divide por 3,6: 54 ÷ 3,6 = 15 m/s.
+Un ciclista va a 20 m/s constantes. ¿Qué distancia recorre en 15 s?|300 m|3/4 m|35 m|301 m|0|d = v · t = 20 · 15 = 300 m.
+Un móvil recorre 600 m en 12 s con velocidad constante. ¿Cuál es su velocidad?|51 m/s|50 m/s|7200 m/s|1/50 m/s|1|v = d/t = 600/12 = 50 m/s.
+Dos ciclistas parten al mismo tiempo desde puntos distantes 100 m y avanzan uno hacia el otro a 6 m/s y 4 m/s. ¿En cuántos segundos se cruzan?|100 s|10 s|50/3 s|50 s|1|La velocidad de acercamiento es 6 + 4 = 10 m/s: t = 100/10 = 10 s.
+Un tren de 200 m de largo avanza a 20 m/s. ¿Cuánto tarda en cruzar completamente un poste?|4000 s|10 s|20 s|5 s|1|Debe recorrer su propia longitud: t = 200/20 = 10 s.
 Dos ciclistas parten al mismo tiempo desde puntos distantes 90 m y avanzan uno hacia el otro a 5 m/s y 4 m/s. ¿En cuántos segundos se cruzan?|10 s|11 s|90 s|18 s|0|La velocidad de acercamiento es 5 + 4 = 9 m/s: t = 90/9 = 10 s.
-Un auto parte del reposo con aceleración de 2 m/s². ¿Qué distancia recorre en 5 s?|10 m|26 m|50 m|25 m|3|d = ½·a·t² = ½ · 2 · 5² = 25 m.
-La velocidad de un móvil pasa de 12 m/s a 36 m/s en 6 s. ¿Cuál es su aceleración media?|24 m/s²|8 m/s²|5 m/s²|4 m/s²|3|a = Δv/Δt = (36 − 12)/6 = 4 m/s².
-Un auto va de Buenos Aires a Rosario (300 km) en 4 horas a velocidad constante. ¿Cuál es su velocidad?|80 km/h|70 km/h|75 km/h|1200 km/h|2|v = 300 km ÷ 4 h = 75 km/h.
-Dos ciclistas parten al mismo tiempo desde puntos distantes 500 m y avanzan uno hacia el otro a 30 m/s y 20 m/s. ¿En cuántos segundos se cruzan?|50 s|50/3 s|10 s|500 s|2|La velocidad de acercamiento es 30 + 20 = 50 m/s: t = 500/50 = 10 s.
-¿Qué representa la pendiente de un gráfico distancia-tiempo de un MRU?|La velocidad|La distancia total|La aceleración|El tiempo|0|En un gráfico d-t la pendiente es Δd/Δt, que es la velocidad.
-Un móvil con aceleración constante de 2 m/s² parte con 4 m/s. ¿Qué velocidad tiene luego de 5 s?|14 m/s|50 m/s|6 m/s|10 m/s|0|v = v₀ + a·t = 4 + 2 · 5 = 14 m/s.
-¿Cuál es la característica del movimiento rectilíneo uniforme?|La velocidad aumenta siempre|La velocidad es constante|La aceleración es constante y distinta de cero|El móvil está detenido|1|En el MRU la velocidad no cambia y la aceleración es nula.
-Se deja caer una piedra (g = 10 m/s²) y tarda 1 s en llegar al suelo. ¿Desde qué altura cayó?|10 m|5 m|4 m|6 m|1|h = ½·g·t² = ½ · 10 · 1² = 5 m.
-Un auto recorre 120 km a 40 km/h y luego otros 120 km a 60 km/h. ¿Cuál es su velocidad media en todo el viaje?|100 km/h|50 km/h|53 km/h|48 km/h|3|Tiempo total = 120/40 + 120/60 = 5 h; vm = 240/5 = 48 km/h.
-Un auto que va a 12 m/s frena con desaceleración constante de 3 m/s². ¿Qué distancia recorre hasta detenerse?|144 m|24 m|48 m|4 m|1|v² = v₀² − 2·a·d → d = v₀²/(2a) = 144/6 = 24 m.
-Un auto recorre 150 km a 50 km/h y luego otros 150 km a 75 km/h. ¿Cuál es su velocidad media en todo el viaje?|60 km/h|65 km/h|125 km/h|125/2 km/h|0|Tiempo total = 150/50 + 150/75 = 5 h; vm = 300/5 = 60 km/h.
-Un auto que va a 40 m/s frena con desaceleración constante de 10 m/s². ¿Qué distancia recorre hasta detenerse?|160 m|1600 m|4 m|80 m|3|v² = v₀² − 2·a·d → d = v₀²/(2a) = 1600/20 = 80 m.
-Un auto que va a 30 m/s frena con desaceleración constante de 5 m/s². ¿Qué distancia recorre hasta detenerse?|180 m|900 m|6 m|90 m|3|v² = v₀² − 2·a·d → d = v₀²/(2a) = 900/10 = 90 m.
-¿Qué indica el área bajo la curva de un gráfico velocidad-tiempo?|La energía|La distancia recorrida|La aceleración|La fuerza|1|El área entre la gráfica v-t y el eje del tiempo es el desplazamiento.
-En un MRUV, ¿qué forma tiene el gráfico velocidad-tiempo?|Una recta horizontal|Una recta inclinada|Una parábola|Una hipérbola|1|La velocidad varía linealmente con el tiempo, con pendiente igual a la aceleración.
-Se deja caer una piedra (g = 10 m/s²) y tarda 3 s en llegar al suelo. ¿Desde qué altura cayó?|30 m|90 m|15 m|45 m|3|h = ½·g·t² = ½ · 10 · 3² = 45 m.
-Se deja caer una piedra (g = 10 m/s²) y tarda 2 s en llegar al suelo. ¿Desde qué altura cayó?|20 m|40 m|21 m|10 m|0|h = ½·g·t² = ½ · 10 · 2² = 20 m.
+Un auto parte del reposo con aceleración de 2 m/s². ¿Qué distancia recorre en 5 s?|50 m|26 m|10 m|25 m|3|d = ½·a·t² = ½ · 2 · 5² = 25 m.
+La velocidad de un móvil pasa de 12 m/s a 36 m/s en 6 s. ¿Cuál es su aceleración media?|8 m/s²|4 m/s²|24 m/s²|5 m/s²|1|a = Δv/Δt = (36 − 12)/6 = 4 m/s².
+Un auto va de Buenos Aires a Rosario (300 km) en 4 horas a velocidad constante. ¿Cuál es su velocidad?|1200 km/h|80 km/h|70 km/h|75 km/h|3|v = 300 km ÷ 4 h = 75 km/h.
+Dos ciclistas parten al mismo tiempo desde puntos distantes 500 m y avanzan uno hacia el otro a 30 m/s y 20 m/s. ¿En cuántos segundos se cruzan?|10 s|500 s|50 s|50/3 s|0|La velocidad de acercamiento es 30 + 20 = 50 m/s: t = 500/50 = 10 s.
+¿Qué representa la pendiente de un gráfico distancia-tiempo de un MRU?|La velocidad|La distancia total|El tiempo|La aceleración|0|En un gráfico d-t la pendiente es Δd/Δt, que es la velocidad.
+Un móvil con aceleración constante de 2 m/s² parte con 4 m/s. ¿Qué velocidad tiene luego de 5 s?|6 m/s|50 m/s|14 m/s|10 m/s|2|v = v₀ + a·t = 4 + 2 · 5 = 14 m/s.
+¿Cuál es la característica del movimiento rectilíneo uniforme?|La velocidad aumenta siempre|El móvil está detenido|La velocidad es constante|La aceleración es constante y distinta de cero|2|En el MRU la velocidad no cambia y la aceleración es nula.
+Se deja caer una piedra (g = 10 m/s²) y tarda 1 s en llegar al suelo. ¿Desde qué altura cayó?|4 m|10 m|5 m|6 m|2|h = ½·g·t² = ½ · 10 · 1² = 5 m.
+Un auto recorre 120 km a 40 km/h y luego otros 120 km a 60 km/h. ¿Cuál es su velocidad media en todo el viaje?|50 km/h|48 km/h|53 km/h|100 km/h|1|Tiempo total = 120/40 + 120/60 = 5 h; vm = 240/5 = 48 km/h.
+Un auto que va a 12 m/s frena con desaceleración constante de 3 m/s². ¿Qué distancia recorre hasta detenerse?|48 m|4 m|144 m|24 m|3|v² = v₀² − 2·a·d → d = v₀²/(2a) = 144/6 = 24 m.
+Un auto recorre 150 km a 50 km/h y luego otros 150 km a 75 km/h. ¿Cuál es su velocidad media en todo el viaje?|65 km/h|125/2 km/h|125 km/h|60 km/h|3|Tiempo total = 150/50 + 150/75 = 5 h; vm = 300/5 = 60 km/h.
+Un auto que va a 40 m/s frena con desaceleración constante de 10 m/s². ¿Qué distancia recorre hasta detenerse?|160 m|80 m|1600 m|4 m|1|v² = v₀² − 2·a·d → d = v₀²/(2a) = 1600/20 = 80 m.
+Un auto que va a 30 m/s frena con desaceleración constante de 5 m/s². ¿Qué distancia recorre hasta detenerse?|900 m|6 m|180 m|90 m|3|v² = v₀² − 2·a·d → d = v₀²/(2a) = 900/10 = 90 m.
+¿Qué indica el área bajo la curva de un gráfico velocidad-tiempo?|La distancia recorrida|La energía|La aceleración|La fuerza|0|El área entre la gráfica v-t y el eje del tiempo es el desplazamiento.
+En un MRUV, ¿qué forma tiene el gráfico velocidad-tiempo?|Una parábola|Una hipérbola|Una recta inclinada|Una recta horizontal|2|La velocidad varía linealmente con el tiempo, con pendiente igual a la aceleración.
+Se deja caer una piedra (g = 10 m/s²) y tarda 3 s en llegar al suelo. ¿Desde qué altura cayó?|45 m|15 m|90 m|30 m|0|h = ½·g·t² = ½ · 10 · 3² = 45 m.
+Se deja caer una piedra (g = 10 m/s²) y tarda 2 s en llegar al suelo. ¿Desde qué altura cayó?|40 m|21 m|20 m|10 m|2|h = ½·g·t² = ½ · 10 · 2² = 20 m.

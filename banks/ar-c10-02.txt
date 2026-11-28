@@ -1,29 +1,29 @@
 #EEEEEEEEEMMMMMMMMMMHHHHHHHHH
-¿Cuántos moles hay en 9 g de H₂O? (M = 18 g/mol)|9 mol|0,5 mol|18 mol|1,5 mol|1|n = m/M = 9/18 = 0,5 mol.
-La estequiometría estudia:|La estructura del átomo|Las relaciones cuantitativas entre reactivos y productos|La velocidad de las reacciones|Los cambios de estado|1|Se basa en la ecuación balanceada.
-¿Qué es el reactivo limitante?|El catalizador|El que se consume primero y determina el producto formado|El que sobra|El solvente|1|Limita la cantidad de producto.
-¿Cuántos moles hay en 175,5 g de NaCl? (M = 58,5 g/mol)|4 mol|175,5 mol|58,5 mol|3 mol|3|n = m/M = 175,5/58,5 = 3 mol.
-¿Cuántos moles hay en 400 g de MgO? (M = 40 g/mol)|400 mol|10 mol|11 mol|40 mol|1|n = m/M = 400/40 = 10 mol.
-¿Cuántos moles hay en 88 g de CO₂? (M = 44 g/mol)|3 mol|2 mol|88 mol|44 mol|1|n = m/M = 88/44 = 2 mol.
-El rendimiento de una reacción es 100 % cuando:|Se obtiene la mitad|Hay pérdidas|Se obtiene la cantidad teórica|No hay reacción|2|Rendimiento = real/teórico × 100.
-Según N₂ + 3 H₂ → 2 NH₃, ¿cuántos moles de NH₃ se obtienen con 20 mol de N₂ y H₂ en exceso?|60 mol|40 mol|80 mol|20 mol|1|La relación es 1 mol de N₂ : 2 mol de NH₃ → 40 mol.
-En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 4 mol de C₃H₈? (CO₂ = 44 g/mol)|528 g|12 g|704 g|176 g|0|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 4 mol: 528 g.
-En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 2 mol de C₃H₈? (CO₂ = 44 g/mol)|352 g|264 g|88 g|6 g|1|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 2 mol: 264 g.
+¿Cuántos moles hay en 9 g de H₂O? (M = 18 g/mol)|9 mol|0,5 mol|1,5 mol|18 mol|1|n = m/M = 9/18 = 0,5 mol.
+La estequiometría estudia:|La velocidad de las reacciones|Las relaciones cuantitativas entre reactivos y productos|Los cambios de estado|La estructura del átomo|1|Se basa en la ecuación balanceada.
+¿Qué es el reactivo limitante?|El que sobra|El que se consume primero y determina el producto formado|El catalizador|El solvente|1|Limita la cantidad de producto.
+¿Cuántos moles hay en 175,5 g de NaCl? (M = 58,5 g/mol)|3 mol|58,5 mol|4 mol|175,5 mol|0|n = m/M = 175,5/58,5 = 3 mol.
+¿Cuántos moles hay en 400 g de MgO? (M = 40 g/mol)|40 mol|11 mol|400 mol|10 mol|3|n = m/M = 400/40 = 10 mol.
+¿Cuántos moles hay en 88 g de CO₂? (M = 44 g/mol)|44 mol|2 mol|3 mol|88 mol|1|n = m/M = 88/44 = 2 mol.
+El rendimiento de una reacción es 100 % cuando:|No hay reacción|Hay pérdidas|Se obtiene la mitad|Se obtiene la cantidad teórica|3|Rendimiento = real/teórico × 100.
+Según N₂ + 3 H₂ → 2 NH₃, ¿cuántos moles de NH₃ se obtienen con 20 mol de N₂ y H₂ en exceso?|80 mol|60 mol|40 mol|20 mol|2|La relación es 1 mol de N₂ : 2 mol de NH₃ → 40 mol.
+En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 4 mol de C₃H₈? (CO₂ = 44 g/mol)|528 g|176 g|12 g|704 g|0|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 4 mol: 528 g.
+En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 2 mol de C₃H₈? (CO₂ = 44 g/mol)|264 g|88 g|6 g|352 g|0|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 2 mol: 264 g.
 Según N₂ + 3 H₂ → 2 NH₃, ¿cuántos moles de NH₃ se obtienen con 2 mol de N₂ y H₂ en exceso?|6 mol|8 mol|4 mol|2 mol|2|La relación es 1 mol de N₂ : 2 mol de NH₃ → 4 mol.
-En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 3 mol de C₃H₈? (CO₂ = 44 g/mol)|132 g|9 g|396 g|528 g|2|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 3 mol: 396 g.
-La masa teórica de un producto es 100 g y se obtienen 60 g de manera experimental. ¿Cuál es el rendimiento porcentual?|40 %|60 %|50 %|70 %|1|Rendimiento = real/teórico × 100 = 60/100 × 100 = 60 %.
-Según N₂ + 3 H₂ → 2 NH₃, ¿cuántos moles de NH₃ se obtienen con 4 mol de N₂ y H₂ en exceso?|4 mol|16 mol|8 mol|12 mol|2|La relación es 1 mol de N₂ : 2 mol de NH₃ → 8 mol.
-La masa teórica de un producto es 50 g y se obtienen 40 g de manera experimental. ¿Cuál es el rendimiento porcentual?|20 %|80 %|70 %|90 %|1|Rendimiento = real/teórico × 100 = 40/50 × 100 = 80 %.
-La masa teórica de un producto es 45 g y se obtienen 40 g de manera experimental. ¿Cuál es el rendimiento porcentual?|10 %|100 %|90 %|80 %|2|Rendimiento = real/teórico × 100 = 40/45 × 100 = 90 %.
-En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 1 mol de C₃H₈? (CO₂ = 44 g/mol)|132 g|44 g|3 g|176 g|0|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 1 mol: 132 g.
-¿Qué es el reactivo en exceso?|El producto|El catalizador|El que se consume totalmente|El que sobra al terminar la reacción|3|Queda sin reaccionar.
+En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 3 mol de C₃H₈? (CO₂ = 44 g/mol)|132 g|9 g|528 g|396 g|3|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 3 mol: 396 g.
+La masa teórica de un producto es 100 g y se obtienen 60 g de manera experimental. ¿Cuál es el rendimiento porcentual?|70 %|60 %|40 %|50 %|1|Rendimiento = real/teórico × 100 = 60/100 × 100 = 60 %.
+Según N₂ + 3 H₂ → 2 NH₃, ¿cuántos moles de NH₃ se obtienen con 4 mol de N₂ y H₂ en exceso?|4 mol|12 mol|16 mol|8 mol|3|La relación es 1 mol de N₂ : 2 mol de NH₃ → 8 mol.
+La masa teórica de un producto es 50 g y se obtienen 40 g de manera experimental. ¿Cuál es el rendimiento porcentual?|20 %|90 %|70 %|80 %|3|Rendimiento = real/teórico × 100 = 40/50 × 100 = 80 %.
+La masa teórica de un producto es 45 g y se obtienen 40 g de manera experimental. ¿Cuál es el rendimiento porcentual?|10 %|80 %|90 %|100 %|2|Rendimiento = real/teórico × 100 = 40/45 × 100 = 90 %.
+En C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O, ¿cuántos gramos de CO₂ se producen a partir de 1 mol de C₃H₈? (CO₂ = 44 g/mol)|44 g|132 g|176 g|3 g|1|Por 1 mol de C₃H₈ se forman 3 mol de CO₂ = 132 g; con 1 mol: 132 g.
+¿Qué es el reactivo en exceso?|El que sobra al terminar la reacción|El que se consume totalmente|El producto|El catalizador|0|Queda sin reaccionar.
 Según N₂ + 3 H₂ → 2 NH₃, ¿cuántos moles de NH₃ se obtienen con 10 mol de N₂ y H₂ en exceso?|20 mol|30 mol|10 mol|40 mol|0|La relación es 1 mol de N₂ : 2 mol de NH₃ → 20 mol.
-¿Cuántas moléculas hay en 64 g de una sustancia de masa molar 32 g/mol? (NA = 6,02 × 10²³)|2 × 10²³|6,02 × 10²³|12,04 × 10²³|120,4 × 10²³|2|n = 64/32 = 2 mol; N = n·NA = 12,04 × 10²³.
+¿Cuántas moléculas hay en 64 g de una sustancia de masa molar 32 g/mol? (NA = 6,02 × 10²³)|6,02 × 10²³|2 × 10²³|12,04 × 10²³|120,4 × 10²³|2|n = 64/32 = 2 mol; N = n·NA = 12,04 × 10²³.
 Se mezclan 10 mol de H₂ y 4 mol de O₂ para formar agua (2 H₂ + O₂ → 2 H₂O). ¿Cuántos moles de H₂O se forman como máximo?|10 mol|14 mol|8 mol|9 mol|2|El reactivo limitante determina la cantidad: de H₂ saldrían 10 mol y de O₂ 8 mol; el menor es 8 mol.
-Se mezclan 6 mol de H₂ y 5 mol de O₂ para formar agua (2 H₂ + O₂ → 2 H₂O). ¿Cuántos moles de H₂O se forman como máximo?|11 mol|7 mol|6 mol|12 mol|2|El reactivo limitante determina la cantidad: de H₂ saldrían 6 mol y de O₂ 10 mol; el menor es 6 mol.
+Se mezclan 6 mol de H₂ y 5 mol de O₂ para formar agua (2 H₂ + O₂ → 2 H₂O). ¿Cuántos moles de H₂O se forman como máximo?|11 mol|7 mol|12 mol|6 mol|3|El reactivo limitante determina la cantidad: de H₂ saldrían 6 mol y de O₂ 10 mol; el menor es 6 mol.
 ¿Cuántas moléculas hay en 88 g de una sustancia de masa molar 44 g/mol? (NA = 6,02 × 10²³)|120,4 × 10²³|6,02 × 10²³|12,04 × 10²³|2 × 10²³|2|n = 88/44 = 2 mol; N = n·NA = 12,04 × 10²³.
-¿Por qué el rendimiento real suele ser menor que el teórico?|Por pérdidas, reacciones incompletas y reacciones secundarias|Porque aumenta la masa|Porque cambia la ley de Lavoisier|Porque se crea materia|0|Es habitual en laboratorio e industria.
-¿Cuántas moléculas hay en 200 g de una sustancia de masa molar 100 g/mol? (NA = 6,02 × 10²³)|12,04 × 10²³|2 × 10²³|120,4 × 10²³|6,02 × 10²³|0|n = 200/100 = 2 mol; N = n·NA = 12,04 × 10²³.
-Se mezclan 6 mol de H₂ y 2 mol de O₂ para formar agua (2 H₂ + O₂ → 2 H₂O). ¿Cuántos moles de H₂O se forman como máximo?|6 mol|8 mol|5 mol|4 mol|3|El reactivo limitante determina la cantidad: de H₂ saldrían 6 mol y de O₂ 4 mol; el menor es 4 mol.
-La masa de un compuesto que contiene 40 % de calcio, 12 % de carbono y 48 % de oxígeno es consistente con:|CaCO₃|CO₂|CaO|Ca(OH)₂|0|40/100 de Ca, 12/100 de C y 48/100 de O corresponden a CaCO₃.
-Se mezclan 4 mol de H₂ y 3 mol de O₂ para formar agua (2 H₂ + O₂ → 2 H₂O). ¿Cuántos moles de H₂O se forman como máximo?|4 mol|5 mol|7 mol|8 mol|0|El reactivo limitante determina la cantidad: de H₂ saldrían 4 mol y de O₂ 6 mol; el menor es 4 mol.
+¿Por qué el rendimiento real suele ser menor que el teórico?|Por pérdidas, reacciones incompletas y reacciones secundarias|Porque cambia la ley de Lavoisier|Porque se crea materia|Porque aumenta la masa|0|Es habitual en laboratorio e industria.
+¿Cuántas moléculas hay en 200 g de una sustancia de masa molar 100 g/mol? (NA = 6,02 × 10²³)|2 × 10²³|120,4 × 10²³|12,04 × 10²³|6,02 × 10²³|2|n = 200/100 = 2 mol; N = n·NA = 12,04 × 10²³.
+Se mezclan 6 mol de H₂ y 2 mol de O₂ para formar agua (2 H₂ + O₂ → 2 H₂O). ¿Cuántos moles de H₂O se forman como máximo?|8 mol|5 mol|6 mol|4 mol|3|El reactivo limitante determina la cantidad: de H₂ saldrían 6 mol y de O₂ 4 mol; el menor es 4 mol.
+La masa de un compuesto que contiene 40 % de calcio, 12 % de carbono y 48 % de oxígeno es consistente con:|CaO|CaCO₃|Ca(OH)₂|CO₂|1|40/100 de Ca, 12/100 de C y 48/100 de O corresponden a CaCO₃.
+Se mezclan 4 mol de H₂ y 3 mol de O₂ para formar agua (2 H₂ + O₂ → 2 H₂O). ¿Cuántos moles de H₂O se forman como máximo?|4 mol|7 mol|5 mol|8 mol|0|El reactivo limitante determina la cantidad: de H₂ saldrían 4 mol y de O₂ 6 mol; el menor es 4 mol.

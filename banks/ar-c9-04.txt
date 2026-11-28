@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Cuál es el producto de la combustión completa de un hidrocarburo?|Solo agua|Dióxido de carbono y agua|Monóxido de carbono y hollín|Solo hidrógeno|1|CH₄ + 2 O₂ → CO₂ + 2 H₂O.
-En una reacción reaccionan 40 g de A con 16 g de B y se forma un único producto. ¿Qué masa de producto se obtiene?|24 g|64 g|66 g|56 g|3|Ley de conservación de la masa (Lavoisier): la masa total se conserva: 40 + 16 = 56 g.
-Un catalizador es una sustancia que:|Cambia la masa total|Acelera una reacción sin consumirse|Se consume totalmente|Detiene la reacción|1|Disminuye la energía de activación.
-En una ecuación química, ¿qué se escribe a la derecha de la flecha?|Los reactivos|Los productos|Los gases nobles|Los neutrones|1|Son las sustancias que se forman.
+¿Cuál es el producto de la combustión completa de un hidrocarburo?|Solo agua|Monóxido de carbono y hollín|Solo hidrógeno|Dióxido de carbono y agua|3|CH₄ + 2 O₂ → CO₂ + 2 H₂O.
+En una reacción reaccionan 40 g de A con 16 g de B y se forma un único producto. ¿Qué masa de producto se obtiene?|56 g|64 g|24 g|66 g|0|Ley de conservación de la masa (Lavoisier): la masa total se conserva: 40 + 16 = 56 g.
+Un catalizador es una sustancia que:|Se consume totalmente|Cambia la masa total|Acelera una reacción sin consumirse|Detiene la reacción|2|Disminuye la energía de activación.
+En una ecuación química, ¿qué se escribe a la derecha de la flecha?|Los gases nobles|Los reactivos|Los productos|Los neutrones|2|Son las sustancias que se forman.
 En una ecuación química, ¿qué se escribe a la izquierda de la flecha?|Los isótopos|Los reactivos|Los catalizadores|Los productos|1|Los reactivos son las sustancias que se transforman.
-¿Quién enunció la ley de conservación de la masa?|Darwin|Newton|Lavoisier|Mendel|2|Antoine Lavoisier, en el siglo XVIII.
-En una reacción reaccionan 18 g de A con 25 g de B y se forma un único producto. ¿Qué masa de producto se obtiene?|43 g|7 g|53 g|45 g|0|Ley de conservación de la masa (Lavoisier): la masa total se conserva: 18 + 25 = 43 g.
-La oxidación del hierro (formación de óxido) es:|Un cambio de estado|Una mezcla|Un cambio físico|Un cambio químico|3|Se forma una sustancia nueva, el óxido de hierro.
-En una reacción reaccionan 9 g de A con 28 g de B y se forma un único producto. ¿Qué masa de producto se obtiene?|47 g|25 g|37 g|19 g|2|Ley de conservación de la masa (Lavoisier): la masa total se conserva: 9 + 28 = 37 g.
-¿Qué gas se necesita para que ocurra una combustión?|Argón|Nitrógeno|Helio|Oxígeno|3|El comburente es el oxígeno.
-¿Cuáles son los coeficientes que balancean la ecuación H₂ + O₂ → H₂O? (en orden)|1, 1, 1|2, 1, 2|2, 2, 2|1, 1, 2|1|Se igualan los átomos de cada elemento: 2 H₂ + O₂ → 2 H₂O.
-Una reacción que libera calor se llama:|Endotérmica|Exotérmica|Reversible|Neutra|1|Exo significa hacia afuera: libera energía.
-¿Cuáles son los coeficientes que balancean la ecuación Na + Cl₂ → NaCl? (en orden)|1, 1, 1|2, 1, 2|2, 2, 2|1, 2, 1|1|Se igualan los átomos de cada elemento: 2 Na + Cl₂ → 2 NaCl.
-¿Cuáles son los coeficientes que balancean la ecuación CH₄ + O₂ → CO₂ + H₂O? (en orden)|1, 2, 1, 2|1, 2, 2, 1|2, 1, 1, 2|1, 1, 1, 1|0|Se igualan los átomos de cada elemento: CH₄ + 2 O₂ → CO₂ + 2 H₂O.
-La reacción 2 H₂O → 2 H₂ + O₂ es de:|Combustión|Neutralización|Síntesis|Descomposición|3|Una sustancia se divide en otras más simples.
-¿Cuáles son los coeficientes que balancean la ecuación N₂ + H₂ → NH₃? (en orden)|2, 3, 2|1, 3, 2|1, 1, 1|1, 2, 3|1|Se igualan los átomos de cada elemento: N₂ + 3 H₂ → 2 NH₃.
-La reacción A + B → AB es de:|Desplazamiento|Síntesis|Doble sustitución|Descomposición|1|Dos sustancias se combinan en una.
-En una reacción se forman 120 g de productos a partir de 70 g de un reactivo. ¿Qué masa tiene el otro reactivo?|120 g|70 g|190 g|50 g|3|Masa de reactivos = masa de productos: 120 − 70 = 50 g.
-Una reacción que absorbe calor del ambiente se llama:|Neutralización|Endotérmica|Combustión|Exotérmica|1|Endo significa hacia adentro.
-En una reacción se forman 80 g de productos a partir de 30 g de un reactivo. ¿Qué masa tiene el otro reactivo?|30 g|110 g|50 g|80 g|2|Masa de reactivos = masa de productos: 80 − 30 = 50 g.
-¿Cuáles son los coeficientes que balancean la ecuación Fe + O₂ → Fe₂O₃? (en orden)|4, 2, 3|2, 3, 2|4, 3, 2|1, 1, 1|2|Se igualan los átomos de cada elemento: 4 Fe + 3 O₂ → 2 Fe₂O₃.
-¿Cuántas moléculas de agua se forman a partir de 2 moléculas de O₂ según 2 H₂ + O₂ → 2 H₂O?|1|2|8|4|3|Por cada O₂ se forman 2 H₂O; con 2 O₂ se forman 4 H₂O.
-En la ecuación 2 H₂ + O₂ → 2 H₂O, ¿cuántos átomos de hidrógeno hay en los reactivos?|1|4|6|2|1|2 moléculas de H₂ tienen 2 × 2 = 4 átomos.
-¿Por qué es necesario balancear una ecuación química?|Para que sea exotérmica|Para cambiar los productos|Para que reaccione más rápido|Para respetar la conservación de la masa|3|Debe haber igual cantidad de átomos de cada elemento en ambos miembros.
-¿Cuál de estos factores aumenta la velocidad de una reacción?|Disminuir la temperatura|Quitar el catalizador|Aumentar la temperatura|Disminuir la superficie de contacto|2|Más temperatura implica más choques efectivos.
-¿Cuáles son los coeficientes que balancean la ecuación Mg + O₂ → MgO? (en orden)|1, 2, 2|2, 1, 2|1, 1, 1|2, 2, 1|1|Se igualan los átomos de cada elemento: 2 Mg + O₂ → 2 MgO.
-La reacción HCl + NaOH → NaCl + H₂O es una:|Combustión|Síntesis|Descomposición|Neutralización|3|Un ácido y una base forman una sal y agua.
-¿Cuáles son los coeficientes que balancean la ecuación Al + O₂ → Al₂O₃? (en orden)|2, 3, 2|4, 3, 2|1, 1, 1|2, 2, 1|1|Se igualan los átomos de cada elemento: 4 Al + 3 O₂ → 2 Al₂O₃.
-¿Cuáles son los coeficientes que balancean la ecuación H₂O₂ → H₂O + O₂? (en orden)|2, 1, 1|1, 1, 1|2, 2, 1|1, 2, 1|2|Se igualan los átomos de cada elemento: 2 H₂O₂ → 2 H₂O + O₂.
-¿Cuáles son los coeficientes que balancean la ecuación C₃H₈ + O₂ → CO₂ + H₂O? (en orden)|2, 5, 3, 4|1, 5, 3, 4|1, 3, 3, 4|1, 5, 4, 3|1|Se igualan los átomos de cada elemento: C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O.
+¿Quién enunció la ley de conservación de la masa?|Darwin|Newton|Mendel|Lavoisier|3|Antoine Lavoisier, en el siglo XVIII.
+En una reacción reaccionan 18 g de A con 25 g de B y se forma un único producto. ¿Qué masa de producto se obtiene?|43 g|45 g|53 g|7 g|0|Ley de conservación de la masa (Lavoisier): la masa total se conserva: 18 + 25 = 43 g.
+La oxidación del hierro (formación de óxido) es:|Un cambio físico|Un cambio químico|Una mezcla|Un cambio de estado|1|Se forma una sustancia nueva, el óxido de hierro.
+En una reacción reaccionan 9 g de A con 28 g de B y se forma un único producto. ¿Qué masa de producto se obtiene?|37 g|47 g|25 g|19 g|0|Ley de conservación de la masa (Lavoisier): la masa total se conserva: 9 + 28 = 37 g.
+¿Qué gas se necesita para que ocurra una combustión?|Argón|Oxígeno|Nitrógeno|Helio|1|El comburente es el oxígeno.
+¿Cuáles son los coeficientes que balancean la ecuación H₂ + O₂ → H₂O? (en orden)|2, 1, 2|2, 2, 2|1, 1, 2|1, 1, 1|0|Se igualan los átomos de cada elemento: 2 H₂ + O₂ → 2 H₂O.
+Una reacción que libera calor se llama:|Neutra|Endotérmica|Exotérmica|Reversible|2|Exo significa hacia afuera: libera energía.
+¿Cuáles son los coeficientes que balancean la ecuación Na + Cl₂ → NaCl? (en orden)|1, 2, 1|2, 2, 2|1, 1, 1|2, 1, 2|3|Se igualan los átomos de cada elemento: 2 Na + Cl₂ → 2 NaCl.
+¿Cuáles son los coeficientes que balancean la ecuación CH₄ + O₂ → CO₂ + H₂O? (en orden)|1, 2, 2, 1|2, 1, 1, 2|1, 2, 1, 2|1, 1, 1, 1|2|Se igualan los átomos de cada elemento: CH₄ + 2 O₂ → CO₂ + 2 H₂O.
+La reacción 2 H₂O → 2 H₂ + O₂ es de:|Síntesis|Combustión|Neutralización|Descomposición|3|Una sustancia se divide en otras más simples.
+¿Cuáles son los coeficientes que balancean la ecuación N₂ + H₂ → NH₃? (en orden)|1, 2, 3|2, 3, 2|1, 3, 2|1, 1, 1|2|Se igualan los átomos de cada elemento: N₂ + 3 H₂ → 2 NH₃.
+La reacción A + B → AB es de:|Descomposición|Desplazamiento|Doble sustitución|Síntesis|3|Dos sustancias se combinan en una.
+En una reacción se forman 120 g de productos a partir de 70 g de un reactivo. ¿Qué masa tiene el otro reactivo?|190 g|50 g|120 g|70 g|1|Masa de reactivos = masa de productos: 120 − 70 = 50 g.
+Una reacción que absorbe calor del ambiente se llama:|Endotérmica|Combustión|Neutralización|Exotérmica|0|Endo significa hacia adentro.
+En una reacción se forman 80 g de productos a partir de 30 g de un reactivo. ¿Qué masa tiene el otro reactivo?|30 g|50 g|80 g|110 g|1|Masa de reactivos = masa de productos: 80 − 30 = 50 g.
+¿Cuáles son los coeficientes que balancean la ecuación Fe + O₂ → Fe₂O₃? (en orden)|1, 1, 1|2, 3, 2|4, 2, 3|4, 3, 2|3|Se igualan los átomos de cada elemento: 4 Fe + 3 O₂ → 2 Fe₂O₃.
+¿Cuántas moléculas de agua se forman a partir de 2 moléculas de O₂ según 2 H₂ + O₂ → 2 H₂O?|1|8|4|2|2|Por cada O₂ se forman 2 H₂O; con 2 O₂ se forman 4 H₂O.
+En la ecuación 2 H₂ + O₂ → 2 H₂O, ¿cuántos átomos de hidrógeno hay en los reactivos?|6|4|2|1|1|2 moléculas de H₂ tienen 2 × 2 = 4 átomos.
+¿Por qué es necesario balancear una ecuación química?|Para que sea exotérmica|Para respetar la conservación de la masa|Para cambiar los productos|Para que reaccione más rápido|1|Debe haber igual cantidad de átomos de cada elemento en ambos miembros.
+¿Cuál de estos factores aumenta la velocidad de una reacción?|Disminuir la temperatura|Quitar el catalizador|Disminuir la superficie de contacto|Aumentar la temperatura|3|Más temperatura implica más choques efectivos.
+¿Cuáles son los coeficientes que balancean la ecuación Mg + O₂ → MgO? (en orden)|1, 1, 1|1, 2, 2|2, 2, 1|2, 1, 2|3|Se igualan los átomos de cada elemento: 2 Mg + O₂ → 2 MgO.
+La reacción HCl + NaOH → NaCl + H₂O es una:|Neutralización|Síntesis|Combustión|Descomposición|0|Un ácido y una base forman una sal y agua.
+¿Cuáles son los coeficientes que balancean la ecuación Al + O₂ → Al₂O₃? (en orden)|4, 3, 2|2, 3, 2|2, 2, 1|1, 1, 1|0|Se igualan los átomos de cada elemento: 4 Al + 3 O₂ → 2 Al₂O₃.
+¿Cuáles son los coeficientes que balancean la ecuación H₂O₂ → H₂O + O₂? (en orden)|1, 2, 1|2, 1, 1|2, 2, 1|1, 1, 1|2|Se igualan los átomos de cada elemento: 2 H₂O₂ → 2 H₂O + O₂.
+¿Cuáles son los coeficientes que balancean la ecuación C₃H₈ + O₂ → CO₂ + H₂O? (en orden)|2, 5, 3, 4|1, 5, 3, 4|1, 5, 4, 3|1, 3, 3, 4|1|Se igualan los átomos de cada elemento: C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O.

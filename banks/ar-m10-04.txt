@@ -1,51 +1,51 @@
 #EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
-¿Cuál es la coordenada x del vértice de y = −x² + 6x − 2?|3|6|−6|−3|0|xᵥ = −b/(2a) = −(6)/(2 · (−1)) = 3.
-La parábola y = 3x² + 5x − 1, ¿hacia dónde abre sus ramas?|Hacia abajo|Hacia la derecha|Hacia arriba|Hacia la izquierda|2|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 3.
-Si f(x) = 2x² − 3x + 5, ¿cuánto vale f(−2)?|19|29|7|−19|0|f(−2) = 2·4 + (−3)·(−2) + 5 = 19.
-¿Cuál es la coordenada x del vértice de y = 3x² − 30x − 3?|−30|−10|−5|5|3|xᵥ = −b/(2a) = −(−30)/(2 · 3) = 5.
-Si f(x) = 2x² − x + 5, ¿cuánto vale f(−3)?|36|26|−26|2|1|f(−3) = 2·9 + (−1)·(−3) + 5 = 26.
-¿Cuál es la coordenada x del vértice de y = −2x² − 20x − 5?|−5|5|−20|10|0|xᵥ = −b/(2a) = −(−20)/(2 · (−2)) = −5.
-¿Cuál es la coordenada x del vértice de y = 3x² − 6x + 3?|−1|−2|1|−6|2|xᵥ = −b/(2a) = −(−6)/(2 · 3) = 1.
-¿En qué punto corta al eje y la parábola y = x² + 4?|(0; −4)|(0; 0)|(0; 4)|(0; 1)|2|Cuando x = 0, y = c = 4.
-¿En qué punto corta al eje y la parábola y = −2x² + 5x − 9?|(0; −9)|(0; 9)|(0; −2)|(0; 5)|0|Cuando x = 0, y = c = −9.
-¿En qué punto corta al eje y la parábola y = 3x² + 6x − 1?|(0; −1)|(0; 1)|(0; 3)|(0; 6)|0|Cuando x = 0, y = c = −1.
-¿Cuál es la coordenada x del vértice de y = −x² − 4x + 5?|2|−4|4|−2|3|xᵥ = −b/(2a) = −(−4)/(2 · (−1)) = −2.
-La parábola y = 3x² − 6x − 4, ¿hacia dónde abre sus ramas?|Hacia la izquierda|Hacia abajo|Hacia la derecha|Hacia arriba|3|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 3.
-La parábola y = x² + 4x + 2, ¿hacia dónde abre sus ramas?|Hacia arriba|Hacia la derecha|Hacia abajo|Hacia la izquierda|0|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 1.
-Si f(x) = x² − x − 2, ¿cuánto vale f(−3)?|−10|10|−2|6|1|f(−3) = 1·9 + (−1)·(−3) + (−2) = 10.
-La parábola y = 3x² − x − 1, ¿hacia dónde abre sus ramas?|Hacia la derecha|Hacia abajo|Hacia arriba|Hacia la izquierda|2|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 3.
-¿En qué punto corta al eje y la parábola y = x² + 3x + 4?|(0; 3)|(0; 4)|(0; −4)|(0; 1)|1|Cuando x = 0, y = c = 4.
+¿Cuál es la coordenada x del vértice de y = −x² + 6x − 2?|−3|−6|6|3|3|xᵥ = −b/(2a) = −(6)/(2 · (−1)) = 3.
+La parábola y = 3x² + 5x − 1, ¿hacia dónde abre sus ramas?|Hacia la derecha|Hacia la izquierda|Hacia arriba|Hacia abajo|2|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 3.
+Si f(x) = 2x² − 3x + 5, ¿cuánto vale f(−2)?|−19|7|19|29|2|f(−2) = 2·4 + (−3)·(−2) + 5 = 19.
+¿Cuál es la coordenada x del vértice de y = 3x² − 30x − 3?|5|−10|−5|−30|0|xᵥ = −b/(2a) = −(−30)/(2 · 3) = 5.
+Si f(x) = 2x² − x + 5, ¿cuánto vale f(−3)?|2|36|26|−26|2|f(−3) = 2·9 + (−1)·(−3) + 5 = 26.
+¿Cuál es la coordenada x del vértice de y = −2x² − 20x − 5?|5|10|−20|−5|3|xᵥ = −b/(2a) = −(−20)/(2 · (−2)) = −5.
+¿Cuál es la coordenada x del vértice de y = 3x² − 6x + 3?|1|−2|−1|−6|0|xᵥ = −b/(2a) = −(−6)/(2 · 3) = 1.
+¿En qué punto corta al eje y la parábola y = x² + 4?|(0; 1)|(0; 4)|(0; −4)|(0; 0)|1|Cuando x = 0, y = c = 4.
+¿En qué punto corta al eje y la parábola y = −2x² + 5x − 9?|(0; 5)|(0; −9)|(0; −2)|(0; 9)|1|Cuando x = 0, y = c = −9.
+¿En qué punto corta al eje y la parábola y = 3x² + 6x − 1?|(0; 3)|(0; 1)|(0; 6)|(0; −1)|3|Cuando x = 0, y = c = −1.
+¿Cuál es la coordenada x del vértice de y = −x² − 4x + 5?|2|−4|−2|4|2|xᵥ = −b/(2a) = −(−4)/(2 · (−1)) = −2.
+La parábola y = 3x² − 6x − 4, ¿hacia dónde abre sus ramas?|Hacia abajo|Hacia la izquierda|Hacia arriba|Hacia la derecha|2|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 3.
+La parábola y = x² + 4x + 2, ¿hacia dónde abre sus ramas?|Hacia abajo|Hacia arriba|Hacia la derecha|Hacia la izquierda|1|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 1.
+Si f(x) = x² − x − 2, ¿cuánto vale f(−3)?|−2|10|−10|6|1|f(−3) = 1·9 + (−1)·(−3) + (−2) = 10.
+La parábola y = 3x² − x − 1, ¿hacia dónde abre sus ramas?|Hacia la derecha|Hacia abajo|Hacia la izquierda|Hacia arriba|3|Si a > 0 abre hacia arriba y si a < 0 hacia abajo. Aquí a = 3.
+¿En qué punto corta al eje y la parábola y = x² + 3x + 4?|(0; 4)|(0; 3)|(0; −4)|(0; 1)|0|Cuando x = 0, y = c = 4.
 Si f(x) = −x² + 3x − 5, ¿cuánto vale f(−1)?|9|−7|−9|−19|2|f(−1) = (−1)·1 + 3·(−1) + (−5) = −9.
-Una parábola tiene vértice en (−3; 1). ¿Cuál es la ecuación de su eje de simetría?|x = −3|y = 3|x = 3|y = −3|0|El eje de simetría es la recta vertical que pasa por el vértice: x = xᵥ = −3.
-¿Cuáles son las raíces de f(x) = x² + 2x − 15?|5 y −3|−5 y 3|−15 y 1|−5 y −3|1|Se resuelve f(x) = 0 y se obtiene x = −5 o x = 3.
-¿Cuáles son las coordenadas del vértice de y = −x² − 8x − 21?|(−5; −4)|(−4; 5)|(−4; −5)|(4; −5)|2|xᵥ = −b/(2a) = −4 y yᵥ = f(−4) = −5.
-¿Cuáles son las raíces de f(x) = x² − 3x − 10?|2 y −5|−2 y 5|−2 y −5|−10 y 1|1|Se resuelve f(x) = 0 y se obtiene x = −2 o x = 5.
-Escribí en forma factorizada f(x) = 3x² − 3x − 36.|3(x − 3)(x + 4)|(x + 3)(x − 4)|3(x + 3)(x − 4)|−3(x + 3)(x − 4)|2|Las raíces son −3 y 4 y el coeficiente principal es a = 3: f(x) = a(x − x₁)(x − x₂).
-¿Cuáles son las coordenadas del vértice de y = x² − 10x + 31?|(5; 6)|(6; 5)|(5; −6)|(−5; 6)|0|xᵥ = −b/(2a) = 5 y yᵥ = f(5) = 6.
-¿Cuáles son las raíces de f(x) = x² + 7x + 10?|−5 y −2|5 y 2|10 y 1|−5 y 2|0|Se resuelve f(x) = 0 y se obtiene x = −5 o x = −2.
-¿Cuáles son las coordenadas del vértice de y = −3x² − 18x − 25?|(2; −3)|(3; 2)|(−3; −2)|(−3; 2)|3|xᵥ = −b/(2a) = −3 y yᵥ = f(−3) = 2.
-Una parábola tiene vértice en (1; 0). ¿Cuál es la ecuación de su eje de simetría?|y = −1|y = 1|x = −1|x = 1|3|El eje de simetría es la recta vertical que pasa por el vértice: x = xᵥ = 1.
-Una parábola tiene vértice en (3; −3). ¿Cuál es la ecuación de su eje de simetría?|x = −3|x = 3|y = 3|y = −3|1|El eje de simetría es la recta vertical que pasa por el vértice: x = xᵥ = 3.
-Escribí en forma factorizada f(x) = −x² + 9.|(x − 3)(x + 3)|−(x + 3)(x − 3)|(x − 3)(x + 2)|−(x − 3)(x + 3)|3|Las raíces son 3 y −3 y el coeficiente principal es a = −1: f(x) = a(x − x₁)(x − x₂).
-¿Cuáles son las raíces de f(x) = 2x² − 4x − 16?|2 y −4|−16 y 2|−2 y −4|−2 y 4|3|Se resuelve f(x) = 0 y se obtiene x = −2 o x = 4.
-¿Cuáles son las coordenadas del vértice de y = −x² − 6x − 8?|(3; 1)|(−3; 1)|(−3; −1)|(1; −3)|1|xᵥ = −b/(2a) = −3 y yᵥ = f(−3) = 1.
-Escribí en forma factorizada f(x) = x² − 16.|(x + 4)(x + 4)|(x + 4)(x − 4)|(x − 4)(x + 4)|−(x + 4)(x − 4)|1|Las raíces son −4 y 4 y el coeficiente principal es a = 1: f(x) = a(x − x₁)(x − x₂).
-¿Cuáles son las coordenadas del vértice de y = 3x² − 12x + 19?|(2; 7)|(2; −7)|(7; 2)|(−2; 7)|0|xᵥ = −b/(2a) = 2 y yᵥ = f(2) = 7.
-Escribí en forma factorizada f(x) = −2x² + 6x − 4.|(x − 1)(x − 2)|2(x − 1)(x − 2)|−2(x + 1)(x + 2)|−2(x − 1)(x − 2)|3|Las raíces son 1 y 2 y el coeficiente principal es a = −2: f(x) = a(x − x₁)(x − x₂).
-¿Cuáles son las raíces de f(x) = 2x² + 18x + 36?|−6 y 3|36 y 2|−6 y −3|6 y 3|2|Se resuelve f(x) = 0 y se obtiene x = −6 o x = −3.
-¿Cuál es la forma canónica de y = 2x² + 12x + 12?|y = 2(x + 3)² + 6|y = 2(x + 3)² + 12|y = 2(x + 3)² − 6|y = 2(x − 3)² − 6|2|Con vértice (−3; −6) y a = 2: y = a(x − xᵥ)² + yᵥ.
-La función h(t) = −t² + 18t − 32 representa la altura de un objeto. ¿En qué instante alcanza su máximo?|t = 18 s|t = 10 s|t = 49 s|t = 9 s|3|t = −b/(2a) = −18/(2·(−1)) = 9.
-La altura (en metros) de una pelota está dada por h(t) = −3t² + 24t − 39, con t en segundos. ¿Cuál es la altura máxima?|12 m|9 m|4 m|−39 m|1|El máximo está en el vértice: t = −b/(2a) = 4 s y h(4) = 9 m.
-¿Cuál es la forma canónica de y = −x² − 4x + 3?|y = −(x + 2)² + 7|y = −(x + 2)² − 7|y = −(x + 2)² + 3|y = −(x − 2)² + 7|0|Con vértice (−2; 7) y a = −1: y = a(x − xᵥ)² + yᵥ.
-La altura (en metros) de una pelota está dada por h(t) = −2t² + 12t − 11, con t en segundos. ¿Cuál es la altura máxima?|−11 m|7 m|9 m|3 m|1|El máximo está en el vértice: t = −b/(2a) = 3 s y h(3) = 7 m.
-La función h(t) = −5t² + 20t − 9 representa la altura de un objeto. ¿En qué instante alcanza su máximo?|t = 3 s|t = 11 s|t = 2 s|t = 4 s|2|t = −b/(2a) = −20/(2·(−5)) = 2.
-¿Cuál es la forma canónica de y = −x² − 6x − 10?|y = −(x − 3)² − 1|y = −(x + 3)² − 1|y = −(x + 3)² − 10|y = −(x + 3)² + 1|1|Con vértice (−3; −1) y a = −1: y = a(x − xᵥ)² + yᵥ.
-Una parábola tiene raíces −6 y −4. ¿Cuál es la coordenada x de su vértice?|−10|−4|−5|2|2|El vértice está en el punto medio de las raíces: (−6 + (−4))/2 = −5.
-Una parábola tiene raíces 1 y 5. ¿Cuál es la coordenada x de su vértice?|4|6|2|3|3|El vértice está en el punto medio de las raíces: (1 + 5)/2 = 3.
-La función h(t) = −2t² + 20t − 27 representa la altura de un objeto. ¿En qué instante alcanza su máximo?|t = 23 s|t = 5 s|t = 10 s|t = 6 s|1|t = −b/(2a) = −20/(2·(−2)) = 5.
-La altura (en metros) de una pelota está dada por h(t) = −3t² + 18t + 8, con t en segundos. ¿Cuál es la altura máxima?|38 m|8 m|35 m|3 m|2|El máximo está en el vértice: t = −b/(2a) = 3 s y h(3) = 35 m.
-La parábola y = x² − 6x + 10, ¿corta al eje x?|No, porque su discriminante es negativo|Sí, en un solo punto|Sí, en dos puntos|No, porque a es negativo|0|Δ = 36 − 40 = −4 < 0, así que no hay raíces reales (el vértice está por encima del eje x).
-La altura (en metros) de una pelota está dada por h(t) = −2t² + 20t − 30, con t en segundos. ¿Cuál es la altura máxima?|20 m|5 m|22 m|−30 m|0|El máximo está en el vértice: t = −b/(2a) = 5 s y h(5) = 20 m.
-Una parábola tiene raíces 7 y 1. ¿Cuál es la coordenada x de su vértice?|6|8|5|4|3|El vértice está en el punto medio de las raíces: (7 + 1)/2 = 4.
-La parábola y = 2x² − 12x + 21, ¿corta al eje x?|No, porque su discriminante es negativo|No, porque a es negativo|Sí, en dos puntos|Sí, en un solo punto|0|Δ = 144 − 168 = −24 < 0, así que no hay raíces reales (el vértice está por encima del eje x).
-La parábola y = x² − 8x + 17, ¿corta al eje x?|Sí, en un solo punto|No, porque a es negativo|No, porque su discriminante es negativo|Sí, en dos puntos|2|Δ = 64 − 68 = −4 < 0, así que no hay raíces reales (el vértice está por encima del eje x).
+Una parábola tiene vértice en (−3; 1). ¿Cuál es la ecuación de su eje de simetría?|x = −3|y = 3|y = −3|x = 3|0|El eje de simetría es la recta vertical que pasa por el vértice: x = xᵥ = −3.
+¿Cuáles son las raíces de f(x) = x² + 2x − 15?|−15 y 1|5 y −3|−5 y 3|−5 y −3|2|Se resuelve f(x) = 0 y se obtiene x = −5 o x = 3.
+¿Cuáles son las coordenadas del vértice de y = −x² − 8x − 21?|(−4; 5)|(4; −5)|(−5; −4)|(−4; −5)|3|xᵥ = −b/(2a) = −4 y yᵥ = f(−4) = −5.
+¿Cuáles son las raíces de f(x) = x² − 3x − 10?|−10 y 1|2 y −5|−2 y −5|−2 y 5|3|Se resuelve f(x) = 0 y se obtiene x = −2 o x = 5.
+Escribí en forma factorizada f(x) = 3x² − 3x − 36.|(x + 3)(x − 4)|3(x − 3)(x + 4)|−3(x + 3)(x − 4)|3(x + 3)(x − 4)|3|Las raíces son −3 y 4 y el coeficiente principal es a = 3: f(x) = a(x − x₁)(x − x₂).
+¿Cuáles son las coordenadas del vértice de y = x² − 10x + 31?|(5; −6)|(5; 6)|(−5; 6)|(6; 5)|1|xᵥ = −b/(2a) = 5 y yᵥ = f(5) = 6.
+¿Cuáles son las raíces de f(x) = x² + 7x + 10?|10 y 1|−5 y −2|−5 y 2|5 y 2|1|Se resuelve f(x) = 0 y se obtiene x = −5 o x = −2.
+¿Cuáles son las coordenadas del vértice de y = −3x² − 18x − 25?|(−3; 2)|(2; −3)|(−3; −2)|(3; 2)|0|xᵥ = −b/(2a) = −3 y yᵥ = f(−3) = 2.
+Una parábola tiene vértice en (1; 0). ¿Cuál es la ecuación de su eje de simetría?|y = −1|y = 1|x = 1|x = −1|2|El eje de simetría es la recta vertical que pasa por el vértice: x = xᵥ = 1.
+Una parábola tiene vértice en (3; −3). ¿Cuál es la ecuación de su eje de simetría?|y = 3|y = −3|x = −3|x = 3|3|El eje de simetría es la recta vertical que pasa por el vértice: x = xᵥ = 3.
+Escribí en forma factorizada f(x) = −x² + 9.|−(x + 3)(x − 3)|(x − 3)(x + 3)|(x − 3)(x + 2)|−(x − 3)(x + 3)|3|Las raíces son 3 y −3 y el coeficiente principal es a = −1: f(x) = a(x − x₁)(x − x₂).
+¿Cuáles son las raíces de f(x) = 2x² − 4x − 16?|−16 y 2|2 y −4|−2 y −4|−2 y 4|3|Se resuelve f(x) = 0 y se obtiene x = −2 o x = 4.
+¿Cuáles son las coordenadas del vértice de y = −x² − 6x − 8?|(−3; −1)|(−3; 1)|(1; −3)|(3; 1)|1|xᵥ = −b/(2a) = −3 y yᵥ = f(−3) = 1.
+Escribí en forma factorizada f(x) = x² − 16.|(x + 4)(x + 4)|(x − 4)(x + 4)|(x + 4)(x − 4)|−(x + 4)(x − 4)|2|Las raíces son −4 y 4 y el coeficiente principal es a = 1: f(x) = a(x − x₁)(x − x₂).
+¿Cuáles son las coordenadas del vértice de y = 3x² − 12x + 19?|(−2; 7)|(2; −7)|(7; 2)|(2; 7)|3|xᵥ = −b/(2a) = 2 y yᵥ = f(2) = 7.
+Escribí en forma factorizada f(x) = −2x² + 6x − 4.|(x − 1)(x − 2)|2(x − 1)(x − 2)|−2(x − 1)(x − 2)|−2(x + 1)(x + 2)|2|Las raíces son 1 y 2 y el coeficiente principal es a = −2: f(x) = a(x − x₁)(x − x₂).
+¿Cuáles son las raíces de f(x) = 2x² + 18x + 36?|36 y 2|−6 y −3|6 y 3|−6 y 3|1|Se resuelve f(x) = 0 y se obtiene x = −6 o x = −3.
+¿Cuál es la forma canónica de y = 2x² + 12x + 12?|y = 2(x + 3)² − 6|y = 2(x + 3)² + 12|y = 2(x + 3)² + 6|y = 2(x − 3)² − 6|0|Con vértice (−3; −6) y a = 2: y = a(x − xᵥ)² + yᵥ.
+La función h(t) = −t² + 18t − 32 representa la altura de un objeto. ¿En qué instante alcanza su máximo?|t = 49 s|t = 18 s|t = 10 s|t = 9 s|3|t = −b/(2a) = −18/(2·(−1)) = 9.
+La altura (en metros) de una pelota está dada por h(t) = −3t² + 24t − 39, con t en segundos. ¿Cuál es la altura máxima?|9 m|12 m|−39 m|4 m|0|El máximo está en el vértice: t = −b/(2a) = 4 s y h(4) = 9 m.
+¿Cuál es la forma canónica de y = −x² − 4x + 3?|y = −(x + 2)² + 3|y = −(x − 2)² + 7|y = −(x + 2)² + 7|y = −(x + 2)² − 7|2|Con vértice (−2; 7) y a = −1: y = a(x − xᵥ)² + yᵥ.
+La altura (en metros) de una pelota está dada por h(t) = −2t² + 12t − 11, con t en segundos. ¿Cuál es la altura máxima?|7 m|−11 m|9 m|3 m|0|El máximo está en el vértice: t = −b/(2a) = 3 s y h(3) = 7 m.
+La función h(t) = −5t² + 20t − 9 representa la altura de un objeto. ¿En qué instante alcanza su máximo?|t = 3 s|t = 4 s|t = 2 s|t = 11 s|2|t = −b/(2a) = −20/(2·(−5)) = 2.
+¿Cuál es la forma canónica de y = −x² − 6x − 10?|y = −(x + 3)² − 1|y = −(x + 3)² + 1|y = −(x − 3)² − 1|y = −(x + 3)² − 10|0|Con vértice (−3; −1) y a = −1: y = a(x − xᵥ)² + yᵥ.
+Una parábola tiene raíces −6 y −4. ¿Cuál es la coordenada x de su vértice?|2|−5|−10|−4|1|El vértice está en el punto medio de las raíces: (−6 + (−4))/2 = −5.
+Una parábola tiene raíces 1 y 5. ¿Cuál es la coordenada x de su vértice?|3|4|6|2|0|El vértice está en el punto medio de las raíces: (1 + 5)/2 = 3.
+La función h(t) = −2t² + 20t − 27 representa la altura de un objeto. ¿En qué instante alcanza su máximo?|t = 6 s|t = 23 s|t = 10 s|t = 5 s|3|t = −b/(2a) = −20/(2·(−2)) = 5.
+La altura (en metros) de una pelota está dada por h(t) = −3t² + 18t + 8, con t en segundos. ¿Cuál es la altura máxima?|35 m|38 m|3 m|8 m|0|El máximo está en el vértice: t = −b/(2a) = 3 s y h(3) = 35 m.
+La parábola y = x² − 6x + 10, ¿corta al eje x?|Sí, en un solo punto|No, porque su discriminante es negativo|Sí, en dos puntos|No, porque a es negativo|1|Δ = 36 − 40 = −4 < 0, así que no hay raíces reales (el vértice está por encima del eje x).
+La altura (en metros) de una pelota está dada por h(t) = −2t² + 20t − 30, con t en segundos. ¿Cuál es la altura máxima?|−30 m|20 m|22 m|5 m|1|El máximo está en el vértice: t = −b/(2a) = 5 s y h(5) = 20 m.
+Una parábola tiene raíces 7 y 1. ¿Cuál es la coordenada x de su vértice?|8|4|6|5|1|El vértice está en el punto medio de las raíces: (7 + 1)/2 = 4.
+La parábola y = 2x² − 12x + 21, ¿corta al eje x?|Sí, en un solo punto|No, porque su discriminante es negativo|Sí, en dos puntos|No, porque a es negativo|1|Δ = 144 − 168 = −24 < 0, así que no hay raíces reales (el vértice está por encima del eje x).
+La parábola y = x² − 8x + 17, ¿corta al eje x?|No, porque su discriminante es negativo|Sí, en dos puntos|No, porque a es negativo|Sí, en un solo punto|0|Δ = 64 − 68 = −4 < 0, así que no hay raíces reales (el vértice está por encima del eje x).

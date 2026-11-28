@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-Una solución tiene [H⁺] = 1 × 10⁻⁶ mol/L. ¿Cuál es su pH?|7|−6|8|6|3|pH = −log[H⁺] = 6.
-Una solución tiene [H⁺] = 1 × 10⁻¹ mol/L. ¿Cuál es su pH?|2|−1|13|1|3|pH = −log[H⁺] = 1.
-¿Qué es un ácido según Arrhenius?|Una sustancia que libera OH⁻|Un metal|Una sal|Una sustancia que libera H⁺ en agua|3|Ejemplo: HCl.
-Una solución tiene pH = 3. ¿Cuál es su pOH? (a 25 °C, pH + pOH = 14)|7|17|3|11|3|pOH = 14 − pH = 14 − 3 = 11.
-Una solución tiene pH = 8. ¿Cuál es su pOH? (a 25 °C, pH + pOH = 14)|6|7|8|22|0|pOH = 14 − pH = 14 − 8 = 6.
-Una solución tiene [H⁺] = 1 × 10⁻¹² mol/L. ¿Cuál es su pH?|12|−12|13|2|0|pH = −log[H⁺] = 12.
-Una solución tiene [H⁺] = 1 × 10⁻¹¹ mol/L. ¿Cuál es su pH?|−11|11|3|12|1|pH = −log[H⁺] = 11.
-Una solución tiene pH = 12. ¿Cuál es su pOH? (a 25 °C, pH + pOH = 14)|26|12|2|7|2|pOH = 14 − pH = 14 − 12 = 2.
-¿Qué es una base según Arrhenius?|Un solvente|Un gas|Una sustancia que libera OH⁻ en agua|Una sustancia que libera H⁺|2|Ejemplo: NaOH.
-¿Qué es una solución amortiguadora (buffer)?|Una que cambia mucho el pH|Un ácido fuerte|Una que resiste cambios de pH|Una solución de agua pura|2|La sangre es un ejemplo.
-Una solución tiene pH = 6. ¿Cuál es la concentración de H⁺?|1 × 10⁶ mol/L|1 × 10⁻⁷ mol/L|1 × 10⁻⁸ mol/L|1 × 10⁻⁶ mol/L|3|[H⁺] = 10^(−pH) = 10⁻⁶ mol/L.
-Una solución tiene pH = 2. ¿Cuál es la concentración de H⁺?|1 × 10⁻¹² mol/L|1 × 10⁻² mol/L|1 × 10² mol/L|1 × 10⁻³ mol/L|1|[H⁺] = 10^(−pH) = 10⁻² mol/L.
-Según el principio de Le Châtelier, si se agrega más reactivo a un equilibrio:|Se detiene la reacción|Se favorece la formación de reactivos|Se favorece la formación de productos|No cambia|2|El sistema se desplaza para contrarrestar la perturbación.
-Una solución tiene pH = 10. ¿Cuál es la concentración de H⁺?|1 × 10⁻¹⁰ mol/L|1 × 10¹⁰ mol/L|1 × 10⁻¹¹ mol/L|1 × 10⁻⁴ mol/L|0|[H⁺] = 10^(−pH) = 10⁻¹⁰ mol/L.
-Una solución de NaOH (base fuerte) tiene concentración 1 mol/L. ¿Cuál es su pH?|13|0|15|14|3|[OH⁻] = 1 → pOH = 0 → pH = 14 − 0 = 14.
-Una solución de HCl (ácido fuerte) tiene concentración 0 mol/L. ¿Cuál es su pH?|10|7|5|4|3|Disociación total: [H⁺] = 0 → pH = 4.
-Una solución de HCl (ácido fuerte) tiene concentración 0,01 mol/L. ¿Cuál es su pH?|7|12|3|2|3|Disociación total: [H⁺] = 0,01 → pH = 2.
-Una solución de HCl (ácido fuerte) tiene concentración 0,1 mol/L. ¿Cuál es su pH?|7|1|2|13|1|Disociación total: [H⁺] = 0,1 → pH = 1.
-Una solución de NaOH (base fuerte) tiene concentración 0,01 mol/L. ¿Cuál es su pH?|13|12|2|11|1|[OH⁻] = 0,01 → pOH = 2 → pH = 14 − 2 = 12.
-En un equilibrio químico:|La reacción se detiene|Solo hay reactivos|Solo hay productos|Las velocidades de reacción directa e inversa son iguales|3|Es un equilibrio dinámico.
-¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 3 que en una de pH 5?|1000 veces|100 veces|10 veces|2 veces|1|Cada unidad de pH es un factor 10: 10^2 = 100.
-¿Cuál es el valor de Kw a 25 °C?|1 × 10⁻⁷|1|1 × 10¹⁴|1 × 10⁻¹⁴|3|Kw = [H⁺]·[OH⁻].
-¿Qué es un ácido fuerte?|El que se disocia casi totalmente en agua|El que tiene alta densidad|El más concentrado|El que no se disocia|0|Ejemplo: HCl.
-¿Qué sal se forma al neutralizar H₂SO₄ con NaOH?|Na₂SO₄|NaSO₄|Na₂SO₃|NaCl|0|H₂SO₄ + 2 NaOH → Na₂SO₄ + 2 H₂O.
-¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 1 que en una de pH 3?|1000 veces|2 veces|100 veces|10 veces|2|Cada unidad de pH es un factor 10: 10^2 = 100.
-¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 5 que en una de pH 7?|10 veces|2 veces|100 veces|1000 veces|2|Cada unidad de pH es un factor 10: 10^2 = 100.
+Una solución tiene [H⁺] = 1 × 10⁻⁶ mol/L. ¿Cuál es su pH?|8|7|6|−6|2|pH = −log[H⁺] = 6.
+Una solución tiene [H⁺] = 1 × 10⁻¹ mol/L. ¿Cuál es su pH?|2|13|−1|1|3|pH = −log[H⁺] = 1.
+¿Qué es un ácido según Arrhenius?|Una sustancia que libera H⁺ en agua|Una sustancia que libera OH⁻|Una sal|Un metal|0|Ejemplo: HCl.
+Una solución tiene pH = 3. ¿Cuál es su pOH? (a 25 °C, pH + pOH = 14)|17|11|3|7|1|pOH = 14 − pH = 14 − 3 = 11.
+Una solución tiene pH = 8. ¿Cuál es su pOH? (a 25 °C, pH + pOH = 14)|8|6|7|22|1|pOH = 14 − pH = 14 − 8 = 6.
+Una solución tiene [H⁺] = 1 × 10⁻¹² mol/L. ¿Cuál es su pH?|13|−12|2|12|3|pH = −log[H⁺] = 12.
+Una solución tiene [H⁺] = 1 × 10⁻¹¹ mol/L. ¿Cuál es su pH?|3|−11|11|12|2|pH = −log[H⁺] = 11.
+Una solución tiene pH = 12. ¿Cuál es su pOH? (a 25 °C, pH + pOH = 14)|12|7|2|26|2|pOH = 14 − pH = 14 − 12 = 2.
+¿Qué es una base según Arrhenius?|Un gas|Un solvente|Una sustancia que libera H⁺|Una sustancia que libera OH⁻ en agua|3|Ejemplo: NaOH.
+¿Qué es una solución amortiguadora (buffer)?|Una solución de agua pura|Una que cambia mucho el pH|Una que resiste cambios de pH|Un ácido fuerte|2|La sangre es un ejemplo.
+Una solución tiene pH = 6. ¿Cuál es la concentración de H⁺?|1 × 10⁶ mol/L|1 × 10⁻⁶ mol/L|1 × 10⁻⁸ mol/L|1 × 10⁻⁷ mol/L|1|[H⁺] = 10^(−pH) = 10⁻⁶ mol/L.
+Una solución tiene pH = 2. ¿Cuál es la concentración de H⁺?|1 × 10⁻² mol/L|1 × 10⁻³ mol/L|1 × 10⁻¹² mol/L|1 × 10² mol/L|0|[H⁺] = 10^(−pH) = 10⁻² mol/L.
+Según el principio de Le Châtelier, si se agrega más reactivo a un equilibrio:|No cambia|Se detiene la reacción|Se favorece la formación de productos|Se favorece la formación de reactivos|2|El sistema se desplaza para contrarrestar la perturbación.
+Una solución tiene pH = 10. ¿Cuál es la concentración de H⁺?|1 × 10⁻⁴ mol/L|1 × 10⁻¹⁰ mol/L|1 × 10⁻¹¹ mol/L|1 × 10¹⁰ mol/L|1|[H⁺] = 10^(−pH) = 10⁻¹⁰ mol/L.
+Una solución de NaOH (base fuerte) tiene concentración 1 mol/L. ¿Cuál es su pH?|0|14|15|13|1|[OH⁻] = 1 → pOH = 0 → pH = 14 − 0 = 14.
+Una solución de HCl (ácido fuerte) tiene concentración 0 mol/L. ¿Cuál es su pH?|4|5|7|10|0|Disociación total: [H⁺] = 0 → pH = 4.
+Una solución de HCl (ácido fuerte) tiene concentración 0,01 mol/L. ¿Cuál es su pH?|7|2|12|3|1|Disociación total: [H⁺] = 0,01 → pH = 2.
+Una solución de HCl (ácido fuerte) tiene concentración 0,1 mol/L. ¿Cuál es su pH?|2|1|13|7|1|Disociación total: [H⁺] = 0,1 → pH = 1.
+Una solución de NaOH (base fuerte) tiene concentración 0,01 mol/L. ¿Cuál es su pH?|12|2|11|13|0|[OH⁻] = 0,01 → pOH = 2 → pH = 14 − 2 = 12.
+En un equilibrio químico:|Solo hay reactivos|Solo hay productos|Las velocidades de reacción directa e inversa son iguales|La reacción se detiene|2|Es un equilibrio dinámico.
+¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 3 que en una de pH 5?|100 veces|2 veces|10 veces|1000 veces|0|Cada unidad de pH es un factor 10: 10^2 = 100.
+¿Cuál es el valor de Kw a 25 °C?|1 × 10⁻⁷|1 × 10¹⁴|1|1 × 10⁻¹⁴|3|Kw = [H⁺]·[OH⁻].
+¿Qué es un ácido fuerte?|El más concentrado|El que no se disocia|El que se disocia casi totalmente en agua|El que tiene alta densidad|2|Ejemplo: HCl.
+¿Qué sal se forma al neutralizar H₂SO₄ con NaOH?|NaSO₄|NaCl|Na₂SO₃|Na₂SO₄|3|H₂SO₄ + 2 NaOH → Na₂SO₄ + 2 H₂O.
+¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 1 que en una de pH 3?|100 veces|10 veces|2 veces|1000 veces|0|Cada unidad de pH es un factor 10: 10^2 = 100.
+¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 5 que en una de pH 7?|100 veces|10 veces|2 veces|1000 veces|0|Cada unidad de pH es un factor 10: 10^2 = 100.
 El pH de la sangre humana es aproximadamente:|14|3|1|7,4|3|Se mantiene entre 7,35 y 7,45.
-¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 4 que en una de pH 6?|2 veces|100 veces|1000 veces|10 veces|1|Cada unidad de pH es un factor 10: 10^2 = 100.
-Una solución de HCl (ácido fuerte) tiene concentración 1 mol/L. ¿Cuál es su pH?|0|14|7|1|0|Disociación total: [H⁺] = 1 → pH = 0.
-Una solución de NaOH (base fuerte) tiene concentración 0,1 mol/L. ¿Cuál es su pH?|13|14|12|1|0|[OH⁻] = 0,1 → pOH = 1 → pH = 14 − 1 = 13.
+¿Cuántas veces mayor es la concentración de H⁺ en una solución de pH 4 que en una de pH 6?|100 veces|1000 veces|2 veces|10 veces|0|Cada unidad de pH es un factor 10: 10^2 = 100.
+Una solución de HCl (ácido fuerte) tiene concentración 1 mol/L. ¿Cuál es su pH?|1|7|14|0|3|Disociación total: [H⁺] = 1 → pH = 0.
+Una solución de NaOH (base fuerte) tiene concentración 0,1 mol/L. ¿Cuál es su pH?|14|12|13|1|2|[OH⁻] = 0,1 → pOH = 1 → pH = 14 − 1 = 13.

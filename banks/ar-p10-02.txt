@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Cuál es el peso de un cuerpo de 40 kg? (g = 10 m/s²)|400 N|10 N|40 N|50 N|0|P = m·g = 40 · 10 = 400 N.
-¿Qué fuerza neta hace falta para acelerar una masa de 5 kg a 4 m/s²?|1,25 N|20 N|9 N|30 N|1|F = m·a = 5 · 4 = 20 N.
-¿Cuál es el peso de un cuerpo de 12 kg? (g = 10 m/s²)|10 N|12 N|22 N|120 N|3|P = m·g = 12 · 10 = 120 N.
-¿Qué fuerza neta hace falta para acelerar una masa de 4 kg a 6 m/s²?|34 N|24 N|10 N|0,667 N|1|F = m·a = 4 · 6 = 24 N.
-¿Qué enuncia la tercera ley de Newton?|F = m·a|Un cuerpo en reposo permanece en reposo|La energía se conserva|A toda acción le corresponde una reacción de igual módulo y sentido opuesto|3|Las fuerzas de acción y reacción actúan sobre cuerpos distintos.
-¿Qué fuerza neta hace falta para acelerar una masa de 3 kg a 7 m/s²?|10 N|31 N|21 N|0,429 N|2|F = m·a = 3 · 7 = 21 N.
-¿Cuál es el peso de un cuerpo de 60 kg? (g = 10 m/s²)|600 N|60 N|70 N|10 N|0|P = m·g = 60 · 10 = 600 N.
-La unidad de fuerza en el Sistema Internacional es:|Pascal|Joule|Newton|Watt|2|1 N = 1 kg·m/s².
-¿Cuál es el peso de un cuerpo de 2 kg? (g = 10 m/s²)|10 N|2 N|12 N|20 N|3|P = m·g = 2 · 10 = 20 N.
-¿Qué fuerza neta hace falta para acelerar una masa de 10 kg a 2 m/s²?|12 N|30 N|5 N|20 N|3|F = m·a = 10 · 2 = 20 N.
-Un bloque de 8 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,5. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|40 N|41 N|80 N|0,5 N|0|N = m·g = 80 N; fr = μ·N = 0,5 · 80 = 40 N.
-Sobre un cuerpo de 9 kg actúa una fuerza neta de 45 N. ¿Cuál es su aceleración?|36 m/s²|5 m/s²|405 m/s²|0,2 m/s²|1|a = F/m = 45/9 = 5 m/s².
-Sobre un cuerpo de 5 kg actúa una fuerza neta de 30 N. ¿Cuál es su aceleración?|0,167 m/s²|150 m/s²|6 m/s²|25 m/s²|2|a = F/m = 30/5 = 6 m/s².
-Un bloque de 10 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,2. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|20 N|100 N|0,2 N|40 N|0|N = m·g = 100 N; fr = μ·N = 0,2 · 100 = 20 N.
-Un bloque de 20 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,1. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|0,1 N|40 N|20 N|200 N|2|N = m·g = 200 N; fr = μ·N = 0,1 · 200 = 20 N.
-¿Qué mide la masa de un cuerpo?|Su peso en la Luna|Su inercia|Su temperatura|Su volumen|1|Es la resistencia a cambiar su estado de movimiento.
-Un bloque de 5 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,4. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|0,4 N|50 N|20 N|40 N|2|N = m·g = 50 N; fr = μ·N = 0,4 · 50 = 20 N.
-Un astronauta en la Luna tiene respecto de la Tierra:|La misma masa y menor peso|Igual peso|Menor masa y mayor peso|Menor masa y menor peso|0|La gravedad lunar es unas seis veces menor.
-Sobre un cuerpo de 16 kg actúa una fuerza neta de 80 N. ¿Cuál es su aceleración?|1280 m/s²|64 m/s²|5 m/s²|0,2 m/s²|2|a = F/m = 80/16 = 5 m/s².
-Un cuerpo se mueve con velocidad constante. La fuerza neta sobre él es:|Constante y distinta de cero|Creciente|Cero|Igual a su peso|2|Sin aceleración no hay fuerza neta.
-Dos bloques de 4 kg y 6 kg, en contacto sobre una superficie sin rozamiento, son empujados por una fuerza de 100 N. ¿Cuál es la aceleración del conjunto?|16,667 m/s²|25 m/s²|90 m/s²|10 m/s²|3|a = F/(m₁ + m₂) = 100/10 = 10 m/s².
-Dos bloques de 4 kg y 6 kg, en contacto sobre una superficie sin rozamiento, son empujados por una fuerza de 40 N. ¿Cuál es la aceleración del conjunto?|4 m/s²|10 m/s²|30 m/s²|6,667 m/s²|0|a = F/(m₁ + m₂) = 40/10 = 4 m/s².
-Dos bloques de 2 kg y 3 kg, en contacto sobre una superficie sin rozamiento, son empujados por una fuerza de 20 N. ¿Cuál es la aceleración del conjunto?|10 m/s²|15 m/s²|4 m/s²|6,667 m/s²|2|a = F/(m₁ + m₂) = 20/5 = 4 m/s².
-Sobre un bloque de 4 kg actúan dos fuerzas horizontales opuestas de 80 N y 30 N. ¿Cuál es su aceleración?|0,08 m/s²|76 m/s²|12,5 m/s²|27,5 m/s²|2|Fuerza neta = 80 − 30 = 50 N; a = 50/4 = 12,5 m/s².
-El rozamiento estático máximo comparado con el dinámico es generalmente:|Igual|Nulo|Menor|Mayor|3|Cuesta más iniciar el movimiento que mantenerlo.
-Sobre un bloque de 10 kg actúan dos fuerzas horizontales opuestas de 50 N y 20 N. ¿Cuál es su aceleración?|7 m/s²|3 m/s²|0,333 m/s²|40 m/s²|1|Fuerza neta = 50 − 20 = 30 N; a = 30/10 = 3 m/s².
-Una caja está apoyada en reposo sobre una mesa. La reacción al peso de la caja es:|Nula|La fuerza que la caja ejerce sobre la Tierra|La fuerza de rozamiento|La fuerza normal de la mesa|1|La normal equilibra al peso pero no es su par de acción y reacción.
-Sobre un bloque de 10 kg actúan dos fuerzas horizontales opuestas de 45 N y 15 N. ¿Cuál es su aceleración?|0,333 m/s²|3 m/s²|35 m/s²|6 m/s²|1|Fuerza neta = 45 − 15 = 30 N; a = 30/10 = 3 m/s².
-Sobre un bloque de 5 kg actúan dos fuerzas horizontales opuestas de 45 N y 15 N. ¿Cuál es su aceleración?|0,167 m/s²|12 m/s²|40 m/s²|6 m/s²|3|Fuerza neta = 45 − 15 = 30 N; a = 30/5 = 6 m/s².
-¿Qué enuncia la primera ley de Newton?|A toda acción le corresponde una reacción|La fuerza es proporcional a la velocidad|F = m·a|Un cuerpo sin fuerza neta mantiene su estado de reposo o de MRU|3|Es el principio de inercia.
+¿Cuál es el peso de un cuerpo de 40 kg? (g = 10 m/s²)|400 N|40 N|10 N|50 N|0|P = m·g = 40 · 10 = 400 N.
+¿Qué fuerza neta hace falta para acelerar una masa de 5 kg a 4 m/s²?|9 N|1,25 N|30 N|20 N|3|F = m·a = 5 · 4 = 20 N.
+¿Cuál es el peso de un cuerpo de 12 kg? (g = 10 m/s²)|12 N|120 N|10 N|22 N|1|P = m·g = 12 · 10 = 120 N.
+¿Qué fuerza neta hace falta para acelerar una masa de 4 kg a 6 m/s²?|34 N|0,667 N|24 N|10 N|2|F = m·a = 4 · 6 = 24 N.
+¿Qué enuncia la tercera ley de Newton?|F = m·a|La energía se conserva|A toda acción le corresponde una reacción de igual módulo y sentido opuesto|Un cuerpo en reposo permanece en reposo|2|Las fuerzas de acción y reacción actúan sobre cuerpos distintos.
+¿Qué fuerza neta hace falta para acelerar una masa de 3 kg a 7 m/s²?|21 N|31 N|10 N|0,429 N|0|F = m·a = 3 · 7 = 21 N.
+¿Cuál es el peso de un cuerpo de 60 kg? (g = 10 m/s²)|60 N|70 N|10 N|600 N|3|P = m·g = 60 · 10 = 600 N.
+La unidad de fuerza en el Sistema Internacional es:|Watt|Newton|Pascal|Joule|1|1 N = 1 kg·m/s².
+¿Cuál es el peso de un cuerpo de 2 kg? (g = 10 m/s²)|12 N|20 N|2 N|10 N|1|P = m·g = 2 · 10 = 20 N.
+¿Qué fuerza neta hace falta para acelerar una masa de 10 kg a 2 m/s²?|20 N|5 N|30 N|12 N|0|F = m·a = 10 · 2 = 20 N.
+Un bloque de 8 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,5. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|80 N|41 N|0,5 N|40 N|3|N = m·g = 80 N; fr = μ·N = 0,5 · 80 = 40 N.
+Sobre un cuerpo de 9 kg actúa una fuerza neta de 45 N. ¿Cuál es su aceleración?|36 m/s²|0,2 m/s²|405 m/s²|5 m/s²|3|a = F/m = 45/9 = 5 m/s².
+Sobre un cuerpo de 5 kg actúa una fuerza neta de 30 N. ¿Cuál es su aceleración?|25 m/s²|150 m/s²|6 m/s²|0,167 m/s²|2|a = F/m = 30/5 = 6 m/s².
+Un bloque de 10 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,2. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|100 N|40 N|20 N|0,2 N|2|N = m·g = 100 N; fr = μ·N = 0,2 · 100 = 20 N.
+Un bloque de 20 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,1. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|200 N|20 N|40 N|0,1 N|1|N = m·g = 200 N; fr = μ·N = 0,1 · 200 = 20 N.
+¿Qué mide la masa de un cuerpo?|Su volumen|Su temperatura|Su peso en la Luna|Su inercia|3|Es la resistencia a cambiar su estado de movimiento.
+Un bloque de 5 kg está sobre una superficie horizontal con coeficiente de rozamiento μ = 0,4. ¿Cuál es la fuerza de rozamiento dinámico? (g = 10 m/s²)|0,4 N|40 N|50 N|20 N|3|N = m·g = 50 N; fr = μ·N = 0,4 · 50 = 20 N.
+Un astronauta en la Luna tiene respecto de la Tierra:|La misma masa y menor peso|Menor masa y menor peso|Menor masa y mayor peso|Igual peso|0|La gravedad lunar es unas seis veces menor.
+Sobre un cuerpo de 16 kg actúa una fuerza neta de 80 N. ¿Cuál es su aceleración?|5 m/s²|0,2 m/s²|1280 m/s²|64 m/s²|0|a = F/m = 80/16 = 5 m/s².
+Un cuerpo se mueve con velocidad constante. La fuerza neta sobre él es:|Igual a su peso|Creciente|Cero|Constante y distinta de cero|2|Sin aceleración no hay fuerza neta.
+Dos bloques de 4 kg y 6 kg, en contacto sobre una superficie sin rozamiento, son empujados por una fuerza de 100 N. ¿Cuál es la aceleración del conjunto?|25 m/s²|90 m/s²|10 m/s²|16,667 m/s²|2|a = F/(m₁ + m₂) = 100/10 = 10 m/s².
+Dos bloques de 4 kg y 6 kg, en contacto sobre una superficie sin rozamiento, son empujados por una fuerza de 40 N. ¿Cuál es la aceleración del conjunto?|10 m/s²|4 m/s²|6,667 m/s²|30 m/s²|1|a = F/(m₁ + m₂) = 40/10 = 4 m/s².
+Dos bloques de 2 kg y 3 kg, en contacto sobre una superficie sin rozamiento, son empujados por una fuerza de 20 N. ¿Cuál es la aceleración del conjunto?|4 m/s²|15 m/s²|10 m/s²|6,667 m/s²|0|a = F/(m₁ + m₂) = 20/5 = 4 m/s².
+Sobre un bloque de 4 kg actúan dos fuerzas horizontales opuestas de 80 N y 30 N. ¿Cuál es su aceleración?|76 m/s²|12,5 m/s²|27,5 m/s²|0,08 m/s²|1|Fuerza neta = 80 − 30 = 50 N; a = 50/4 = 12,5 m/s².
+El rozamiento estático máximo comparado con el dinámico es generalmente:|Menor|Mayor|Igual|Nulo|1|Cuesta más iniciar el movimiento que mantenerlo.
+Sobre un bloque de 10 kg actúan dos fuerzas horizontales opuestas de 50 N y 20 N. ¿Cuál es su aceleración?|0,333 m/s²|7 m/s²|40 m/s²|3 m/s²|3|Fuerza neta = 50 − 20 = 30 N; a = 30/10 = 3 m/s².
+Una caja está apoyada en reposo sobre una mesa. La reacción al peso de la caja es:|La fuerza de rozamiento|Nula|La fuerza que la caja ejerce sobre la Tierra|La fuerza normal de la mesa|2|La normal equilibra al peso pero no es su par de acción y reacción.
+Sobre un bloque de 10 kg actúan dos fuerzas horizontales opuestas de 45 N y 15 N. ¿Cuál es su aceleración?|6 m/s²|0,333 m/s²|3 m/s²|35 m/s²|2|Fuerza neta = 45 − 15 = 30 N; a = 30/10 = 3 m/s².
+Sobre un bloque de 5 kg actúan dos fuerzas horizontales opuestas de 45 N y 15 N. ¿Cuál es su aceleración?|6 m/s²|0,167 m/s²|40 m/s²|12 m/s²|0|Fuerza neta = 45 − 15 = 30 N; a = 30/5 = 6 m/s².
+¿Qué enuncia la primera ley de Newton?|F = m·a|Un cuerpo sin fuerza neta mantiene su estado de reposo o de MRU|A toda acción le corresponde una reacción|La fuerza es proporcional a la velocidad|1|Es el principio de inercia.

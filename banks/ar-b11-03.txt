@@ -1,29 +1,29 @@
 #EEEEEEEEEEMMMMMMMMHHHHHHHHHH
-¿Qué es una hormona?|Un neurotransmisor|Un mensajero químico producido por glándulas|Una enzima digestiva|Un anticuerpo|1|Viaja por la sangre.
-¿Qué glándula produce la insulina?|El hígado|La hipófisis|El páncreas|La tiroides|2|Disminuye la glucemia.
-¿Qué glándula produce la tiroxina?|El páncreas|Las gónadas|La hipófisis|La tiroides|3|Regula el metabolismo.
-¿Qué hormona aumenta la frecuencia cardíaca en situaciones de estrés?|Tiroxina|Adrenalina|Insulina|Oxitocina|1|Se produce en las glándulas suprarrenales.
-¿Qué hormona regula el ritmo del sueño?|Melatonina|Adrenalina|Testosterona|Insulina|0|La produce la glándula pineal.
-¿Qué hormona estimula la producción de leche?|Adrenalina|Insulina|Prolactina|Tiroxina|2|Se produce en la hipófisis.
-¿Qué órgano regula el equilibrio de agua y sales y elimina desechos?|El pulmón|El corazón|El hígado|El riñón|3|Produce orina.
-¿Qué glándula se llama «maestra»?|La hipófisis|El páncreas|Las suprarrenales|La tiroides|0|Regula otras glándulas.
-¿Qué es la homeostasis?|La división celular|La respiración|El mantenimiento del equilibrio interno del organismo|El crecimiento|2|Por ejemplo, la temperatura corporal.
-¿Qué enfermedad se produce por falta de insulina o resistencia a ella?|Anemia|Bocio|Diabetes|Asma|2|Se eleva la glucemia.
-Si la glucemia aumenta, el páncreas libera:|Insulina|Tiroxina|Glucagón|Adrenalina|0|Permite el ingreso de glucosa a las células.
-¿Qué diferencia hay entre glándulas endocrinas y exocrinas?|No hay diferencia|Las exocrinas liberan a la sangre|Las endocrinas tienen conductos|Las endocrinas vierten hormonas a la sangre|3|Las exocrinas usan conductos.
-¿Qué hormona aumenta la glucemia?|Glucagón|Melatonina|Insulina|Oxitocina|0|La produce el páncreas.
-¿Cómo actúa un sistema de retroalimentación negativa?|Detiene el sistema|Revierte el cambio para volver al valor normal|No tiene efecto|Aumenta el cambio|1|Por ejemplo, la regulación de la glucemia.
-¿Qué hormona regula el crecimiento?|Hormona del crecimiento (GH)|Melatonina|Adrenalina|Insulina|0|La produce la hipófisis.
-¿Qué ocurre con la temperatura corporal si hace mucho calor?|Se produce sudor para enfriar el cuerpo|Se detiene el sudor|Se estrechan los poros|Se producen escalofríos|0|La evaporación del sudor disipa calor.
-¿Qué órgano produce la bilis?|El estómago|El hígado|El riñón|El páncreas|1|Emulsiona grasas.
-¿Qué ocurre con la temperatura corporal si hace mucho frío?|Se dilatan los vasos|Se reduce el metabolismo|Se suda|Aparecen escalofríos y se contraen los vasos|3|Se genera calor y se conserva.
-¿Cuál es un factor de riesgo de la diabetes tipo 2?|Actividad física|Obesidad y sedentarismo|Dieta equilibrada|Dormir bien|1|Se relaciona con hábitos de vida.
-¿Qué es el bocio?|Un tumor cerebral|El agrandamiento de la tiroides por falta de yodo|Una infección|Un exceso de calcio|1|Se previene con sal yodada.
-¿Por qué en la Argentina la sal es yodada?|Para prevenir el bocio|Para dar sabor|Para conservar la comida|Para aumentar la presión|0|Es una política de salud pública.
+¿Qué es una hormona?|Una enzima digestiva|Un neurotransmisor|Un anticuerpo|Un mensajero químico producido por glándulas|3|Viaja por la sangre.
+¿Qué glándula produce la insulina?|La tiroides|El páncreas|La hipófisis|El hígado|1|Disminuye la glucemia.
+¿Qué glándula produce la tiroxina?|El páncreas|La tiroides|La hipófisis|Las gónadas|1|Regula el metabolismo.
+¿Qué hormona aumenta la frecuencia cardíaca en situaciones de estrés?|Tiroxina|Adrenalina|Oxitocina|Insulina|1|Se produce en las glándulas suprarrenales.
+¿Qué hormona regula el ritmo del sueño?|Adrenalina|Testosterona|Insulina|Melatonina|3|La produce la glándula pineal.
+¿Qué hormona estimula la producción de leche?|Prolactina|Insulina|Adrenalina|Tiroxina|0|Se produce en la hipófisis.
+¿Qué órgano regula el equilibrio de agua y sales y elimina desechos?|El pulmón|El hígado|El riñón|El corazón|2|Produce orina.
+¿Qué glándula se llama «maestra»?|Las suprarrenales|El páncreas|La hipófisis|La tiroides|2|Regula otras glándulas.
+¿Qué es la homeostasis?|El mantenimiento del equilibrio interno del organismo|La respiración|El crecimiento|La división celular|0|Por ejemplo, la temperatura corporal.
+¿Qué enfermedad se produce por falta de insulina o resistencia a ella?|Anemia|Diabetes|Bocio|Asma|1|Se eleva la glucemia.
+Si la glucemia aumenta, el páncreas libera:|Insulina|Tiroxina|Adrenalina|Glucagón|0|Permite el ingreso de glucosa a las células.
+¿Qué diferencia hay entre glándulas endocrinas y exocrinas?|No hay diferencia|Las endocrinas tienen conductos|Las exocrinas liberan a la sangre|Las endocrinas vierten hormonas a la sangre|3|Las exocrinas usan conductos.
+¿Qué hormona aumenta la glucemia?|Insulina|Oxitocina|Glucagón|Melatonina|2|La produce el páncreas.
+¿Cómo actúa un sistema de retroalimentación negativa?|Aumenta el cambio|Revierte el cambio para volver al valor normal|Detiene el sistema|No tiene efecto|1|Por ejemplo, la regulación de la glucemia.
+¿Qué hormona regula el crecimiento?|Hormona del crecimiento (GH)|Adrenalina|Insulina|Melatonina|0|La produce la hipófisis.
+¿Qué ocurre con la temperatura corporal si hace mucho calor?|Se detiene el sudor|Se producen escalofríos|Se produce sudor para enfriar el cuerpo|Se estrechan los poros|2|La evaporación del sudor disipa calor.
+¿Qué órgano produce la bilis?|El páncreas|El hígado|El riñón|El estómago|1|Emulsiona grasas.
+¿Qué ocurre con la temperatura corporal si hace mucho frío?|Se suda|Se dilatan los vasos|Aparecen escalofríos y se contraen los vasos|Se reduce el metabolismo|2|Se genera calor y se conserva.
+¿Cuál es un factor de riesgo de la diabetes tipo 2?|Obesidad y sedentarismo|Actividad física|Dormir bien|Dieta equilibrada|0|Se relaciona con hábitos de vida.
+¿Qué es el bocio?|Un exceso de calcio|Un tumor cerebral|El agrandamiento de la tiroides por falta de yodo|Una infección|2|Se previene con sal yodada.
+¿Por qué en la Argentina la sal es yodada?|Para dar sabor|Para aumentar la presión|Para conservar la comida|Para prevenir el bocio|3|Es una política de salud pública.
 ¿Qué efecto tiene el estrés crónico?|Eleva el cortisol y puede afectar la salud|Baja la presión|No tiene efecto|Mejora el sueño|0|Afecta al sistema inmune.
-¿Por qué la diabetes tipo 1 requiere insulina?|Es una infección|El páncreas no la produce por destrucción de células beta|El hígado la rechaza|Hay exceso de insulina|1|Es de origen autoinmune.
-¿Qué hormonas regulan el ciclo menstrual?|Insulina y glucagón|Tiroxina|Adrenalina y cortisol|Estrógenos y progesterona|3|Se regulan con la hipófisis.
-¿Cuál es la función de la hormona antidiurética?|Aumentar la orina|Producir leche|Bajar la glucemia|Reducir la pérdida de agua en la orina|3|Regula el agua del cuerpo.
-¿Qué órgano filtra la sangre en las nefronas?|El riñón|El páncreas|El corazón|El hígado|0|Forma orina.
-¿Qué hormona estimula las contracciones del parto?|Adrenalina|Insulina|Prolactina|Oxitocina|3|También interviene en el vínculo afectivo.
-¿Cuál es un valor normal de glucemia en ayunas?|Entre 200 y 300 mg/dL|Entre 70 y 100 mg/dL|Menos de 20 mg/dL|Más de 500 mg/dL|1|Mayor de 126 mg/dL sugiere diabetes.
+¿Por qué la diabetes tipo 1 requiere insulina?|Es una infección|El hígado la rechaza|El páncreas no la produce por destrucción de células beta|Hay exceso de insulina|2|Es de origen autoinmune.
+¿Qué hormonas regulan el ciclo menstrual?|Estrógenos y progesterona|Insulina y glucagón|Tiroxina|Adrenalina y cortisol|0|Se regulan con la hipófisis.
+¿Cuál es la función de la hormona antidiurética?|Producir leche|Bajar la glucemia|Aumentar la orina|Reducir la pérdida de agua en la orina|3|Regula el agua del cuerpo.
+¿Qué órgano filtra la sangre en las nefronas?|El hígado|El riñón|El corazón|El páncreas|1|Forma orina.
+¿Qué hormona estimula las contracciones del parto?|Insulina|Prolactina|Adrenalina|Oxitocina|3|También interviene en el vínculo afectivo.
+¿Cuál es un valor normal de glucemia en ayunas?|Más de 500 mg/dL|Menos de 20 mg/dL|Entre 200 y 300 mg/dL|Entre 70 y 100 mg/dL|3|Mayor de 126 mg/dL sugiere diabetes.

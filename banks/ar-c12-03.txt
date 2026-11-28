@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Cuál es la unidad de la energía en el SI?|Watt|Pascal|Kelvin|Joule|3|También se usa la caloría.
-¿Qué le ocurre a la entropía cuando un sólido se disuelve o se funde?|Disminuye|Aumenta|Se anula|No cambia|1|Hay más desorden.
-¿Qué enuncia el primer principio de la termodinámica?|La entropía siempre disminuye|La energía se crea|El calor fluye de frío a caliente|La energía se conserva|3|ΔU = Q − W.
-¿Cómo se llama una reacción que libera calor al entorno?|Exotérmica|Endotérmica|Isotérmica|Adiabática|0|Su ΔH es negativo.
-¿Qué enuncia la ley de Hess?|La entropía es constante|El ΔH depende del camino|La masa se pierde|El ΔH total no depende del camino|3|El ΔH es una función de estado.
-¿Cuál es el valor de ΔH de formación de un elemento en su estado estándar?|Negativo|Cero|Depende del elemento|Positivo|1|Es la convención de referencia.
-¿Qué signo tiene ΔH en una reacción exotérmica?|Depende de la masa|Positivo|Cero|Negativo|3|El sistema pierde entalpía.
-¿Qué magnitud mide el desorden de un sistema?|Entalpía|Temperatura|Presión|Entropía|3|Se simboliza con S.
-¿Qué mide la entalpía de reacción, ΔH, a presión constante?|El calor intercambiado|La masa|La velocidad|El volumen|0|Es el calor a presión constante.
-¿Cómo se llama una reacción que absorbe calor del entorno?|Endotérmica|Espontánea siempre|Nuclear|Exotérmica|0|Su ΔH es positivo.
+¿Cuál es la unidad de la energía en el SI?|Pascal|Watt|Kelvin|Joule|3|También se usa la caloría.
+¿Qué le ocurre a la entropía cuando un sólido se disuelve o se funde?|Se anula|Aumenta|Disminuye|No cambia|1|Hay más desorden.
+¿Qué enuncia el primer principio de la termodinámica?|El calor fluye de frío a caliente|La energía se crea|La energía se conserva|La entropía siempre disminuye|2|ΔU = Q − W.
+¿Cómo se llama una reacción que libera calor al entorno?|Isotérmica|Adiabática|Exotérmica|Endotérmica|2|Su ΔH es negativo.
+¿Qué enuncia la ley de Hess?|El ΔH depende del camino|La masa se pierde|La entropía es constante|El ΔH total no depende del camino|3|El ΔH es una función de estado.
+¿Cuál es el valor de ΔH de formación de un elemento en su estado estándar?|Depende del elemento|Cero|Positivo|Negativo|1|Es la convención de referencia.
+¿Qué signo tiene ΔH en una reacción exotérmica?|Positivo|Cero|Negativo|Depende de la masa|2|El sistema pierde entalpía.
+¿Qué magnitud mide el desorden de un sistema?|Temperatura|Entalpía|Entropía|Presión|2|Se simboliza con S.
+¿Qué mide la entalpía de reacción, ΔH, a presión constante?|La masa|La velocidad|El volumen|El calor intercambiado|3|Es el calor a presión constante.
+¿Cómo se llama una reacción que absorbe calor del entorno?|Nuclear|Espontánea siempre|Endotérmica|Exotérmica|2|Su ΔH es positivo.
 Si se duplican los coeficientes de una reacción con ΔH = −90 kJ, ¿cuánto vale el nuevo ΔH?|−180 kJ|−90 kJ|−45 kJ|+180 kJ|0|El ΔH es proporcional a la cantidad de reacción.
-Si ΔG = 0, el sistema:|No tiene entalpía|Es espontáneo|Está en equilibrio|No es espontáneo|2|No hay tendencia neta a avanzar.
-Si A → B tiene ΔH = +50 kJ y B → C tiene ΔH = −80 kJ, ¿cuál es el ΔH de A → C?|+130 kJ|+30 kJ|−30 kJ|−130 kJ|2|Por Hess: 50 + (−80) = −30 kJ.
-Si ΔG < 0 a una temperatura dada, la reacción es:|No espontánea|Imposible|Espontánea|Está en equilibrio|2|Un ΔG negativo indica espontaneidad.
-¿Qué calor se necesita para calentar 100 g de agua 10 °C? (c = 4,18 J/g·°C)|418 J|41 800 J|1000 J|4180 J|3|Q = m·c·ΔT = 100 · 4,18 · 10.
-Una reacción tiene ΔH < 0 y ΔS > 0. ¿Cuándo es espontánea?|Solo a baja temperatura|Nunca|Solo a alta temperatura|A cualquier temperatura|3|Ambos términos favorecen: ΔG es siempre negativo.
-¿Cuál es la ecuación de la energía libre de Gibbs?|ΔG = ΔH − T·ΔS|ΔG = ΔS − T·ΔH|ΔG = T·ΔH·ΔS|ΔG = ΔH + T·ΔS|0|Permite predecir la espontaneidad.
-Una reacción tiene ΔH > 0 y ΔS < 0. ¿Cuándo es espontánea?|Solo a baja temperatura|Nunca|Siempre|Solo a alta temperatura|1|ΔG = ΔH − TΔS es siempre positivo.
-¿Qué ΔH tiene una reacción con ΔH de productos −393 kJ y de reactivos −110 kJ?|+283 kJ|−503 kJ|+503 kJ|−283 kJ|3|ΔH = Σ productos − Σ reactivos = −393 − (−110).
-Si se invierte una reacción con ΔH = −100 kJ, ¿cuánto vale el nuevo ΔH?|+100 kJ|0 kJ|−100 kJ|+200 kJ|0|Se invierte el signo.
-¿Qué enuncia el segundo principio de la termodinámica?|La energía se conserva|La temperatura es constante|La entropía del universo disminuye|La entropía del universo aumenta en un proceso espontáneo|3|Define el sentido de los procesos espontáneos.
-¿Cuál es la relación entre ΔG° y la constante de equilibrio K?|ΔG° = −K·T|ΔG° = K/T|ΔG° = −R·T·ln K|ΔG° = R·T·ln K|2|Si K > 1, ΔG° es negativo.
-¿Qué le sucede a ΔG de una reacción con ΔH > 0 y ΔS > 0 al aumentar la temperatura?|No cambia|Disminuye|Aumenta|Se anula siempre|1|El término −TΔS se hace más negativo.
-Una reacción tiene ΔH = −92 kJ y ΔS = −199 J/K. ¿Cuánto vale ΔG a 298 K, aproximadamente?|−33 kJ|−92 kJ|−151 kJ|+33 kJ|0|ΔG = −92 − 298·(−0,199) ≈ −92 + 59,3 = −32,7 kJ.
-Una reacción absorbe 150 kJ y produce 0,5 mol de producto. ¿Cuánto absorbe por mol de producto?|300 kJ|150 kJ|600 kJ|75 kJ|0|150 kJ / 0,5 mol = 300 kJ/mol.
-Si K es mucho mayor que 1, ¿cómo es ΔG°?|Positivo|Cero|Infinito|Negativo|3|Los productos están favorecidos.
-¿Qué calor libera la reacción de 2 mol si ΔH = −200 kJ por mol de reacción y se producen 2 mol de reacción?|100 kJ|400 kJ|800 kJ|200 kJ|1|−200 · 2 = −400 kJ: se liberan 400 kJ.
-Para la combustión del metano, ΔHf del CH4 es −75, del CO2 −394 y del H2O líquida −286 kJ/mol. ¿Cuál es el ΔH de combustión?|+891 kJ/mol|−605 kJ/mol|−965 kJ/mol|−891 kJ/mol|3|(−394 + 2·(−286)) − (−75) = −966 + 75 = −891.
-¿Cuál es el estado de referencia estándar para ΔHf de O2?|Ozono con ΔHf positivo|O atómico|Gas O2 a 1 atm y 25 °C, con ΔHf = 0|Agua líquida|2|Es el estado más estable del elemento.
-Una reacción tiene ΔH = +40 kJ y ΔS = +100 J/K. ¿A qué temperatura ΔG = 0?|400 K|40 K|298 K|4000 K|0|T = ΔH/ΔS = 40 000 J / 100 J/K = 400 K.
+Si ΔG = 0, el sistema:|No tiene entalpía|Está en equilibrio|No es espontáneo|Es espontáneo|1|No hay tendencia neta a avanzar.
+Si A → B tiene ΔH = +50 kJ y B → C tiene ΔH = −80 kJ, ¿cuál es el ΔH de A → C?|−130 kJ|−30 kJ|+130 kJ|+30 kJ|1|Por Hess: 50 + (−80) = −30 kJ.
+Si ΔG < 0 a una temperatura dada, la reacción es:|No espontánea|Imposible|Está en equilibrio|Espontánea|3|Un ΔG negativo indica espontaneidad.
+¿Qué calor se necesita para calentar 100 g de agua 10 °C? (c = 4,18 J/g·°C)|4180 J|1000 J|418 J|41 800 J|0|Q = m·c·ΔT = 100 · 4,18 · 10.
+Una reacción tiene ΔH < 0 y ΔS > 0. ¿Cuándo es espontánea?|Solo a alta temperatura|Solo a baja temperatura|A cualquier temperatura|Nunca|2|Ambos términos favorecen: ΔG es siempre negativo.
+¿Cuál es la ecuación de la energía libre de Gibbs?|ΔG = T·ΔH·ΔS|ΔG = ΔH + T·ΔS|ΔG = ΔS − T·ΔH|ΔG = ΔH − T·ΔS|3|Permite predecir la espontaneidad.
+Una reacción tiene ΔH > 0 y ΔS < 0. ¿Cuándo es espontánea?|Siempre|Nunca|Solo a baja temperatura|Solo a alta temperatura|1|ΔG = ΔH − TΔS es siempre positivo.
+¿Qué ΔH tiene una reacción con ΔH de productos −393 kJ y de reactivos −110 kJ?|−503 kJ|−283 kJ|+283 kJ|+503 kJ|1|ΔH = Σ productos − Σ reactivos = −393 − (−110).
+Si se invierte una reacción con ΔH = −100 kJ, ¿cuánto vale el nuevo ΔH?|+100 kJ|−100 kJ|0 kJ|+200 kJ|0|Se invierte el signo.
+¿Qué enuncia el segundo principio de la termodinámica?|La temperatura es constante|La energía se conserva|La entropía del universo disminuye|La entropía del universo aumenta en un proceso espontáneo|3|Define el sentido de los procesos espontáneos.
+¿Cuál es la relación entre ΔG° y la constante de equilibrio K?|ΔG° = −R·T·ln K|ΔG° = K/T|ΔG° = R·T·ln K|ΔG° = −K·T|0|Si K > 1, ΔG° es negativo.
+¿Qué le sucede a ΔG de una reacción con ΔH > 0 y ΔS > 0 al aumentar la temperatura?|Aumenta|Disminuye|Se anula siempre|No cambia|1|El término −TΔS se hace más negativo.
+Una reacción tiene ΔH = −92 kJ y ΔS = −199 J/K. ¿Cuánto vale ΔG a 298 K, aproximadamente?|+33 kJ|−92 kJ|−151 kJ|−33 kJ|3|ΔG = −92 − 298·(−0,199) ≈ −92 + 59,3 = −32,7 kJ.
+Una reacción absorbe 150 kJ y produce 0,5 mol de producto. ¿Cuánto absorbe por mol de producto?|600 kJ|75 kJ|300 kJ|150 kJ|2|150 kJ / 0,5 mol = 300 kJ/mol.
+Si K es mucho mayor que 1, ¿cómo es ΔG°?|Negativo|Cero|Positivo|Infinito|0|Los productos están favorecidos.
+¿Qué calor libera la reacción de 2 mol si ΔH = −200 kJ por mol de reacción y se producen 2 mol de reacción?|400 kJ|100 kJ|200 kJ|800 kJ|0|−200 · 2 = −400 kJ: se liberan 400 kJ.
+Para la combustión del metano, ΔHf del CH4 es −75, del CO2 −394 y del H2O líquida −286 kJ/mol. ¿Cuál es el ΔH de combustión?|−891 kJ/mol|−605 kJ/mol|−965 kJ/mol|+891 kJ/mol|0|(−394 + 2·(−286)) − (−75) = −966 + 75 = −891.
+¿Cuál es el estado de referencia estándar para ΔHf de O2?|Gas O2 a 1 atm y 25 °C, con ΔHf = 0|Agua líquida|O atómico|Ozono con ΔHf positivo|0|Es el estado más estable del elemento.
+Una reacción tiene ΔH = +40 kJ y ΔS = +100 J/K. ¿A qué temperatura ΔG = 0?|4000 K|400 K|298 K|40 K|1|T = ΔH/ΔS = 40 000 J / 100 J/K = 400 K.

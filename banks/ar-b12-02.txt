@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Qué es un neurotransmisor?|Una vitamina|Una sustancia química que transmite señales entre neuronas|Un hueso|Un músculo|1|Se libera en la sinapsis.
-¿Qué es un reflejo?|Una acción pensada|Una respuesta rápida e involuntaria a un estímulo|Un sueño|Una emoción|1|Por ejemplo, retirar la mano de algo caliente.
-¿Qué componentes forman el sistema nervioso central?|Corazón y pulmones|Encéfalo y médula espinal|Músculos y huesos|Nervios y ganglios|1|El resto es el sistema periférico.
-¿Qué estructura del encéfalo coordina el equilibrio y los movimientos?|El bulbo|El lóbulo frontal|El cerebelo|El hipotálamo|2|Está debajo de los hemisferios cerebrales.
-¿Qué parte de la neurona recibe los estímulos?|Las dendritas|El axón|La vaina de mielina|El núcleo únicamente|0|Son prolongaciones ramificadas.
-¿Qué parte de la neurona conduce el impulso hacia otras células?|El cuerpo celular|El axón|El citoplasma|Las dendritas|1|Puede estar cubierto de mielina.
-¿Qué órgano regula la temperatura, el hambre y la sed?|El cerebelo|El hipotálamo|El hígado|El riñón|1|Se vincula con la hipófisis.
-¿Cómo se llama el espacio entre dos neuronas?|Sinapsis|Axón|Núcleo|Cromosoma|0|Allí actúan los neurotransmisores.
-¿Qué sentido percibe la luz?|El gusto|El tacto|La vista|El olfato|2|Los fotorreceptores están en la retina.
-¿Cómo se llama la célula básica del sistema nervioso?|Nefrona|Neurona|Hepatocito|Osteocito|1|Transmite impulsos nerviosos.
-¿Qué es el comportamiento innato?|Una costumbre cultural|Una conducta aprendida|Una conducta heredada que no requiere aprendizaje|Una enfermedad|2|Por ejemplo, el reflejo de succión.
-¿Qué iones intervienen en el potencial de acción?|Cloro y flúor únicamente|Calcio y yodo únicamente|Hierro y cobre|Sodio y potasio|3|Entran y salen por canales de membrana.
-¿Qué neurotransmisor se vincula con el placer y la motivación?|El colágeno|La dopamina|La adrenalina únicamente|La insulina|1|Se relaciona con el sistema de recompensa.
-¿Qué es el potencial de acción?|Una hormona|Un cambio rápido del potencial eléctrico de la membrana de la neurona|Un tipo de sinapsis|Un órgano|1|Es la base del impulso nervioso.
-¿Qué neurotransmisor interviene en la contracción muscular?|La acetilcolina|La insulina|La melatonina|El colágeno|0|Se libera en la unión neuromuscular.
-¿Qué lóbulo cerebral se asocia con el procesamiento visual?|El frontal|El occipital|El parietal|El temporal|1|Está en la parte posterior.
-¿Qué efecto tiene la activación del sistema simpático?|Reduce la presión de manera permanente|Prepara al cuerpo para la acción y aumenta la frecuencia cardíaca|Disminuye la frecuencia cardíaca|Provoca sueño|1|Es la respuesta de lucha o huida.
-¿Qué función cumple la vaina de mielina?|Aumenta la velocidad de conducción del impulso|Digiere desechos|Aporta energía|Produce neurotransmisores|0|Aísla el axón.
-¿Qué divisiones tiene el sistema nervioso autónomo?|Central y periférica|Simpática y parasimpática|Frontal y occipital|Sensitiva y motora|1|Controla funciones involuntarias.
-¿Qué es la habituación?|Disminución de la respuesta ante un estímulo repetido sin consecuencias|Un aumento de la respuesta|Un reflejo innato|Una mutación|0|Es una forma simple de aprendizaje.
-¿Cómo actúan muchas drogas psicoactivas en el sistema nervioso?|No llegan al encéfalo|Alteran la acción de los neurotransmisores en las sinapsis|Modifican el ADN de inmediato|Destruyen todos los huesos|1|Pueden generar dependencia.
-¿Qué es la impronta (imprinting)?|Un aprendizaje rápido durante un período sensible temprano|Un tipo de mutación|Un neurotransmisor|Un reflejo adulto|0|Konrad Lorenz lo estudió en gansos.
+¿Qué es un neurotransmisor?|Un hueso|Una vitamina|Una sustancia química que transmite señales entre neuronas|Un músculo|2|Se libera en la sinapsis.
+¿Qué es un reflejo?|Una emoción|Una acción pensada|Una respuesta rápida e involuntaria a un estímulo|Un sueño|2|Por ejemplo, retirar la mano de algo caliente.
+¿Qué componentes forman el sistema nervioso central?|Nervios y ganglios|Músculos y huesos|Encéfalo y médula espinal|Corazón y pulmones|2|El resto es el sistema periférico.
+¿Qué estructura del encéfalo coordina el equilibrio y los movimientos?|El cerebelo|El lóbulo frontal|El bulbo|El hipotálamo|0|Está debajo de los hemisferios cerebrales.
+¿Qué parte de la neurona recibe los estímulos?|Las dendritas|El núcleo únicamente|El axón|La vaina de mielina|0|Son prolongaciones ramificadas.
+¿Qué parte de la neurona conduce el impulso hacia otras células?|Las dendritas|El axón|El citoplasma|El cuerpo celular|1|Puede estar cubierto de mielina.
+¿Qué órgano regula la temperatura, el hambre y la sed?|El hipotálamo|El hígado|El cerebelo|El riñón|0|Se vincula con la hipófisis.
+¿Cómo se llama el espacio entre dos neuronas?|Axón|Cromosoma|Núcleo|Sinapsis|3|Allí actúan los neurotransmisores.
+¿Qué sentido percibe la luz?|El tacto|La vista|El gusto|El olfato|1|Los fotorreceptores están en la retina.
+¿Cómo se llama la célula básica del sistema nervioso?|Osteocito|Nefrona|Hepatocito|Neurona|3|Transmite impulsos nerviosos.
+¿Qué es el comportamiento innato?|Una conducta heredada que no requiere aprendizaje|Una costumbre cultural|Una enfermedad|Una conducta aprendida|0|Por ejemplo, el reflejo de succión.
+¿Qué iones intervienen en el potencial de acción?|Sodio y potasio|Calcio y yodo únicamente|Hierro y cobre|Cloro y flúor únicamente|0|Entran y salen por canales de membrana.
+¿Qué neurotransmisor se vincula con el placer y la motivación?|El colágeno|La insulina|La dopamina|La adrenalina únicamente|2|Se relaciona con el sistema de recompensa.
+¿Qué es el potencial de acción?|Un tipo de sinapsis|Una hormona|Un órgano|Un cambio rápido del potencial eléctrico de la membrana de la neurona|3|Es la base del impulso nervioso.
+¿Qué neurotransmisor interviene en la contracción muscular?|El colágeno|La insulina|La acetilcolina|La melatonina|2|Se libera en la unión neuromuscular.
+¿Qué lóbulo cerebral se asocia con el procesamiento visual?|El parietal|El frontal|El temporal|El occipital|3|Está en la parte posterior.
+¿Qué efecto tiene la activación del sistema simpático?|Disminuye la frecuencia cardíaca|Provoca sueño|Reduce la presión de manera permanente|Prepara al cuerpo para la acción y aumenta la frecuencia cardíaca|3|Es la respuesta de lucha o huida.
+¿Qué función cumple la vaina de mielina?|Produce neurotransmisores|Digiere desechos|Aumenta la velocidad de conducción del impulso|Aporta energía|2|Aísla el axón.
+¿Qué divisiones tiene el sistema nervioso autónomo?|Sensitiva y motora|Central y periférica|Simpática y parasimpática|Frontal y occipital|2|Controla funciones involuntarias.
+¿Qué es la habituación?|Disminución de la respuesta ante un estímulo repetido sin consecuencias|Un reflejo innato|Un aumento de la respuesta|Una mutación|0|Es una forma simple de aprendizaje.
+¿Cómo actúan muchas drogas psicoactivas en el sistema nervioso?|Modifican el ADN de inmediato|Alteran la acción de los neurotransmisores en las sinapsis|No llegan al encéfalo|Destruyen todos los huesos|1|Pueden generar dependencia.
+¿Qué es la impronta (imprinting)?|Un neurotransmisor|Un tipo de mutación|Un reflejo adulto|Un aprendizaje rápido durante un período sensible temprano|3|Konrad Lorenz lo estudió en gansos.
 ¿Qué enfermedad neurodegenerativa se asocia con la pérdida de neuronas productoras de dopamina?|La enfermedad de Parkinson|La anemia|La gripe|La diabetes|0|Provoca temblor y rigidez.
-¿Qué diferencia hay entre la sinapsis eléctrica y la química?|No hay diferencia|Ambas usan hormonas de la sangre|La química usa neurotransmisores y la eléctrica pasa la señal por uniones directas|La eléctrica usa neurotransmisores únicamente|2|La eléctrica es más rápida.
-¿Qué papel cumple la glía?|Sostiene y nutre a las neuronas y participa en la protección|Produce hormonas sexuales|Solo transmite impulsos|Forma los huesos|0|Hay más células gliales que neuronas en algunas regiones.
-¿Qué es la plasticidad neuronal?|La rigidez del tejido nervioso|La capacidad del cerebro de modificar sus conexiones con la experiencia|La pérdida de neuronas|Un tipo de neurotransmisor|1|Sustenta el aprendizaje y la memoria.
-¿Qué demostró Pavlov con sus experimentos con perros?|La herencia mendeliana|El origen de la vida|El condicionamiento clásico: asociar un estímulo neutro con uno que provoca respuesta|La selección natural|2|La campana llegó a provocar salivación.
-¿Por qué las conductas sociales pueden favorecer la supervivencia?|Porque eliminan la competencia por completo|Porque la cooperación mejora la defensa, la alimentación y el cuidado de las crías|Porque no tienen costo|Porque son siempre innatas|1|Por ejemplo, las manadas y las colmenas.
-¿Qué es el aprendizaje por ensayo y error?|Una conducta heredada|Asociar una conducta con sus consecuencias y repetir las que resultan beneficiosas|Un reflejo medular|Una mutación|1|Se vincula con el condicionamiento operante.
-¿Qué estructura es clave en la formación de nuevos recuerdos?|El bulbo raquídeo|El cerebelo|El hipocampo|La médula espinal|2|Se ubica en el lóbulo temporal.
+¿Qué diferencia hay entre la sinapsis eléctrica y la química?|Ambas usan hormonas de la sangre|La química usa neurotransmisores y la eléctrica pasa la señal por uniones directas|No hay diferencia|La eléctrica usa neurotransmisores únicamente|1|La eléctrica es más rápida.
+¿Qué papel cumple la glía?|Solo transmite impulsos|Sostiene y nutre a las neuronas y participa en la protección|Produce hormonas sexuales|Forma los huesos|1|Hay más células gliales que neuronas en algunas regiones.
+¿Qué es la plasticidad neuronal?|La pérdida de neuronas|La rigidez del tejido nervioso|Un tipo de neurotransmisor|La capacidad del cerebro de modificar sus conexiones con la experiencia|3|Sustenta el aprendizaje y la memoria.
+¿Qué demostró Pavlov con sus experimentos con perros?|La herencia mendeliana|El condicionamiento clásico: asociar un estímulo neutro con uno que provoca respuesta|La selección natural|El origen de la vida|1|La campana llegó a provocar salivación.
+¿Por qué las conductas sociales pueden favorecer la supervivencia?|Porque son siempre innatas|Porque eliminan la competencia por completo|Porque no tienen costo|Porque la cooperación mejora la defensa, la alimentación y el cuidado de las crías|3|Por ejemplo, las manadas y las colmenas.
+¿Qué es el aprendizaje por ensayo y error?|Una conducta heredada|Asociar una conducta con sus consecuencias y repetir las que resultan beneficiosas|Una mutación|Un reflejo medular|1|Se vincula con el condicionamiento operante.
+¿Qué estructura es clave en la formación de nuevos recuerdos?|El cerebelo|La médula espinal|El hipocampo|El bulbo raquídeo|2|Se ubica en el lóbulo temporal.

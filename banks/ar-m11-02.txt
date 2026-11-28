@@ -1,51 +1,51 @@
 #EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
-Si f(x) = 10ˣ, ¿cuánto vale f(0)?|0|10|2|1|3|f(0) = 10⁰ = 1.
-Calculá el logaritmo en base 3 de 9.|2|4|3|1|0|Porque 3² = 9.
+Si f(x) = 10ˣ, ¿cuánto vale f(0)?|1|10|2|0|0|f(0) = 10⁰ = 1.
+Calculá el logaritmo en base 3 de 9.|2|3|4|1|0|Porque 3² = 9.
 Calculá el logaritmo en base 10 de 1000.|3|100|10|5|0|Porque 10³ = 1000.
-Resolvé 2ˣ = 8.|x = 4|x = 2|x = 3|x = 8|2|Como 8 = 2³, igualando exponentes x = 3.
-Resolvé 5ˣ = 3125.|x = 6|x = 4|x = 3125|x = 5|3|Como 3125 = 5⁵, igualando exponentes x = 5.
-Si f(x) = 5ˣ, ¿cuánto vale f(2)?|32|25|7|10|1|f(2) = 5² = 25.
-Calculá el logaritmo en base 2 de 8.|4|2|3|5|2|Porque 2³ = 8.
-Si f(x) = 10ˣ, ¿cuánto vale f(3)?|30|59049|13|1000|3|f(3) = 10³ = 1000.
-Calculá el logaritmo en base 2 de 2.|2|3|1|0|2|Porque 2¹ = 2.
-Resolvé 2ˣ = 16.|x = 4|x = 5|x = 16|x = 2|0|Como 16 = 2⁴, igualando exponentes x = 4.
-Calculá el logaritmo en base 5 de 5.|3|1|2|5|1|Porque 5¹ = 5.
-Calculá el logaritmo en base 10 de 10.|2|10|1|3|2|Porque 10¹ = 10.
-Resolvé 3ˣ = 3.|x = 3|x = 2|x = 0|x = 1|3|Como 3 = 3¹, igualando exponentes x = 1.
-¿Cuánto vale el logaritmo en base 5 de 1?|No está definido|0|5|1|1|Porque 5⁰ = 1.
-Resolvé 3ˣ = 27.|x = 4|x = 2|x = 27|x = 3|3|Como 27 = 3³, igualando exponentes x = 3.
-Si f(x) = 2ˣ, ¿cuánto vale f(4)?|6|17|8|16|3|f(4) = 2⁴ = 16.
-¿Cuánto vale el logaritmo en base 10 de 1?|1|No está definido|10|0|3|Porque 10⁰ = 1.
+Resolvé 2ˣ = 8.|x = 2|x = 8|x = 4|x = 3|3|Como 8 = 2³, igualando exponentes x = 3.
+Resolvé 5ˣ = 3125.|x = 4|x = 3125|x = 5|x = 6|2|Como 3125 = 5⁵, igualando exponentes x = 5.
+Si f(x) = 5ˣ, ¿cuánto vale f(2)?|7|10|25|32|2|f(2) = 5² = 25.
+Calculá el logaritmo en base 2 de 8.|3|2|5|4|0|Porque 2³ = 8.
+Si f(x) = 10ˣ, ¿cuánto vale f(3)?|30|1000|59049|13|1|f(3) = 10³ = 1000.
+Calculá el logaritmo en base 2 de 2.|0|3|1|2|2|Porque 2¹ = 2.
+Resolvé 2ˣ = 16.|x = 5|x = 2|x = 16|x = 4|3|Como 16 = 2⁴, igualando exponentes x = 4.
+Calculá el logaritmo en base 5 de 5.|3|5|2|1|3|Porque 5¹ = 5.
+Calculá el logaritmo en base 10 de 10.|10|3|1|2|2|Porque 10¹ = 10.
+Resolvé 3ˣ = 3.|x = 2|x = 0|x = 3|x = 1|3|Como 3 = 3¹, igualando exponentes x = 1.
+¿Cuánto vale el logaritmo en base 5 de 1?|1|0|5|No está definido|1|Porque 5⁰ = 1.
+Resolvé 3ˣ = 27.|x = 2|x = 3|x = 27|x = 4|1|Como 27 = 3³, igualando exponentes x = 3.
+Si f(x) = 2ˣ, ¿cuánto vale f(4)?|16|8|6|17|0|f(4) = 2⁴ = 16.
+¿Cuánto vale el logaritmo en base 10 de 1?|1|No está definido|0|10|2|Porque 10⁰ = 1.
 Una población de 1000 bacterias se duplica cada hora. ¿Cuántas habrá después de 4 horas?|32.000|16.000|8.000|1.008|1|P(t) = 1000 · 2ᵗ; con t = 4: 1000 · 16 = 16.000.
-Resolvé 2^(2x + 4) = 16384.|x = 14|x = 6|x = 5|x = 7|2|Se igualan los exponentes: 2x + 4 = 14, entonces x = 5.
-Calculá el logaritmo en base 2 de 4 más el logaritmo en base 2 de 32.|8|10|6|7|3|log(a) + log(b) = log(a·b): log₍2₎ 128 = 7.
-Calculá el logaritmo en base 10 de 10 más el logaritmo en base 10 de 100.|4|3|110|2|1|log(a) + log(b) = log(a·b): log₍10₎ 1000 = 3.
-Resolvé 3^(2x + 1) = 243.|x = 5|x = 3|x = 5/2|x = 2|3|Se igualan los exponentes: 2x + 1 = 5, entonces x = 2.
-Una población de 500 bacterias se duplica cada hora. ¿Cuántas habrá después de 5 horas?|5.000|16.000|510|12.500|1|P(t) = 500 · 2ᵗ; con t = 5: 500 · 32 = 16.000.
-Sabiendo que log₍2₎ M = 4, ¿cuánto vale log₍2₎ M³?|12|7|3|64|0|log(Mⁿ) = n · log M = 3 · 4 = 12.
-Calculá el logaritmo en base 2 de 2 más el logaritmo en base 2 de 32.|5|7|6|34|2|log(a) + log(b) = log(a·b): log₍2₎ 64 = 6.
-Resolvé 2^(4x + 2) = 262144.|x = 9/2|x = 18|x = 4|x = 5|2|Se igualan los exponentes: 4x + 2 = 18, entonces x = 4.
-Resolvé 2^(3x + 2) = 32.|x = 5/3|x = 5|x = 1|x = 2|2|Se igualan los exponentes: 3x + 2 = 5, entonces x = 1.
-Calculá el logaritmo en base 2 de 4 más el logaritmo en base 2 de 16.|7|6|8|5|1|log(a) + log(b) = log(a·b): log₍2₎ 64 = 6.
-Una población de 200 bacterias se duplica cada hora. ¿Cuántas habrá después de 5 horas?|5.000|6.400|210|2.000|1|P(t) = 200 · 2ᵗ; con t = 5: 200 · 32 = 6.400.
-Resolvé 2^(4x + 3) = 524288.|x = 19|x = 4|x = 19/4|x = 5|1|Se igualan los exponentes: 4x + 3 = 19, entonces x = 4.
-Sabiendo que log₍2₎ M = 2, ¿cuánto vale log₍2₎ M³?|3|8|5|6|3|log(Mⁿ) = n · log M = 3 · 2 = 6.
-Sabiendo que log₍2₎ M = 3, ¿cuánto vale log₍2₎ M²?|6|9|2|5|0|log(Mⁿ) = n · log M = 2 · 3 = 6.
-Sabiendo que log₍5₎ M = 4, ¿cuánto vale log₍5₎ M²?|16|6|2|8|3|log(Mⁿ) = n · log M = 2 · 4 = 8.
-Una población de 200 bacterias se duplica cada hora. ¿Cuántas habrá después de 4 horas?|1.600|208|6.400|3.200|3|P(t) = 200 · 2ᵗ; con t = 4: 200 · 16 = 3.200.
-Si x = 25 e y = 5, ¿cuánto vale log₍5₎(x · y)?|125|30|4|3|3|x · y = 125 = 5³, entonces el logaritmo es 3.
-Calculá log₍2₎ 64 − log₍2₎ 4.|16|8|4|12|2|log(a) − log(b) = log(a/b) = log₍2₎ 16 = 4.
-Calculá log₍3₎ 729 − log₍3₎ 9.|81|12|8|4|3|log(a) − log(b) = log(a/b) = log₍3₎ 81 = 4.
-Resolvé log₍3₎(x + 1) = 3.|x = 2|x = 27|x = 8|x = 26|3|x + 1 = 3³ = 27, entonces x = 26.
-Resolvé log₍3₎(x + 4) = 2.|x = 5|x = −2|x = 2|x = 9|0|x + 4 = 3² = 9, entonces x = 5.
+Resolvé 2^(2x + 4) = 16384.|x = 7|x = 14|x = 6|x = 5|3|Se igualan los exponentes: 2x + 4 = 14, entonces x = 5.
+Calculá el logaritmo en base 2 de 4 más el logaritmo en base 2 de 32.|8|6|10|7|3|log(a) + log(b) = log(a·b): log₍2₎ 128 = 7.
+Calculá el logaritmo en base 10 de 10 más el logaritmo en base 10 de 100.|110|2|3|4|2|log(a) + log(b) = log(a·b): log₍10₎ 1000 = 3.
+Resolvé 3^(2x + 1) = 243.|x = 3|x = 5|x = 5/2|x = 2|3|Se igualan los exponentes: 2x + 1 = 5, entonces x = 2.
+Una población de 500 bacterias se duplica cada hora. ¿Cuántas habrá después de 5 horas?|510|12.500|16.000|5.000|2|P(t) = 500 · 2ᵗ; con t = 5: 500 · 32 = 16.000.
+Sabiendo que log₍2₎ M = 4, ¿cuánto vale log₍2₎ M³?|3|7|12|64|2|log(Mⁿ) = n · log M = 3 · 4 = 12.
+Calculá el logaritmo en base 2 de 2 más el logaritmo en base 2 de 32.|5|6|34|7|1|log(a) + log(b) = log(a·b): log₍2₎ 64 = 6.
+Resolvé 2^(4x + 2) = 262144.|x = 18|x = 4|x = 5|x = 9/2|1|Se igualan los exponentes: 4x + 2 = 18, entonces x = 4.
+Resolvé 2^(3x + 2) = 32.|x = 5/3|x = 1|x = 5|x = 2|1|Se igualan los exponentes: 3x + 2 = 5, entonces x = 1.
+Calculá el logaritmo en base 2 de 4 más el logaritmo en base 2 de 16.|7|8|6|5|2|log(a) + log(b) = log(a·b): log₍2₎ 64 = 6.
+Una población de 200 bacterias se duplica cada hora. ¿Cuántas habrá después de 5 horas?|6.400|210|2.000|5.000|0|P(t) = 200 · 2ᵗ; con t = 5: 200 · 32 = 6.400.
+Resolvé 2^(4x + 3) = 524288.|x = 19/4|x = 5|x = 4|x = 19|2|Se igualan los exponentes: 4x + 3 = 19, entonces x = 4.
+Sabiendo que log₍2₎ M = 2, ¿cuánto vale log₍2₎ M³?|3|6|5|8|1|log(Mⁿ) = n · log M = 3 · 2 = 6.
+Sabiendo que log₍2₎ M = 3, ¿cuánto vale log₍2₎ M²?|5|9|2|6|3|log(Mⁿ) = n · log M = 2 · 3 = 6.
+Sabiendo que log₍5₎ M = 4, ¿cuánto vale log₍5₎ M²?|8|16|6|2|0|log(Mⁿ) = n · log M = 2 · 4 = 8.
+Una población de 200 bacterias se duplica cada hora. ¿Cuántas habrá después de 4 horas?|6.400|208|1.600|3.200|3|P(t) = 200 · 2ᵗ; con t = 4: 200 · 16 = 3.200.
+Si x = 25 e y = 5, ¿cuánto vale log₍5₎(x · y)?|30|3|4|125|1|x · y = 125 = 5³, entonces el logaritmo es 3.
+Calculá log₍2₎ 64 − log₍2₎ 4.|16|8|12|4|3|log(a) − log(b) = log(a/b) = log₍2₎ 16 = 4.
+Calculá log₍3₎ 729 − log₍3₎ 9.|4|8|81|12|0|log(a) − log(b) = log(a/b) = log₍3₎ 81 = 4.
+Resolvé log₍3₎(x + 1) = 3.|x = 8|x = 26|x = 27|x = 2|1|x + 1 = 3³ = 27, entonces x = 26.
+Resolvé log₍3₎(x + 4) = 2.|x = 2|x = −2|x = 5|x = 9|2|x + 4 = 3² = 9, entonces x = 5.
 Resolvé log₍2₎(x + 2) = 2.|x = 2|x = 6|x = 0|x = 4|0|x + 2 = 2² = 4, entonces x = 2.
-Se depositan $20.000 a un interés compuesto anual del 10 %. ¿Cuánto dinero hay después de 2 años?|$24.000|$24.200|$26.200|$22.000|1|M = C·(1 + i)ⁿ = 20.000 · 1,1² = $24.200.
-Se depositan $20.000 a un interés compuesto anual del 20 %. ¿Cuánto dinero hay después de 2 años?|$28.800|$24.000|$28.000|$30.800|0|M = C·(1 + i)ⁿ = 20.000 · 1,2² = $28.800.
-Un medicamento se degrada a la mitad cada hora. Si hay 2000 mg al comienzo, ¿cuánto queda después de 4 horas? (en mg)|500|1800|996|125|3|Cantidad = 2000 · (1/2)⁴ = 125 mg.
-Calculá log₍2₎ 16 − log₍2₎ 2.|3|8|5|4|0|log(a) − log(b) = log(a/b) = log₍2₎ 8 = 3.
-Si x = 27 e y = 3, ¿cuánto vale log₍3₎(x · y)?|5|4|81|30|1|x · y = 81 = 3⁴, entonces el logaritmo es 4.
-Un medicamento se degrada a la mitad cada hora. Si hay 4000 mg al comienzo, ¿cuánto queda después de 4 horas? (en mg)|1000|3800|250|1996|2|Cantidad = 4000 · (1/2)⁴ = 250 mg.
-Se depositan $10.000 a un interés compuesto anual del 10 %. ¿Cuánto dinero hay después de 3 años?|$13.310|$13.000|$14.310|$11.000|0|M = C·(1 + i)ⁿ = 10.000 · 1,1³ = $13.310.
-Se depositan $50.000 a un interés compuesto anual del 5 %. ¿Cuánto dinero hay después de 2 años?|$55.125|$55.000|$60.125|$52.500|0|M = C·(1 + i)ⁿ = 50.000 · 1,05² = $55.125.
-Resolvé log₍10₎(x + 3) = 2.|x = −1|x = 17|x = 100|x = 97|3|x + 3 = 10² = 100, entonces x = 97.
-Si x = 125 e y = 5, ¿cuánto vale log₍5₎(x · y)?|130|4|5|625|1|x · y = 625 = 5⁴, entonces el logaritmo es 4.
+Se depositan $20.000 a un interés compuesto anual del 10 %. ¿Cuánto dinero hay después de 2 años?|$22.000|$24.200|$24.000|$26.200|1|M = C·(1 + i)ⁿ = 20.000 · 1,1² = $24.200.
+Se depositan $20.000 a un interés compuesto anual del 20 %. ¿Cuánto dinero hay después de 2 años?|$24.000|$28.000|$30.800|$28.800|3|M = C·(1 + i)ⁿ = 20.000 · 1,2² = $28.800.
+Un medicamento se degrada a la mitad cada hora. Si hay 2000 mg al comienzo, ¿cuánto queda después de 4 horas? (en mg)|125|996|500|1800|0|Cantidad = 2000 · (1/2)⁴ = 125 mg.
+Calculá log₍2₎ 16 − log₍2₎ 2.|3|5|8|4|0|log(a) − log(b) = log(a/b) = log₍2₎ 8 = 3.
+Si x = 27 e y = 3, ¿cuánto vale log₍3₎(x · y)?|30|81|5|4|3|x · y = 81 = 3⁴, entonces el logaritmo es 4.
+Un medicamento se degrada a la mitad cada hora. Si hay 4000 mg al comienzo, ¿cuánto queda después de 4 horas? (en mg)|3800|250|1000|1996|1|Cantidad = 4000 · (1/2)⁴ = 250 mg.
+Se depositan $10.000 a un interés compuesto anual del 10 %. ¿Cuánto dinero hay después de 3 años?|$11.000|$13.310|$13.000|$14.310|1|M = C·(1 + i)ⁿ = 10.000 · 1,1³ = $13.310.
+Se depositan $50.000 a un interés compuesto anual del 5 %. ¿Cuánto dinero hay después de 2 años?|$55.000|$60.125|$52.500|$55.125|3|M = C·(1 + i)ⁿ = 50.000 · 1,05² = $55.125.
+Resolvé log₍10₎(x + 3) = 2.|x = 97|x = −1|x = 17|x = 100|0|x + 3 = 10² = 100, entonces x = 97.
+Si x = 125 e y = 5, ¿cuánto vale log₍5₎(x · y)?|625|5|4|130|2|x · y = 625 = 5⁴, entonces el logaritmo es 4.

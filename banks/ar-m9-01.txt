@@ -1,51 +1,51 @@
 #EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
-Calculá 8/12 + 11/12.|22/3|19/144|19/24|19/12|3|Con el mismo denominador se suman los numeradores y se conserva el denominador: (8 + 11)/12 = 19/12.
-¿Cuánto es el 10 % de 40?|4|1/10|40|50|0|10 % de 40 = 10 ÷ 100 × 40 = 4.
-¿Cuánto es el 50 % de 600?|650|12|3000|300|3|50 % de 600 = 50 ÷ 100 × 600 = 300.
-¿Cuánto es el 30 % de 300?|330|900|90|10|2|30 % de 300 = 30 ÷ 100 × 300 = 90.
-¿Cuánto es el 5 % de 120?|6|24|125|60|0|5 % de 120 = 5 ÷ 100 × 120 = 6.
-Calculá 2/11 + 1/11.|3/22|3/11|2/11|3/121|1|Con el mismo denominador se suman los numeradores y se conserva el denominador: (2 + 1)/11 = 3/11.
-¿Cuánto es el 10 % de 80?|1/10|8|90|80|1|10 % de 80 = 10 ÷ 100 × 80 = 8.
-¿Cuál es la expresión decimal de 15/8?|1,875|0,5333|18,75|1,6667|0|Se divide el numerador por el denominador: 15 ÷ 8 = 1,875.
-¿Cuál es la expresión decimal de 4/5?|0,8|8|1,25|0,6667|0|Se divide el numerador por el denominador: 4 ÷ 5 = 0,8.
-¿Cuál es la expresión decimal de 11/5?|2,2|1,8333|22|0,4545|0|Se divide el numerador por el denominador: 11 ÷ 5 = 2,2.
-Calculá 4/10 + 1/10.|5/20|1/20|1/2|2/5|2|Con el mismo denominador se suman los numeradores y se conserva el denominador: (4 + 1)/10 = 1/2.
-¿Cuál es la expresión decimal de 5/2?|1,6667|0,4|25|2,5|3|Se divide el numerador por el denominador: 5 ÷ 2 = 2,5.
-Simplificá al máximo la fracción 2/4.|1/2|1/4|1/3|2/2|0|Se divide numerador y denominador por 2, su divisor común mayor: 1/2.
-Calculá 4/12 + 5/12.|3/4|5/3|9/24|1/16|0|Con el mismo denominador se suman los numeradores y se conserva el denominador: (4 + 5)/12 = 3/4.
-Simplificá al máximo la fracción 6/8.|6/4|4/4|3/8|3/4|3|Se divide numerador y denominador por 2, su divisor común mayor: 3/4.
-Simplificá al máximo la fracción 12/21.|4/7|12/7|5/7|4/21|0|Se divide numerador y denominador por 3, su divisor común mayor: 4/7.
-¿Cuál es la expresión decimal de 12/5?|2,4|0,4167|24|2|0|Se divide el numerador por el denominador: 12 ÷ 5 = 2,4.
-Calculá 2/6 ÷ 5/4.|5/12|4/15|17/12|15/4|1|Dividir equivale a multiplicar por la fracción inversa: 2/6 × 4/5 = 4/15.
-Calculá 7/10 + 2/9.|9/90|9/19|83/90|43/90|2|Se busca un denominador común (m.c.m. de 10 y 9 = 90) y se suma: 83/90.
-Una campera cuesta $5000 y tiene un descuento del 15 %. ¿Cuánto se paga?|$4985|$750|$5750|$4250|3|El descuento es $750; se paga 5000 − 750 = $4250.
-Calculá 3/6 × 1/3.|4/9|1/6|3/2|5/6|1|Se multiplican numeradores y denominadores: 3·1 / 6·3 = 1/6.
-Un producto cuesta $1000 sin IVA. Con IVA del 21 %, ¿cuál es el precio final?|$210|$790|$1021|$1210|3|El precio final es 1000 × 1,21 = 1210.
-Calculá 1/4 × 2/5.|5/8|13/20|3/9|1/10|3|Se multiplican numeradores y denominadores: 1·2 / 4·5 = 1/10.
-Calculá 2/5 + 2/9.|8/45|4/14|28/45|4/45|2|Se busca un denominador común (m.c.m. de 5 y 9 = 45) y se suma: 28/45.
-Calculá 3/5 ÷ 5/7.|21/25|25/21|10/7|3/7|0|Dividir equivale a multiplicar por la fracción inversa: 3/5 × 7/5 = 21/25.
-Calculá 4/5 + 1/3.|5/15|17/15|7/15|5/8|1|Se busca un denominador común (m.c.m. de 5 y 3 = 15) y se suma: 17/15.
-¿Cuál es la fracción generatriz de 0,2̂ (decimal periódico puro)?|2/10|2/9|2/99|2/100|1|Un decimal periódico puro es el período dividido por tantos 9 como cifras tiene el período: 0,2̂ = 2/9.
-Un producto cuesta $2000 sin IVA. Con IVA del 21 %, ¿cuál es el precio final?|$420|$1580|$2420|$2021|2|El precio final es 2000 × 1,21 = 2420.
-Calculá 1/6 × 2/7.|7/12|19/42|1/21|3/13|2|Se multiplican numeradores y denominadores: 1·2 / 6·7 = 1/21.
-Calculá 2/3 + 1/4.|5/12|3/7|11/12|3/12|2|Se busca un denominador común (m.c.m. de 3 y 4 = 12) y se suma: 11/12.
-Calculá 2/3 + 2/9.|4/9|8/9|4/27|4/12|1|Se busca un denominador común (m.c.m. de 3 y 9 = 9) y se suma: 8/9.
-Una campera cuesta $800 y tiene un descuento del 15 %. ¿Cuánto se paga?|$120|$680|$785|$920|1|El descuento es $120; se paga 800 − 120 = $680.
-Una campera cuesta $4000 y tiene un descuento del 30 %. ¿Cuánto se paga?|$5200|$1200|$3970|$2800|3|El descuento es $1200; se paga 4000 − 1200 = $2800.
-Calculá 3/5 ÷ 3/2.|2/5|5/2|19/10|9/10|0|Dividir equivale a multiplicar por la fracción inversa: 3/5 × 2/3 = 2/5.
-Después de un aumento del 25 % un artículo cuesta $1000. ¿Cuánto costaba antes del aumento?|$250|$975|$750|$800|3|El precio original es el 100 % y el final es el 125 %: 1000 ÷ 5/4 = 800.
-Después de un aumento del 10 % un artículo cuesta $2640. ¿Cuánto costaba antes del aumento?|$264|$2400|$2376|$2630|1|El precio original es el 100 % y el final es el 110 %: 2640 ÷ 11/10 = 2400.
-Calculá 1/3 + 2/5 × 5/4 respetando la jerarquía de operaciones.|11/12|1/2|5/6|119/60|2|Primero se multiplica: 2/5 × 5/4 = 1/2; luego se suma 1/3 y el resultado es 5/6.
-¿Cuál es la fracción generatriz de 0,35̂ (período mixto)?|35/90|16/45|35/99|32/9|1|Período mixto: (número sin la coma − parte no periódica) ÷ (9 por cada cifra del período y 0 por cada cifra no periódica) = (35 − 3)/90 = 16/45.
-6 obreros terminan una obra en 15 días. Si trabajaran 30 obreros al mismo ritmo, ¿en cuántos días la terminarían?|−15 días|45 días|3 días|75 días|2|Es proporcionalidad inversa: el producto se conserva. 6 × 15 = 90, y 90 ÷ 30 = 3 días.
-4 obreros terminan una obra en 12 días. Si trabajaran 3 obreros al mismo ritmo, ¿en cuántos días la terminarían?|16 días|15 días|9 días|17 días|0|Es proporcionalidad inversa: el producto se conserva. 4 × 12 = 48, y 48 ÷ 3 = 16 días.
-Un precio de $4000 aumenta un 20 % y luego se le hace un descuento del 10 % sobre el nuevo precio. ¿Cuál es el precio final?|$4320|$4400|$5200|$4000|0|Primero 4000 × 6/5 = 4800; después 4800 × 9/10 = 4320. Los porcentajes sucesivos no se suman ni se restan.
-Un precio de $1000 aumenta un 10 % y luego se le hace un descuento del 20 % sobre el nuevo precio. ¿Cuál es el precio final?|$1000|$900|$1300|$880|3|Primero 1000 × 11/10 = 1100; después 1100 × 4/5 = 880. Los porcentajes sucesivos no se suman ni se restan.
-Calculá 1/3 + 1/6 × 5/4 respetando la jerarquía de operaciones.|5/24|13/24|5/8|7/4|1|Primero se multiplica: 1/6 × 5/4 = 5/24; luego se suma 1/3 y el resultado es 13/24.
-Después de un aumento del 25 % un artículo cuesta $2500. ¿Cuánto costaba antes del aumento?|$2000|$625|$2475|$1875|0|El precio original es el 100 % y el final es el 125 %: 2500 ÷ 5/4 = 2000.
-6 obreros terminan una obra en 10 días. Si trabajaran 5 obreros al mismo ritmo, ¿en cuántos días la terminarían?|25/3 días|12 días|15 días|5 días|1|Es proporcionalidad inversa: el producto se conserva. 6 × 10 = 60, y 60 ÷ 5 = 12 días.
-Calculá 1/3 + 1/4 × 1/2 respetando la jerarquía de operaciones.|11/24|1/8|7/24|13/12|0|Primero se multiplica: 1/4 × 1/2 = 1/8; luego se suma 1/3 y el resultado es 11/24.
-¿Cuál es la fracción generatriz de 0,24̂ (período mixto)?|11/45|22/9|24/99|24/90|0|Período mixto: (número sin la coma − parte no periódica) ÷ (9 por cada cifra del período y 0 por cada cifra no periódica) = (24 − 2)/90 = 11/45.
-Un precio de $1000 aumenta un 50 % y luego se le hace un descuento del 50 % sobre el nuevo precio. ¿Cuál es el precio final?|$800|$2000|$1000|$750|3|Primero 1000 × 3/2 = 1500; después 1500 × 1/2 = 750. Los porcentajes sucesivos no se suman ni se restan.
+Calculá 8/12 + 11/12.|22/3|19/24|19/144|19/12|3|Con el mismo denominador se suman los numeradores y se conserva el denominador: (8 + 11)/12 = 19/12.
+¿Cuánto es el 10 % de 40?|1/10|50|4|40|2|10 % de 40 = 10 ÷ 100 × 40 = 4.
+¿Cuánto es el 50 % de 600?|650|3000|300|12|2|50 % de 600 = 50 ÷ 100 × 600 = 300.
+¿Cuánto es el 30 % de 300?|90|330|900|10|0|30 % de 300 = 30 ÷ 100 × 300 = 90.
+¿Cuánto es el 5 % de 120?|24|125|6|60|2|5 % de 120 = 5 ÷ 100 × 120 = 6.
+Calculá 2/11 + 1/11.|3/11|3/121|2/11|3/22|0|Con el mismo denominador se suman los numeradores y se conserva el denominador: (2 + 1)/11 = 3/11.
+¿Cuánto es el 10 % de 80?|8|90|1/10|80|0|10 % de 80 = 10 ÷ 100 × 80 = 8.
+¿Cuál es la expresión decimal de 15/8?|1,6667|0,5333|18,75|1,875|3|Se divide el numerador por el denominador: 15 ÷ 8 = 1,875.
+¿Cuál es la expresión decimal de 4/5?|0,6667|0,8|1,25|8|1|Se divide el numerador por el denominador: 4 ÷ 5 = 0,8.
+¿Cuál es la expresión decimal de 11/5?|0,4545|1,8333|22|2,2|3|Se divide el numerador por el denominador: 11 ÷ 5 = 2,2.
+Calculá 4/10 + 1/10.|2/5|1/20|5/20|1/2|3|Con el mismo denominador se suman los numeradores y se conserva el denominador: (4 + 1)/10 = 1/2.
+¿Cuál es la expresión decimal de 5/2?|2,5|25|0,4|1,6667|0|Se divide el numerador por el denominador: 5 ÷ 2 = 2,5.
+Simplificá al máximo la fracción 2/4.|1/3|1/2|1/4|2/2|1|Se divide numerador y denominador por 2, su divisor común mayor: 1/2.
+Calculá 4/12 + 5/12.|3/4|9/24|1/16|5/3|0|Con el mismo denominador se suman los numeradores y se conserva el denominador: (4 + 5)/12 = 3/4.
+Simplificá al máximo la fracción 6/8.|3/4|3/8|4/4|6/4|0|Se divide numerador y denominador por 2, su divisor común mayor: 3/4.
+Simplificá al máximo la fracción 12/21.|5/7|4/21|12/7|4/7|3|Se divide numerador y denominador por 3, su divisor común mayor: 4/7.
+¿Cuál es la expresión decimal de 12/5?|2,4|2|24|0,4167|0|Se divide el numerador por el denominador: 12 ÷ 5 = 2,4.
+Calculá 2/6 ÷ 5/4.|17/12|15/4|5/12|4/15|3|Dividir equivale a multiplicar por la fracción inversa: 2/6 × 4/5 = 4/15.
+Calculá 7/10 + 2/9.|83/90|9/19|43/90|9/90|0|Se busca un denominador común (m.c.m. de 10 y 9 = 90) y se suma: 83/90.
+Una campera cuesta $5000 y tiene un descuento del 15 %. ¿Cuánto se paga?|$5750|$4250|$750|$4985|1|El descuento es $750; se paga 5000 − 750 = $4250.
+Calculá 3/6 × 1/3.|3/2|5/6|4/9|1/6|3|Se multiplican numeradores y denominadores: 3·1 / 6·3 = 1/6.
+Un producto cuesta $1000 sin IVA. Con IVA del 21 %, ¿cuál es el precio final?|$1021|$1210|$210|$790|1|El precio final es 1000 × 1,21 = 1210.
+Calculá 1/4 × 2/5.|3/9|13/20|1/10|5/8|2|Se multiplican numeradores y denominadores: 1·2 / 4·5 = 1/10.
+Calculá 2/5 + 2/9.|8/45|28/45|4/45|4/14|1|Se busca un denominador común (m.c.m. de 5 y 9 = 45) y se suma: 28/45.
+Calculá 3/5 ÷ 5/7.|3/7|25/21|21/25|10/7|2|Dividir equivale a multiplicar por la fracción inversa: 3/5 × 7/5 = 21/25.
+Calculá 4/5 + 1/3.|5/15|17/15|5/8|7/15|1|Se busca un denominador común (m.c.m. de 5 y 3 = 15) y se suma: 17/15.
+¿Cuál es la fracción generatriz de 0,2̂ (decimal periódico puro)?|2/10|2/100|2/9|2/99|2|Un decimal periódico puro es el período dividido por tantos 9 como cifras tiene el período: 0,2̂ = 2/9.
+Un producto cuesta $2000 sin IVA. Con IVA del 21 %, ¿cuál es el precio final?|$1580|$2021|$2420|$420|2|El precio final es 2000 × 1,21 = 2420.
+Calculá 1/6 × 2/7.|19/42|3/13|7/12|1/21|3|Se multiplican numeradores y denominadores: 1·2 / 6·7 = 1/21.
+Calculá 2/3 + 1/4.|5/12|3/7|3/12|11/12|3|Se busca un denominador común (m.c.m. de 3 y 4 = 12) y se suma: 11/12.
+Calculá 2/3 + 2/9.|8/9|4/9|4/12|4/27|0|Se busca un denominador común (m.c.m. de 3 y 9 = 9) y se suma: 8/9.
+Una campera cuesta $800 y tiene un descuento del 15 %. ¿Cuánto se paga?|$785|$680|$120|$920|1|El descuento es $120; se paga 800 − 120 = $680.
+Una campera cuesta $4000 y tiene un descuento del 30 %. ¿Cuánto se paga?|$1200|$5200|$2800|$3970|2|El descuento es $1200; se paga 4000 − 1200 = $2800.
+Calculá 3/5 ÷ 3/2.|2/5|9/10|19/10|5/2|0|Dividir equivale a multiplicar por la fracción inversa: 3/5 × 2/3 = 2/5.
+Después de un aumento del 25 % un artículo cuesta $1000. ¿Cuánto costaba antes del aumento?|$975|$250|$750|$800|3|El precio original es el 100 % y el final es el 125 %: 1000 ÷ 5/4 = 800.
+Después de un aumento del 10 % un artículo cuesta $2640. ¿Cuánto costaba antes del aumento?|$2630|$2376|$264|$2400|3|El precio original es el 100 % y el final es el 110 %: 2640 ÷ 11/10 = 2400.
+Calculá 1/3 + 2/5 × 5/4 respetando la jerarquía de operaciones.|119/60|1/2|5/6|11/12|2|Primero se multiplica: 2/5 × 5/4 = 1/2; luego se suma 1/3 y el resultado es 5/6.
+¿Cuál es la fracción generatriz de 0,35̂ (período mixto)?|16/45|32/9|35/99|35/90|0|Período mixto: (número sin la coma − parte no periódica) ÷ (9 por cada cifra del período y 0 por cada cifra no periódica) = (35 − 3)/90 = 16/45.
+6 obreros terminan una obra en 15 días. Si trabajaran 30 obreros al mismo ritmo, ¿en cuántos días la terminarían?|75 días|3 días|45 días|−15 días|1|Es proporcionalidad inversa: el producto se conserva. 6 × 15 = 90, y 90 ÷ 30 = 3 días.
+4 obreros terminan una obra en 12 días. Si trabajaran 3 obreros al mismo ritmo, ¿en cuántos días la terminarían?|9 días|16 días|17 días|15 días|1|Es proporcionalidad inversa: el producto se conserva. 4 × 12 = 48, y 48 ÷ 3 = 16 días.
+Un precio de $4000 aumenta un 20 % y luego se le hace un descuento del 10 % sobre el nuevo precio. ¿Cuál es el precio final?|$4400|$4320|$4000|$5200|1|Primero 4000 × 6/5 = 4800; después 4800 × 9/10 = 4320. Los porcentajes sucesivos no se suman ni se restan.
+Un precio de $1000 aumenta un 10 % y luego se le hace un descuento del 20 % sobre el nuevo precio. ¿Cuál es el precio final?|$1000|$880|$1300|$900|1|Primero 1000 × 11/10 = 1100; después 1100 × 4/5 = 880. Los porcentajes sucesivos no se suman ni se restan.
+Calculá 1/3 + 1/6 × 5/4 respetando la jerarquía de operaciones.|5/24|5/8|13/24|7/4|2|Primero se multiplica: 1/6 × 5/4 = 5/24; luego se suma 1/3 y el resultado es 13/24.
+Después de un aumento del 25 % un artículo cuesta $2500. ¿Cuánto costaba antes del aumento?|$1875|$2475|$2000|$625|2|El precio original es el 100 % y el final es el 125 %: 2500 ÷ 5/4 = 2000.
+6 obreros terminan una obra en 10 días. Si trabajaran 5 obreros al mismo ritmo, ¿en cuántos días la terminarían?|25/3 días|15 días|5 días|12 días|3|Es proporcionalidad inversa: el producto se conserva. 6 × 10 = 60, y 60 ÷ 5 = 12 días.
+Calculá 1/3 + 1/4 × 1/2 respetando la jerarquía de operaciones.|11/24|13/12|1/8|7/24|0|Primero se multiplica: 1/4 × 1/2 = 1/8; luego se suma 1/3 y el resultado es 11/24.
+¿Cuál es la fracción generatriz de 0,24̂ (período mixto)?|22/9|24/90|11/45|24/99|2|Período mixto: (número sin la coma − parte no periódica) ÷ (9 por cada cifra del período y 0 por cada cifra no periódica) = (24 − 2)/90 = 11/45.
+Un precio de $1000 aumenta un 50 % y luego se le hace un descuento del 50 % sobre el nuevo precio. ¿Cuál es el precio final?|$800|$1000|$750|$2000|2|Primero 1000 × 3/2 = 1500; después 1500 × 1/2 = 750. Los porcentajes sucesivos no se suman ni se restan.
 Calculá 1/3 + 1/6 × 3/2 respetando la jerarquía de operaciones.|3/4|7/12|1/4|2|1|Primero se multiplica: 1/6 × 3/2 = 1/4; luego se suma 1/3 y el resultado es 7/12.
-Después de un aumento del 10 % un artículo cuesta $880. ¿Cuánto costaba antes del aumento?|$800|$870|$88|$792|0|El precio original es el 100 % y el final es el 110 %: 880 ÷ 11/10 = 800.
+Después de un aumento del 10 % un artículo cuesta $880. ¿Cuánto costaba antes del aumento?|$792|$870|$88|$800|3|El precio original es el 100 % y el final es el 110 %: 880 ÷ 11/10 = 800.

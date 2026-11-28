@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-Un móvil con v₀ = 0 m/s y aceleración constante de 2 m/s² viaja durante 5 s. ¿Qué distancia recorre?|0 m|27 m|25 m|50 m|2|d = v₀t + ½at² = 0·5 + ½·2·5² = 25 m.
-En el MRUV la aceleración es:|Siempre negativa|Constante|Nula|Variable|1|En el MRUV la velocidad cambia de forma uniforme.
-Se deja caer una piedra desde 80 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|8 s|4 s|5 s|6 s|1|h = ½·g·t² → t = √(2·80/10) = 4 s.
-Se deja caer una piedra desde 180 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|8 s|6 s|12 s|18 s|1|h = ½·g·t² → t = √(2·180/10) = 6 s.
-Se deja caer una piedra desde 125 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|5 s|10 s|7 s|12 s|0|h = ½·g·t² → t = √(2·125/10) = 5 s.
-Se deja caer una piedra desde 20 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|2 s|1 s|4 s|3 s|0|h = ½·g·t² → t = √(2·20/10) = 2 s.
-La pendiente de un gráfico velocidad-tiempo representa:|La aceleración|La distancia|La masa|La posición|0|a = Δv/Δt.
-Un móvil con v₀ = 4 m/s y aceleración constante de 3 m/s² viaja durante 4 s. ¿Qué distancia recorre?|48 m|40 m|16 m|43 m|1|d = v₀t + ½at² = 4·4 + ½·3·4² = 40 m.
-Un móvil con v₀ = 10 m/s y aceleración constante de 2 m/s² viaja durante 6 s. ¿Qué distancia recorre?|72 m|60 m|96 m|98 m|2|d = v₀t + ½at² = 10·6 + ½·2·6² = 96 m.
-En caída libre, sin rozamiento, todos los cuerpos caen con:|Más aceleración los más pesados|La misma aceleración|Velocidad constante|Aceleración nula|1|La aceleración de la gravedad (≈ 10 m/s²) no depende de la masa.
-Se lanza una pelota verticalmente hacia arriba con 10 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|15 m|6 m|10 m|5 m|3|En el punto más alto v = 0: h = v₀²/(2g) = 10²/20 = 5 m.
-Se lanza una pelota verticalmente hacia arriba con 40 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|80 m|160 m|40 m|165 m|0|En el punto más alto v = 0: h = v₀²/(2g) = 40²/20 = 80 m.
-El área bajo la curva de un gráfico velocidad-tiempo representa:|El desplazamiento|La aceleración|La fuerza|La masa|0|Es la distancia recorrida.
-En el punto más alto de un tiro vertical, la velocidad es:|Igual a la inicial|Cero|Máxima|Negativa|1|Cambia de sentido, por lo que se anula un instante.
-Se lanza una pelota verticalmente hacia arriba con 20 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|45 m|20 m|40 m|21 m|1|En el punto más alto v = 0: h = v₀²/(2g) = 20²/20 = 20 m.
-Se lanza una pelota verticalmente hacia arriba con 30 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|95 m|90 m|45 m|30 m|2|En el punto más alto v = 0: h = v₀²/(2g) = 30²/20 = 45 m.
-Un cuerpo cae libremente durante 3 s (g = 10 m/s²). ¿Qué velocidad alcanza?|3 m/s|30 m/s|45 m/s|60 m/s|1|v = g·t = 10 · 3 = 30 m/s.
-Un cuerpo cae libremente durante 2 s (g = 10 m/s²). ¿Qué velocidad alcanza?|21 m/s|40 m/s|2 m/s|20 m/s|3|v = g·t = 10 · 2 = 20 m/s.
-Un cuerpo cae libremente durante 4 s (g = 10 m/s²). ¿Qué velocidad alcanza?|41 m/s|40 m/s|4 m/s|80 m/s|1|v = g·t = 10 · 4 = 40 m/s.
-En el punto más alto de un tiro vertical, la aceleración es:|10 m/s² hacia arriba|Cero|10 m/s² hacia abajo|Infinita|2|La gravedad actúa siempre.
-Un auto pasa de 0 m/s a 10 m/s recorriendo 25 m con aceleración constante. ¿Cuál es la aceleración?|0,4 m/s²|3 m/s²|2 m/s²|4 m/s²|2|v² = v₀² + 2ad → a = (10² − 0²)/(2·25) = 2 m/s².
-Un auto pasa de 0 m/s a 30 m/s recorriendo 225 m con aceleración constante. ¿Cuál es la aceleración?|2 m/s²|3 m/s²|0,133 m/s²|4 m/s²|0|v² = v₀² + 2ad → a = (30² − 0²)/(2·225) = 2 m/s².
+Un móvil con v₀ = 0 m/s y aceleración constante de 2 m/s² viaja durante 5 s. ¿Qué distancia recorre?|50 m|0 m|25 m|27 m|2|d = v₀t + ½at² = 0·5 + ½·2·5² = 25 m.
+En el MRUV la aceleración es:|Siempre negativa|Nula|Variable|Constante|3|En el MRUV la velocidad cambia de forma uniforme.
+Se deja caer una piedra desde 80 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|8 s|5 s|4 s|6 s|2|h = ½·g·t² → t = √(2·80/10) = 4 s.
+Se deja caer una piedra desde 180 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|8 s|18 s|6 s|12 s|2|h = ½·g·t² → t = √(2·180/10) = 6 s.
+Se deja caer una piedra desde 125 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|10 s|12 s|7 s|5 s|3|h = ½·g·t² → t = √(2·125/10) = 5 s.
+Se deja caer una piedra desde 20 m de altura (g = 10 m/s², sin rozamiento). ¿Cuánto tarda en llegar al suelo?|4 s|3 s|1 s|2 s|3|h = ½·g·t² → t = √(2·20/10) = 2 s.
+La pendiente de un gráfico velocidad-tiempo representa:|La aceleración|La distancia|La posición|La masa|0|a = Δv/Δt.
+Un móvil con v₀ = 4 m/s y aceleración constante de 3 m/s² viaja durante 4 s. ¿Qué distancia recorre?|43 m|40 m|48 m|16 m|1|d = v₀t + ½at² = 4·4 + ½·3·4² = 40 m.
+Un móvil con v₀ = 10 m/s y aceleración constante de 2 m/s² viaja durante 6 s. ¿Qué distancia recorre?|72 m|98 m|96 m|60 m|2|d = v₀t + ½at² = 10·6 + ½·2·6² = 96 m.
+En caída libre, sin rozamiento, todos los cuerpos caen con:|Aceleración nula|Velocidad constante|La misma aceleración|Más aceleración los más pesados|2|La aceleración de la gravedad (≈ 10 m/s²) no depende de la masa.
+Se lanza una pelota verticalmente hacia arriba con 10 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|10 m|6 m|15 m|5 m|3|En el punto más alto v = 0: h = v₀²/(2g) = 10²/20 = 5 m.
+Se lanza una pelota verticalmente hacia arriba con 40 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|80 m|40 m|165 m|160 m|0|En el punto más alto v = 0: h = v₀²/(2g) = 40²/20 = 80 m.
+El área bajo la curva de un gráfico velocidad-tiempo representa:|El desplazamiento|La masa|La aceleración|La fuerza|0|Es la distancia recorrida.
+En el punto más alto de un tiro vertical, la velocidad es:|Igual a la inicial|Cero|Negativa|Máxima|1|Cambia de sentido, por lo que se anula un instante.
+Se lanza una pelota verticalmente hacia arriba con 20 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|40 m|20 m|45 m|21 m|1|En el punto más alto v = 0: h = v₀²/(2g) = 20²/20 = 20 m.
+Se lanza una pelota verticalmente hacia arriba con 30 m/s (g = 10 m/s²). ¿Qué altura máxima alcanza?|90 m|30 m|95 m|45 m|3|En el punto más alto v = 0: h = v₀²/(2g) = 30²/20 = 45 m.
+Un cuerpo cae libremente durante 3 s (g = 10 m/s²). ¿Qué velocidad alcanza?|45 m/s|30 m/s|3 m/s|60 m/s|1|v = g·t = 10 · 3 = 30 m/s.
+Un cuerpo cae libremente durante 2 s (g = 10 m/s²). ¿Qué velocidad alcanza?|20 m/s|21 m/s|40 m/s|2 m/s|0|v = g·t = 10 · 2 = 20 m/s.
+Un cuerpo cae libremente durante 4 s (g = 10 m/s²). ¿Qué velocidad alcanza?|80 m/s|41 m/s|40 m/s|4 m/s|2|v = g·t = 10 · 4 = 40 m/s.
+En el punto más alto de un tiro vertical, la aceleración es:|Cero|Infinita|10 m/s² hacia arriba|10 m/s² hacia abajo|3|La gravedad actúa siempre.
+Un auto pasa de 0 m/s a 10 m/s recorriendo 25 m con aceleración constante. ¿Cuál es la aceleración?|4 m/s²|0,4 m/s²|3 m/s²|2 m/s²|3|v² = v₀² + 2ad → a = (10² − 0²)/(2·25) = 2 m/s².
+Un auto pasa de 0 m/s a 30 m/s recorriendo 225 m con aceleración constante. ¿Cuál es la aceleración?|4 m/s²|2 m/s²|3 m/s²|0,133 m/s²|1|v² = v₀² + 2ad → a = (30² − 0²)/(2·225) = 2 m/s².
 Un auto que viaja a 15 m/s frena con desaceleración constante de 5 m/s². ¿Qué distancia recorre hasta detenerse?|45 m|44 m|15 m|22,5 m|3|d = v²/(2a) = 15²/(2·5) = 22,5 m.
-Se lanza hacia arriba con 50 m/s (g = 10 m/s²). ¿Cuánto tarda en alcanzar el punto más alto?|10 s|50 s|5 s|7 s|2|t = v₀/g = 50/10 = 5 s.
-Un auto pasa de 10 m/s a 30 m/s recorriendo 100 m con aceleración constante. ¿Cuál es la aceleración?|4 m/s²|0,2 m/s²|8 m/s²|0,3 m/s²|0|v² = v₀² + 2ad → a = (30² − 10²)/(2·100) = 4 m/s².
-¿Cuál es la forma del gráfico posición-tiempo de un MRUV?|Una recta inclinada|Una parábola|Una recta horizontal|Una hipérbola|1|x = x₀ + v₀t + ½at² es cuadrática en t.
-Un auto que viaja a 30 m/s frena con desaceleración constante de 6 m/s². ¿Qué distancia recorre hasta detenerse?|150 m|75 m|76 m|30 m|1|d = v²/(2a) = 30²/(2·6) = 75 m.
-Un auto que viaja a 20 m/s frena con desaceleración constante de 5 m/s². ¿Qué distancia recorre hasta detenerse?|40 m|20 m|80 m|41 m|0|d = v²/(2a) = 20²/(2·5) = 40 m.
-Dos piedras de distinta masa se sueltan desde la misma altura en el vacío. ¿Cuál llega primero?|La más liviana|Llegan juntas|Depende del color|La más pesada|1|La aceleración es igual para ambas.
+Se lanza hacia arriba con 50 m/s (g = 10 m/s²). ¿Cuánto tarda en alcanzar el punto más alto?|7 s|5 s|10 s|50 s|1|t = v₀/g = 50/10 = 5 s.
+Un auto pasa de 10 m/s a 30 m/s recorriendo 100 m con aceleración constante. ¿Cuál es la aceleración?|0,2 m/s²|4 m/s²|0,3 m/s²|8 m/s²|1|v² = v₀² + 2ad → a = (30² − 10²)/(2·100) = 4 m/s².
+¿Cuál es la forma del gráfico posición-tiempo de un MRUV?|Una parábola|Una recta inclinada|Una recta horizontal|Una hipérbola|0|x = x₀ + v₀t + ½at² es cuadrática en t.
+Un auto que viaja a 30 m/s frena con desaceleración constante de 6 m/s². ¿Qué distancia recorre hasta detenerse?|75 m|30 m|150 m|76 m|0|d = v²/(2a) = 30²/(2·6) = 75 m.
+Un auto que viaja a 20 m/s frena con desaceleración constante de 5 m/s². ¿Qué distancia recorre hasta detenerse?|41 m|80 m|40 m|20 m|2|d = v²/(2a) = 20²/(2·5) = 40 m.
+Dos piedras de distinta masa se sueltan desde la misma altura en el vacío. ¿Cuál llega primero?|Llegan juntas|Depende del color|La más pesada|La más liviana|0|La aceleración es igual para ambas.
 Se lanza hacia arriba con 10 m/s (g = 10 m/s²). ¿Cuánto tarda en alcanzar el punto más alto?|3 s|1 s|2 s|10 s|1|t = v₀/g = 10/10 = 1 s.

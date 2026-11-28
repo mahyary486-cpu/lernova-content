@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-Un gas a presión constante ocupa 4 L a 200 K. ¿Qué volumen ocupa a 300 K?|6 L|2,667 L|104 L|12 L|0|Ley de Charles: V₁/T₁ = V₂/T₂ → V₂ = 4·300/200 = 6 L.
-Un gas a presión constante ocupa 9 L a 300 K. ¿Qué volumen ocupa a 100 K?|27 L|6 L|4 L|3 L|3|Ley de Charles: V₁/T₁ = V₂/T₂ → V₂ = 9·100/300 = 3 L.
-Un gas a presión constante ocupa 5 L a 250 K. ¿Qué volumen ocupa a 500 K?|10 L|20 L|2,5 L|255 L|0|Ley de Charles: V₁/T₁ = V₂/T₂ → V₂ = 5·500/250 = 10 L.
-Un gas a temperatura constante ocupa 10 L a 3 atm. ¿Qué volumen ocupa a 5 atm?|7 L|12 L|16,667 L|6 L|3|Ley de Boyle: P₁V₁ = P₂V₂ → V₂ = 3·10/5 = 6 L.
-Expresá 25 °C en kelvin (K = °C + 273).|25 K|298 K|398 K|301 K|1|K = 25 + 273 = 298.
-¿Cómo se comporta el volumen de un gas si aumenta la presión a temperatura constante?|No cambia|Aumenta|Disminuye|Se duplica siempre|2|Es la ley de Boyle: P y V son inversamente proporcionales.
-Un gas a temperatura constante ocupa 6 L a 2 atm. ¿Qué volumen ocupa a 4 atm?|12 L|8 L|3 L|6 L|2|Ley de Boyle: P₁V₁ = P₂V₂ → V₂ = 2·6/4 = 3 L.
-Expresá 0 °C en kelvin (K = °C + 273).|276 K|373 K|0 K|273 K|3|K = 0 + 273 = 273.
-Un gas a temperatura constante ocupa 8 L a 5 atm. ¿Qué volumen ocupa a 10 atm?|8 L|4 L|13 L|16 L|1|Ley de Boyle: P₁V₁ = P₂V₂ → V₂ = 5·8/10 = 4 L.
-Expresá 47 °C en kelvin (K = °C + 273).|420 K|320 K|323 K|47 K|1|K = 47 + 273 = 320.
-Un gas en un recipiente rígido está a 1 atm y 200 K. ¿Qué presión tiene a 400 K?|0,5 atm|4 atm|2 atm|201 atm|2|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 1·400/200 = 2 atm.
-¿Qué volumen ocupan 3 mol de un gas en CNPT (22,4 L/mol)?|22,4 L|72 L|134,4 L|67,2 L|3|V = n · 22,4 = 3 · 22,4 = 67,2 L.
-¿Qué volumen ocupan 1 mol de un gas en CNPT (22,4 L/mol)?|23,4 L|24 L|44,8 L|22,4 L|3|V = n · 22,4 = 1 · 22,4 = 22,4 L.
-Un gas en un recipiente rígido está a 2 atm y 300 K. ¿Qué presión tiene a 600 K?|1 atm|302 atm|8 atm|4 atm|3|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 2·600/300 = 4 atm.
-¿Por qué los gases se comprimen fácilmente?|Porque tienen carga|Porque sus partículas están muy separadas|Porque son transparentes|Porque pesan poco|1|Hay mucho espacio vacío entre ellas.
-¿Qué volumen ocupan 5 mol de un gas en CNPT (22,4 L/mol)?|22,4 L|224 L|120 L|112 L|3|V = n · 22,4 = 5 · 22,4 = 112 L.
-Un gas en un recipiente rígido está a 6 atm y 300 K. ¿Qué presión tiene a 150 K?|3 atm|6 atm|4 atm|12 atm|0|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 6·150/300 = 3 atm.
-En CNPT, un mol de cualquier gas ideal ocupa:|100 L|22,4 L|10 L|1 L|1|Es el volumen molar normal.
-¿Qué volumen ocupan 0,25 mol de un gas en CNPT (22,4 L/mol)?|6 L|11,2 L|5,6 L|22,4 L|2|V = n · 22,4 = 0,25 · 22,4 = 5,6 L.
-Un gas en un recipiente rígido está a 3 atm y 300 K. ¿Qué presión tiene a 450 K?|2 atm|153 atm|4,5 atm|9 atm|2|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 3·450/300 = 4,5 atm.
-Un gas ocupa 6 L a 1 atm y 300 K. ¿Qué volumen ocupa a 2 atm y 600 K?|6 L|12 L|7 L|5 L|0|Ley combinada: P₁V₁/T₁ = P₂V₂/T₂ → V₂ = 6 L.
-Un recipiente de 10 L contiene 2 mol de gas ideal a 250 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|41 atm|4,1 atm|5,1 atm|2,05 atm|1|P = nRT/V = 2 · 0,082 · 250 / 10 = 4,1 atm.
-Un gas ocupa 8 L a 1 atm y 200 K. ¿Qué volumen ocupa a 4 atm y 400 K?|16 L|4 L|9 L|5 L|1|Ley combinada: P₁V₁/T₁ = P₂V₂/T₂ → V₂ = 4 L.
-Si se duplica el número de moles de un gas a V y T constantes, la presión:|No cambia|Se reduce a la mitad|Se duplica|Se cuadruplica|2|P = nRT/V es proporcional a n.
-Un recipiente de 10 L contiene 3 mol de gas ideal a 200 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|4,92 atm|2,46 atm|49,2 atm|5,92 atm|0|P = nRT/V = 3 · 0,082 · 200 / 10 = 4,92 atm.
-Un recipiente de 10 L contiene 1 mol de gas ideal a 300 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|2,46 atm|24,6 atm|1,23 atm|3,46 atm|0|P = nRT/V = 1 · 0,082 · 300 / 10 = 2,46 atm.
-Un gas ocupa 5 L a 4 atm y 400 K. ¿Qué volumen ocupa a 2 atm y 200 K?|5 L|10 L|4 L|6 L|0|Ley combinada: P₁V₁/T₁ = P₂V₂/T₂ → V₂ = 5 L.
-La ley de Avogadro afirma que, a igual presión y temperatura, volúmenes iguales de gases contienen:|La misma densidad|El mismo número de moléculas|El mismo color|La misma masa|1|Es la base del volumen molar.
-Un recipiente de 10 L contiene 2 mol de gas ideal a 500 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|9,2 atm|8,2 atm|82 atm|4,1 atm|1|P = nRT/V = 2 · 0,082 · 500 / 10 = 8,2 atm.
-¿Qué explica la presión de un gas según la teoría cinética?|La atracción entre partículas|Los choques de las partículas contra las paredes|El color|El peso del gas|1|Más choques por segundo implican mayor presión.
+Un gas a presión constante ocupa 4 L a 200 K. ¿Qué volumen ocupa a 300 K?|2,667 L|12 L|104 L|6 L|3|Ley de Charles: V₁/T₁ = V₂/T₂ → V₂ = 4·300/200 = 6 L.
+Un gas a presión constante ocupa 9 L a 300 K. ¿Qué volumen ocupa a 100 K?|4 L|6 L|3 L|27 L|2|Ley de Charles: V₁/T₁ = V₂/T₂ → V₂ = 9·100/300 = 3 L.
+Un gas a presión constante ocupa 5 L a 250 K. ¿Qué volumen ocupa a 500 K?|10 L|20 L|255 L|2,5 L|0|Ley de Charles: V₁/T₁ = V₂/T₂ → V₂ = 5·500/250 = 10 L.
+Un gas a temperatura constante ocupa 10 L a 3 atm. ¿Qué volumen ocupa a 5 atm?|16,667 L|6 L|7 L|12 L|1|Ley de Boyle: P₁V₁ = P₂V₂ → V₂ = 3·10/5 = 6 L.
+Expresá 25 °C en kelvin (K = °C + 273).|25 K|398 K|301 K|298 K|3|K = 25 + 273 = 298.
+¿Cómo se comporta el volumen de un gas si aumenta la presión a temperatura constante?|No cambia|Aumenta|Se duplica siempre|Disminuye|3|Es la ley de Boyle: P y V son inversamente proporcionales.
+Un gas a temperatura constante ocupa 6 L a 2 atm. ¿Qué volumen ocupa a 4 atm?|6 L|12 L|3 L|8 L|2|Ley de Boyle: P₁V₁ = P₂V₂ → V₂ = 2·6/4 = 3 L.
+Expresá 0 °C en kelvin (K = °C + 273).|373 K|273 K|0 K|276 K|1|K = 0 + 273 = 273.
+Un gas a temperatura constante ocupa 8 L a 5 atm. ¿Qué volumen ocupa a 10 atm?|13 L|8 L|4 L|16 L|2|Ley de Boyle: P₁V₁ = P₂V₂ → V₂ = 5·8/10 = 4 L.
+Expresá 47 °C en kelvin (K = °C + 273).|420 K|320 K|47 K|323 K|1|K = 47 + 273 = 320.
+Un gas en un recipiente rígido está a 1 atm y 200 K. ¿Qué presión tiene a 400 K?|0,5 atm|201 atm|2 atm|4 atm|2|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 1·400/200 = 2 atm.
+¿Qué volumen ocupan 3 mol de un gas en CNPT (22,4 L/mol)?|134,4 L|67,2 L|72 L|22,4 L|1|V = n · 22,4 = 3 · 22,4 = 67,2 L.
+¿Qué volumen ocupan 1 mol de un gas en CNPT (22,4 L/mol)?|24 L|22,4 L|44,8 L|23,4 L|1|V = n · 22,4 = 1 · 22,4 = 22,4 L.
+Un gas en un recipiente rígido está a 2 atm y 300 K. ¿Qué presión tiene a 600 K?|8 atm|4 atm|302 atm|1 atm|1|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 2·600/300 = 4 atm.
+¿Por qué los gases se comprimen fácilmente?|Porque sus partículas están muy separadas|Porque son transparentes|Porque pesan poco|Porque tienen carga|0|Hay mucho espacio vacío entre ellas.
+¿Qué volumen ocupan 5 mol de un gas en CNPT (22,4 L/mol)?|22,4 L|224 L|112 L|120 L|2|V = n · 22,4 = 5 · 22,4 = 112 L.
+Un gas en un recipiente rígido está a 6 atm y 300 K. ¿Qué presión tiene a 150 K?|12 atm|6 atm|4 atm|3 atm|3|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 6·150/300 = 3 atm.
+En CNPT, un mol de cualquier gas ideal ocupa:|22,4 L|1 L|10 L|100 L|0|Es el volumen molar normal.
+¿Qué volumen ocupan 0,25 mol de un gas en CNPT (22,4 L/mol)?|11,2 L|6 L|5,6 L|22,4 L|2|V = n · 22,4 = 0,25 · 22,4 = 5,6 L.
+Un gas en un recipiente rígido está a 3 atm y 300 K. ¿Qué presión tiene a 450 K?|9 atm|2 atm|153 atm|4,5 atm|3|Ley de Gay-Lussac: P₁/T₁ = P₂/T₂ → P₂ = 3·450/300 = 4,5 atm.
+Un gas ocupa 6 L a 1 atm y 300 K. ¿Qué volumen ocupa a 2 atm y 600 K?|5 L|7 L|12 L|6 L|3|Ley combinada: P₁V₁/T₁ = P₂V₂/T₂ → V₂ = 6 L.
+Un recipiente de 10 L contiene 2 mol de gas ideal a 250 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|4,1 atm|2,05 atm|5,1 atm|41 atm|0|P = nRT/V = 2 · 0,082 · 250 / 10 = 4,1 atm.
+Un gas ocupa 8 L a 1 atm y 200 K. ¿Qué volumen ocupa a 4 atm y 400 K?|5 L|9 L|16 L|4 L|3|Ley combinada: P₁V₁/T₁ = P₂V₂/T₂ → V₂ = 4 L.
+Si se duplica el número de moles de un gas a V y T constantes, la presión:|No cambia|Se cuadruplica|Se duplica|Se reduce a la mitad|2|P = nRT/V es proporcional a n.
+Un recipiente de 10 L contiene 3 mol de gas ideal a 200 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|2,46 atm|4,92 atm|5,92 atm|49,2 atm|1|P = nRT/V = 3 · 0,082 · 200 / 10 = 4,92 atm.
+Un recipiente de 10 L contiene 1 mol de gas ideal a 300 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|2,46 atm|1,23 atm|24,6 atm|3,46 atm|0|P = nRT/V = 1 · 0,082 · 300 / 10 = 2,46 atm.
+Un gas ocupa 5 L a 4 atm y 400 K. ¿Qué volumen ocupa a 2 atm y 200 K?|4 L|10 L|6 L|5 L|3|Ley combinada: P₁V₁/T₁ = P₂V₂/T₂ → V₂ = 5 L.
+La ley de Avogadro afirma que, a igual presión y temperatura, volúmenes iguales de gases contienen:|El mismo número de moléculas|La misma masa|La misma densidad|El mismo color|0|Es la base del volumen molar.
+Un recipiente de 10 L contiene 2 mol de gas ideal a 500 K. ¿Qué presión ejerce? (R = 0,082 atm·L/(mol·K))|8,2 atm|82 atm|4,1 atm|9,2 atm|0|P = nRT/V = 2 · 0,082 · 500 / 10 = 8,2 atm.
+¿Qué explica la presión de un gas según la teoría cinética?|El color|La atracción entre partículas|Los choques de las partículas contra las paredes|El peso del gas|2|Más choques por segundo implican mayor presión.

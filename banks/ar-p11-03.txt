@@ -1,28 +1,28 @@
 #EEEEEEEEMMMMMMMMMHHHHHHHHHH
-¿Cómo se llaman los polos de un imán?|Ánodo y cátodo|Norte y sur|Este y oeste|Positivo y negativo|1|Polos iguales se repelen.
-¿Qué ocurre si se acercan los polos norte de dos imanes?|No pasa nada|Se repelen|Se atraen|Se funden|1|Polos iguales se repelen.
-¿Quién descubrió que una corriente produce un campo magnético?|Galileo|Darwin|Oersted|Newton|2|Lo observó en 1820.
-¿Qué instrumento usa el campo magnético terrestre para orientarse?|Barómetro|Voltímetro|Brújula|Termómetro|2|La aguja se alinea con el campo.
-¿Cuál es la unidad de campo magnético?|Ohm|Tesla|Weber|Henry|1|1 T = 1 N/(A·m).
-Un transformador tiene 50 espiras en el primario y 500 en el secundario. Si se conecta a 12 V, ¿qué tensión entrega?|1,2 V|120 V|512 V|240 V|1|V₁/V₂ = N₁/N₂ → V₂ = 12·500/50 = 120 V.
-Un transformador ideal recibe 220 V y 2 A. Si entrega 44 V, ¿qué corriente entrega?|0,4 A|20 A|3 A|10 A|3|Potencia constante: V₁·I₁ = V₂·I₂ → I₂ = 220·2/44 = 10 A.
-Un transformador ideal recibe 110 V y 2 A. Si entrega 11 V, ¿qué corriente entrega?|40 A|20 A|0,2 A|3 A|1|Potencia constante: V₁·I₁ = V₂·I₂ → I₂ = 110·2/11 = 20 A.
-¿Qué enuncia la ley de Lenz?|La fuerza es nula|La corriente inducida se opone a la variación que la produce|La corriente es siempre continua|El campo es constante|1|Es una consecuencia de la conservación de la energía.
-Un conductor de 3 m con 5 A de corriente, perpendicular a un campo magnético de 1 T. ¿Qué fuerza recibe?|15 N|30 N|16 N|9 N|0|F = B·I·L = 1 · 5 · 3 = 15 N.
-Un conductor de 2 m con 4 A de corriente, perpendicular a un campo magnético de 0,5 T. ¿Qué fuerza recibe?|16 N|8 N|6,5 N|4 N|3|F = B·I·L = 0,5 · 4 · 2 = 4 N.
-Un conductor de 4 m con 3 A de corriente, perpendicular a un campo magnético de 2 T. ¿Qué fuerza recibe?|6 N|9 N|24 N|48 N|2|F = B·I·L = 2 · 3 · 4 = 24 N.
-¿Qué fenómeno produce corriente al variar el flujo magnético?|Efecto Joule|Electrólisis|Inducción electromagnética|Ósmosis|2|Lo descubrió Faraday.
-¿Qué hace un transformador?|Genera corriente|Almacena energía|Convierte alterna en continua|Cambia la tensión de una corriente alterna|3|Funciona con dos bobinas.
-¿Qué hace un motor eléctrico?|Almacena energía|Produce calor únicamente|Transforma energía mecánica en eléctrica|Transforma energía eléctrica en mecánica|3|Usa la fuerza sobre una corriente en un campo.
-¿Qué hace un generador eléctrico?|Produce imanes|Transforma energía mecánica en eléctrica|Almacena carga|Transforma energía eléctrica en mecánica|1|Se basa en la inducción.
-Un conductor de 5 m con 2 A de corriente, perpendicular a un campo magnético de 3 T. ¿Qué fuerza recibe?|10 N|3,333 N|60 N|30 N|3|F = B·I·L = 3 · 2 · 5 = 30 N.
-¿Por qué se transporta la electricidad a alta tensión?|Para evitar la inducción|Para reducir las pérdidas por efecto Joule|Para consumir más|Para aumentar la corriente|1|Con mayor V, la I es menor para igual potencia.
-¿Cuál es la fuerza sobre una carga que se mueve paralela a un campo magnético?|Nula|Máxima|Igual a qvB|Negativa|0|La fuerza es proporcional al seno del ángulo.
-¿Para qué sirve el campo magnético terrestre?|Protege de partículas cargadas del Sol|Genera lluvias|Calienta el planeta|Produce mareas|0|Origina las auroras.
-¿Por qué un transformador no funciona con corriente continua?|Porque la CC es muy débil|Porque necesita un flujo magnético variable|Porque es alta frecuencia|Porque no tiene bobinas|1|Sin variación del flujo no hay inducción.
-Un transformador ideal recibe 100 V y 4 A. Si entrega 200 V, ¿qué corriente entrega?|5 A|4 A|8 A|2 A|3|Potencia constante: V₁·I₁ = V₂·I₂ → I₂ = 100·4/200 = 2 A.
-Un transformador tiene 200 espiras en el primario y 50 en el secundario. Si se conecta a 120 V, ¿qué tensión entrega?|170 V|480 V|60 V|30 V|3|V₁/V₂ = N₁/N₂ → V₂ = 120·50/200 = 30 V.
-¿Cómo es la trayectoria de una carga que entra perpendicular a un campo magnético uniforme?|Parabólica|Cuadrada|Circular|Recta|2|La fuerza magnética actúa como fuerza centrípeta.
-Un transformador tiene 500 espiras en el primario y 100 en el secundario. Si se conecta a 220 V, ¿qué tensión entrega?|1100 V|88 V|320 V|44 V|3|V₁/V₂ = N₁/N₂ → V₂ = 220·100/500 = 44 V.
-Un transformador tiene 100 espiras en el primario y 200 en el secundario. Si se conecta a 110 V, ¿qué tensión entrega?|440 V|220 V|55 V|310 V|1|V₁/V₂ = N₁/N₂ → V₂ = 110·200/100 = 220 V.
-Un transformador tiene 1000 espiras en el primario y 100 en el secundario. Si se conecta a 220 V, ¿qué tensión entrega?|2200 V|320 V|44 V|22 V|3|V₁/V₂ = N₁/N₂ → V₂ = 220·100/1000 = 22 V.
+¿Cómo se llaman los polos de un imán?|Positivo y negativo|Ánodo y cátodo|Este y oeste|Norte y sur|3|Polos iguales se repelen.
+¿Qué ocurre si se acercan los polos norte de dos imanes?|Se atraen|No pasa nada|Se repelen|Se funden|2|Polos iguales se repelen.
+¿Quién descubrió que una corriente produce un campo magnético?|Newton|Galileo|Oersted|Darwin|2|Lo observó en 1820.
+¿Qué instrumento usa el campo magnético terrestre para orientarse?|Termómetro|Brújula|Voltímetro|Barómetro|1|La aguja se alinea con el campo.
+¿Cuál es la unidad de campo magnético?|Tesla|Ohm|Henry|Weber|0|1 T = 1 N/(A·m).
+Un transformador tiene 50 espiras en el primario y 500 en el secundario. Si se conecta a 12 V, ¿qué tensión entrega?|512 V|120 V|1,2 V|240 V|1|V₁/V₂ = N₁/N₂ → V₂ = 12·500/50 = 120 V.
+Un transformador ideal recibe 220 V y 2 A. Si entrega 44 V, ¿qué corriente entrega?|20 A|3 A|0,4 A|10 A|3|Potencia constante: V₁·I₁ = V₂·I₂ → I₂ = 220·2/44 = 10 A.
+Un transformador ideal recibe 110 V y 2 A. Si entrega 11 V, ¿qué corriente entrega?|40 A|3 A|20 A|0,2 A|2|Potencia constante: V₁·I₁ = V₂·I₂ → I₂ = 110·2/11 = 20 A.
+¿Qué enuncia la ley de Lenz?|La fuerza es nula|La corriente inducida se opone a la variación que la produce|El campo es constante|La corriente es siempre continua|1|Es una consecuencia de la conservación de la energía.
+Un conductor de 3 m con 5 A de corriente, perpendicular a un campo magnético de 1 T. ¿Qué fuerza recibe?|30 N|16 N|15 N|9 N|2|F = B·I·L = 1 · 5 · 3 = 15 N.
+Un conductor de 2 m con 4 A de corriente, perpendicular a un campo magnético de 0,5 T. ¿Qué fuerza recibe?|4 N|6,5 N|16 N|8 N|0|F = B·I·L = 0,5 · 4 · 2 = 4 N.
+Un conductor de 4 m con 3 A de corriente, perpendicular a un campo magnético de 2 T. ¿Qué fuerza recibe?|9 N|24 N|48 N|6 N|1|F = B·I·L = 2 · 3 · 4 = 24 N.
+¿Qué fenómeno produce corriente al variar el flujo magnético?|Ósmosis|Electrólisis|Efecto Joule|Inducción electromagnética|3|Lo descubrió Faraday.
+¿Qué hace un transformador?|Cambia la tensión de una corriente alterna|Convierte alterna en continua|Almacena energía|Genera corriente|0|Funciona con dos bobinas.
+¿Qué hace un motor eléctrico?|Transforma energía eléctrica en mecánica|Transforma energía mecánica en eléctrica|Produce calor únicamente|Almacena energía|0|Usa la fuerza sobre una corriente en un campo.
+¿Qué hace un generador eléctrico?|Transforma energía mecánica en eléctrica|Transforma energía eléctrica en mecánica|Produce imanes|Almacena carga|0|Se basa en la inducción.
+Un conductor de 5 m con 2 A de corriente, perpendicular a un campo magnético de 3 T. ¿Qué fuerza recibe?|60 N|30 N|3,333 N|10 N|1|F = B·I·L = 3 · 2 · 5 = 30 N.
+¿Por qué se transporta la electricidad a alta tensión?|Para reducir las pérdidas por efecto Joule|Para consumir más|Para evitar la inducción|Para aumentar la corriente|0|Con mayor V, la I es menor para igual potencia.
+¿Cuál es la fuerza sobre una carga que se mueve paralela a un campo magnético?|Negativa|Igual a qvB|Nula|Máxima|2|La fuerza es proporcional al seno del ángulo.
+¿Para qué sirve el campo magnético terrestre?|Produce mareas|Protege de partículas cargadas del Sol|Genera lluvias|Calienta el planeta|1|Origina las auroras.
+¿Por qué un transformador no funciona con corriente continua?|Porque es alta frecuencia|Porque la CC es muy débil|Porque necesita un flujo magnético variable|Porque no tiene bobinas|2|Sin variación del flujo no hay inducción.
+Un transformador ideal recibe 100 V y 4 A. Si entrega 200 V, ¿qué corriente entrega?|4 A|8 A|2 A|5 A|2|Potencia constante: V₁·I₁ = V₂·I₂ → I₂ = 100·4/200 = 2 A.
+Un transformador tiene 200 espiras en el primario y 50 en el secundario. Si se conecta a 120 V, ¿qué tensión entrega?|480 V|30 V|60 V|170 V|1|V₁/V₂ = N₁/N₂ → V₂ = 120·50/200 = 30 V.
+¿Cómo es la trayectoria de una carga que entra perpendicular a un campo magnético uniforme?|Recta|Parabólica|Cuadrada|Circular|3|La fuerza magnética actúa como fuerza centrípeta.
+Un transformador tiene 500 espiras en el primario y 100 en el secundario. Si se conecta a 220 V, ¿qué tensión entrega?|88 V|1100 V|320 V|44 V|3|V₁/V₂ = N₁/N₂ → V₂ = 220·100/500 = 44 V.
+Un transformador tiene 100 espiras en el primario y 200 en el secundario. Si se conecta a 110 V, ¿qué tensión entrega?|440 V|310 V|55 V|220 V|3|V₁/V₂ = N₁/N₂ → V₂ = 110·200/100 = 220 V.
+Un transformador tiene 1000 espiras en el primario y 100 en el secundario. Si se conecta a 220 V, ¿qué tensión entrega?|320 V|2200 V|44 V|22 V|3|V₁/V₂ = N₁/N₂ → V₂ = 220·100/1000 = 22 V.

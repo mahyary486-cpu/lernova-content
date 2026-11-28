@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Qué tipo de agente causa la gripe?|Un protozoo|Una bacteria|Un hongo|Un virus|3|Mutan con frecuencia.
-¿Qué es un antígeno?|Una sustancia que desencadena una respuesta inmune|Un antibiótico|Un órgano|Una vitamina|0|Puede ser parte de un virus o bacteria.
-¿Los antibióticos actúan sobre los virus?|Solo en niños|Solo sobre virus de ARN|Sí, siempre|No, actúan sobre bacterias|3|Para virus se usan vacunas y antivirales.
-¿Qué producen los linfocitos B?|Bilis|Insulina|Hemoglobina|Anticuerpos|3|Se unen a antígenos específicos.
-¿Qué células fagocitan a los patógenos?|Los macrófagos|Los eritrocitos|Las neuronas|Las plaquetas|0|Forman parte de la inmunidad innata.
-¿Qué es una epidemia?|Un aumento de casos de una enfermedad en una región|Una enfermedad presente en todo el mundo|Una vacuna|Una vitamina|0|Una pandemia abarca varios continentes.
-¿Para qué sirven las vacunas?|Para generar inmunidad antes de la enfermedad|Para reemplazar la alimentación|Para matar bacterias de inmediato|Para curar toda enfermedad|0|Producen memoria inmunológica.
-¿Qué enfermedad transmite el mosquito Aedes aegypti en Argentina?|El dengue|La rabia|La tuberculosis|El sarampión|0|También puede transmitir zika y chikungunya.
-¿Qué es una pandemia?|Una vacuna|Una epidemia que se extiende por muchos países o continentes|Un brote local pequeño|Una enfermedad rara|1|Un ejemplo es la COVID-19.
-¿Qué barrera externa protege al cuerpo de patógenos?|El hígado|El corazón|La piel|El cerebelo|2|Impide la entrada de microorganismos.
-¿Qué es una enfermedad autoinmune?|Aquella en que el sistema inmune ataca tejidos propios|Una alergia alimentaria únicamente|Una enfermedad genética sin inmunidad|Una infección bacteriana|0|Por ejemplo, la diabetes tipo 1.
-¿Qué diferencia hay entre inmunidad activa y pasiva?|La pasiva dura toda la vida|La activa se genera en el propio organismo y la pasiva se recibe ya hecha|La activa es solo por suero|Ambas son iguales|1|Los anticuerpos maternos son pasivos.
-¿Qué enfermedad es transmitida por la vinchuca en Argentina?|La gripe|El cólera|El mal de Chagas|El dengue|2|Es causada por Trypanosoma cruzi.
-¿Qué función cumplen los linfocitos T citotóxicos?|Digieren alimentos|Transportan oxígeno|Producen anticuerpos|Destruyen células infectadas|3|Reconocen antígenos presentados.
-¿Qué es la inmunidad de rebaño?|Una enfermedad animal|Un tipo de anticuerpo|Una vacuna única|La protección indirecta cuando una gran parte de la población es inmune|3|Protege a quienes no pueden vacunarse.
-¿Qué causa el SIDA?|Una bacteria|Un protozoo|Un hongo|El virus VIH, que ataca a los linfocitos T colaboradores|3|Debilita el sistema inmune.
-¿Por qué la segunda exposición a un patógeno genera una respuesta más rápida?|Porque el patógeno desaparece|Por la memoria inmunológica|Por la fiebre|Por la falta de anticuerpos|1|Las células de memoria persisten.
-¿Qué es una alergia?|Una mutación|Una deficiencia vitamínica|Una infección viral|Una respuesta inmune exagerada a una sustancia inofensiva|3|El alérgeno desencadena la reacción.
-¿Qué es la inmunidad adaptativa?|La piel|La digestión|Una respuesta específica con memoria|Una respuesta general sin memoria|2|Involucra linfocitos B y T.
-¿Qué es el Calendario Nacional de Vacunación?|Un registro de nacimientos|El conjunto de vacunas obligatorias y gratuitas en Argentina|Una lista de enfermedades|Un plan de dieta|1|Incluye vacunas como la triple viral.
-¿Qué mide la tasa de letalidad?|La cantidad de vacunados|La proporción de enfermos que mueren por la enfermedad|La duración de la enfermedad|La cantidad de contagios por día|1|Es muerte sobre casos confirmados.
-¿Cómo funcionan las vacunas de ARN mensajero?|Modifican el ADN humano|Dan instrucciones para producir un antígeno y generar respuesta inmune|Introducen el virus completo vivo|Contienen antibióticos|1|El ARNm se degrada rápidamente.
-¿Qué función cumplen los adyuvantes en las vacunas?|Matan al virus|Conservan el ADN|Potencian la respuesta inmune|Reemplazan al antígeno|2|Mejoran la efectividad.
-¿Qué es la resistencia bacteriana?|Una alergia|Un tipo de virus|Un tipo de vacuna|La capacidad de las bacterias de sobrevivir a antibióticos|3|Se favorece con el uso inadecuado de antibióticos.
-¿Qué estrategia ayuda a controlar el dengue?|Eliminar recipientes con agua estancada donde cría el mosquito|Tomar antibióticos|Evitar el sol|Consumir más sal|0|Se reduce la cantidad de criaderos.
-¿Qué es un vector biológico?|Una enzima|Un medicamento|Una vacuna|Un organismo que transmite un patógeno de un huésped a otro|3|Por ejemplo, el mosquito del dengue.
-¿Qué enfermedad fue erradicada del mundo mediante vacunación?|La gripe|El sarampión|El dengue|La viruela|3|Se declaró erradicada en 1980.
-¿Por qué la gripe requiere vacunarse todos los años?|Porque es una bacteria|Porque no genera inmunidad|Porque el virus muta y circulan nuevas cepas|Porque la vacuna dura un día|2|Se actualiza la composición de la vacuna.
-¿Qué se entiende por vigilancia epidemiológica?|Un tipo de vacuna|Recolectar y analizar datos de salud para detectar y controlar brotes|Cuidar edificios|Vigilar cultivos|1|Permite actuar con rapidez.
-¿Por qué la higiene del agua previene enfermedades como el cólera?|Porque el cloro es una vacuna|Porque el agua crea anticuerpos|Porque corta la transmisión por ingestión del patógeno|Porque el cólera es una alergia|2|Es una medida de saneamiento.
+¿Qué tipo de agente causa la gripe?|Una bacteria|Un hongo|Un protozoo|Un virus|3|Mutan con frecuencia.
+¿Qué es un antígeno?|Un órgano|Una vitamina|Un antibiótico|Una sustancia que desencadena una respuesta inmune|3|Puede ser parte de un virus o bacteria.
+¿Los antibióticos actúan sobre los virus?|Sí, siempre|No, actúan sobre bacterias|Solo sobre virus de ARN|Solo en niños|1|Para virus se usan vacunas y antivirales.
+¿Qué producen los linfocitos B?|Anticuerpos|Hemoglobina|Insulina|Bilis|0|Se unen a antígenos específicos.
+¿Qué células fagocitan a los patógenos?|Las neuronas|Los eritrocitos|Los macrófagos|Las plaquetas|2|Forman parte de la inmunidad innata.
+¿Qué es una epidemia?|Una vitamina|Una vacuna|Un aumento de casos de una enfermedad en una región|Una enfermedad presente en todo el mundo|2|Una pandemia abarca varios continentes.
+¿Para qué sirven las vacunas?|Para reemplazar la alimentación|Para curar toda enfermedad|Para generar inmunidad antes de la enfermedad|Para matar bacterias de inmediato|2|Producen memoria inmunológica.
+¿Qué enfermedad transmite el mosquito Aedes aegypti en Argentina?|La rabia|El sarampión|La tuberculosis|El dengue|3|También puede transmitir zika y chikungunya.
+¿Qué es una pandemia?|Una enfermedad rara|Una epidemia que se extiende por muchos países o continentes|Una vacuna|Un brote local pequeño|1|Un ejemplo es la COVID-19.
+¿Qué barrera externa protege al cuerpo de patógenos?|La piel|El cerebelo|El corazón|El hígado|0|Impide la entrada de microorganismos.
+¿Qué es una enfermedad autoinmune?|Una infección bacteriana|Una alergia alimentaria únicamente|Una enfermedad genética sin inmunidad|Aquella en que el sistema inmune ataca tejidos propios|3|Por ejemplo, la diabetes tipo 1.
+¿Qué diferencia hay entre inmunidad activa y pasiva?|La activa se genera en el propio organismo y la pasiva se recibe ya hecha|Ambas son iguales|La activa es solo por suero|La pasiva dura toda la vida|0|Los anticuerpos maternos son pasivos.
+¿Qué enfermedad es transmitida por la vinchuca en Argentina?|El dengue|La gripe|El mal de Chagas|El cólera|2|Es causada por Trypanosoma cruzi.
+¿Qué función cumplen los linfocitos T citotóxicos?|Digieren alimentos|Transportan oxígeno|Destruyen células infectadas|Producen anticuerpos|2|Reconocen antígenos presentados.
+¿Qué es la inmunidad de rebaño?|Una vacuna única|La protección indirecta cuando una gran parte de la población es inmune|Un tipo de anticuerpo|Una enfermedad animal|1|Protege a quienes no pueden vacunarse.
+¿Qué causa el SIDA?|Un protozoo|El virus VIH, que ataca a los linfocitos T colaboradores|Un hongo|Una bacteria|1|Debilita el sistema inmune.
+¿Por qué la segunda exposición a un patógeno genera una respuesta más rápida?|Por la memoria inmunológica|Porque el patógeno desaparece|Por la fiebre|Por la falta de anticuerpos|0|Las células de memoria persisten.
+¿Qué es una alergia?|Una mutación|Una respuesta inmune exagerada a una sustancia inofensiva|Una infección viral|Una deficiencia vitamínica|1|El alérgeno desencadena la reacción.
+¿Qué es la inmunidad adaptativa?|Una respuesta específica con memoria|La digestión|Una respuesta general sin memoria|La piel|0|Involucra linfocitos B y T.
+¿Qué es el Calendario Nacional de Vacunación?|Un plan de dieta|Un registro de nacimientos|Una lista de enfermedades|El conjunto de vacunas obligatorias y gratuitas en Argentina|3|Incluye vacunas como la triple viral.
+¿Qué mide la tasa de letalidad?|La cantidad de vacunados|La proporción de enfermos que mueren por la enfermedad|La cantidad de contagios por día|La duración de la enfermedad|1|Es muerte sobre casos confirmados.
+¿Cómo funcionan las vacunas de ARN mensajero?|Contienen antibióticos|Modifican el ADN humano|Dan instrucciones para producir un antígeno y generar respuesta inmune|Introducen el virus completo vivo|2|El ARNm se degrada rápidamente.
+¿Qué función cumplen los adyuvantes en las vacunas?|Reemplazan al antígeno|Matan al virus|Conservan el ADN|Potencian la respuesta inmune|3|Mejoran la efectividad.
+¿Qué es la resistencia bacteriana?|Una alergia|Un tipo de vacuna|La capacidad de las bacterias de sobrevivir a antibióticos|Un tipo de virus|2|Se favorece con el uso inadecuado de antibióticos.
+¿Qué estrategia ayuda a controlar el dengue?|Evitar el sol|Tomar antibióticos|Consumir más sal|Eliminar recipientes con agua estancada donde cría el mosquito|3|Se reduce la cantidad de criaderos.
+¿Qué es un vector biológico?|Un organismo que transmite un patógeno de un huésped a otro|Un medicamento|Una enzima|Una vacuna|0|Por ejemplo, el mosquito del dengue.
+¿Qué enfermedad fue erradicada del mundo mediante vacunación?|El sarampión|El dengue|La gripe|La viruela|3|Se declaró erradicada en 1980.
+¿Por qué la gripe requiere vacunarse todos los años?|Porque no genera inmunidad|Porque es una bacteria|Porque el virus muta y circulan nuevas cepas|Porque la vacuna dura un día|2|Se actualiza la composición de la vacuna.
+¿Qué se entiende por vigilancia epidemiológica?|Vigilar cultivos|Recolectar y analizar datos de salud para detectar y controlar brotes|Cuidar edificios|Un tipo de vacuna|1|Permite actuar con rapidez.
+¿Por qué la higiene del agua previene enfermedades como el cólera?|Porque corta la transmisión por ingestión del patógeno|Porque el cólera es una alergia|Porque el agua crea anticuerpos|Porque el cloro es una vacuna|0|Es una medida de saneamiento.

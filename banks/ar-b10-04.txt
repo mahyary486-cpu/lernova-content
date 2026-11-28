@@ -1,30 +1,30 @@
 #EEEEEEEEEEMMMMMMMMMHHHHHHHHHH
-¿Qué es un clon?|Una mutación|Un organismo genéticamente idéntico a otro|Un híbrido|Un gameto|1|La oveja Dolly fue un ejemplo.
-¿Qué molécula transporta los aminoácidos al ribosoma?|ADN|ARNt|ARNr|ARNm|1|Tiene un anticodón.
-¿Qué proceso produce ARN a partir de ADN?|Transcripción|Fermentación|Traducción|Replicación|0|Ocurre en el núcleo.
-¿Cómo se llama el proceso de copia del ADN?|Replicación|Transcripción|Mitosis|Traducción|0|Es semiconservativa.
-Un codón está formado por:|Cuatro bases|Tres nucleótidos|Dos nucleótidos|Un aminoácido|1|Codifica un aminoácido.
-¿Qué proceso produce proteínas a partir del ARNm?|Glucólisis|Traducción|Replicación|Transcripción|1|Ocurre en los ribosomas.
-¿Qué es un transgénico?|Un virus|Un organismo que tiene genes de otra especie|Un clon|Un organismo sin genes|1|Se obtiene por ingeniería genética.
-¿Quiénes propusieron el modelo de doble hélice del ADN?|Pasteur y Koch|Watson y Crick|Hooke y Leeuwenhoek|Mendel y Darwin|1|Lo publicaron en 1953.
-¿Qué es una mutación?|Una enzima|Una proteína|Una división celular|Un cambio en la secuencia del ADN|3|Puede ser perjudicial, neutra o ventajosa.
-¿Qué técnica permite copiar muchas veces un fragmento de ADN?|Fotosíntesis|Ósmosis|Mitosis|PCR|3|Se usa en diagnóstico y en investigación.
-¿Qué codón indica el inicio de la traducción?|AUG|UAA|UAG|UGA|0|Codifica metionina.
-¿Qué es una vacuna de ARNm?|Un antibiótico|Una que introduce instrucciones para producir una proteína del patógeno|Un virus completo|Un clon|1|Fueron usadas contra la COVID-19.
-¿Qué significa que el código genético es degenerado?|Un codón codifica varios aminoácidos|Es distinto en cada especie|Cambia con la edad|Varios codones codifican el mismo aminoácido|3|Hay 64 codones y 20 aminoácidos.
-¿Qué indican los codones UAA, UAG y UGA?|Una mutación|Metionina|Inicio|Fin de la traducción|3|Son codones de terminación.
-Si la secuencia de una cadena de ADN es ATGCCA, la cadena complementaria es:|UACGGU|TACGGT|ATGCCA|TAGCCT|1|A–T y C–G.
-¿Qué producto de la biotecnología se obtiene con bacterias modificadas?|Vitamina C|Vidrio|Penicilina solamente|Insulina humana|3|Se inserta el gen humano en bacterias.
-¿Cuántos nucleótidos codifican 10 aminoácidos?|30|20|40|10|0|Cada aminoácido está codificado por un codón de 3 nucleótidos.
-Si el ADN es TACGGT, ¿cuál es el ARNm transcripto?|TACGGT|AUGCCA|ATGCCA|UACGGU|1|La timina se reemplaza por uracilo y se complementa cada base.
+¿Qué es un clon?|Un organismo genéticamente idéntico a otro|Un gameto|Una mutación|Un híbrido|0|La oveja Dolly fue un ejemplo.
+¿Qué molécula transporta los aminoácidos al ribosoma?|ADN|ARNr|ARNm|ARNt|3|Tiene un anticodón.
+¿Qué proceso produce ARN a partir de ADN?|Replicación|Fermentación|Transcripción|Traducción|2|Ocurre en el núcleo.
+¿Cómo se llama el proceso de copia del ADN?|Replicación|Transcripción|Traducción|Mitosis|0|Es semiconservativa.
+Un codón está formado por:|Dos nucleótidos|Tres nucleótidos|Cuatro bases|Un aminoácido|1|Codifica un aminoácido.
+¿Qué proceso produce proteínas a partir del ARNm?|Traducción|Replicación|Transcripción|Glucólisis|0|Ocurre en los ribosomas.
+¿Qué es un transgénico?|Un organismo sin genes|Un clon|Un organismo que tiene genes de otra especie|Un virus|2|Se obtiene por ingeniería genética.
+¿Quiénes propusieron el modelo de doble hélice del ADN?|Watson y Crick|Mendel y Darwin|Hooke y Leeuwenhoek|Pasteur y Koch|0|Lo publicaron en 1953.
+¿Qué es una mutación?|Una proteína|Una enzima|Una división celular|Un cambio en la secuencia del ADN|3|Puede ser perjudicial, neutra o ventajosa.
+¿Qué técnica permite copiar muchas veces un fragmento de ADN?|Mitosis|PCR|Ósmosis|Fotosíntesis|1|Se usa en diagnóstico y en investigación.
+¿Qué codón indica el inicio de la traducción?|UAA|AUG|UAG|UGA|1|Codifica metionina.
+¿Qué es una vacuna de ARNm?|Un virus completo|Un clon|Un antibiótico|Una que introduce instrucciones para producir una proteína del patógeno|3|Fueron usadas contra la COVID-19.
+¿Qué significa que el código genético es degenerado?|Varios codones codifican el mismo aminoácido|Cambia con la edad|Es distinto en cada especie|Un codón codifica varios aminoácidos|0|Hay 64 codones y 20 aminoácidos.
+¿Qué indican los codones UAA, UAG y UGA?|Inicio|Fin de la traducción|Una mutación|Metionina|1|Son codones de terminación.
+Si la secuencia de una cadena de ADN es ATGCCA, la cadena complementaria es:|TAGCCT|UACGGU|ATGCCA|TACGGT|3|A–T y C–G.
+¿Qué producto de la biotecnología se obtiene con bacterias modificadas?|Vidrio|Penicilina solamente|Insulina humana|Vitamina C|2|Se inserta el gen humano en bacterias.
+¿Cuántos nucleótidos codifican 10 aminoácidos?|20|40|30|10|2|Cada aminoácido está codificado por un codón de 3 nucleótidos.
+Si el ADN es TACGGT, ¿cuál es el ARNm transcripto?|UACGGU|TACGGT|ATGCCA|AUGCCA|3|La timina se reemplaza por uracilo y se complementa cada base.
 ¿Qué enzima corta el ADN en secuencias específicas?|ADN polimerasa|Ligasa|Enzimas de restricción|ARN polimerasa|2|Se usan en ingeniería genética.
-¿Por qué una célula de la piel y una neurona tienen el mismo ADN pero funciones distintas?|Expresan distintos genes|Tienen ADN diferente|Una es procariota|Una no tiene ADN|0|La regulación de la expresión genética es diferencial.
-¿Qué enzima sintetiza ARN a partir de ADN?|Helicasa|ARN polimerasa|ADN ligasa|Lipasa|1|Reconoce el promotor del gen.
-Un argumento a favor de los cultivos transgénicos es:|Mayor resistencia a plagas y rendimiento|No tienen genes|No necesitan agua|Eliminan todos los riesgos|0|También se debaten riesgos ambientales y económicos.
+¿Por qué una célula de la piel y una neurona tienen el mismo ADN pero funciones distintas?|Tienen ADN diferente|Una no tiene ADN|Expresan distintos genes|Una es procariota|2|La regulación de la expresión genética es diferencial.
+¿Qué enzima sintetiza ARN a partir de ADN?|ADN ligasa|Lipasa|Helicasa|ARN polimerasa|3|Reconoce el promotor del gen.
+Un argumento a favor de los cultivos transgénicos es:|No necesitan agua|Mayor resistencia a plagas y rendimiento|Eliminan todos los riesgos|No tienen genes|1|También se debaten riesgos ambientales y económicos.
 La anemia falciforme se debe a:|Una mutación puntual en el gen de la hemoglobina|Un virus|Una bacteria|Falta de hierro|0|Se altera un aminoácido.
-¿Qué debate ético plantea la edición genética en embriones humanos?|No plantea debates|Los límites de modificar la herencia de futuras generaciones|Es un asunto solo técnico|Elimina las mutaciones|1|Se requiere regulación y consenso social.
-¿Qué es la replicación semiconservativa?|Se crean cadenas distintas|Se conserva el ADN original entero|Se destruye el ADN original|Cada molécula hija tiene una cadena original y una nueva|3|Fue demostrada por Meselson y Stahl.
-Una mutación por pérdida de una base (deleción) suele ser grave porque:|Cambia el marco de lectura|No cambia nada|Aumenta el ADN|Solo cambia un aminoácido|0|Se alteran todos los codones siguientes.
-¿Para qué sirve el perfil de ADN?|Para medir la temperatura|Para curar todas las enfermedades|Para identificar personas y establecer parentescos|Para cambiar el ADN|2|Se usa en medicina legal; las Abuelas de Plaza de Mayo recuperaron identidades con estas pruebas.
-Una mutación por sustitución de una base puede no cambiar el aminoácido porque:|El código es degenerado|No afecta al ADN|No existe|La proteína no existe|0|Un cambio en la tercera base del codón a menudo da el mismo aminoácido.
-¿Qué ocurre en el ribosoma durante la traducción?|Se copia el ADN|Se leen los codones del ARNm y se unen aminoácidos|Se corta el ADN|Se produce ATP|1|Los ARNt llevan los aminoácidos.
+¿Qué debate ético plantea la edición genética en embriones humanos?|Elimina las mutaciones|Los límites de modificar la herencia de futuras generaciones|Es un asunto solo técnico|No plantea debates|1|Se requiere regulación y consenso social.
+¿Qué es la replicación semiconservativa?|Se crean cadenas distintas|Se conserva el ADN original entero|Cada molécula hija tiene una cadena original y una nueva|Se destruye el ADN original|2|Fue demostrada por Meselson y Stahl.
+Una mutación por pérdida de una base (deleción) suele ser grave porque:|Aumenta el ADN|Cambia el marco de lectura|No cambia nada|Solo cambia un aminoácido|1|Se alteran todos los codones siguientes.
+¿Para qué sirve el perfil de ADN?|Para identificar personas y establecer parentescos|Para medir la temperatura|Para curar todas las enfermedades|Para cambiar el ADN|0|Se usa en medicina legal; las Abuelas de Plaza de Mayo recuperaron identidades con estas pruebas.
+Una mutación por sustitución de una base puede no cambiar el aminoácido porque:|No afecta al ADN|La proteína no existe|No existe|El código es degenerado|3|Un cambio en la tercera base del codón a menudo da el mismo aminoácido.
+¿Qué ocurre en el ribosoma durante la traducción?|Se corta el ADN|Se produce ATP|Se leen los codones del ARNm y se unen aminoácidos|Se copia el ADN|2|Los ARNt llevan los aminoácidos.

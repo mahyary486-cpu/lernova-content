@@ -1,51 +1,51 @@
 #EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
-La suma de dos números es 7 y su diferencia es 1. ¿Cuáles son?|7 y 0|4 y 3|4 y 4|3 y 5|1|Si x + y = 7 y x − y = 1, sumando las ecuaciones 2x = 8, entonces x = 4 e y = 3.
-Un sistema de dos ecuaciones lineales cuyas rectas son coincidentes, ¿qué características tiene?|Tiene una única solución|No tiene solución|Tiene exactamente dos soluciones|Tiene infinitas soluciones|3|Si las rectas coinciden, el sistema tiene infinitas soluciones.
-Si x = 1 e y = 2, ¿cuánto vale 2x + 3y?|8|9|15|18|0|2 · 1 + 3 · 2 = 8.
-¿Cuál es la solución del sistema 3x + 4y = 15 y 2x − 2y = −18?|x = −2; y = 6|x = −3; y = 6|x = −3; y = 5|x = 6; y = −3|1|Se reemplaza el par en ambas ecuaciones y se verifica: 3 · (−3) + 4 · 6 = 15 y 2 · (−3) − 2 · 6 = −18.
-Un sistema de dos ecuaciones lineales cuyas rectas son paralelas y distintas, ¿qué características tiene?|Tiene una única solución|Tiene exactamente dos soluciones|No tiene solución|Tiene infinitas soluciones|2|Si las rectas son paralelas y distintas, el sistema no tiene solución.
-En el sistema y = 3x y x + y = 16, ¿cuánto vale x?|4|16|16/3|12|0|Se sustituye y: x + 3x = 16, entonces 4x = 16 y x = 4.
-La suma de dos números es 9 y su diferencia es 1. ¿Cuáles son?|9 y 0|6 y 4|5 y 5|5 y 4|3|Si x + y = 9 y x − y = 1, sumando las ecuaciones 2x = 10, entonces x = 5 e y = 4.
-Si x = 5 e y = 8, ¿cuánto vale 2x + 3y?|34|35|78|65|0|2 · 5 + 3 · 8 = 34.
-La suma de dos números es 15 y su diferencia es 3. ¿Cuáles son?|10 y 6|9 y 6|9 y 7|15 y 0|1|Si x + y = 15 y x − y = 3, sumando las ecuaciones 2x = 18, entonces x = 9 e y = 6.
-En el sistema y = 3x y x + y = 4, ¿cuánto vale x?|3|1|4/3|4|1|Se sustituye y: x + 3x = 4, entonces 4x = 4 y x = 1.
-¿Cuál es la solución del sistema 2x + 3y = 28 y x − 3y = −13?|x = 6; y = 6|x = 5; y = 5|x = 5; y = 6|x = 6; y = 5|2|Se reemplaza el par en ambas ecuaciones y se verifica: 2 · 5 + 3 · 6 = 28 y 1 · 5 − 3 · 6 = −13.
-En el sistema y = 3x y x + y = −4, ¿cuánto vale x?|−4|−1|−3|−4/3|1|Se sustituye y: x + 3x = −4, entonces 4x = −4 y x = −1.
-Un sistema de dos ecuaciones lineales cuyas rectas son secantes (se cortan en un punto), ¿qué características tiene?|Tiene exactamente dos soluciones|No tiene solución|Tiene una única solución|Tiene infinitas soluciones|2|Si las rectas se cortan en un punto, el sistema tiene una única solución.
-La suma de dos números es 11 y su diferencia es 3. ¿Cuáles son?|11 y 0|4 y 8|7 y 4|5 y 7|2|Si x + y = 11 y x − y = 3, sumando las ecuaciones 2x = 14, entonces x = 7 e y = 4.
-¿Cuál es la solución del sistema 4x + 4y = 8 y x − 3y = −22?|x = 6; y = −4|x = −3; y = 6|x = −4; y = 5|x = −4; y = 6|3|Se reemplaza el par en ambas ecuaciones y se verifica: 4 · (−4) + 4 · 6 = 8 y 1 · (−4) − 3 · 6 = −22.
-¿Cuál es la solución del sistema 3x + y = 19 y 3x − y = 11?|x = 6; y = 4|x = 5; y = 4|x = 5; y = 3|x = 4; y = 5|1|Se reemplaza el par en ambas ecuaciones y se verifica: 3 · 5 + 1 · 4 = 19 y 3 · 5 − 1 · 4 = 11.
-En el sistema y = 3x y x + y = 8, ¿cuánto vale x?|8/3|8|2|6|2|Se sustituye y: x + 3x = 8, entonces 4x = 8 y x = 2.
-Con 2 entradas de adulto y 4 de menor se pagan $11000; con 3 de adulto y 3 de menor se pagan $12000. ¿Cuánto cuesta la entrada de adulto?|$2500|$2000|$1500|$3000|0|Restando ambos pagos: c − e = 1000. Con eso se halla c = 2500.
-Resolvé por sustitución: x + 2y = 0 y 2x − y = 15. ¿Cuánto vale x?|6|−3|−6|7|0|De la segunda, y = 2x − 15. Se reemplaza en la primera y se obtiene x = 6.
-Resolvé por igualación: y = 3x + 5 e y = x − 1. ¿Cuánto vale y?|−3|4|−4|−2|2|Se iguala 3x + 5 = x − 1 y se obtiene x = −3. Luego y = −4.
-Resolvé por igualación: y = −x − 4 e y = 2x + 2. ¿Cuánto vale y?|2|0|−2|−4|2|Se iguala −x − 4 = 2x + 2 y se obtiene x = −2. Luego y = −2.
-Resolvé por sustitución: x + 2y = −10 y 2x − y = 0. ¿Cuánto vale x?|−4|−1|−2|2|2|De la segunda, y = 2x. Se reemplaza en la primera y se obtiene x = −2.
-Resolvé por igualación: y = x + 5 e y = −x − 1. ¿Cuánto vale y?|−3|−2|2|4|2|Se iguala x + 5 = −x − 1 y se obtiene x = −3. Luego y = 2.
-Resolvé por sustitución: x + 2y = 9 y 3x − y = −8. ¿Cuánto vale x?|−1|1|5|0|0|De la segunda, y = 3x + 8. Se reemplaza en la primera y se obtiene x = −1.
-Resolvé por reducción: 2x + 3y = −14 y 2x − 3y = 10. ¿Cuánto vale y?|−12|−1|4|−4|3|Restando ambas ecuaciones: 6y = −24, entonces y = −4.
-Resolvé por reducción: x + 4y = 28 y x − 4y = −20. ¿Cuánto vale y?|6|−6|24|4|0|Restando ambas ecuaciones: 8y = 48, entonces y = 6.
-Resolvé por reducción: x + y = 8 y x − y = −2. ¿Cuánto vale y?|5|−5|6|3|0|Restando ambas ecuaciones: 2y = 10, entonces y = 5.
-Con 3 entradas de adulto y 4 de menor se pagan $16200; con 4 de adulto y 3 de menor se pagan $17400. ¿Cuánto cuesta la entrada de adulto?|$2500|$1800|$3500|$3000|3|Restando ambos pagos: c − e = 1200. Con eso se halla c = 3000.
-Resolvé por sustitución: x + 2y = 0 y 2x − y = 10. ¿Cuánto vale x?|4|5|−4|−2|0|De la segunda, y = 2x − 10. Se reemplaza en la primera y se obtiene x = 4.
-Resolvé por igualación: y = 4x − 10 e y = 3x − 6. ¿Cuánto vale y?|6|8|−6|4|0|Se iguala 4x − 10 = 3x − 6 y se obtiene x = 4. Luego y = 6.
-Resolvé por sustitución: x + 2y = −2 y x − y = 1. ¿Cuánto vale x?|0|1|−1|2|0|De la segunda, y = x − 1. Se reemplaza en la primera y se obtiene x = 0.
-Resolvé por reducción: 4x + 4y = 24 y 4x − 4y = −16. ¿Cuánto vale y?|1|20|5|−5|2|Restando ambas ecuaciones: 8y = 40, entonces y = 5.
-Con 5 entradas de adulto y 6 de menor se pagan $10800; con 6 de adulto y 5 de menor se pagan $11200. ¿Cuánto cuesta la entrada de adulto?|$1700|$700|$800|$1200|3|Restando ambos pagos: c − e = 400. Con eso se halla c = 1200.
-Resolvé por igualación: y = 4x + 8 e y = 3x + 7. ¿Cuánto vale y?|4|−4|6|−1|0|Se iguala 4x + 8 = 3x + 7 y se obtiene x = −1. Luego y = 4.
-¿Qué sistema no tiene solución?|x = 2 e y = 3|x + y = 3 y x − y = 5|2x + 2y = 6 y x + y = 3|x + y = 3 y x + y = 5|3|Las dos rectas tienen la misma pendiente y distinta ordenada: son paralelas, no se cortan.
-Resolvé el sistema 2x + y = 15 y x + 4y = 25. ¿Cuánto vale x + y?|5|10|25|0|1|Resolviendo por reducción se obtiene x = 5 e y = 5, entonces x + y = 10.
-El sistema x − y = 1 y 2x − 2y = 5 es:|Compatible determinado|Tiene solución x = 1|Compatible indeterminado|Incompatible|3|Multiplicando la primera por 2 se obtiene 2x − 2y = 2, que contradice 2x − 2y = 5.
-Resolvé el sistema 3x + y = −10 y 3x + 3y = −12. ¿Cuánto vale x + y?|−3|−1|3|−4|3|Resolviendo por reducción se obtiene x = −3 e y = −1, entonces x + y = −4.
-Resolvé el sistema 4x + y = −10 y 2x + 4y = −12. ¿Cuánto vale x + y?|−2|−4|0|4|1|Resolviendo por reducción se obtiene x = −2 e y = −2, entonces x + y = −4.
-La edad de un padre más la de su hijo suma 51 años y la diferencia entre ambas es 23 años. ¿Qué edad tiene el hijo?|14 años|16 años|12 años|37 años|0|El mayor es x, el menor y: x + y = 51 y x − y = 23. Sumando, 2x = 74 y y = 14.
-Un rectángulo tiene perímetro 36 cm y su largo es 6 cm mayor que el ancho. ¿Cuánto mide el largo?|13 cm|6 cm|12 cm|18 cm|2|Con largo x y ancho y: 2x + 2y = 36 y x − y = 6. Resolviendo, x = 12.
-La edad de un padre más la de su hijo suma 51 años y la diferencia entre ambas es 25 años. ¿Qué edad tiene el hijo?|13 años|11 años|15 años|38 años|0|El mayor es x, el menor y: x + y = 51 y x − y = 25. Sumando, 2x = 76 y y = 13.
-Un rectángulo tiene perímetro 28 cm y su largo es 6 cm mayor que el ancho. ¿Cuánto mide el largo?|11 cm|6 cm|4 cm|10 cm|3|Con largo x y ancho y: 2x + 2y = 28 y x − y = 6. Resolviendo, x = 10.
-Resolvé el sistema 3x + y = 2 y 2x + 2y = 4. ¿Cuánto vale x + y?|2|3|−2|0|0|Resolviendo por reducción se obtiene x = 0 e y = 2, entonces x + y = 2.
-Resolvé el sistema 2x + y = 10 y x + 3y = 10. ¿Cuánto vale x + y?|8|6|2|4|1|Resolviendo por reducción se obtiene x = 4 e y = 2, entonces x + y = 6.
-Un rectángulo tiene perímetro 28 cm y su largo es 4 cm mayor que el ancho. ¿Cuánto mide el largo?|10 cm|9 cm|5 cm|4 cm|1|Con largo x y ancho y: 2x + 2y = 28 y x − y = 4. Resolviendo, x = 9.
-El sistema 2x + 3y = 12 y 4x + 6y = 24 es:|Compatible indeterminado|Incompatible|Compatible determinado|No es un sistema lineal|0|La segunda ecuación es 2 veces la primera: hay infinitas soluciones.
-Resolvé el sistema 3x + y = −12 y 3x + 4y = −21. ¿Cuánto vale x + y?|9|−6|−3|0|1|Resolviendo por reducción se obtiene x = −3 e y = −3, entonces x + y = −6.
-¿Qué sistema tiene infinitas soluciones?|x + y = 4 y 2x + 2y = 8|x + y = 4 y x − y = 2|x = 1 y x = 2|x + y = 4 y 2x + 2y = 9|0|La segunda ecuación es el doble de la primera: representan la misma recta.
-La edad de un padre más la de su hijo suma 57 años y la diferencia entre ambas es 25 años. ¿Qué edad tiene el hijo?|14 años|41 años|18 años|16 años|3|El mayor es x, el menor y: x + y = 57 y x − y = 25. Sumando, 2x = 82 y y = 16.
+La suma de dos números es 7 y su diferencia es 1. ¿Cuáles son?|4 y 4|7 y 0|4 y 3|3 y 5|2|Si x + y = 7 y x − y = 1, sumando las ecuaciones 2x = 8, entonces x = 4 e y = 3.
+Un sistema de dos ecuaciones lineales cuyas rectas son coincidentes, ¿qué características tiene?|No tiene solución|Tiene una única solución|Tiene exactamente dos soluciones|Tiene infinitas soluciones|3|Si las rectas coinciden, el sistema tiene infinitas soluciones.
+Si x = 1 e y = 2, ¿cuánto vale 2x + 3y?|18|15|8|9|2|2 · 1 + 3 · 2 = 8.
+¿Cuál es la solución del sistema 3x + 4y = 15 y 2x − 2y = −18?|x = −3; y = 6|x = −3; y = 5|x = 6; y = −3|x = −2; y = 6|0|Se reemplaza el par en ambas ecuaciones y se verifica: 3 · (−3) + 4 · 6 = 15 y 2 · (−3) − 2 · 6 = −18.
+Un sistema de dos ecuaciones lineales cuyas rectas son paralelas y distintas, ¿qué características tiene?|Tiene exactamente dos soluciones|Tiene una única solución|Tiene infinitas soluciones|No tiene solución|3|Si las rectas son paralelas y distintas, el sistema no tiene solución.
+En el sistema y = 3x y x + y = 16, ¿cuánto vale x?|12|4|16/3|16|1|Se sustituye y: x + 3x = 16, entonces 4x = 16 y x = 4.
+La suma de dos números es 9 y su diferencia es 1. ¿Cuáles son?|6 y 4|5 y 5|9 y 0|5 y 4|3|Si x + y = 9 y x − y = 1, sumando las ecuaciones 2x = 10, entonces x = 5 e y = 4.
+Si x = 5 e y = 8, ¿cuánto vale 2x + 3y?|34|78|65|35|0|2 · 5 + 3 · 8 = 34.
+La suma de dos números es 15 y su diferencia es 3. ¿Cuáles son?|9 y 7|10 y 6|9 y 6|15 y 0|2|Si x + y = 15 y x − y = 3, sumando las ecuaciones 2x = 18, entonces x = 9 e y = 6.
+En el sistema y = 3x y x + y = 4, ¿cuánto vale x?|4|1|3|4/3|1|Se sustituye y: x + 3x = 4, entonces 4x = 4 y x = 1.
+¿Cuál es la solución del sistema 2x + 3y = 28 y x − 3y = −13?|x = 5; y = 5|x = 5; y = 6|x = 6; y = 6|x = 6; y = 5|1|Se reemplaza el par en ambas ecuaciones y se verifica: 2 · 5 + 3 · 6 = 28 y 1 · 5 − 3 · 6 = −13.
+En el sistema y = 3x y x + y = −4, ¿cuánto vale x?|−1|−4|−3|−4/3|0|Se sustituye y: x + 3x = −4, entonces 4x = −4 y x = −1.
+Un sistema de dos ecuaciones lineales cuyas rectas son secantes (se cortan en un punto), ¿qué características tiene?|No tiene solución|Tiene una única solución|Tiene exactamente dos soluciones|Tiene infinitas soluciones|1|Si las rectas se cortan en un punto, el sistema tiene una única solución.
+La suma de dos números es 11 y su diferencia es 3. ¿Cuáles son?|5 y 7|7 y 4|11 y 0|4 y 8|1|Si x + y = 11 y x − y = 3, sumando las ecuaciones 2x = 14, entonces x = 7 e y = 4.
+¿Cuál es la solución del sistema 4x + 4y = 8 y x − 3y = −22?|x = −3; y = 6|x = −4; y = 5|x = −4; y = 6|x = 6; y = −4|2|Se reemplaza el par en ambas ecuaciones y se verifica: 4 · (−4) + 4 · 6 = 8 y 1 · (−4) − 3 · 6 = −22.
+¿Cuál es la solución del sistema 3x + y = 19 y 3x − y = 11?|x = 5; y = 3|x = 5; y = 4|x = 4; y = 5|x = 6; y = 4|1|Se reemplaza el par en ambas ecuaciones y se verifica: 3 · 5 + 1 · 4 = 19 y 3 · 5 − 1 · 4 = 11.
+En el sistema y = 3x y x + y = 8, ¿cuánto vale x?|6|8|2|8/3|2|Se sustituye y: x + 3x = 8, entonces 4x = 8 y x = 2.
+Con 2 entradas de adulto y 4 de menor se pagan $11000; con 3 de adulto y 3 de menor se pagan $12000. ¿Cuánto cuesta la entrada de adulto?|$2000|$2500|$1500|$3000|1|Restando ambos pagos: c − e = 1000. Con eso se halla c = 2500.
+Resolvé por sustitución: x + 2y = 0 y 2x − y = 15. ¿Cuánto vale x?|6|−6|7|−3|0|De la segunda, y = 2x − 15. Se reemplaza en la primera y se obtiene x = 6.
+Resolvé por igualación: y = 3x + 5 e y = x − 1. ¿Cuánto vale y?|4|−4|−3|−2|1|Se iguala 3x + 5 = x − 1 y se obtiene x = −3. Luego y = −4.
+Resolvé por igualación: y = −x − 4 e y = 2x + 2. ¿Cuánto vale y?|0|−2|2|−4|1|Se iguala −x − 4 = 2x + 2 y se obtiene x = −2. Luego y = −2.
+Resolvé por sustitución: x + 2y = −10 y 2x − y = 0. ¿Cuánto vale x?|−1|2|−4|−2|3|De la segunda, y = 2x. Se reemplaza en la primera y se obtiene x = −2.
+Resolvé por igualación: y = x + 5 e y = −x − 1. ¿Cuánto vale y?|2|−2|−3|4|0|Se iguala x + 5 = −x − 1 y se obtiene x = −3. Luego y = 2.
+Resolvé por sustitución: x + 2y = 9 y 3x − y = −8. ¿Cuánto vale x?|0|−1|5|1|1|De la segunda, y = 3x + 8. Se reemplaza en la primera y se obtiene x = −1.
+Resolvé por reducción: 2x + 3y = −14 y 2x − 3y = 10. ¿Cuánto vale y?|−4|−12|4|−1|0|Restando ambas ecuaciones: 6y = −24, entonces y = −4.
+Resolvé por reducción: x + 4y = 28 y x − 4y = −20. ¿Cuánto vale y?|−6|24|4|6|3|Restando ambas ecuaciones: 8y = 48, entonces y = 6.
+Resolvé por reducción: x + y = 8 y x − y = −2. ¿Cuánto vale y?|6|3|−5|5|3|Restando ambas ecuaciones: 2y = 10, entonces y = 5.
+Con 3 entradas de adulto y 4 de menor se pagan $16200; con 4 de adulto y 3 de menor se pagan $17400. ¿Cuánto cuesta la entrada de adulto?|$3000|$2500|$1800|$3500|0|Restando ambos pagos: c − e = 1200. Con eso se halla c = 3000.
+Resolvé por sustitución: x + 2y = 0 y 2x − y = 10. ¿Cuánto vale x?|−4|5|4|−2|2|De la segunda, y = 2x − 10. Se reemplaza en la primera y se obtiene x = 4.
+Resolvé por igualación: y = 4x − 10 e y = 3x − 6. ¿Cuánto vale y?|6|8|4|−6|0|Se iguala 4x − 10 = 3x − 6 y se obtiene x = 4. Luego y = 6.
+Resolvé por sustitución: x + 2y = −2 y x − y = 1. ¿Cuánto vale x?|2|−1|1|0|3|De la segunda, y = x − 1. Se reemplaza en la primera y se obtiene x = 0.
+Resolvé por reducción: 4x + 4y = 24 y 4x − 4y = −16. ¿Cuánto vale y?|−5|5|1|20|1|Restando ambas ecuaciones: 8y = 40, entonces y = 5.
+Con 5 entradas de adulto y 6 de menor se pagan $10800; con 6 de adulto y 5 de menor se pagan $11200. ¿Cuánto cuesta la entrada de adulto?|$1700|$700|$1200|$800|2|Restando ambos pagos: c − e = 400. Con eso se halla c = 1200.
+Resolvé por igualación: y = 4x + 8 e y = 3x + 7. ¿Cuánto vale y?|4|6|−1|−4|0|Se iguala 4x + 8 = 3x + 7 y se obtiene x = −1. Luego y = 4.
+¿Qué sistema no tiene solución?|x = 2 e y = 3|2x + 2y = 6 y x + y = 3|x + y = 3 y x + y = 5|x + y = 3 y x − y = 5|2|Las dos rectas tienen la misma pendiente y distinta ordenada: son paralelas, no se cortan.
+Resolvé el sistema 2x + y = 15 y x + 4y = 25. ¿Cuánto vale x + y?|25|5|10|0|2|Resolviendo por reducción se obtiene x = 5 e y = 5, entonces x + y = 10.
+El sistema x − y = 1 y 2x − 2y = 5 es:|Compatible determinado|Incompatible|Compatible indeterminado|Tiene solución x = 1|1|Multiplicando la primera por 2 se obtiene 2x − 2y = 2, que contradice 2x − 2y = 5.
+Resolvé el sistema 3x + y = −10 y 3x + 3y = −12. ¿Cuánto vale x + y?|3|−3|−4|−1|2|Resolviendo por reducción se obtiene x = −3 e y = −1, entonces x + y = −4.
+Resolvé el sistema 4x + y = −10 y 2x + 4y = −12. ¿Cuánto vale x + y?|0|4|−2|−4|3|Resolviendo por reducción se obtiene x = −2 e y = −2, entonces x + y = −4.
+La edad de un padre más la de su hijo suma 51 años y la diferencia entre ambas es 23 años. ¿Qué edad tiene el hijo?|14 años|12 años|37 años|16 años|0|El mayor es x, el menor y: x + y = 51 y x − y = 23. Sumando, 2x = 74 y y = 14.
+Un rectángulo tiene perímetro 36 cm y su largo es 6 cm mayor que el ancho. ¿Cuánto mide el largo?|18 cm|6 cm|13 cm|12 cm|3|Con largo x y ancho y: 2x + 2y = 36 y x − y = 6. Resolviendo, x = 12.
+La edad de un padre más la de su hijo suma 51 años y la diferencia entre ambas es 25 años. ¿Qué edad tiene el hijo?|15 años|11 años|13 años|38 años|2|El mayor es x, el menor y: x + y = 51 y x − y = 25. Sumando, 2x = 76 y y = 13.
+Un rectángulo tiene perímetro 28 cm y su largo es 6 cm mayor que el ancho. ¿Cuánto mide el largo?|6 cm|11 cm|10 cm|4 cm|2|Con largo x y ancho y: 2x + 2y = 28 y x − y = 6. Resolviendo, x = 10.
+Resolvé el sistema 3x + y = 2 y 2x + 2y = 4. ¿Cuánto vale x + y?|3|−2|0|2|3|Resolviendo por reducción se obtiene x = 0 e y = 2, entonces x + y = 2.
+Resolvé el sistema 2x + y = 10 y x + 3y = 10. ¿Cuánto vale x + y?|4|2|6|8|2|Resolviendo por reducción se obtiene x = 4 e y = 2, entonces x + y = 6.
+Un rectángulo tiene perímetro 28 cm y su largo es 4 cm mayor que el ancho. ¿Cuánto mide el largo?|10 cm|4 cm|5 cm|9 cm|3|Con largo x y ancho y: 2x + 2y = 28 y x − y = 4. Resolviendo, x = 9.
+El sistema 2x + 3y = 12 y 4x + 6y = 24 es:|Compatible determinado|Compatible indeterminado|Incompatible|No es un sistema lineal|1|La segunda ecuación es 2 veces la primera: hay infinitas soluciones.
+Resolvé el sistema 3x + y = −12 y 3x + 4y = −21. ¿Cuánto vale x + y?|−6|−3|0|9|0|Resolviendo por reducción se obtiene x = −3 e y = −3, entonces x + y = −6.
+¿Qué sistema tiene infinitas soluciones?|x = 1 y x = 2|x + y = 4 y x − y = 2|x + y = 4 y 2x + 2y = 9|x + y = 4 y 2x + 2y = 8|3|La segunda ecuación es el doble de la primera: representan la misma recta.
+La edad de un padre más la de su hijo suma 57 años y la diferencia entre ambas es 25 años. ¿Qué edad tiene el hijo?|16 años|18 años|41 años|14 años|0|El mayor es x, el menor y: x + y = 57 y x − y = 25. Sumando, 2x = 82 y y = 16.

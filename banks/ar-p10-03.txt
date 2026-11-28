@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-La unidad de energía en el Sistema Internacional es:|Pascal|Newton|Joule|Watt|2|1 J = 1 N·m.
-¿Cuál es la energía cinética de un cuerpo de 8 kg que se mueve a 5 m/s?|40 J|100 J|200 J|20 J|1|Ec = ½·m·v² = ½ · 8 · 5² = 100 J.
-Una fuerza de 10 N desplaza un cuerpo 5 m en su misma dirección. ¿Qué trabajo realiza?|15 J|2 J|100 J|50 J|3|W = F · d = 10 · 5 = 50 J.
-¿Cuál es la energía cinética de un cuerpo de 10 kg que se mueve a 2 m/s?|40 J|20 J|21 J|10 J|1|Ec = ½·m·v² = ½ · 10 · 2² = 20 J.
-¿Cuál es la energía cinética de un cuerpo de 1 kg que se mueve a 10 m/s?|50 J|5 J|10 J|100 J|0|Ec = ½·m·v² = ½ · 1 · 10² = 50 J.
-Una fuerza de 15 N desplaza un cuerpo 12 m en su misma dirección. ¿Qué trabajo realiza?|27 J|1,25 J|360 J|180 J|3|W = F · d = 15 · 12 = 180 J.
-¿Cuál es la energía cinética de un cuerpo de 2 kg que se mueve a 3 m/s?|9 J|6 J|18 J|3 J|0|Ec = ½·m·v² = ½ · 2 · 3² = 9 J.
-La unidad de potencia es:|Joule|Watt|Hertz|Newton|1|1 W = 1 J/s.
-Una fuerza de 40 N desplaza un cuerpo 10 m en su misma dirección. ¿Qué trabajo realiza?|400 J|50 J|800 J|4 J|0|W = F · d = 40 · 10 = 400 J.
-La energía cinética depende de:|Solo la altura|La masa y la velocidad|El color|La temperatura|1|Ec = ½·m·v².
-¿Qué energía potencial gravitatoria tiene un cuerpo de 5 kg a 8 m de altura? (g = 10 m/s²)|40 J|400 J|800 J|13 J|1|Ep = m·g·h = 5 · 10 · 8 = 400 J.
-Una máquina realiza un trabajo de 2400 J en 8 s. ¿Qué potencia desarrolla?|19200 W|0,003 W|2392 W|300 W|3|P = W/t = 2400/8 = 300 W.
-¿Qué energía potencial gravitatoria tiene un cuerpo de 20 kg a 2 m de altura? (g = 10 m/s²)|22 J|400 J|800 J|40 J|1|Ep = m·g·h = 20 · 10 · 2 = 400 J.
-Una máquina realiza un trabajo de 600 J en 3 s. ¿Qué potencia desarrolla?|200 W|0,005 W|597 W|1800 W|0|P = W/t = 600/3 = 200 W.
-En un péndulo sin rozamiento, en el punto más bajo la energía cinética es:|Cero|Negativa|Máxima|Igual a la potencial|2|Toda la energía potencial se convirtió en cinética.
-Una máquina realiza un trabajo de 500 J en 10 s. ¿Qué potencia desarrolla?|490 W|0,02 W|50 W|5000 W|2|P = W/t = 500/10 = 50 W.
-¿Qué energía potencial gravitatoria tiene un cuerpo de 4 kg a 10 m de altura? (g = 10 m/s²)|400 J|14 J|40 J|800 J|0|Ep = m·g·h = 4 · 10 · 10 = 400 J.
-Una máquina realiza un trabajo de 1000 J en 5 s. ¿Qué potencia desarrolla?|200 W|5000 W|995 W|0,005 W|0|P = W/t = 1000/5 = 200 W.
-¿Qué enuncia el principio de conservación de la energía?|La energía siempre disminuye|La energía se pierde con el rozamiento|La energía solo existe como calor|La energía no se crea ni se destruye, se transforma|3|La energía total del universo se mantiene.
-¿Qué energía potencial gravitatoria tiene un cuerpo de 2 kg a 5 m de altura? (g = 10 m/s²)|200 J|100 J|7 J|10 J|1|Ep = m·g·h = 2 · 10 · 5 = 100 J.
-Un cuerpo cae desde 20 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|40 m/s|20 m/s|25 m/s|21 m/s|1|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(400) = 20 m/s.
-Un cuerpo cae desde 5 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|5 m/s|15 m/s|20 m/s|10 m/s|3|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(100) = 10 m/s.
-Un artefacto de 100 W funciona durante 60 s. ¿Qué energía consume?|1,667 J|6000 J|12000 J|160 J|1|E = P · t = 100 · 60 = 6000 J.
-Si se duplica la velocidad de un cuerpo, su energía cinética:|No cambia|Se multiplica por 4|Se duplica|Se multiplica por 3|1|Ec depende de v².
-Un cuerpo cae desde 80 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|41 m/s|80 m/s|45 m/s|40 m/s|3|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(1600) = 40 m/s.
-Una fuerza perpendicular al desplazamiento realiza un trabajo:|Máximo|Igual a F·d|Negativo|Nulo|3|W = F·d·cos 90° = 0.
-Un artefacto de 50 W funciona durante 120 s. ¿Qué energía consume?|0,417 J|12000 J|170 J|6000 J|3|E = P · t = 50 · 120 = 6000 J.
-Un cuerpo cae desde 45 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|45 m/s|35 m/s|30 m/s|60 m/s|2|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(900) = 30 m/s.
-Un artefacto de 1500 W funciona durante 20 s. ¿Qué energía consume?|30000 J|60000 J|75 J|1520 J|0|E = P · t = 1500 · 20 = 30000 J.
-Una fuerza de 20 N desplaza un cuerpo 8 m en su misma dirección. ¿Qué trabajo realiza?|28 J|320 J|160 J|2,5 J|2|W = F · d = 20 · 8 = 160 J.
+La unidad de energía en el Sistema Internacional es:|Joule|Watt|Pascal|Newton|0|1 J = 1 N·m.
+¿Cuál es la energía cinética de un cuerpo de 8 kg que se mueve a 5 m/s?|20 J|100 J|200 J|40 J|1|Ec = ½·m·v² = ½ · 8 · 5² = 100 J.
+Una fuerza de 10 N desplaza un cuerpo 5 m en su misma dirección. ¿Qué trabajo realiza?|100 J|15 J|50 J|2 J|2|W = F · d = 10 · 5 = 50 J.
+¿Cuál es la energía cinética de un cuerpo de 10 kg que se mueve a 2 m/s?|10 J|20 J|21 J|40 J|1|Ec = ½·m·v² = ½ · 10 · 2² = 20 J.
+¿Cuál es la energía cinética de un cuerpo de 1 kg que se mueve a 10 m/s?|10 J|5 J|50 J|100 J|2|Ec = ½·m·v² = ½ · 1 · 10² = 50 J.
+Una fuerza de 15 N desplaza un cuerpo 12 m en su misma dirección. ¿Qué trabajo realiza?|360 J|1,25 J|180 J|27 J|2|W = F · d = 15 · 12 = 180 J.
+¿Cuál es la energía cinética de un cuerpo de 2 kg que se mueve a 3 m/s?|18 J|3 J|9 J|6 J|2|Ec = ½·m·v² = ½ · 2 · 3² = 9 J.
+La unidad de potencia es:|Hertz|Watt|Newton|Joule|1|1 W = 1 J/s.
+Una fuerza de 40 N desplaza un cuerpo 10 m en su misma dirección. ¿Qué trabajo realiza?|50 J|400 J|4 J|800 J|1|W = F · d = 40 · 10 = 400 J.
+La energía cinética depende de:|La temperatura|Solo la altura|El color|La masa y la velocidad|3|Ec = ½·m·v².
+¿Qué energía potencial gravitatoria tiene un cuerpo de 5 kg a 8 m de altura? (g = 10 m/s²)|800 J|400 J|40 J|13 J|1|Ep = m·g·h = 5 · 10 · 8 = 400 J.
+Una máquina realiza un trabajo de 2400 J en 8 s. ¿Qué potencia desarrolla?|2392 W|0,003 W|300 W|19200 W|2|P = W/t = 2400/8 = 300 W.
+¿Qué energía potencial gravitatoria tiene un cuerpo de 20 kg a 2 m de altura? (g = 10 m/s²)|40 J|22 J|400 J|800 J|2|Ep = m·g·h = 20 · 10 · 2 = 400 J.
+Una máquina realiza un trabajo de 600 J en 3 s. ¿Qué potencia desarrolla?|200 W|597 W|1800 W|0,005 W|0|P = W/t = 600/3 = 200 W.
+En un péndulo sin rozamiento, en el punto más bajo la energía cinética es:|Negativa|Igual a la potencial|Cero|Máxima|3|Toda la energía potencial se convirtió en cinética.
+Una máquina realiza un trabajo de 500 J en 10 s. ¿Qué potencia desarrolla?|5000 W|490 W|50 W|0,02 W|2|P = W/t = 500/10 = 50 W.
+¿Qué energía potencial gravitatoria tiene un cuerpo de 4 kg a 10 m de altura? (g = 10 m/s²)|400 J|40 J|14 J|800 J|0|Ep = m·g·h = 4 · 10 · 10 = 400 J.
+Una máquina realiza un trabajo de 1000 J en 5 s. ¿Qué potencia desarrolla?|200 W|5000 W|0,005 W|995 W|0|P = W/t = 1000/5 = 200 W.
+¿Qué enuncia el principio de conservación de la energía?|La energía se pierde con el rozamiento|La energía siempre disminuye|La energía solo existe como calor|La energía no se crea ni se destruye, se transforma|3|La energía total del universo se mantiene.
+¿Qué energía potencial gravitatoria tiene un cuerpo de 2 kg a 5 m de altura? (g = 10 m/s²)|200 J|7 J|10 J|100 J|3|Ep = m·g·h = 2 · 10 · 5 = 100 J.
+Un cuerpo cae desde 20 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|20 m/s|21 m/s|40 m/s|25 m/s|0|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(400) = 20 m/s.
+Un cuerpo cae desde 5 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|20 m/s|15 m/s|5 m/s|10 m/s|3|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(100) = 10 m/s.
+Un artefacto de 100 W funciona durante 60 s. ¿Qué energía consume?|6000 J|1,667 J|12000 J|160 J|0|E = P · t = 100 · 60 = 6000 J.
+Si se duplica la velocidad de un cuerpo, su energía cinética:|Se multiplica por 3|Se multiplica por 4|No cambia|Se duplica|1|Ec depende de v².
+Un cuerpo cae desde 80 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|80 m/s|45 m/s|41 m/s|40 m/s|3|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(1600) = 40 m/s.
+Una fuerza perpendicular al desplazamiento realiza un trabajo:|Negativo|Máximo|Igual a F·d|Nulo|3|W = F·d·cos 90° = 0.
+Un artefacto de 50 W funciona durante 120 s. ¿Qué energía consume?|12000 J|170 J|6000 J|0,417 J|2|E = P · t = 50 · 120 = 6000 J.
+Un cuerpo cae desde 45 m de altura sin rozamiento (g = 10 m/s²). ¿Con qué velocidad llega al suelo?|30 m/s|45 m/s|35 m/s|60 m/s|0|Por conservación: m·g·h = ½·m·v² → v = √(2·g·h) = √(900) = 30 m/s.
+Un artefacto de 1500 W funciona durante 20 s. ¿Qué energía consume?|60000 J|30000 J|75 J|1520 J|1|E = P · t = 1500 · 20 = 30000 J.
+Una fuerza de 20 N desplaza un cuerpo 8 m en su misma dirección. ¿Qué trabajo realiza?|160 J|2,5 J|320 J|28 J|0|W = F · d = 20 · 8 = 160 J.

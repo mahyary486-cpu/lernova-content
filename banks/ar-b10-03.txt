@@ -1,28 +1,28 @@
 #EEEEEEEEEEMMMMMMMMHHHHHHHHH
-¿Cuáles son las fases del ciclo celular?|Solo mitosis|Solo meiosis|Fotosíntesis y respiración|Interfase y división|3|La interfase incluye G1, S y G2.
-¿En qué fase de la interfase se duplica el ADN?|M|G2|S|G1|2|S significa síntesis.
-¿Cuántas células hijas produce una meiosis?|2|1|8|4|3|Son haploides y distintas entre sí.
-¿Qué es un cromosoma homólogo?|Un gen|Una cromátida hermana|Un alelo|Cada uno de los dos cromosomas de un par|3|Uno viene del padre y otro de la madre.
-¿Dónde ocurre la meiosis en el ser humano?|En el hígado|En la piel|En el cerebro|En las gónadas|3|Forma gametas.
-¿Cuántos cromosomas tiene una célula humana somática?|92|46|44|23|1|Es diploide.
-¿Cuál es el orden de las fases de la mitosis?|Metafase, profase, telofase, anafase|Profase, metafase, anafase, telofase|Telofase, anafase, profase, metafase|Anafase, profase, telofase, metafase|1|Luego ocurre la citocinesis.
-¿Qué son los gametos?|Células musculares|Células somáticas|Neuronas|Células sexuales haploides|3|Tienen 23 cromosomas en humanos.
-¿En qué fase de la mitosis los cromosomas se alinean en el ecuador?|Telofase|Profase|Metafase|Anafase|2|Luego se separan las cromátidas.
-¿Cuántas células hijas produce una mitosis?|1|4|8|2|3|Son genéticamente idénticas.
-¿Cuál es la proporción fenotípica de la segunda ley de Mendel (monohíbrido)?|1:1|1:2:1|9:3:3:1|3:1|3|Los cruzamientos de F1 × F1 dan 3 dominantes por 1 recesivo.
-¿Qué ocurre en la anafase de la mitosis?|Se forma el huso|Se duplica el ADN|Se separan las cromátidas hermanas|Desaparece la membrana nuclear|2|Los cromosomas migran a los polos.
-¿Qué diferencia a la meiosis de la mitosis?|Produce células idénticas|Mantiene el número de cromosomas|Ocurre en todas las células|Reduce el número de cromosomas a la mitad|3|La meiosis tiene dos divisiones.
-¿Qué es el entrecruzamiento (crossing-over)?|La división del citoplasma|La fusión de gametos|La duplicación del ADN|El intercambio de segmentos entre cromosomas homólogos|3|Ocurre en la profase I y aumenta la variabilidad.
-Un individuo con genotipo Aa es:|Homocigota dominante|Haploide|Homocigota recesivo|Heterocigota|3|Tiene dos alelos distintos.
-¿Qué es un alelo?|Una proteína|Una célula|Una de las formas alternativas de un gen|Un cromosoma|2|Por ejemplo, A y a.
-En una cruza Aa × Aa, ¿qué proporción de descendientes será aa?|0|1/2|1/4|3/4|2|Cuadro de Punnett: AA, Aa, Aa, aa.
-En una cruza Aa × aa, ¿qué proporción será Aa?|1/4|1|1/2|3/4|2|Los descendientes: Aa y aa en igual proporción.
-¿Por qué la reproducción sexual genera mayor variabilidad que la mitosis?|Porque copia el ADN idéntico|Porque hay un solo progenitor|Porque no hay genes|Por la meiosis, el entrecruzamiento y la fecundación|3|Combina material genético de dos individuos.
-En el síndrome de Down hay:|Un cromosoma Y extra|Trisomía del cromosoma 21|Monosomía del 21|Falta del cromosoma X|1|Es una no disyunción en la meiosis.
-En una cruza de dos individuos AaBb × AaBb (genes independientes), la proporción fenotípica es:|1:1:1:1|9:3:3:1|3:1|1:2:1|1|Es la tercera ley de Mendel.
-¿Qué puede ocurrir si falla el control del ciclo celular?|Más proteínas|Mayor fotosíntesis|Proliferación descontrolada, como en el cáncer|Menor digestión|2|Las mutaciones en genes reguladores favorecen tumores.
-¿Por qué los varones son más afectados por enfermedades ligadas al X recesivas?|Tienen un solo cromosoma X|Tienen más hormonas|Tienen dos Y|Tienen más genes|0|Un solo alelo recesivo se expresa.
-¿Cuál es la probabilidad de obtener un hijo aabb de una cruza AaBb × AaBb?|1/16|1/2|1/4|1/8|0|1/4 × 1/4 = 1/16.
-¿Qué proporción de gametos produce un individuo AaBb?|4 tipos en igual proporción|2 tipos|1 tipo|8 tipos|0|AB, Ab, aB y ab.
-Si un varón hemofílico (X^hY) y una mujer portadora (X^HX^h) tienen hijos, ¿qué proporción de las hijas será hemofílica?|1/4|1|1/2|0|2|Las hijas pueden ser X^hX^h o X^HX^h.
-Un grupo sanguíneo AB indica un caso de:|Dominancia completa|Herencia ligada al sexo|Mutación|Codominancia|3|Ambos alelos se expresan.
+¿Cuáles son las fases del ciclo celular?|Solo mitosis|Interfase y división|Fotosíntesis y respiración|Solo meiosis|1|La interfase incluye G1, S y G2.
+¿En qué fase de la interfase se duplica el ADN?|G2|M|G1|S|3|S significa síntesis.
+¿Cuántas células hijas produce una meiosis?|1|8|4|2|2|Son haploides y distintas entre sí.
+¿Qué es un cromosoma homólogo?|Un gen|Un alelo|Cada uno de los dos cromosomas de un par|Una cromátida hermana|2|Uno viene del padre y otro de la madre.
+¿Dónde ocurre la meiosis en el ser humano?|En la piel|En el hígado|En el cerebro|En las gónadas|3|Forma gametas.
+¿Cuántos cromosomas tiene una célula humana somática?|92|23|46|44|2|Es diploide.
+¿Cuál es el orden de las fases de la mitosis?|Profase, metafase, anafase, telofase|Metafase, profase, telofase, anafase|Telofase, anafase, profase, metafase|Anafase, profase, telofase, metafase|0|Luego ocurre la citocinesis.
+¿Qué son los gametos?|Células somáticas|Células sexuales haploides|Células musculares|Neuronas|1|Tienen 23 cromosomas en humanos.
+¿En qué fase de la mitosis los cromosomas se alinean en el ecuador?|Telofase|Profase|Anafase|Metafase|3|Luego se separan las cromátidas.
+¿Cuántas células hijas produce una mitosis?|4|1|8|2|3|Son genéticamente idénticas.
+¿Cuál es la proporción fenotípica de la segunda ley de Mendel (monohíbrido)?|3:1|1:1|9:3:3:1|1:2:1|0|Los cruzamientos de F1 × F1 dan 3 dominantes por 1 recesivo.
+¿Qué ocurre en la anafase de la mitosis?|Se duplica el ADN|Se separan las cromátidas hermanas|Desaparece la membrana nuclear|Se forma el huso|1|Los cromosomas migran a los polos.
+¿Qué diferencia a la meiosis de la mitosis?|Ocurre en todas las células|Mantiene el número de cromosomas|Produce células idénticas|Reduce el número de cromosomas a la mitad|3|La meiosis tiene dos divisiones.
+¿Qué es el entrecruzamiento (crossing-over)?|El intercambio de segmentos entre cromosomas homólogos|La división del citoplasma|La duplicación del ADN|La fusión de gametos|0|Ocurre en la profase I y aumenta la variabilidad.
+Un individuo con genotipo Aa es:|Homocigota recesivo|Homocigota dominante|Heterocigota|Haploide|2|Tiene dos alelos distintos.
+¿Qué es un alelo?|Un cromosoma|Una proteína|Una de las formas alternativas de un gen|Una célula|2|Por ejemplo, A y a.
+En una cruza Aa × Aa, ¿qué proporción de descendientes será aa?|1/4|3/4|1/2|0|0|Cuadro de Punnett: AA, Aa, Aa, aa.
+En una cruza Aa × aa, ¿qué proporción será Aa?|1/4|1/2|3/4|1|1|Los descendientes: Aa y aa en igual proporción.
+¿Por qué la reproducción sexual genera mayor variabilidad que la mitosis?|Porque no hay genes|Porque copia el ADN idéntico|Porque hay un solo progenitor|Por la meiosis, el entrecruzamiento y la fecundación|3|Combina material genético de dos individuos.
+En el síndrome de Down hay:|Falta del cromosoma X|Un cromosoma Y extra|Monosomía del 21|Trisomía del cromosoma 21|3|Es una no disyunción en la meiosis.
+En una cruza de dos individuos AaBb × AaBb (genes independientes), la proporción fenotípica es:|1:2:1|1:1:1:1|9:3:3:1|3:1|2|Es la tercera ley de Mendel.
+¿Qué puede ocurrir si falla el control del ciclo celular?|Mayor fotosíntesis|Proliferación descontrolada, como en el cáncer|Más proteínas|Menor digestión|1|Las mutaciones en genes reguladores favorecen tumores.
+¿Por qué los varones son más afectados por enfermedades ligadas al X recesivas?|Tienen un solo cromosoma X|Tienen dos Y|Tienen más genes|Tienen más hormonas|0|Un solo alelo recesivo se expresa.
+¿Cuál es la probabilidad de obtener un hijo aabb de una cruza AaBb × AaBb?|1/16|1/8|1/4|1/2|0|1/4 × 1/4 = 1/16.
+¿Qué proporción de gametos produce un individuo AaBb?|2 tipos|8 tipos|4 tipos en igual proporción|1 tipo|2|AB, Ab, aB y ab.
+Si un varón hemofílico (X^hY) y una mujer portadora (X^HX^h) tienen hijos, ¿qué proporción de las hijas será hemofílica?|1/2|0|1|1/4|0|Las hijas pueden ser X^hX^h o X^HX^h.
+Un grupo sanguíneo AB indica un caso de:|Herencia ligada al sexo|Codominancia|Mutación|Dominancia completa|1|Ambos alelos se expresan.

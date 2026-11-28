@@ -1,31 +1,31 @@
 #EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
-¿Qué organela produce la mayor parte de la energía (ATP) de la célula?|Vacuola|Ribosoma|Mitocondria|Lisosoma|2|En las mitocondrias ocurre la respiración celular.
-¿Qué organela realiza la fotosíntesis?|Lisosoma|Mitocondria|Núcleo|Cloroplasto|3|Contiene clorofila.
-¿Cuál de estas estructuras está presente en células vegetales y no en animales?|Pared celular|Membrana plasmática|Citoplasma|Ribosomas|0|Además tienen cloroplastos y una gran vacuola.
-¿Qué instrumento se usa para observar células?|Termómetro|Barómetro|Microscopio|Telescopio|2|El microscopio óptico aumenta la imagen.
-Las bacterias son células:|Vegetales|Animales|Eucariotas|Procariotas|3|No tienen núcleo delimitado por membrana.
-¿Dónde se encuentra el material genético en una célula eucariota?|En la pared celular|En el núcleo|En el citoplasma sin membrana|En los lisosomas|1|El ADN está dentro del núcleo.
-¿Cuál es la unidad básica de estructura y función de los seres vivos?|La molécula|El tejido|La célula|El órgano|2|Todos los seres vivos están formados por una o más células.
-¿Quién observó por primera vez células en corcho?|Louis Pasteur|Gregor Mendel|Robert Hooke|Charles Darwin|2|Hooke las describió en 1665.
-¿Qué organela sintetiza proteínas?|Cloroplasto|Ribosoma|Mitocondria|Lisosoma|1|Los ribosomas traducen el ARN mensajero a proteínas.
-¿Qué estructura rodea a todas las células y controla lo que entra y sale?|Núcleo|Ribosoma|Pared celular|Membrana plasmática|3|La membrana es selectivamente permeable.
-¿Qué enuncia la teoría celular?|Las células no se dividen|Todo ser vivo está formado por células y toda célula proviene de otra célula|Solo los animales tienen células|Las células nacen de materia sin vida|1|Es uno de los postulados fundamentales de la biología.
-¿Cómo se llama el paso de agua a través de una membrana semipermeable?|Ósmosis|Mitosis|Meiosis|Fotosíntesis|0|Es la difusión del agua desde la zona de menor a mayor concentración de solutos.
-¿Qué diferencia a una célula eucariota de una procariota?|La eucariota tiene núcleo con membrana|La eucariota carece de ADN|La procariota tiene núcleo|La procariota es siempre más grande|0|Las procariotas tienen el ADN disperso en el citoplasma.
-¿Cuál es la función del aparato de Golgi?|Producir energía|Modificar, empaquetar y distribuir proteínas|Almacenar ADN|Hacer fotosíntesis|1|Funciona como centro de distribución.
-¿Cuál es el orden de organización del cuerpo de menor a mayor?|Órgano, célula, tejido, sistema|Célula, tejido, órgano, sistema|Sistema, órgano, tejido, célula|Tejido, célula, sistema, órgano|1|Los niveles de organización van aumentando en complejidad.
-¿Cuál es la ecuación general de la respiración celular?|Glucosa → ADN|Glucosa + O₂ → CO₂ + H₂O + energía|CO₂ + H₂O → glucosa + O₂|O₂ → ATP|1|La glucosa se oxida para liberar energía.
-¿Cuál es la ecuación general de la fotosíntesis?|CO₂ + H₂O + luz → glucosa + O₂|Glucosa → ATP|O₂ → CO₂|Glucosa + O₂ → CO₂ + H₂O|0|Las plantas fabrican su alimento con energía lumínica.
-¿Qué función cumplen los lisosomas?|Hacer fotosíntesis|Producir ATP|Digerir sustancias y organelas dañadas|Sintetizar ADN|2|Contienen enzimas digestivas.
-¿Qué proceso permite que el cuerpo crezca y repare tejidos mediante la división de células?|Fotosíntesis|Ósmosis|Meiosis|Mitosis|3|La mitosis origina dos células hijas idénticas.
-¿Qué tipo de organismo es la ameba?|Vegetal|Procariota|Unicelular eucariota|Pluricelular|2|Un protista formado por una sola célula con núcleo.
-¿Cuál es la principal diferencia entre fotosíntesis y respiración celular?|Ambas ocurren solo en plantas|La fotosíntesis consume O₂|Una almacena energía en glucosa y la otra la libera|La respiración produce O₂|2|Los procesos son complementarios.
-Si una célula humana somática tiene 46 cromosomas, ¿cuántos tendrá un espermatozoide?|46|12|92|23|3|Las gametas son haploides.
-¿Por qué las células musculares tienen muchas mitocondrias?|Porque no tienen núcleo|Porque sintetizan clorofila|Porque necesitan mucha energía|Porque almacenan ADN|2|La contracción requiere mucho ATP.
-¿Qué orgánulo participa en la síntesis de lípidos y en la desintoxicación?|Lisosoma|Retículo endoplasmático liso|Núcleo|Ribosoma|1|El retículo liso carece de ribosomas.
-¿Qué tipo de transporte requiere gasto de energía (ATP)?|Difusión facilitada|Difusión simple|Ósmosis|Transporte activo|3|Se mueve la sustancia en contra de su gradiente.
-¿Por qué el ATP se llama la «moneda energética» de la célula?|Porque forma la membrana|Porque transfiere energía a las reacciones que la necesitan|Porque almacena ADN|Porque es un metal|1|Libera energía al convertirse en ADP.
-Una célula vegetal colocada en agua destilada no estalla porque:|No tiene membrana|Pierde agua|La pared celular la protege|No tiene vacuola|2|La pared celular resiste la presión interna.
-Una célula animal en agua destilada puede estallar porque:|Se deshidrata|Pierde agua|Entra agua por ósmosis y no tiene pared celular|Tiene cloroplastos|2|El medio es hipotónico respecto de la célula.
+¿Qué organela produce la mayor parte de la energía (ATP) de la célula?|Vacuola|Lisosoma|Ribosoma|Mitocondria|3|En las mitocondrias ocurre la respiración celular.
+¿Qué organela realiza la fotosíntesis?|Núcleo|Lisosoma|Mitocondria|Cloroplasto|3|Contiene clorofila.
+¿Cuál de estas estructuras está presente en células vegetales y no en animales?|Ribosomas|Pared celular|Membrana plasmática|Citoplasma|1|Además tienen cloroplastos y una gran vacuola.
+¿Qué instrumento se usa para observar células?|Termómetro|Microscopio|Barómetro|Telescopio|1|El microscopio óptico aumenta la imagen.
+Las bacterias son células:|Procariotas|Animales|Eucariotas|Vegetales|0|No tienen núcleo delimitado por membrana.
+¿Dónde se encuentra el material genético en una célula eucariota?|En el núcleo|En el citoplasma sin membrana|En la pared celular|En los lisosomas|0|El ADN está dentro del núcleo.
+¿Cuál es la unidad básica de estructura y función de los seres vivos?|El tejido|La molécula|La célula|El órgano|2|Todos los seres vivos están formados por una o más células.
+¿Quién observó por primera vez células en corcho?|Louis Pasteur|Gregor Mendel|Charles Darwin|Robert Hooke|3|Hooke las describió en 1665.
+¿Qué organela sintetiza proteínas?|Mitocondria|Lisosoma|Cloroplasto|Ribosoma|3|Los ribosomas traducen el ARN mensajero a proteínas.
+¿Qué estructura rodea a todas las células y controla lo que entra y sale?|Ribosoma|Membrana plasmática|Núcleo|Pared celular|1|La membrana es selectivamente permeable.
+¿Qué enuncia la teoría celular?|Las células no se dividen|Todo ser vivo está formado por células y toda célula proviene de otra célula|Las células nacen de materia sin vida|Solo los animales tienen células|1|Es uno de los postulados fundamentales de la biología.
+¿Cómo se llama el paso de agua a través de una membrana semipermeable?|Fotosíntesis|Mitosis|Ósmosis|Meiosis|2|Es la difusión del agua desde la zona de menor a mayor concentración de solutos.
+¿Qué diferencia a una célula eucariota de una procariota?|La procariota tiene núcleo|La eucariota tiene núcleo con membrana|La procariota es siempre más grande|La eucariota carece de ADN|1|Las procariotas tienen el ADN disperso en el citoplasma.
+¿Cuál es la función del aparato de Golgi?|Modificar, empaquetar y distribuir proteínas|Producir energía|Almacenar ADN|Hacer fotosíntesis|0|Funciona como centro de distribución.
+¿Cuál es el orden de organización del cuerpo de menor a mayor?|Célula, tejido, órgano, sistema|Órgano, célula, tejido, sistema|Tejido, célula, sistema, órgano|Sistema, órgano, tejido, célula|0|Los niveles de organización van aumentando en complejidad.
+¿Cuál es la ecuación general de la respiración celular?|CO₂ + H₂O → glucosa + O₂|O₂ → ATP|Glucosa + O₂ → CO₂ + H₂O + energía|Glucosa → ADN|2|La glucosa se oxida para liberar energía.
+¿Cuál es la ecuación general de la fotosíntesis?|O₂ → CO₂|Glucosa + O₂ → CO₂ + H₂O|CO₂ + H₂O + luz → glucosa + O₂|Glucosa → ATP|2|Las plantas fabrican su alimento con energía lumínica.
+¿Qué función cumplen los lisosomas?|Digerir sustancias y organelas dañadas|Hacer fotosíntesis|Sintetizar ADN|Producir ATP|0|Contienen enzimas digestivas.
+¿Qué proceso permite que el cuerpo crezca y repare tejidos mediante la división de células?|Mitosis|Meiosis|Ósmosis|Fotosíntesis|0|La mitosis origina dos células hijas idénticas.
+¿Qué tipo de organismo es la ameba?|Vegetal|Pluricelular|Unicelular eucariota|Procariota|2|Un protista formado por una sola célula con núcleo.
+¿Cuál es la principal diferencia entre fotosíntesis y respiración celular?|La respiración produce O₂|La fotosíntesis consume O₂|Una almacena energía en glucosa y la otra la libera|Ambas ocurren solo en plantas|2|Los procesos son complementarios.
+Si una célula humana somática tiene 46 cromosomas, ¿cuántos tendrá un espermatozoide?|92|12|46|23|3|Las gametas son haploides.
+¿Por qué las células musculares tienen muchas mitocondrias?|Porque almacenan ADN|Porque sintetizan clorofila|Porque no tienen núcleo|Porque necesitan mucha energía|3|La contracción requiere mucho ATP.
+¿Qué orgánulo participa en la síntesis de lípidos y en la desintoxicación?|Retículo endoplasmático liso|Núcleo|Ribosoma|Lisosoma|0|El retículo liso carece de ribosomas.
+¿Qué tipo de transporte requiere gasto de energía (ATP)?|Difusión facilitada|Ósmosis|Transporte activo|Difusión simple|2|Se mueve la sustancia en contra de su gradiente.
+¿Por qué el ATP se llama la «moneda energética» de la célula?|Porque es un metal|Porque transfiere energía a las reacciones que la necesitan|Porque forma la membrana|Porque almacena ADN|1|Libera energía al convertirse en ADP.
+Una célula vegetal colocada en agua destilada no estalla porque:|Pierde agua|No tiene membrana|No tiene vacuola|La pared celular la protege|3|La pared celular resiste la presión interna.
+Una célula animal en agua destilada puede estallar porque:|Pierde agua|Entra agua por ósmosis y no tiene pared celular|Se deshidrata|Tiene cloroplastos|1|El medio es hipotónico respecto de la célula.
 ¿Cuál es la función principal del citoesqueleto?|Dar forma a la célula y permitir el movimiento|Almacenar clorofila|Sintetizar ATP|Digerir alimentos|0|Está formado por filamentos de proteínas.
-¿Qué diferencia hay entre la mitosis y la meiosis?|La meiosis produce gametas con la mitad de cromosomas|La mitosis reduce los cromosomas a la mitad|La mitosis produce gametas|Ambas producen células idénticas|0|La meiosis ocurre en la formación de óvulos y espermatozoides.
+¿Qué diferencia hay entre la mitosis y la meiosis?|Ambas producen células idénticas|La meiosis produce gametas con la mitad de cromosomas|La mitosis reduce los cromosomas a la mitad|La mitosis produce gametas|1|La meiosis ocurre en la formación de óvulos y espermatozoides.

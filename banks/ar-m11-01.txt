@@ -1,51 +1,51 @@
 #EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHH
-¿Cuál es el dominio de f(x) = 4/(x − 1)?|ℝ − {−1}|(1; +∞)|ℝ|ℝ − {1}|3|El denominador no puede ser 0: x − 1 = 0 si x = 1.
+¿Cuál es el dominio de f(x) = 4/(x − 1)?|ℝ − {−1}|ℝ|ℝ − {1}|(1; +∞)|2|El denominador no puede ser 0: x − 1 = 0 si x = 1.
 Si f(x) = 2x² − x − 6, ¿cuánto vale f(−2)?|−6|4|0|3|1|f(−2) = 4.
-¿Cuál es el dominio de f(x) = 3/(x + 5)?|(−5; +∞)|ℝ − {5}|ℝ − {−5}|ℝ|2|El denominador no puede ser 0: x + 5 = 0 si x = −5.
+¿Cuál es el dominio de f(x) = 3/(x + 5)?|ℝ|ℝ − {5}|(−5; +∞)|ℝ − {−5}|3|El denominador no puede ser 0: x + 5 = 0 si x = −5.
 Si f(x) = 7x y f(a) = 14, ¿cuánto vale a?|3|2|1|7|1|7a = 14, entonces a = 2.
-¿Cuál es el dominio de f(x) = 6/(x + 5)?|(−5; +∞)|ℝ − {5}|ℝ − {−5}|ℝ|2|El denominador no puede ser 0: x + 5 = 0 si x = −5.
-Para la relación y = x², ¿es y una función de x?|Es función de x (es inyectiva)|No es función de x (es una recta vertical)|Es función de x|No es función de x (para algún x hay dos valores de y)|2|Una relación es función si cada x tiene un único valor de y.
-Si f(x) = 6x y f(a) = 12, ¿cuánto vale a?|3|1|6|2|3|6a = 12, entonces a = 2.
-Para la relación x² + y² = 4, ¿es y una función de x?|Es función de x|Solo es función si x > 0|No es función de x (para x = 0 hay dos valores de y)|Es función constante|2|Una relación es función si cada x tiene un único valor de y.
+¿Cuál es el dominio de f(x) = 6/(x + 5)?|ℝ|ℝ − {−5}|(−5; +∞)|ℝ − {5}|1|El denominador no puede ser 0: x + 5 = 0 si x = −5.
+Para la relación y = x², ¿es y una función de x?|No es función de x (para algún x hay dos valores de y)|Es función de x|No es función de x (es una recta vertical)|Es función de x (es inyectiva)|1|Una relación es función si cada x tiene un único valor de y.
+Si f(x) = 6x y f(a) = 12, ¿cuánto vale a?|2|6|3|1|0|6a = 12, entonces a = 2.
+Para la relación x² + y² = 4, ¿es y una función de x?|No es función de x (para x = 0 hay dos valores de y)|Es función de x|Solo es función si x > 0|Es función constante|0|Una relación es función si cada x tiene un único valor de y.
 Para la relación y = √x, ¿es y una función de x?|Es función de x|Es función de x (es inyectiva)|No es función de x (es una recta vertical)|No es función de x (para algún x hay dos valores de y)|0|Una relación es función si cada x tiene un único valor de y.
 Para la relación y = 3x + 1, ¿es y una función de x?|Es función de x|Es función de x (es inyectiva)|No es función de x (para algún x hay dos valores de y)|No es función de x (es una recta vertical)|0|Una relación es función si cada x tiene un único valor de y.
-Para la relación x = 5, ¿es y una función de x?|Es función constante|No es función de x (es una recta vertical)|Solo es función si x > 0|Es función de x|1|Una relación es función si cada x tiene un único valor de y.
-Si f(x) = x² + 4x − 5, ¿cuánto vale f(−1)?|0|−8|−5|−4|1|f(−1) = −8.
-¿Cuál es el dominio de f(x) = 6/(x − 1)?|ℝ|ℝ − {1}|(1; +∞)|ℝ − {−1}|1|El denominador no puede ser 0: x − 1 = 0 si x = 1.
-Si f(x) = 7x y f(a) = 35, ¿cuánto vale a?|28|6|7|5|3|7a = 35, entonces a = 5.
-Si f(x) = −x² + 5, ¿cuánto vale f(−1)?|5|4|−4|3|1|f(−1) = 4.
-Si f(x) = −2x² + 5x − 2, ¿cuánto vale f(2)?|0|−20|−2|5|0|f(2) = 0.
-Si f(x) = 3x² + 5x + 1, ¿cuánto vale f(1)?|9|14|−1|1|0|f(1) = 9.
-Si f(x) = 3x − 2 y g(x) = x, ¿cuánto vale (f∘g)(−1)?|−3|−6|−4|−5|3|Primero g(−1) = −1 y luego f(−1) = −5.
-¿Cuál es el dominio de f(x) = √(4x − 4)?|[1; +∞)|(1; +∞)|[−1; +∞)|(−∞; 1]|0|El radicando debe ser mayor o igual que 0: 4x − 4 ≥ 0, entonces x ≥ 1.
-¿Cuál es el dominio de f(x) = √(4x − 6)?|(3/2; +∞)|[3/2; +∞)|(−∞; 3/2]|[−3/2; +∞)|1|El radicando debe ser mayor o igual que 0: 4x − 6 ≥ 0, entonces x ≥ 3/2.
-¿Es inyectiva la función f(x) = valor absoluto de x?|Sí, porque todos los valores de y son positivos|Sí, es inyectiva|No, porque no tiene dominio|No, porque f(−3) = f(3)|3|Una función es inyectiva si valores distintos de x dan valores distintos de y.
-Si f(x) = 4x + 4 y g(x) = 4x − 5, ¿cuánto vale (f∘g)(2)?|15|16|43|32|1|Primero g(2) = 3 y luego f(3) = 16.
-¿Cuál es el dominio de f(x) = √(2x − 5)?|[5/2; +∞)|[−5/2; +∞)|(5/2; +∞)|(−∞; 5/2]|0|El radicando debe ser mayor o igual que 0: 2x − 5 ≥ 0, entonces x ≥ 5/2.
-Si f(x) = x + 1, ¿cuánto vale f⁻¹(8)?|8|9|7|−7|2|Se resuelve f(x) = 8: x + 1 = 8, entonces x = 7.
-¿Es inyectiva la función f(x) = 2x + 1?|Sí, es inyectiva|No, porque no tiene dominio|No, porque f(−2) = f(2)|Sí, porque todos los valores de y son positivos|0|Una función es inyectiva si valores distintos de x dan valores distintos de y.
-Si f(x) = −x − 4, ¿cuánto vale f⁻¹(3)?|−7|−6|7|1|0|Se resuelve f(x) = 3: −x − 4 = 3, entonces x = −7.
-¿Cuál es el dominio de f(x) = √(3x)?|(0; +∞)|[0; +∞)|ℝ|(−∞; 0]|1|El radicando debe ser mayor o igual que 0: 3x ≥ 0, entonces x ≥ 0.
-Si f(x) = −2x − 3 y g(x) = −4x − 1, ¿cuánto vale (f∘g)(3)?|−22|35|23|24|2|Primero g(3) = −13 y luego f(−13) = 23.
-Si f(x) = 3x + 2 y g(x) = 2x + 2, ¿cuánto vale (f∘g)(−1)?|−6|−1|2|0|2|Primero g(−1) = 0 y luego f(0) = 2.
-¿Cuál es el dominio de f(x) = √(x − 7)?|[7; +∞)|(−∞; 7]|[−7; +∞)|(7; +∞)|0|El radicando debe ser mayor o igual que 0: x − 7 ≥ 0, entonces x ≥ 7.
-Si f(x) = −x − 3, ¿cuánto vale f⁻¹(4)?|−7|−6|7|−1|0|Se resuelve f(x) = 4: −x − 3 = 4, entonces x = −7.
-Si f(x) = −5x − 2, ¿cuánto vale f⁻¹(3)?|−1|−1/5|7/5|1|0|Se resuelve f(x) = 3: −5x − 2 = 3, entonces x = −1.
-Si f(x) = −x − 1 y g(x) = 2x + 2, ¿cuánto vale (f∘g)(−1)?|−1|0|2|−2|0|Primero g(−1) = 0 y luego f(0) = −1.
-¿Es inyectiva la función f(x) = x³?|Sí, porque todos los valores de y son positivos|Sí, es inyectiva|No, porque f(−2) = f(2)|No, porque no tiene dominio|1|Una función es inyectiva si valores distintos de x dan valores distintos de y.
-¿Cuál es la función inversa de f(x) = 3x + 5?|f⁻¹(x) = 3/(x − 5)|f⁻¹(x) = (x − 5)/3|f⁻¹(x) = 3x − 5|f⁻¹(x) = (x + 5)/3|1|Se despeja x en y = 3x + 5: x = (x − 5)/3. Se intercambian las variables.
-Si f(x) = 3x + 6 y g(x) = x², ¿cuál es (f∘g)(x)?|3x² + 6|3x² + 6x|3x³ + 6|(3x + 6)²|0|(f∘g)(x) = f(g(x)) = f(x²) = 3x² + 6.
-Sean f(x) = 4x y g(x) = x + 5. ¿Cuánto vale (f∘g)(1) − (g∘f)(1)?|15|5|4|0|0|(f∘g)(1) = f(6) = 24 y (g∘f)(1) = g(4) = 9: la composición no es conmutativa.
-¿Cuál es el conjunto imagen de f(x) = 3x² − 2?|[2; +∞)|(−∞; −2]|[−2; +∞)|ℝ|2|x² ≥ 0, entonces 3x² − 2 ≥ −2: el mínimo es −2.
-¿Cuál es el dominio de f(x) = 1/((x − 5)(x + 4))?|ℝ − {−4; 5}|ℝ − {5}|ℝ|ℝ − {−5; 4}|0|Hay que excluir los valores que anulan cada factor del denominador: −4 y 5.
-¿Cuál es el conjunto imagen de f(x) = x² + 3?|[−3; +∞)|[3; +∞)|ℝ|(−∞; 3]|1|x² ≥ 0, entonces x² + 3 ≥ 3: el mínimo es 3.
-¿Cuál es el dominio de f(x) = 1/((x + 3)(x + 4))?|ℝ − {−4; −3}|ℝ − {3; 4}|ℝ|ℝ − {−3}|0|Hay que excluir los valores que anulan cada factor del denominador: −4 y −3.
-¿Cuál es la función inversa de f(x) = −3x + 8?|f⁻¹(x) = (x − 8)/(−3)|f⁻¹(x) = −3/(x − 8)|f⁻¹(x) = (x + 8)/(−3)|f⁻¹(x) = −3x − 8|0|Se despeja x en y = −3x + 8: x = (x − 8)/(−3). Se intercambian las variables.
-¿Cuál es el dominio de f(x) = 1/((x − 1)(x + 3))?|ℝ − {1}|ℝ|ℝ − {−1; 3}|ℝ − {−3; 1}|3|Hay que excluir los valores que anulan cada factor del denominador: −3 y 1.
-Si f(x) = 2x + 5 y g(x) = x², ¿cuál es (f∘g)(x)?|2x² + 5|(2x + 5)²|2x² + 5x|2x³ + 5|0|(f∘g)(x) = f(g(x)) = f(x²) = 2x² + 5.
-¿Cuál es el conjunto imagen de f(x) = 2x² + 0?|[0; +∞)|ℝ|(0; +∞)|(−∞; 0]|0|x² ≥ 0, entonces 2x² + 0 ≥ 0: el mínimo es 0.
-¿Cuál es la función inversa de f(x) = −2x + 6?|f⁻¹(x) = −2x − 6|f⁻¹(x) = (x − 6)/(−2)|f⁻¹(x) = −2/(x − 6)|f⁻¹(x) = (x + 6)/(−2)|1|Se despeja x en y = −2x + 6: x = (x − 6)/(−2). Se intercambian las variables.
-¿Cuál es la función inversa de f(x) = −3x + 3?|f⁻¹(x) = −3/(x − 3)|f⁻¹(x) = −3x − 3|f⁻¹(x) = (x + 3)/(−3)|f⁻¹(x) = (x − 3)/(−3)|3|Se despeja x en y = −3x + 3: x = (x − 3)/(−3). Se intercambian las variables.
-Sean f(x) = 2x y g(x) = x + 1. ¿Cuánto vale (f∘g)(1) − (g∘f)(1)?|2|−1|0|1|3|(f∘g)(1) = f(2) = 4 y (g∘f)(1) = g(2) = 3: la composición no es conmutativa.
-Sean f(x) = 4x y g(x) = x + 1. ¿Cuánto vale (f∘g)(1) − (g∘f)(1)?|0|4|1|3|3|(f∘g)(1) = f(2) = 8 y (g∘f)(1) = g(4) = 5: la composición no es conmutativa.
-¿Cuál es el conjunto imagen de f(x) = x² − 3?|(−∞; −3]|[3; +∞)|[−3; +∞)|ℝ|2|x² ≥ 0, entonces x² − 3 ≥ −3: el mínimo es −3.
+Para la relación x = 5, ¿es y una función de x?|Solo es función si x > 0|Es función de x|No es función de x (es una recta vertical)|Es función constante|2|Una relación es función si cada x tiene un único valor de y.
+Si f(x) = x² + 4x − 5, ¿cuánto vale f(−1)?|−8|−4|0|−5|0|f(−1) = −8.
+¿Cuál es el dominio de f(x) = 6/(x − 1)?|(1; +∞)|ℝ − {−1}|ℝ − {1}|ℝ|2|El denominador no puede ser 0: x − 1 = 0 si x = 1.
+Si f(x) = 7x y f(a) = 35, ¿cuánto vale a?|7|28|6|5|3|7a = 35, entonces a = 5.
+Si f(x) = −x² + 5, ¿cuánto vale f(−1)?|3|5|−4|4|3|f(−1) = 4.
+Si f(x) = −2x² + 5x − 2, ¿cuánto vale f(2)?|−20|0|5|−2|1|f(2) = 0.
+Si f(x) = 3x² + 5x + 1, ¿cuánto vale f(1)?|1|14|9|−1|2|f(1) = 9.
+Si f(x) = 3x − 2 y g(x) = x, ¿cuánto vale (f∘g)(−1)?|−4|−6|−3|−5|3|Primero g(−1) = −1 y luego f(−1) = −5.
+¿Cuál es el dominio de f(x) = √(4x − 4)?|[1; +∞)|(1; +∞)|(−∞; 1]|[−1; +∞)|0|El radicando debe ser mayor o igual que 0: 4x − 4 ≥ 0, entonces x ≥ 1.
+¿Cuál es el dominio de f(x) = √(4x − 6)?|(−∞; 3/2]|[3/2; +∞)|[−3/2; +∞)|(3/2; +∞)|1|El radicando debe ser mayor o igual que 0: 4x − 6 ≥ 0, entonces x ≥ 3/2.
+¿Es inyectiva la función f(x) = valor absoluto de x?|Sí, es inyectiva|Sí, porque todos los valores de y son positivos|No, porque f(−3) = f(3)|No, porque no tiene dominio|2|Una función es inyectiva si valores distintos de x dan valores distintos de y.
+Si f(x) = 4x + 4 y g(x) = 4x − 5, ¿cuánto vale (f∘g)(2)?|43|16|32|15|1|Primero g(2) = 3 y luego f(3) = 16.
+¿Cuál es el dominio de f(x) = √(2x − 5)?|(5/2; +∞)|[5/2; +∞)|[−5/2; +∞)|(−∞; 5/2]|1|El radicando debe ser mayor o igual que 0: 2x − 5 ≥ 0, entonces x ≥ 5/2.
+Si f(x) = x + 1, ¿cuánto vale f⁻¹(8)?|9|8|−7|7|3|Se resuelve f(x) = 8: x + 1 = 8, entonces x = 7.
+¿Es inyectiva la función f(x) = 2x + 1?|No, porque f(−2) = f(2)|Sí, porque todos los valores de y son positivos|Sí, es inyectiva|No, porque no tiene dominio|2|Una función es inyectiva si valores distintos de x dan valores distintos de y.
+Si f(x) = −x − 4, ¿cuánto vale f⁻¹(3)?|−6|7|−7|1|2|Se resuelve f(x) = 3: −x − 4 = 3, entonces x = −7.
+¿Cuál es el dominio de f(x) = √(3x)?|(0; +∞)|[0; +∞)|(−∞; 0]|ℝ|1|El radicando debe ser mayor o igual que 0: 3x ≥ 0, entonces x ≥ 0.
+Si f(x) = −2x − 3 y g(x) = −4x − 1, ¿cuánto vale (f∘g)(3)?|35|24|−22|23|3|Primero g(3) = −13 y luego f(−13) = 23.
+Si f(x) = 3x + 2 y g(x) = 2x + 2, ¿cuánto vale (f∘g)(−1)?|2|−6|−1|0|0|Primero g(−1) = 0 y luego f(0) = 2.
+¿Cuál es el dominio de f(x) = √(x − 7)?|[7; +∞)|(−∞; 7]|(7; +∞)|[−7; +∞)|0|El radicando debe ser mayor o igual que 0: x − 7 ≥ 0, entonces x ≥ 7.
+Si f(x) = −x − 3, ¿cuánto vale f⁻¹(4)?|7|−1|−7|−6|2|Se resuelve f(x) = 4: −x − 3 = 4, entonces x = −7.
+Si f(x) = −5x − 2, ¿cuánto vale f⁻¹(3)?|−1|7/5|−1/5|1|0|Se resuelve f(x) = 3: −5x − 2 = 3, entonces x = −1.
+Si f(x) = −x − 1 y g(x) = 2x + 2, ¿cuánto vale (f∘g)(−1)?|0|−2|2|−1|3|Primero g(−1) = 0 y luego f(0) = −1.
+¿Es inyectiva la función f(x) = x³?|Sí, es inyectiva|No, porque no tiene dominio|No, porque f(−2) = f(2)|Sí, porque todos los valores de y son positivos|0|Una función es inyectiva si valores distintos de x dan valores distintos de y.
+¿Cuál es la función inversa de f(x) = 3x + 5?|f⁻¹(x) = (x − 5)/3|f⁻¹(x) = (x + 5)/3|f⁻¹(x) = 3/(x − 5)|f⁻¹(x) = 3x − 5|0|Se despeja x en y = 3x + 5: x = (x − 5)/3. Se intercambian las variables.
+Si f(x) = 3x + 6 y g(x) = x², ¿cuál es (f∘g)(x)?|3x³ + 6|(3x + 6)²|3x² + 6x|3x² + 6|3|(f∘g)(x) = f(g(x)) = f(x²) = 3x² + 6.
+Sean f(x) = 4x y g(x) = x + 5. ¿Cuánto vale (f∘g)(1) − (g∘f)(1)?|0|4|5|15|3|(f∘g)(1) = f(6) = 24 y (g∘f)(1) = g(4) = 9: la composición no es conmutativa.
+¿Cuál es el conjunto imagen de f(x) = 3x² − 2?|(−∞; −2]|[−2; +∞)|[2; +∞)|ℝ|1|x² ≥ 0, entonces 3x² − 2 ≥ −2: el mínimo es −2.
+¿Cuál es el dominio de f(x) = 1/((x − 5)(x + 4))?|ℝ − {−5; 4}|ℝ|ℝ − {−4; 5}|ℝ − {5}|2|Hay que excluir los valores que anulan cada factor del denominador: −4 y 5.
+¿Cuál es el conjunto imagen de f(x) = x² + 3?|(−∞; 3]|ℝ|[3; +∞)|[−3; +∞)|2|x² ≥ 0, entonces x² + 3 ≥ 3: el mínimo es 3.
+¿Cuál es el dominio de f(x) = 1/((x + 3)(x + 4))?|ℝ − {3; 4}|ℝ − {−3}|ℝ|ℝ − {−4; −3}|3|Hay que excluir los valores que anulan cada factor del denominador: −4 y −3.
+¿Cuál es la función inversa de f(x) = −3x + 8?|f⁻¹(x) = (x − 8)/(−3)|f⁻¹(x) = −3x − 8|f⁻¹(x) = (x + 8)/(−3)|f⁻¹(x) = −3/(x − 8)|0|Se despeja x en y = −3x + 8: x = (x − 8)/(−3). Se intercambian las variables.
+¿Cuál es el dominio de f(x) = 1/((x − 1)(x + 3))?|ℝ − {−1; 3}|ℝ|ℝ − {−3; 1}|ℝ − {1}|2|Hay que excluir los valores que anulan cada factor del denominador: −3 y 1.
+Si f(x) = 2x + 5 y g(x) = x², ¿cuál es (f∘g)(x)?|2x³ + 5|2x² + 5|2x² + 5x|(2x + 5)²|1|(f∘g)(x) = f(g(x)) = f(x²) = 2x² + 5.
+¿Cuál es el conjunto imagen de f(x) = 2x² + 0?|(−∞; 0]|ℝ|(0; +∞)|[0; +∞)|3|x² ≥ 0, entonces 2x² + 0 ≥ 0: el mínimo es 0.
+¿Cuál es la función inversa de f(x) = −2x + 6?|f⁻¹(x) = (x − 6)/(−2)|f⁻¹(x) = −2x − 6|f⁻¹(x) = (x + 6)/(−2)|f⁻¹(x) = −2/(x − 6)|0|Se despeja x en y = −2x + 6: x = (x − 6)/(−2). Se intercambian las variables.
+¿Cuál es la función inversa de f(x) = −3x + 3?|f⁻¹(x) = (x + 3)/(−3)|f⁻¹(x) = (x − 3)/(−3)|f⁻¹(x) = −3x − 3|f⁻¹(x) = −3/(x − 3)|1|Se despeja x en y = −3x + 3: x = (x − 3)/(−3). Se intercambian las variables.
+Sean f(x) = 2x y g(x) = x + 1. ¿Cuánto vale (f∘g)(1) − (g∘f)(1)?|−1|2|0|1|3|(f∘g)(1) = f(2) = 4 y (g∘f)(1) = g(2) = 3: la composición no es conmutativa.
+Sean f(x) = 4x y g(x) = x + 1. ¿Cuánto vale (f∘g)(1) − (g∘f)(1)?|0|4|3|1|2|(f∘g)(1) = f(2) = 8 y (g∘f)(1) = g(4) = 5: la composición no es conmutativa.
+¿Cuál es el conjunto imagen de f(x) = x² − 3?|ℝ|(−∞; −3]|[3; +∞)|[−3; +∞)|3|x² ≥ 0, entonces x² − 3 ≥ −3: el mínimo es −3.
