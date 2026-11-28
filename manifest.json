@@ -1,11 +1,11 @@
 {
  "countries": {
   "AR": {
-   "bytes": 577497,
+   "bytes": 771612,
    "currentYear": "2026",
-   "files": 360,
+   "files": 480,
    "name": "Argentina",
-   "rev": "109586d34c",
+   "rev": "3ae98af5a6",
    "year": "2026"
   },
   "BR": {
