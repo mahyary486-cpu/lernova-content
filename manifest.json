@@ -16,6 +16,14 @@
    "rev": "dbe22d4082",
    "year": "2026"
   },
+  "CA": {
+   "bytes": 9503,
+   "currentYear": "2026-2027",
+   "files": 12,
+   "name": "Canada",
+   "rev": "a075c1ccc9",
+   "year": "2026-2027"
+  },
   "CN": {
    "bytes": 485273,
    "currentYear": "2026-2027",
