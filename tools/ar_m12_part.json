@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 12,
+   "country": "AR",
+   "subject": "Mathematics",
+   "chapters": [
+    {
+     "id": "ar-m12-01",
+     "title": "Límites y continuidad",
+     "lessons": [
+      {
+       "id": "ar-m12-01-01",
+       "title": "Concepto de límite y cálculo de límites"
+      },
+      {
+       "id": "ar-m12-01-02",
+       "title": "Límites en el infinito y asíntotas"
+      },
+      {
+       "id": "ar-m12-01-03",
+       "title": "Continuidad"
+      }
+     ]
+    },
+    {
+     "id": "ar-m12-02",
+     "title": "Derivadas y reglas de derivación",
+     "lessons": [
+      {
+       "id": "ar-m12-02-01",
+       "title": "Definición de derivada y su interpretación"
+      },
+      {
+       "id": "ar-m12-02-02",
+       "title": "Reglas de derivación"
+      },
+      {
+       "id": "ar-m12-02-03",
+       "title": "Derivadas sucesivas y recta tangente"
+      }
+     ]
+    },
+    {
+     "id": "ar-m12-03",
+     "title": "Aplicaciones de la derivada",
+     "lessons": [
+      {
+       "id": "ar-m12-03-01",
+       "title": "Crecimiento, decrecimiento y extremos"
+      },
+      {
+       "id": "ar-m12-03-02",
+       "title": "Concavidad y puntos de inflexión"
+      },
+      {
+       "id": "ar-m12-03-03",
+       "title": "Problemas de optimización"
+      }
+     ]
+    },
+    {
+     "id": "ar-m12-04",
+     "title": "Integrales",
+     "lessons": [
+      {
+       "id": "ar-m12-04-01",
+       "title": "Primitivas e integral indefinida"
+      },
+      {
+       "id": "ar-m12-04-02",
+       "title": "Integral definida y teorema fundamental"
+      },
+      {
+       "id": "ar-m12-04-03",
+       "title": "Aplicaciones: áreas y movimiento"
+      }
+     ]
+    },
+    {
+     "id": "ar-m12-05",
+     "title": "Probabilidad y distribuciones: binomial y normal",
+     "lessons": [
+      {
+       "id": "ar-m12-05-01",
+       "title": "Probabilidad condicional y teorema de Bayes"
+      },
+      {
+       "id": "ar-m12-05-02",
+       "title": "Distribución binomial"
+      },
+      {
+       "id": "ar-m12-05-03",
+       "title": "Distribución normal e inferencia"
+      }
+     ]
+    },
+    {
+     "id": "ar-m12-06",
+     "title": "Números complejos",
+     "lessons": [
+      {
+       "id": "ar-m12-06-01",
+       "title": "Unidad imaginaria y forma binómica"
+      },
+      {
+       "id": "ar-m12-06-02",
+       "title": "División, módulo y ecuaciones"
+      },
+      {
+       "id": "ar-m12-06-03",
+       "title": "Forma polar y plano complejo"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

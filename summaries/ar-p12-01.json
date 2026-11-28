@@ -1,0 +1,5 @@
+{
+ "Torque y equilibrio": "El torque de una fuerza respecto de un eje es τ = F·d·sen θ, con d la distancia al eje. Un cuerpo rígido está en equilibrio estático si la fuerza neta y el torque neto son nulos. Se aplica a palancas, balanzas, puentes y grúas.",
+ "Momento de inercia y segunda ley de la rotación": "El momento de inercia mide la resistencia a cambiar la rotación y depende de la masa y de cómo se distribuye respecto del eje: I = Σ m·r². La segunda ley de la rotación es τ = I·α. La energía cinética de rotación es ½·I·ω².",
+ "Momento angular y su conservación": "El momento angular es L = I·ω. Si el torque externo es nulo, L se conserva: si disminuye I, aumenta ω (patinadores, gatos al caer, planetas). En un cuerpo que rueda sin deslizar, la energía cinética es la suma de la de traslación y la de rotación."
+}

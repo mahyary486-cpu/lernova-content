@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué gas es el principal responsable del refuerzo del efecto invernadero?|Argón|Nitrógeno|Dióxido de carbono|Oxígeno|2|También el metano.
+¿Qué es la reducción?|La pérdida de protones|La pérdida de electrones|La ganancia de electrones|La ganancia de neutrones|2|Disminuye el número de oxidación.
+¿Qué es una pila galvánica?|Un motor|Un dispositivo que convierte energía química en eléctrica|Un dispositivo que convierte energía eléctrica en química|Un capacitor|1|Usa una reacción redox espontánea.
+¿Qué gas del smog y de la lluvia ácida proviene de la quema de combustibles con azufre?|Dióxido de azufre|Oxígeno|Helio|Nitrógeno|0|SO2 forma ácido sulfúrico en la atmósfera.
+¿Cuál es el número de oxidación del oxígeno en la mayoría de los compuestos?|−2|0|+2|−1|0|Salvo en los peróxidos, donde es −1.
+¿Qué es la electrólisis?|La disolución de una sal|El uso de energía eléctrica para provocar una reacción no espontánea|Una reacción espontánea|La combustión|1|Se usa para obtener aluminio y cloro.
+¿En qué electrodo ocurre la reducción?|Puente salino|Cátodo|Ninguno|Ánodo|1|En el cátodo se ganan electrones.
+¿En qué electrodo ocurre la oxidación?|Cátodo|Puente salino|Ánodo|Ninguno|2|En el ánodo se pierden electrones.
+¿Qué es un agente oxidante?|Un solvente|Una sustancia que se reduce y oxida a otra|Un catalizador|Una sustancia que se oxida|1|Acepta electrones.
+¿Qué es la oxidación?|La ganancia de electrones|La pérdida de neutrones|La pérdida de electrones|La ganancia de protones|2|Aumenta el número de oxidación.
+¿Cuántos moles de electrones corresponden a 1930 C? (F = 96 500 C/mol)|0,2 mol|0,02 mol|0,002 mol|2 mol|1|1930 / 96 500 = 0,02.
+¿Qué potencial tiene una pila de Zn y Cu si E°(Cu²⁺/Cu) = +0,34 V y E°(Zn²⁺/Zn) = −0,76 V?|1,10 V|0,42 V|0,34 V|−1,10 V|0|E° pila = E° cátodo − E° ánodo = 0,34 − (−0,76).
+¿Qué se produce en el proceso Haber-Bosch?|Hidróxido de sodio|Cloro|Amoníaco|Ácido sulfúrico|2|N2 + 3 H2 ⇌ 2 NH3.
+¿Cuántos coulombs circulan con 2 A durante 965 s?|1930 C|965 C|482,5 C|3860 C|0|Q = I·t = 2 · 965.
+¿Cuál es el número de oxidación del cromo en el K2Cr2O7?|+7|+6|+3|+2|1|2 + 2x − 14 = 0, entonces x = +6.
+¿Qué masa de cobre se deposita con 0,02 mol de electrones? (Cu²⁺ + 2e⁻ → Cu, M = 63,5 g/mol)|6,35 g|1,27 g|0,635 g|0,0635 g|2|0,01 mol · 63,5 g/mol.
+¿Cuál es el número de oxidación del manganeso en el KMnO4?|+4|+2|+1|+7|3|1 + x + 4·(−2) = 0, entonces x = +7.
+En la pila de Zn y Cu, ¿qué metal se oxida?|Ninguno|Ambos|Zinc|Cobre|2|Tiene el menor potencial de reducción.
+¿Cuál es la función del puente salino?|Producir electrones|Frenar la reacción|Cerrar el circuito y mantener la neutralidad eléctrica|Aumentar la temperatura|2|Permite la migración de iones.
+¿Qué es la corrosión del hierro?|Su fusión|Su magnetización|Su reducción|Su oxidación en presencia de oxígeno y humedad|3|Forma óxidos hidratados, la herrumbre.
+¿Qué es la eutrofización?|La falta de nutrientes|La acidificación del aire|El exceso de nutrientes en un cuerpo de agua que produce crecimiento excesivo de algas|La salinización del suelo|2|Reduce el oxígeno disuelto.
+¿Cuál es la ventaja principal de las celdas de combustible de hidrógeno?|Producen energía eléctrica y agua sin emitir CO2 en el uso|No requieren hidrógeno|Emiten mucho CO2|Producen carbón|0|2 H2 + O2 → 2 H2O con transferencia de electrones.
+¿Qué norma argentina establece los presupuestos mínimos para la gestión ambiental?|La Ley General del Ambiente 25.675|La Ley 26.331 de glaciares|La Ley 20.000 de aire|La Ley 24.051 de aguas|0|Es la ley marco ambiental.
+Si ΔG° es negativo para una pila, ¿cómo es E°?|Positivo|Cero|Infinito|Negativo|0|ΔG° = −n·F·E°.
+¿Qué norma argentina regula los residuos peligrosos?|La Ley 26.639|La Ley 25.675|La Ley 24.051|La Ley 26.331|2|Establece su generación, transporte y tratamiento.
+¿Qué proceso industrial produce ácido sulfúrico?|Proceso Haber-Bosch|Proceso de contacto|Proceso Ostwald|Proceso Solvay|1|Oxida SO2 a SO3 con un catalizador.
+¿Qué número de oxidación tiene el nitrógeno en el NH3?|0|+5|−3|+3|2|x + 3·(+1) = 0, entonces x = −3.
+¿Cuántos electrones se transfieren en Zn + Cu²⁺ → Zn²⁺ + Cu?|2|1|3|4|0|El Zn pierde 2 electrones y el Cu²⁺ gana 2.
+¿Qué protege del óxido al hierro galvanizado?|Una capa de agua|Una capa de oro|Una capa de zinc que se oxida primero|Una capa de plástico magnético|2|El zinc actúa como ánodo de sacrificio.
+¿Qué se obtiene por electrólisis de la salmuera (NaCl acuoso)?|Agua oxigenada|Solo sodio metálico|Oxígeno y sodio|Cloro, hidrógeno e hidróxido de sodio|3|Es el proceso cloro-álcali.

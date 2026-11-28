@@ -1,0 +1,5 @@
+{
+ "Velocidad de reacción": "La velocidad de reacción es el cambio de concentración por unidad de tiempo. Depende de la concentración, la temperatura, la superficie de contacto y los catalizadores. La ley de velocidad v = k·[A]^m·[B]^n define el orden de la reacción, y la energía de activación es la barrera que deben superar las colisiones efectivas.",
+ "Equilibrio químico y constante Kc": "En el equilibrio las velocidades directa e inversa son iguales y las concentraciones permanecen constantes. La constante Kc es el cociente entre las concentraciones de productos y de reactivos elevadas a sus coeficientes. Si Q < Kc la reacción avanza hacia los productos; si Q > Kc, hacia los reactivos.",
+ "Principio de Le Châtelier y aplicaciones industriales": "Según Le Châtelier, un sistema en equilibrio sometido a un cambio se desplaza para contrarrestarlo: agregar reactivo lo desplaza hacia los productos, aumentar la presión favorece el lado con menos moles de gas, y calentar favorece el sentido endotérmico. Solo la temperatura modifica Kc. La síntesis de amoníaco (Haber-Bosch) combina presión alta, temperatura moderada y catalizador."
+}

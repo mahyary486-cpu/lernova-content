@@ -1,0 +1,5 @@
+{
+ "Primitivas e integral indefinida": "Una primitiva de f es una función F con F' = f. La integral indefinida es el conjunto de todas las primitivas: ∫ f(x) dx = F(x) + C. Reglas: ∫ xⁿ dx = xⁿ⁺¹/(n+1) + C (n ≠ −1), ∫ 1/x dx = ln|x| + C, ∫ eˣ dx = eˣ + C, ∫ cos x dx = sen x + C.",
+ "Integral definida y teorema fundamental": "La integral definida de f entre a y b es el área neta entre la curva y el eje x. El teorema fundamental del cálculo establece que ∫ₐᵇ f(x) dx = F(b) − F(a), siendo F una primitiva de f. Es lineal y aditiva respecto del intervalo.",
+ "Aplicaciones: áreas y movimiento": "El área entre dos curvas se calcula integrando la diferencia entre la función superior y la inferior entre los puntos de corte. La distancia recorrida es la integral de la velocidad y la velocidad es la integral de la aceleración. También se aplica al cálculo de volúmenes y de trabajo."
+}

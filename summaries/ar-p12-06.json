@@ -1,0 +1,5 @@
+{
+ "El núcleo atómico y la radiactividad": "El núcleo está formado por protones y neutrones (nucleones). Los isótopos tienen igual Z y distinto A. Los núcleos inestables emiten radiación: alfa (núcleo de helio), beta (electrones o positrones) y gamma (fotones). Cada tipo tiene distinto poder de penetración.",
+ "Desintegración y vida media": "La desintegración radiactiva es aleatoria pero estadísticamente predecible. La vida media T es el tiempo en que se desintegra la mitad de los núcleos: N = N₀/2ⁿ con n = t/T. Se usa en la datación con carbono-14 (T ≈ 5730 años) y en medicina nuclear.",
+ "Fisión, fusión y energía nuclear": "En la fisión un núcleo pesado se divide y libera energía y neutrones; se usa en las centrales nucleares (Atucha I y II y Embalse en la Argentina). En la fusión núcleos livianos se unen y liberan energía, como ocurre en el Sol. La energía liberada proviene de la pérdida de masa: E = Δm·c². Se debate la gestión de los residuos radiactivos."
+}

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué propone la hipótesis de Planck?|La energía es continua|La energía se emite en paquetes discretos (cuantos)|La materia no tiene masa|La luz es solo onda|1|Es el origen de la física cuántica.
+¿Quién explicó el efecto fotoeléctrico con fotones?|Rutherford|Bohr|Newton|Einstein|3|Recibió el Premio Nobel por ello.
+¿Cuál es la energía de un fotón de frecuencia 10 × 10¹⁴ Hz? (h = 6,63 × 10⁻³⁴ J·s)|10 × 10⁻²⁰ J|66,3 × 10⁻²⁰ J|6,63 × 10⁻²⁰ J|663 × 10⁻²⁰ J|1|E = h·f = 6,63×10⁻³⁴ · 10×10¹⁴ = 66,3 × 10⁻²⁰ J.
+¿Qué es un fotón?|Un cuanto de luz|Un átomo|Una partícula con masa|Un electrón|0|Su energía es E = h·f.
+¿Cuál es la energía de un fotón de frecuencia 6 × 10¹⁴ Hz? (h = 6,63 × 10⁻³⁴ J·s)|39,78 × 10⁻²⁰ J|3,978 × 10⁻²⁰ J|6 × 10⁻²⁰ J|397,8 × 10⁻²⁰ J|0|E = h·f = 6,63×10⁻³⁴ · 6×10¹⁴ = 39,78 × 10⁻²⁰ J.
+¿Cuál es la energía de un fotón de frecuencia 8 × 10¹⁴ Hz? (h = 6,63 × 10⁻³⁴ J·s)|530,4 × 10⁻²⁰ J|8 × 10⁻²⁰ J|5,304 × 10⁻²⁰ J|53,04 × 10⁻²⁰ J|3|E = h·f = 6,63×10⁻³⁴ · 8×10¹⁴ = 53,04 × 10⁻²⁰ J.
+¿Cuál es la energía de un fotón de frecuencia 5 × 10¹⁴ Hz? (h = 6,63 × 10⁻³⁴ J·s)|5 × 10⁻²⁰ J|3,315 × 10⁻²⁰ J|331,5 × 10⁻²⁰ J|33,15 × 10⁻²⁰ J|3|E = h·f = 6,63×10⁻³⁴ · 5×10¹⁴ = 33,15 × 10⁻²⁰ J.
+¿Cuál es la energía de un fotón de frecuencia 3 × 10¹⁴ Hz? (h = 6,63 × 10⁻³⁴ J·s)|198,9 × 10⁻²⁰ J|19,89 × 10⁻²⁰ J|3 × 10⁻²⁰ J|1,989 × 10⁻²⁰ J|1|E = h·f = 6,63×10⁻³⁴ · 3×10¹⁴ = 19,89 × 10⁻²⁰ J.
+El potencial de frenado de un fotoelectrón es 2 V. ¿Cuál es su energía cinética máxima en eV?|2 eV|1 eV|4 eV|3 eV|0|Ec máx = e·Vs: con Vs = 2 V es 2 eV.
+Un fotón de 7 eV incide sobre un metal cuya función trabajo es 3 eV. ¿Cuál es la energía cinética máxima de los electrones emitidos?|7 eV|10 eV|3 eV|4 eV|3|Ec máx = hf − W = 7 − 3 = 4 eV.
+Un fotón de 5 eV incide sobre un metal cuya función trabajo es 2 eV. ¿Cuál es la energía cinética máxima de los electrones emitidos?|7 eV|5 eV|2 eV|3 eV|3|Ec máx = hf − W = 5 − 2 = 3 eV.
+Si aumenta la intensidad de una luz de frecuencia mayor que el umbral, aumenta:|El número de electrones emitidos|La función trabajo|La frecuencia umbral|La energía de cada electrón|0|Más fotones liberan más electrones.
+Un fotón de 4,5 eV incide sobre un metal cuya función trabajo es 2,5 eV. ¿Cuál es la energía cinética máxima de los electrones emitidos?|7 eV|2,5 eV|4,5 eV|2 eV|3|Ec máx = hf − W = 4,5 − 2,5 = 2 eV.
+El potencial de frenado de un fotoelectrón es 0,5 V. ¿Cuál es su energía cinética máxima en eV?|1 eV|0,5 eV|1,5 eV|0,25 eV|1|Ec máx = e·Vs: con Vs = 0,5 V es 0,5 eV.
+El potencial de frenado de un fotoelectrón es 2,5 V. ¿Cuál es su energía cinética máxima en eV?|1,25 eV|5 eV|2,5 eV|3,5 eV|2|Ec máx = e·Vs: con Vs = 2,5 V es 2,5 eV.
+En el efecto fotoeléctrico, la emisión de electrones depende de:|La frecuencia de la luz|El color del metal|La masa del electrón|Solo la intensidad|0|Existe una frecuencia umbral.
+El potencial de frenado de un fotoelectrón es 1,5 V. ¿Cuál es su energía cinética máxima en eV?|3 eV|2,5 eV|0,75 eV|1,5 eV|3|Ec máx = e·Vs: con Vs = 1,5 V es 1,5 eV.
+¿Qué indica el principio de dualidad onda-partícula?|La materia es solo partícula|La luz es solo onda|La luz y la materia presentan comportamiento de onda y de partícula|Son contradictorios|2|Lo propuso de Broglie.
+Un fotón de 4 eV incide sobre un metal cuya función trabajo es 1,5 eV. ¿Cuál es la energía cinética máxima de los electrones emitidos?|4 eV|2,5 eV|5,5 eV|1,5 eV|1|Ec máx = hf − W = 4 − 1,5 = 2,5 eV.
+Un fotón de 10 eV incide sobre un metal cuya función trabajo es 6 eV. ¿Cuál es la energía cinética máxima de los electrones emitidos?|16 eV|10 eV|6 eV|4 eV|3|Ec máx = hf − W = 10 − 6 = 4 eV.
+¿Qué demostró el experimento de la doble rendija con electrones?|Que no existen|Que los electrones muestran interferencia como las ondas|Que son solo partículas|Que son fotones|1|Un patrón de franjas apareció aun con electrones de a uno.
+¿Qué es un láser?|Luz blanca|Un haz de electrones|Luz incoherente|Luz coherente y monocromática generada por emisión estimulada|3|Se usa en medicina, comunicaciones y lectura de códigos.
+En el modelo de Bohr, la energía del nivel n del hidrógeno es −13,6/n² eV. ¿Cuál es la energía del nivel n = 3?|−1,511 eV|−4,533 eV|1,511 eV|−13,6 eV|0|E = −13,6/3² = −1,511 eV.
+Un electrón de un átomo de hidrógeno pasa del nivel 4 al nivel 2. ¿Qué energía tiene el fotón emitido? (E = −13,6/n² eV)|4,25 eV|3,4 eV|2,55 eV|13,6 eV|2|ΔE = 13,6(1/2² − 1/4²) = 2,55 eV.
+¿Qué enuncia el principio de incertidumbre de Heisenberg?|El momento es nulo|Todo es predecible|No se pueden conocer con precisión simultánea la posición y el momento de una partícula|La posición es exacta|2|Δx·Δp ≥ h/4π.
+Un electrón de un átomo de hidrógeno pasa del nivel 5 al nivel 3. ¿Qué energía tiene el fotón emitido? (E = −13,6/n² eV)|0,967 eV|1,511 eV|2,055 eV|13,6 eV|0|ΔE = 13,6(1/3² − 1/5²) = 0,967 eV.
+Un electrón de un átomo de hidrógeno pasa del nivel 6 al nivel 3. ¿Qué energía tiene el fotón emitido? (E = −13,6/n² eV)|1,889 eV|1,511 eV|13,6 eV|1,133 eV|3|ΔE = 13,6(1/3² − 1/6²) = 1,133 eV.
+En el modelo de Bohr, la energía del nivel n del hidrógeno es −13,6/n² eV. ¿Cuál es la energía del nivel n = 2?|−13,6 eV|−3,4 eV|3,4 eV|−6,8 eV|1|E = −13,6/2² = −3,4 eV.
+En el modelo de Bohr, la energía del nivel n del hidrógeno es −13,6/n² eV. ¿Cuál es la energía del nivel n = 4?|0,85 eV|−0,85 eV|−3,4 eV|−13,6 eV|1|E = −13,6/4² = −0,85 eV.
+¿Qué ocurre con la longitud de onda de de Broglie si se duplica la cantidad de movimiento de una partícula?|Se reduce a la mitad|Se cuadruplica|Se duplica|No cambia|0|λ = h/p: es inversamente proporcional al momento lineal.

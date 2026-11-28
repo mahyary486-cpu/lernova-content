@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 12,
+   "country": "AR",
+   "subject": "Chemistry",
+   "chapters": [
+    {
+     "id": "ar-c12-01",
+     "title": "Química orgánica: grupos funcionales e isomería",
+     "lessons": [
+      {
+       "id": "ar-c12-01-01",
+       "title": "Hidrocarburos y grupos funcionales"
+      },
+      {
+       "id": "ar-c12-01-02",
+       "title": "Isomería"
+      },
+      {
+       "id": "ar-c12-01-03",
+       "title": "Reacciones orgánicas básicas"
+      }
+     ]
+    },
+    {
+     "id": "ar-c12-02",
+     "title": "Polímeros y biomoléculas",
+     "lessons": [
+      {
+       "id": "ar-c12-02-01",
+       "title": "Polímeros sintéticos"
+      },
+      {
+       "id": "ar-c12-02-02",
+       "title": "Carbohidratos y lípidos"
+      },
+      {
+       "id": "ar-c12-02-03",
+       "title": "Proteínas y ácidos nucleicos"
+      }
+     ]
+    },
+    {
+     "id": "ar-c12-03",
+     "title": "Termodinámica química",
+     "lessons": [
+      {
+       "id": "ar-c12-03-01",
+       "title": "Calor y entalpía"
+      },
+      {
+       "id": "ar-c12-03-02",
+       "title": "Ley de Hess y entropía"
+      },
+      {
+       "id": "ar-c12-03-03",
+       "title": "Energía libre de Gibbs y espontaneidad"
+      }
+     ]
+    },
+    {
+     "id": "ar-c12-04",
+     "title": "Cinética y equilibrio químico",
+     "lessons": [
+      {
+       "id": "ar-c12-04-01",
+       "title": "Velocidad de reacción"
+      },
+      {
+       "id": "ar-c12-04-02",
+       "title": "Equilibrio químico y constante Kc"
+      },
+      {
+       "id": "ar-c12-04-03",
+       "title": "Principio de Le Châtelier y aplicaciones industriales"
+      }
+     ]
+    },
+    {
+     "id": "ar-c12-05",
+     "title": "Equilibrio ácido-base y solubilidad",
+     "lessons": [
+      {
+       "id": "ar-c12-05-01",
+       "title": "Ácidos, bases y pH"
+      },
+      {
+       "id": "ar-c12-05-02",
+       "title": "Neutralización, titulación y buffers"
+      },
+      {
+       "id": "ar-c12-05-03",
+       "title": "Equilibrio de solubilidad"
+      }
+     ]
+    },
+    {
+     "id": "ar-c12-06",
+     "title": "Electroquímica y química industrial y ambiental",
+     "lessons": [
+      {
+       "id": "ar-c12-06-01",
+       "title": "Reacciones redox y pilas"
+      },
+      {
+       "id": "ar-c12-06-02",
+       "title": "Electrólisis y leyes de Faraday"
+      },
+      {
+       "id": "ar-c12-06-03",
+       "title": "Química industrial y ambiental"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

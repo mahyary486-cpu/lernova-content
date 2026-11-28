@@ -1,0 +1,5 @@
+{
+ "Reacciones redox y pilas": "En las reacciones redox hay transferencia de electrones: la oxidación es la pérdida y la reducción es la ganancia. Los números de oxidación permiten identificar qué especie se oxida y cuál se reduce. En una pila galvánica la reacción espontánea genera corriente: el ánodo oxida, el cátodo reduce y el potencial es E° = E°cátodo − E°ánodo.",
+ "Electrólisis y leyes de Faraday": "La electrólisis usa energía eléctrica para forzar una reacción no espontánea. La cantidad de sustancia depositada es proporcional a la carga: Q = I·t y n(electrones) = Q/F, con F = 96 500 C/mol. Se aplica a la obtención de aluminio y de cloro, a la galvanoplastia y a la protección contra la corrosión.",
+ "Química industrial y ambiental": "La industria química produce amoníaco (Haber-Bosch), ácido sulfúrico (contacto) y cloro e hidróxido de sodio (electrólisis de salmuera). Sus impactos incluyen la lluvia ácida por SO2 y NOx, el efecto invernadero por CO2 y metano, y la eutrofización. En la Argentina, la Ley General del Ambiente 25.675 y la Ley 24.051 de residuos peligrosos fijan el marco legal."
+}

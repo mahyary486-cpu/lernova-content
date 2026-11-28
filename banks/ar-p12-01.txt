@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Se aplica una fuerza perpendicular de 20 N a 3 m del eje de giro. ¿Cuál es el torque?|120 N·m|60 N·m|23 N·m|6,667 N·m|1|τ = F · d = 20 · 3 = 60 N·m.
+¿Cuál es el momento de inercia de una masa puntual de 5 kg a 1 m del eje?|6 kg·m²|10 kg·m²|5 kg·m²|4 kg·m²|2|I = m·R² = 5 · 1² = 5 kg·m².
+¿Cuál es el momento de inercia de una masa puntual de 4 kg a 2 m del eje?|16 kg·m²|8 kg·m²|6 kg·m²|32 kg·m²|0|I = m·R² = 4 · 2² = 16 kg·m².
+¿Cuál es el momento de inercia de una masa puntual de 1 kg a 5 m del eje?|5 kg·m²|6 kg·m²|25 kg·m²|50 kg·m²|2|I = m·R² = 1 · 5² = 25 kg·m².
+Se aplica una fuerza perpendicular de 12 N a 2,5 m del eje de giro. ¿Cuál es el torque?|14,5 N·m|60 N·m|30 N·m|4,8 N·m|2|τ = F · d = 12 · 2,5 = 30 N·m.
+Se aplica una fuerza perpendicular de 30 N a 1,5 m del eje de giro. ¿Cuál es el torque?|45 N·m|90 N·m|31,5 N·m|20 N·m|0|τ = F · d = 30 · 1,5 = 45 N·m.
+¿Cuál es el momento de inercia de una masa puntual de 10 kg a 2 m del eje?|12 kg·m²|80 kg·m²|40 kg·m²|20 kg·m²|2|I = m·R² = 10 · 2² = 40 kg·m².
+¿Cuál es la unidad del torque en el Sistema Internacional?|Newton·metro|Joule por segundo|Newton|Watt|0|1 N·m.
+¿Cuál es el momento de inercia de una masa puntual de 3 kg a 4 m del eje?|96 kg·m²|48 kg·m²|7 kg·m²|12 kg·m²|1|I = m·R² = 3 · 4² = 48 kg·m².
+Se aplica una fuerza perpendicular de 10 N a 2 m del eje de giro. ¿Cuál es el torque?|5 N·m|12 N·m|20 N·m|40 N·m|2|τ = F · d = 10 · 2 = 20 N·m.
+Para que un cuerpo rígido esté en equilibrio estático se necesita que:|La fuerza neta y el torque neto sean nulos|Haya una sola fuerza|Solo el torque sea nulo|Solo la fuerza neta sea nula|0|Son las dos condiciones de equilibrio.
+Un cuerpo de momento de inercia 3 kg·m² recibe un torque neto de 12 N·m. ¿Cuál es su aceleración angular?|4 rad/s²|36 rad/s²|8 rad/s²|0,25 rad/s²|0|α = τ/I = 12/3 = 4 rad/s².
+Un cuerpo de momento de inercia 5 kg·m² recibe un torque neto de 30 N·m. ¿Cuál es su aceleración angular?|12 rad/s²|0,167 rad/s²|150 rad/s²|6 rad/s²|3|α = τ/I = 30/5 = 6 rad/s².
+Un cuerpo de momento de inercia 10 kg·m² recibe un torque neto de 50 N·m. ¿Cuál es su aceleración angular?|10 rad/s²|500 rad/s²|5 rad/s²|0,2 rad/s²|2|α = τ/I = 50/10 = 5 rad/s².
+Un cuerpo con I = 1 kg·m² gira a 10 rad/s. ¿Cuál es su momento angular?|0,1 kg·m²/s|20 kg·m²/s|11 kg·m²/s|10 kg·m²/s|3|L = I·ω = 1 · 10 = 10 kg·m²/s.
+Un cuerpo de momento de inercia 2 kg·m² recibe un torque neto de 8 N·m. ¿Cuál es su aceleración angular?|4 rad/s²|0,25 rad/s²|16 rad/s²|8 rad/s²|0|α = τ/I = 8/2 = 4 rad/s².
+Un cuerpo con I = 2 kg·m² gira a 5 rad/s. ¿Cuál es su momento angular?|10 kg·m²/s|20 kg·m²/s|7 kg·m²/s|0,4 kg·m²/s|0|L = I·ω = 2 · 5 = 10 kg·m²/s.
+¿Qué enuncia el principio de conservación del momento angular?|L es nulo|Sin torque externo, L se mantiene constante|L siempre aumenta|L es igual a la energía|1|Explica por qué el patinador gira más rápido al cerrar los brazos.
+Un cuerpo con I = 6 kg·m² gira a 5 rad/s. ¿Cuál es su momento angular?|1,2 kg·m²/s|11 kg·m²/s|60 kg·m²/s|30 kg·m²/s|3|L = I·ω = 6 · 5 = 30 kg·m²/s.
+Un cuerpo con I = 10 kg·m² gira a 2 rad/s. ¿Cuál es su momento angular?|40 kg·m²/s|12 kg·m²/s|5 kg·m²/s|20 kg·m²/s|3|L = I·ω = 10 · 2 = 20 kg·m²/s.
+Un patinador gira con I = 8 kg·m² y 3 rad/s. Si acerca los brazos y su inercia pasa a 4 kg·m², ¿cuál es su nueva velocidad angular?|3 rad/s|12 rad/s|1,5 rad/s|6 rad/s|3|Conservación de L: I₁ω₁ = I₂ω₂ → ω₂ = 8·3/4 = 6 rad/s.
+Un patinador gira con I = 10 kg·m² y 2 rad/s. Si acerca los brazos y su inercia pasa a 5 kg·m², ¿cuál es su nueva velocidad angular?|1 rad/s|2 rad/s|8 rad/s|4 rad/s|3|Conservación de L: I₁ω₁ = I₂ω₂ → ω₂ = 10·2/5 = 4 rad/s.
+¿Cuál es la energía cinética de rotación de un cuerpo con I = 2 kg·m² que gira a 4 rad/s?|4 J|16 J|8 J|32 J|1|Ec = ½·I·ω² = ½ · 2 · 4² = 16 J.
+¿Cuál es la energía cinética de rotación de un cuerpo con I = 8 kg·m² que gira a 5 rad/s?|20 J|40 J|100 J|200 J|2|Ec = ½·I·ω² = ½ · 8 · 5² = 100 J.
+Un patinador gira con I = 4 kg·m² y 6 rad/s. Si acerca los brazos y su inercia pasa a 2 kg·m², ¿cuál es su nueva velocidad angular?|6 rad/s|24 rad/s|3 rad/s|12 rad/s|3|Conservación de L: I₁ω₁ = I₂ω₂ → ω₂ = 4·6/2 = 12 rad/s.
+¿Cuál es la energía cinética de rotación de un cuerpo con I = 4 kg·m² que gira a 3 rad/s?|18 J|6 J|12 J|36 J|0|Ec = ½·I·ω² = ½ · 4 · 3² = 18 J.
+Un cuerpo rueda sin deslizar. Su energía cinética total es:|Solo la de rotación|La suma de la de traslación y la de rotación|Solo la de traslación|Nula|1|Ec = ½mv² + ½Iω².
+Un patinador gira con I = 6 kg·m² y 4 rad/s. Si acerca los brazos y su inercia pasa a 3 kg·m², ¿cuál es su nueva velocidad angular?|16 rad/s|8 rad/s|4 rad/s|2 rad/s|1|Conservación de L: I₁ω₁ = I₂ω₂ → ω₂ = 6·4/3 = 8 rad/s.
+¿Qué cuerpo baja más rápido por un plano inclinado rodando sin deslizar: una esfera maciza o un aro, de igual masa y radio?|Llegan juntos|El aro|La esfera maciza|Ninguno|2|Tiene menor momento de inercia y más energía para trasladarse.
+¿Cuál es la energía cinética de rotación de un cuerpo con I = 10 kg·m² que gira a 3 rad/s?|45 J|30 J|15 J|90 J|0|Ec = ½·I·ω² = ½ · 10 · 3² = 45 J.

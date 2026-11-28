@@ -1,0 +1,5 @@
+{
+ "Cuantización y efecto fotoeléctrico": "Planck propuso que la energía se emite en cuantos: E = h·f, con h = 6,63 × 10⁻³⁴ J·s. Einstein explicó el efecto fotoeléctrico: un fotón libera un electrón si hf supera la función trabajo W; la energía cinética máxima es hf − W. Existe una frecuencia umbral por debajo de la cual no hay emisión.",
+ "Dualidad onda-partícula": "La luz se comporta como onda (interferencia, difracción) y como partícula (efecto fotoeléctrico). De Broglie propuso que toda partícula tiene una longitud de onda λ = h/p. El experimento de la doble rendija muestra interferencia con electrones. El principio de incertidumbre de Heisenberg limita el conocimiento simultáneo de posición y momento.",
+ "Átomo de Bohr y espectros": "En el modelo de Bohr, la energía del electrón del hidrógeno está cuantizada: Eₙ = −13,6/n² eV. Al pasar de un nivel superior a uno inferior se emite un fotón de energía igual a la diferencia. Los espectros de líneas son la «huella digital» de cada elemento y se usan en astronomía y análisis químico. El láser se basa en la emisión estimulada."
+}

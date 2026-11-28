@@ -1,0 +1,5 @@
+{
+ "ADN recombinante y herramientas moleculares": "La ingeniería genética combina enzimas de restricción, que cortan el ADN, y ADN ligasa, que une fragmentos. Los plásmidos actúan como vectores para introducir genes en bacterias, que producen proteínas como la insulina. La electroforesis separa los fragmentos por tamaño.",
+ "PCR, secuenciación y CRISPR": "La PCR amplifica ADN en ciclos de desnaturalización, hibridación y extensión con la polimerasa Taq; tras n ciclos hay 2ⁿ copias. La secuenciación determina el orden de las bases y permitió leer el genoma humano. CRISPR-Cas9 corta el ADN en un sitio elegido por un ARN guía y permite editar genes.",
+ "Transgénicos, terapia génica y bioética": "Los organismos transgénicos incorporan genes de otras especies; en Argentina son muy difundidos la soja y el maíz modificados. La terapia génica busca corregir enfermedades hereditarias. Estas técnicas plantean debates sobre bioseguridad, patentes, ambiente y límites éticos de la edición del genoma humano."
+}

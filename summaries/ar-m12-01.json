@@ -1,0 +1,5 @@
+{
+ "Concepto de límite y cálculo de límites": "El límite de f(x) cuando x tiende a a es el valor al que se acerca f(x) cuando x se acerca a a, sin importar el valor de f(a). Para polinomios se reemplaza. Si resulta 0/0 se factoriza y se simplifica o se racionaliza. Existe límite si los límites laterales coinciden.",
+ "Límites en el infinito y asíntotas": "En el infinito, el cociente de polinomios se comporta como el cociente de los términos de mayor grado. Si el límite en ±∞ es L, hay una asíntota horizontal y = L. Si el denominador se anula y el numerador no, hay una asíntota vertical x = a, y el límite lateral es +∞ o −∞.",
+ "Continuidad": "Una función es continua en a si f(a) existe, el límite existe y son iguales. Los polinomios son continuos en ℝ y las funciones racionales lo son salvo donde el denominador se anula. Las discontinuidades pueden ser evitables, de salto o infinitas. En funciones definidas por partes se determina un parámetro igualando los límites laterales."
+}

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+Un caño de sección 10 m² tiene agua que circula a 2 m/s. ¿Cuál es el caudal?|0,2 m³/s|40 m³/s|20 m³/s|12 m³/s|2|Q = A·v = 10 · 2 = 20 m³/s.
+Un caño de sección 2 m² tiene agua que circula a 3 m/s. ¿Cuál es el caudal?|1,5 m³/s|6 m³/s|5 m³/s|12 m³/s|1|Q = A·v = 2 · 3 = 6 m³/s.
+Un caño de sección 0,5 m² tiene agua que circula a 8 m/s. ¿Cuál es el caudal?|4 m³/s|8 m³/s|16 m³/s|8,5 m³/s|0|Q = A·v = 0,5 · 8 = 4 m³/s.
+¿Qué dice la ecuación de continuidad?|Que la presión es constante|Que la velocidad es constante|Que el caudal se mantiene constante: A·v = constante|Que la densidad cambia|2|Para fluidos incompresibles.
+Un caño de sección 4 m² tiene agua que circula a 5 m/s. ¿Cuál es el caudal?|9 m³/s|20 m³/s|1,25 m³/s|40 m³/s|1|Q = A·v = 4 · 5 = 20 m³/s.
+Un caño de sección 5 m² tiene agua que circula a 4 m/s. ¿Cuál es el caudal?|9 m³/s|20 m³/s|40 m³/s|0,8 m³/s|1|Q = A·v = 5 · 4 = 20 m³/s.
+Un fluido ideal es:|Incompresible y sin viscosidad|Un gas|Compresible|Muy viscoso|0|Es un modelo simplificado.
+Si un caño se estrecha, la velocidad del fluido:|Se anula|Aumenta|No cambia|Disminuye|1|Para mantener el caudal.
+Agua circula por un caño horizontal. En un tramo la presión es 180.000 Pa y la velocidad 4 m/s. En otro tramo la velocidad es 6 m/s. ¿Cuál es la presión allí? (ρ = 1000 kg/m³)|178000 Pa|190000 Pa|170000 Pa|180000 Pa|2|Bernoulli: p₂ = p₁ + ½ρ(v₁² − v₂²) = 170000 Pa.
+¿Por qué vuela un avión según el principio de Bernoulli?|No hay diferencia|El peso se anula|Hay menor presión arriba del ala por mayor velocidad del aire|Hay mayor presión arriba|2|También interviene la tercera ley de Newton.
+Por un caño de 6 cm² circula agua a 10 m/s. Si la sección se reduce a 3 cm², ¿cuál es la velocidad?|20 m/s|40 m/s|5 m/s|10 m/s|0|Ecuación de continuidad: A₁v₁ = A₂v₂ → v₂ = 6·10/3 = 20 m/s.
+Agua (1000 kg/m³) circula a 10 m/s. ¿Cuál es su presión dinámica ½ρv²?|10000 Pa|50001 Pa|100000 Pa|50000 Pa|3|½ · 1000 · 10² = 50000 Pa.
+Por un caño de 8 cm² circula agua a 5 m/s. Si la sección se reduce a 2 cm², ¿cuál es la velocidad?|5 m/s|20 m/s|1,25 m/s|40 m/s|1|Ecuación de continuidad: A₁v₁ = A₂v₂ → v₂ = 8·5/2 = 20 m/s.
+Agua (1000 kg/m³) circula a 30 m/s. ¿Cuál es su presión dinámica ½ρv²?|450000 Pa|900000 Pa|30000 Pa|450001 Pa|0|½ · 1000 · 30² = 450000 Pa.
+Según Bernoulli, donde la velocidad aumenta, la presión:|No cambia|Disminuye|Aumenta|Se anula|1|Si el fluido está a la misma altura.
+Agua (1000 kg/m³) circula a 20 m/s. ¿Cuál es su presión dinámica ½ρv²?|20000 Pa|200001 Pa|400000 Pa|200000 Pa|3|½ · 1000 · 20² = 200000 Pa.
+Por un caño de 30 cm² circula agua a 2 m/s. Si la sección se reduce a 10 cm², ¿cuál es la velocidad?|6 m/s|12 m/s|0,667 m/s|2 m/s|0|Ecuación de continuidad: A₁v₁ = A₂v₂ → v₂ = 30·2/10 = 6 m/s.
+Por un caño de 12 cm² circula agua a 4 m/s. Si la sección se reduce a 6 cm², ¿cuál es la velocidad?|16 m/s|4 m/s|2 m/s|8 m/s|3|Ecuación de continuidad: A₁v₁ = A₂v₂ → v₂ = 12·4/6 = 8 m/s.
+Agua (1000 kg/m³) circula a 4 m/s. ¿Cuál es su presión dinámica ½ρv²?|16000 Pa|4000 Pa|8001 Pa|8000 Pa|3|½ · 1000 · 4² = 8000 Pa.
+Por un caño de 10 cm² circula agua a 2 m/s. Si la sección se reduce a 5 cm², ¿cuál es la velocidad?|4 m/s|2 m/s|1 m/s|8 m/s|0|Ecuación de continuidad: A₁v₁ = A₂v₂ → v₂ = 10·2/5 = 4 m/s.
+¿Qué enuncia la ley de Poiseuille cualitativamente?|El caudal no depende del radio|El caudal depende fuertemente del radio del conducto|El caudal es constante|La viscosidad es nula|1|Q es proporcional a r⁴.
+Agua circula por un caño horizontal. En un tramo la presión es 200.000 Pa y la velocidad 3 m/s. En otro tramo la velocidad es 5 m/s. ¿Cuál es la presión allí? (ρ = 1000 kg/m³)|208000 Pa|200000 Pa|192000 Pa|198000 Pa|2|Bernoulli: p₂ = p₁ + ½ρ(v₁² − v₂²) = 192000 Pa.
+El agua sale por un orificio ubicado 180 m por debajo de la superficie libre de un tanque grande. ¿Con qué velocidad sale? (g = 10 m/s²)|120 m/s|180 m/s|60 m/s|65 m/s|2|Torricelli: v = √(2·g·h) = √(20·180) = 60 m/s.
+El agua sale por un orificio ubicado 125 m por debajo de la superficie libre de un tanque grande. ¿Con qué velocidad sale? (g = 10 m/s²)|125 m/s|50 m/s|100 m/s|55 m/s|1|Torricelli: v = √(2·g·h) = √(20·125) = 50 m/s.
+¿Qué es la viscosidad?|La resistencia de un fluido a fluir|La densidad|La temperatura|La presión|0|La miel es más viscosa que el agua.
+Agua circula por un caño horizontal. En un tramo la presión es 100.000 Pa y la velocidad 2 m/s. En otro tramo la velocidad es 4 m/s. ¿Cuál es la presión allí? (ρ = 1000 kg/m³)|98000 Pa|94000 Pa|100000 Pa|106000 Pa|1|Bernoulli: p₂ = p₁ + ½ρ(v₁² − v₂²) = 94000 Pa.
+El agua sale por un orificio ubicado 20 m por debajo de la superficie libre de un tanque grande. ¿Con qué velocidad sale? (g = 10 m/s²)|20 m/s|40 m/s|21 m/s|25 m/s|0|Torricelli: v = √(2·g·h) = √(20·20) = 20 m/s.
+Agua circula por un caño horizontal. En un tramo la presión es 120.000 Pa y la velocidad 2 m/s. En otro tramo la velocidad es 6 m/s. ¿Cuál es la presión allí? (ρ = 1000 kg/m³)|136000 Pa|120000 Pa|104000 Pa|116000 Pa|2|Bernoulli: p₂ = p₁ + ½ρ(v₁² − v₂²) = 104000 Pa.
+El agua sale por un orificio ubicado 5 m por debajo de la superficie libre de un tanque grande. ¿Con qué velocidad sale? (g = 10 m/s²)|20 m/s|10 m/s|15 m/s|5 m/s|1|Torricelli: v = √(2·g·h) = √(20·5) = 10 m/s.
+El agua sale por un orificio ubicado 80 m por debajo de la superficie libre de un tanque grande. ¿Con qué velocidad sale? (g = 10 m/s²)|40 m/s|45 m/s|80 m/s|41 m/s|0|Torricelli: v = √(2·g·h) = √(20·80) = 40 m/s.

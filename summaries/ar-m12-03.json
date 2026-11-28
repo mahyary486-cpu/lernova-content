@@ -1,0 +1,5 @@
+{
+ "Crecimiento, decrecimiento y extremos": "Si f' > 0 en un intervalo, f es creciente; si f' < 0, decreciente. Los puntos críticos son aquellos donde f'(x) = 0 o no existe. Un máximo o mínimo local aparece cuando f' cambia de signo; con la derivada segunda: f'' > 0 indica mínimo y f'' < 0, máximo.",
+ "Concavidad y puntos de inflexión": "Si f'' > 0 la gráfica es cóncava hacia arriba (convexa) y si f'' < 0 es cóncava hacia abajo. Un punto de inflexión es donde cambia la concavidad, es decir, donde f'' cambia de signo. El estudio completo de una función combina dominio, asíntotas, extremos y concavidad.",
+ "Problemas de optimización": "En un problema de optimización se plantea la magnitud a maximizar o minimizar, se expresa en función de una sola variable usando las restricciones, se deriva y se iguala a cero. Luego se verifica que sea máximo o mínimo. Se aplica a áreas, costos, volúmenes y tiempos."
+}

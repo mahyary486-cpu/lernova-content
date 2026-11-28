@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 12,
+   "country": "AR",
+   "subject": "Biology",
+   "chapters": [
+    {
+     "id": "ar-b12-01",
+     "title": "Genómica y biotecnología avanzada",
+     "lessons": [
+      {
+       "id": "ar-b12-01-01",
+       "title": "ADN recombinante y herramientas moleculares"
+      },
+      {
+       "id": "ar-b12-01-02",
+       "title": "PCR, secuenciación y CRISPR"
+      },
+      {
+       "id": "ar-b12-01-03",
+       "title": "Transgénicos, terapia génica y bioética"
+      }
+     ]
+    },
+    {
+     "id": "ar-b12-02",
+     "title": "Neurobiología y comportamiento",
+     "lessons": [
+      {
+       "id": "ar-b12-02-01",
+       "title": "La neurona y el impulso nervioso"
+      },
+      {
+       "id": "ar-b12-02-02",
+       "title": "Sistema nervioso y encéfalo"
+      },
+      {
+       "id": "ar-b12-02-03",
+       "title": "Comportamiento y aprendizaje"
+      }
+     ]
+    },
+    {
+     "id": "ar-b12-03",
+     "title": "Inmunología y salud pública",
+     "lessons": [
+      {
+       "id": "ar-b12-03-01",
+       "title": "Sistema inmune"
+      },
+      {
+       "id": "ar-b12-03-02",
+       "title": "Vacunas y prevención"
+      },
+      {
+       "id": "ar-b12-03-03",
+       "title": "Epidemias y enfermedades en Argentina"
+      }
+     ]
+    },
+    {
+     "id": "ar-b12-04",
+     "title": "Evolución humana y origen de la vida",
+     "lessons": [
+      {
+       "id": "ar-b12-04-01",
+       "title": "Origen de la vida"
+      },
+      {
+       "id": "ar-b12-04-02",
+       "title": "Evolución de los homínidos"
+      },
+      {
+       "id": "ar-b12-04-03",
+       "title": "Cultura y diversidad humana"
+      }
+     ]
+    },
+    {
+     "id": "ar-b12-05",
+     "title": "Ecología global y cambio climático",
+     "lessons": [
+      {
+       "id": "ar-b12-05-01",
+       "title": "Ecosistemas y biodiversidad"
+      },
+      {
+       "id": "ar-b12-05-02",
+       "title": "Cambio climático"
+      },
+      {
+       "id": "ar-b12-05-03",
+       "title": "Sostenibilidad y acción"
+      }
+     ]
+    },
+    {
+     "id": "ar-b12-06",
+     "title": "Bioética, salud y ciencia en Argentina",
+     "lessons": [
+      {
+       "id": "ar-b12-06-01",
+       "title": "Bioética y derechos en salud"
+      },
+      {
+       "id": "ar-b12-06-02",
+       "title": "Salud sexual, trasplantes y marco legal"
+      },
+      {
+       "id": "ar-b12-06-03",
+       "title": "Ciencia y tecnología en Argentina"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+{
+ "Ácidos, bases y pH": "Según Arrhenius, los ácidos liberan H⁺ y las bases OH⁻; según Brønsted y Lowry, los ácidos donan protones y las bases los aceptan. El pH = −log [H⁺] mide la acidez y pH + pOH = 14 a 25 °C. Los ácidos y bases fuertes se disocian casi totalmente; los débiles, solo en parte, con una constante Ka o Kb.",
+ "Neutralización, titulación y buffers": "En la neutralización un ácido y una base forman una sal y agua. La titulación determina una concentración desconocida con ácido y base de concentración conocida: en el punto de equivalencia los moles son iguales. Un buffer contiene un ácido débil y su base conjugada y resiste los cambios de pH; pH = pKa + log([A⁻]/[HA]).",
+ "Equilibrio de solubilidad": "Una sal poco soluble se disuelve hasta alcanzar un equilibrio entre el sólido y sus iones. El producto de solubilidad Kps es el producto de las concentraciones iónicas elevadas a sus coeficientes. Para AgCl, Kps = [Ag⁺]·[Cl⁻]. La presencia de un ion común disminuye la solubilidad."
+}

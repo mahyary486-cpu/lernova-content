@@ -15990,6 +15990,466 @@
       "country": "AR"
     },
     {
+      "grade": 12,
+      "subject": "Biology",
+      "chapters": [
+        {
+          "id": "ar-b12-01",
+          "title": "Genómica y biotecnología avanzada",
+          "lessons": [
+            {
+              "id": "ar-b12-01-01",
+              "title": "ADN recombinante y herramientas moleculares"
+            },
+            {
+              "id": "ar-b12-01-02",
+              "title": "PCR, secuenciación y CRISPR"
+            },
+            {
+              "id": "ar-b12-01-03",
+              "title": "Transgénicos, terapia génica y bioética"
+            }
+          ]
+        },
+        {
+          "id": "ar-b12-02",
+          "title": "Neurobiología y comportamiento",
+          "lessons": [
+            {
+              "id": "ar-b12-02-01",
+              "title": "La neurona y el impulso nervioso"
+            },
+            {
+              "id": "ar-b12-02-02",
+              "title": "Sistema nervioso y encéfalo"
+            },
+            {
+              "id": "ar-b12-02-03",
+              "title": "Comportamiento y aprendizaje"
+            }
+          ]
+        },
+        {
+          "id": "ar-b12-03",
+          "title": "Inmunología y salud pública",
+          "lessons": [
+            {
+              "id": "ar-b12-03-01",
+              "title": "Sistema inmune"
+            },
+            {
+              "id": "ar-b12-03-02",
+              "title": "Vacunas y prevención"
+            },
+            {
+              "id": "ar-b12-03-03",
+              "title": "Epidemias y enfermedades en Argentina"
+            }
+          ]
+        },
+        {
+          "id": "ar-b12-04",
+          "title": "Evolución humana y origen de la vida",
+          "lessons": [
+            {
+              "id": "ar-b12-04-01",
+              "title": "Origen de la vida"
+            },
+            {
+              "id": "ar-b12-04-02",
+              "title": "Evolución de los homínidos"
+            },
+            {
+              "id": "ar-b12-04-03",
+              "title": "Cultura y diversidad humana"
+            }
+          ]
+        },
+        {
+          "id": "ar-b12-05",
+          "title": "Ecología global y cambio climático",
+          "lessons": [
+            {
+              "id": "ar-b12-05-01",
+              "title": "Ecosistemas y biodiversidad"
+            },
+            {
+              "id": "ar-b12-05-02",
+              "title": "Cambio climático"
+            },
+            {
+              "id": "ar-b12-05-03",
+              "title": "Sostenibilidad y acción"
+            }
+          ]
+        },
+        {
+          "id": "ar-b12-06",
+          "title": "Bioética, salud y ciencia en Argentina",
+          "lessons": [
+            {
+              "id": "ar-b12-06-01",
+              "title": "Bioética y derechos en salud"
+            },
+            {
+              "id": "ar-b12-06-02",
+              "title": "Salud sexual, trasplantes y marco legal"
+            },
+            {
+              "id": "ar-b12-06-03",
+              "title": "Ciencia y tecnología en Argentina"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 12,
+      "subject": "Chemistry",
+      "chapters": [
+        {
+          "id": "ar-c12-01",
+          "title": "Química orgánica: grupos funcionales e isomería",
+          "lessons": [
+            {
+              "id": "ar-c12-01-01",
+              "title": "Hidrocarburos y grupos funcionales"
+            },
+            {
+              "id": "ar-c12-01-02",
+              "title": "Isomería"
+            },
+            {
+              "id": "ar-c12-01-03",
+              "title": "Reacciones orgánicas básicas"
+            }
+          ]
+        },
+        {
+          "id": "ar-c12-02",
+          "title": "Polímeros y biomoléculas",
+          "lessons": [
+            {
+              "id": "ar-c12-02-01",
+              "title": "Polímeros sintéticos"
+            },
+            {
+              "id": "ar-c12-02-02",
+              "title": "Carbohidratos y lípidos"
+            },
+            {
+              "id": "ar-c12-02-03",
+              "title": "Proteínas y ácidos nucleicos"
+            }
+          ]
+        },
+        {
+          "id": "ar-c12-03",
+          "title": "Termodinámica química",
+          "lessons": [
+            {
+              "id": "ar-c12-03-01",
+              "title": "Calor y entalpía"
+            },
+            {
+              "id": "ar-c12-03-02",
+              "title": "Ley de Hess y entropía"
+            },
+            {
+              "id": "ar-c12-03-03",
+              "title": "Energía libre de Gibbs y espontaneidad"
+            }
+          ]
+        },
+        {
+          "id": "ar-c12-04",
+          "title": "Cinética y equilibrio químico",
+          "lessons": [
+            {
+              "id": "ar-c12-04-01",
+              "title": "Velocidad de reacción"
+            },
+            {
+              "id": "ar-c12-04-02",
+              "title": "Equilibrio químico y constante Kc"
+            },
+            {
+              "id": "ar-c12-04-03",
+              "title": "Principio de Le Châtelier y aplicaciones industriales"
+            }
+          ]
+        },
+        {
+          "id": "ar-c12-05",
+          "title": "Equilibrio ácido-base y solubilidad",
+          "lessons": [
+            {
+              "id": "ar-c12-05-01",
+              "title": "Ácidos, bases y pH"
+            },
+            {
+              "id": "ar-c12-05-02",
+              "title": "Neutralización, titulación y buffers"
+            },
+            {
+              "id": "ar-c12-05-03",
+              "title": "Equilibrio de solubilidad"
+            }
+          ]
+        },
+        {
+          "id": "ar-c12-06",
+          "title": "Electroquímica y química industrial y ambiental",
+          "lessons": [
+            {
+              "id": "ar-c12-06-01",
+              "title": "Reacciones redox y pilas"
+            },
+            {
+              "id": "ar-c12-06-02",
+              "title": "Electrólisis y leyes de Faraday"
+            },
+            {
+              "id": "ar-c12-06-03",
+              "title": "Química industrial y ambiental"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 12,
+      "subject": "Mathematics",
+      "chapters": [
+        {
+          "id": "ar-m12-01",
+          "title": "Límites y continuidad",
+          "lessons": [
+            {
+              "id": "ar-m12-01-01",
+              "title": "Concepto de límite y cálculo de límites"
+            },
+            {
+              "id": "ar-m12-01-02",
+              "title": "Límites en el infinito y asíntotas"
+            },
+            {
+              "id": "ar-m12-01-03",
+              "title": "Continuidad"
+            }
+          ]
+        },
+        {
+          "id": "ar-m12-02",
+          "title": "Derivadas y reglas de derivación",
+          "lessons": [
+            {
+              "id": "ar-m12-02-01",
+              "title": "Definición de derivada y su interpretación"
+            },
+            {
+              "id": "ar-m12-02-02",
+              "title": "Reglas de derivación"
+            },
+            {
+              "id": "ar-m12-02-03",
+              "title": "Derivadas sucesivas y recta tangente"
+            }
+          ]
+        },
+        {
+          "id": "ar-m12-03",
+          "title": "Aplicaciones de la derivada",
+          "lessons": [
+            {
+              "id": "ar-m12-03-01",
+              "title": "Crecimiento, decrecimiento y extremos"
+            },
+            {
+              "id": "ar-m12-03-02",
+              "title": "Concavidad y puntos de inflexión"
+            },
+            {
+              "id": "ar-m12-03-03",
+              "title": "Problemas de optimización"
+            }
+          ]
+        },
+        {
+          "id": "ar-m12-04",
+          "title": "Integrales",
+          "lessons": [
+            {
+              "id": "ar-m12-04-01",
+              "title": "Primitivas e integral indefinida"
+            },
+            {
+              "id": "ar-m12-04-02",
+              "title": "Integral definida y teorema fundamental"
+            },
+            {
+              "id": "ar-m12-04-03",
+              "title": "Aplicaciones: áreas y movimiento"
+            }
+          ]
+        },
+        {
+          "id": "ar-m12-05",
+          "title": "Probabilidad y distribuciones: binomial y normal",
+          "lessons": [
+            {
+              "id": "ar-m12-05-01",
+              "title": "Probabilidad condicional y teorema de Bayes"
+            },
+            {
+              "id": "ar-m12-05-02",
+              "title": "Distribución binomial"
+            },
+            {
+              "id": "ar-m12-05-03",
+              "title": "Distribución normal e inferencia"
+            }
+          ]
+        },
+        {
+          "id": "ar-m12-06",
+          "title": "Números complejos",
+          "lessons": [
+            {
+              "id": "ar-m12-06-01",
+              "title": "Unidad imaginaria y forma binómica"
+            },
+            {
+              "id": "ar-m12-06-02",
+              "title": "División, módulo y ecuaciones"
+            },
+            {
+              "id": "ar-m12-06-03",
+              "title": "Forma polar y plano complejo"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
+      "grade": 12,
+      "subject": "Physics",
+      "chapters": [
+        {
+          "id": "ar-p12-01",
+          "title": "Dinámica de la rotación del cuerpo rígido",
+          "lessons": [
+            {
+              "id": "ar-p12-01-01",
+              "title": "Torque y equilibrio"
+            },
+            {
+              "id": "ar-p12-01-02",
+              "title": "Momento de inercia y segunda ley de la rotación"
+            },
+            {
+              "id": "ar-p12-01-03",
+              "title": "Momento angular y su conservación"
+            }
+          ]
+        },
+        {
+          "id": "ar-p12-02",
+          "title": "Dinámica de fluidos",
+          "lessons": [
+            {
+              "id": "ar-p12-02-01",
+              "title": "Caudal y ecuación de continuidad"
+            },
+            {
+              "id": "ar-p12-02-02",
+              "title": "Ecuación de Bernoulli"
+            },
+            {
+              "id": "ar-p12-02-03",
+              "title": "Viscosidad y circulación"
+            }
+          ]
+        },
+        {
+          "id": "ar-p12-03",
+          "title": "Ondas electromagnéticas y espectro",
+          "lessons": [
+            {
+              "id": "ar-p12-03-01",
+              "title": "Naturaleza de las ondas electromagnéticas"
+            },
+            {
+              "id": "ar-p12-03-02",
+              "title": "Espectro electromagnético y aplicaciones"
+            },
+            {
+              "id": "ar-p12-03-03",
+              "title": "Comunicaciones y astronomía"
+            }
+          ]
+        },
+        {
+          "id": "ar-p12-04",
+          "title": "Introducción a la física cuántica",
+          "lessons": [
+            {
+              "id": "ar-p12-04-01",
+              "title": "Cuantización y efecto fotoeléctrico"
+            },
+            {
+              "id": "ar-p12-04-02",
+              "title": "Dualidad onda-partícula"
+            },
+            {
+              "id": "ar-p12-04-03",
+              "title": "Átomo de Bohr y espectros"
+            }
+          ]
+        },
+        {
+          "id": "ar-p12-05",
+          "title": "Relatividad especial",
+          "lessons": [
+            {
+              "id": "ar-p12-05-01",
+              "title": "Postulados y dilatación del tiempo"
+            },
+            {
+              "id": "ar-p12-05-02",
+              "title": "Contracción de la longitud y relatividad de la simultaneidad"
+            },
+            {
+              "id": "ar-p12-05-03",
+              "title": "Masa, energía y relatividad general"
+            }
+          ]
+        },
+        {
+          "id": "ar-p12-06",
+          "title": "Física nuclear y radiactividad",
+          "lessons": [
+            {
+              "id": "ar-p12-06-01",
+              "title": "El núcleo atómico y la radiactividad"
+            },
+            {
+              "id": "ar-p12-06-02",
+              "title": "Desintegración y vida media"
+            },
+            {
+              "id": "ar-p12-06-03",
+              "title": "Fisión, fusión y energía nuclear"
+            }
+          ]
+        }
+      ],
+      "country": "AR"
+    },
+    {
       "grade": 10,
       "subject": "Mathematics",
       "country": "TR",

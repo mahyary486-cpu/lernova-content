@@ -1,0 +1,5 @@
+{
+ "Caudal y ecuación de continuidad": "El caudal es el volumen de fluido que atraviesa una sección por unidad de tiempo: Q = A·v. Para un fluido incompresible el caudal se conserva: A₁·v₁ = A₂·v₂. Cuando el conducto se estrecha, el fluido acelera.",
+ "Ecuación de Bernoulli": "Para un fluido ideal en régimen estacionario, p + ½·ρ·v² + ρ·g·h es constante a lo largo de una línea de corriente. Donde la velocidad es mayor, la presión es menor (a igual altura). Explica la sustentación de las alas, el atomizador y el teorema de Torricelli v = √(2gh).",
+ "Viscosidad y circulación": "La viscosidad es la resistencia interna de un fluido al flujo. En un conducto con flujo laminar, el caudal depende de la diferencia de presión, la viscosidad y especialmente del radio (ley de Poiseuille, Q ∝ r⁴). Es importante en la circulación sanguínea: una pequeña reducción del radio de un vaso aumenta mucho la resistencia."
+}

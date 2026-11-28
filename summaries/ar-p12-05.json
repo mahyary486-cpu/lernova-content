@@ -1,0 +1,5 @@
+{
+ "Postulados y dilatación del tiempo": "La relatividad especial parte de dos postulados: las leyes de la física son iguales en todo sistema inercial y la velocidad de la luz en el vacío es la misma para todos los observadores. De ellos surge la dilatación del tiempo: Δt = γ·Δt₀, con γ = 1/√(1 − v²/c²).",
+ "Contracción de la longitud y relatividad de la simultaneidad": "Para un observador en reposo, un objeto que se mueve se contrae en la dirección del movimiento: L = L₀/γ. La simultaneidad de dos eventos depende del observador. Ningún objeto con masa puede alcanzar c, porque su energía tendería a infinito.",
+ "Masa, energía y relatividad general": "La equivalencia masa-energía E = m·c² explica la energía nuclear. La energía total de una partícula es E = γ·m₀·c². La relatividad general describe la gravedad como curvatura del espaciotiempo y predice los agujeros negros y las ondas gravitacionales, detectadas en 2015. El GPS requiere correcciones relativistas."
+}

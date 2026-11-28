@@ -1,0 +1,53 @@
+#EEEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHH
+Calculá la integral definida de 0 a 1 de 6x dx.|2|4|3|6|2|Una primitiva es 6·x²/2; evaluada de 0 a 1 da 3.
+Calculá la integral definida de 0 a 1 de 5 dx.|5|6|−5|4|0|Es el área de un rectángulo de base 1 y altura 5: 5.
+¿Cuál es el coeficiente de x⁵ en una primitiva de f(x) = x⁴?|1|1/5|4|1/4|1|Se aplica ∫ xⁿ dx = xⁿ⁺¹/(n+1): el coeficiente es 1/5 = 1/5.
+Calculá la integral definida de 0 a 2 de 2x dx.|4|5|8|1|0|Una primitiva es 2·x²/2; evaluada de 0 a 2 da 4.
+¿Cuál es una primitiva de f(x) = 2x?|x²|x|2x²|x³|0|Derivando x² se obtiene 2x.
+Calculá la integral definida de 0 a 2 de 6x dx.|24|3|12|13|2|Una primitiva es 6·x²/2; evaluada de 0 a 2 da 12.
+¿Cuál es el coeficiente de x² en una primitiva de f(x) = 6x?|3|6|2|4|0|Se aplica ∫ xⁿ dx = xⁿ⁺¹/(n+1): el coeficiente es 6/2 = 3.
+Calculá la integral definida de 0 a 1 de 6 dx.|−6|5|6|7|2|Es el área de un rectángulo de base 1 y altura 6: 6.
+Calculá la integral definida de 0 a 4 de 5 dx.|9|20|5/4|5|1|Es el área de un rectángulo de base 4 y altura 5: 20.
+¿Qué es una primitiva de f?|Una función F tal que F' = f|Una función igual a f|El límite de f|La derivada de f|0|Dos primitivas difieren en una constante.
+¿Cuál es una primitiva de f(x) = 4x³?|4x⁴|x⁴|x⁵|x³|1|Derivando x⁴ se obtiene 4x³.
+¿Cuál es el coeficiente de x⁴ en una primitiva de f(x) = 6x³?|3/2|18|6|2|0|Se aplica ∫ xⁿ dx = xⁿ⁺¹/(n+1): el coeficiente es 6/4 = 3/2.
+Calculá la integral definida de 0 a 3 de 4 dx.|4/3|12|4|7|1|Es el área de un rectángulo de base 3 y altura 4: 12.
+¿Cuál es el coeficiente de x⁴ en una primitiva de f(x) = 3x³?|1|3/4|9|3|1|Se aplica ∫ xⁿ dx = xⁿ⁺¹/(n+1): el coeficiente es 3/4 = 3/4.
+¿Cuál es una primitiva de f(x) = 3x²?|3x³|x³|x⁴|x²|1|Derivando x³ se obtiene 3x².
+¿Cuál es una primitiva de f(x) = 5x⁴?|5x⁵|x⁶|x⁵|x⁴|2|Derivando x⁵ se obtiene 5x⁴.
+Calculá la integral definida de 0 a 4 de 2x dx.|8|16|32|1|1|Una primitiva es 2·x²/2; evaluada de 0 a 4 da 16.
+Calculá la integral definida de 0 a 5 de 6x dx.|3|150|75|30|2|Una primitiva es 6·x²/2; evaluada de 0 a 5 da 75.
+Calculá la integral definida de 0 a 3 de x dx.|9/2|3|11/2|9|0|Primitiva: 1·x²/2; se evalúa entre 0 y 3: 9/2.
+Calculá la integral definida de 0 a 3 de 3x² + x + 3 dx.|33|19|81/2|83/2|2|Se integra término a término y se evalúa entre 0 y 3: el resultado es 81/2.
+¿Cuál es el área bajo la recta y = 2x entre x = 0 y x = 1?|2|0|−1|1|3|Es un triángulo de base 1 y altura 2: 1.
+¿Cuál es el área bajo la recta y = 4x entre x = 0 y x = 3?|4|12|18|36|2|Es un triángulo de base 3 y altura 12: 18.
+Calculá la integral definida de 0 a 1 de (2x + 3)² dx.|125/6|52/3|16|49/3|3|Primitiva: (2x + 3)³/(2·3); se evalúa entre 0 y 1: 49/3.
+Calculá la integral definida de 0 a 2 de 3x² − 2x − 2 dx.|10|6|1|0|3|Se integra término a término y se evalúa entre 0 y 2: el resultado es 0.
+Calculá la integral definida de 0 a 4 de x² − 2x − 2 dx.|−8/3|−5/3|−11/3|6|0|Se integra término a término y se evalúa entre 0 y 4: el resultado es −8/3.
+Calculá la integral definida de 2 a 5 de 2x² dx.|78|250|42|80|0|Primitiva: 2·x³/3; se evalúa entre 2 y 5: 78.
+Calculá la integral definida de 2 a 4 de 2x² dx.|118/3|24|128|112/3|3|Primitiva: 2·x³/3; se evalúa entre 2 y 4: 112/3.
+¿Cuál es el área bajo la recta y = 3x entre x = 0 y x = 1?|1/2|3|5/2|3/2|3|Es un triángulo de base 1 y altura 3: 3/2.
+Calculá la integral definida de 0 a 4 de 2x² + 3 dx.|164/3|167/3|35|16|0|Se integra término a término y se evalúa entre 0 y 4: el resultado es 164/3.
+Calculá la integral definida de 0 a 3 de 2x² − 4x + 3 dx.|9|−9|8|10|0|Se integra término a término y se evalúa entre 0 y 3: el resultado es 9.
+Calculá la integral definida de 0 a 1 de (2x + 2)⁴ dx.|501/5|496/5|512/5|240|1|Primitiva: (2x + 2)⁵/(2·5); se evalúa entre 0 y 1: 496/5.
+Calculá la integral definida de 0 a 1 de (4x + 0)³ dx.|17|15|16|64|2|Primitiva: (4x + 0)⁴/(4·4); se evalúa entre 0 y 1: 16.
+Calculá la integral definida de 0 a 3 de 3x² + 2x − 1 dx.|32|33|34|20|1|Se integra término a término y se evalúa entre 0 y 3: el resultado es 33.
+¿Cuál es el área bajo la recta y = 3x entre x = 0 y x = 2?|12|7|6|3|2|Es un triángulo de base 2 y altura 6: 6.
+¿Qué representa la integral definida de una función positiva?|El máximo|El área bajo la curva|La pendiente|La derivada|1|Entre los límites de integración.
+¿Qué enuncia el teorema fundamental del cálculo?|F(a) = F(b)|La integral definida de f de a a b es F(b) − F(a)|La derivada de una constante es 0|La integral siempre es positiva|1|Relaciona derivadas e integrales.
+Calculá la integral definida de 2 a 4 de x⁴ dx.|997/5|240|992/5|1024|2|Primitiva: 1·x⁵/5; se evalúa entre 2 y 4: 992/5.
+Un móvil tiene velocidad v(t) = 0 + 2t (en m/s). ¿Qué distancia recorre en los primeros 10 s?|100 m|20 m|110 m|101 m|0|La distancia es la integral de v: 0t + 2t²/2 evaluada en 10 da 100 m.
+¿Cuál es la integral de 1/x (para x > 0)?|ln x + C|1/x² + C|e^x + C|x + C|0|Es la inversa de la derivada de ln.
+¿Cuál es el área encerrada entre y = x² e y = 5x?|125/6|125|25/2|125/3|0|Se cortan en x = 0 y x = 5; el área es ∫(5x − x²)dx = 5³/2 − 5³/3 = 125/6.
+Calculá la integral definida de 0 a π de 2·sen x dx.|2|4|−4|0|1|Una primitiva es −2 cos x: −2(cos π − cos 0) = −2(−2) = 4.
+¿Qué valor tiene una integral definida cuando los límites son iguales?|1|0|El valor de la función|Infinito|1|No hay área.
+Calculá la integral definida de 0 a π de 5·sen x dx.|10|−10|0|5|0|Una primitiva es −5 cos x: −5(cos π − cos 0) = −5(−2) = 10.
+¿Cuál es el área encerrada entre y = x² e y = 2x?|8/3|8|2|4/3|3|Se cortan en x = 0 y x = 2; el área es ∫(2x − x²)dx = 2³/2 − 2³/3 = 4/3.
+Calculá la integral definida de 0 a π de 1·sen x dx.|2|1|0|−2|0|Una primitiva es −1 cos x: −1(cos π − cos 0) = −1(−2) = 2.
+Calculá la integral definida de 0 a 1 de e^(4x) dx y expresá el resultado.|e⁴ − 1|(e⁴ − 1)/4|e⁴/4|4(e⁴ − 1)|1|Primitiva: e^(4x)/4; entre 0 y 1: (e⁴ − 1)/4.
+Un móvil tiene velocidad v(t) = 3 + 3t (en m/s). ¿Qué distancia recorre en los primeros 2 s?|14 m|12 m|6 m|9 m|1|La distancia es la integral de v: 3t + 3t²/2 evaluada en 2 da 12 m.
+Un móvil tiene velocidad v(t) = 0 + 5t (en m/s). ¿Qué distancia recorre en los primeros 2 s?|11 m|12 m|10 m|9 m|2|La distancia es la integral de v: 0t + 5t²/2 evaluada en 2 da 10 m.
+¿Cuál es el área encerrada entre y = x² e y = 4x?|64|32/3|8|64/3|1|Se cortan en x = 0 y x = 4; el área es ∫(4x − x²)dx = 4³/2 − 4³/3 = 32/3.
+Calculá la integral definida de 0 a 1 de e^(2x) dx y expresá el resultado.|e²/2|2(e² − 1)|(e² − 1)/2|e² − 1|2|Primitiva: e^(2x)/2; entre 0 y 1: (e² − 1)/2.
+¿Cuál es el área encerrada entre y = x² e y = 3x?|27|9|11/2|9/2|3|Se cortan en x = 0 y x = 3; el área es ∫(3x − x²)dx = 3³/2 − 3³/3 = 9/2.
+Calculá la integral definida de 0 a 1 de e^(3x) dx y expresá el resultado.|3(e³ − 1)|(e³ − 1)/3|e³/3|e³ − 1|1|Primitiva: e^(3x)/3; entre 0 y 1: (e³ − 1)/3.

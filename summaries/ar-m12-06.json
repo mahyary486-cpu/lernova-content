@@ -1,0 +1,5 @@
+{
+ "Unidad imaginaria y forma binómica": "La unidad imaginaria i cumple i² = −1. Un número complejo se escribe z = a + bi, con parte real a y parte imaginaria b. Se suman y restan término a término y se multiplican aplicando i² = −1. El conjugado de a + bi es a − bi y z·z̄ = a² + b².",
+ "División, módulo y ecuaciones": "Para dividir se multiplica numerador y denominador por el conjugado del denominador. El módulo |z| = √(a² + b²) es la distancia al origen. Las ecuaciones de segundo grado con discriminante negativo tienen dos soluciones complejas conjugadas: x = (−b ± i√(−Δ))/(2a).",
+ "Forma polar y plano complejo": "Cada número complejo se representa en el plano como un punto o vector. En forma polar z = r(cos θ + i sen θ), con r el módulo y θ el argumento. El producto multiplica los módulos y suma los argumentos. La fórmula de De Moivre permite calcular potencias y raíces."
+}

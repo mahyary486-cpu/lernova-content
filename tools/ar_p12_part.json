@@ -1,0 +1,120 @@
+{
+ "year": "2026-2027",
+ "grades": [
+  {
+   "grade": 12,
+   "country": "AR",
+   "subject": "Physics",
+   "chapters": [
+    {
+     "id": "ar-p12-01",
+     "title": "Dinámica de la rotación del cuerpo rígido",
+     "lessons": [
+      {
+       "id": "ar-p12-01-01",
+       "title": "Torque y equilibrio"
+      },
+      {
+       "id": "ar-p12-01-02",
+       "title": "Momento de inercia y segunda ley de la rotación"
+      },
+      {
+       "id": "ar-p12-01-03",
+       "title": "Momento angular y su conservación"
+      }
+     ]
+    },
+    {
+     "id": "ar-p12-02",
+     "title": "Dinámica de fluidos",
+     "lessons": [
+      {
+       "id": "ar-p12-02-01",
+       "title": "Caudal y ecuación de continuidad"
+      },
+      {
+       "id": "ar-p12-02-02",
+       "title": "Ecuación de Bernoulli"
+      },
+      {
+       "id": "ar-p12-02-03",
+       "title": "Viscosidad y circulación"
+      }
+     ]
+    },
+    {
+     "id": "ar-p12-03",
+     "title": "Ondas electromagnéticas y espectro",
+     "lessons": [
+      {
+       "id": "ar-p12-03-01",
+       "title": "Naturaleza de las ondas electromagnéticas"
+      },
+      {
+       "id": "ar-p12-03-02",
+       "title": "Espectro electromagnético y aplicaciones"
+      },
+      {
+       "id": "ar-p12-03-03",
+       "title": "Comunicaciones y astronomía"
+      }
+     ]
+    },
+    {
+     "id": "ar-p12-04",
+     "title": "Introducción a la física cuántica",
+     "lessons": [
+      {
+       "id": "ar-p12-04-01",
+       "title": "Cuantización y efecto fotoeléctrico"
+      },
+      {
+       "id": "ar-p12-04-02",
+       "title": "Dualidad onda-partícula"
+      },
+      {
+       "id": "ar-p12-04-03",
+       "title": "Átomo de Bohr y espectros"
+      }
+     ]
+    },
+    {
+     "id": "ar-p12-05",
+     "title": "Relatividad especial",
+     "lessons": [
+      {
+       "id": "ar-p12-05-01",
+       "title": "Postulados y dilatación del tiempo"
+      },
+      {
+       "id": "ar-p12-05-02",
+       "title": "Contracción de la longitud y relatividad de la simultaneidad"
+      },
+      {
+       "id": "ar-p12-05-03",
+       "title": "Masa, energía y relatividad general"
+      }
+     ]
+    },
+    {
+     "id": "ar-p12-06",
+     "title": "Física nuclear y radiactividad",
+     "lessons": [
+      {
+       "id": "ar-p12-06-01",
+       "title": "El núcleo atómico y la radiactividad"
+      },
+      {
+       "id": "ar-p12-06-02",
+       "title": "Desintegración y vida media"
+      },
+      {
+       "id": "ar-p12-06-03",
+       "title": "Fisión, fusión y energía nuclear"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

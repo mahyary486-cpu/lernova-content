@@ -1,0 +1,5 @@
+{
+ "Probabilidad condicional y teorema de Bayes": "La probabilidad condicional de B dado A es P(B dado A) = P(A∩B)/P(A). Dos sucesos son independientes si P(A∩B) = P(A)·P(B). El teorema de la probabilidad total y el de Bayes permiten actualizar probabilidades con nueva información, por ejemplo en tests diagnósticos.",
+ "Distribución binomial": "Una variable binomial cuenta los éxitos en n ensayos independientes con probabilidad de éxito p: P(X = k) = C(n,k)·pᵏ·(1 − p)ⁿ⁻ᵏ. Su esperanza es n·p y su varianza n·p·(1 − p). Se aplica a lanzamientos de monedas, controles de calidad y encuestas.",
+ "Distribución normal e inferencia": "La distribución normal tiene forma de campana y queda determinada por la media μ y el desvío σ. La estandarización z = (x − μ)/σ permite usar tablas. Regla empírica: 68 %, 95 % y 99,7 % dentro de 1, 2 y 3 desvíos. Los intervalos de confianza estiman parámetros a partir de muestras."
+}

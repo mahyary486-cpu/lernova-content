@@ -1,0 +1,5 @@
+{
+ "Definición de derivada y su interpretación": "La derivada de f en a es el límite del cociente incremental: f'(a) = lim [f(a + h) − f(a)]/h. Geométricamente es la pendiente de la recta tangente al gráfico en el punto, y físicamente es la velocidad instantánea de variación. La recta tangente es y = f(a) + f'(a)(x − a).",
+ "Reglas de derivación": "Reglas básicas: (xⁿ)' = n·xⁿ⁻¹, (c)' = 0, suma y diferencia término a término, producto (f·g)' = f'g + fg', cociente (f/g)' = (f'g − fg')/g² y cadena (f∘g)' = f'(g)·g'. Derivadas usuales: (sen x)' = cos x, (cos x)' = −sen x, (eˣ)' = eˣ, (ln x)' = 1/x.",
+ "Derivadas sucesivas y recta tangente": "La derivada de la derivada es la derivada segunda f''. Se usa para estudiar la curvatura: si f'' > 0 la función es convexa (cóncava hacia arriba) y si f'' < 0, cóncava hacia abajo. La recta tangente permite aproximar la función cerca del punto de tangencia."
+}

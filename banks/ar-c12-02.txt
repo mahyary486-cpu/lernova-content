@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué función cumplen las enzimas?|Aportan energía directa|Almacenan información genética|Forman las membranas|Son catalizadores biológicos|3|Aceleran reacciones sin consumirse.
+¿Cuáles son las unidades del ADN?|Nucleótidos|Aminoácidos|Monosacáridos|Ácidos grasos|0|Cada uno tiene azúcar, fosfato y base nitrogenada.
+¿Cuáles son las unidades de las proteínas?|Nucleótidos|Ácidos grasos|Monosacáridos|Aminoácidos|3|Se unen por enlaces peptídicos.
+¿Cuál es un monosacárido?|Celulosa|Glucosa|Almidón|Sacarosa|1|Es un azúcar simple de fórmula C6H12O6.
+¿Cuál es el monómero del PVC?|Etileno|Cloruro de vinilo|Estireno|Tetrafluoroetileno|1|El PVC es el policloruro de vinilo.
+¿Qué es un polímero?|Un átomo|Una macromolécula formada por muchas unidades repetidas|Una molécula pequeña|Una sal|1|Las unidades se llaman monómeros.
+¿Cuál es el monómero del polietileno?|Propileno|Etileno|Estireno|Cloruro de vinilo|1|CH2=CH2 se une en largas cadenas.
+¿Qué monosacáridos forman la sacarosa?|Glucosa y galactosa|Glucosa y fructosa|Dos glucosas|Fructosa y galactosa|1|Es el azúcar de mesa.
+¿Cuáles son las moléculas que forman la mayor parte de las grasas?|Polisacáridos|Aminoácidos|Nucleótidos|Triglicéridos|3|Glicerol con tres ácidos grasos.
+¿Qué son los carbohidratos?|Proteínas|Grasas|Ácidos nucleicos|Compuestos como azúcares y almidón, fuente de energía|3|Se componen de C, H y O.
+Un polímero tiene 1000 unidades de un monómero de 28 g/mol. ¿Cuál es su masa molar aproximada?|28 g/mol|2800 g/mol|1000 g/mol|28 000 g/mol|3|28 × 1000 = 28 000 g/mol.
+¿Qué dos grupos funcionales tiene todo aminoácido?|Éster y éter|Amida y amina solamente|Hidroxilo y carbonilo|Amino y carboxilo|3|Ambos reaccionan para formar el enlace peptídico.
+¿Qué diferencia a la celulosa del almidón?|El elemento que contienen|Su color|Las unidades de que están hechos|El tipo de enlace glucosídico entre las glucosas|3|Ambos son polímeros de glucosa, pero con enlaces distintos.
+¿Qué es la saponificación?|La polimerización del etileno|La formación de un éster|La combustión de una grasa|La hidrólisis básica de un triglicérido que produce jabón y glicerol|3|Se usa para fabricar jabones.
+¿Cuántas moléculas de agua se liberan al formar un tripéptido a partir de 3 aminoácidos?|1|3|2|0|2|Se forman 2 enlaces peptídicos y cada uno libera una molécula de agua.
+¿Cuántos enlaces peptídicos tiene una cadena de 100 aminoácidos?|101|99|50|100|1|Una cadena de n aminoácidos tiene n − 1 enlaces.
+¿Qué tipo de polimerización forma el nailon?|Por oxidación|Por adición|Por combustión|Por condensación|3|Se libera agua al formar enlaces amida.
+¿Qué tipo de polimerización forma el polietileno?|Por adición|Por condensación|Por fermentación|Por hidrólisis|0|Se abren dobles enlaces sin perder moléculas.
+¿Qué es la desnaturalización de una proteína?|Su digestión completa|La pérdida de su estructura tridimensional y su función|Su síntesis|La ruptura de todos los enlaces peptídicos|1|Puede deberse al calor o a un pH extremo.
+¿Qué es un ácido graso saturado?|Uno sin carbono|Uno con aminoácidos|Uno con varios dobles enlaces|Uno sin dobles enlaces entre carbonos|3|Suelen ser sólidos a temperatura ambiente.
+¿Cuántos puentes de hidrógeno hay entre citosina y guanina?|3|2|1|4|0|Entre A y T hay 2.
+¿Qué es un bioplástico?|Un vidrio|Un plástico de origen biológico o biodegradable|Un metal|Un plástico sin carbono|1|Por ejemplo, el ácido poliláctico (PLA).
+¿Qué bases nitrogenadas se aparean en el ADN?|A con G y C con T|A con T y C con G|A con U y C con G|A con C y G con T|1|Se unen por puentes de hidrógeno.
+¿Qué estructura de una proteína depende de los puentes de hidrógeno entre los grupos del esqueleto, como en la hélice alfa?|Secundaria|Primaria|Terciaria|Cuaternaria|0|La primaria es la secuencia de aminoácidos.
+¿Cuántos átomos de oxígeno tiene la glucosa?|1|6|5|12|1|Su fórmula es C6H12O6.
+¿Qué molécula es la principal moneda energética de la célula?|ARN|ADN|ATP|Glucosa|2|La hidrólisis de su enlace fosfato libera energía.
+¿Qué enlace une los nucleótidos en una cadena de ADN?|Enlace fosfodiéster|Enlace iónico|Enlace peptídico|Enlace glucosídico|0|Une el fosfato de un nucleótido con el azúcar del siguiente.
+¿Por qué los termoplásticos pueden reciclarse por fusión?|Son metales|Son solubles en agua|Son infusibles|Se ablandan al calentarse sin descomponerse|3|Los termorrígidos, en cambio, no se funden.
+¿Qué sucede con el enlace glucosídico en la digestión del almidón?|Se duplica|Se forma|Se oxida|Se hidroliza y libera glucosa|3|La amilasa cataliza esta ruptura.
+¿Qué código de reciclaje suele corresponder al PET en las botellas?|7|5|1|3|2|El PET es un poliéster de la tereftálico y el etilenglicol.

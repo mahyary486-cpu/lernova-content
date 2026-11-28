@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué es la clonación?|Una mutación|Mezclar especies|Una enfermedad|Obtener organismos genéticamente idénticos|3|Por ejemplo, la oveja Dolly.
+¿Qué técnica permite separar fragmentos de ADN por tamaño?|Centrifugación diferencial|Microscopía|Electroforesis en gel|Cromatografía de papel|2|Los fragmentos migran hacia el polo positivo.
+¿Qué enzimas cortan el ADN en sitios específicos?|Helicasas|Enzimas de restricción|ARN polimerasas|ADN ligasas|1|Se usan en la ingeniería genética.
+¿Qué proteína humana se produce con bacterias recombinantes?|Hemoglobina|Colágeno|Queratina|Insulina|3|Es un caso clásico de biotecnología.
+¿Qué es un plásmido?|Una proteína|Una molécula de ADN circular pequeña de bacterias|Un orgánulo|Un cromosoma humano|1|Se usa como vector.
+¿Qué es la biotecnología?|Una rama de la física|El uso de organismos o sus componentes para obtener productos o procesos|El estudio de los fósiles|El cultivo de rocas|1|Incluye la fermentación y la ingeniería genética.
+¿Para qué sirve la PCR?|Para cortar ADN|Para amplificar fragmentos de ADN|Para teñir células|Para leer proteínas|1|Reacción en cadena de la polimerasa.
+¿Qué enzima une fragmentos de ADN?|Lipasa|Helicasa|ADN ligasa|Enzima de restricción|2|Sella los enlaces fosfodiéster.
+¿Qué es un organismo transgénico?|Uno clonado sin cambios|Uno que lleva un gen de otra especie|Uno sin genes|Uno con mutación espontánea|1|Se modifica con técnicas de ADN recombinante.
+¿Qué es el genoma?|El conjunto completo del material genético de un organismo|Una proteína|Un solo gen|Un cromosoma sexual|0|Incluye genes y secuencias no codificantes.
+¿Qué hace el sistema CRISPR-Cas9?|Copia ARN mensajero|Sintetiza proteínas|Corta el ADN en un sitio guiado por un ARN|Fusiona células|2|Permite editar genes con precisión.
+¿Qué cultivo transgénico es muy difundido en Argentina?|El arroz dorado|La soja|La papa azul|El té|1|Argentina es uno de los principales productores.
+¿Qué es la secuenciación del ADN?|Fotografiar células|Cortar el ADN|Contar cromosomas|Determinar el orden de las bases nitrogenadas|3|El Proyecto Genoma Humano la usó.
+¿Por qué la PCR usa la polimerasa Taq?|Corta ADN|Resiste altas temperaturas|Es muy lenta|Funciona solo en frío|1|Proviene de la bacteria termófila Thermus aquaticus.
+¿Cuántos pares de bases tiene aproximadamente el genoma humano?|Unos 3000 millones|Unos 300|Unos 30 000|Unos 3 millones|0|Contiene alrededor de 20 000 genes.
+¿Qué es el ADN complementario (ADNc)?|ADN con intrones|ADN sintetizado a partir de ARN mensajero|ADN viral|ADN mitocondrial|1|Se obtiene con transcriptasa inversa.
+¿Qué es un vector de clonación?|Un mosquito transmisor|Un anticuerpo|Una molécula que transporta un gen a una célula huésped|Una enzima digestiva|2|Por ejemplo, plásmidos y virus modificados.
+¿Qué estudia la genómica?|Los ecosistemas|El conjunto de genes y su interacción|Los fósiles|Solo un gen aislado|1|Utiliza secuenciación masiva.
+Si un fragmento se duplica en cada ciclo, ¿cuántas copias hay tras 5 ciclos a partir de 1 molécula?|10|16|32|25|2|2⁵ = 32.
+¿Qué tres pasos se repiten en cada ciclo de PCR?|Mitosis, meiosis y fusión|Transcripción, traducción y replicación|Corte, pegado y lectura|Desnaturalización, hibridación y extensión|3|Se usan temperaturas distintas.
+¿Qué es una célula madre pluripotente?|Solo forma un tipo de célula|Puede originar casi todos los tipos celulares del organismo|Es una célula muerta|No se divide|1|Tiene uso en medicina regenerativa.
+¿Qué diferencia a la edición genética de la transgénesis?|La transgénesis edita sin cortar|La edición modifica el genoma propio en un sitio específico sin necesariamente agregar genes ajenos|La edición solo se hace en virus|No hay diferencia alguna|1|Ambas pueden usarse, con distinto alcance.
+¿Qué riesgo ambiental se discute en los cultivos transgénicos?|El exceso de agua|La transferencia de genes a especies silvestres y la pérdida de biodiversidad|La ausencia de insectos|La falta de fotosíntesis|1|Debe evaluarse caso por caso.
+¿Qué hace la transcriptasa inversa?|Corta proteínas|Une aminoácidos|Sintetiza ADN a partir de ARN|Sintetiza ARN a partir de ADN|2|La poseen los retrovirus.
+¿Por qué las enzimas de restricción generan extremos cohesivos útiles?|Porque destruyen el ADN|Porque agregan proteínas|Porque los extremos complementarios se aparean con otros fragmentos cortados igual|Porque solo cortan ARN|2|Facilitan el pegado con ligasa.
+¿Qué ventaja ofrece el análisis del ADN en la identificación de personas?|Cada persona, salvo gemelos idénticos, tiene un perfil único|Todos tienen igual perfil|Cambia con la edad|Solo sirve para animales|0|Se usa en casos forenses y de filiación.
+¿Qué es la terapia génica?|Un análisis de sangre|Un tipo de dieta|Tomar vitaminas|Introducir o corregir genes para tratar una enfermedad|3|Busca corregir enfermedades hereditarias.
+¿Qué es la biología sintética?|El estudio de fósiles|Una técnica de cocina|La síntesis de plásticos únicamente|El diseño de sistemas biológicos nuevos o rediseñados|3|Combina ingeniería y biología.
+¿Qué permite la técnica de microarrays o chips de ADN?|Analizar la expresión de miles de genes a la vez|Contar bacterias|Cortar cromosomas|Medir la temperatura|0|Compara células sanas y enfermas.
+¿Por qué se usan marcadores de resistencia a antibióticos en la clonación?|Para seleccionar las bacterias que incorporaron el plásmido|Para acelerar la PCR|Para teñir el ADN|Para matar todas las bacterias|0|Solo sobreviven las transformadas.

@@ -1,0 +1,5 @@
+{
+ "Calor y entalpía": "El primer principio establece que la energía se conserva. A presión constante, el calor intercambiado es la variación de entalpía ΔH: negativa en reacciones exotérmicas y positiva en las endotérmicas. El calor se calcula con Q = m·c·ΔT y la entalpía de reacción con las entalpías de formación.",
+ "Ley de Hess y entropía": "La ley de Hess indica que el ΔH total de una reacción no depende del camino, de modo que se puede sumar los ΔH de etapas. Al invertir una reacción cambia el signo del ΔH. La entropía S mide el desorden: aumenta en fusiones, disoluciones y reacciones que producen más moles de gas; el segundo principio indica que la entropía del universo aumenta en los procesos espontáneos.",
+ "Energía libre de Gibbs y espontaneidad": "La energía libre de Gibbs ΔG = ΔH − T·ΔS predice la espontaneidad: si ΔG < 0 el proceso es espontáneo, si ΔG = 0 hay equilibrio y si ΔG > 0 no es espontáneo. Con ΔH < 0 y ΔS > 0 siempre es espontánea; con ΔH > 0 y ΔS < 0 nunca. Además, ΔG° = −R·T·ln K relaciona la termodinámica con el equilibrio."
+}

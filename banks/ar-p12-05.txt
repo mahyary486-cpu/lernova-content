@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Cuáles son los postulados de la relatividad especial?|Las leyes de la física son iguales en todo sistema inercial y la velocidad de la luz es constante|La luz depende del observador|El tiempo es absoluto|El espacio es absoluto|0|Son la base de la teoría.
+¿Cuánta energía equivale a 5 kg de masa según E = mc²? (c = 3 × 10⁸ m/s)|45 × 10¹⁶ J|450 × 10¹⁶ J|9/2 × 10¹⁶ J|15 × 10¹⁶ J|0|E = m·c² = 5 · 9×10¹⁶ = 45 × 10¹⁶ J.
+¿Cuánta energía equivale a 0,001 kg de masa según E = mc²? (c = 3 × 10⁸ m/s)|0,009 × 10¹⁶ J|9/10000 × 10¹⁶ J|9/100 × 10¹⁶ J|3/1000 × 10¹⁶ J|0|E = m·c² = 0,001 · 9×10¹⁶ = 0,009 × 10¹⁶ J.
+¿Cuánta energía equivale a 10 kg de masa según E = mc²? (c = 3 × 10⁸ m/s)|30 × 10¹⁶ J|900 × 10¹⁶ J|90 × 10¹⁶ J|9 × 10¹⁶ J|2|E = m·c² = 10 · 9×10¹⁶ = 90 × 10¹⁶ J.
+¿Cuánta energía equivale a 1 kg de masa según E = mc²? (c = 3 × 10⁸ m/s)|90 × 10¹⁶ J|9/10 × 10¹⁶ J|9 × 10¹⁶ J|3 × 10¹⁶ J|2|E = m·c² = 1 · 9×10¹⁶ = 9 × 10¹⁶ J.
+¿Quién formuló la teoría de la relatividad especial?|Newton|Einstein|Maxwell|Galileo|1|La publicó en 1905.
+¿Cuánta energía equivale a 0,5 kg de masa según E = mc²? (c = 3 × 10⁸ m/s)|4,5 × 10¹⁶ J|3/2 × 10¹⁶ J|9/20 × 10¹⁶ J|45 × 10¹⁶ J|0|E = m·c² = 0,5 · 9×10¹⁶ = 4,5 × 10¹⁶ J.
+¿Qué dice la ecuación E = mc²?|La masa y la energía son equivalentes|La masa es nula|La energía no se conserva|La luz tiene masa|0|Una pequeña masa equivale a mucha energía.
+Una nave se mueve a 0,28 c respecto de la Tierra. Un reloj de la nave mide un intervalo propio de 12 años. ¿Cuántos años transcurren para un observador en la Tierra?|3,36 años|12,5 años|13 años|11,52 años|1|Dilatación del tiempo: Δt = γ·Δt₀ con γ = 1/√(1 − v²/c²) = 1,042: 12,5 años.
+¿Qué fue detectado por primera vez en 2015 por LIGO?|Neutrinos|Ondas gravitacionales|Agujeros blancos|Materia oscura|1|Provenían de la fusión de dos agujeros negros.
+¿Qué ocurre con la longitud de un objeto en movimiento respecto del observador?|Se estira|No cambia|Se duplica|Se contrae en la dirección del movimiento|3|Es la contracción de Lorentz.
+Una nave se mueve a 0,8 c respecto de la Tierra. Un reloj de la nave mide un intervalo propio de 12 años. ¿Cuántos años transcurren para un observador en la Tierra?|9,6 años|13 años|20 años|7,2 años|2|Dilatación del tiempo: Δt = γ·Δt₀ con γ = 1/√(1 − v²/c²) = 1,667: 20 años.
+¿Cuál es el factor de Lorentz γ para v = 0,28 c?|24/25|32/25|7/25|1,042|3|γ = 1/√(1 − 0,28²) = 1,042.
+Una nave se mueve a 0,8 c respecto de la Tierra. Un reloj de la nave mide un intervalo propio de 2 años. ¿Cuántos años transcurren para un observador en la Tierra?|3 años|1,6 años|3,333 años|1,2 años|2|Dilatación del tiempo: Δt = γ·Δt₀ con γ = 1/√(1 − v²/c²) = 1,667: 3,333 años.
+Una nave se mueve a 0,6 c respecto de la Tierra. Un reloj de la nave mide un intervalo propio de 24 años. ¿Cuántos años transcurren para un observador en la Tierra?|30 años|25 años|14,4 años|19,2 años|0|Dilatación del tiempo: Δt = γ·Δt₀ con γ = 1/√(1 − v²/c²) = 1,25: 30 años.
+¿Cuál es el factor de Lorentz γ para v = 0,6 c?|3/5|8/5|4/5|1,25|3|γ = 1/√(1 − 0,6²) = 1,25.
+Una nave se mueve a 0,6 c respecto de la Tierra. Un reloj de la nave mide un intervalo propio de 12 años. ¿Cuántos años transcurren para un observador en la Tierra?|7,2 años|9,6 años|13 años|15 años|3|Dilatación del tiempo: Δt = γ·Δt₀ con γ = 1/√(1 − v²/c²) = 1,25: 15 años.
+¿Cuál es el factor de Lorentz γ para v = 0,96 c?|49/25|3,571|7/25|24/25|1|γ = 1/√(1 − 0,96²) = 3,571.
+¿Cuál es el factor de Lorentz γ para v = 0,8 c?|1,667|9/5|4/5|3/5|0|γ = 1/√(1 − 0,8²) = 1,667.
+¿Qué ocurre con el tiempo en un sistema que se mueve a gran velocidad respecto del observador?|No cambia|Transcurre más rápido|Se detiene siempre|Transcurre más lentamente|3|Es la dilatación temporal.
+Una barra tiene longitud propia de 30 m. Si se mueve a 0,28 c en la dirección de su longitud, ¿cuánto mide para un observador en reposo?|28,8 m|29 m|31,25 m|8,4 m|0|Contracción de la longitud: L = L₀/γ = 30/1,042 = 28,8 m.
+Una partícula de masa en reposo 5 kg se mueve a 0,8 c. ¿Cuál es su energía total? (c² = 9 × 10¹⁶ m²/s²)|45 × 10¹⁶ J|125 × 10¹⁶ J|75 × 10¹⁶ J|75/2 × 10¹⁶ J|2|E = γ·m₀·c² = 1,667 · 5 · 9×10¹⁶ = 75 × 10¹⁶ J.
+Una barra tiene longitud propia de 60 m. Si se mueve a 0,6 c en la dirección de su longitud, ¿cuánto mide para un observador en reposo?|59 m|36 m|48 m|75 m|2|Contracción de la longitud: L = L₀/γ = 60/1,25 = 48 m.
+¿Por qué el GPS debe corregir los efectos relativistas?|Porque los satélites no se mueven|Porque no hay señal|Porque la luz es lenta|Porque los relojes de los satélites se desfasan respecto de los de la Tierra|3|Sin corrección el error crecería varios kilómetros por día.
+¿Cómo se confirma la dilatación temporal en la práctica?|Con la balanza|Con el péndulo|Con los muones atmosféricos y los relojes atómicos en aviones|No se confirmó|2|Es una teoría verificada.
+Una barra tiene longitud propia de 20 m. Si se mueve a 0,28 c en la dirección de su longitud, ¿cuánto mide para un observador en reposo?|19,2 m|19 m|20,833 m|5,6 m|0|Contracción de la longitud: L = L₀/γ = 20/1,042 = 19,2 m.
+Una barra tiene longitud propia de 20 m. Si se mueve a 0,6 c en la dirección de su longitud, ¿cuánto mide para un observador en reposo?|16 m|19 m|12 m|25 m|0|Contracción de la longitud: L = L₀/γ = 20/1,25 = 16 m.
+¿Qué predice la relatividad general?|Que la gravedad es la curvatura del espaciotiempo|Que la gravedad es una fuerza instantánea|Que no hay gravedad|Que la luz tiene masa|0|Fue confirmada con las ondas gravitacionales.
+Una partícula de masa en reposo 2 kg se mueve a 0,8 c. ¿Cuál es su energía total? (c² = 9 × 10¹⁶ m²/s²)|30 × 10¹⁶ J|18 × 10¹⁶ J|50 × 10¹⁶ J|15 × 10¹⁶ J|0|E = γ·m₀·c² = 1,667 · 2 · 9×10¹⁶ = 30 × 10¹⁶ J.
+Una barra tiene longitud propia de 60 m. Si se mueve a 0,28 c en la dirección de su longitud, ¿cuánto mide para un observador en reposo?|59 m|62,5 m|16,8 m|57,6 m|3|Contracción de la longitud: L = L₀/γ = 60/1,042 = 57,6 m.

@@ -1,0 +1,56 @@
+#EEEEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHHH
+¿Cuál es la pendiente de la recta y = 6x − 1?|−1|5|6|−6|2|La derivada de ax + c es a.
+Si f(x) = 3x³, ¿cuánto vale f'(2)?|24|36|72|12|1|f'(x) = 9·x², y f'(2) = 36.
+Si f(x) = 2x³ + 5x² + 4x + 3, ¿cuánto vale f'(−2)?|8|9|48|−1|0|f'(x) = 6x² + 10x + 4 y f'(−2) = 8.
+¿Cuál es la derivada de f(x) = −4?|0|1|x|−4|0|La derivada de una constante es 0.
+Si f(x) = 2x³, ¿cuánto vale f'(−2)?|−48|−16|12|24|3|f'(x) = 6·x², y f'(−2) = 24.
+Si f(x) = 5x³, ¿cuánto vale f'(−2)?|12|60|−40|−120|1|f'(x) = 15·x², y f'(−2) = 60.
+Si f(x) = 2x³ − 3x² − 6x − 6, ¿cuánto vale f'(2)?|30|7|6|−14|2|f'(x) = 6x² − 6x − 6 y f'(2) = 6.
+¿Cuál es la pendiente de la recta y = −5x + 5?|0|−5|5|−4|1|La derivada de ax + c es a.
+Si f(x) = 3x³ − 2x² − 5x + 7, ¿cuánto vale f'(−2)?|40|39|23|−15|1|f'(x) = 9x² − 4x − 5 y f'(−2) = 39.
+¿Cuál es la pendiente de la recta y = 6x − 3?|6|−3|−6|3|0|La derivada de ax + c es a.
+Si f(x) = 2x³ − 5x² + 6x − 1, ¿cuánto vale f'(2)?|50|7|11|10|3|f'(x) = 6x² − 10x + 6 y f'(2) = 10.
+Si f(x) = x⁵, ¿cuánto vale f'(2)?|160|80|81|32|1|f'(x) = 5·x⁴, y f'(2) = 80.
+¿Cuál es la pendiente de la recta y = 4x − 5?|−1|4|−4|−5|1|La derivada de ax + c es a.
+Si f(x) = 3x³ + 4x² + 5x + 7, ¿cuánto vale f'(0)?|5|4|7|6|0|f'(x) = 9x² + 8x + 5 y f'(0) = 5.
+¿Qué representa la derivada de una función en un punto?|La pendiente de la recta tangente|El área bajo la curva|La altura de la curva|El valor de la función|0|Es el límite del cociente incremental.
+Si f(x) = 4x³ − 3x² − x + 4, ¿cuánto vale f'(1)?|4|6|5|17|2|f'(x) = 12x² − 6x − 1 y f'(1) = 5.
+Si f(x) = 6x³, ¿cuánto vale f'(0)?|0|1|−1|2|0|f'(x) = 18·x², y f'(0) = 0.
+¿Cuál es la derivada de f(x) = x²?|x|2x|2|x²|1|Regla de la potencia.
+¿Cuál es la derivada de f(x) = 6?|x|6|0|1|2|La derivada de una constante es 0.
+Derivá f(x) = (2x + 1)(2x² − 1) y calculá f'(−1).|−8|2|6|8|2|Regla del producto: f' = 2(2x² − 1) + (2x + 1)·4x; en x = −1 da 6.
+Calculá la derivada de f(x) = (2x + 4)/x en x = 4.|−1/4|3/4|1/4|2|0|f(x) = 2 + 4/x, entonces f'(x) = −4/x² y f'(4) = −1/4.
+Calculá la derivada de f(x) = (4x − 1)⁴ en x = 1.|108|324|1296|432|3|Regla de la cadena: f'(x) = 4(4x − 1)³·4; en x = 1 da 432.
+Calculá la derivada de f(x) = (2x + 2)² en x = 1.|64|16|32|8|1|Regla de la cadena: f'(x) = 2(2x + 2)·2; en x = 1 da 16.
+¿Qué dice la regla del producto?|(f·g)' = f'·g'|(f·g)' = f' + g'|(f·g)' = f'·g + f·g'|(f·g)' = f·g|2|Es una regla fundamental.
+Derivá f(x) = (4x + 1)(x² − 1) y calculá f'(−2).|44|40|−16|12|1|Regla del producto: f' = 4(x² − 1) + (4x + 1)·2x; en x = −2 da 40.
+Calculá la derivada de f(x) = (4x + 4)/x en x = 4.|4|1/4|−1/4|3/4|2|f(x) = 4 + 4/x, entonces f'(x) = −4/x² y f'(4) = −1/4.
+Si f(x) = sen(2x), ¿cuánto vale f'(0)?|1|4|2|0|2|f'(x) = 2·cos(2x) y cos 0 = 1, entonces f'(0) = 2.
+Calculá la derivada de f(x) = (5x + 1)/x en x = 2.|1/4|5|9/4|−1/4|3|f(x) = 5 + 1/x, entonces f'(x) = −1/x² y f'(2) = −1/4.
+Derivá f(x) = (3x + 1)(x² − 1) y calculá f'(1).|11|8|6|0|1|Regla del producto: f' = 3(x² − 1) + (3x + 1)·2x; en x = 1 da 8.
+Si f(x) = sen(4x), ¿cuánto vale f'(0)?|0|4|16|1|1|f'(x) = 4·cos(4x) y cos 0 = 1, entonces f'(0) = 4.
+Calculá la derivada de f(x) = (3x + 2)/x en x = 4.|3|5/8|1/8|−1/8|3|f(x) = 3 + 2/x, entonces f'(x) = −2/x² y f'(4) = −1/8.
+Derivá f(x) = (4x + 1)(x² − 1) y calculá f'(3).|32|24|110|114|2|Regla del producto: f' = 4(x² − 1) + (4x + 1)·2x; en x = 3 da 110.
+Si f(x) = sen(3x), ¿cuánto vale f'(0)?|0|1|3|9|2|f'(x) = 3·cos(3x) y cos 0 = 1, entonces f'(0) = 3.
+¿Cuál es la derivada de sen x?|−sen x|−cos x|cos x|tg x|2|Es una derivada básica.
+Si f(x) = sen(5x), ¿cuánto vale f'(0)?|1|5|0|25|1|f'(x) = 5·cos(5x) y cos 0 = 1, entonces f'(0) = 5.
+Calculá la derivada de f(x) = (4x − 3)⁴ en x = 1.|17|16|4|15|1|Regla de la cadena: f'(x) = 4(4x − 3)³·4; en x = 1 da 16.
+Calculá la derivada de f(x) = (3x)³ en x = 1.|243|82|81|27|2|Regla de la cadena: f'(x) = 3(3x)²·3; en x = 1 da 81.
+Calculá la derivada de f(x) = (3x − 2)³ en x = 1.|3|10|8|9|3|Regla de la cadena: f'(x) = 3(3x − 2)²·3; en x = 1 da 9.
+¿Cuál es la ordenada al origen de la recta tangente a f(x) = x² + x + 2 en x = −1?|−1|0|1|2|2|f(−1) = 2, f'(−1) = −1: y = 2 + −1(x − −1), la ordenada al origen es 1.
+Si f(x) = 2x³ − 3x, ¿cuánto vale f''(0)?|−3|12|0|1|2|f' = 6x² − 3 y f'' = 12x; en x = 0 da 0.
+Si f(x) = 2x³ + 4x, ¿cuánto vale f''(3)?|58|36|12|108|1|f' = 6x² + 4 y f'' = 12x; en x = 3 da 36.
+¿En qué valor de x la recta tangente a f(x) = x² + 6x − 3 es horizontal?|−3|3|6|−2|0|f'(x) = 2x + 6 = 0 → x = −3.
+¿En qué valor de x la recta tangente a f(x) = 3x² − 4x − 3 es horizontal?|−2/3|−4/3|2/3|−4|2|f'(x) = 6x − 4 = 0 → x = 2/3.
+Si f(x) = 4x³ + 3x, ¿cuánto vale f''(3)?|72|24|216|111|0|f' = 12x² + 3 y f'' = 24x; en x = 3 da 72.
+Si f(x) = 3x³ − x, ¿cuánto vale f''(0)?|−1|0|1|18|1|f' = 9x² − 1 y f'' = 18x; en x = 0 da 0.
+¿Qué indica que f'(a) > 0?|Que f es decreciente|Que f es constante|Que f es creciente cerca de a|Que f tiene un máximo|2|La pendiente de la tangente es positiva.
+¿Cuál es la ordenada al origen de la recta tangente a f(x) = x² − x − 5 en x = 1?|1|−6|6|−5|1|f(1) = −5, f'(1) = 1: y = −5 + 1(x − 1), la ordenada al origen es −6.
+¿En qué valor de x la recta tangente a f(x) = 2x² + 2x + 4 es horizontal?|2|1|1/2|−1/2|3|f'(x) = 4x + 2 = 0 → x = −1/2.
+Si f(x) = ln x, ¿cuánto vale f'(2)?|1/4|0|2|1/2|3|La derivada de ln x es 1/x; en x = 2 es 1/2.
+Si f(x) = 4x³ + 4x, ¿cuánto vale f''(−1)?|−24|16|−23|24|0|f' = 12x² + 4 y f'' = 24x; en x = −1 da −24.
+¿En qué valor de x la recta tangente a f(x) = 2x² − 6x es horizontal?|−3|−3/2|3/2|−6|2|f'(x) = 4x − 6 = 0 → x = 3/2.
+Si f(x) = ln x, ¿cuánto vale f'(1)?|2|1|0|−1|1|La derivada de ln x es 1/x; en x = 1 es 1.
+¿Cuál es la ordenada al origen de la recta tangente a f(x) = x² − 2x + 3 en x = 2?|2|−1|3|1|1|f(2) = 3, f'(2) = 2: y = 3 + 2(x − 2), la ordenada al origen es −1.
+¿Cuál es la ordenada al origen de la recta tangente a f(x) = 2x² + 2x − 1 en x = −2?|−6|9|3|−9|3|f(−2) = 3, f'(−2) = −6: y = 3 + −6(x − −2), la ordenada al origen es −9.
+Si f(x) = ln x, ¿cuánto vale f'(3)?|3|1/9|1/3|0|2|La derivada de ln x es 1/x; en x = 3 es 1/3.

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué gas es el principal responsable del aumento del efecto invernadero por actividades humanas?|El dióxido de carbono|El oxígeno|El nitrógeno|El helio|0|Proviene de combustibles fósiles.
+¿Qué son los productores en una cadena trófica?|Parásitos|Descomponedores|Organismos que fabrican su alimento por fotosíntesis|Animales carnívoros|2|Son la base de la cadena.
+¿Qué nombre reciben los seres vivos que descomponen materia orgánica?|Productores|Carnívoros|Herbívoros|Descomponedores|3|Hongos y bacterias reciclan nutrientes.
+¿Qué es la biodiversidad?|La cantidad de agua|La variedad de seres vivos y ecosistemas|La cantidad de rocas|La temperatura media|1|Incluye diversidad genética, de especies y de ecosistemas.
+¿Qué es la deforestación?|La eliminación de bosques|El riego|El abono|La plantación de árboles|0|Contribuye al cambio climático.
+¿Qué fuente de energía es renovable?|El carbón|El gas natural|El petróleo|La solar|3|No se agota a escala humana.
+¿Qué es un ecosistema?|Una roca|Un conjunto de seres vivos y su ambiente que interactúan|Una sola especie|Un tipo de clima|1|Incluye factores bióticos y abióticos.
+¿Qué capa de la atmósfera protege de la radiación ultravioleta?|La hidrosfera|La troposfera|La capa de ozono|La ionosfera|2|Se vio dañada por los CFC.
+¿Qué significa reciclar?|Reprocesar materiales para volver a usarlos|Enterrar basura|Dejar residuos en la calle|Quemar residuos|0|Reduce el consumo de recursos.
+¿Qué es una especie en peligro de extinción?|La que es invasora|La que corre riesgo de desaparecer|La que es abundante|La que es doméstica|1|El yaguareté es un ejemplo en Argentina.
+¿Qué gas, además del CO₂, es un importante gas de efecto invernadero?|El helio|El argón|El metano|El neón|2|Proviene de la ganadería y de los arrozales.
+¿Qué es una especie invasora?|La que se introduce fuera de su área natural y afecta a las especies nativas|Una especie extinta|Una especie nativa|Una especie en cría|0|Por ejemplo, el castor en Tierra del Fuego.
+¿Cómo afecta el cambio climático a los glaciares?|No los afecta|Los hace crecer|Los vuelve más densos|Acelera su retroceso|3|Eso eleva el nivel del mar.
+¿Qué es el efecto invernadero?|La pérdida de calor al espacio|La lluvia ácida|El enfriamiento de la Tierra|La retención del calor en la atmósfera por ciertos gases|3|Es un fenómeno natural que se intensifica.
+¿Qué es un bioma?|Una especie|Una gran región con clima y vegetación característicos|Una enfermedad|Una célula|1|Por ejemplo, la selva o el desierto.
+¿Qué es la huella de carbono?|El peso de un árbol|La cantidad de gases de efecto invernadero emitidos por una actividad o persona|El tamaño del pie|El rastro de un animal|1|Se mide en toneladas de CO₂ equivalente.
+¿Qué es el desarrollo sostenible?|Detener toda actividad|Satisfacer necesidades actuales sin comprometer las de las futuras generaciones|Producir sin límite|Usar todos los recursos ahora|1|Combina economía, sociedad y ambiente.
+¿Qué porcentaje de energía de un nivel trófico pasa al siguiente, aproximadamente?|Un 10 %|Un 100 %|Un 90 %|Un 50 %|0|El resto se pierde como calor.
+¿Qué es la eutrofización?|La falta de nutrientes|El exceso de nutrientes en cuerpos de agua que provoca crecimiento de algas y falta de oxígeno|La salinización|El enfriamiento del agua|1|Los fertilizantes la favorecen.
+¿Qué es un sumidero natural de CO₂?|Un océano o un bosque que lo absorbe|Una fábrica|Un volcán inactivo|Una ciudad|0|Captura el carbono atmosférico.
+¿Qué es la economía circular?|Un impuesto|Un modelo que reduce residuos reutilizando y reciclando recursos|Un modelo de consumo lineal|Una moneda|1|Busca cerrar los ciclos de materiales.
+¿Qué acuerdo internacional busca limitar el calentamiento global muy por debajo de 2 °C?|La Convención de Ginebra|El Tratado de Tordesillas|El Acuerdo de París|La Carta Magna|2|Se adoptó en 2015.
+¿Por qué el aumento de CO₂ acidifica los océanos?|Porque agrega sales|Porque produce amoníaco|Porque al disolverse forma ácido carbónico|Porque calienta el fondo|2|Afecta a organismos con caparazón calcáreo.
+¿Qué consecuencia tiene la pérdida de biodiversidad en un ecosistema?|Mayor estabilidad|Menor estabilidad y resiliencia|Más especies|No hay cambios|1|Disminuyen los servicios ecosistémicos.
+¿Qué rol cumple el fitoplancton en el clima?|Fija CO₂ por fotosíntesis y produce parte del oxígeno|Solo es alimento|No participa|Libera todo el CO₂|0|Es un sumidero de carbono.
+¿Por qué las áreas protegidas son importantes?|Aumentan la erosión|Eliminan especies nativas|Conservan la biodiversidad y los servicios ecosistémicos|Impiden la ciencia|2|Argentina tiene parques nacionales como Iguazú.
+¿Qué ley argentina regula la protección de glaciares?|La Ley de Tránsito|La Ley de Educación|La Ley de Pesca únicamente|La Ley de Glaciares 26.639|3|Protege las reservas de agua.
+¿Qué diferencia hay entre mitigación y adaptación al cambio climático?|Mitigar reduce emisiones y adaptarse reduce los impactos|Adaptarse aumenta el calentamiento|Mitigar aumenta las emisiones|Son sinónimos|0|Ambas son necesarias.
+¿Qué es el ciclo del carbono?|Un ciclo del agua|El intercambio de carbono entre atmósfera, seres vivos, océanos y suelo|Un ciclo del nitrógeno|Un ciclo lunar|1|La quema de combustibles lo altera.
+¿Qué es un sumidero de carbono?|Una mina|Un sistema que absorbe más carbono del que emite|Una fuente de gas|Un desagüe|1|Los bosques son ejemplos.

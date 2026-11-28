@@ -1,0 +1,52 @@
+#EEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHHHHHH
+¿Cuál es el valor mínimo de f(x) = x² + 2?|3|−2|2|0|2|El mínimo se da en x = 0 y vale 2.
+¿En qué valor de x tiene un punto crítico f(x) = x² + 12x − 4?|−5|−6|6|12|1|f'(x) = 2x + 12 = 0 → x = −6.
+¿Cuál es el valor mínimo de f(x) = 3x² + 3x + 3?|−1/2|−9/4|9/4|3|2|El mínimo se da en x = −1/2 y vale 9/4.
+¿En qué valor de x tiene un punto crítico f(x) = x² + 4x − 4?|−2|4|−1|2|0|f'(x) = 2x + 4 = 0 → x = −2.
+¿Es creciente o decreciente f(x) = 3x + 5?|Constante|Creciente|Decreciente|Ninguna de las dos|1|La pendiente 3 es positiva.
+¿Cuál es el valor mínimo de f(x) = 4x² − x?|1/16|1/8|−1/16|0|2|El mínimo se da en x = 1/8 y vale −1/16.
+¿En qué valor de x tiene un punto crítico f(x) = 4x² + 4x + 2?|−1/2|1/2|4|1|0|f'(x) = 8x + 4 = 0 → x = −1/2.
+¿En qué valor de x tiene un punto crítico f(x) = 4x² + 4x − 3?|4|1|1/2|−1/2|3|f'(x) = 8x + 4 = 0 → x = −1/2.
+¿En qué valor de x tiene un punto crítico f(x) = x² + 12x − 2?|12|−6|−5|6|1|f'(x) = 2x + 12 = 0 → x = −6.
+¿Cuál es el valor mínimo de f(x) = 3x² − 2x + 1?|2/3|−2/3|1|1/3|0|El mínimo se da en x = 1/3 y vale 2/3.
+Si f'(a) = 0, a se llama:|Discontinuidad|Punto crítico|Asíntota|Raíz de f|1|En él la tangente es horizontal.
+¿Es creciente o decreciente f(x) = x − 6?|Ninguna de las dos|Decreciente|Creciente|Constante|2|La pendiente 1 es positiva.
+¿Cuál es el valor mínimo de f(x) = 2x² − 3x − 4?|41/8|−4|3/4|−41/8|3|El mínimo se da en x = 3/4 y vale −41/8.
+¿Es creciente o decreciente f(x) = 4x − 2?|Constante|Ninguna de las dos|Decreciente|Creciente|3|La pendiente 4 es positiva.
+En f(x) = x³ − 12x, ¿qué tipo de punto crítico es x = −2?|Máximo local|Punto de inflexión|Ninguno|Mínimo local|0|f''(x) = 6x; en x = −2 es −12 < 0: máximo local.
+En f(x) = x³ − 12x, ¿qué tipo de punto crítico es x = 2?|Punto de inflexión|Máximo local|Mínimo local|Ninguno|2|f''(x) = 6x; en x = 2 es 12 > 0: mínimo local.
+¿En qué valores de x tiene puntos críticos f(x) = x³ − 3x?|x = 3 y x = −3|x = 1 y x = −1|x = 3|x = 0 y x = 1|1|f'(x) = 3x² − 3 = 0 → x² = 1 → x = ±1.
+En f(x) = x³ − 27x, ¿qué tipo de punto crítico es x = 3?|Máximo local|Mínimo local|Ninguno|Punto de inflexión|1|f''(x) = 6x; en x = 3 es 18 > 0: mínimo local.
+¿En qué valores de x tiene puntos críticos f(x) = x³ − 12x?|x = 6 y x = −6|x = 0 y x = 2|x = 12|x = 2 y x = −2|3|f'(x) = 3x² − 12 = 0 → x² = 4 → x = ±2.
+En f(x) = x³ − 3x, ¿qué tipo de punto crítico es x = 1?|Máximo local|Ninguno|Punto de inflexión|Mínimo local|3|f''(x) = 6x; en x = 1 es 6 > 0: mínimo local.
+En f(x) = x³ − 3x, ¿qué tipo de punto crítico es x = −1?|Punto de inflexión|Máximo local|Mínimo local|Ninguno|1|f''(x) = 6x; en x = −1 es −6 < 0: máximo local.
+Si f'(a) = 0 y f''(a) > 0, entonces en a hay:|Un máximo local|Un punto de inflexión|Un mínimo local|Una asíntota|2|Criterio de la derivada segunda.
+Si f'(a) = 0 y f''(a) < 0, entonces en a hay:|Un máximo local|Una discontinuidad|Un mínimo local|Un punto de inflexión|0|La función es cóncava hacia abajo.
+Dos números positivos suman 60. ¿Cuál es el máximo valor de su producto?|60|1800|900|3600|2|Es máximo cuando ambos valen 30: 30·30 = 900.
+Dos números positivos suman 20. ¿Cuál es el máximo valor de su producto?|200|20|100|400|2|Es máximo cuando ambos valen 10: 10·10 = 100.
+¿En qué valores de x tiene puntos críticos f(x) = x³ − 27x?|x = 27|x = 9 y x = −9|x = 0 y x = 3|x = 3 y x = −3|3|f'(x) = 3x² − 27 = 0 → x² = 9 → x = ±3.
+En f(x) = x³ − 27x, ¿qué tipo de punto crítico es x = −3?|Ninguno|Mínimo local|Punto de inflexión|Máximo local|3|f''(x) = 6x; en x = −3 es −18 < 0: máximo local.
+¿Cuál es el área máxima de un rectángulo de perímetro 36 m?|36 m²|82 m²|162 m²|81 m²|3|El máximo es el cuadrado de lado 9 m: 81 m².
+Dos números positivos suman 50. ¿Cuál es el máximo valor de su producto?|2500|1250|50|625|3|Es máximo cuando ambos valen 25: 25·25 = 625.
+¿Cuál es el área máxima de un rectángulo de perímetro 20 m?|25 m²|20 m²|50 m²|26 m²|0|El máximo es el cuadrado de lado 5 m: 25 m².
+Dos números positivos suman 100. ¿Cuál es el máximo valor de su producto?|100|5000|2500|10000|2|Es máximo cuando ambos valen 50: 50·50 = 2500.
+¿Cuál es el área máxima de un rectángulo de perímetro 60 m?|226 m²|225 m²|450 m²|60 m²|1|El máximo es el cuadrado de lado 15 m: 225 m².
+Dos números positivos suman 10. ¿Cuál es el máximo valor de su producto?|100|25|10|50|1|Es máximo cuando ambos valen 5: 5·5 = 25.
+¿Dónde tiene un punto de inflexión f(x) = x³ − 3x² ?|x = 1|x = 2|x = −1|x = 0|0|f'' = 6x − 6 = 0 → x = 1.
+¿Dónde tiene un punto de inflexión f(x) = x³ − 12x² ?|x = 0|x = 4|x = −4|x = 8|1|f'' = 6x − 24 = 0 → x = 4.
+¿Cuál es el valor mínimo de f(x) = 2x² − 12x + 4 en todo ℝ?|−14|3|4|14|0|El vértice está en x = 3 y f vale −14.
+¿Cuál es el valor mínimo de f(x) = 3x² + 6x + 3 en todo ℝ?|−1|1|0|3|2|El vértice está en x = −1 y f vale 0.
+¿Cuál es el valor mínimo de f(x) = 2x² + 6x − 5 en todo ℝ?|19/2|−3/2|−19/2|−5|2|El vértice está en x = −3/2 y f vale −19/2.
+¿Cuál es el valor mínimo de f(x) = 2x² + 12x − 2 en todo ℝ?|−3|−20|20|−2|1|El vértice está en x = −3 y f vale −20.
+Se dispone de 60 m de alambrado para cercar un corral rectangular que linda con un río (no se cerca ese lado). ¿Cuál es el área máxima?|900 m²|451 m²|450 m²|225 m²|2|Con lados x y L − 2x: A = x(L − 2x); el máximo es en x = L/4 y vale L²/8 = 450 m².
+Se dispone de 200 m de alambrado para cercar un corral rectangular que linda con un río (no se cerca ese lado). ¿Cuál es el área máxima?|10000 m²|5001 m²|2500 m²|5000 m²|3|Con lados x y L − 2x: A = x(L − 2x); el máximo es en x = L/4 y vale L²/8 = 5000 m².
+Se dispone de 100 m de alambrado para cercar un corral rectangular que linda con un río (no se cerca ese lado). ¿Cuál es el área máxima?|1250 m²|1251 m²|2500 m²|625 m²|0|Con lados x y L − 2x: A = x(L − 2x); el máximo es en x = L/4 y vale L²/8 = 1250 m².
+¿Cuál es el valor mínimo de f(x) = x + 4/x para x > 0?|8|4|5|2|1|f'(x) = 1 − 4/x² = 0 → x = 2 y f(2) = 4.
+¿Cuál es el valor mínimo de f(x) = x² + 6x + 1 en todo ℝ?|−8|1|8|−3|0|El vértice está en x = −3 y f vale −8.
+¿Cuál es el valor mínimo de f(x) = x + 1/x para x > 0?|2|−2|1|3|0|f'(x) = 1 − 1/x² = 0 → x = 1 y f(1) = 2.
+¿Dónde tiene un punto de inflexión f(x) = x³ − 9x² ?|x = 0|x = 6|x = 3|x = −3|2|f'' = 6x − 18 = 0 → x = 3.
+Se dispone de 40 m de alambrado para cercar un corral rectangular que linda con un río (no se cerca ese lado). ¿Cuál es el área máxima?|400 m²|100 m²|201 m²|200 m²|3|Con lados x y L − 2x: A = x(L − 2x); el máximo es en x = L/4 y vale L²/8 = 200 m².
+¿Qué indica un cambio de signo de f'' en a?|Una asíntota|Un máximo|Un mínimo|Un punto de inflexión|3|Cambia la concavidad.
+¿Cuál es el valor mínimo de f(x) = x + 16/x para x > 0?|16|4|24|8|3|f'(x) = 1 − 16/x² = 0 → x = 4 y f(4) = 8.
+¿Qué es un problema de optimización?|Resolver una ecuación|Calcular un límite|Encontrar el máximo o el mínimo de una magnitud sujeta a restricciones|Calcular un área|2|Se usan las derivadas.
+¿Cuál es el valor mínimo de f(x) = x + 25/x para x > 0?|25|10|35|5|1|f'(x) = 1 − 25/x² = 0 → x = 5 y f(5) = 10.

@@ -1,0 +1,31 @@
+#EEEEEEEEEEMMMMMMMMMMHHHHHHHHHH
+¿Qué organismo argentino regula medicamentos y alimentos?|ANSES|INDEC|ANMAT|AFIP|2|Es la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica.
+¿Quién ganó el Premio Nobel de Medicina o Fisiología en 1947?|Albert Sabin|Luis Federico Leloir|Bernardo Houssay|César Milstein|2|Estudió la hipófisis y el metabolismo de los azúcares.
+¿Qué es el consentimiento informado?|Un diagnóstico|Una factura|Una receta médica|La aceptación libre de una persona tras recibir la información sobre un tratamiento|3|Es un principio ético en salud.
+¿Qué organismo coordina la donación y trasplante de órganos en Argentina?|El INTA|El INCUCAI|El CONICET|La ANMAT|1|Es el Instituto Nacional Central Único Coordinador de Ablación e Implante.
+¿Qué es la donación de órganos?|Cuidar el cuerpo|Comer órganos|Vender órganos|Dar un órgano para que otra persona lo reciba|3|Puede salvar vidas.
+¿Quién recibió el Premio Nobel de Medicina argentino de 1984?|Jorge Luis Borges|René Favaloro|Juan Perón|César Milstein|3|Trabajó en los anticuerpos monoclonales.
+¿Qué estudia la bioética?|Los minerales|El clima|Las cuestiones morales de la vida y la ciencia|Los fósiles|2|Analiza los límites de las intervenciones.
+¿Qué organismo argentino se dedica a la investigación agropecuaria?|El INTA|La AFA|El INDEC|El ENARGAS|0|Es el Instituto Nacional de Tecnología Agropecuaria.
+¿Qué es el CONICET?|Un ministerio de obras|El Consejo Nacional de Investigaciones Científicas y Técnicas|Un club deportivo|Un banco|1|Financia a investigadores y becarios.
+¿Qué es la educación sexual integral?|Un deporte|Una materia optativa solo en la universidad|Un derecho que brinda información científica sobre cuerpo, afectos y cuidado|Una dieta|2|Se enseña en las escuelas argentinas.
+¿Qué dice el régimen de donación de órganos de la Ley Justina?|Solo se dona con pago|Solo se donan huesos|Toda persona mayor de 18 años es donante salvo que haya expresado lo contrario|Nadie puede donar|2|Se basa en el consentimiento presunto.
+¿Qué es un ensayo clínico?|Un análisis de suelo|Un tipo de receta|Un examen escolar|Un estudio con personas para evaluar un tratamiento o vacuna|3|Debe cumplir normas éticas y de seguridad.
+¿Qué ley garantiza el acceso a la anticoncepción y la salud sexual y reproductiva?|La Ley 24.449|La Ley 25.326|La Ley 25.673|La Ley 26.331|2|Creó el Programa Nacional de Salud Sexual y Procreación Responsable.
+¿Qué ley establece la Educación Sexual Integral en Argentina?|La Ley 26.150|La Ley 25.675|La Ley 24.240|La Ley 26.639|0|Se sancionó en 2006.
+¿Qué hizo René Favaloro?|Inventó el microscopio|Desarrolló el bypass coronario|Descubrió la penicilina|Descubrió la insulina|1|Fue un cirujano argentino.
+¿Qué investigación de Leloir fue premiada con el Nobel de Química de 1970?|La penicilina|La estructura del ADN|Los nucleótidos de azúcar y su rol en la síntesis de carbohidratos|La vacuna antipoliomielítica|2|Trabajó en el Instituto de Investigaciones Bioquímicas.
+¿Qué es la historia clínica?|Una receta|El registro de la atención de salud de una persona|Un diploma|Un análisis de suelo|1|Es confidencial y pertenece al paciente.
+¿Qué es un medicamento genérico?|Uno sin efecto|Uno con el mismo principio activo que el de marca, designado por su nombre genérico|Uno con otro principio activo|Uno ilegal|1|Suele ser más económico.
+¿Qué es la salud pública?|Un tipo de seguro|Un hospital privado|La salud de un animal|La acción organizada para prevenir enfermedades y promover la salud de la población|3|Incluye la vacunación y el saneamiento.
+¿Qué es un comité de ética en investigación?|Una empresa|Un laboratorio|Un grupo que evalúa que los estudios protejan los derechos de los participantes|Un club|2|Revisa los protocolos antes de iniciarlos.
+¿Qué importancia tiene la ciencia básica?|Reemplaza a la ética|Solo produce ganancias inmediatas|No tiene utilidad|Genera conocimiento que luego permite aplicaciones tecnológicas y médicas|3|Por ejemplo, los anticuerpos monoclonales.
+¿Qué papel tuvo el Instituto Malbrán en Argentina?|Es un banco|Es un club|Es un centro de referencia en diagnóstico e investigación de enfermedades infecciosas|Es una fábrica de autos|2|Depende del Ministerio de Salud.
+¿Por qué es importante el principio de autonomía?|Porque obliga a tratar sin consultar|Porque prohíbe toda información|Porque elimina la ética|Porque respeta la decisión informada de cada persona sobre su cuerpo|3|Sustenta el consentimiento informado.
+¿Qué beneficio tiene la producción pública de medicamentos y vacunas?|Eliminar la investigación|Prohibir las importaciones|Mejorar el acceso y la soberanía sanitaria|Encarecer los precios|2|Argentina tiene laboratorios públicos.
+¿Qué principios básicos guían la bioética?|Competencia y ganancia|Autonomía, beneficencia, no maleficencia y justicia|Fama y poder|Velocidad y costo|1|Se aplican en la práctica médica.
+¿Qué riesgo implica la automedicación?|Mejora la inmunidad|Efectos adversos, interacciones y resistencia a antibióticos|No tiene riesgos|Siempre cura|1|Conviene consultar a profesionales.
+¿Qué cuestión ética plantea la edición de embriones humanos?|La velocidad de la PCR|Los límites de modificar genes que se heredan|El tamaño del laboratorio|Su costo en transporte|1|Hay debate internacional y regulación.
+¿Por qué es importante la lectura crítica de la información científica?|Para distinguir evidencia confiable de desinformación|Para aceptar todo|Para ignorar a los expertos|Para evitar la ciencia|0|Ayuda a decidir sobre la salud propia.
+¿Qué derecho reconoce la Ley de Derechos del Paciente 26.529?|No ser atendido|Recibir cualquier medicamento|Elegir el diagnóstico|Recibir información, decidir sobre su tratamiento y mantener la confidencialidad|3|Incluye la historia clínica.
+¿Qué debate ético genera el uso de datos genéticos?|La privacidad y el riesgo de discriminación|La temperatura|El color|El peso|0|Deben protegerse como datos personales.
