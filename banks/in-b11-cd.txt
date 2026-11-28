@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+The cell cycle consists of interphase and the|M phase (mitotic phase)|S phase only|G phase only|C phase|0|Division of the nucleus and cytoplasm.
+Interphase consists of the G₁ phase, the S phase and the|M phase|G₂ phase|C phase|P phase|1|Preparation for division.
+DNA replication occurs in the|G₁ phase|G₂ phase|S phase|M phase|2|The synthesis phase.
+Mitosis is called|reductional division|a meiotic division|a dividing process of bacteria only|equational division|3|The chromosome number remains the same.
+Meiosis is called|reductional division|equational division|binary fission|budding|0|The chromosome number is halved.
+Mitosis produces|four haploid cells|two identical daughter cells|two haploid cells|one cell|1|With the same chromosome number.
+Meiosis produces|two identical diploid cells|one cell|four haploid cells|two haploid cells only|2|Genetically different.
+The stages of mitosis are prophase, metaphase, anaphase and|G₁ phase|S phase|G₂ phase|telophase|3|Followed by cytokinesis.
+Chromosomes are aligned at the equator in|metaphase|prophase|anaphase|telophase|0|The best stage to count them.
+Sister chromatids separate in|metaphase|anaphase|prophase|telophase|1|After the centromere splits.
+The nuclear envelope reforms in|prophase|metaphase|telophase|anaphase|2|And chromosomes decondense.
+Spindle fibres are made of|microfilaments|lipids|cellulose|microtubules|3|Attach to kinetochores.
+Cytokinesis is|the division of the cytoplasm|the division of the nucleus|the replication of DNA|the formation of spindle|0|Follows karyokinesis.
+Meiosis occurs in|somatic cells|germ cells (gamete-forming cells)|all cells|bacteria|1|To form gametes.
+Crossing over occurs during|metaphase I|anaphase|prophase I (pachytene)|telophase|2|Between non-sister chromatids.
+Synapsis is|the separation of chromatids|the replication of DNA|the formation of the spindle|the pairing of homologous chromosomes|3|In zygotene.
+A cell plate forms during cytokinesis in|plant cells|animal cells|bacteria|viruses|0|Animal cells form a furrow.
+The G₀ phase is|the S phase|a quiescent stage in which cells do not divide|active division|DNA replication|1|Cells remain metabolically active.
+A human cell cycle lasts about|1 hour|1 week|24 hours|1 year|2|The M phase takes about an hour.
+The M phase of a human cell lasts about|24 hours|1 week|1 minute|1 hour|3|Less than 5% of the cycle.
+Chromosome condensation begins in|prophase|metaphase|anaphase|telophase|0|Chromatin becomes visible.
+The centromere splits in|prophase|anaphase|metaphase|telophase|1|Sister chromatids separate.
+Kinetochores are|parts of the nucleolus|DNA segments|attachment sites for spindle fibres on the centromere|ribosomes|2|Protein discs.
+The substages of prophase I are leptotene, zygotene, pachytene, diplotene and|metaphase|anaphase|telophase|diakinesis|3|Five stages.
+Chiasmata are seen in|diplotene|leptotene|zygotene|pachytene|0|The sites of crossing over.
+A bivalent consists of|two sister chromatids|two homologous chromosomes paired together|one chromosome|four chromosomes|1|Formed in zygotene.
+After meiosis I, the chromosome number is|doubled|unchanged|halved|zero|2|Homologous chromosomes separate.
+Meiosis II is similar to|meiosis I|the S phase|G₁|mitosis|3|Sister chromatids separate.
+Cytokinesis in an animal cell takes place by|a cleavage furrow|a cell plate|budding|none of these|0|The membrane pinches in.
+A cell in G₂ with 2C DNA content in G₁ has a DNA content of|2C|4C|C|8C|1|After S phase replication.
+The DNA content of a gamete is|2C|4C|C (haploid)|3C|2|Half of a somatic cell.
+The number of chromosomes in a human gamete is|46|22|44|23|3|Haploid.
+In plants mitosis occurs mainly in|meristems|mature leaves|xylem|root hairs|0|Growing regions.
+The cell cycle checkpoints regulate|photosynthesis|the progression of the cell cycle|respiration|excretion|1|G₁, G₂ and M checkpoints.
+Cancer is characterised by|controlled growth|cell death only|uncontrolled cell division|absence of mitosis|2|Loss of regulation.
+Meiosis helps to|increase growth|repair tissues|produce identical cells|maintain the chromosome number across generations|3|Gametes are haploid.
+The number of bivalents in human meiosis I is|23|46|92|11|0|23 pairs.
+The number of chromatids in a human cell at metaphase of mitosis is|46|92|23|184|1|46 chromosomes, each with 2 chromatids.
+The number of chromosomes in a human cell at anaphase of mitosis is|46|23|92|184|2|Separated sister chromatids count as chromosomes.
+The number of sperms formed from one primary spermatocyte is|2|1|8|4|3|Meiosis I and II.
+The number of functional ova formed from one primary oocyte is|1|4|2|3|0|The others are polar bodies.
+Variation in gametes arises due to|mitosis|crossing over and independent assortment|DNA replication only|cytokinesis|1|In meiosis.
+Mitosis is important for|variation|gamete formation|growth and repair|reducing chromosomes|2|Increases cell number.
+DNA replication before division ensures|variation|cell death|gamete formation|identical copies of genetic material for the daughter cells|3|In S phase.
+A cell with 2n = 14 has how many bivalents in meiosis I?|7|14|28|3|0|n = 7.
+A cell with 2n = 14 in the G₂ phase has how many chromatids?|14|28|7|56|1|Each chromosome has two.
+Interphase occupies|50% of the cycle|10% of the cycle|more than 95% of the cell cycle|none of it|2|The M phase is short.
+In anaphase I|sister chromatids separate|nuclei fuse|DNA replicates|homologous chromosomes separate|3|Each goes to one pole.
+In anaphase II|sister chromatids separate|homologous chromosomes separate|nuclei fuse|DNA replicates|0|Like mitosis.
+Non-disjunction leads to|extra variation only|an abnormal number of chromosomes in gametes|normal gametes|no gametes|1|For example Down syndrome.

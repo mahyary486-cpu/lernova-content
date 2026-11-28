@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Photosynthesis takes place in the|chloroplasts|mitochondria|nucleus|ribosomes|0|Of green plant cells.
+The main pigment of photosynthesis is|haemoglobin|chlorophyll a|melanin|keratin|1|A green pigment.
+The raw materials of photosynthesis are|oxygen and glucose|nitrogen|carbon dioxide and water|protein|2|With light.
+The products of photosynthesis are|carbon dioxide|only water|starch only|glucose and oxygen|3|6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.
+Joseph Priestley showed that plants|restore the air that burning candles or breathing animals have damaged|consume oxygen|do not need air|produce carbon dioxide only|0|With a mint plant.
+Jan Ingenhousz showed that|water is not needed|sunlight is essential for photosynthesis|soil gives carbon|plants breathe in oxygen|1|Only the green parts release oxygen.
+Julius von Sachs showed that|oxygen is needed|plants respire|glucose is made in green parts and stored as starch|chlorophyll is absent|2|Starch test.
+Engelmann's experiment with Cladophora showed that the action spectrum of photosynthesis is|green region|yellow region|none of these|mainly in the blue and red regions|3|Bacteria clustered there.
+Chlorophyll a is the|primary photosynthetic pigment|accessory pigment|non-pigment|enzyme|0|Present in all photosynthetic plants.
+The accessory pigments are|ATP|chlorophyll b, xanthophylls and carotenoids|NADP|glucose|1|They absorb light and pass energy on.
+The light reaction occurs in the|stroma|cytoplasm|thylakoids (grana)|nucleus|2|Of the chloroplast.
+The dark reaction occurs in the|thylakoids|cytoplasm|mitochondria|stroma|3|Calvin cycle.
+The oxygen released in photosynthesis comes from|water|carbon dioxide|glucose|ATP|0|Splitting of water.
+ATP and NADPH are formed in the|dark reaction|light reaction|glycolysis|fermentation|1|Used in the Calvin cycle.
+The enzyme that fixes CO₂ in the Calvin cycle is|PEPcase|amylase|RuBisCO|pepsin|2|The most abundant enzyme.
+The first stable product of the C₃ cycle is|oxaloacetic acid|glucose|starch|3-phosphoglyceric acid (PGA)|3|A three-carbon compound.
+The first stable product of the C₄ pathway is|oxaloacetic acid (OAA)|3-PGA|glucose|starch|0|A four-carbon compound.
+The cycle for CO₂ fixation was worked out by|Hatch|Melvin Calvin|Slack|Sachs|1|Calvin cycle.
+The C₄ pathway was worked out by|Calvin|Sachs|Hatch and Slack|Engelmann|2|Hatch and Slack pathway.
+The two photosystems are|PS A and PS B|PS III only|none|PS I and PS II|3|Named in order of discovery.
+The reaction centre of PS I is|P700|P680|P400|P500|0|Absorbs at 700 nm.
+The reaction centre of PS II is|P700|P680|P400|P500|1|Absorbs at 680 nm.
+The Z scheme describes|the Calvin cycle|glycolysis|electron transport in the light reaction|fermentation|2|The shape of the electron path.
+Photophosphorylation is the|splitting of CO₂|glucose formation|oxygen uptake|formation of ATP using light energy|3|In chloroplasts.
+Cyclic photophosphorylation involves|only PS I|only PS II|both PS I and PS II|no photosystem|0|Only ATP is formed.
+Non-cyclic photophosphorylation involves|only PS I|both PS I and PS II|only PS II|no photosystem|1|ATP and NADPH are formed.
+The splitting of water occurs in association with|PS I|the dark reaction|PS II|the Calvin cycle|2|On the lumen side of the thylakoid.
+The chemiosmotic hypothesis explains|CO₂ fixation|water absorption|pigment structure|ATP synthesis using a proton gradient|3|In thylakoids and mitochondria.
+The stages of the Calvin cycle are carboxylation, reduction and|regeneration of RuBP|glycolysis|fermentation|oxidation|0|Of the CO₂ acceptor.
+The CO₂ acceptor in the Calvin cycle is|PEP|RuBP (ribulose bisphosphate)|OAA|pyruvate|1|A five-carbon compound.
+The CO₂ acceptor in the C₄ pathway (in mesophyll cells) is|RuBP|OAA|PEP (phosphoenolpyruvate)|PGA|2|A three-carbon compound.
+Kranz anatomy is characteristic of|C₃ plants|CAM plants only|algae|C₄ plants|3|Bundle sheath cells in a wreath.
+Examples of C₄ plants are|maize and sugarcane|wheat|rice|potato|0|Tropical plants.
+Examples of C₃ plants are|maize|wheat and rice|sugarcane|sorghum|1|Temperate plants.
+The number of ATP molecules required to fix one CO₂ in the Calvin cycle is|2|1|3|6|2|Along with 2 NADPH.
+The number of NADPH molecules required to fix one CO₂ is|3|1|6|2|3|With 3 ATP.
+Photorespiration occurs in|C₃ plants|C₄ plants|animals|bacteria|0|At high temperature and low CO₂.
+Photorespiration involves the oxygenase activity of|PEPcase|RuBisCO|ATP synthase|amylase|1|RuBP + O₂.
+The organelles involved in photorespiration are|nucleus and ribosome|Golgi body and lysosome|chloroplast, peroxisome and mitochondrion|vacuole and cell wall|2|Three organelles.
+C₄ plants show|high photorespiration|no photosynthesis|no CO₂ fixation|little or no photorespiration|3|CO₂ is concentrated in bundle sheath cells.
+The concept of limiting factors was proposed by|Blackman|Calvin|Sachs|Hill|0|Law of limiting factors.
+The optimum temperature for photosynthesis in C₃ plants is about|40 °C|20–25 °C|10 °C|0 °C|1|Temperate plants.
+The optimum temperature for photosynthesis in C₄ plants is about|10 °C|0 °C|30–45 °C|5 °C|2|Tropical plants.
+Light saturation in photosynthesis occurs at about|100% of full sunlight|50% of full sunlight|1% of sunlight|10% of full sunlight|3|Except for dense forests.
+The concentration of CO₂ in the atmosphere is about|0.03 to 0.04%|3%|30%|78%|0|A limiting factor.
+Increasing the CO₂ concentration increases photosynthesis in|C₄ plants only|C₃ plants up to saturation|no plants|animals|1|C₄ plants saturate at lower values.
+The Hill reaction demonstrated|glucose formation|CO₂ release|oxygen evolution from water in isolated chloroplasts|starch storage|2|With an artificial electron acceptor.
+Van Niel proposed that the oxygen evolved in photosynthesis comes from|CO₂|glucose|ATP|water, not CO₂|3|From studies on purple bacteria.
+Photosynthetic efficiency is generally higher in|C₄ plants|C₃ plants|fungi|animals|0|No photorespiration loss.
+CAM plants open their stomata at|day only|night|dawn only|never|1|To reduce water loss.

@@ -1,0 +1,51 @@
+#EEEEEEEEEEEEEEEEEMMMMMMMMMMMMMMMMMMMHHHHHHHHHHHHHH
+Respiration is the|oxidation of food materials to release energy|synthesis of food|absorption of water|splitting of water|0|Occurs in all living cells.
+Glycolysis takes place in the|mitochondria|cytoplasm|nucleus|chloroplast|1|A common pathway.
+Glycolysis converts glucose into|lactic acid|carbon dioxide|pyruvic acid|ethanol|2|Two molecules.
+The net gain of ATP in glycolysis is|4|36|0|2|3|4 produced and 2 used.
+The Krebs cycle takes place in the|mitochondrial matrix|cytoplasm|nucleus|ribosome|0|Aerobic stage.
+The electron transport system is located in the|matrix|inner mitochondrial membrane|cytoplasm|outer membrane only|1|Where ATP is formed.
+The final electron acceptor in aerobic respiration is|carbon dioxide|NAD⁺|oxygen|water|2|It forms water.
+Fermentation in yeast yields|lactic acid|oxygen|water only|ethanol and carbon dioxide|3|An anaerobic process.
+In muscle cells under anaerobic conditions pyruvic acid is converted to|lactic acid|ethanol|carbon dioxide only|water|0|Causes cramps.
+Aerobic respiration yields|less ATP|much more ATP than fermentation|no ATP|the same ATP|1|Complete oxidation.
+ATP stands for|adenosine diphosphate|amino triphosphate|adenosine triphosphate|adenine tri-phosphorus|2|The energy currency.
+Respiration releases|oxygen|nitrogen|glucose|energy|3|Used for work.
+Pyruvic acid enters the mitochondrion and is converted to|acetyl CoA|ethanol|lactic acid|glucose|0|Oxidative decarboxylation.
+Cellular respiration occurs in|only plant cells|all living cells|only animal cells|only bacteria|1|Plants also respire.
+The usual respiratory substrate is|water|oxygen|carbohydrate (glucose)|minerals|2|Also fats and proteins.
+Fats as a respiratory substrate have an RQ|more than 1|exactly 1|zero|less than 1|3|About 0.7.
+The respiratory quotient of carbohydrates is|1|0.7|0.9|2|0|CO₂ released equals O₂ used.
+The Krebs cycle was discovered by|Calvin|Hans Krebs|Hatch|Slack|1|Also called the citric acid cycle.
+The citric acid cycle starts with the condensation of acetyl CoA and|pyruvic acid|glucose|oxaloacetic acid|lactic acid|2|Forms citric acid.
+The first product of the TCA cycle is|oxaloacetic acid|pyruvic acid|glucose|citric acid|3|A six-carbon compound.
+The number of CO₂ molecules released per acetyl CoA in the TCA cycle is|2|3|1|4|0|Complete oxidation.
+The number of NADH molecules produced per turn of the TCA cycle is|2|3|1|4|1|Plus one FADH₂.
+The number of FADH₂ molecules produced per turn of the TCA cycle is|2|3|1|0|2|At succinate dehydrogenase.
+The number of GTP (ATP) molecules produced per turn of the TCA cycle is|2|3|0|1|3|Substrate-level phosphorylation.
+In the traditional estimate, one NADH yields about|3 ATP|2 ATP|1 ATP|4 ATP|0|In the ETS.
+In the traditional estimate, one FADH₂ yields about|3 ATP|2 ATP|1 ATP|4 ATP|1|In the ETS.
+The traditional estimate of total ATP in the complete oxidation of one glucose is|36|2|38|8|2|Including glycolysis.
+Oxidative phosphorylation is the|substrate level ATP formation|glycolysis|fermentation|formation of ATP using energy from electron transport|3|In the mitochondria.
+Complex IV of the electron transport chain is|cytochrome c oxidase|NADH dehydrogenase|ATP synthase|succinate dehydrogenase|0|Passes electrons to oxygen.
+ATP synthase is the|cytochrome oxidase|F₀F₁ complex|NADH dehydrogenase|a hormone|1|Uses the proton gradient.
+The chemiosmotic hypothesis was proposed by|Krebs|Calvin|Peter Mitchell|Hill|2|For ATP synthesis.
+The oxidative decarboxylation of pyruvic acid yields|ethanol|lactic acid|glucose|acetyl CoA, CO₂ and NADH|3|Catalysed by pyruvate dehydrogenase.
+Substrate-level phosphorylation takes place in|glycolysis and the TCA cycle|the electron transport system|only photosynthesis|only fermentation|0|Direct ATP formation.
+The respiratory quotient is|O₂/CO₂|the ratio of the volume of CO₂ released to the volume of O₂ consumed|CO₂ × O₂|CO₂ − O₂|1|RQ = CO₂/O₂.
+The RQ for proteins is about|1|0.7|0.9|2|2|Between carbohydrates and fats.
+The RQ for fats is about|1|0.9|2|0.7|3|They need more oxygen.
+Fermentation yields ATP per glucose of|2|36|38|0|0|Net gain from glycolysis.
+By modern estimates the net ATP from one glucose in aerobic respiration is about|2|30|4|100|1|Instead of 38.
+In the preparatory phase of glycolysis, the number of ATP used is|4|0|2|36|2|For phosphorylation of sugar.
+In the pay-off phase of glycolysis, the number of ATP produced is|2|0|36|4|3|Giving a net of 2.
+The Krebs cycle is called an amphibolic pathway because it|is both catabolic and anabolic|is only catabolic|is only anabolic|occurs in the cytoplasm|0|Provides intermediates for synthesis.
+Fats are first broken down to|amino acids|glycerol and fatty acids|glucose|pyruvic acid|1|By lipases.
+Fatty acids are converted into|ethanol|lactic acid|acetyl CoA|pyruvic acid only|2|By β-oxidation.
+In the breakdown of proteins, amino acids are deaminated to|ethanol|glucose only|fatty acids|keto acids that enter the Krebs cycle|3|After removal of amino groups.
+Oxygen is consumed in the electron transport chain at|complex IV|complex I|complex II|the matrix|0|Forms water.
+The RQ of anaerobic respiration is|1|infinity (CO₂ without O₂)|0.7|0.9|1|No oxygen is consumed.
+The oxidation of glucose C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O has an RQ of|0.7|0.9|1|2|2|6/6.
+Fermentation by yeast is used in making|milk|vinegar only|yoghurt|bread and wine|3|Produces CO₂ and ethanol.
+The Pasteur effect is the|inhibition of fermentation by oxygen|stimulation of fermentation by oxygen|photosynthesis|none of these|0|Aerobic respiration takes over.
+The enzyme complex that uses the proton gradient to make ATP is|cytochrome oxidase|ATP synthase|catalase|amylase|1|F₀F₁.
