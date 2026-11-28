@@ -1,0 +1,21 @@
+#HHMHHMMEMHEMEMMEEHEE
+Simplify 4(2x − 1) − 3(x + 2).|5x − 2|5x + 2|11x − 10|5x − 10|3|8x − 4 − 3x − 6 = 5x − 10.
+Which equation has slope −1/2 and y-intercept 3?|y = (1/2)x + 3|y = −2x + 3|y = −(1/2)x + 3|y = 3x − 1/2|2|Use y = mx + b with m = −1/2 and b = 3.
+Solve 3x − 5 = 10.|x = 3|x = 5|x = 15|x = 1|1|3x = 15, so x = 5.
+Which equation passes through (2, 1) and (6, 9)?|y = 2x − 3|y = 2x + 3|y = 4x − 7|y = x/2|0|Slope = 8 / 4 = 2, and 1 = 2(2) + b gives b = −3.
+A taxi charges $4 plus $1.50 per km. What is the cost of a 10 km trip?|$15|$14|$41.50|$19|3|4 + 1.50 × 10 = 19.
+What is the slope of a line parallel to y = 4x + 1?|−1/4|1/4|4|1|2|Parallel lines have the same slope.
+Simplify (3x + 4) + (2x − 7).|5x + 3|5x − 3|5x − 11|x − 3|1|3x + 2x = 5x and 4 − 7 = −3.
+Evaluate 2x + 1 when x = 4.|9|8|7|6|0|2(4) + 1 = 9.
+What is the y-intercept of y = −2x + 7?|−2|2|−7|7|3|The constant term is the y-intercept.
+A line has slope 2/3. What is the slope of a perpendicular line?|3/2|−2/3|−3/2|2/3|2|Perpendicular slopes are negative reciprocals.
+In y = mx + b, what does b represent?|the slope|the y-intercept|the x-intercept|the origin|1|b is the value of y when x = 0.
+A cost is C = 20 + 5n. What is C when n = 6?|$50|$26|$120|$30|0|C = 20 + 5(6) = 50.
+What is the slope of y = 3x − 5?|−5|5|1/3|3|3|The coefficient of x is the slope.
+What is the slope between (1, 2) and (3, 8)?|2|1/3|3|6|2|(8 − 2) / (3 − 1) = 3.
+Solve 2(x − 3) = 10.|x = 2|x = 8|x = 13|x = 5|1|2x − 6 = 10, so 2x = 16 and x = 8.
+Simplify 3x + 2x.|5x|6x|5x²|6|0|Like terms combine by adding coefficients.
+Expand 2(x + 3).|2x + 3|x + 6|2x + 5|2x + 6|3|Multiply each term inside the brackets by 2.
+Solve x/3 + 2 = 5.|x = 21|x = 1|x = 9|x = 3|2|x/3 = 3, so x = 9.
+Solve x + 7 = 12.|x = 19|x = 5|x = 7|x = −5|1|Subtract 7 from both sides.
+What is the slope of the line through (0, 0) and (2, 4)?|2|1/2|4|6|0|Slope = 4 / 2 = 2.

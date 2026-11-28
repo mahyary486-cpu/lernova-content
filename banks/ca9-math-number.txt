@@ -1,0 +1,21 @@
+#HEHEHMEHEMHHMMEMEMME
+How is the population 1.2 × 10⁶ written in standard form?|120 000|1 200 000|12 000 000|1200|1|Move the decimal point 6 places to the right.
+What is −3 + 5?|2|−8|8|−2|0|Starting at −3 and moving 5 to the right gives 2.
+A map scale is 1 cm : 5 km. What distance does 3.5 cm represent?|8.5 km|1.75 km|15 km|17.5 km|3|3.5 × 5 = 17.5.
+Write 3/4 as a decimal.|0.34|0.43|0.75|1.33|2|3 ÷ 4 = 0.75.
+Evaluate 8 − 2 × (3 + 1)².|96|−24|−56|24|1|(3 + 1)² = 16, then 2 × 16 = 32, and 8 − 32 = −24.
+What is 2⁻²?|1/4|−4|−1/4|4|0|a^(−n) = 1 / aⁿ, so 2⁻² = 1 / 4.
+What is 2³?|6|9|5|8|3|2 × 2 × 2 = 8.
+Simplify (2⁵ × 2⁻²) ÷ 2².|8|4|2|1/2|2|Exponent: 5 − 2 − 2 = 1, so the result is 2¹ = 2.
+What is 5⁰?|0|1|5|undefined|1|Any non-zero number to the power 0 equals 1.
+Simplify 3² × 3⁴.|3⁶|3⁸|9⁶|9⁸|0|Add the exponents when the bases are the same: 2 + 4 = 6.
+A car travels 150 km in 2 h 30 min. What is its average speed?|75 km/h|50 km/h|6 km/h|60 km/h|3|2 h 30 min = 2.5 h, and 150 ÷ 2.5 = 60.
+A price increases by 20 % and then decreases by 20 %. What is the net change?|no change|a 4 % increase|a 4 % decrease|a 40 % decrease|2|1.2 × 0.8 = 0.96, which is 4 % less than the original.
+Solve the proportion 3/5 = x/20.|x = 15|x = 12|x = 8|x = 33|1|5x = 60, so x = 12.
+A $60 jacket is 25 % off. What is the sale price?|$45|$15|$35|$75|0|60 × 0.75 = 45.
+What is 25 % of 80?|25|40|5|20|3|0.25 × 80 = 20.
+Write 6.2 × 10⁴ in standard form.|6200|620 000|62 000|0.00062|2|Move the decimal point 4 places to the right.
+What does the letter B stand for in BEDMAS?|Base|Brackets|Binomial|Balance|1|BEDMAS tells us to evaluate Brackets first.
+What is the 13 % HST on a $50 item?|$6.50|$13.00|$65.00|$0.65|0|0.13 × 50 = 6.50.
+A 4 L container costs $12. What is the unit rate?|$48 per litre|$0.33 per litre|$8 per litre|$3 per litre|3|12 ÷ 4 = 3.
+What is (−4) × (−2)?|−8|6|8|−6|2|The product of two negative numbers is positive.

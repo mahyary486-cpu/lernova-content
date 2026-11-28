@@ -17846,6 +17846,57 @@
           ]
         }
       ]
+    },
+    {
+      "grade": 9,
+      "subject": "Mathematics",
+      "country": "CA",
+      "chapters": [
+        {
+          "id": "ca9-math-number",
+          "title": "Number Sense and Operations",
+          "lessons": [
+            {
+              "id": "ca9-math-number-1",
+              "title": "Integers and rational numbers"
+            },
+            {
+              "id": "ca9-math-number-2",
+              "title": "Exponent laws and scientific notation"
+            },
+            {
+              "id": "ca9-math-number-3",
+              "title": "Ratios, rates and proportions"
+            },
+            {
+              "id": "ca9-math-number-4",
+              "title": "Percent, discounts and sales tax"
+            }
+          ]
+        },
+        {
+          "id": "ca9-math-algebra",
+          "title": "Algebra and Linear Relations",
+          "lessons": [
+            {
+              "id": "ca9-math-algebra-1",
+              "title": "Algebraic expressions"
+            },
+            {
+              "id": "ca9-math-algebra-2",
+              "title": "Solving linear equations"
+            },
+            {
+              "id": "ca9-math-algebra-3",
+              "title": "Linear relations and slope"
+            },
+            {
+              "id": "ca9-math-algebra-4",
+              "title": "Equations of lines and linear models"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
