@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+Bir fotonun enerjisi aşağıdakilerden hangisiyle verilir?|E = h·f|E = m·v|E = ½·m·v²|E = F·d|0|Foton enerjisi Planck sabiti ile frekansın çarpımıdır: E = h·f.
+Frekansı 5·10¹⁴ Hz olan fotonun enerjisi kaç J dir? (h = 6,6·10⁻³⁴ J·s)|1,3·10⁻⁴⁸|3,3·10⁻¹⁹|3,3·10⁻³⁴|6,6·10⁻¹⁹|1|E = h·f = 6,6·10⁻³⁴·5·10¹⁴ = 3,3·10⁻¹⁹ J.
+Bir ışık fotonunun dalga boyu yarıya indirilirse fotonun enerjisi nasıl değişir?|4 katına çıkar|Değişmez|2 katına çıkar|Yarıya düşer|2|E = h·c/λ olduğundan λ yarıya inince E iki katına çıkar.
+Fotoelektrik olay nedir?|Metalin ısınması|Işığın kırılması|Işığın yansıması|Işık tutulan metal yüzeyinden elektron sökülmesi|3|Yeterli enerjili ışık metale çarptığında yüzeyden elektronlar koparılır.
+Eşik frekansından küçük frekanslı ışık, ışık şiddeti ne kadar büyük olursa olsun metalden elektron koparabilir mi?|Evet|Yalnızca düşük sıcaklıkta|Hayır|Yalnızca çok parlaksa|2|Elektron sökmek için foton enerjisi bağlanma enerjisini aşmalıdır; şiddet bunu değiştirmez.
+Bir metalin bağlanma (eşik) enerjisi 2 eV dur. 5 eV enerjili foton yüzeye çarparsa sökülen elektronun maksimum kinetik enerjisi kaç eV olur?|10|3|2,5|7|1|E_k = hf − W = 5 − 2 = 3 eV.
+Fotoelektrik olayda frekans sabit tutulup ışık şiddeti artırılırsa ne değişir?|Eşik frekansı artar|Hiçbir şey değişmez|Elektronların maksimum kinetik enerjisi artar|Sökülen elektron sayısı artar|3|Şiddet foton sayısını artırır; frekans aynı olduğundan elektron başına enerji değişmez, elektron sayısı artar.
+Fotoelektrik olayda ışığın frekansı artırılırsa sökülen elektronların maksimum kinetik enerjisi nasıl değişir?|Değişmez|Azalır|Sıfır olur|Artar|3|E_k = hf − W olduğundan f arttıkça E_k artar.
+Bağlanma enerjisi 4 eV olan metale 3 eV enerjili foton çarparsa ne olur?|Metal erir|Elektron 7 eV ile sökülür|Elektron sökülmez|Elektron 1 eV ile sökülür|2|Foton enerjisi eşik enerjisinden küçüktür; elektron sökülemez.
+Atom modellerinin tarihsel sıralaması aşağıdakilerden hangisidir?|Rutherford → Thomson → Bohr|Thomson → Rutherford → Bohr|Bohr → Rutherford → Thomson|Thomson → Bohr → Rutherford|1|Üzümlü kek modeli (Thomson), çekirdekli atom (Rutherford), enerji düzeyleri (Bohr) sırasıyla ortaya konulmuştur.
+Rutherford'un altın levha deneyi neyi gösterdi?|Elektronun yükünü|Nötronun varlığını|Fotonun enerjisini|Atomda küçük ve yoğun bir çekirdek bulunduğunu|3|Alfa parçacıklarının çoğu geçip azının sapması çekirdeğin varlığını gösterir.
+Bohr atom modeline göre elektron yüksek enerji düzeyinden düşük enerji düzeyine geçerken ne olur?|Foton yayar|Enerji değişmez|Foton soğurur|Çekirdeğe düşer|0|Enerji farkı kadar enerjili foton yayılır.
+Hidrojen atomunun temel hâl (n = 1) enerjisi kaç eV dir?|0|13,6|−3,4|−13,6|3|Hidrojenin temel hâl enerjisi −13,6 eV dir.
+Hidrojen atomunda n = 2 düzeyinin enerjisi kaç eV dir?|−13,6|−1,51|−6,8|−3,4|3|E₂ = −13,6/2² = −3,4 eV.
+Hidrojen atomunda elektron n = 2 den n = 1 e geçerken yayılan fotonun enerjisi kaç eV dir?|13,6|17|3,4|10,2|3|ΔE = −3,4 − (−13,6) = 10,2 eV.
+Gaz atomlarının yaydığı ışığın yalnızca belirli dalga boylarında çizgiler vermesi neyi gösterir?|Atomların enerji düzeylerinin kesikli (nicemli) olduğunu|Atomların eşit enerjili olduğunu|Işığın dalga olmadığını|Atom çekirdeğinin olmadığını|0|Çizgi spektrumu elektron enerji düzeylerinin belirli değerlerde olmasından kaynaklanır.
+Bir atomun soğurma (absorpsiyon) spektrumu için aşağıdakilerden hangisi doğrudur?|Yalnızca X ışınları görülür|Atomun yaydığı çizgilerin aynı dalga boylarında karanlık çizgiler görülür|Hiç çizgi oluşmaz|Sürekli spektrum oluşur|1|Atomlar yalnızca kendi geçiş enerjilerine uygun fotonları soğurur.
+Hidrojen atomunda n = 3 ten n = 2 ye geçişte yayılan fotonun enerjisi yaklaşık kaç eV dir? (E₃ = −1,51 eV, E₂ = −3,4 eV)|1,51|1,89|4,91|3,4|1|ΔE = −1,51 − (−3,4) = 1,89 eV.
+Alfa parçacığı aşağıdakilerden hangisidir?|Helyum çekirdeği|Foton|Elektron|Nötron|0|Alfa parçacığı 2 proton ve 2 nötrondan oluşan helyum çekirdeğidir.
+Beta ışıması nedir?|Proton yayınlanması|Helyum çekirdeği yayınlanması|Yüksüz yüksek enerjili foton yayınlanması|Çekirdekten elektron (veya pozitron) yayınlanması|3|β⁻ ışımasında çekirdekten elektron yayılır.
+Gama ışınları için aşağıdakilerden hangisi doğrudur?|Yüksüz ve çok delici elektromanyetik dalgadır|Kütlesi vardır|Negatif yüklüdür|Pozitif yüklüdür|0|Gama ışınları yüksek enerjili fotonlardır; elektrik ve manyetik alanda sapmazlar.
+Radyoaktif bir maddenin yarı ömrü neyi ifade eder?|Maddenin ömrünün yarısını|Maddenin yarısının bozunması için geçen süreyi|Işınımın şiddetini|Maddenin tamamının bozunma süresini|1|Yarı ömür, çekirdeklerin yarısının bozunması için gereken süredir.
+Yarı ömrü 4 gün olan radyoaktif maddenin 80 g ı 8 gün sonra kaç g kalır?|20|40|60|10|0|8 gün = 2 yarı ömürdür: 80 → 40 → 20 g.
+Yarı ömrü 10 dakika olan radyoaktif maddenin 160 g ı 40 dakika sonra kaç g kalır?|10|80|40|20|0|40 dak = 4 yarı ömür: 160/2⁴ = 10 g.
+Radyoaktivite nedir?|Çekirdeklerin birleşmesi|Elektronların atomdan koparılması|Kararsız çekirdeklerin kendiliğinden ışıma yaparak bozunması|Atomların ısınması|2|Kararsız çekirdekler α, β, γ ışımalarıyla kararlı hâle geçer.
+Çekirdek α bozunması yaptığında kütle numarası ve atom numarası nasıl değişir?|Kütle numarası 2, atom numarası 4 azalır|Kütle numarası 4, atom numarası 2 azalır|İkisi de 4 azalır|İkisi de değişmez|1|α parçacığı 2 proton ve 2 nötron taşıdığından A 4, Z 2 azalır.
+²³⁸₉₂U çekirdeği bir α bozunması yaparsa oluşan çekirdeğin kütle ve atom numaraları sırasıyla kaçtır?|236, 90|234, 92|238, 90|234, 90|3|A: 238 − 4 = 234, Z: 92 − 2 = 90.
+Kütle–enerji eşdeğerliği hangi bağıntıyla verilir?|E = h·f|E = ½·m·v²|E = m·g·h|E = m·c²|3|Einstein'ın kütle–enerji eşdeğerliği E = m·c² dir.
+1 g kütlenin tamamı enerjiye dönüşse kaç J enerji açığa çıkar? (c = 3·10⁸ m/s)|3·10¹¹|9·10¹³|9·10¹⁶|3·10⁸|1|E = m·c² = 10⁻³·9·10¹⁶ = 9·10¹³ J.
+Fisyon ile ilgili aşağıdakilerden hangisi doğrudur?|Elektron kaybıdır|Işığın kırılmasıdır|Hafif çekirdeklerin birleşmesidir|Ağır bir çekirdeğin daha hafif çekirdeklere bölünmesidir|3|Fisyonda uranyum gibi ağır çekirdekler nötron çarpmasıyla bölünür ve enerji açığa çıkar.
+Güneş'te enerji üretimi hangi olayla gerçekleşir?|Radyoaktif bozunma|Fisyon|Füzyon|Yanma|2|Güneş'te hidrojen çekirdekleri birleşerek helyum oluşturur (füzyon).
+Nükleer enerji santralleri enerjiyi hangi olaydan elde eder?|Fisyon|Fotosentez|Füzyon|Yanma|0|Nükleer santrallerde uranyum çekirdeklerinin fisyonundan ısı elde edilir.
+Çekirdeği oluşturan proton ve nötronlara ortak olarak ne ad verilir?|Lepton|Nükleon|Foton|Kuark|1|Çekirdekteki proton ve nötronlara nükleon denir.
+X ışınları için aşağıdakilerden hangisi doğrudur?|Yüklü parçacık akışıdır|Ses dalgasıdır|Elektromanyetik dalgadır ve tıpta görüntülemede kullanılır|Yalnızca madde ortamında yayılır|2|X ışınları yüksek frekanslı elektromanyetik dalgalardır.
+Madde dalgalarında de Broglie dalga boyu için aşağıdakilerden hangisi doğrudur?|λ = h·p|λ = p/h|λ = h·f|λ = h/p|3|Parçacığın momentumuyla de Broglie dalga boyu ters orantılıdır: λ = h/p.
+Bir parçacığın momentumu artarsa de Broglie dalga boyu nasıl değişir?|Azalır|Sıfır olur|Değişmez|Artar|0|λ = h/p olduğundan p arttıkça λ azalır.
+Işığın hem dalga hem parçacık özelliği göstermesine ne ad verilir?|Dalga–parçacık ikiliği|Girişim|Kırınım|Polarizasyon|0|Işık kırınım ve girişimde dalga, fotoelektrik olayda parçacık özelliği gösterir.
+Elektronların kristalden kırınıma uğraması neyi gösterir?|Elektronun yüksüz olduğunu|Işığın parçacık olmadığını|Atomun çekirdeksiz olduğunu|Maddenin de dalga özelliği gösterdiğini|3|Elektron kırınımı madde dalgasının varlığını kanıtlar.
+Fotonun momentumu için aşağıdakilerden hangisi doğrudur?|p = 0|p = m·c|p = h/λ|p = h·λ|2|Fotonun momentumu p = h/λ dır.
+Elektronvolt (eV) hangi büyüklüğün birimidir?|Enerji|Güç|Kuvvet|Momentum|0|1 eV = 1,6·10⁻¹⁹ J olan bir enerji birimidir.
+3 eV kaç jouledür? (1 eV = 1,6·10⁻¹⁹ J)|4,8·10¹⁹|1,6·10⁻¹⁹|3·10⁻¹⁹|4,8·10⁻¹⁹|3|3·1,6·10⁻¹⁹ = 4,8·10⁻¹⁹ J.
+Fotosel (ışığa duyarlı devre) hangi olaydan yararlanır?|Fisyon|Yansıma|Fotoelektrik olay|Radyoaktivite|2|Fotoseller ışık düşünce elektron üretir; fotoelektrik olaya dayanır.
+Yarı iletkenlerde en yaygın kullanılan element aşağıdakilerden hangisidir?|Altın|Bakır|Silisyum|Demir|2|Silisyum yarı iletken teknolojisinin temel malzemesidir.
+LED ne yapar?|Sesi ışığa çevirir|Isıyı ışığa çevirir|Işığı elektriğe dönüştürür|Elektrik enerjisini doğrudan ışığa dönüştürür|3|LED içinden akım geçince elektron–delik birleşmesinde foton yayılır.
+Lazer ışığının özelliği aşağıdakilerden hangisidir?|Yalnızca kızılötesi olması|Aynı fazlı, tek renkli ve yönlü olması|Beyaz ve dağınık olması|Fazsız olması|1|Lazer ışığı uyarılmış emisyonla oluşur; koherent ve tek renklidir.
+Nötronu keşfeden bilim insanı kimdir?|Chadwick|Bohr|Rutherford|Thomson|0|Nötron 1932 de James Chadwick tarafından keşfedilmiştir.
+Radyoaktif karbon-14 hangi amaçla kullanılır?|Elektrik üretmek|Su arıtmak|Metal kesmek|Arkeolojik buluntuların yaşını belirlemek|3|Karbon-14 yarı ömrü bilinen bir izotoptur; organik kalıntıların yaşı belirlenir.
+Radyoaktif ışımanın SI birimi aşağıdakilerden hangisidir?|Becquerel (Bq)|Joule|Watt|Newton|0|Radyoaktif aktivite becquerel ile ölçülür; 1 Bq = 1 bozunma/s dir.
+Gama ışınlarından korunmak için hangi malzeme etkilidir?|İnce plastik|Kurşun levha|Pamuk|Kâğıt|1|Gama ışınları çok delicidir; yoğun malzeme (kurşun, beton) gerekir.
+Planck sabitinin (h) SI birimi aşağıdakilerden hangisidir?|J/s|N·s²|J·s|J/m|2|E = h·f olduğundan h = E/f biriminin J/Hz = J·s olduğu görülür.

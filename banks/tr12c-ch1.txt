@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+Yükseltgenme olayında atom ya da iyon ne yapar?|Elektron verir|Nötron alır|Proton verir|Elektron alır|0|Yükseltgenmede elektron kaybedilir ve yükseltgenme basamağı artar.
+Na → Na⁺ + e⁻ tepkimesinde sodyum için aşağıdakilerden hangisi doğrudur?|Nötrleşir|Değişmez|Yükseltgenir|İndirgenir|2|Sodyum elektron verdiğinden yükseltgenmiştir.
+KMnO₄ bileşiğinde Mn atomunun yükseltgenme basamağı kaçtır?|+6|+4|+7|+2|2|K = +1, O = −2 → +1 + x + 4·(−2) = 0 → x = +7.
+Bileşiklerde oksijenin yükseltgenme basamağı genellikle kaçtır?|−2|+2|0|−1|0|Peroksitler dışında bileşiklerde oksijen −2 dir.
+H₂O molekülünde H ve O nun yükseltgenme basamakları sırasıyla kaçtır?|+1 ve −2|0 ve 0|−1 ve +2|+2 ve −1|0|Toplam 0: 2·(+1) + (−2) = 0.
+K₂Cr₂O₇ bileşiğinde Cr atomunun yükseltgenme basamağı kaçtır?|+2|+7|+6|+3|2|2·(+1) + 2x + 7·(−2) = 0 → 2x = 12 → x = +6.
+İndirgen madde için aşağıdakilerden hangisi doğrudur?|Elektron alır|Elektron verir|Tepkimede değişmez|Yükseltgenme basamağı azalır|1|İndirgen madde başka bir maddeyi indirger ve kendisi yükseltgenir (elektron verir).
+Zn + Cu²⁺ → Zn²⁺ + Cu tepkimesinde indirgen madde hangisidir?|Cu|Cu²⁺|Zn²⁺|Zn|3|Zn elektron vererek Zn²⁺ olur; Zn indirgendir (indirgen madde).
+Fe + 2HCl → FeCl₂ + H₂ tepkimesi için aşağıdakilerden hangisi doğrudur?|Fe yükseltgenir, H⁺ indirgenir|Redoks tepkimesi değildir|Her ikisi de yükseltgenir|Fe indirgenir, H⁺ yükseltgenir|0|Fe 0 → +2 (yükseltgenir), H +1 → 0 (indirgenir).
+Galvanik pil nedir?|Kimyasal enerjiyi elektrik enerjisine çeviren düzenek|Elektrik enerjisini kimyasal enerjiye çeviren düzenek|Işığı ısıya çeviren düzenek|Isıyı elektriğe çeviren düzenek|0|Galvanik pilde kendiliğinden gerçekleşen redoks tepkimesi elektrik akımı üretir.
+Galvanik pilde yükseltgenmenin gerçekleştiği elektrota ne ad verilir?|Anot|Elektrolit|Tuz köprüsü|Katot|0|Galvanik pilde yükseltgenme anotta, indirgenme katotta gerçekleşir.
+Zn–Cu galvanik pilinde elektronlar hangi yönde hareket eder?|Cu elektrodundan Zn elektroduna|Tuz köprüsünden|Zn elektrodundan Cu elektroduna|Elektronlar hareket etmez|2|Zn daha aktif olup anot olur; elektronlar anottan katoda dış devreden akar.
+Tuz köprüsünün görevi aşağıdakilerden hangisidir?|Elektron taşımak|Isı üretmek|Çözeltilerdeki yük dengesini sağlamak|Elektrot kütlesini artırmak|2|Tuz köprüsü iyon geçişiyle yarı hücrelerdeki elektriksel dengeyi korur ve devreyi tamamlar.
+Galvanik pilde indirgenmenin gerçekleştiği elektrot hangisidir?|Çözelti|Tuz köprüsü|Anot|Katot|3|İndirgenme katotta olur.
+Standart elektrot potansiyelleri E°(Zn²⁺/Zn) = −0,76 V ve E°(Cu²⁺/Cu) = +0,34 V ise Zn–Cu pilinin standart pil potansiyeli kaç V tur?|0,76|0,42|−1,10|1,10|3|E°pil = E°katot − E°anot = 0,34 − (−0,76) = 1,10 V.
+Elektrolit nedir?|Gaz|Çözeltisi veya eriyiği elektriği ileten madde|Yalnızca metal|Elektriği iletmeyen madde|1|Elektrolitler iyonlarına ayrışarak çözeltide elektrik iletir.
+Elektrolizde anotta hangi olay gerçekleşir?|Yükseltgenme|Süblimleşme|İndirgenme|Çökelme|0|Elektrolizde de anotta yükseltgenme, katotta indirgenme olur.
+Erimiş NaCl elektroliz edilirse katot ve anotta hangi ürünler oluşur?|Katotta H₂, anotta O₂|Katotta O₂, anotta H₂|Katotta Na, anotta Cl₂|Katotta Cl₂, anotta Na|2|Na⁺ katotta indirgenip Na, Cl⁻ anotta yükseltgenip Cl₂ olur.
+Elektroliz için aşağıdakilerden hangisi doğrudur?|Elektrik enerjisi kimyasal enerjiye dönüşür|Kendiliğinden gerçekleşir|Isı kullanılmaz|Kimyasal enerji elektrik enerjisine dönüşür|0|Elektrolizde dışarıdan verilen elektrik enerjisiyle kendiliğinden olmayan tepkime yürütülür.
+Suyun elektrolizinde katotta ve anotta hangi gazlar toplanır?|Katotta O₂, anotta H₂|Katotta H₂, anotta O₂|İkisinde de O₂|İkisinde de H₂|1|Katotta H₂O indirgenip H₂ ; anotta H₂O yükseltgenip O₂ oluşur.
+Suyun elektrolizinde toplanan H₂ ve O₂ gazlarının hacim oranı (H₂ : O₂) nedir?|3 : 1|1 : 2|1 : 1|2 : 1|3|2H₂O → 2H₂ + O₂ olduğundan hacim oranı 2 : 1 dir.
+Korozyon nedir?|Metallerin erimesi|Metallerin parlaması|Metallerin çevreleriyle tepkimeye girerek bozunması|Metallerin soğuması|2|Korozyon, metalin çevresindeki maddelerle redoks tepkimesi vermesidir.
+Demirin paslanması için hangi maddeler gereklidir?|Yalnızca azot|Yalnızca karbondioksit|Oksijen ve su|Yalnızca helyum|2|Demir; oksijen ve nem (su) varlığında paslanır.
+Kurban elektrot (katodik koruma) için aşağıdakilerden hangisi doğrudur?|Demirden daha soy metal kullanılır|Demirden daha aktif bir metal (Mg, Zn) kullanılır|Plastik kullanılır|Yağ kullanılır|1|Daha aktif metal yükseltgenerek demiri korur.
+Kuru pil için aşağıdakilerden hangisi doğrudur?|Galvanik pil türüdür|Elektroliz hücresidir|Şarj edilir|Enerji üretmez|0|Kuru piller (Leclanché) kimyasal enerjiyi elektrik enerjisine dönüştüren galvanik pillerdir.
+Kurşun–asit aküsünde plakalar hangi maddelerdir?|Ag ve Au|Fe ve C|Cu ve Zn|Pb ve PbO₂|3|Araç akülerinde plakalar kurşun ve kurşun dioksittir.
+Şarj edilebilir piller için aşağıdakilerden hangisi doğrudur?|Redoks tepkimesi tersinirdir|Enerji üretmezler|Elektrolit yoktur|Tepkimeler tersinmezdir|0|Şarjda elektrik enerjisi tepkimeyi geri çevirir.
+Altın korozyona dayanıklı olmasının nedeni aşağıdakilerden hangisidir?|Plastik kaplı olması|Soy (aktif olmayan) bir metal olması|Çok aktif olması|Hafif olması|1|Altın zor yükseltgenir; soy metaldir.
+Galvanizleme nedir?|Demirin çinko ile kaplanması|Demirin eritilmesi|Demirin altınla kaplanması|Demirin boyanması|0|Galvanizlemede demir çinko ile kaplanarak korozyondan korunur.
+Gümüş kaplama işleminde kaplanacak nesne hangi elektrot olarak bağlanır?|Anot|Elektrolit|Katot|Tuz köprüsü|2|Ag⁺ iyonları nesne yüzeyinde indirgenerek gümüş olarak çöker; nesne katottur.
+Standart hidrojen elektrodunun potansiyeli kaç V olarak kabul edilir?|−1|0,76|0|1|2|Standart hidrojen elektrodu referans olarak 0 V kabul edilir.
+2Al + 3Cu²⁺ → 2Al³⁺ + 3Cu tepkimesinde aktarılan toplam elektron sayısı kaçtır?|2|5|6|3|2|2 Al → 2Al³⁺ için 2·3 = 6 elektron verilir; 3 Cu²⁺ için 3·2 = 6 elektron alınır.
+Mg + 2Ag⁺ → Mg²⁺ + 2Ag tepkimesinde indirgen madde ve aktarılan elektron sayısı hangisidir?|Ag, 2|Mg, 2|Ag⁺, 2|Mg, 1|1|Mg elektron vererek Mg²⁺ olur (indirgen) ve toplam 2 elektron aktarılır.
+Standart pil potansiyeli pozitif olan bir redoks tepkimesi için aşağıdakilerden hangisi doğrudur?|Kendiliğinden gerçekleşmez|Yalnızca elektrolizle olur|Kendiliğinden gerçekleşir|Gerçekleşemez|2|E°pil > 0 ise tepkime standart koşullarda kendiliğinden yürür.
+Yakıt pili (hidrojen–oksijen) için aşağıdakilerden hangisi doğrudur?|Ürünü sudur|Ürünü CO₂ dir|Isı vermez|Ürünü kömürdür|0|H₂ ve O₂ yakıt pilinde reaksiyona girerek su ve elektrik enerjisi üretir.
+Standart koşullar için aşağıdakilerden hangisi doğrudur?|0 °C, 2 M, 2 atm|25 °C, 1 M, 1 atm|25 °C, 5 M, 3 atm|100 °C, 1 M, 1 atm|1|Standart potansiyeller 25 °C de, 1 M derişimde ve 1 atm basınçta tanımlanır.
+Elementlerin yükseltgenme basamağı kaçtır?|−1|0|+1|Elemente göre değişir|1|Serbest hâldeki elementlerin yükseltgenme basamağı sıfırdır.
+SO₄²⁻ iyonunda S atomunun yükseltgenme basamağı kaçtır?|+4|+2|+6|−2|2|x + 4·(−2) = −2 → x = +6.
+NH₃ molekülünde N atomunun yükseltgenme basamağı kaçtır?|+5|0|+3|−3|3|3·(+1) + x = 0 → x = −3.
+CO₂ molekülünde C atomunun yükseltgenme basamağı kaçtır?|+2|−4|+4|0|2|x + 2·(−2) = 0 → x = +4.
+H₂O₂ bileşiğinde O atomunun yükseltgenme basamağı kaçtır?|−2|0|+1|−1|3|Peroksitlerde oksijen −1 dir: 2(+1) + 2x = 0 → x = −1.
+Redoks tepkimeleri için aşağıdakilerden hangisi doğrudur?|Yalnızca çökelme tepkimesidir|Enerji açığa çıkarmaz|Elektron aktarımıyla gerçekleşir|Yalnızca asit–baz tepkimesidir|2|Redoks tepkimelerinde yükseltgenme ve indirgenme birlikte yürür.
+Redoks tepkimesinde elektron veren madde için aşağıdakilerden hangisi doğrudur?|İndirgenir|Çözünür|Değişmez|Yükseltgenir|3|Elektron veren madde yükseltgenir.
+Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag tepkimesinde Cu için aşağıdakilerden hangisi doğrudur?|İndirgen madde olarak yükseltgenir|Yükseltgen madde olarak indirgenir|Çöker|Değişmez|0|Cu 0 → +2 olarak yükseltgenir; elektron vererek Ag⁺ yı indirger.
+Galvanik pilde tuz köprüsünde sıklıkla kullanılan bileşik aşağıdakilerden hangisidir?|KNO₃|Zn|O₂|Cu|0|Tuz köprüsü genellikle KNO₃ veya KCl gibi inert bir tuz içerir.
+Elektrolizde elektrotlar için aşağıdakilerden hangisi doğrudur?|Anot −, katot + yüklüdür|Anot + , katot − yüklüdür|İkisi de + dır|İkisi de − dir|1|Elektrolizde anot pozitif, katot negatif kutuba bağlıdır.
+Lityum–iyon piller en çok hangi cihazlarda kullanılır?|Radyatör|Su ısıtıcı|Cep telefonu ve dizüstü bilgisayarlar|Mum|2|Hafif ve şarj edilebilir olduğu için taşınabilir cihazlarda kullanılır.
+Akülerin şarj edilmesi sırasında hangi dönüşüm gerçekleşir?|Kimyasal enerji elektrik enerjisine|Işık ısıya|Elektrik enerjisi kimyasal enerjiye|Isı enerjisi ışığa|2|Şarjda dışarıdan verilen elektrik enerjisi kimyasal enerji olarak depolanır.
+Elektrolizde elektrik enerjisi kimyasal enerjiye dönüşürken galvanik pilde hangi dönüşüm gerçekleşir?|Isı ışığa|Kimyasal enerji elektrik enerjisine|Elektrik enerjisi kimyasal enerjiye|Işık ısıya|1|Galvanik pilde kendiliğinden redoks elektrik üretir.
+Bir galvanik pilde katot kütlesi zamanla nasıl değişir?|Genellikle artar (metal birikir)|Değişmez|Azalır|Önce artar sonra sıfırlanır|0|Katotta metal iyonları indirgenip elektrot üzerinde birikir.

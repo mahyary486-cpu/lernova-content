@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+Alkanların genel formülü aşağıdakilerden hangisidir?|CₙH₂ₙ|CₙH₂ₙ₊₂|CₙHₙ|CₙH₂ₙ₋₂|1|Doymuş hidrokarbonlar olan alkanların genel formülü CₙH₂ₙ₊₂ dir.
+C₃H₈ bileşiğinin adı aşağıdakilerden hangisidir?|Bütan|Propen|Etan|Propan|3|Üç karbonlu alkan propandır.
+C₄H₁₀ molekül formülüne sahip kaç farklı yapı (izomer) yazılabilir?|4|3|2|1|2|Bütan ve izobütan (2-metilpropan) olmak üzere 2 izomer vardır.
+Alkenlerin genel formülü aşağıdakilerden hangisidir?|CₙH₂ₙ₋₂|CₙH₂ₙ₊₂|CₙHₙ|CₙH₂ₙ|3|Bir çift bağ içeren alkenlerin genel formülü CₙH₂ₙ dir.
+C₂H₄ bileşiğinin adı aşağıdakilerden hangisidir?|Etan|Etanol|Etin|Eten|3|İki karbonlu çift bağlı hidrokarbon etendir.
+Alkinlerde karbonlar arasında hangi bağ bulunur?|Çift bağ|Tek bağ|Üçlü bağ|İyonik bağ|2|Alkinlerde en az bir C≡C üçlü bağı vardır.
+Doğal gazın ana bileşeni aşağıdakilerden hangisidir?|Etan|Propan|Bütan|Metan|3|Doğal gazın büyük kısmı metan (CH₄) tür.
+Doymuş hidrokarbon için aşağıdakilerden hangisi doğrudur?|Çift bağ içerir|Halka yapısındadır|Üçlü bağ içerir|Karbon–karbon bağlarının hepsi tek bağdır|3|Doymuş hidrokarbonlarda yalnızca tek bağ vardır.
+C₅H₁₂ formülüne sahip kaç farklı alkan izomeri vardır?|4|3|2|5|1|Pentan, izopentan ve neopentan olmak üzere 3 izomer vardır.
+Alkollerin fonksiyonel grubu aşağıdakilerden hangisidir?|–CHO|–OH|–COOH|–NH₂|1|Alkollerde hidroksil grubu (–OH) bulunur.
+Etanolün molekül formülü aşağıdakilerden hangisidir?|C₂H₅OH|CH₃COOH|CH₃OH|C₂H₆|0|Etanol iki karbonlu alkoldür: C₂H₅OH.
+Metanol ve etanol bileşiklerinin ortak fonksiyonel grubu aşağıdakilerden hangisidir?|Hidroksil (–OH)|Karbonil (C=O)|Amino (–NH₂)|Karboksil (–COOH)|0|Her ikisi de alkoldür; hidroksil grubu içerir.
+Karboksilik asitlerin fonksiyonel grubu aşağıdakilerden hangisidir?|–O–|–OH|–CHO|–COOH|3|Organik asitlerde karboksil grubu (–COOH) bulunur.
+Asetik asidin (etanoik asit) formülü aşağıdakilerden hangisidir?|CH₃COOH|CH₃CHO|HCOOH|C₂H₅OH|0|Sirkenin ana bileşeni asetik asit CH₃COOH dır.
+Ester nasıl oluşur?|Alkanın yanmasından|Alkenin hidrojenlenmesinden|İki alkolün tepkimesinden|Karboksilik asit ile alkolün tepkimesinden|3|Asit + alkol → ester + su (esterleşme).
+Aldehitlerin fonksiyonel grubu aşağıdakilerden hangisidir?|–COOH|–NH₂|–OH|–CHO|3|Aldehitlerde karbonil grubu zincir ucundadır: –CHO.
+Ketonlarda karbonil grubu (C=O) nerede bulunur?|Zincir ucunda|Zincir içinde|Yalnızca halkada|Yoktur|1|Ketonlarda C=O grubu iki karbon atomu arasındadır.
+Aseton hangi bileşik sınıfındandır?|Keton|Alkol|Aldehit|Asit|0|Aseton (propanon) CH₃COCH₃ bir ketondur.
+Eterlerin genel yapısı aşağıdakilerden hangisidir?|R–O–R′|R–NH₂|R–COOH|R–OH|0|Eterlerde iki alkil grubu bir oksijen atomuyla bağlanır.
+Aminlerin fonksiyonel grubu aşağıdakilerden hangisidir?|–OH|–CHO|–COOH|–NH₂|3|Aminler azot içeren –NH₂ grubuna sahiptir.
+Eten + H₂ → etan tepkimesi hangi tür tepkimedir?|Yer değiştirme|Yanma|Ayrışma|Katılma|3|Doymamış hidrokarbona hidrojen katılması katılma tepkimesidir.
+Polimer nedir?|Tek bir element|Küçük bir atom|İyonik kristal|Küçük moleküllerin (monomer) birleşmesiyle oluşan büyük molekül|3|Polimerler çok sayıda monomerin birbirine bağlanmasıyla oluşur.
+Polietilen polimerinin monomeri aşağıdakilerden hangisidir?|Propen|Etan|Metan|Eten|3|Polietilen, eten (etilen) monomerlerinin polimerleşmesiyle oluşur.
+PVC polimerinin monomeri aşağıdakilerden hangisidir?|Propen|Stiren|Eten|Vinil klorür|3|PVC, vinil klorürün (CH₂=CHCl) polimerleşmesiyle oluşur.
+Aşağıdakilerden hangisi doğal bir polimerdir?|Polietilen|Naylon|Nişasta|PVC|2|Nişasta, selüloz, protein ve DNA doğal polimerlerdir.
+Plastik atıkların çevreye zararını azaltmak için ne yapılmalıdır?|Toprağa gömülmeli|Yakılmalı|Geri dönüştürülmeli|Doğaya atılmalı|2|Geri dönüşüm kaynak ve çevre açısından en uygun çözümdür.
+Sabunlaşma tepkimesi nedir?|Alkan + O₂ → CO₂ + H₂O|Yağ + NaOH → sabun + gliserol|Alken + H₂ → alkan|Alkol + asit → ester|1|Yağ asidi esterlerinin kuvvetli bazla hidrolizi sabun ve gliserol verir.
+Sabun molekülünün yapısı aşağıdakilerden hangisidir?|Yalnızca hidrofob|Yalnızca hidrofil|Suyu seven (hidrofil) baş ve yağı seven (hidrofob) kuyruk|İyonik kristal|2|Sabun molekülünde karboksilat başı suda çözünür, hidrokarbon kuyruğu yağda çözünür.
+CH₄ + 2O₂ → CO₂ + 2H₂O tepkimesi hangi tür tepkimedir?|Nötrleşme|Yanma|Katılma|Ayrışma|1|Hidrokarbonların oksijenle tepkimesi yanma tepkimesidir.
+Benzen (C₆H₆) hangi sınıf bileşiktir?|Alkol|Alkan|Aromatik hidrokarbon|Alken|2|Benzen, halkalı ve konjuge çift bağlı aromatik bir hidrokarbondur.
+2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O tepkimesine göre 1 mol C₂H₆ tamamen yandığında kaç mol CO₂ oluşur?|2|1|4|3|0|2 mol C₂H₆ 4 mol CO₂ verir; 1 mol için 2 mol CO₂.
+Petrolün ürünlerine ayrılması hangi yöntemle yapılır?|Süzme|Fraksiyonlu damıtma|Mıknatıs|Çöktürme|1|Petrol, kaynama noktalarına göre fraksiyonlu damıtmayla ayrılır.
+Etanolün yükseltgenmesiyle oluşan ilk ürün aşağıdakilerden hangisidir?|Metan|Asetik asit|Asetaldehit (etanal)|Eten|2|Birincil alkol yükseltgenince önce aldehit, sonra karboksilik asit oluşur.
+Organik bileşiklerin ortak özelliği aşağıdakilerden hangisidir?|Karbon atomu içermeleri|Suda çözünmeleri|İyonik olmaları|Metal içermeleri|0|Organik bileşikler karbon–hidrojen (ve diğer ametal) bağlı bileşiklerdir.
+Karbon atomu bileşiklerinde en fazla kaç bağ yapar?|6|2|3|4|3|Karbonun değerlik elektronu sayısı 4 olduğundan 4 bağ yapar.
+Glikoz hangi tür bileşiktir?|Asit|Metal|Organik bir bileşik (karbonhidrat)|İnorganik tuz|2|Glikoz karbon, hidrojen ve oksijen içeren bir karbonhidrattır.
+Doymamış yağ asitlerinde ne bulunur?|İyonik bağ|En az bir çift bağ|Yalnızca tek bağ|Metalik bağ|1|Doymamış yağ asitlerinin hidrokarbon zincirinde en az bir C=C bağı vardır.
+Aynı molekül formülüne sahip fakat yapıları farklı bileşiklere ne ad verilir?|İzotop|İzomer|Polimer|Monomer|1|Aynı formül, farklı yapı: izomer.
+C₂H₆O formülüne sahip iki izomer aşağıdakilerden hangisidir?|Asetik asit ve etanol|Metan ve metanol|Etan ve eten|Etanol ve dimetil eter|3|C₂H₆O hem etanol (alkol) hem dimetil eter (CH₃OCH₃) olabilir.
+Alkol içeceklerinde bulunan alkol hangisidir?|Propanol|Gliserol|Etanol|Metanol|2|İçkilerdeki alkol etanoldür; metanol zehirlidir.
+Esterlerin genel özelliği aşağıdakilerden hangisidir?|Çoğunlukla hoş (meyve) kokuludur|Zehirlidir|Kokusuzdur|Sert kokuludur|0|Pek çok ester meyve ve çiçek kokularından sorumludur.
+Esterin hidrolizi (su ile tepkime) sonucunda hangi ürünler oluşur?|Karboksilik asit ve alkol|Alkan ve asit|Eter ve alkol|Aldehit ve alken|0|Esterleşmenin ters tepkimesi olan hidrolizde asit ve alkol geri oluşur.
+Brom suyunu renksizleştiren hidrokarbon aşağıdakilerden hangisidir?|Benzen|Metan|Alken|Alkan|2|Alkenler Br₂ ile katılma tepkimesi vererek brom suyunun rengini giderir.
+Etan, eten ve etin bileşiklerini karbon–karbon bağ türü açısından sıralarken aşağıdakilerden hangisi doğrudur?|Hepsi tek bağ|Etan tek, eten çift, etin üçlü bağ|Hepsi çift bağ|Etan çift, eten tek, etin üçlü bağ|1|Etan C–C, eten C=C, etin C≡C bağı içerir.
+Hidrokarbon yakıtların tamamen yanması sonucunda hangi ürünler oluşur?|CO ve H₂|O₂ ve N₂|C ve H₂|CO₂ ve H₂O|3|Tam yanmada karbon CO₂ e, hidrojen H₂O ya dönüşür.
+Sirkenin ekşi tadı hangi bileşikten kaynaklanır?|Etanol|Gliserol|Metan|Asetik asit|3|Sirke seyreltik asetik asit çözeltisidir.
+Aşağıdaki bileşiklerden hangisi bir alkoldür?|CH₃COOH|CH₃CHO|CH₃CH₃|CH₃CH₂OH|3|–OH grubu içeren bileşik alkoldür; CH₃CH₂OH etanoldür.
+Polimerleşmede küçük moleküllere ne ad verilir?|Monomer|Polimer|İzomer|İzotop|0|Polimeri oluşturan tekrar eden küçük birimlere monomer denir.
+Aşağıdakilerden hangisi sentetik (yapay) bir polimerdir?|Protein|Naylon|Nişasta|Selüloz|1|Naylon insan yapımı bir polimerdir; selüloz, nişasta ve protein doğal polimerlerdir.
+Aşağıdaki bileşiklerden hangisinde –COOH fonksiyonel grubu bulunur?|Etan|Etanol|Etanoik asit|Etanal|2|Karboksilik asitlerde –COOH grubu vardır; etanoik asit CH₃COOH dır.

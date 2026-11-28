@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+Torkun SI birimi aşağıdakilerden hangisidir?|kg·m/s|J/s|N·m|N/m|2|Tork τ = F·d olduğundan birimi N·m dir.
+Bir kapıya menteşeden 0,5 m uzaklıkta, kapıya dik doğrultuda 20 N kuvvet uygulanıyor. Torkun büyüklüğü kaç N·m dir?|0,025|20|10|40|2|τ = F·d = 20·0,5 = 10 N·m.
+Dönme eksenine 2 m uzaklıktaki noktaya, kola 30° açıyla 10 N kuvvet uygulanıyor. Torkun büyüklüğü kaç N·m dir? (sin30° = 0,5)|20|10|5|17,3|1|τ = F·d·sinθ = 10·2·0,5 = 10 N·m.
+Bir cismin dengede olması için aşağıdakilerden hangisi gerekir?|Net kuvvetin ve net torkun sıfır olması|Yalnızca net torkun sıfır olması|Yalnızca net kuvvetin sıfır olması|Kuvvetlerin eşit olması|0|Hem ötelenme hem dönme dengesi için ΣF = 0 ve Στ = 0 olmalıdır.
+Tahterevallinin bir ucunda destekten 2 m uzakta 40 kg lık çocuk oturmaktadır. Denge için karşı uçta 20 kg lık çocuk desteğe kaç m uzakta oturmalıdır?|4|1|8|2|0|40·2 = 20·d olduğundan d = 4 m.
+Ortasından desteklenen homojen 6 m uzunluğundaki bir çubuğun sol ucuna 20 N lık yük asılıyor. Destekten 1 m sağdaki noktaya kaç N yük asılırsa çubuk yatay dengede kalır?|60|40|20|120|0|Sol uç destekten 3 m uzaktadır: 20·3 = F·1 → F = 60 N.
+Homojen ve düzgün bir çubuğun ağırlık merkezi nerededir?|Çubuk dışında|Dörtte birinde|Ucunda|Geometrik merkezinde|3|Homojen çubuğun ağırlık merkezi uzunluğunun ortasındadır.
+Eşit kütleli iki cisim 0 m ve 6 m konumlarındadır. Sistemin kütle merkezi kaç m konumundadır?|3|6|0|2|0|Eşit kütlelerin kütle merkezi ortadadır: (0 + 6)/2 = 3 m.
+2 kg lık cisim x = 0 da, 4 kg lık cisim x = 6 m de bulunuyor. Sistemin kütle merkezi kaç m konumundadır?|3|4|6|2|1|x_km = (2·0 + 4·6)/6 = 4 m.
+Momentumun SI birimi aşağıdakilerden hangisidir?|kg·m/s|J|N·m|kg·m/s²|0|p = m·v olduğundan birimi kg·m/s dir.
+Kütlesi 2 kg olan cisim 5 m/s hızla gidiyor. Momentumu kaç kg·m/s dir?|25|2,5|10|7|2|p = m·v = 2·5 = 10 kg·m/s.
+Bir cisme 20 N kuvvet 0,5 s boyunca uygulanıyor. Cismin momentum değişimi kaç kg·m/s dir?|40|20|10|0,025|2|İtme J = F·Δt = 20·0,5 = 10 N·s ve Δp = J = 10 kg·m/s.
+İtme (impuls) ile ilgili aşağıdakilerden hangisi doğrudur?|Momentum değişimine eşittir|Yalnızca çarpışmada vardır|Kinetik enerji değişimine eşittir|Daima sıfırdır|0|İtme–momentum teoremi: J = F·Δt = Δp.
+Durgun hâldeki 2 kg lık cisme sürtünmesiz zeminde 10 N lık sabit kuvvet 3 s uygulanıyor. Cismin son hızı kaç m/s olur?|15|5|10|30|0|F·Δt = m·Δv → 10·3 = 2·v → v = 15 m/s.
+Bir cisme 0–2 s arasında 10 N, 2–4 s arasında 20 N kuvvet uygulanıyor. Toplam itme kaç N·s dir?|60|80|40|30|0|J = 10·2 + 20·2 = 20 + 40 = 60 N·s.
+Momentumun korunması için hangi koşul gerekir?|Hızların eşit olması|Çarpışmanın esnek olması|Sisteme etki eden net dış kuvvetin sıfır olması|Kütlelerin eşit olması|2|Net dış kuvvet sıfırsa sistemin toplam momentumu korunur.
+2 kg kütleli bir cisim 3 m/s hızla, durgun 1 kg lık cisme çarpıp onunla yapışıyor. Birleşik cismin hızı kaç m/s olur?|1|3|2|4|2|2·3 = (2 + 1)·v → v = 2 m/s.
+3 kg kütleli cisim 4 m/s, 1 kg kütleli cisim ters yönde 4 m/s hızla gidiyor. Çarpışıp yapışırlarsa ortak hız kaç m/s olur?|0|8|4|2|3|3·4 − 1·4 = 8 = 4·v → v = 2 m/s (3 kg lık cismin yönünde).
+Esnek çarpışmada aşağıdakilerden hangisi korunur?|Hiçbiri|Yalnızca momentum|Momentum ve kinetik enerji|Yalnızca kinetik enerji|2|Esnek çarpışmada hem toplam momentum hem toplam kinetik enerji korunur.
+Esnek olmayan çarpışmada aşağıdakilerden hangisi doğrudur?|Momentum korunur, kinetik enerji korunmaz|İkisi de korunur|İkisi de korunmaz|Kinetik enerji korunur, momentum korunmaz|0|Esnek olmayan çarpışmada net dış kuvvet yoksa momentum korunur; kinetik enerjinin bir kısmı ısı ve şekil değişimine gider.
+Durgun hâlde bulunan 6 kg lık cisim patlayarak 2 kg ve 4 kg lık iki parçaya ayrılıyor. 2 kg lık parça 6 m/s hızla sağa gidiyorsa 4 kg lık parçanın hızı kaç m/s ve hangi yönde olur?|3 m/s, sola|6 m/s, sola|12 m/s, sola|3 m/s, sağa|0|Toplam momentum sıfır: 2·6 = 4·v → v = 3 m/s ve ters yönde (sola).
+Roketlerin hareketi hangi ilkeyle açıklanır?|Momentumun korunumu|Enerjinin korunumu|Pascal ilkesi|Arşimet ilkesi|0|Gazlar geriye atılırken roket ileri momentum kazanır; toplam momentum korunur.
+Özdeş iki bilyeden biri durgun diğerine esnek olarak merkezi çarparsa ne olur?|İkisi yapışır|Çarpan durur, çarpılan çarpanın hızıyla gider|Çarpan geri döner|İkisi de durur|1|Eşit kütleli esnek merkezi çarpışmada hızlar yer değiştirir.
+1 kg kütleli top 10 m/s hızla duvara dik çarpıp aynı büyüklükte hızla geri dönüyor. Momentum değişiminin büyüklüğü kaç kg·m/s dir?|10|5|0|20|3|Δp = m·(v − (−v)) = 1·20 = 20 kg·m/s.
+Eylemsizlik momentinin SI birimi aşağıdakilerden hangisidir?|kg·m|kg·m²|N·m|kg/m²|1|I = m·r² olduğundan birimi kg·m² dir.
+Kütlesi 2 kg olan noktasal cisim dönme eksenine 3 m uzaklıkta ise eylemsizlik momenti kaç kg·m² dir?|9|6|12|18|3|I = m·r² = 2·9 = 18 kg·m².
+Noktasal bir cismin dönme eksenine uzaklığı iki katına çıkarılırsa eylemsizlik momenti nasıl değişir?|4 katına çıkar|2 katına çıkar|Yarıya düşer|Değişmez|0|I = m·r² olduğundan r iki katına çıkınca I dört katına çıkar.
+Açısal momentum için aşağıdakilerden hangisi doğrudur?|L = m·v|L = ½·I·ω²|L = I·ω|L = F·t|2|Açısal momentum, eylemsizlik momenti ile açısal hızın çarpımıdır.
+Eylemsizlik momenti 4 kg·m² olan cisim 3 rad/s açısal hızla dönüyor. Açısal momentumu kaç kg·m²/s dir?|7|12|36|1,33|1|L = I·ω = 4·3 = 12 kg·m²/s.
+Dönmekte olan buz patencisi kollarını vücuduna yaklaştırırsa açısal hızı nasıl değişir?|Değişmez|Artar|Sıfır olur|Azalır|1|Kollar yaklaşınca I azalır; L = I·ω sabit olduğundan ω artar.
+Bir sistemde net dış tork sıfır ise aşağıdakilerden hangisi korunur?|Kinetik enerji her zaman|Açısal momentum|Kütle merkezinin hızı her zaman|Doğrusal momentum her zaman|1|Net dış tork sıfır olduğunda toplam açısal momentum sabit kalır.
+Eylemsizlik momentleri I₁ = 6 kg·m² ve açısal hızı ω₁ = 4 rad/s olan sistemin eylemsizlik momenti I₂ = 3 kg·m² ye düşerse açısal hızı kaç rad/s olur?|4|8|2|12|1|I₁ω₁ = I₂ω₂ → 6·4 = 3·ω₂ → ω₂ = 8 rad/s.
+Açısal momentum korunurken eylemsizlik momenti yarıya inerse dönme kinetik enerjisi nasıl değişir?|2 katına çıkar|Yarıya düşer|4 katına çıkar|Değişmez|0|K = L²/(2I) olduğundan I yarıya inince K iki katına çıkar.
+Net torkun açısal momentuma etkisi nedir?|Açısal momentumu değiştirir|Kütleyi değiştirir|Hiçbir etkisi yoktur|Yalnızca doğrusal momentumu değiştirir|0|Net dış tork açısal momentumun zamanla değişimine neden olur.
+Kütle merkezi için aşağıdakilerden hangisi doğrudur?|Her zaman uçtadır|Her zaman cismin içindedir|Cismin dışında olabilir|Yalnızca simetrik cisimlerde vardır|2|Halka gibi cisimlerde kütle merkezi cismin dışında (halkanın merkezinde) bulunur.
+Ağırlık merkezi desteğin altında kalan cisim hangi dengededir?|Kararlı denge|Kararsız denge|Dengesiz|Yarı kararlı|0|Ağırlık merkezi askı noktasının altındaysa küçük bozulmalarda cisim eski konumuna döner; kararlı dengedir.
+Torkun kuvvet koluna bağlılığı hakkında aşağıdakilerden hangisi doğrudur?|Kuvvet kolu sıfırken tork en büyüktür|Kuvvet kolu arttıkça tork azalır|Tork kuvvet koluna bağlı değildir|Kuvvet kolu arttıkça tork artar|3|τ = F·d olduğundan d büyüdükçe tork artar.
+Menteşesinden 0,8 m uzaklıkta kapıya dik olarak 25 N kuvvet uygulanıyor. Tork kaç N·m dir?|0,8|20|31,25|25|1|τ = 25·0,8 = 20 N·m.
+Kütle merkezinin tanımı aşağıdakilerden hangisidir?|Kütle dağılımına göre belirlenen ortalama konumdur|Yalnızca küresel cisimlerde vardır|Cismin yoğunluğu en küçük yerdir|Her zaman cismin ucunda bulunur|0|Kütle merkezi, kütlelerin konumlarının kütle ağırlıklı ortalamasıdır.
+Momentum için aşağıdakilerden hangisi doğrudur?|Yönü yoktur|Vektörel bir büyüklüktür|Skaler bir büyüklüktür|Birimi N dur|1|p = m·v ve hız vektörel olduğundan momentum da vektöreldir.
+Dikdörtgen biçimli homojen levhanın ağırlık merkezi nerededir?|Levha dışında|Köşegenlerin kesim noktasında|Kenar ortasında|Bir köşesinde|1|Homojen dikdörtgenin ağırlık merkezi köşegenlerin kesim noktasındadır.
+Zıt yönlü hareket eden iki cisimden birinin momentumu +10 kg·m/s, diğerinin −6 kg·m/s ise toplam momentum kaç kg·m/s dir?|60|16|4|−4|2|Vektörel toplam 10 − 6 = 4 kg·m/s dir.
+İtmenin SI birimi aşağıdakilerden hangisine eşdeğerdir?|N·s = kg·m/s|N/s|W|J|0|J = F·Δt olduğundan N·s dir ve bu kg·m/s e eşdeğerdir.
+Uzak bir yerden düşen yumurta halıya düştüğünde kırılmama nedeni nedir?|Hızın artması|Momentum değişiminin azalması|Kütlenin azalması|Çarpışma süresinin uzayıp ortalama kuvvetin azalması|3|Δp sabitken Δt uzayınca F = Δp/Δt küçülür.
+Bir cismin momentum değişimi 20 kg·m/s ve çarpışma süresi 0,1 s ise ortalama kuvvet kaç N dur?|2 000|200|20|2|1|F = Δp/Δt = 20/0,1 = 200 N.
+Esnek olmayan çarpışmanın bir özelliği aşağıdakilerden hangisidir?|Kinetik enerji korunur|Cisimler birbirini hiç etkilemez|Momentum korunmaz|Cisimler çoğunlukla yapışarak ilerler|3|Esnek olmayan çarpışmada cisimler yapışabilir ve enerjinin bir kısmı kaybolur.
+Kütleleri 2 kg olan iki cisim 3 m/s hızla zıt yönlerde birbirine doğru gidiyor. Toplam momentum kaç kg·m/s dir?|12|0|6|3|1|2·3 − 2·3 = 0.
+Sürtünmesiz buz üzerinde duran 60 kg kütleli kişi, 3 kg lık çantayı ileri doğru 10 m/s hızla fırlatıyor. Kişinin hızı kaç m/s olur ve hangi yöndedir?|0,5 m/s geriye|10 m/s geriye|5 m/s geriye|0,5 m/s ileriye|0|3·10 = 60·v → v = 0,5 m/s ve çantanın tersi yönde (geriye).
+Açısal momentumun korunumuna örnek aşağıdakilerden hangisidir?|Işığın kırılması|Topun yere düşmesi|Buz patencisinin kollarını kapatınca hızlanması|Suyun kaynaması|2|Dönen patenci I yi azaltınca ω yı artırır; L korunur.
+Elinde ağırlık tutan ve dönen sandalyede oturan kişi kollarını yana açarsa dönme hızı nasıl değişir?|Azalır|Sıfır olur|Değişmez|Artar|0|Kollar açılınca I artar; L sabit olduğundan ω azalır.

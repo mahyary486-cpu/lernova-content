@@ -1,0 +1,4 @@
+{
+  "Tork, denge ve kütle merkezi": "Tork τ = F·d·sinθ ile hesaplanır; birimi N·m dir. Bir cismin dengede olması için net kuvvet ve net tork sıfır olmalıdır. Kütle merkezi kütle dağılımına göre ağırlıklı ortalama konumdur; homojen cisimlerde geometrik merkezdir. Ağırlık merkezinin konumu denge türünü belirler.",
+  "İtme, momentum ve açısal momentum": "Momentum p = m·v vektörel bir büyüklüktür; itme J = F·Δt momentum değişimine eşittir. Net dış kuvvet sıfırsa toplam momentum korunur: esnek çarpışmada momentum ve kinetik enerji, esnek olmayan çarpışmada yalnızca momentum korunur. Dönme hareketinde I = Σmr², L = Iω dır ve dış tork sıfırsa L korunur."
+}

@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+DNA'nın yapı taşı aşağıdakilerden hangisidir?|Yağ asidi|Nükleotit|Glikoz|Amino asit|1|DNA ve RNA nükleotitlerden oluşur.
+DNA'nın çift sarmalında A ile hangi baz eşleşir?|T|G|C|U|0|Adenin timinle, guanin sitozinle eşleşir.
+Bir DNA molekülünde %30 oranında adenin varsa guanin oranı yüzde kaçtır?|70|20|30|40|1|A = T = %30 ise A + T = %60; G + C = %40 ve G = %20.
+DNA replikasyonu hangi özellikle gerçekleşir?|Dağınık|Rastgele|Tam korunumlu|Yarı korunumlu|3|Her yeni DNA bir eski, bir yeni zincirden oluşur.
+DNA zincirlerini birbirinden ayıran enzim hangisidir?|DNA polimeraz|Ligaz|Amilaz|Helikaz|3|Helikaz hidrojen bağlarını kırıp iki zinciri ayırır.
+Yeni DNA zincirinin nükleotitlerini ekleyen enzim hangisidir?|Katalaz|Helikaz|DNA polimeraz|Lipaz|2|DNA polimeraz kalıba uygun nükleotitleri ekler.
+RNA ile ilgili aşağıdakilerden hangisi doğrudur?|Deoksiriboz içerir|Çift zincirlidir|Tek zincirlidir ve urasil içerir|Timin içerir|2|RNA tek zincirli, riboz şekerli ve urasil bazlıdır.
+DNA'dan mRNA sentezlenmesine ne ad verilir?|Translasyon|Transkripsiyon|Replikasyon|Mutasyon|1|Genin RNA ya kopyalanmasına transkripsiyon denir.
+DNA kalıp zincirinde 3′-TAC-5′ üçlüsüne karşılık gelen mRNA kodonu aşağıdakilerden hangisidir?|TAC|AUG|UAC|ATG|1|Eşleşme: T–A, A–U, C–G; mRNA kodonu AUG olur.
+Proteinin mRNA'dan sentezlenmesine ne ad verilir?|Replikasyon|Transkripsiyon|Fotosentez|Translasyon|3|mRNA'daki bilgiye göre ribozomda amino asit zinciri sentezlenir.
+mRNA'da bir amino asidi şifreleyen üçlü baz dizisine ne ad verilir?|Gen|Kodon|Antikodon|Kromozom|1|mRNA üzerinde üçlü baz diziliminin her birine kodon denir.
+Genetik şifrede toplam kaç farklı kodon vardır?|20|64|16|4|1|4 baz üçlü sıralandığında 4³ = 64 kodon oluşur.
+Amino asitleri ribozoma taşıyan RNA türü hangisidir?|mRNA|tRNA|rRNA|DNA|1|tRNA amino asidi ribozoma getirir.
+tRNA üzerindeki üçlü baz dizisine ne ad verilir?|Antikodon|Kodon|Gen|Promotor|0|Antikodon mRNA'daki kodona tamamlayıcıdır.
+Uzunluğu 30 nükleotit olan kodlayıcı mRNA kaç amino asit şifreler? (başlama ve durma kodonları dahil edilmeden)|3|30|90|10|3|Her 3 nükleotit bir amino asidi şifreler: 30/3 = 10.
+Translasyonu başlatan kodon aşağıdakilerden hangisidir?|UGA|AUG|UAG|UAA|1|AUG başlama kodonudur ve metionin şifreler.
+Aşağıdakilerden hangisi bir durma kodonudur?|UAA|GCU|CGA|AUG|0|UAA, UAG ve UGA durma kodonlarıdır.
+Bir DNA dizisinde bir bazın eklenmesi veya çıkması okuma çerçevesini kaydırır. Bu mutasyon türü hangisidir?|Anlam değişimi|Sessiz mutasyon|Çerçeve kayması|Kromozom kaybı|2|Çerçeve kaymasında sonraki tüm kodonlar değişir.
+Gen mutasyonu hakkında aşağıdakilerden hangisi doğrudur?|Hücre bölünmesidir|Kromozomların kaybıdır|DNA'daki baz dizilişinin değişmesidir|Proteinin parçalanmasıdır|2|Gen mutasyonu, genin nükleotit dizisindeki değişikliktir.
+Mutasyona neden olan fiziksel veya kimyasal etkenlere ne ad verilir?|Hormon|Mutajen|Antijen|Enzim|1|UV, X ışınları ve bazı kimyasallar mutajendir.
+Orak hücreli aneminin nedeni aşağıdakilerden hangisidir?|Kromozom sayısının artması|Mitokondri kaybı|Enzim eksikliği|Hemoglobin genindeki tek baz değişimi|3|Tek bir baz değişimi hemoglobinin yapısını bozar.
+Biyoteknoloji nedir?|Yalnızca ilaç yapımı|Canlıların veya parçalarının insan yararına kullanıldığı teknolojiler|Yalnızca bitki yetiştirme|Yalnızca fosil yakıt kullanımı|1|Biyoteknoloji canlı sistemlerin ürün ve süreç geliştirmede kullanılmasıdır.
+İki farklı canlıya ait DNA parçalarının birleştirilmesiyle elde edilen DNA'ya ne ad verilir?|Mutant DNA|Replikasyon|Rekombinant DNA|Plazmit|2|Farklı kaynaklı DNA'ların birleşmesiyle rekombinant DNA oluşur.
+DNA'yı belirli noktalardan kesen enzimlere ne ad verilir?|Restriksiyon enzimleri|Polimeraz|DNA ligaz|Helikaz|0|Restriksiyon enzimleri DNA'yı belirli dizilerde keser.
+Bakterilerde bulunan, gen aktarımında vektör olarak kullanılan halkasal DNA parçasına ne ad verilir?|Kromozom|Mitokondri|Plazmit|Ribozom|2|Plazmitler bakteri kromozomundan bağımsız küçük DNA halkalarıdır.
+İnsülin hormonunun büyük miktarda üretilmesi için hangi canlılar kullanılır?|Bitkiler|Genetiği değiştirilmiş bakteriler|Mantarlar|Yosunlar|1|İnsülin geni bakterilere aktarılır ve bakteriler insülin üretir.
+Başka bir canlıdan gen aktarılmış canlıya ne ad verilir?|Transgenik organizma|Mutant|Klon|Hibrit|0|Transgenik canlıda yabancı bir gen bulunur.
+GDO (genetiği değiştirilmiş organizma) ile ilgili aşağıdakilerden hangisi doğrudur?|Genomuna yabancı gen eklenmiş canlıdır|Doğal olarak oluşmuş canlıdır|Yalnızca hayvanlardır|Genetik materyali yoktur|0|GDO, gen mühendisliğiyle genomu değiştirilmiş canlıdır.
+PCR (polimeraz zincir reaksiyonu) ne işe yarar?|DNA'nın belirli bölgesini çoğaltmak|DNA'yı yok etmek|Proteini parçalamak|RNA'yı çoğaltmak|0|PCR ile DNA parçası çok sayıda kopyalanır.
+DNA parmak izi analizi hangi alanda kullanılır?|Suyun arıtılmasında|Adli tıp ve babalık testlerinde|Mineral aramada|Bitki gübrelemede|1|DNA parmak izi bireye özgü dizileri karşılaştırarak kimlik belirlemede kullanılır.
+Jel elektroforezi neyi sağlar?|DNA'yı eşlemeyi|Proteini sentezlemeyi|Hücreyi bölmeyi|DNA parçalarını boyutlarına göre ayırmayı|3|DNA parçaları elektrik alanında jel içinde boyutlarına göre farklı hızlarda ilerler.
+Aynı genetik yapıya sahip canlıların elde edilmesine ne ad verilir?|Klonlama|Çaprazlama|Fermantasyon|Mutasyon|0|Klonlama, genetik olarak özdeş bireylerin oluşturulmasıdır.
+Hangi hücreler çeşitli hücre türlerine dönüşebilme özelliğine sahiptir?|Alyuvarlar|Kök hücreler|Sinir hücreleri|Kas hücreleri|1|Kök hücreler farklılaşabilir ve doku onarımında kullanılabilir.
+Gen tedavisi nedir?|Hatalı gen yerine sağlam gen aktarılması|Antibiyotik kullanımı|Serum verilmesi|Aşı yapımı|0|Gen tedavisinde genetik hastalığı gidermek için sağlam gen hücrelere verilir.
+Ekmek ve yoğurt yapımı hangi biyoteknoloji alanına örnektir?|Klonlama|Gen tedavisi|Gen mühendisliği|Geleneksel biyoteknoloji|3|Fermantasyona dayalı geleneksel biyoteknolojidir.
+Biyoyakıtlar nasıl elde edilir?|Yalnızca petrolden|Bitkisel ve organik atıklardan|Yalnızca kömürden|Yalnızca doğal gazdan|1|Biyoetanol ve biyodizel bitkisel ürün ve atıklardan üretilir.
+İnsan genom projesi neyi amaçlamıştır?|Yeni bitki üretmeyi|Mutasyonları artırmayı|İnsan DNA'sının dizisini belirlemeyi|Klon insan üretmeyi|2|Proje insan genomundaki nükleotit dizisini haritalamıştır.
+DNA'nın çift sarmal yapısını açıklayan bilim insanları kimlerdir?|Darwin ve Wallace|Pasteur ve Koch|Mendel ve Morgan|Watson ve Crick|3|1953 te Watson ve Crick DNA'nın çift sarmal modelini önermiştir.
+Kromatin ile kromozom arasındaki ilişki nedir?|Kromozom RNA dır|Kromozom, kromatinin hücre bölünmesinde yoğunlaşmış hâlidir|Kromatin protein değildir|Kromatin kromozomdan farklı bir moleküldür|1|Kromatin ince iplik; bölünme sırasında kıvrılarak kromozom olur.
+Gen ifadesi (ekspresyonu) ne demektir?|Genin kaybolması|Genin kopyalanması|Genin protein veya RNA ürününe dönüşmesi|Genin mutasyona uğraması|2|Gen ifadesi, genin bilgisinin ürüne (protein) dönüştürülmesidir.
+Proteinin yapı taşı aşağıdakilerden hangisidir?|Glikoz|Yağ asidi|Nükleotit|Amino asit|3|Proteinler amino asitlerin peptit bağlarıyla bağlanmasıyla oluşur.
+Protein sentezinin gerçekleştiği organel hangisidir?|Lizozom|Golgi|Ribozom|Mitokondri|2|Ribozomlar translasyonun yapıldığı organellerdir.
+mRNA üzerindeki AUG kodonuna uyan tRNA antikodonu aşağıdakilerden hangisidir?|AUG|UAC|TAC|ATG|1|Antikodon kodona tamamlayıcıdır: A–U, U–A, G–C → UAC.
+İnsülin hormonu için aşağıdakilerden hangisi doğrudur?|Karbonhidrat hormonudur|Kan şekerini düşüren bir protein hormondur|Kan şekerini yükselten bir hormondur|Yağ hormonudur|1|İnsülin pankreasta üretilen, kan glikozunu düşüren protein yapılı hormondur.
+Antibiyotik üretiminde hangi canlılar kullanılır?|Hayvanlar|Mantarlar ve bazı bakteriler|Virüsler|Bitkiler|1|Penisilin gibi antibiyotikler mantarlardan elde edilir.
+Hücrede genetik bilgi akışı hangi sırayla gerçekleşir?|DNA → protein → RNA|RNA → DNA → protein|Protein → RNA → DNA|DNA → RNA → protein|3|Merkezi dogmaya göre bilgi DNA dan RNA ya, RNA dan proteine akar.
+DNA replikasyonu hücre döngüsünün hangi evresinde gerçekleşir?|Anafazda|İnterfazın S evresinde|Mitoz profazında|Telofazda|1|DNA bölünmeden önce interfazın S evresinde eşlenir.
+Transkripsiyonla oluşan mRNA hücrede nereye taşınır?|Sitoplazmadaki ribozomlara|Mitokondriye|Lizozoma|Hücre dışına|0|mRNA çekirdek zarındaki gözeneklerden geçerek ribozomlara ulaşır.
+Böceklere dirençli Bt mısırı hangi uygulamaya örnektir?|Transgenik bitki üretimi|Aşı üretimi|Gen tedavisi|Klonlama|0|Bt mısırına bakteriden alınan bir gen aktarılmıştır; transgenik bitkidir.
+DNA ligaz enziminin görevi aşağıdakilerden hangisidir?|RNA sentezlemek|DNA zincirlerini ayırmak|DNA parçalarını birbirine bağlamak|DNA'yı kesmek|2|DNA ligaz kesilmiş DNA parçalarını birleştirir; gen aktarımında kullanılır.

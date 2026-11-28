@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+Kalıtımın temel birimi olan, DNA üzerinde bir özelliği belirleyen bölgeye ne ad verilir?|Nükleotit|Kromozom|Gen|Protein|2|Gen, belirli bir özelliğin kalıtımından sorumlu DNA parçasıdır.
+Bir genin farklı biçimlerine ne ad verilir?|Alel|Lokus|Plazmit|Kromatit|0|Aynı lokusta bulunan gen çeşitlerine alel denir.
+Aa × Aa çaprazlamasından doğan bireylerde fenotip oranı nedir? (A tam baskın)|Hepsi baskın|3 baskın : 1 çekinik|1 : 1|1 : 2 : 1|1|AA, Aa, Aa, aa → 3 baskın : 1 çekinik.
+Aynı alelleri taşıyan (AA veya aa) bireye ne ad verilir?|Heterozigot|Homozigot|Hibrit|Taşıyıcı|1|AA veya aa genotipli birey homozigottur.
+Aa × aa çaprazlamasında yavruların genotip oranı nedir?|3 Aa : 1 aa|Hepsi aa|Hepsi Aa|1 Aa : 1 aa|3|Aa bireyi A ve a, aa bireyi yalnızca a gameti verir; yavrular Aa ve aa olur ve oranları 1 : 1 dir.
+Aa × Aa çaprazlamasında genotip oranı nedir?|1 AA : 2 Aa : 1 aa|1 : 1|2 : 1 : 1|3 : 1|0|Punnett karesinde AA, Aa, Aa, aa elde edilir.
+Dominant (baskın) alel için aşağıdakilerden hangisi doğrudur?|Her zaman zararlıdır|Hiç görünmez|Heterozigot durumda da fenotipte kendini gösterir|Yalnızca homozigotta görünür|2|Baskın alel, çekinik alelin yanında bile etkisini gösterir.
+Çekinik (resesif) bir özelliğin fenotipte görülmesi için genotip nasıl olmalıdır?|Homozigot çekinik (aa)|Homozigot baskın (AA)|Heterozigot (Aa)|Herhangi biri|0|Çekinik alel yalnızca iki kopya olduğunda fenotipte ortaya çıkar.
+Baskın fenotipli bir bireyin genotipini (AA mı Aa mı) belirlemek için yapılan çaprazlamaya ne ad verilir?|Karşılıklı çaprazlama|Geri çaprazlama|Test çaprazlaması|Kendileme|2|Birey homozigot çekinik (aa) ile çaprazlanır.
+ABO kan grubunu belirleyen alel sayısı kaçtır?|4|3 (Iᴬ, Iᴮ, i)|1|2|1|ABO sistemi üç alelle (Iᴬ, Iᴮ ve i) belirlenir.
+AB kan grubunun oluşumu hangi kalıtım şekline örnektir?|Tam baskınlık|Eksik baskınlık|Cinsiyete bağlı kalıtım|Ortak baskınlık (kodominans)|3|Iᴬ ve Iᴮ alelleri birlikte etkisini gösterir.
+Anne genotipi Iᴬi, baba genotipi Iᴮi ise çocuklarının O kan grubu (ii) olma olasılığı kaçtır?|0|1/4|1/3|1/2|1|Gametler Iᴬ, i ve Iᴮ, i: ii oluşma olasılığı 1/2·1/2 = 1/4.
+Eksik baskınlıkta heterozigot bireyin fenotipi nasıl olur?|Ebeveynlerin ara fenotipi|Çekinik ebeveyn gibi|Tamamen yeni bir özellik|Baskın ebeveyn gibi|0|Eksik baskınlıkta melez bireyde ara fenotip görülür (kırmızı × beyaz → pembe).
+Kırmızı (RR) ve beyaz (rr) çiçekli bitkiler eksik baskınlıkla çaprazlanırsa F₁ döl hangi renk olur?|Beyaz|Kırmızı|Pembe|Mor|2|Tüm F₁ bireyler Rr dir ve eksik baskınlıkta pembedir.
+Eksik baskınlıkta Rr × Rr çaprazlamasında fenotip oranı nedir?|1 kırmızı : 2 pembe : 1 beyaz|1 : 1|Hepsi pembe|3 : 1|0|Genotip ve fenotip oranları aynıdır: 1 : 2 : 1.
+İnsanda cinsiyeti belirleyen kromozomlar hangileridir?|M ve N|21 ve 22|A ve B|X ve Y|3|Kadınlarda XX, erkeklerde XY bulunur.
+Cinsiyete bağlı kalıtım için aşağıdakilerden hangisi doğrudur?|Genler cinsiyet kromozomları (özellikle X) üzerinde taşınır|Genler ribozomda taşınır|Genler yalnızca otozomlarda taşınır|Genler mitokondride taşınır|0|Bazı özelliklerin genleri X kromozomu üzerinde bulunur.
+Renk körlüğü geni X kromozomu üzerinde çekinik olarak taşınır. Renk körü bir erkeğin genotipi nasıl gösterilir?|XCY|XᶜY|XCXc|XᶜXᶜ|1|Erkekte tek X olduğundan çekinik allel görüldüğünde XᶜY genotipli birey renk körüdür.
+İnsan vücut hücrelerindeki kromozom sayısı kaçtır?|48|23|44|46|3|İnsan vücut hücreleri 46 (2n) kromozom içerir.
+İnsan gametlerindeki (sperm, yumurta) kromozom sayısı kaçtır?|46|22|23|92|2|Mayoz sonucu gametler n = 23 kromozom taşır.
+AaBb × AaBb çaprazlamasında fenotip oranı nedir? (Bağımsız dağılım, tam baskınlık)|3 : 1|1 : 1 : 1 : 1|9 : 3 : 3 : 1|1 : 2 : 1|2|İki özelliğin birlikte kalıtımında F₂ de fenotip oranı 9 : 3 : 3 : 1 dir.
+Mendel'in bağımsız dağılım yasası neyi ifade eder?|Genlerin mutasyona uğraması|Farklı özellikleri belirleyen genlerin gametlere bağımsız dağılması|Kromozomların çiftlenmesi|Alellerin birleşmesi|1|Farklı kromozomlardaki genler gametlere birbirinden bağımsız dağılır.
+AaBb genotipli bir bireyin oluşturabileceği farklı gamet sayısı kaçtır?|16|4|8|2|1|AB, Ab, aB, ab olmak üzere 4 farklı gamet oluşur.
+AaBb × aabb çaprazlamasında yavrularda genotip oranı nedir?|1 : 1 : 1 : 1|9 : 3 : 3 : 1|3 : 1|1 : 2 : 1|0|AaBb dört tür gamet verir, aabb tek tür (ab) verir; yavrular AaBb, Aabb, aaBb, aabb 1 : 1 : 1 : 1.
+DNA'daki kalıcı ve kalıtsal değişimlere ne ad verilir?|Translasyon|Transkripsiyon|Mutasyon|Replikasyon|2|DNA dizisindeki kalıtsal değişmeler mutasyondur.
+Down sendromu hangi kromozom anormalliğinden kaynaklanır?|21. kromozomun monozomisi|Y kromozomunun fazlalığı|X kromozomunun eksikliği|21. kromozomun trizomisi|3|Down sendromlu bireylerde 21. kromozom üç kopyadır.
+Bir ailedeki bireylerin kalıtsal özelliklerini göstermek için çizilen şemaya ne ad verilir?|Karyotip|Soyağacı (pedigri)|Besin ağı|Punnett karesi|1|Soyağacında bireylerin akrabalıkları ve fenotipleri gösterilir.
+Soyağacında kare şekli kimi temsil eder?|Taşıyıcı|Kadın|Ölü birey|Erkek|3|Soyağacında erkekler kare, kadınlar daire ile gösterilir.
+Otozomal çekinik bir hastalık için taşıyıcı (Aa) anne ve babanın hasta (aa) çocuk sahibi olma olasılığı kaçtır?|1/2|3/4|0|1/4|3|Aa × Aa → aa olasılığı 1/4 tür.
+Kalıtsal bilgiyi taşıyan molekül aşağıdakilerden hangisidir?|Yağ|Glikoz|ATP|DNA|3|Genetik bilgi DNA da depolanır.
+Bir canlının gözlenebilen özelliklerine ne ad verilir?|Fenotip|Gen havuzu|Genotip|Alel|0|Fenotip, genotip ve çevre etkileşiminin ortaya çıkardığı görünür özelliktir.
+Hemofili (kanın pıhtılaşmaması) hastalığı hangi kalıtım türüne örnektir?|Otozomal baskın kalıtım|X'e bağlı çekinik kalıtım|Mitokondriyal kalıtım|Y'ye bağlı kalıtım|1|Hemofili geni X kromozomunda çekinik olarak taşınır.
+F₁ ve F₂ nesilleri çaprazlamada neyi ifade eder?|Her ikisi de ebeveyn|Her ikisi de aynı nesil|F₁ ebeveyn, F₂ çocuk|F₁ ilk yavru nesil, F₂ onların çaprazlanmasından oluşan nesil|3|F₁ birinci filial (yavru) nesil, F₂ ikinci filial nesildir.
+Gregor Mendel hangi bitki üzerinde kalıtım çalışmaları yapmıştır?|Mısır|Buğday|Gül|Bezelye|3|Mendel bezelye çaprazlamalarıyla kalıtım yasalarını bulmuştur.
+Üç alel (Iᴬ, Iᴮ, i) ile belirlenen ABO sisteminde kaç farklı genotip ve fenotip bulunur?|6 genotip, 6 fenotip|4 genotip, 6 fenotip|6 genotip, 4 fenotip|3 genotip, 3 fenotip|2|Genotipler IᴬIᴬ, Iᴬi, IᴮIᴮ, Iᴮi, IᴬIᴮ, ii (6); fenotipler A, B, AB, O (4).
+O kan grubunun genotipi aşağıdakilerden hangisidir?|IᴬIᴮ|Iᴮi|ii|Iᴬi|2|O kan grubu yalnızca iki çekinik alel (ii) taşıyan bireylerde görülür.
+Rh faktörü ile ilgili aşağıdakilerden hangisi doğrudur?|Cinsiyete bağlıdır|Rh⁻ baskındır|İkisi de eşit baskındır|Rh⁺ baskın, Rh⁻ çekiniktir|3|Rh⁺ özellik baskın allelle belirlenir.
+Rh⁻ anne Rh⁺ bebek taşıyorsa ikinci gebelikte hangi risk oluşabilir?|Bebeğin kan grubunun değişmesi|Annenin bebeğe karşı antikor üretmesi|Hiçbir risk yoktur|Annenin Rh⁺ olması|1|Anne Rh⁺ kana karşı antikor geliştirir; sonraki gebelikte bebeğin alyuvarlarına zarar verebilir.
+Orak hücreli anemi hangi tür değişimin sonucudur?|Kromozom kazanımı|Gen (nokta) mutasyonu|Mitokondri hastalığı|Kromozom kaybı|1|Hemoglobin geninde tek baz değişimiyle orak hücre oluşur.
+Sağlam bir gen kopyasının hastalıklı bir hücreye aktarılmasıyla tedavi yöntemine ne ad verilir?|Gen tedavisi|Aşılama|Serum|Antibiyotik|0|Gen tedavisinde kusurlu gen yerine sağlam gen verilir.
+Aa genotipli bireylerin kendileştirilmesinden (Aa × Aa) elde edilen baskın fenotipli yavrular arasında homozigot baskın (AA) oranı kaçtır?|1/2|1/4|1/3|2/3|2|Baskın fenotipli yavrular AA, Aa, Aa olduğundan homozigot oranı 1/3 tür.
+Eşey hücreleri (gametler) hangi bölünme sonucunda oluşur?|İkiye bölünme|Mayoz|Amitoz|Mitoz|1|Gametler mayozla oluşur ve kromozom sayısı yarıya iner.
+Mayoz ile mitoz arasındaki temel fark aşağıdakilerden hangisidir?|Mayoz yalnızca bitkilerde olur|İkisi de aynıdır|Mitozda kromozom sayısı yarıya iner|Mayozda kromozom sayısı yarıya iner|3|Mayoz sonucunda n kromozomlu 4 hücre, mitoz sonucunda 2n kromozomlu 2 hücre oluşur.
+Genotipi AaBb olan bir bireyin kendisiyle çaprazlanmasından aabb genotipli yavru olma olasılığı kaçtır?|1/8|1/16|1/4|1/2|1|aa olasılığı 1/4 ve bb olasılığı 1/4 → 1/4·1/4 = 1/16.
+Mendel'in ayrılma (segregasyon) ilkesi neyi ifade eder?|DNA'nın eşlenmesi|Kromozomların kaybolması|Genlerin birleşmesi|Gen çiftindeki alellerin gamet oluşumunda birbirinden ayrılması|3|Her birey bir özellik için iki alel taşır ve gametlere bunlardan biri geçer.
+Çevre ve genlerin birlikte etkilediği özelliğe örnek aşağıdakilerden hangisidir?|Kan grubu|Renk körlüğü|Rh faktörü|Boy uzunluğu|3|Boy gibi özellikler hem genler hem beslenme gibi çevre etmenlerine bağlıdır.
+Cinsiyet kromozomları bakımından kız çocuk için aşağıdakilerden hangisi doğrudur?|X|XY|XX|YY|2|Dişi bireyler XX kromozomuna sahiptir.
+Bir anneden ve babadan kız çocuğa geçen cinsiyet kromozomu bakımından aşağıdakilerden hangisi doğrudur?|İkisinin de Y|Annenin X ve babanın X kromozomu|Annenin X ve babanın Y|Annenin Y ve babanın X|1|Kız çocuk XX olduğundan annesinden bir X, babasından bir X alır.
+Genotipi Aa olan bir birey için aşağıdakilerden hangisi doğrudur?|Homozigot baskındır|Homozigot çekiniktir|Heterozigottur|Saf döldür|2|Farklı iki alel taşıyan (Aa) birey heterozigot (melez) dir.
+Kan grubu A olan bir kişinin genotipi aşağıdakilerden hangisi olabilir?|IᴬIᴬ veya Iᴬi|Yalnızca IᴬIᴮ|IᴮIᴮ|ii|0|A kan grubu IᴬIᴬ (homozigot) veya Iᴬi (heterozigot) genotipleriyle görülür.

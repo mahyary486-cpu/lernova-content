@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+lim(x→2) (3x + 1) değeri kaçtır?|7|5|8|6|0|Polinom fonksiyonlarda limit, değer yerine konularak bulunur: 3·2 + 1 = 7.
+lim(x→3) (x² − 2x) değeri kaçtır?|9|6|3|0|2|3² − 2·3 = 9 − 6 = 3.
+lim(x→1) (x² − 1)/(x − 1) değeri kaçtır?|0|2|Limit yoktur|1|1|x² − 1 = (x − 1)(x + 1) olduğundan ifade x + 1 e sadeleşir ve limit 2 dir.
+lim(x→0) (x² + 5) değeri kaçtır?|5|1|25|0|0|x yerine 0 yazılır: 5.
+lim(x→2) (x² − 4)/(x − 2) değeri kaçtır?|2|4|0|8|1|(x − 2)(x + 2)/(x − 2) = x + 2 ve limit 4.
+lim(x→3) (x² − 9)/(x² − 5x + 6) değeri kaçtır?|3|1|6|0|2|(x − 3)(x + 3)/((x − 3)(x − 2)) = (x + 3)/(x − 2) ve x = 3 için 6/1 = 6.
+Bir fonksiyonun x = a noktasında limitinin olması için aşağıdakilerden hangisi gerekir?|Fonksiyonun artan olması|Fonksiyonun a da tanımlı olması|Sağdan ve soldan limitlerin eşit olması|Fonksiyonun a da sıfır olması|2|Limitin varlığı için sağdan ve soldan limitler birbirine eşit gerçek sayı olmalıdır.
+f(x) = x + 1 (x < 2), f(x) = 5 − x (x ≥ 2) ise lim(x→2) f(x) kaçtır?|3|2|4|Limit yoktur|0|Soldan limit 2 + 1 = 3, sağdan limit 5 − 2 = 3 olduğundan limit 3 tür.
+f(x) = 2x + 1 (x < 1), f(x) = x² + k (x ≥ 1) fonksiyonunun x = 1 de limitinin olması için k kaç olmalıdır?|2|3|1|0|0|Soldan limit 3, sağdan limit 1 + k; 3 = 1 + k → k = 2.
+lim(x→∞) 1/x değeri kaçtır?|0|∞|Limit yoktur|1|0|x sonsuza giderken 1/x sıfıra yaklaşır.
+lim(x→∞) (3x + 1)/(x − 2) değeri kaçtır?|3|0|1|∞|0|Pay ve payda aynı dereceden olduğundan limit baş katsayıların oranıdır: 3/1 = 3.
+lim(x→∞) (x² + 1)/(x³ + 2) değeri kaçtır?|0|1|∞|1/2|0|Payın derecesi paydadan küçük olduğundan limit 0 dır.
+f(x) = 1/x fonksiyonunun yatay asimptotu aşağıdakilerden hangisidir?|y = 0|x = 1|y = 1|x = 0|0|x → ±∞ için f(x) → 0 olduğundan yatay asimptot y = 0 dır.
+f(x) = 1/(x − 2) fonksiyonunun düşey asimptotu aşağıdakilerden hangisidir?|x = 2|x = −2|y = 2|y = 0|0|Payda sıfır olan x = 2 de fonksiyon sınırsız büyür; düşey asimptot x = 2 dir.
+f(x) = (2x + 1)/(x − 3) fonksiyonunun asimptotları aşağıdakilerden hangisidir?|Yatay y = 2, düşey x = 3|Yatay y = 1, düşey x = 3|Yatay y = 3, düşey x = 2|Yatay y = 2, düşey x = −3|0|Yatay asimptot baş katsayılar oranı 2/1 = 2; düşey asimptot paydayı sıfır yapan x = 3.
+f fonksiyonunun x = a noktasında sürekli olması için aşağıdakilerden hangisi gerekir?|f nin artan olması|lim(x→a) f(x) = f(a)|f nin a da türevli olması|f(a) = 0|1|Süreklilik, a noktasındaki limit değerinin fonksiyon değerine eşit olmasıdır.
+f(x) = x² + 1 fonksiyonu için aşağıdakilerden hangisi doğrudur?|Yalnızca pozitif sayılarda süreklidir|Hiçbir noktada sürekli değildir|Her noktada süreklidir|x = 0 da süreksizdir|2|Polinom fonksiyonlar tüm gerçek sayılarda süreklidir.
+f(x) = (x² − 1)/(x − 1) (x ≠ 1), f(1) = k fonksiyonunun x = 1 de sürekli olması için k kaç olmalıdır?|1|2|0|3|1|Limit x + 1 → 2 olduğundan süreklilik için f(1) = 2 olmalıdır.
+f(x) = 1/x fonksiyonu x = 0 noktasında için aşağıdakilerden hangisi doğrudur?|Tanımsızdır, sürekli değildir|f(0) = 1 dir|Limiti 0 dır|Süreklidir|0|x = 0 da fonksiyon tanımlı olmadığından sürekli değildir.
+lim(x→0) (x² + 3x)/x değeri kaçtır?|1|3|∞|0|1|x(x + 3)/x = x + 3 ve limit 3 tür.
+lim(x→4) (x − 4)/(√x − 2) değeri kaçtır?|2|1/4|0|4|3|x − 4 = (√x − 2)(√x + 2) olduğundan ifade √x + 2 ye sadeleşir; limit 2 + 2 = 4.
+lim(x→1) (2x² − x) değeri kaçtır?|1|3|0|2|0|2·1 − 1 = 1.
+lim(x→−1) (x² − 1)/(x + 1) değeri kaçtır?|0|−2|1|2|1|(x − 1)(x + 1)/(x + 1) = x − 1 ve limit −2 dir.
+lim(x→2) (x² − 3x + 2)/(x² − 4) değeri kaçtır?|1|0|1/2|1/4|3|(x − 1)(x − 2)/((x − 2)(x + 2)) = (x − 1)/(x + 2) ve x = 2 için 1/4.
+lim(x→5) 7 değeri kaçtır?|12|7|5|0|1|Sabit fonksiyonun limiti sabitin kendisidir.
+lim(x→∞) (5x² − 1)/(2x² + 3) değeri kaçtır?|0|5|5/2|2|2|Aynı dereceli: baş katsayılar oranı 5/2 dir.
+lim(x→∞) (3x² + x)/(x + 1) değeri aşağıdakilerden hangisidir?|3|1|0|+∞|3|Payın derecesi paydadan büyük olduğundan limit +∞ dur.
+x → 2⁻ gösterimi ne anlama gelir?|x in 2 ye sağdan yaklaşması|x in 2 ye soldan yaklaşması|x in 2 den uzaklaşması|x in −2 ye yaklaşması|1|Üstteki eksi işareti soldan yaklaşımı, artı işareti sağdan yaklaşımı gösterir.
+f(x) = ∣x∣/x fonksiyonu için x = 0 noktasında aşağıdakilerden hangisi doğrudur?|Sağdan limit 1, soldan limit −1 olduğundan limit yoktur|Limit 1 dir|Limit −1 dir|Limit 0 dır|0|x > 0 için f = 1, x < 0 için f = −1 olduğundan iki taraflı limit yoktur.
+f(x) = x + 2 (x ≤ 1), f(x) = ax + 1 (x > 1) fonksiyonunun x = 1 de sürekli olması için a kaçtır?|3|2|1|0|1|f(1) = 3 ve sağdan limit a + 1 olduğundan a + 1 = 3 → a = 2.
+Sabit fonksiyonlar için aşağıdakilerden hangisi doğrudur?|Süreksizdir|Her noktada süreklidir|Hiçbir noktada sürekli değildir|Yalnızca sıfırda süreklidir|1|Sabit fonksiyonun grafiği yatay doğrudur; kesintisizdir.
+Rasyonel fonksiyonlar için aşağıdakilerden hangisi doğrudur?|Yalnızca payda sıfırken süreklidir|Hiçbir noktada sürekli değildir|Tanımlı oldukları her noktada süreklidir|Her noktada süreklidir|2|Rasyonel fonksiyonlar tanım kümelerinin her noktasında süreklidir.
+f(x) = (x² − 4)/(x − 2) fonksiyonu için x = 2 noktasında aşağıdakilerden hangisi doğrudur?|Limiti 0 dır ve süreklidir|Limiti 4 tür, fakat f(2) tanımsız olduğundan sürekli değildir|Limiti yoktur|Limiti 4 tür ve süreklidir|1|Fonksiyon x + 2 ye sadeleşir ve limit 4 tür; ancak f(2) tanımsızdır.
+lim(x→3) (x + 4) değeri kaçtır?|12|7|3|4|1|3 + 4 = 7.
+lim(x→1) (x³ − 1)/(x − 1) değeri kaçtır?|3|2|0|1|0|x³ − 1 = (x − 1)(x² + x + 1) olduğundan ifade x² + x + 1 e sadeleşir; x = 1 için 3.
+lim(x→−2) (x² + x − 2)/(x + 2) değeri kaçtır?|−1|−3|3|0|1|x² + x − 2 = (x + 2)(x − 1) olduğundan ifade x − 1 e sadeleşir; x = −2 için −3.
+Payda sıfır olduğunda bir rasyonel ifadenin değeri hakkında aşağıdakilerden hangisi doğrudur?|Tanımsızdır|0 dır|Sonsuza eşittir|1 dir|0|Sıfıra bölme tanımsızdır.
+Limitte 0/0 durumu için aşağıdakilerden hangisi doğrudur?|Limit 1 dir|Limit yoktur|Limit 0 dır|Belirsizliktir; çarpanlara ayırarak giderilebilir|3|0/0 belirsiz biçimdir; sadeleştirme yapılarak limit bulunur.
+lim(x→2) (x³ − 8)/(x² − 4) değeri kaçtır?|4|12|3|2|2|(x − 2)(x² + 2x + 4)/((x − 2)(x + 2)) = (x² + 2x + 4)/(x + 2) ve x = 2 için 12/4 = 3.
+f(x) = 2x + 1 fonksiyonu için aşağıdakilerden hangisi doğrudur?|Hiç sürekli değildir|Süreksiz noktası vardır|Her noktada süreklidir|Yalnızca x > 0 da süreklidir|2|Doğrusal fonksiyon bir polinomdur; her noktada süreklidir.
+lim(x→0) (√(x + 9) − 3)/x değeri kaçtır?|1/3|1/9|1/6|0|2|Eşlenikle çarpılırsa ifade 1/(√(x + 9) + 3) olur ve limit 1/6 dır.
+lim(x→∞) (4x³ − x)/(2x³ + 5) değeri kaçtır?|1/2|∞|2|4|2|Aynı dereceli: 4/2 = 2.
+lim(x→∞) 1/x² değeri kaçtır?|1|−∞|∞|0|3|x sonsuza giderken x² sınırsız büyür; 1/x² sıfıra yaklaşır.
+f(x) = 1/(x² − 1) fonksiyonunun düşey asimptotları aşağıdakilerden hangisidir?|y = 0|Yalnızca x = −1|Yalnızca x = 1|x = 1 ve x = −1|3|Payda x² − 1 = 0 için x = ±1 de sıfırdır; her ikisi de düşey asimptottur.
+f(x) = (x² − 1)/(x² − 4) fonksiyonunun yatay asimptotu aşağıdakilerden hangisidir?|y = −1|y = 1|y = 0|y = 4|1|Aynı dereceli: baş katsayılar oranı 1/1 = 1 olduğundan y = 1.
+f(x) = x² fonksiyonunun x = 3 noktasındaki limiti ve değeri aşağıdakilerden hangisidir?|Limit 6, değer 9|Limit 9, değer 6|İkisi de 9 dur|İkisi de 3 tür|2|Polinom olduğundan limit = değer = 3² = 9.
+f(x) = x + 1 (x < 0), f(0) = 1, f(x) = x² + 1 (x > 0) fonksiyonu için x = 0 noktasında aşağıdakilerden hangisi doğrudur?|Süreklidir|Sağdan limit ile soldan limit farklıdır|Limit yoktur|Süreksizdir|0|Soldan limit 1, sağdan limit 1 ve f(0) = 1 olduğundan fonksiyon sürekli.
+f(x) = x² + ax (x < 1), f(x) = 3 (x ≥ 1) fonksiyonunun x = 1 de sürekli olması için a kaçtır?|3|2|0|1|1|Soldan limit 1 + a; f(1) = 3 olduğundan 1 + a = 3 → a = 2.
+Bir fonksiyonun x = a noktasında sürekli olması için limit ile fonksiyon değeri arasında hangi ilişki olmalıdır?|Biri sıfır olmalıdır|Birbirine eşit olmalıdır|Limit büyük olmalıdır|Farklı olmalıdır|1|Süreklilik koşulu lim(x→a) f(x) = f(a) dır.
+lim(x→1) (x² + x − 2)/(x − 1) değeri kaçtır?|3|2|0|1|0|x² + x − 2 = (x + 2)(x − 1) olduğundan ifade x + 2 ye sadeleşir; x = 1 için 3.

@@ -1,0 +1,4 @@
+{
+  "Aritmetik diziler": "Dizi, tanım kümesi pozitif tam sayılar olan bir fonksiyondur. Ardışık terimleri arasındaki fark sabit olan diziye aritmetik dizi denir; genel terim aₙ = a₁ + (n − 1)d, ilk n terim toplamı Sₙ = n(a₁ + aₙ)/2 dir. Üç ardışık terimde orta terim komşularının aritmetik ortalamasıdır.",
+  "Geometrik diziler ve toplamlar": "Ardışık terimlerin oranı sabit olan diziye geometrik dizi denir; genel terim aₙ = a₁·rⁿ⁻¹, ilk n terim toplamı Sₙ = a₁(rⁿ − 1)/(r − 1) dir. Pozitif ardışık üç terimde orta terim geometrik ortalamadır. ∣r∣ < 1 olan sonsuz geometrik serinin toplamı a₁/(1 − r) dir."
+}

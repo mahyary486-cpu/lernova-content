@@ -1,0 +1,4 @@
+{
+  "Limit": "x, a ya yaklaşırken f(x) in yaklaştığı değere limit denir; limitin varlığı için sağdan ve soldan limitler eşit olmalıdır. Polinomlarda değer yerine konur, 0/0 belirsizliği çarpanlara ayırma veya eşlenikle giderilir. Sonsuzda rasyonel fonksiyonun limiti derecelere bakılarak bulunur.",
+  "Süreklilik ve asimptotlar": "Bir fonksiyon a noktasında sürekli olması için f(a) tanımlı, limit var ve lim(x→a) f(x) = f(a) olmalıdır. Polinomlar her yerde, rasyonel fonksiyonlar tanım kümelerinde süreklidir. Paydayı sıfır yapan noktalarda düşey, sonsuzdaki limitten yatay asimptot bulunur."
+}

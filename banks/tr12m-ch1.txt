@@ -1,0 +1,51 @@
+#EMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEMHEM
+aₙ = 2n + 1 dizisinin ilk terimi kaçtır?|2|5|3|1|2|a₁ = 2·1 + 1 = 3.
+aₙ = 3n − 2 dizisinin 10. terimi kaçtır?|32|30|28|26|2|a₁₀ = 3·10 − 2 = 28.
+aₙ = n² − 5n + 4 dizisinin kaç terimi negatiftir?|3|2|4|1|1|n² − 5n + 4 = (n − 1)(n − 4) < 0 için 1 < n < 4 olmalıdır; n = 2 ve n = 3 olmak üzere 2 terim negatiftir.
+3, 7, 11, … aritmetik dizisinin ortak farkı kaçtır?|7|3|5|4|3|d = 7 − 3 = 4.
+a₁ = 5 ve d = 3 olan aritmetik dizinin 8. terimi kaçtır?|26|21|29|24|0|a₈ = a₁ + 7d = 5 + 21 = 26.
+Bir aritmetik dizide a₃ = 11 ve a₇ = 23 ise a₁ kaçtır?|3|2|5|8|2|4d = 23 − 11 = 12 → d = 3; a₁ = a₃ − 2d = 11 − 6 = 5.
+2, 5, 8, … aritmetik dizisinin 5. terimi kaçtır?|14|11|17|13|0|d = 3; a₅ = 2 + 4·3 = 14.
+a₁ = 4 ve d = 2 olan aritmetik dizinin ilk 10 teriminin toplamı kaçtır?|110|130|140|120|1|a₁₀ = 4 + 18 = 22 ve S₁₀ = 10·(4 + 22)/2 = 130.
+5 ile 29 arasına 5 terim yerleştirilerek aritmetik dizi oluşturuluyor. Dizinin ortadaki (dördüncü) terimi kaçtır?|21|15|19|17|3|Toplam 7 terim vardır; 29 = 5 + 6d → d = 4; ortadaki terim a₄ = 5 + 3·4 = 17.
+2, 6, 18, … geometrik dizisinin ortak oranı kaçtır?|4|6|2|3|3|r = 6/2 = 3.
+a₁ = 3 ve r = 2 olan geometrik dizinin 5. terimi kaçtır?|96|24|30|48|3|a₅ = a₁·r⁴ = 3·16 = 48.
+Bir geometrik dizide a₂ = 6 ve a₅ = 162 ise a₁ kaçtır?|3|6|2|1|2|a₅/a₂ = r³ = 27 → r = 3; a₁ = a₂/r = 2.
+1, 2, 4, 8, … geometrik dizisinin 6. terimi kaçtır?|24|32|16|64|1|a₆ = 1·2⁵ = 32.
+a₁ = 1 ve r = 2 olan geometrik dizinin ilk 4 teriminin toplamı kaçtır?|8|16|14|15|3|Terimler 1, 2, 4, 8 olduğundan toplam 15 tir.
+aₙ = 3·2ⁿ⁻¹ dizisinin ilk 5 teriminin toplamı kaçtır?|90|93|63|96|1|a₁ = 3, r = 2: S₅ = 3(2⁵ − 1)/(2 − 1) = 93.
+5, 5, 5, … dizisi için aşağıdakilerden hangisi doğrudur?|Yalnızca aritmetik dizidir|Yalnızca geometrik dizidir|Hem aritmetik hem geometrik dizidir|Ne aritmetik ne geometriktir|2|Ortak fark 0 ve ortak oran 1 olduğundan dizi her iki türdendir.
+a₁ = −3 ve d = 2 olan aritmetik dizinin kaçıncı terimi 15 tir?|9|11|10|12|2|−3 + (n − 1)·2 = 15 → n − 1 = 9 → n = 10.
+x − 1, 2x + 1, 4x − 1 sayıları bu sırayla aritmetik dizi oluşturuyorsa x kaçtır?|3|2|5|4|3|Orta terim komşu terimlerin aritmetik ortalamasıdır: 2(2x + 1) = (x − 1) + (4x − 1) → x = 4.
+aₙ = (−1)ⁿ dizisinin 3. terimi kaçtır?|3|−1|1|−3|1|a₃ = (−1)³ = −1.
+Pozitif terimli bir geometrik dizide 4, x, 16 ardışık terimlerse x kaçtır?|8|10|6|12|0|Orta terim geometrik ortalamadır: x² = 4·16 = 64 → x = 8.
+3, x, y, 24 sayıları geometrik dizinin ardışık dört terimi ise x + y kaçtır?|12|18|21|15|1|24 = 3·r³ → r = 2; x = 6, y = 12; x + y = 18.
+Aritmetik dizinin genel terimi aşağıdakilerden hangisidir?|aₙ = a₁·rⁿ⁻¹|aₙ = a₁ + n·d|aₙ = a₁ + (n − 1)d|aₙ = n·a₁|2|Aritmetik dizide her adımda ortak fark eklenir; n. terim a₁ + (n − 1)d dir.
+1 + 2 + 3 + … + 20 toplamı kaçtır?|200|190|210|420|2|S = n(n + 1)/2 = 20·21/2 = 210.
+Bir dizinin ilk n teriminin toplamı Sₙ = n² + 2n ise a₁₀ kaçtır?|21|120|22|20|0|a₁₀ = S₁₀ − S₉ = 120 − 99 = 21.
+Her terimi bir öncekinden büyük olan diziye ne ad verilir?|Monoton artan dizi|Monoton azalan dizi|Sabit dizi|Geometrik dizi|0|aₙ₊₁ > aₙ ise dizi monoton artandır.
+aₙ = 5 − 2n dizisi için aşağıdakilerden hangisi doğrudur?|Monoton artandır|Monoton azalandır|Sabittir|Salınımlıdır|1|aₙ₊₁ − aₙ = −2 < 0 olduğundan dizi azalandır.
+aₙ = (n + 1)/n dizisi için aşağıdakilerden hangisi doğrudur?|Monoton artandır|Sabittir|Alternatif işaretlidir|Monoton azalandır|3|Terimler 2, 3/2, 4/3, … biçiminde küçülür; dizi azalandır.
+Dizi için aşağıdakilerden hangisi doğrudur?|Tanım kümesi pozitif tam sayılar olan bir fonksiyondur|Fonksiyon değildir|Yalnızca artan olabilir|Tanım kümesi gerçek sayılar olan bir fonksiyondur|0|Dizi, ℕ⁺ dan ℝ ye tanımlı fonksiyondur.
+aₙ = n/(n + 1) dizisinin ilk terimi kaçtır?|1|1/2|1/3|2|1|a₁ = 1/(1 + 1) = 1/2.
+Bir aritmetik dizinin ilk 6 teriminin toplamı 42, ilk 3 teriminin toplamı 12 ise a₁₀ kaçtır?|18|22|20|24|2|S₃ = 3(2a₁ + 2d)/2 = 12 → a₁ + d = 4; S₆ = 3(2a₁ + 5d) = 42 → 2a₁ + 5d = 14. Çözümle a₁ = 2, d = 2 ve a₁₀ = 2 + 18 = 20.
+aₙ = n² dizisinin 4. terimi kaçtır?|16|12|8|4|0|a₄ = 4² = 16.
+−2, −6, −18, … dizisinin ortak oranı kaçtır?|3|−4|4|−3|0|r = (−6)/(−2) = 3.
+Bir geometrik dizide a₁ + a₂ = 6 ve a₂ + a₃ = 12 ise ilk üç terimin toplamı kaçtır?|14|16|12|18|0|(a₂ + a₃)/(a₁ + a₂) = r = 2; a₁ + 2a₁ = 6 → a₁ = 2; terimler 2, 4, 8 ve toplam 14.
+4 ile 10 sayılarının aritmetik ortalaması kaçtır?|14|8|6|7|3|(4 + 10)/2 = 7.
+1 + 1/2 + 1/4 + 1/8 + … sonsuz toplamı kaçtır?|Sonsuz|3|2|1|2|Sonsuz geometrik serinin toplamı a₁/(1 − r) = 1/(1 − 1/2) = 2 dir.
+a₁ = 6 ve r = 1/3 olan sonsuz geometrik serinin toplamı kaçtır?|6|9|3|18|1|S = a₁/(1 − r) = 6/(2/3) = 9.
+Ortak farkı negatif olan aritmetik dizi için aşağıdakilerden hangisi doğrudur?|Sabittir|Monoton artandır|Geometriktir|Monoton azalandır|3|d < 0 ise her terim bir öncekinden küçüktür.
+Bir kişi ilk ay 500 TL biriktiriyor ve her ay bir önceki aydan 100 TL fazla biriktiriyor. 12. ayda biriktireceği tutar kaç TL dir?|1 700|1 200|1 500|1 600|3|a₁₂ = 500 + 11·100 = 1 600.
+80 cm yükseklikten bırakılan bir top her sıçrayışta önceki yüksekliğin yarısı kadar yükseliyor. 3. sıçrayışta kaç cm yükselir?|20|40|10|5|2|Yükseklikler 40, 20, 10 olarak azalır.
+İlk 5 tek doğal sayının toplamı kaçtır?|25|20|30|15|0|1 + 3 + 5 + 7 + 9 = 25 = 5².
+aₙ = 7n − 3 dizisinin ortak farkı kaçtır?|4|7|10|−3|1|aₙ₊₁ − aₙ = 7.
+Bir aritmetik dizide a₄ + a₆ = 20 ise a₅ kaçtır?|5|10|8|20|1|a₅, a₄ ile a₆ nın aritmetik ortalamasıdır: 20/2 = 10.
+aₙ = 2·3ⁿ⁻¹ dizisinin ilk terimi kaçtır?|2|3|6|1|0|a₁ = 2·3⁰ = 2.
+5, 10, 20, … geometrik dizisinin ilk 5 teriminin toplamı kaçtır?|155|80|150|100|0|S₅ = 5(2⁵ − 1)/(2 − 1) = 155.
+Pozitif terimli bir geometrik dizide a₁·a₅ = 81 ise a₃ kaçtır?|3|81|27|9|3|a₁·a₅ = a₃² = 81 olduğundan a₃ = 9.
+10, 7, 4, … aritmetik dizisinin ortak farkı kaçtır?|−7|2|3|−3|3|d = 7 − 10 = −3.
+1 + 3 + 5 + … + (2n − 1) = 100 ise n kaçtır?|10|50|9|20|0|İlk n tek sayının toplamı n² olduğundan n² = 100 ve n = 10.
+Terimleri 2, 4, 6, … olan dizinin ilk 15 teriminin toplamı kaçtır?|225|256|240|120|2|Sₙ = n(n + 1) olduğundan S₁₅ = 15·16 = 240.
+aₙ = 4n dizisinin 2. terimi kaçtır?|8|16|4|6|0|a₂ = 4·2 = 8.
+a₁ = 81 ve r = 1/3 olan geometrik dizinin 5. terimi kaçtır?|27|3|1|9|2|a₅ = 81·(1/3)⁴ = 81/81 = 1.
